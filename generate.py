@@ -97,16 +97,19 @@ def title_row():
         with div(cls="col-md-12 text-center"):
             h1("Roundtable Hold", cls="mt-3")
             text = p(cls="lead d-print-none")
-            text += "Contribute at the "
+            text += "英文版贡献页面: "
             text += a("Github Page",
                       href="https://github.com/RoundtableHold/roundtablehold.github.io")
+            text += "&nbsp;&nbsp;汉化版贡献页面: "
+            text += a("Github Page",
+                      href="https://github.com/soarqin/roundtablehold")
 
 def hide_completed_button():
     with div(id="btnHideCompleted", cls="mb-3 d-print-none"):
         with div(cls="form-check form-switch"):
             input_(cls="form-check-input", type="checkbox",
                    id='toggleHideCompleted')
-            label("Hide Completed", cls="form-check-label",
+            label("隐藏已完成", cls="form-check-label",
                   _for='toggleHideCompleted')
 
 def make_nav(page, is_map = False):
@@ -115,9 +118,9 @@ def make_nav(page, is_map = False):
             # with div(cls='order-sm-last d-none d-sm-block ms-auto'):
             with button(type="button", cls="navbar-toggler", data_bs_toggle="collapse", data_bs_target="#nav-collapse", aria_expanded="false", aria_controls="nav-collapse", aria_label="Toggle navigation"):
                 span(cls="navbar-toggler-icon")
-            a('Roundtable Guides', cls="navbar-brand me-auto ms-2" + (' active' if page == 'index' else ''), href="/index.html")
+            a('圆桌指引', cls="navbar-brand me-auto ms-2" + (' active' if page == 'index' else ''), href="/index.html")
             with form(cls="d-none d-sm-flex order-2 order-xl-3"):
-                input_(cls='form-control me-2', type='search', placeholder='Search', aria_label='search', name='search')
+                input_(cls='form-control me-2', type='search', placeholder='搜索', aria_label='search', name='search')
                 button(type='submit', cls='btn', formaction='/search.html', formmethod='get', formnovalidate='true').add(i(cls='bi bi-search'))
             with div(cls='d-sm-none order-2'):
                 a(href='/search.html', cls='nav-link me-0').add(i(cls='bi bi-search sb-icon-search'))
@@ -126,16 +129,16 @@ def make_nav(page, is_map = False):
                     # with li(cls="nav-item"):
                     #     a(href="/index.html", cls="nav-link hide-buttons" + (' active' if page == 'index' else '')).add(i(cls="bi bi-house-fill"))
                     for name, l in dropdowns:
-                        page_in_dropdown = page in [to_snake_case(guide[0]) for guide in l]
+                        page_in_dropdown = page in [to_snake_case(guide[1]) for guide in l]
                         with li(cls="dropdown nav-item"):
                             a(name, cls="nav-link dropdown-toggle" + (' active' if page_in_dropdown else ''), href="#", data_bs_toggle="dropdown", aria_haspopup="true", aria_expanded="false").add(span(cls="caret"))
                             with ul(cls="dropdown-menu"):
                                 for guide in l:
-                                    li(cls='tab-li').add(a(guide[0], cls="dropdown-item show-buttons"  + (' active' if page == to_snake_case(guide[0]) else ''), href='/checklists/' + to_snake_case(guide[0]) + '.html'))
+                                    li(cls='tab-li').add(a(guide[0], cls="dropdown-item show-buttons"  + (' active' if page == to_snake_case(guide[1]) else ''), href='/checklists/' + to_snake_case(guide[1]) + '.html'))
                     with li(cls='nav-item tab-li'):
-                        a(href="/map.html", cls="nav-link hide-buttons" + (' active' if page == 'map' else '')).add(i(cls="bi bi-map"), " Map")
+                        a(href="/map.html", cls="nav-link hide-buttons" + (' active' if page == 'map' else '')).add(i(cls="bi bi-map"), " 地图")
                     with li(cls="nav-item tab-li"):
-                        a(href="/options.html", cls="nav-link hide-buttons" + (' active' if page == 'options' else '')).add(i(cls="bi bi-gear-fill"), " Options")
+                        a(href="/options.html", cls="nav-link hide-buttons" + (' active' if page == 'options' else '')).add(i(cls="bi bi-gear-fill"), " 选项")
 
 # def make_sidebar_nav(page):
 #     with aside(cls="bd-sidebar"):
@@ -211,21 +214,21 @@ def make_footer(page=None):
             """.format(page_id=page['id']))
 
 def make_index():
-    doc = make_doc("Roundtable Guides", "Elden Ring Guides and Progress Tracker")
+    doc = make_doc("圆桌指引", "艾尔登法环指引和进度追踪")
     with doc:
         make_nav('index')
         with div(cls="container"):
             with div(cls="row"):
                 with div(cls="col-md-12 text-center"):
-                    h1("Roundtable Guides", cls="mt-4")
+                    h1("圆桌指引", cls="mt-4")
                 with div(cls="row gy-3"):
                     with div(cls='col-md-8 col-12'):
                         with div(cls='row row-cols-1 row-cols-md-2 gy-3'):
                             with div(cls="col"):
                                 with div(cls="card shadow h-100"):
                                     with div(cls="card-body"):
-                                        h5('Welcome to Roundtable Guides', cls='card-title text-center')
-                                        p('Guides, Walkthroughs, and Progress Tracking for Elden Ring. Written and maintained by the players. This site is still a work in-progress. We are working on it every day.', cls='card-text')
+                                        h5('欢迎来到圆桌指引', cls='card-title text-center')
+                                        p('艾尔登法环指引，攻略和进度追踪。由玩家编写和维护。我们还在努力改进和完善站点内容。', cls='card-text')
                             with div(cls='col'):
                                 with div(cls='card shadow h-100'):
                                     with div(cls='card-body'):
@@ -239,30 +242,31 @@ def make_index():
                             with div(cls="col"):
                                 with div(cls="card shadow h-100"):
                                     with div(cls="card-body"):
-                                        h5('Our other resources', cls='card-title text-center')
-                                        p('Join the Roundtable Hold ', cls='card-text').add(a('Discord community', href='https://discord.gg/BzJzFeBjHr'))
-                                        p('More guides are over on ', cls='card-text').add(a('/r/Roundtable_Guides', href='https://www.reddit.com/r/Roundtable_Guides/'))
-                                        p('Video guides on the ', cls='card-text').add(a('YouTube channel', href='https://www.youtube.com/channel/UCE-I15Z8HQBNCFHq2V0bbsA'))
+                                        h5('相关资源(英文版)', cls='card-title text-center')
+                                        p('加入圆桌厅 ', cls='card-text').add(a('Discord 社区', href='https://discord.gg/BzJzFeBjHr'))
+                                        p('更多来自社区的指引请看 ', cls='card-text').add(a('/r/Roundtable_Guides', href='https://www.reddit.com/r/Roundtable_Guides/'))
+                                        p('视频指引请看 ', cls='card-text').add(a('YouTube 频道', href='https://www.youtube.com/channel/UCE-I15Z8HQBNCFHq2V0bbsA'))
                             with div(cls="col"):
                                 with div(cls='card shadow h-100'):
                                     with div(cls="card-body"):
-                                        h5('I have feedback, how can I contribute?', cls='card-title text-center')
+                                        h5('我有问题要反馈，怎么对项目做出贡献？', cls='card-title text-center')
                                         text = p(cls='card-text')
-                                        text += 'Contributing is easy! And does not require you to know how to code. You can find instructions on the'
-                                        text += a('Github repository', href='https://github.com/RoundtableHold/roundtablehold.github.io')
-                                        text += ' You can also simply '
-                                        text += a('report issues', href='https://github.com/RoundtableHold/roundtablehold.github.io/issues')
-                                        text += " and we'll fix them."
+                                        text += '方法很简单，你并不需要懂得如果编写网页代码，你可以在Github仓库'
+                                        text += a('(英文版)', href='https://github.com/RoundtableHold/roundtablehold.github.io')
+                                        text += '找到说明，或者直接去反馈bug'
+                                        text += a('(英文版)', href='https://github.com/RoundtableHold/roundtablehold.github.io/issues')
+                                        text += a('(中文版)', href='https://github.com/soarqin/roundtablehold/issues')
+                                        text += "，我们会尽快修复汇报的问题。"
                             with div(cls="col"):
                                 with div(cls="card shadow h-100"):
                                     with div(cls="card-body"):
-                                        h5('Can I use this for multiple characters?', cls='card-title text-center')
-                                        p('Yes! Use the profile selector and buttons in the options tab at the top of the page to setup multiple profiles.', cls='card-text')
+                                        h5('我可以追踪多个角色吗？', cls='card-title text-center')
+                                        p('可以，用选项页签的档案选择器设置多个不同的档案。', cls='card-text')
                             with div(cls="col"):
                                 with div(cls="card shadow h-100"):
                                     with div(cls="card-body"):
-                                        h5('How does the checklist status get saved?', cls='card-title text-center')
-                                        p("The checklists are saved to your browser's local storage. Be careful when clearing your browser's cache as it will also destroy your saved progress.", cls='card-text')
+                                        h5('列表追踪状态是怎么保存的？', cls='card-title text-center')
+                                        p("列表追踪状态数据保存在浏览器本地存储里。小心！清除浏览器缓存也会清空你的数据。", cls='card-text')
                     with div(cls="col-md-4 col-12"):
                         with div(cls='card shadow'):
                             with div(cls="card-body uncolor-links"):
@@ -271,7 +275,7 @@ def make_index():
                                     hr()
                                     for name, l in dropdowns:
                                         for guide in l:
-                                            li(cls='tab-li').add(a(guide[0], href="/checklists/" + to_snake_case(guide[0]) + '.html')).add(span(id=guide[1] + "_progress_total", cls='d-print-none'))
+                                            li(cls='tab-li').add(a(guide[0], href="/checklists/" + to_snake_case(guide[1]) + '.html')).add(span(id=guide[1] + "_progress_total", cls='d-print-none'))
                                         hr()
             make_footer()
             script(src="/js/index.js")
@@ -279,42 +283,42 @@ def make_index():
         index.write(doc.render())
 
 def make_options():
-    doc = make_doc('Options | Roundtable Guides', 'Elden Ring Guides and Progress Tracker')
+    doc = make_doc('选项 | 圆桌指引', '艾尔登法环指引和进度追踪')
     with doc:
         make_nav('options')
         with div(cls="container"):
             with div(cls="row"):
                 with div(cls="col-md-12 text-center"):
-                    h1("Roundtable Guides", cls="mt-4")
+                    h1("圆桌指引", cls="mt-4")
             with div(cls="row"):
                 h2("Options")
                 with div(cls="row"):
-                    div(cls="col col-12 col-md-6").add(h4("Theme selection:"))
+                    div(cls="col col-12 col-md-6").add(h4("主题选择:"))
                     div(cls="col col-12 col-md-6").add(select(cls="form-select", id="themes"))
                 with div(cls="row"):
-                    div(cls="col col-12 col-md-4").add(h4("Profile management:"))
+                    div(cls="col col-12 col-md-4").add(h4("档案管理:"))
                     with form(cls="form-inline input-group pull-right gap-1"):
                         with div(cls="col col-12 col-md-4"):
                             select(cls="form-select", id="profiles")
                         with div(cls="col col-12 col-md-4"):
                             with div(cls="btn-group"):
-                                button("Add", cls="btn btn-primary", type="button", id="profileAdd")
+                                button("添加", cls="btn btn-primary", type="button", id="profileAdd")
                             with div(cls="btn-group"):
-                                button("Edit", cls="btn btn-primary", type="button", id="profileEdit")
+                                button("编辑", cls="btn btn-primary", type="button", id="profileEdit")
                             with div(cls="btn-group"):
-                                button("NG+", cls="btn btn-primary", type="button", id="profileNG+")
+                                button("新周目+", cls="btn btn-primary", type="button", id="profileNG+")
                 with div(cls="row"):
-                    div(cls="col col-12 col-md-4").add(h4("Data import/export:"))
+                    div(cls="col col-12 col-md-4").add(h4("数据导入/导出:"))
                     with div(cls="col col-12 col-md-8"):
                         with form(cls="form-inline gap-1 m-1"):
                             with div(cls="btn-group pull-left"):
-                                button("Import file", cls="btn btn-primary", type="button", id="profileImport")
+                                button("从文件导入", cls="btn btn-primary", type="button", id="profileImport")
                             with div(cls="btn-group pull-left"):
-                                button("Export file", cls="btn btn-primary", type="button", id="profileExport")
+                                button("导出为文件", cls="btn btn-primary", type="button", id="profileExport")
                             with div(cls="btn-group pull-right"):
-                                button("Import textbox", cls="btn btn-primary", type="button", id="profileImportText")
+                                button("从文本框导入", cls="btn btn-primary", type="button", id="profileImportText")
                             with div(cls="btn-group pull-right mt-1 mt-md-0"):
-                                button("Export clipboard", cls="btn btn-primary", type="button", id="profileExportText")
+                                button("导出到剪切板", cls="btn btn-primary", type="button", id="profileExportText")
                     with div(cls='row'):
                         div(id='alert-div')
                     with div(cls='row'):
@@ -324,58 +328,58 @@ def make_options():
                 with div(cls="modal-dialog", role="document"):
                     with div(cls="modal-content"):
                         with div(cls="modal-header"):
-                            h3("Profile", id="profileModalTitle", cls="modal-title")
+                            h3("档案", id="profileModalTitle", cls="modal-title")
                             button(type="button", cls="btn-close", data_bs_dismiss="modal", aria_label="Close")
                         with div(cls="modal-body"):
                             with form(cls="form-horizontal"):
                                 with div(cls="control-group"):
-                                    label("Name", cls="control-label", _for="profileModalName")
+                                    label("名称", cls="control-label", _for="profileModalName")
                                     div(cls="controls").add(input_(type="text", cls="form-control", id="profileModalName", placeholder="Enter Profile name"))
                         with div(cls="modal-footer"):
-                            button("Close", id="profileModalClose", cls="btn btn-secondary", data_bs_dismiss="modal")
-                            a("Add", href="#", id="profileModalAdd", cls="btn btn-primary", data_bs_dismiss="modal")
-                            a("Update", href="#", id="profileModalUpdate", cls="btn btn-primary")
-                            a("Delete", href="#", id="profileModalDelete", cls="btn btn-primary")
+                            button("关闭", id="profileModalClose", cls="btn btn-secondary", data_bs_dismiss="modal")
+                            a("添加", href="#", id="profileModalAdd", cls="btn btn-primary", data_bs_dismiss="modal")
+                            a("更新", href="#", id="profileModalUpdate", cls="btn btn-primary")
+                            a("删除", href="#", id="profileModalDelete", cls="btn btn-primary")
             with div(id="NG+Modal", cls="modal fade", tabindex="-1", role="dialog"):
                 with div(cls="modal-dialog", role="document"):
                     with div(cls="modal-content"):
                         with div(cls="modal-header"):
-                            h3("Begin next journey?", id="profileModalTitleNG", cls="modal-title")
+                            h3("开始新的周目?", id="profileModalTitleNG", cls="modal-title")
                             button(type="button", cls="btn-close", data_bs_dismiss="modal", aria_label="Close")
-                        div('If you begin the next journey, all progress on the "Playthrough" and "Misc" tabs of this profile will be reset, while achievement and collection checklists will be kept.', cls="modal-body")
+                        div('如果开始新周目，“攻略”和“其他”页签的条目会被重制，成就和收集部分的条目会被保留。', cls="modal-body")
                         with div(cls="modal-footer"):
-                            a("No", href="#", cls="btn btn-primary", data_bs_dismiss="modal")
-                            a("Yes", href="#", cls="btn btn-danger", id="NG+ModalYes")
+                            a("否", href="#", cls="btn btn-primary", data_bs_dismiss="modal")
+                            a("是", href="#", cls="btn btn-danger", id="NG+ModalYes")
             with div(id='importTextModal', cls='modal fade', tabindex='-1', role='dialog'):
                 with div(cls='modal-dialog', role='document'):
                     with div(cls='modal-content'):
                         with div(cls='modal-header'):
-                            h3('Import profile?', cls='modal-title')
+                            h3('导入档案?', cls='modal-title')
                             button(type='button', cls='btn-close', data_bs_dismiss='modal', aria_label='Close')
-                        div('If you import this profile all of your current progress will be lost.', cls='modal-body')
+                        div('导入档案会覆盖你当前的进度。', cls='modal-body')
                         with div(cls='modal-footer'):
-                            a('No', href='#', cls='btn btn-primary', data_bs_dismiss='modal')
-                            a('Yes', href='#', cls='btn btn-danger', id='importTextYes')
+                            a('否', href='#', cls='btn btn-primary', data_bs_dismiss='modal')
+                            a('是', href='#', cls='btn btn-danger', id='importTextYes')
             with div(id='importFileModal', cls='modal fade', tabindex='-1', role='dialog'):
                 with div(cls='modal-dialog', role='document'):
                     with div(cls='modal-content'):
                         with div(cls='modal-header'):
-                            h3('Import profile?', cls='modal-title')
+                            h3('导入档案?', cls='modal-title')
                             button(type='button', cls='btn-close', data_bs_dismiss='modal', aria_label='Close')
-                        div('If you import this profile all of your current progress will be lost.')
+                        div('导入档案会覆盖你当前的进度。')
                         with div(cls='modal-footer'):
-                            a('No', href='#', cls='btn btn-primary', data_bs_dismiss='modal')
-                            a('Yes', href='#', cls='btn btn-danger', id='importFileYes')
+                            a('否', href='#', cls='btn btn-primary', data_bs_dismiss='modal')
+                            a('是', href='#', cls='btn btn-danger', id='importFileYes')
             with div(id='deleteModal', cls='modal fade', tabindex='-1', role='dialog'):
                 with div(cls='modal-dialog', role='document'):
                     with div(cls='modal-content'):
                         with div(cls='modal-header'):
-                            h3('Are you sure?', cls='modal-title')
+                            h3('确定吗？', cls='modal-title')
                             button(type='button', cls='btn-close', data_bs_dismiss='modal', aria_label='Close')
-                        div('You will lose all progress in this profile. Please back it up first.')
+                        div('你会失去档案里的全部进度，必要时请注意备份。')
                         with div(cls='modal-footer'):
-                            a('No', href='#', cls='btn btn-primary', data_bs_dismiss='modal')
-                            a('Yes', href='#', cls='btn btn-danger', id='deleteYes')
+                            a('否', href='#', cls='btn btn-primary', data_bs_dismiss='modal')
+                            a('是', href='#', cls='btn btn-danger', id='deleteYes')
 
         div(cls="hiddenfile").add(input_(name="upload", type="file", id="fileInput"))
         make_footer()
@@ -396,9 +400,9 @@ def add_icon(icon, classes):
 
 def make_checklist(page):
     page['num_ids'] = 0 
-    doc = make_doc(page['title'] + " | Roundtable Guides", 'Elden Ring Guides and Progress Tracker')
+    doc = make_doc(page['title'] + " | 圆桌指引", '艾尔登法环指引和进度追踪')
     with doc:
-        make_nav(to_snake_case(page['title']))
+        make_nav(to_snake_case(page['id']))
         # whole page
         with div(cls="container uncolor-links"):
             # title_row()
@@ -416,7 +420,7 @@ def make_checklist(page):
             with nav(cls="text-muted toc d-print-none"):
                 with strong(cls="d-block h5").add(a(data_bs_toggle="collapse", role="button", href="#toc_" + page['id'], cls="toc-button")):
                     i(cls='bi bi-plus-lg')
-                    raw('Table Of Contents')
+                    raw('目录')
                 with ul(id="toc_" + page['id'], cls="toc_page collapse"):
                     for s_idx, section in enumerate(page['sections']):
                         with li():
@@ -424,7 +428,7 @@ def make_checklist(page):
                             span(id=page['id']  + "_nav_totals_" + str(s_idx))
 
             with div(cls="input-group d-print-none"):
-                input_(type="search", id=page['id'] + "_search", cls="form-control my-3", placeholder="Start typing to filter results...")
+                input_(type="search", id=page['id'] + "_search", cls="form-control my-3", placeholder="请输入搜索内容...")
 
             with div(id=page['id']+"_list"):
                 for s_idx, section in enumerate(page['sections']):
@@ -482,7 +486,7 @@ def make_checklist(page):
                                                         href += 'x={}&y={}'.format(item['map_link'][0], item['map_link'][1])
                                                     else:
                                                         href += 'target={}_{}'.format(page['id'], item['id'])
-                                                    href += '&id={}&link={}&title={}'.format(page['id'] + '_' + id, '/checklists/' + to_snake_case(page['title']) + '.html%23item_' + id, item['map_title'] if 'map_title' in item else item['data'][0])
+                                                    href += '&id={}&link={}&title={}'.format(page['id'] + '_' + id, '/checklists/' + to_snake_case(page['id']) + '.html%23item_' + id, item['map_title'] if 'map_title' in item else item['data'][0])
                                                     a(href=href, cls=('invisible' if (('cords' not in item) and ('map_link' not in item)) else '')).add(i(cls='bi bi-geo-alt'))
                                                 with div(cls="col d-flex align-items-center d-md-block d-none").add(div(cls="row")):
                                                     for pos in range(table_cols):
@@ -532,7 +536,7 @@ def make_checklist(page):
                                                         href += 'x={}&y={}'.format(item['map_link'][0], item['map_link'][1])
                                                     else:
                                                         href += 'target={}_{}'.format(page['id'], id)
-                                                    href += '&id={}&link={}&title={}'.format(page['id'] + '_' + id, '/checklists/' + to_snake_case(page['title']) + '.html%23item_' + id, item['map_title'] if 'map_title' in item else item['data'][0])
+                                                    href += '&id={}&link={}&title={}'.format(page['id'] + '_' + id, '/checklists/' + to_snake_case(page['id']) + '.html%23item_' + id, item['map_title'] if 'map_title' in item else item['data'][0])
                                                     a(href=href, cls='ms-2').add(i(cls='bi bi-geo-alt'))
                                                 page['num_ids'] += 1
                                                 section['num_ids'] += 1
@@ -548,11 +552,11 @@ def make_checklist(page):
         script(raw("window.current_page_id = \"{}\";\n".format(page['id'])))
         make_footer(page)
         script(src="/js/checklists.js")
-    with open(os.path.join('docs', 'checklists', to_snake_case(page['title']) + '.html'), 'w', encoding='utf_8') as index:
+    with open(os.path.join('docs', 'checklists', to_snake_case(page['id']) + '.html'), 'w', encoding='utf_8') as index:
         index.write(doc.render())
 
 def make_search():
-    doc = make_doc("Search | Roundtable Guides", 'Elden Ring Guides and Progress Tracker')
+    doc = make_doc("搜索 | 圆桌指引", '艾尔登法环指引和进度追踪')
     with doc:
         make_nav('search')
         # whole page
@@ -565,7 +569,7 @@ def make_search():
                     button(id='search_submit', cls='btn').add(i(cls='bi bi-search'))
             with div(cls='row mt-4 d-flex justify-content-center d-none', id='spinner'):
                 with div(cls='spinner-border text-primary', role='status'):
-                    span('Loading...', cls='visually-hidden')
+                    span('加载中...', cls='visually-hidden')
             with div(cls='row mt-4').add(div(cls='col')):
                 with div(cls='list-group list-group-flush mb-0'):
                     for page in pages:
@@ -580,7 +584,7 @@ def make_search():
                                     size = floor(12 / table_cols)
                                 table_widths = section['table_widths'] if 'table_widths' in section else page['table_widths']
                                 for item in items:
-                                    with a(cls='d-none list-group-item list-group-item-action searchable', href='/checklists/' + to_snake_case(page['title']) + '.html#item_' + str(item['id']), id='/checklists/' + to_snake_case(page['title']) + '.html#item_' + str(item['id'])):
+                                    with a(cls='d-none list-group-item list-group-item-action searchable', href='/checklists/' + to_snake_case(page['id']) + '.html#item_' + str(item['id']), id='/checklists/' + to_snake_case(page['id']) + '.html#item_' + str(item['id'])):
                                         if isinstance(item,str):
                                             continue
                                         with div(cls='row d-md-flex d-none'):
@@ -606,7 +610,7 @@ def make_search():
                                     if isinstance(item, str):
                                         continue
                                     def f(item):
-                                        with a(cls='d-none list-group-item list-group-item-action searchable', href='/checklists/' + to_snake_case(page['title']) + '.html#item_' + str(item['id']), id='/checklists/' + to_snake_case(page['title']) + '.html#item_' + str(item['id'])):
+                                        with a(cls='d-none list-group-item list-group-item-action searchable', href='/checklists/' + to_snake_case(page['id']) + '.html#item_' + str(item['id']), id='/checklists/' + to_snake_case(page['id']) + '.html#item_' + str(item['id'])):
                                             with div(cls='d-flex align-items-center'):
                                                 if 'icon' in item:
                                                     add_icon(item['icon'], 'float-md-none float-end me-md-1')
@@ -742,7 +746,7 @@ def make_search_index():
                     continue
                 def f(item):
                     search_idx.append({
-                        'id': '/checklists/{page_href}#item_{id}'.format(page_href=to_snake_case(page['title']) + '.html', id=item['id']),
+                        'id': '/checklists/{page_href}#item_{id}'.format(page_href=to_snake_case(page['id']) + '.html', id=item['id']),
                         'text': re.sub(r'(<([^>]+)>)', '', ' '.join(item['data'])),
                     })
                 f(item)
@@ -752,7 +756,7 @@ def make_search_index():
                         f(subitem)
                         # id = item_id + '_' + str(subitem['id'])
                         # search_idx.append({
-                        #     'id': '/checklists/{page_href}#item_{id}'.format(page_href=to_snake_case(page['title']) + '.html', id=id),
+                        #     'id': '/checklists/{page_href}#item_{id}'.format(page_href=to_snake_case(page['id']) + '.html', id=id),
                         #     'text': re.sub(r'(<([^>]+)>)', '', ' '.join(subitem['data'])),
                         # })
 
@@ -805,7 +809,7 @@ def make_feature(page, section, item):
             'group': page['id'],
             'icon': icon,
             'icon_size': icon_size,
-            'link': '/checklists/' + to_snake_case(page['title']) + '.html#item_' + item['id']
+            'link': '/checklists/' + to_snake_case(page['id']) + '.html#item_' + item['id']
         }
     }
 
@@ -864,7 +868,7 @@ def make_map():
                     # h3('Map', cls='offcanvas-title')
                 with div(cls='offcanvas-body overflow-auto h-100'):
                     with div(cls='d-flex align-items-center justify-content-between'):
-                        h3('Layers', cls='offcanvas-title')
+                        h3('图层标记', cls='offcanvas-title')
                         button(type='button', cls='btn-close text-reset', data_bs_dismiss='offcanvas')
                     hr()
                     # with div(cls='row mb-2'):
@@ -873,8 +877,8 @@ def make_map():
                     #     with div(cls='col text-center'):
                     #         h3('Layers')
                     with div(cls='mb-2 d-flex justify-content-evenly'):
-                        button('Show All', type='button', cls='btn btn-secondary btn-sm', id='show-all')
-                        button('Hide All', type='button', cls='btn btn-secondary btn-sm', id='hide-all')
+                        button('显示全部', type='button', cls='btn btn-secondary btn-sm', id='show-all')
+                        button('隐藏全部', type='button', cls='btn btn-secondary btn-sm', id='hide-all')
                     for name, l in dropdowns:
                         should_print_category = False
                         for guide in l:
@@ -895,7 +899,7 @@ def make_map():
                     hr()
                     with div(cls='form-check'):
                         input_(cls='form-check-input', type='checkbox', value='', id='hideCompleted')
-                        label('Hide Completed', cls='form-check-label', _for='hideCompleted')
+                        label('隐藏已完成', cls='form-check-label', _for='hideCompleted')
                                         # l = label(cls='form-check-label layer-button', _for=guide[1])
                                         # l += input_(cls='form-check-input category-filter', type='checkbox', value='', id=guide[1], hidden='')
                                         # if guide[2]:

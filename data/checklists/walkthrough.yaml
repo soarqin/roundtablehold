@@ -1,1461 +1,2123 @@
-title: Walkthrough
+title: 流程攻略
 id: playthrough
-sections: 
-  -
-    title: Limgrave
-    items:
-      - id: "0"
-        data: ["Grab The First Step Grace at the start of the game."]
-        map_link: [3701,7341]
-      - id: "1"
-        data: ["Talk to Varré nearby and exhaust his dialogue."]
-        map_link: [3694, 7334]
-      - id: "2"
-        data: ["Grab the Small Golden Effigy next to the summon statue."]
-        map_link: [3711, 7342]
-      - id: "3"
-        data: ["Go North and grab the Church of Elleh Grace."]
-        map_link: [3679, 7224]
-      - id: "4"
-        data: ["Talk to Kalé at the Church of Elleh"]
-        map_link: [3655,7210]
-      - id: "5"
-        data: ["Go North-East to the Gatefront Ruins and grab Map (Limgrave, West) at the pillar."]
-        map_link: [3789, 6956]
-      - id: "6"
-        data: ["Go down the stairs in the center of the Gatefront Ruins and grab the Whetstone Knife"]
-        map_link: [3808, 6982]
-      - id: "7"
-        data: ["Go East of the Gatefront Ruins and grab the Agheel Lake North Grace"]
-        map_link: [3885,6983]
-      - id: "8"
-        data: ["Rest at the Agheel Lake North Grace, form accord with Melina and exhaust her dialogue."]
-        map_link: [3885,6983]
-      - id: "9"
-        data: ["Go East from the Grace and break the tree illusion and talk to Boc until his dialogue is exhausted."]
-        map_link: [3985, 7039]
-      - id: "10"
-        data: ["Head North, getting atop the cliffs using one of the Spiritjumps, and free Alexander from his hole on the cliffs above the Saintsbridge Grace. After freeing him, talk to him until his dialogue is exhausted."]
-        map_link: [3954, 6543]
-      - id: "11"
-        data: ["Grab the Saintsbridge Grace below the cliffs where you found Alexander."]
-        map_link: [3989,6525]
-      - id: "12"
-        data: ["Head East across the bridge and talk to D, Hunter of the Dead near the graveyard until his dialogue is exhausted."]
-        map_link: [4233, 6507]
-      - id: "13"
-        data: ["Follow the road East to Summonwater Village and kill the Tibia Mariner there."]
-        map_link: [4452,6518]
-      - id: "14"
-        data: ["After killing the Tibia Mariner, talk to D, Hunter of the Dead nearby."]
-        map_link: [4379, 6573] # TODO: Double check this location
-      - id: "15"
-        data: ["Make your way down the cliffs going South and talk to Kenneth Haight on top of the ruin."]
-        map_link: [4399, 6816]
-      - id: "16"
-        data: ["Head East from Kenneth Haight and grab the Third Church of Marika Grace as well as the Sacred Tear, the Flask of Wondrous Physick and the Crimson Crystal Tear."]
-        map_link: [4635,6711]
-      - id: "17"
-        data: ["Rest at the Grace and talk to Melina until her dialogue is exhausted."]
-        map_link: [4635,6711]
-      - id: "18"
-        data: ["Head South along the road to find Map (Limgrave, East) at the pillar beside the road."]
-      - id: "19"
-        data: ["Go South-West from the pillar and listen to Blaidd's howling at Mistwood Ruins"]
-      - id: "20"
-        data: ["Follow the road South-East and grab the Fort Haight West Grace."]
-      - id: "21"
-        data: ["Grab the Golden Seed from the Erdtree Sapling in front of Fort Haight."]
-      - id: "22"
-        data: ["Climb to the top of Fort Haight and kill the Knight at the top"]
-      - id: "23"
-        data: ["Climb the ladder in the nearby tower to collect Dectus Medallion(Left)"]
-      - id: "24"
-        data: ["Go back to the Church of Elleh, pass time until Night if needed, meet Renna to receive the Spirit Calling Bell and the Lone Wolf Ashes and exhaust her dialogue."]
-      - id: "25"
-        data: ["Talk to Kalé nearby for the Fingersnap emote and exhaust his dialogue."]
-      - id: "26"
-        data: ["Go South-West from the Church of Elleh and make your way down to the shore then enter the Coastal Cave and grab the Coastal Cave Grace."]
-      - id: "27"
-        data: ["Talk to Boc near the Grace and exhaust his dialogue."]
-      - id: "28"
-        data: ["Go through the Coastal Cave and summon Old Knight Istvan outside the boss room"]
-      - id: "29"
-        data: ["Kill the Demi-Human Chiefs boss and receive the Sewing Needle and Tailoring Tools."]
-      - id: "30"
-        data: ["Head out through the other side of the boss room and grab the Church of Dragon Communion Grace."]
-      - id: "31"
-        data: ["Go back to Boc and give him the Sewing Needle then exhaust his dialogue."]
-      - id: "32"
-        data: ["Head South-East from the First Step Grace and grab the Seaside Ruins Grace along the edge of the cliffs."]
-      - id: "33"
-        data: ["Meet Yura at the ruin next to the Seaside Ruins Grace and exhaust his dialogue."]
-      - id: "34"
-        data: ["Head North-West into the lake and fight the Flying Dragon Agheel, hitting it at least once, and run away."]
-      - id: "35"
-        data: ["Return to Yura after fighting Flying Dragon Agheel without killing it for extra dialogue."]
-      - id: "38"
-        data: ["Head East from Yura and grab the Agheel Lake South Grace."]
-      - id: "39"
-        data: ["Head North from the Grace to the Waypoint Ruins and kill the boss Mad Pumpkin Head."]
-      - id: "40"
-        data: ["Grab the Waypoint Ruins Grace and meet Sellen. Accept her offer of training and exhaust her dialogue."]
-      - id: "41"
-        data: ["Go West into the lake and head North, under the bridge. Continue along this path and you will be invaded by Bloody Finger Nerijus. Survive against him for a short while and Yura will appear with dialogue then kill Blood Finger Nerijus."]
-      - id: "42"
-        data: ["Go North from where you fought Nerijus and talk to Yura under the ruin."]
-      - id: "43"
-        data: ["Go back to where you fought Nerijus and enter Murkwater Cave to grab the Murkwater Cave Grace."]
-      - id: "44"
-        data: ["Proceed through the cave and open the obviously unguarded chest in the completely empty room."]
-      - id: "45"
-        data: ["Fight Patches until he is at 50% health. As soon as he surrenders, stop attacking and the fight will end."]
-      - id: "46"
-        data: ["Attack Patches(very lightly) and he will become hostile again. Let him knock YOU to 50% health and you will receive and emote. Use it to end the fight."]
-      - id: "47"
-        data: ["Talk to Patches and exhaust his dialogue."]
-      - id: "48"
-        data: ["Reload the area and return to him for more dialogue and access to his shop. Buy Margit's Shackle, the Missionary's Cookbook(2) and anything else you like."]
-      - id: "49"
-        data: ["Reload the area again after purchasing stuff and talk to Patches again for more dialogue. He will give you permission to open the chest so open the chest."]
-      - id: "50"
-        data: ["Head North, back to Kenneth Haight and exhaust his dialogue."]
-      - id: "51"
-        data: ["Go South, back to the Mistwood Ruins, use the Fingersnap emote to call Blaidd down then talk to Blaidd and exhaust his dialogue."]
-      - id: "52"
-        data: ["Head to Fort Haight and talk to Kenneth at the top, where you fought the knight, and exhaust his dialogue."]
-      - id: "53"
-        data: ["Go back to Patches in Murkwater Cave and exhaust his dialogue."]
-      - id: "54"
-        data: ["Go to the Saintsbridge Grace(where you freed Alexander) and head West. You will find the Deathtouched Catacombs in the wall of the cliff on the North side. Go inside and grab the Deathtouched Catacombs Grace."]
-      - id: "55"
-        data: ["Go through the Deathtouched Catacombs and defeat the boss Black Knife Assassin and collect the Deathroot."]
-      - id: "56"
-        data: ["Follow the road West from the Deathtouched Catacombs and grab the Warmaster's Shack Grace."]
-      - id: "57"
-        data: ["Meet Knight Bernahl in the Warmaster's Shack and exhaust his dialogue."]
-      - id: "58"
-        data: ["Follow the road North from the Warmaster's Shack and be invaded by Recusant Henricus. Kill him."]
-      - id: "59"
-        data: ["Head West from the Warmaster's Shack, following the road to Stormhill Shack and grab the Stormhill Shack Grace."]
-      - id: "60"
-        data: ["Rest at the Stormhill Shack Grace, talk to Melina and exhaust her dialogue."]
-      - id: "61"
-        data: ["Meet Roderika in the Stormhill Shack and exhaust her dialogue."]
-      - id: "62"
-        data: ["Grab the Golden Seed from the Erdtree Sapling just South of the Stormhill Shack."]
-      - id: "63"
-        data: ["Head North from the Stormhill Shack, going into the woods and meet the Finger Reader on the broken bridge"]
-      - id: "64"
-        data: ["Backtrack to the road and head West this time to grab the Castleward Tunnel Grace."]
-      - id: "65"
-        data: ["Rest at the Castleward Tunnel Grace, talk to Melina and exhaust her dialogue."]
-      - id: "66"
-        data: ["Go back to the Agheel Lake South Grace in South-East Limgrave and head up the slope to the South to find the Forlorn Hound Evergaol."]
-      - id: "67"
-        data: ["Enter the Evergaol and summon Blaidd for dialogue then defeat the boss Bloodhound Knight Darriwil."]
-      - id: "68"
-        data: ["After the fight, talk to Blaidd nearby and exhaust his dialogue."]
-      - id: "36"
-        data: ["Go back to Flying Dragon Agheel and kill him. Yura can be summoned near the Stake of Marika for extra dialogue."]
-      - id: "37"
-        data: ["Return to Yura and exhaust his dialogue."]
-      - id: "69"
-        data: ["Limgrave is now 100% safe to explore! But be warned, if you are teleported by a chest, only grab the nearest Grace. If you grab any Grace besides the nearest one, you MAY break something. In addition, for the purposes of this guide, do not use the Bestial Sanctum Waygate yet. It's safe at this point but will change the order of steps."]
-  -
-    title: Weeping Peninsula
-    items:
-      - id: "70"
-        data: ["Starting at the Agheel Lake South Grace in South-East Limgrave, follow the road South-East and cross the Bridge of Sacrifice to grab the Bridge of Sacrifice Grace."]
-      - id: "71"
-        data: ["Meet Irina next to the road nearby and exhaust her dialogue for Irina's Letter."]
-      - id: "72"
-        data: ["Follow the road South and grab the Castle Morne Rampart Grace."]
-      - id: "73"
-        data: ["Follow the road going North-West to grab the South of the Lookout Tower Grace"]
-      - id: "74"
-        data: ["Cross the bridge to the West and follow the road going North to the Church of Pilgrimage and grab the Church of Pilgrimage Grace as well as a Sacred Tear in the church."]
-      - id: "75"
-        data: ["Rest at the Church of Pilgrimage Grace and talk to Melina until dialogue is exhausted."]
-      - id: "76"
-        data: ["Go back to the Castle Morne Rampart Grace and follow the road South to grab the Map (Weeping Peninsula) at the pillar and a Golden Seed from the Erdtree Sapling near it."]
-      - id: "77"
-        data: ["Continue on the road South to reach Castle Morne and grab the Castle Morne Lift Grace."]
-      - id: "78"
-        data: ["Go up the lift and pass the praying enemies by sneaking around on the right side. Go into the room and then out through the other side. Climb the ladder to the top then climb the next ladder in front of you. Run to the other side and hop over the edge on the left to the wall below. Run across the bridge and go over the edge to the left again. Run past the enemies to the tower and at the top of that tower you will find Edgar."]
-      - id: "79"
-        data: ["Talk to Edgar and exhaust his dialogue."]
-      - id: "80"
-        data: ["Turn back and go past the enemies again. At the end of the path, hop the wall on your left to grab the Behind the Castle Grace."]
-      - id: "81"
-        data: ["Make your way down to the bottom, summon Edgar outside the boss room and then kill the boss Leonine Misbegotten to obtain the Legendary Weapon, the Grafted Greatsword."]
-      - id: "82"
-        data: ["Go back to Edgar where he was on the tower and exhaust his dialogue."]
-      - id: "83"
-        data: ["Return to Irina's location near the Bridge of Sacrifice Grace, talk to Edgar and exhaust his dialogue."]
-      - id: "84"
-        data: ["Weeping Peninsula is now 100% safe to explore! There should be no warnings required!"]
-  -
-    title: "Margit/Roundtable Hold"
-    items:
-      - id: "86"
-        data: ["Go back to the Castleward Tunnel Grace in West Limgrave, summon Rogier outside the boss room and kill Margit, The Fell Omen for a Talisman Pouch."]
-      - id: "87"
-        data: ["Grab the Margit, The Fell Omen Grace and rest at it to talk to Melina and gain access to Roundtable Hold."]
-      - id: "88"
-        data: ["Talk to Corhyn and exhaust his dialogue"]
-      - id: "89"
-        data: ["Talk to Gideon and exhaust his dialogue"]
-      - id: "90"
-        data: ["Talk to D, Hunter of the Dead and exhaust his dialogue"]
-      - id: "91"
-        data: ["Talk to Diallos and exhaust his dialogue"]
-      - id: "92"
-        data: ["Talk to Hewg and exhaust his dialogue"]
-      - id: "93"
-        data: ["Cuddle with Fia and exhaust her dialogue"]
-      - id: "94"
-        data: ["Talk to Ensha and get edgelorded"]
-      - id: "95"
-        data: ["Hop off the balcony and wait for Mad Tongue Alberich to bow before attacking, then kill him."]
-  -
-    title: Stormveil
-    items:
-      - id: "96"
-        data: ["Return to the Margit, The Fell Omen Grace and follow the path up to grab the Stormveil Main Gate Grace"]
-      - id: "97"
-        data: ["Talk to Gostoc in the building nearby and agree first, then talk to him again and reject his advice before walking over to the gate to open it."]
-      - id: "98"
-        data: ["Follow the path that Gostoc originally recommended and grab the Stormveil Cliffside Grace."]
-      - id: "99"
-        data: ["Go up the steps, enter the building at the top of the steps, and go through the second doorway then turn around walk back to the Stormveil Cliffside Grace but don't rest at it. You will find Gostoc on the cliff above the Grace, talk to him and exhaust his dialogue."]
-      - id: "100"
-        data: ["Return to Gostoc next to the castle gate and his shop will now be open."]
-      - id: "101"
-        data: ["Proceed up the steps as before and continue on this path to grab the Rampart Tower Grace."]
-      - id: "102"
-        data: ["Option 1: Go through the door going North-West where all the birds are and go past them and climb down the ladder on the church rooftop."]
-      - id: "103"
-        data: ["Option 2: Alternatively you can turn to the right before having your first encounter. Jump over the balcony onto the rooftop across the way and hop down onto the path below."]
-      - id: "104"
-        data: ["Follow the path going North-West to the chapel, talk to Rogier and exhaust his dialogue."]
-      - id: "105"
-        data: ["Follow the path going South-East from Rogier into the building until you hit the the room where you can see the Grafted Scion on the ground floor. Go around to the right and go through the doorway. To your left you will see the corpse of a giant hanging upside down. Hop down to the ground below the giant and grab the Chrysalids' Memento."]
-      - id: "106"
-        data: ["After grabbing the Chrysalids' Memento, go out the door, turn into the door on the left and go up the lift to unlock the shortcut to Rampart Tower Grace."]
-      - id: "107"
-        data: ["Return to Roderika at Stormhill Shack, give her the Chrysalids' Memento and exhaust her dialogue."]
-      - id: "108"
-        data: ["Return to the Rampart Tower Grace and go back down the lift. Go out the door and kill or run past the Grafted Scion and through the doorway on the far left side. Go outside and turn left, following the wall going North past the enemies and then go into the doorway on your left to grab the Prophecy Painting."]
-      - id: "109"
-        data: ["Go back outside, turn left and go up the stairs to grab the Liftside Chamber Grace."]
-      - id: "110"
-        data: ["Pull the lever and go up the lift. Follow the path and grab x2 Cracked Pots next to the Living Jar enemies."]
-      - id: "111"
-        data: ["Go to the end of the path to grab the Secluded Cell Grace."]
-      - id: "112"
-        data: ["Head South-East from the Secluded Cell Grace and grab the Golden Seed by the Erdtree Sapling."]
-      - id: "113"
-        data: ["Enter the nearby building, talk to Nepheli Loux and exhaust her dialogue."]
-      - id: "114"
-        data: ["Go back to the Secluded Cell Grace, summon Nepheli and then kill the boss Godrick the Grafted."]
-      - id: "115"
-        data: ["Grab the Godrick the Grafted Grace, talk to Gostoc nearby and exhaust his dialogue."]
-      - id: "116"
-        data: ["Return to the Liftside Chamber Grace and go up the lift to the path heading to the Secluded Chamber Grace again. Instead of going down the slope to the Grace, take the high road and cross the wooden bridge. Hop onto the stone ledge from the wooden bridge and hug the wall going right. Finally jump off the ledge onto the nearby balcony to reach the hidden path."]
-      - id: "117"
-        data: ["Follow this hidden path until you reach a a message from Rogier that you can read. Just beyond that message is a door that unlocks the shortcut to the Liftside Chamber Grace."]
-      - id: "118"
-        data: ["You can now either follow that path to it's bottom(it will take a bit longer) or you can go out the South door from the Liftside Chamber Grace and turn right. Head to the ledge and drop off of it to the ledge below and make your way to the bottom from there."]
-      - id: "119"
-        data: ["At the bottom, past all the rats, will be a Lesser Ulcerated Tree Spirit. Kill it(this is required) for a Golden Seed."]
-      - id: "120"
-        data: ["Past the Lesser Ulcerated Tree Spirit is the Prince of Death's Pustule and beside that is a bloodstain of Rogier. Use it to see what happened."]
-  -
-    title: Limgrave/Roundtable
-    items:
-      - id: "121"
-        data: ["Go to the Third Church of Marika and use the Waygate to the North to arrive at the Bestial Sanctum."]
-      - id: "122"
-        data: ["Head inside the sanctum and grab the Bestial Sanctum Grace."]
-      - id: "123"
-        data: ["Talk to Gurranq, Beast Clergyman and give him your first two Deathroot to receive the Clawmark Seal, Beast Eye and Bestial Sling."]
-      - id: "124"
-        data: ["Go back to Varré at the First Step Grace and exhaust his dialogue."]
-      - id: "125"
-        data: ["Return to Roundtable Hold, talk to Enia and Two Fingers until the dialogue of both is exhausted."]
-      - id: "126"
-        data: ["Talk to Nepheli and Gideon until the dialogue of both is exhausted."]
-      - id: "127"
-        data: ["Talk to D, Hunter of the Dead and Rogier until the dialogue of both is exhausted."]
-      - id: "128"
-        data: ["Talk to Roderika and Hewg until the dialogue of both is exhausted"]
-      - id: "129"
-        data: ["Cuddle with Fia and exhaust her dialogue for the Knifeprint Clue."]
-      - id: "130"
-        data: ["Return to Varré's Location at the First Step Grace and read his message."]
-  -
-    title: Liurnia Lake Part One
-    items:
-      - id: "131"
-        data: ["Go to the Godrick the Grafted Grace, go through the throne room and grab the Shabriri Grape underneath it"]
-      - id: "132"
-        data: ["Grab the Lake-Facing Cliffs Grace nearby"]
-      - id: "133"
-        data: ["Give the Shabriri Grape to Hyetta who is near the Grace(may require resting) and exhaust her dialogue"]
-      - id: "134"
-        data: ["Talk to Boc and exhaust his dialogue"]
-      - id: "135"
-        data: ["Go into the Church of Irith and grab the Sacred Tear"]
-      - id: "136"
-        data: ["Talk to Thops in the Church of Irith and exhaust his dialogue"]
-      - id: "137"
-        data: ["Head North-West, down the slope, to the shore and grab the Liurnia Lake Shore Grace(I recommend purchasing a Lantern from the merchant nearby if you don't already have one)"]
-      - id: "138"
-        data: ["Go North from the shore and grab Map (Liurnia, East)"]
-      - id: "139"
-        data: ["Continue North to the shore, talk to Hyetta at the Purified Ruins and exhaust her dialogue."]
-      - id: "140"
-        data: ["Go East, into the Purified Ruins, and find the hidden stairs underneath some wood boards. Go down the stairs and grab the Shabriri Grape"]
-      - id: "141"
-        data: ["Return to Hyetta, give her the Shabriri Grap and exhaust her dialogue"]
-      - id: "142"
-        data: ["Head up the slope North-East and grab the Liurnia Highway North Grace for later."]
-      - id: "143"
-        data: ["Go back down the slope but enter a nearby ruin and use the Waygate inside to grab the South Raya Lucaria Gate Grace and the Meeting Place Map"]
-      - id: "144"
-        data: ["Go back to the Liurnia Highway North Grace then go back South-West to the shore. Head to the island to the West, just West of the telescope and grab the Scenic Isle Grace."]
-      - id: "145"
-        data: ["Talk to Patches at the Scenic Isle Grace and exhaust his dialogue"]
-      - id: "146"
-        data: ["Go East to the pavillion near the telescope, talk to Rya and exhaust her dialogue"]
-      - id: "147"
-        data: ["Return to Patches and exhaust his dialogue."]
-      - id: "148"
-        data: ["Go North-West to find the Boilprawn Shack and grab the Boilprawn Shack Grace"]
-      - id: "149"
-        data: ["Talk to Blackguard Big Boggart at Boilprawn Shack and buy necklace"]
-      - id: "150"
-        data: ["Talk to Blackguard Big Boggart again, buy some Boiled Prawn and exhaust his dialogue"]
-      - id: "151"
-        data: ["Return to Rya to give her the necklace and exhaust her dialogue"]
-      - id: "152"
-        data: ["Go North to the Academy Gate Town and grab the Academy Gate Town Grace and Map (Liurnia, North)"]
-      - id: "153"
-        data: ["Go North/North-West of the Grace, talk to Diallos and exhaust his dialogue"]
-      - id: "154"
-        data: ["Head West/South-West, talk to the Finger Reader and exhaust her dialogue"]
-      - id: "155"
-        data: ["Go South-West and grab the Fallen Ruins of the Lake Grace"]
-      - id: "156"
-        data: ["Head West to the Rose Church, talk to Varre and exhaust his dialogue"]
-      - id: "157"
-        data: ["Invade other players 3 times(you can invade then leave immediately)"]
-      - id: "158"
-        data: ["Talk to Varre again and exhaust his dialogue"]
-      - id: "159"
-        data: ["Go North-West and grab the Temple Quarter Grace"]
-      - id: "160"
-        data: ["Head North from the Grace, kill or run past the Glintstone Dragon and grab the Glintstone Key"]
-      - id: "161"
-        data: ["Turn around and head South-West to the shore to find a ghost then follow the trail of bodies up to the Revenger's Shack."]
-      - id: "162"
-        data: ["Kill Edgar the Revenger at Revenger's Shack to receive a Shabriri Grape and grab the Revenger's Shack Grace."]
-      - id: "162_1"
-        data: ["Follow the road North from the Revenger's Shack and grab the Foot of the Four Belfries Grace"]
-      - id: "163"
-        data: ["Follow the road East to the top and grab the Imbued Sword Key and The Four Belfries Grace"]
-      - id: "164"
-        data: ["Go East to the nearby Waygate with the message that says Anticipation, use the key to unlock it and enter it"]
-      - id: "165"
-        data: ["Kill the Boss of the Chapel of Anticipation, Grafted Scion"]
-      - id: "166"
-        data: ["Go through the area to the chapel where you started at and go through the nearby opened door to grab The Stormhawk King ashes"]
-      - id: "166_1"
-        data: ["Go inside of the church and interract with the dead maiden to dye the cloth Varre gave you to get the Lord of Blood's Favor"]
-      - id: "166_2"
-        data: ["Return to the Fallen Ruins of the Lake Grace and head back to Varre at the Rose Church. Talk with him and exhaust his dialogue to receive the Pureblood Knight's Medal(this can be used to enter Mohgwyn's Palace early for Rune Farming. Just don't kill the boss and nothing should break. This area will be covered later)"]
-      - id: "167"
-        data: ["Go back to the Fallen Ruins of the Lake and head South-West to grab the Folly on the Lake Grace"]
-      - id: "169"
-        data: ["Head South-West, underneath the cliffs and follow the path to talk to Nepheli and exhaust her dialogue"]
-      - id: "168"
-        data: ["Continue up the path to grab the Village of the Albinaurics Grace and rest at it"]
-      - id: "170"
-        data: ["Proceed through the village to find a giant pot that looks out of place and is making noises, attack or roll into it to reveal Albus."]
-      - id: "171"
-        data: ["Talk to Albus and exhaust his dialogue"]
-      - id: "172"
-        data: ["Summon Nepheli and kill the Boss of Village of the Albinaurics, Omenkiller"]
-      - id: "173"
-        data: ["Starting from the Scenic Isle Grace, head South to grab the Lakeside Crystal Cave Grace"]
-      - id: "174"
-        data: ["Kill the Boss of Lakeside Crystal Cave, Bloodhound Knight"]
-      - id: "175"
-        data: ["Go through the back exit of the cave and grab the Slumbering Wolf's Shack Grace"]
-      - id: "176"
-        data: ["Talk to Latenna and exhaust her dialogue"]
-      - id: "177"
-        data: ["Starting from the Liurnia Highway North Grace, follow the road North to the Gate Town Bridge Grace"]
-      - id: "178"
-        data: ["Talk to Hyetta, give her the Shabriri Grape and exhaust her dialogue"]
-      - id: "179"
-        data: ["Rest at the Grace, talk to Hyetta again and exhaust her dialogue"]
-      - id: "180"
-        data: ["Head East and use the Spiritjump to reach the top of the cliffs then summon D, Hunter of the Dead and head North to kill the Tibia Mariner for your third Deathroot."]
-      - id: "181"
-        data: ["Go back South-East to the cliffs East of where you killed the Tibia Mariner and use ledges poking out of the cliff to make your way down to grab the Jarburg Grace."]
-      - id: "182"
-        data: ["Nearby the Grace, on a porch, is Jar-Bairn. Talk to him and exhaust his dialogue."]
-  -
-    title: Raya Lucaria
-    items:
-      - id: "183"
-        data: ["Go back to the South Raya Lucaria Gate Grace and use the Glintstone Key to pass through the seal and grab the Main Academy Gate Grace"]
-      - id: "184"
-        data: ["Go North, around the seal, and use the Summon Sign on the ground to help Yura invade and kill Bloody Finger Ravenmount Assassin."]
-      - id: "185"
-        data: ["After the Bloody Finger is dead, talk to Yura nearby and exhaust his dialogue."]
-      - id: "186"
-        data: ["From Main Academy Gate, go into Raya Lucaria up the lift."]
-      - id: "187"
-        data: ["Go past the enemies, into the church, to the left and another left to the Church of the Cuckoo Grace"]
-      - id: "188"
-        data: ["From the Grace, go down the hall and out the door to the graveyard. Go past the enemies and jump onto the rotating wheel lift and ride it all the way up. Hop off and grab the Schoolhouse Classroom Grace"]
-      - id: "189"
-        data: ["From the Grace, go into the hallway and go right. Make you're way past the enemies then up the stairs, then up the stairs, then up the stairs, UP ALL THE STAIRS then go down the hall to fight and kill the Boss, Red Wolf of Radagon."]
-      - id: "190"
-        data: ["After it's dead grab the Debate Hall Grace."]
-      - id: "191"
-        data: ["You can now reach the boss but first we are going to collect a couple things so go into the courtyard and to the left to go up the stairs. Head up those stairs and in the room, on the balcony will be the Glintstone Whetblade for you to grab."]
-      - id: "192"
-        data: ["Continue past and you will find a fence you can jump over to get onto some rooftops. Hop the fence and open the door nearby for a shortcut if you like. From here the rooftops are a mini-maze but at the end of this maze you will arrive inside the Church of the Cuckoo where you can hop onto the chandelier to grab a second Academy Glintstone Key for Thops."]
-      - id: "193"
-        data: ["Head back to the Debate Parlor Grace and once you enter the courtyard, go to the right side and hop onto once of the archways leading to the path where the metal ball is rolling down. Hop the fence and make your way past the metal ball to reach Moongrum, Carian Knight and kill him."]
-      - id: "194"
-        data: ["With Moongrum dead, go up the lift to fight and kill the Boss, Rennala, Queen of the Full Moon."]
-      - id: "195"
-        data: ["Grab the Raya Lucaria Grand Library Grace."]
-  -
-    title: Liurnia Lake Part Two
-    items:
-      - id: "196"
-        data: ["From the Raya Lucaria Grand Library Grace, go back down the lift and into the building just before reaching the metal ball again. To the North will be Waygate, use it to arrive at the Church of Vows and grab the Church of Vows Grace"]
-      - id: "197"
-        data: ["Talk to Miriel, Pastor of Vows inside the Church of Vows and exhaust his dialogue."]
-      - id: "198"
-        data: ["Grab the Gold Sewing Needle and Gold Tailoring Tools from the chest nearby"]
-      - id: "199"
-        data: ["Go North-East from the Church of Vows and grab the Ruined Labyrinth Grace"]
-      - id: "200"
-        data: ["Follow the road East from the Grace to it's end to find the Black Knife Catacombs Grace"]
-      - id: "201"
-        data: ["Proceed through the catacombs to the room with the falling blades then hop onto one of the blades. Ride the blade up and hop onto the ledge to find the hidden path. Follow this path to the end and roll into the Illusory Wall to make it disappear. Summon D, Hunter of the Dead and kill the Boss, Black Knife Assassin for the Black Knifeprint."]
-      - id: "202"
-        data: ["Proceed to the end of the regular path and kill the Boss, Cemetary Shade for the fourth Deathroot."]
-  -
-    title: Roundtable Hold
-    items:
-      - id: "203"
-        data: ["Go back to Roundtable Hold and kill the Invader, Ensha"]
-      - id: "204"
-        data: ["Talk to Gideon and Nepheli until dialogue with both is exhausted"]
-      - id: "205"
-        data: ["Talk to Hewg until dialogue is exhausted"]
-      - id: "206"
-        data: ["Talk to Roderika until dialogue is exhausted"]
-      - id: "206_1"
-        data: ["Talk to Corhyn until dialogue is exhausted"]
-      - id: "207"
-        data: ["Talk to Diallos until dialogue is exhausted"]
-      - id: "208"
-        data: ["Talk to Enia until dialogue is exhausted"]
-      - id: "209"
-        data: ["Cuddle with Fia and talk to Rogier until dialogue with both is exhausted"]
-      - id: "210"
-        data: ["Reload and talk to Rogier again until dialogue is exhausted."]
-  -
-    title: Liurnia Lake Part Three/Roundtable
-    items:
-      - id: "211"
-        data: ["Start from the Academy Gate Town Grace then head North-West. In a pavillion you will find a Waygate. Use it to appear near and grab the Northern Liurnia Lak Shore Grace."]
-      - id: "212"
-        data: ["Grab the Map (Liurnia, West) just North-East of the Grace"]
-      - id: "213"
-        data: ["Head North-East and break the Illusory Wall to grab the Road to the Manor Grace"]
-      - id: "214"
-        data: ["Talk to Iji and exhaust his dialogue"]
-      - id: "215"
-        data: ["Head North-East and grab the Main Caria Manor Gate Grace"]
-      - id: "216"
-        data: ["Run through the manor to the Manor Lower Level Grace."]
-      - id: "217"
-        data: ["Run across the bridges then up the lift to the Manor Upper Level Grace."]
-      - id: "218"
-        data: ["Run past the enemies and kill the boss, Royal Knight Loretta."]
-      - id: "219"
-        data: ["Grab the Royal Knight Loretta Grace"]
-      - id: "220"
-        data: ["Head outside and go West, fighting or running past the Glintstone Dragon Adula and enter Ranni's Rise and grab the Ranni's Rise Grace."]
-      - id: "221"
-        data: ["Go up the lift and talk to Ranni and get rejected"]
-      - id: "222"
-        data: ["Go back to Rogier get advice"]
-      - id: "223"
-        data: ["Go back to Ranni and get accepted"]
-      - id: "224"
-        data: ["Talk to Iji, Blaidd and Seluvis then back to Ranni."]
-      - id: "225"
-        data: ["Return to Rogier, reload and talk again"]
-  -
-    title: Caelid
-    items:
-      - id: "226"
-        data: ["Starting from the Summonwater Village Outskirts in North-East Limgrave, head East to the cliffs and find your way down to grab the Grace just outside of a cave entrance"]
-      - id: "227"
-        data: ["Go inside and talk to Alexander in the cave on Limgrave's side of Gael Tunnel"]
-      - id: "228"
-        data: ["Go back up the cliffs and follow the road North-East to kill Invader, Anastasia, Tarnished Eater at the Smoldering Church"]
-      - id: "229"
-        data: ["Continue following the road in Caelid and grab the Rotview Balcony Grace"]
-      - id: "230"
-        data: ["Follow the cliffs South of the Grace to reach the Gael Tunnel, enter it and drop down to grab the Gael Tunnel Grace"]
-      - id: "231"
-        data: ["Make your way to the end of Gael Tunnel and grab the Rear Gael Tunnel Entrance Grace."]
-      - id: "232"
-        data: ["Open the door nearby, talk to Alexander and exhaust his dialogue"]
-      - id: "233"
-        data: ["Go back to the Rotview Balcony Grace and follow the road East to grab the Caelem Ruins Grace"]
-      - id: "234"
-        data: ["Follow the road South to grab the Smoldering Wall Grace"]
-      - id: "235"
-        data: ["Talk to the Finger Reader nearby"]
-      - id: "236"
-        data: ["Head into the swamp South-East and kill the Invader, Millicent."]
-      - id: "236_1"
-        data: ["Head to the North-East side of the swamp and grab the Inner Aeonia Grace"]
-      - id: "237"
-        data: ["Continue further North-East to grab the Sellia Under-Stair Grace."]
-      - id: "238"
-        data: ["Go into the town up the stairs and head South to find Gowry's Shack. Kill the dog to make sure it doesn't break the quest then talk to Gowry in his shack and exhaust his dialogue."]
-      - id: "239"
-        data: ["Follow the swamp heading South from the Inner Aeonia Grace to summon Polyanna, Adopted Daughter and kill Commander O'Neil in the South-East section of the swamp."]
-      - id: "240"
-        data: ["Return to Gowry and give him the needle then reload, talk to him again and exhaust his dialogue"]
-      - id: "241"
-        data: ["Light the fires on top of the buildings in Sellia to undo the seal, then go through the seal North of town to grab the Sellia Backstreets Grace"]
-      - id: "242"
-        data: ["Follow the road North-East and then South to grab the Church of the Plague Grace"]
-      - id: "243"
-        data: ["Talk to Millicent and exhaust her dialogue, then reload, talk to her again and exhaust her dialogue"]
-      - id: "244"
-        data: ["Return to Gowry and exhaust his dialogue"]
-      - id: "245"
-        data: ["Head South and grab the Southern Aeonia Swamp Grace"]
-      - id: "246"
-        data: ["Follow the road South-East to the bridge to grab the Impassable Greatbridge Grace for later."]
-      - id: "247"
-        data: ["Caelid/Dragonburrow is now 100% safe to explore! There should be no warnings required!"]
-  -
-    title: Underground Siofra/Liurnia Lake/Castle Redmane
-    items:
-      - id: "248"
-        data: ["Starting from the Third Church of Marika, go South and find the Siofra River Well. Go down the lift and grab the Siofra River Well Depths Grace."]
-      - id: "249"
-        data: ["Go through the area and go down the lift then grab the Siofra River Bank Grace"]
-      - id: "250"
-        data: ["Head East to the cliffs to talk to Blaidd and exhaust his dialogue."]
-      - id: "251"
-        data: ["Talk to Thops at Church of Irith, exhaust his dialogue before giving him the second Glintstone Key."]
-      - id: "252"
-        data: ["Go to the Schoolhouse Classroom Grace in Raya Lucaria and find Thops corpse just outside, around the corner."]
-      - id: "253"
-        data: ["Go to Ranni's Rise and head South to Seluvis' Rise, talk to Seluvis and exhaust his dialogue."]
-      - id: "254"
-        data: ["Leave Seluvis' Rise and go to the cliffs to the East and hop onto the rampart below. Follow the path and hop down into the building to talk to Pidia and exhaust his dialogue."]
-      - id: "255"
-        data: ["Go to Waypoint Ruins, talk to Sellen and exhaust her dialogue."]
-      - id: "256"
-        data: ["Return to Blaidd in Siofra River Well and exhaust his dialogue."]
-      - id: "257"
-        data: ["Head North to the ruins and climb the staircase onto the wooden platform. Follow this platform to the North-West and find the Nomadic Merchant. Purchase the Nomadic Warriors Cookbook 17 from him."]
-      - id: "258"
-        data: ["Go to the Impassable Greatbridge Grace and use the nearby Waypoint to enter Castle Redmane. Proceed through to grab the Chamber Outside the Plaza Grace."]
-      - id: "259"
-        data: ["Go into the plaza and talk to Therolina for an emote."]
-      - id: "260"
-        data: ["Talk to Alexander and Blaidd and exhaust their dialogue."]
-      - id: "261"
-        data: ["Talk to Jerren to unlock Radahn's boss fight."]
-      - id: "262"
-        data: ["Go through the church and down the lift to the Waygate that will lead to Radahn then kill Starscourge Radahn (Summoning as many as possible)"]
-      - id: "263"
-        data: ["Grab the Starscourge Radahn Grace"]
-      - id: "264"
-        data: ["Talk to Blaidd and exhaust his dialogue"]
-      - id: "265"
-        data: ["Talk to Alexander and exhaust his dialogue"]
-      - id: "266"
-        data: ["Go back to the Chamber Outside the Plaza Grace then go back to the church in the plaza to talk to Jerren and exhaust his dialogue."]
-  -
-    title: Liurnia Lake/Roundtable
-    items:
-      - id: "267"
-        data: ["Go to Enia in Roundtable Hold and purchase a piece of Radahn's Armor from her."]
-      - id: "268"
-        data: ["Start at the Liurnia Highway North Grace and then follow the road North to find Alexander again. Craft an Oil Pot using the Nomadic Warriors Cookbook 17. Toss the Oil Pot at him to free him then exhaust his dialogue."]
-      - id: "269"
-        data: ["Go to the Main Academy Gate Grace the use the Seal to the North-East to grab the East Raya Lucaria Gate Grace."]
-      - id: "270"
-        data: ["Talk to Boc, give him the Gold Sewing Needle and exhaust his dialogue."]
-      - id: "271"
-        data: ["Rest at the Grace, talk to Melina and exhaust her dialogue."]
-      - id: "272"
-        data: ["Talk to the Finger Reader and exhaust her dialogue."]
-      - id: "273"
-        data: ["Go North-East, into the Grand Lift of Dectus and grab the Grand Lift of Dectus Grace."]
-      - id: "274"
-        data: ["Rest at the Grace, talk to Melina and exhaust her dialogue."]
-      - id: "275"
-        data: ["Go South from the Grand Lift of Dectus and around the cliffs. BEWARE THE EYE OF SAURON! You can choose to go to the tower where the eye is and kill the enemies at the top to destroy the eye, or FLY YOU FOOL! to the South, through the Frenzied Flame Village and up the slope going North to kill the Invader, Festering Fingerprint Vyke for the Fingerprint Grape."]
-      - id: "276"
-        data: ["Grab the nearby Church of Inhibition Grace."]
-      - id: "277"
-        data: ["Go back to the East Raya Lucaria Gate Grace and head North to grab the Bellum Church Grace."]
-      - id: "278"
-        data: ["Talk to Hyetta nearby to give her the Fingerprint Grape and exhaust her dialogue"]
-      - id: "279"
-        data: ["Go down the slope going North/North-East and follow the river to grab the Golden Seed at the end."]
-      - id: "280"
-        data: ["Grab the Ravine-Veiled Village Grace nearby."]
-      - id: "281"
-        data: ["Climb the ladder and go through the cave to the lift. Continue going from the top of the lift until you make it outside to grab the Ruin-Strewn Precipice Grace."]
-      - id: "282"
-        data: ["Go up the nearby lift, up the ladder, up the next ladder, and up one more ladder. Then go up the lift to reach the Ruin-Strewn Precipice Overlook Grace."]
-      - id: "283"
-        data: ["Continue forward to the boss room and kill Magma Wyrm Makar (Summoning Great Horned Tragoth, and either Millicent or Blackguard Big Boggart)"]
-      - id: "284"
-        data: ["Grab the Magma Wyrm Makar Grace"]
-  -
-    title: Altus Plateau/Mt. Gelmir
-    items:
-      - id: "285"
-        data: ["Go up the lift and grab the Abandoned Coffin Grace"]
-      - id: "286"
-        data: ["Head North-East to fight or run past Ancient Dragon Lansseax and grab the Erdtree-Gazing Hill Grace."]
-      - id: "287"
-        data: ["Talk to Millicent nearby"]
-      - id: "288"
-        data: ["Go North up the slope to kill the Tibia Mariner at Wyndham Ruins for the Fifth Deathroot"]
-      - id: "289"
-        data: ["Go down the slope East of the Erdtree-Gazing Hill Grace then head North. Hug the cliffs to the right and look for a Spiritjump then use it. Use the next one then go across the bridge to grab the Bridge of Iniquity Grace."]
-      - id: "290"
-        data: ["Continue North-West go past all the Iron Virgins to the end of the path. Kill the Invader Anastasia, Tarnished-Eater at the Corpse-Stench Shack."]
-      - id: "291"
-        data: ["Turn back around and hug the cliffs to the South on your way back until you find a ladder. Climb it to grab the First Mt. Gelmir Campsite Grace."]
-      - id: "292"
-        data: ["Follow the path West until you find a glowing message on the ground telling you to follow the rainbow stones. Follow the stones leading South and look over the edge near the last one to see your good friend Patches again."]
-      - id: "293"
-        data: ["Follow the path going West to grab the Seethewater Terminus Grace"]
-      - id: "294"
-        data: ["Go South-West and kill the Magma Wyrm."]
-      - id: "295"
-        data: ["Talk to Alexander who is soaking himself in the lava near the cliffside and exhaust his dialogue."]
-      - id: "296"
-        data: ["Continue going South-East then East to grab the Craftsman's Shack Grace."]
-      - id: "297"
-        data: ["Continue East and look to the houses on the left to grab Prattling Pate \"You're Beautiful\""]
-      - id: "298"
-        data: ["Keep going and fight or run past Demi-Human Queen Maggie to grab the Primeval Sorcerer Azur Grace"]
-      - id: "299"
-        data: ["Talk to Primeval Sorcerer Azur nearby to get the Comet Azur Legendary Sorcery."]
-      - id: "300"
-        data: ["Use the rock bridge nearby to reach and grab the Gelmir Hero's Grave Grace."]
-      - id: "301"
-        data: ["Like all the Hero's Graves, the cave is a combat puzzle. The TL;DR is beat the Grave for the Sixth Deathroot, but I'll try to explain how to get through it with the steps below."]
-      - id: "302"
-        data: ["Start going down the slope, using the opening on either side to dodge the chariots when they come by. For the First Chariot, you will enter a doorway on the left to continue on."]
-      - id: "303"
-        data: ["Once you have escaped the First Chariot, go past the enemies and past the Imp Statue Fire Trap. You can hit the trap to turn it off."]
-      - id: "304"
-        data: ["Go down the next slope, avoiding the Second Chariot with the openings until you reach the bridge. Fall off the bridge on either side, hugging the edge, to fall onto the ledge below."]
-      - id: "305"
-        data: ["Go through the doorway the ledge leads you to find a Bloodhound Knight and a ladder. Climb the ladder to find a window, hop out the window onto the wooden rafters and make your way to the center of of it."]
-      - id: "306"
-        data: ["Wait at the center of the rafters for the Second Chariot to slow down just below you then hop onto the open seat on top of it. If you miss, you can easily use the ledge nearby again."]
-      - id: "307"
-        data: ["Ride it down to the bottom then wait for it to turn around and start going back up to hop off behind and go up the ladder and open the door nearby."]
-      - id: "308"
-        data: ["Go down the stairs and into the boss room to fight and kill the Red Wolf of the Champion to get the Sixth Deathroot."]
-      - id: "309"
-        data: ["Go back to the Erdtree-Gazing Hill and talk to Rya nearby to enter Volcano Manor"]
-      - id: "310"
-        data: ["Grab the Volcano Manor Grace"]
-      - id: "311"
-        data: ["Talk to Tanith and join the Manor"]
-      - id: "312"
-        data: ["Open the doors in the hallway to talk to Rya and exhaust her dialogue"]
-      - id: "313"
-        data: ["Talk to Bernahl and exhaust his dialogue"]
-      - id: "314"
-        data: ["Grab the Letter from Volcano Manor from the table nearby"]
-      - id: "315"
-        data: ["Talk to Diallos and exhaust his dialogue"]
-      - id: "316"
-        data: ["Talk to Tanith again and exhaust her dialogue."]
-      - id: "317"
-        data: ["Go upstairs and kill the Invader Inquisitor Ghiza"]
-      - id: "318"
-        data: ["Go back down an rest at the Grace then talk to Patches on the way outside and exhaust his dialogue."]
-  -
-    title: Sellen Part 1/Volcano Manor Quests Part 1
-    items:
-      - id: "319"
-        data: ["Go to the Warmaster's Shack Grace in Limgrave and head North to invade and kill Old Knight Istvan at location indicated by the Letter from Volcano Manor"]
-      - id: "320"
-        data: ["Go back to the Waypoint Ruins and talk to Sellen and exhaust her dialogue for the Sellian Sealbreaker"]
-      - id: "321"
-        data: ["Go to the Church of the Plague Grace and head North-East to find a very large tombstone. Attack or roll into the cliff wall behind the tombstone to grab the Sellia Hideaway Grace."]
-      - id: "322"
-        data: ["Make your way down to the bottom and open the seal to talk to Master Lusat and acquire the Stars of Ruin Legendary Sorcery"]
-      - id: "323"
-        data: ["Go just West of the entrance to Sellia Hideaway and use the Spiritjump to grab the Fort Faroth Grace. Head inside Fort Faroth and climb the ladder to grab the Grand Lift of Dectus Medallion(Right)"]
-      - id: "324"
-        data: ["Return to Sellen in Waypoint Ruins and exhaust her dialogue."]
-      - id: "325"
-        data: ["Go to the Church of Pilgrimage Grace in Weeping Peninsula and go South-West to grab the Fourth Church of Marika Grace."]
-      - id: "326"
-        data: ["Go just South of the Fourth Church of Marika and enter the Witchbane Ruins to talk to Sellen and receive Sellen's Primal Glintstone."]
-      - id: "327"
-        data: ["Reload the area to talk to Jerren and exhaust his dialogue."]
-      - id: "328"
-        data: ["Return to Volcano Manor and talk to Tanith and exhaust her dialogue."]
-      - id: "329"
-        data: ["Talk to Patches for the Letter to Patches and exhaust his dialogue."]
-      - id: "330"
-        data: ["Talk to Rya and exhaust her dialogue."]
-      - id: "331"
-        data: ["Talk to Bernahl and exhaust his dialogue."]
-      - id: "332"
-        data: ["Grab the second Letter from Volcano Manor on the table"]
-      - id: "333"
-        data: ["Talk to Diallos and exhaust his dialogue."]
-      - id: "334"
-        data: ["Talk to the ghost and exhaust his dialogue."]
-      - id: "336"
-        data: ["Return to the Bridge of Iniquity Grace and cross the bridge East then use the Spiritjump to the South to jump down the cliff. Use the next Spiritjump to the West to get down to the bottom and head North to invade and kill Rileigh the Idle at the location indicated by the Letter from Volcano Manor."]
-  -
-    title: Millicent/Roundtable Hold
-    items:
-      - id: "337"
-        data: ["Continue North-West to kill the Maleigh Marais, Shaded Castle Castellan."]
-      - id: "338"
-        data: ["Go East and find an opening on the West side of the wall you can use to jump onto the ramparts of the Shaded Castle. Follow the rampart South to the end then hop off to climb the ladder to the East. At the top, follow the path North to open the chest and grab the Valkyrie's Prosthesis."]
-      - id: "339"
-        data: ["Turn back around and take the path East from the ladder this time. Hop onto the roof below and hop from rooftop to rooftop to grab the Shaded Castle Inner Gate Grace for using at a later time."]
-      - id: "340"
-        data: ["Go back to Roundtable Hold, talk to Brother Corhyn and exhaust his dialogue."]
-      - id: "341"
-        data: ["Cuddle with Fia and talk to her to get the Weathered Dagger"]
-      - id: "342"
-        data: ["Talk to Roderika and exhaust her dialogue"]
-      - id: "344"
-        data: ["Talk to D, give him the Weathered Dagger and exhaust his dialogue"]
-      - id: "345"
-        data: ["Talk to Dung Eater and exhaust his dialogue"]
-      - id: "346"
-        data: ["Reload and go into the now open room past the blacksmith to find and loot D's corpse for his armor and Bell Bearing"]
-      - id: "347"
-        data: ["Talk to Fia and exhaust her dialogue"]
-      - id: "348"
-        data: ["Return to the Erdtree-Gazing Hill Grace, talk to Millicent nearby to give her the Valkyrie's Prosthesis and exhaust her dialogue."]
-  -
-    title: Altus Plateau Part One
-    items:
-      - id: "349"
-        data: ["Head East, across the battlefield and to the road to grab the Altus Highway Junction Grace."]
-      - id: "350"
-        data: ["Rest at the Grace, talk to Melina and exhaust her dialogue."]
-      - id: "351"
-        data: ["Talk to Boc and exhaust his dialogue"]
-      - id: "352"
-        data: ["Go North-East from the Grace and through the passage to grab the Amber Starlight Shard."]
-      - id: "353"
-        data: ["Follow the road North of the Altus Highway Junction to talk to Brother Corhyn and exhaust his dialogue"]
-      - id: "354"
-        data: ["Grab Map (Altus Plateau) nearby"]
-      - id: "355"
-        data: ["Go North-West to find the Second Church of Marika. Talk to Yura and exhaust his dialogue."]
-      - id: "356"
-        data: ["Kill the Invader Eleonora, Violet Bloody Finger"]
-  -
-    title: Underground Crater
-    items:
-      - id: "357"
-        data: ["Go back to East Limgrave and find a note from Blaidd just outside of the newly formed crater, West of Fort Haight"]
-      - id: "358"
-        data: ["Go to the Forlorn Hound Evergaol and free Blaidd"]
-      - id: "359"
-        data: ["Go to the Road to the Manor Grace, talk to Iji and exhaust his dialogue"]
-      - id: "360"
-        data: ["Head into the crater West of Fort Haight and grab the Nokron, Eternal City Grace."]
-      - id: "361"
-        data: ["Follow the path forward to reach and kill the boss, Mimic Tear"]
-      - id: "362"
-        data: ["Grab the Mimic Tear Grace"]
-      - id: "363"
-        data: ["Cross the bridge going North-East and then follow the cliffs to the West to find the Ancestral Woods Grace hidden in the cliffs."]
-      - id: "364"
-        data: ["Follow the path of rooftops South-West and on the way you can find the Black Whetblade"]
-      - id: "365"
-        data: ["Keep following the path to the bottom to find the Night's Sacred Ground Grace"]
-      - id: "366"
-        data: ["From the Grace, go North-East and into the building to find the Fingerslayer Blade inside of the chest(For the purposes of this Walkthrough DO NOT GIVE IT TO RANNI YET)"]
-      - id: "367"
-        data: ["Use the Waygate nearby to return to the Ancestral Woods."]
-      - id: "368"
-        data: ["Head North-East from the Ancestral Woods Grace, past the altar, into the forest and along the hidden path to reach the Aqueduct-Facing Cliffs Grace."]
-      - id: "369"
-        data: ["Follow this path until you find a man kneeling next to a balcony outside the boss room. This man is D's Brother, D, Beholder of Death and he wants you to give him D's Armor"]
-      - id: "370"
-        data: ["Summon D, Beholder of Death and go into the boss room to kill the boss, Valiant Gargoyle Duo"]
-      - id: "371"
-        data: ["Grab the Great Waterfall Basin Grace."]
-  -
-    title: Altus Plateau Part Two
-    items:
-      - id: "372"
-        data: ["Go to the Altus Highway Junction Grace, follow the road North until you reach the bridge and grab the Forest-Spanning Greatbridge Grace"]
-      - id: "373"
-        data: ["Talk to the Finger Reader nearby and exhaust her dialogue"]
-      - id: "374"
-        data: ["Use the Waygate on the bridge to reach the other side of the bridge and talk to Goldmask"]
-      - id: "375"
-        data: ["Return to Brother Corhyn and exhaust his dialogue."]
-      - id: "376"
-        data: ["Return to Goldmask's location, talk to Brother Corhyn and exhaust his dialogue"]
-      - id: "377"
-        data: ["Talk to Goldmask"]
-      - id: "378"
-        data: ["Follow the road East from the bridge and grab the Windmill Village Grace."]
-      - id: "379"
-        data: ["Go through the village and kill the boss, Godskin Apostle"]
-      - id: "380"
-        data: ["Grab the Windmill Heights Grace"]
-      - id: "381"
-        data: ["Talk to Millicent nearby and exhaust her dialogue."]
-      - id: "382"
-        data: ["Follow the road South-East from the Windmill Village, through the opening in the wall and grab the Outer Wall Battleground Grace"]
-      - id: "383"
-        data: ["Rest at the Grace, talk to Melina and exhaust her dialogue"]
-      - id: "383_1"
-        data: ["Head South-East and fight Margit, The Fell Omen who is currently disguised as a common servant on the battlefield"]
-      - id: "384"
-        data: ["Follow the road South and talk to the Finger Reader"]
-      - id: "385"
-        data: ["Head South-West and grab the Outer Wall Phantom Tree Grace"]
-      - id: "386"
-        data: ["Grab Map (Leyndell, Royal Capital)"]
-      - id: "387"
-        data: ["Follow the road South-East and grab the Minor Erdtree Church Grace"]
-      - id: "388"
-        data: ["Rest at the Grace, talk to Melina and exhaust her dialogue"]
-      - id: "389"
-        data: ["Return to the Outer Wall Battleground Grace and head East to summon Millicent and Great Horned Tragoth and kill the boss, Draconic Tree Sentinel"]
-      - id: "390"
-        data: ["Go onto the bridge South-West and grab the Capital Rampart Grace."]
-  -
-    title: Volcano Manor Part Two
-    items:
-      - id: "335"
-        data: ["Return to the Magma Wyrm Makar Grace to invade and kill Great Horned Tragoth at the location indicated by the Letter to Patches."]
-      - id: "391"
-        data: ["Return to Volcano Manor, talk to Patches and exhaust his dialogue."]
-      - id: "392"
-        data: ["Talk to Tanith and exhaust her dialogue"]
-      - id: "393"
-        data: ["Talk to Rya and exhaust her dialogue."]
-      - id: "394"
-        data: ["Talk to Bernahl and exhaust his dialogue for Letter to Bernahl"]
-      - id: "395"
-        data: ["Grab the Red Letter from the table."]
-      - id: "396"
-        data: ["Talk to Tanith and exhaust her dialogue"]
-      - id: "397"
-        data: ["Reload, talk to Patches again and exhaust his dialogue"]
-      - id: "398"
-        data: ["Talk to Rya again and exhaust her dialogue"]
-      - id: "399"
-        data: ["Go into the first room on the right down the hall and roll into the wall to break the illusion. Follow the path down the stairs to grab the Prison Town Church Grace."]
-      - id: "400"
-        data: ["Follow the path down to the bottom, into the lava then going South-West, up the stairs, up the lift and use the lever next to the boss room to raise the bridge for a shortcut."]
-      - id: "401"
-        data: ["Go into the boss room and kill the boss, Godskin Noble."]
-      - id: "402"
-        data: ["Grab the Temple of Eiglay Grace"]
-      - id: "403"
-        data: ["Grab the Serpent's Amnion from the altar."]
-      - id: "404"
-        data: ["Return to Rya and exhaust her dialogue"]
-      - id: "405"
-        data: ["Reload, talk to Tanith and exhaust her dialogue"]
-      - id: "406"
-        data: ["Return to the Temple of Eiglay and tak the lift up. Go outside and hop off the balcony to the lava below. Cross the bridge of slugs, across the gap, up the slope and run past the Iron Virgin into the lava to find a room where you will find Rya. (You have the option to give her the potion but I don't recommend it)"]
-      - id: "407"
-        data: ["Follow the path out and then up the ladder and take the path going left. Go into the temple, open the door, then up the stairs and into the room above the entrance where you will find an Imp Statue and use it(if you accidentally go the path with the Waygate, DO NOT TAKE THE WAYGATE)"]
-      - id: "408"
-        data: ["Go into the room and make your way to the bottom and grab the Seedbed Curse."]
-      - id: "409"
-        data: ["You can now continue along this path to unlock a shortcut to this area by opening the door in front of Patches"]
-  -
-    title: Loathsome Dung-Eater
-    items:
-      - id: "410"
-        data: ["Return to Roundtable Hold and talk to the Dung Eater and exhaust his dialogue for the Sewer-Gaol Key"]
-      - id: "411"
-        data: ["Go to the Capital Rampart Grace just inside of Leyndell and follow the path into the city to grab the East Capital Rampart Grace."]
-      - id: "412"
-        data: ["Rest at the Grace to talk to Melina and exhaust her dialogue."]
-      - id: "413"
-        data: ["Talk to Boc and exhaust his dialogue. When he asks for a Larval Tear, Use Prattling Pate You're Beautiful on him then talk to him again and exhaust his dialogue."]
-      - id: "477"
-        data: ["Starting from the East Capital Rampart Grace, make your way to the center of Leyndell and grab the Avenue Balcony Grace."]
-      - id: "414"
-        data: ["Go down the stairs and then jump off the ledge to the left and find the nearby well to enter the sewers and grab the Underground Roadside Grace"]
-      - id: "415"
-        data: ["From the Grace, leave the room and go left and hop down the open grate on the left. Run past all the rats and plants to climb the ladder. Kill or run past the giants hands and open the door to the cell to find and talk to the Dung Eater and exhaust his dialogue."]
-      - id: "416"
-        data: ["Return to Roundtable Hold and read the note where Dung-Eater was"]
-      - id: "417"
-        data: ["Talk to Roderika and exhaust her dialogue"]
-      - id: "418"
-        data: ["From the Capital Rampart Grace, go North-East then follow the road until you can take the path South to reach the moat just outside the wall. Once there, talk to Blackguard Big Boggart, buy some Boiled Crab and exhaust his dialogue."]
-      - id: "419"
-        data: ["Reload the area and talk to Blackguard Big Boggart again and exhaust his dialogue to loot him."]
-      - id: "420"
-        data: ["Walk around the water nearby and kill the Invader Dung-Eater"]
-      - id: "421"
-        data: ["Return to the Dung-Eater in Roundtable Hold and exhaust his dialogue."]
-      - id: "421_1"
-        data: ["Talk to Roderika and exhaust her dialogue"]
-  -
-    title: Sellen Part Two/Seluvis
-    items:
-      - id: "422"
-        data: ["From here you now have the freedom to choose between giving Seluvis' Potion to Gideon (nothing happens), Dung-Eater (you get Dung Eater Puppet and can't finish his questline) or Nepheli (You get Nepheli Loux Puppet and can't finish Nepheli's, Kenneth's or Gostoc's questlines). For the purpose of this Walkthrough, Dung Eater will be sacrificed cause he deserves it."]
-      - id: "423"
-        data: ["Return to Dung Eater in the Sewers and use Seluvis' Potion on him. After giving him the potion, kill him(this will let you get both the puppet and his gear)"]
-      - id: "424"
-        data: ["Go to Ranni's Rise and go into the nearby ruins to find an Illusory Floor, hiding a staircase going down. Enter the room to find a bunch of puppets stuck in place. Break the Illusory Wall in the back to find a Sellen Puppet and interact with it to use Sellen's Primal Glintstone on it."]
-      - id: "425"
-        data: ["Talk to Sellen and exhaust her dialogue."]
-      - id: "426"
-        data: ["Make sure to interact with the note next to where the Illusory Wall was."]
-      - id: "427"
-        data: ["Go talk to Seluvis and exhaust his dialogue to gain access to buying spells and a puppet from him. Buy all the spells and a puppet. Note that you will need to have at least one Starlight Shard in your inventory in order to get the puppet. Starlight Shards can be found at at little statues that look like half-filled cups all over the map."]
-      - id: "428"
-        data: ["Either grab another Starlight Shard or leave one and pick it back up. Afterwards reload and talk to Seluvis again, asking for more puppets for him to open his puppet shop."]
-      - id: "428_1"
-        data: ["Buy another puppet and talk to him again. He will ask you to get him the Amber Starlight. Note that if he doesn't ask for the item, you will have to buy all of his current puppets"]
-      - id: "429"
-        data: ["Give him the Amber Starlight to finish his quest and talk to him one more time to get rewarded.(if you talk to him again, he will give you a potion to give to Ranni but I recommend not doing so. If you do you will need to seek absolution at the Church of Vows to continue Ranni's quest)"]
-  -
-    title: Liurnia Lake/Roundtable Hold
-    items:
-      - id: "430"
-        data: ["Talk to Ranni in Ranni's Rise and give her the Fingerslayer Blade to get the Carian Inverted Statue."]
-      - id: "431"
-        data: ["Go to the Church of Vows and head South-East to grab the Eastern Tableland Grace"]
-      - id: "432"
-        data: ["Continue East then South to grab the Study Hall Entrance Grace"]
-      - id: "433"
-        data: ["Use the Carian Inverted Statue on the altar to trigger a cutscene that change the Carian Study Hall"]
-      - id: "434"
-        data: ["Make your way through the Carian Study Hall to the top to grab the Liurnia Tower Bridge Grace"]
-      - id: "434_1"
-        data: ["Continue forward, through the door and up the lift to grab the Divine Tower of Liurnia Grace"]
-      - id: "434_2"
-        data: ["Continue up the stairs to grab the Cursemark of Death"]
-      - id: "435"
-        data: ["Go back to Roundtable Hold and loot Rogier's corpse."]
-      - id: "436"
-        data: ["Talk to Roderika and exhaust her dialogue."]
-      - id: "437"
-        data: ["If you haven't already, upgrade any Spirit Ash to at least +4, reload and talk to Roderika again."]
-      - id: "438"
-        data: ["Talk to Nepheli to give her the Stormhawk King and exhaust her dialogue."]
-  -
-    title: Deeproot Depths
-    items:
-      - id: "439"
-        data: ["Go to the Great Waterfall Basin Grace in the Twin Gargoyle boss room and use the coffin nearby to grab the Great Waterfall Crest Grace."]
-      - id: "440"
-        data: ["Head West, across the roots, and grab the Deeproot Depths Grace next to the cliffs"]
-      - id: "441"
-        data: ["Talk to Palm Reader and exhaust her dialogue."]
-      - id: "442"
-        data: ["Make your way North/North-West and grab Map (Deeproot Depths)"]
-      - id: "443"
-        data: ["Go up the nearby roots and head East and upwards, using the roots to grab the Across the Roots Grace"]
-      - id: "444"
-        data: ["Head North and kill the boss, Fia's Champions"]
-      - id: "445"
-        data: ["Talk to Fia and cuddle with her."]
-      - id: "446"
-        data: ["Grab the Prince of Death's Throne Grace"]
-      - id: "447"
-        data: ["Reload and cuddle with Fia again."]
-      - id: "448"
-        data: ["Reload and interact with the sleeping Fia"]
-      - id: "449"
-        data: ["Kill the boss, Lichdragon Fortissax"]
-      - id: "450"
-        data: ["Loot Fia nearby"]
-      - id: "451"
-        data: ["Reload, talk to D and exhaust his dialogue"]
-      - id: "452"
-        data: ["Loot Fia for her clothes."]
-      - id: "453"
-        data: ["Kill D or reload then loot D's Armor and sword."]
-  -
-    title: Liurnia Lake/Ainsel River Main
-    items:
-      - id: "454"
-        data: ["Go to the Road to the Manor Grace, talk to Iji and exhaust his dialogue"]
-      - id: "455"
-        data: ["Go to Ranni's Rise Grace then head to Seluvis' Rise to find Seluvis' corpse(you can now use it to buy puppets)"]
-      - id: "456"
-        data: ["Go to Pidia nearby and loot his corpse"]
-      - id: "457"
-        data: ["Head North-East of Ranni's Rise and into Renna's Rise. Use the Waygate and grab doll from the coffin nearby"]
-      - id: "458"
-        data: ["Grab the Ainsel River Main Grace."]
-      - id: "459"
-        data: ["Rest at the Grace and talk to the doll there 3 times"]
-      - id: "460"
-        data: ["Head South-West and grab the Nokstella, Eternal City Grace"]
-      - id: "461"
-        data: ["Follow the lower path, down the lift and grab the Nokstella Waterfall Basin Grace"]
-      - id: "461_1"
-        data: ["Rest at the Grace and talk to Ranni"]
-      - id: "462"
-        data: ["Continue to kill the Invader Baleful Shadow"]
-      - id: "463"
-        data: ["Keep going and grab the Lake of Rot Shoreside Grace."]
-      - id: "464"
-        data: ["Make your way past the Lake of Rot(using the platforms will be easiest but you can run to the other side as long as you heal) and grab the Grand Cloister Grace."]
-  -
-    title: Sellen/Ranni
-    items:
-      - id: "465"
-        data: ["Go to the Raya Lucaria Grand Library Grace and open the nearby chest for the Dark Moon Ring"]
-      - id: "466"
-        data: ["Head outside the room to find 2 summon signs. Choose to either join Sellen or join Jerren"]
-      - id: "467"
-        data: ["After the fight, loot the corpse/talk to the one you helped(may require reloading). If you helped Sellen, reload and talk to her again."]
-      - id: "468"
-        data: ["Return to the Grand Cloister Grace and head down then to the cliffs edge to the South and use the coffin."]
-      - id: "469"
-        data: ["Kill the boss, Astel, Naturalborn of the Void"]
-      - id: "470"
-        data: ["Grab the Astel, Naturalborn of the Void Grace."]
-      - id: "471"
-        data: ["Go North and take the lift up and grab the Moonlight Altar Grace"]
-      - id: "472"
-        data: ["Continue on the road North-East to grab the Cathedral of Manus Celes Grace"]
-      - id: "472_1"
-        data: ["Go down the nearby hole to talk to Ranni and exhaust her dialogue to receive the Dark Moon Greatsword."]
-      - id: "473"
-        data: ["Return to Iji, talk to him and exhaust his dialogue"]
-      - id: "474"
-        data: ["Return to Ranni's Rise and kill Blaidd"]
-      - id: "475"
-        data: ["Return to Iji again and exhaust his dialogue."]
-      - id: "476"
-        data: ["Reload and loot Iji's corpse."]
-  -
-    title: Leyndell
-    items:
-      - id: "478"
-        data: ["Starting from the Avenue Balcony Grace, head North-West and climb the wing of the dragon corpse to the top. Hop down and climb the ladder to to grab the West Capital Rampart Grace."]
-      - id: "479"
-        data: ["Go down the stairs and hop off the ledge going South-West then go to the location marked on the map to Invade and kill Errant Sorceror Wilhelm and Vargram the Raging Wolf alongside Recusant Bernahl."]
-      - id: "480"
-        data: ["Make your way South from the West Capital Rampart Grace to the coliseum and talk to Brother Corhyn and exhaust his dialogue"]
-      - id: "481"
-        data: ["Talk to Goldmask and exhaust his dialogue."]
-      - id: "482"
-        data: ["Follow the roots up to the East and kill the boss, Godfrey, First Elden Lord."]
-      - id: "483"
-        data: ["Grab the Erdtree Sanctuary Grace."]
-      - id: "484"
-        data: ["Go up the roots to the East, up to the next floor. Go outside, and go left onto the roof to enter the window. Go up the roots then grab the Golden Order Principia from above the Erdtree Sanctuary Grace."]
-      - id: "485"
-        data: ["Go to Miriel, Pastor of Vows and exhaust his dialogue."]
-      - id: "486"
-        data: ["Give him the Golden Order Principia then buy the Law of Regression"]
-      - id: "487"
-        data: ["Return to Erdtree Sanctuary Grace, go down the lift nearby and read the message at the bottom"]
-      - id: "488"
-        data: ["Use Law of Regression at the message and read the new message"]
-      - id: "489"
-        data: ["Return to Goldmask and exhaust his dialogue."]
-      - id: "490"
-        data: ["Talk to Brother Corhyn and exhaust his dialogue"]
-      - id: "491"
-        data: ["Go back to the Erdtree Sanctuary Grace and go up the roots to grab the Queen's Bedchamber Grace"]
-      - id: "492"
-        data: ["Continue up the path to the boss room to summon Melina and kill the boss Morgott, the Omen King."]
-      - id: "493"
-        data: ["Attempt to open enter the Erdtree to be denied then grab the Elden Throne Grace"]
-      - id: "494"
-        data: ["Rest at the Grace to talk to Melina and exhaust her dialogue"]
-      - id: "495"
-        data: ["Rest at the Queen's Bedchamber Grace to talk to Melina and exhaust her dialogue."]
-      - id: "496"
-        data: ["Go to the Avenue Balcony Grace and head North-East along the road, through the giant gates, up the slope, up the lift, across the bridge and down the next lift to grab the Forbidden Lands Grace."]
-      - id: "497"
-        data: ["Head North-East on the path through the area to summon Millicent and kill the boss, Black Blade Kindred."]
-      - id: "498"
-        data: ["Go past the boss and grab the Grand Lift of Rold Grace."]
-      - id: "499"
-        data: ["Talk to the Finger Reader nearby and exhaust her dialogue"]
-  -
-    title: Roundtable Hold/Nepheli/Dragonbarrow
-    items:
-      - id: "500"
-        data: ["Return to Roundtable Hold, talk to Enia and exhaust her dialogue"]
-      - id: "501"
-        data: ["Talk to Gideon and exhaust his dialogue"]
-      - id: "502"
-        data: ["Talk to Hewg and exhaust his dialogue."]
-      - id: "503"
-        data: ["Go to the Godrick the Grafted Grace in Stormveil Castle, talk to Nepheli in the throne room and exhaust her dialogue."]
-      - id: "504"
-        data: ["Talk to Kenneth and exhaust his dialogue"]
-      - id: "505"
-        data: ["Talk to Gostoc and exhaust his dialogue to add new items to his shop."]
-      - id: "506"
-        data: ["Go to Bestial Sanctum Grace, feed Deathroot to Gurranq and exhaust his dialogue"]
-      - id: "507"
-        data: ["Rest at the Grace and Gurranq will attack you. Beat him up but don't kill him then talk to him again"]
-      - id: "508"
-        data: ["In the Siofra River Well, go to the Siofra River Bank Grace. Go North-East and use the Waygate then head to the North-East corner of the area to grab the Below the Well Grace."]
-      - id: "509"
-        data: ["Use the Imp Statue and go up the lift to grab the Deep Siofra Well Grace."]
-      - id: "510"
-        data: ["Head North-West to the Coliseum and talk to the Great Jar."]
-      - id: "511"
-        data: ["Use the Red Summon Signs in front of the Great Jar to summon and kill all three of the Knight of the Great Jar."]
-      - id: "512"
-        data: ["Talk to the Great Jar again and be rewarded."]
-  -
-    title: Mountaintops of the Giants Part 1
-    items:
-      - id: "513"
-        data: ["Return to the Grand Lift of Rold Grace and go up the lift to grab Map (Mountaintops of the Giants, West)"]
-      - id: "514"
-        data: ["Grab the Zamor Ruins Grace nearby."]
-      - id: "515"
-        data: ["Rest and talk to Melina at Zamor Ruins Grace"]
-      - id: "516"
-        data: ["Talk to Shabriri nearby and exhaust his dialogue"]
-      - id: "517"
-        data: ["Rest at the Grace to talk to Melina and exhaust her dialogue."]
-      - id: "518"
-        data: ["Head North-East and when you see the fire guys, enter the nearby door to grab the Giants' Mountaintop Catacombs Grace."]
-      - id: "519"
-        data: ["Go through the area then down the lift, keep going to go down another lift. Follow this path to it's end then fall down side path hole near the Giant Warrior Pot. This area will look like the same area as before but if you go back to the lift, activate it and step off, there will be a secret path under the lift with a Giant Warrior Pot. Hop down and use the lever to unlock the boss room"]
-      - id: "519_1"
-        data: ["With the boss door opened now just kill the boss, Ulcerated Tree Spirit, for the Seventh Deathroot"]
-      - id: "520"
-        data: ["Exit the catacombs and head North-East to grab the Ancient Snow Valley Grace"]
-      - id: "521"
-        data: ["Talk to Millicent nearby and exhaust her dialogue"]
-      - id: "522"
-        data: ["Continue North to the frozen river then head West to the Shack of the Lofty to invade and kill Juno Hoslow"]
-      - id: "523"
-        data: ["Use the Spiritjump point South of the Shack of the Lofty to reach the Stargazer's Ruins. Enter the ruins and summon your Spirit Jellyfish Ashes then talk to the Spirit Jellyfish nearby to solve the puzzle."]
-      - id: "524"
-        data: ["Head to the bridge South-East of the ruins to talk to Corhyn and exhaust his dialogue (if you give him the Potion of Forgetfulness, he will be here at the end of his questline instead of the Capital of Ash)"]
-      - id: "525"
-        data: ["Talk to Goldmask and exhaust his dialogue."]
-  -
-    title: Volcano Manor
-    items:
-      - id: "526"
-        data: ["Go to Volcano Manor and talk to Bernahl for reward"]
-      - id: "526_1"
-        data: ["Talk to Diallos nearby and exhaust his dialogue"]
-      - id: "527"
-        data: ["Talk to Tanith and exhaust her dialogue to grab the Audience Pathway Grace"]
-      - id: "528"
-        data: ["Enter the boss room and kill the boss Rykard, Lord of Blasphemy (There is a spear nearby with a special attack that deals big damage against Rykard)"]
-      - id: "529"
-        data: ["Grab the Rykard, Lord of Blasphemy Grace"]
-      - id: "530"
-        data: ["Talk to Tanith and exhaust her dialogue"]
-      - id: "531"
-        data: ["Talk to Patches and exhaust his dialogue"]
-      - id: "532"
-        data: ["Talk to Bernahl and exhaust his dialogue"]
-      - id: "534"
-        data: ["Talk to Rya at her location past the Temple of Eiglay Grace(don't give her the potion)"]
-      - id: "535"
-        data: ["Reload and read the note she left at her location."]
-      - id: "536"
-        data: ["Go to the Shaded Castle Inner Gate Grace in Shaded Castle and continue through, up the lift to the bossroom to talk to Patches on the bridge full of statues and receive the Dancer's Castanettes from him."]
-      - id: "537"
-        data: ["Go back to the Rykard, Lord of Blasphemy Grace, talk Tanith nearby and exhaust her dialogue."]
-      - id: "538"
-        data: ["Kill Tanith and her Crucible Knight"]
-      - id: "539"
-        data: ["Go to Murkwater Cave in Limgrave and meet Patches again in his old bossroom(this is his current permanent location)"]
-  -
-    title: Mountaintops of the Giants Part 2
-    items:
-      - id: "540"
-        data: ["Start at the Ancient Snow Valley Grace and head North-East to the frozen river. Continue North-East to Freezing Lake Grace"]
-      - id: "541"
-        data: ["Go up the slope to the North and head South-West up the slope to grab the Snow Valley Ruins Overlook Grace."]
-      - id: "542"
-        data: ["Head North-West from the Grace, behind the gravestones, and kill the boss, Tibia Mariner for the Eighth Deathroot"]
-      - id: "543"
-        data: ["Continue West and down the slop going North-East to grab the Castle Sol Main Gate Grace"]
-      - id: "544"
-        data: ["Go into Castle Sol and up the stairs to the church to grab the Church of the Eclipse Grace"]
-      - id: "545"
-        data: ["Go deeper into the church and through the back door to grab the shortcut to the boss room, then go inside and kill the boss, Commander Niall"]
-      - id: "546"
-        data: ["Grab the Castle Sol Rooftop Grace"]
-      - id: "547"
-        data: ["Go up the lift in the boss room to grab the Haligtree Secret Medallion (Left)"]
-      - id: "548"
-        data: ["Go back to the Freezing Lake Grace and head across the lake going South-East until you reach the South-East corner to grab the First Church of Marika Grace"]
-      - id: "549"
-        data: ["Rest at the Grace to talk to Melina and exhaust her dialogue."]
-      - id: "550"
-        data: ["Head West to grab the Whiteridge Road Grace"]
-      - id: "551"
-        data: ["Head South and go across the bridge to grab the Giants' Gravepost Grace"]
-      - id: "553"
-        data: ["Go South/South-West to the Church of Repose to kill the Invader, Bloody Finger Okina"]
-      - id: "554"
-        data: ["Head East to grab the Foot of the Forge Grace"]
-      - id: "555"
-        data: ["Use the boss door just North-East of the Grace to enter the boss room, summon Alexander and ill the Fire Giant"]
-      - id: "556"
-        data: ["Grab the Fire Giant Grace nearby but DO NOT PROCEED TO THE FORGE YET"]
-  -
-    title: Leyndell Sewers and the Frenzied Flame
-    items:
-      - id: "557"
-        data: ["Go back to the Underground Roadside Grace in the sewers beneath Leyndell and follow the directions below to unlock all the shortcuts and reach the Forsaken Depths Grace(The sewers are confusing so the instructions will be a little difficult to follow unfortunately)"]
-      - id: "558"
-        data: ["Take a left and jump down the large open grate. Follow the path and look to your right for the large pipe opening and go inside of it. Follow the path, being careful to jump over the hole, and take the path that slopes upwards. Jump over the hole at the top of the slope and take a right at the fork. Climb the ladder and go through the to find a lever and a closed door. Pull the lever to open up the first shortcut."]
-      - id: "559"
-        data: ["Open the closed door and go through it. Turn left and hop down to the path below. Turn around and go down the stairs. Keep making lefts as you follow the path until you reach the flowers. Hop down to the flowers then turn around and enter the path behind you. Continue straight to the end of the path then make a right and go up the slope to enter an open room with an Omen and two ladders. Climb the ladder on the right side and go through the doorway. Open the door in front of you to unloack the shortcut right in front of the Underground Roadside Grace."]
-      - id: "560"
-        data: ["After opening the door, turn around and take the pipe sloping upwards on your right. Follow it all the way to the top then hop down to the left. Hop up onto the wooden path just above and go through the doorway. Jump down onto the open-top pipe just in front of you and enter it. Take the path going East, then turn left and immediately turn left again to go down the slope. Follow the path going right to a hole and jump INTO the hole this time. Follow the path to find a ladder then go down the ladder to see a giant pot. To the right of the pot is a lift, take the lift down and grab the Forsaken Depths Grace."]
-      - id: "561"
-        data: ["Enter the boss room to kill the boss, Mohg, The Omen"]
-      - id: "562"
-        data: ["Grab the Cathedral of the Forsaken Grace."]
-      - id: "563"
-        data: ["Rest at the Grace to talk to Melina and exhaust her dialogue"]
-      - id: "564"
-        data: ["Hit the altar to break the illusion and reveal the path forward. Make your way down the passage until you reach the bottom to grab the Frenzied Flame Proscription Grace."]
-      - id: "565"
-        data: ["Talk to Hyetta nearby and exhaust her dialogue"]
-      - id: "566"
-        data: ["Rest at the Grace to talk to Melina and exhaust her dialogue."]
-      - id: "567"
-        data: ["YOU NOW HAVE A CHOICE!!! This choice only affects cutscenes/dialogue."]
-      - id: "568"
-        data: ["Choice A is to take the Frenzied Flame NOW. This leads to a dialogue with Melina, an alternate cutscene at the Forge of Giants, and a cutscene with Melina if you choose the Frenzied Flame Ending."]
-      - id: "569"
-        data: ["Choice B is to wait until after Melina sacrifices herself to grab the Frenzied Flame. This will result in the normal cutscene at the Forge of Giants all the things from Choice A will not occur. For this Walkthrough, we will follow choice A."]
-      - id: "570"
-        data: ["Take off all of your equipment and open the doors to the Frenzied Flame. A cutscene will play."]
-      - id: "571"
-        data: ["Talk to Hyetta and exhaust her dialogue."]
-      - id: "572"
-        data: ["Rest at the Grace to talk to Melina and exhaust her dialogue."]
-  -
-    title: Hidden Path to the Haligtree
-    items:
-      - id: "573"
-        data: ["Go back to the Grand Lift of Rold Grace and use the lift. However, switch the medallion option to Use the Secret Medallion. Once you've finished riding the lift, follow the path forward to grab the Hidden Path to the Haligtree Grace"]
-      - id: "574"
-        data: ["Once you have grabbed the Grace, turn around and go back to the platform with the railings and find where the railing is broken. Fall off the edge where that railing is to reveal the invisible path below."]
-      - id: "575"
-        data: ["Follow the invible path using messages, bloodstains, rainbow stones, or the Hoarfrost Stomp Ash of War to it different locations but the specific path we want to follow is the one going West to the doorway. At the doorway, before entering, look to your left to see a corpse on a platform below. Jump down to the platform and jump through either windowsill and pull the lever on the North side behind the giant kraken. Turn South and head through the pathway to find the boss room."]
-      - id: "576"
-        data: ["Enter the boss room and kill the boss, Stray Mimic Tear and open the nearby chest for the Ninth and final Deathroot."]
-  -
-    title: Gurranq/Gowry/Gideon/Consecrated Snowfield
-    items:
-      - id: "577"
-        data: ["Return to the Bestial Sanctum to talk to Gurranq, give him the remaining Deathroot and exhaust his dialogue."]
-      - id: "578"
-        data: ["Return to Gowry at Gowry's Shack to talk to him and exhaust his dialogue."]
-      - id: "579"
-        data: ["Buy the spell, Pest Threads, from Gowry."]
-      - id: "580"
-        data: ["Talk to Gowry again and exhaust his dialogue."]
-      - id: "581"
-        data: ["Return to the Roundtable to talk to Gideon and exhaust all his dialogue options."]
-      - id: "582"
-        data: ["From the Hidden Path to the Haligtree Grace, head outside and grab the Consecrated Snowfield Grace."]
-      - id: "583"
-        data: ["Head North from the Grace to grab the Inner Consecrated Snowfield Grace"]
-      - id: "584"
-        data: ["Go North to grab Map (Mountaintops of the Giants, West)"]
-      - id: "585"
-        data: ["Head North-West to grab the Ordina, Liturgical Town Grace"]
-      - id: "586"
-        data: ["Interact with the Imp Statue on the North side of town to enter the Evergaol."]
-      - id: "587"
-        data: ["Go around the town and light the four statues to break the seal and unlock the entrance to the Haligtree."]
-      - id: "588"
-        data: ["Head West of the town, across the river, then North-West to grab the Apostate Derelict Grace."]
-      - id: "589"
-        data: ["Summon Latenna nearby to talk to her and exhaust her dialogue."]
-  -
-    title: Mohgwyn's Palace
-    items:
-      - id: "590"
-        data: ["You may have already entered Mohgwyn's Palace by using the Pureblood Knight's Talisman, however we will now enter another way. First, go to the Western edge of the Consecrated Snowfield to kill the Invader, Sanguine Noble."]
-      - id: "590_1"
-        data: ["Head West of the Sanguine Noble, into the corner of the forest and use the Waygate to grab the Palace Approach Ledge-Road Grace"]
-      - id: "591"
-        data: ["Explore the blood area in the South until you are Invaded three separate times by the Invaders, Nameless White Masks. Kill all three of the invaders(if you do not, their rewards will be missed)"]
-      - id: "592"
-        data: ["Make your way to the North-West part of the area to grab the Dynasty Mausoleum Entrance Grace"]
-      - id: "593"
-        data: ["Go through the tunnel to it's end to grab the Dynasty Mausoleum Midpoint Grace"]
-      - id: "594"
-        data: ["Turn around and re-enter the tunnel, use the Red Summon Sign to invade White Mask Varre and then kill him."]
-      - id: "595"
-        data: ["Talk to White Mask Varre near where the Summon Sign was and exhaust his dialogue"]
-      - id: "596"
-        data: ["Rest at the Grace and make sure to put the Purifying Crystal Tear in your Flask, otherwise this next fight will be very difficult."]
-      - id: "597"
-        data: ["Continue up the path from the Grace and use the lift to kill the boss, Mohg, Lord of Blood"]
-      - id: "598"
-        data: ["Grab the Cocoon of the Empyrean Grace"]
-  -
-    title: Miquella's Haligtree
-    items:
-      - id: "599"
-        data: ["Go back to the Ordina, Liturgical Town Grace then head North-East to use the Waygate to Miquella's Haligtree and grab the Haligtree Canopy Grace nearby"]
-      - id: "600"
-        data: ["Follow the roots past the enemies and grab the Haligtree Town Grace"]
-      - id: "601"
-        data: ["Make your way through the town to grab the Haligtree Town Plaza Grace"]
-      - id: "602"
-        data: ["Continue forward to kill the boss Loretta, Knight of the Haligtree"]
-      - id: "603"
-        data: ["Grab the Haligtree Promenade Grace"]
-      - id: "604"
-        data: ["Take the nearby lift down then continue forward to grab the Prayer Room Grace."]
-      - id: "605"
-        data: ["Talk to Millicent and exhaust her dialogue"]
-      - id: "606"
-        data: ["Continue forward, past the enemies and grab the Elphael Inner Wall Grace behind the Erdtree Avatar"]
-      - id: "607"
-        data: ["Keep following this path to the rot swamp and run through it to the other side then down the ladder to grab the Drainage Channel Grace"]
-      - id: "608"
-        data: ["Turn around and go back up the ladder and look to your left to see an island. Kill the pest nearby then use the root to jump to the island. Enter the center of the rot swamp to kill the Ulcerated Tree Spirit"]
-      - id: "609"
-        data: ["Reload and on the cliff above the swamp where the Ulcerated Tree Spirit spawned will be 2 Summon Signs. One will have you invade and kill Millicent while the other has you save her from her fate. For the purposes of the guide, save her."]
-      - id: "610"
-        data: ["After saving Millicent, speak to her nearby and exhaust her dialogue to receive the Unalloyed Gold Needle"]
-      - id: "611"
-        data: ["Go back to the Drainage Channel Grace and continue forward across the pathways and past the enemies to use the lift inside the building. Take the lift down and grab the Haligtree Roots Grace"]
-      - id: "612"
-        data: ["Keep going to kill the boss Malenia, Blade of Miquella"]
-      - id: "613"
-        data: ["Grab the Malenia, Goddess of Rot Grace"]
-      - id: "614"
-        data: ["Reload and interract with the Scarlet Aeonia flower nearby to turn the Unalloyed Gold Needle into Miquella's Needle"]
-      - id: "615"
-        data: ["Return to Gowry at his shack to talk to him and reload(if he isn't dead, kill him)"]
-      - id: "616"
-        data: ["Go to Gideon and talk to him about the Medallion, the Tree, the Palace, and the Lord of Blood to be rewarded."]
-      - id: "617"
-        data: ["Talk to Hewg after upgrading any weapon to max if you haven't already"]
-  -
-    title: Crumbling Farum Azula/Wrapping Up
-    items:
-      - id: "618"
-        data: ["WARNING!!! The game changes after this next step so make sure to do anything/everything above before continuing if you don't want to miss anything."]
-      - id: "619"
-        data: ["Go to the Fire Giant Grace and proceed to the forge to grab the Forge of Giants Grace and rest at it to enter Crumbling Farum Azula"]
-      - id: "620"
-        data: ["Go forward to grab the Crumbling Beast Grave Grace"]
-      - id: "621"
-        data: ["Keep going, past the dragon, to grab the Crumbling Beast Grave Depths Grace"]
-      - id: "622"
-        data: ["Go through the building going North-East to grab the Tempest-Facing Balcony Grace"]
-      - id: "623"
-        data: ["Follow the path forward and grab the Dragon Temple Grace"]
-      - id: "624"
-        data: ["Turn around and jump to over the cliff to the platform below then hop down. Run past the enemies, keep to the wall on your left to grab the Dragon Temple Transept Grace"]
-      - id: "625"
-        data: ["Summon Bernahl nearby and kill the boss Godskin Duo."]
-      - id: "626"
-        data: ["Grab the Dragon Temple Altar Grace"]
-      - id: "627"
-        data: ["Go through the North-East door to continue forward to find an Imp Statue. Use the statue and take the lift to the Dragon Temple Lift Grace."]
-      - id: "628"
-        data: ["Follow the path from the Grace and past the dragon to find Alexander. Exhaust his dialogue and end his questline."]
-      - id: "629"
-        data: ["Go back down the lift from the Dragon Temple Lift Grace and keep following the path at the bottom until you rach a Crucible Knight. Kill or run past it to grab the Dragon Temple Rooftop Grace"]
-      - id: "630"
-        data: ["Continue past the Grace and run past the birds and the Dragon until you reach the lift. Take the lift up to grab the Beside the Great Bridge Grace"]
-      - id: "631"
-        data: ["Go up the stairs and follow the path to the left, away from the boss room. Take the ladder down and keep going to kill the Invader Recusant Bernahl."]
-      - id: "632"
-        data: ["Go to the East Capital Rampart Grace back in Leyndell to talk to Boc and exhaust his dialogue"]
-      - id: "633"
-        data: ["Go to the Jarburg Grace to talk to Jar Bairn and Diallos, reloading until their dialogue is exhausted"]
-      - id: "634"
-        data: ["Pass time until morning and talk to each again until dialogue is exhausted"]
-      - id: "635"
-        data: ["Reload and talk to Jar Bairn then reload to give him Alexander's Shard then reload again to finish his questline."]
-      - id: "636"
-        data: ["Return to Roundtable Hold to talk to Hewg and exhaust his dialogue"]
-      - id: "637"
-        data: ["Talk Roderika and exhaust her dialogue"]
-      - id: "638"
-        data: ["Talk to Gideon and exhaust his dialogue"]
-      - id: "639"
-        data: ["Enia will be dead now but you can still use her to shop."]
-      - id: "640"
-        data: ["Go back to the Beside the Great Bridge Grace and go down the lift. Go straight the the edge and jump down to the platform below. Follow this path to the empty grave and then interact with it to kill the boss Dragonlord Placidusax."]
-      - id: "641"
-        data: ["Grab the Dragonlord Placidusax Grace"]
-      - id: "642"
-        data: ["From this point, you can use Miquella's Needle in this area to remove the Frenzied Flame and allow the other endings again. This doesn't have to be done and it can be done at anytime before choosing the game's ending."]
-      - id: "643"
-        data: ["WARNING!!! Completing the next step will change Leyndell permanently. Do all exploring in Leyndell before completing this step or you will be forced to wait until NG+"]
-      - id: "644"
-        data: ["Return to the Beside the Great Bridge Grace and go up the slope to kill Malekith the Black Blade"]
-  -
-    title: Capital of Ash
-    items:
-      - id: "645"
-        data: ["Grab the Leyndell, Ashen Capital Grace"]
-      - id: "646"
-        data: ["Head South-West and talk to Brother Corhyn(he will be in Consecrated Snowfield if you gave him the Tonic of Forgetfulness) and exhaust his dialogue then reload to grab his stuff"]
-      - id: "647"
-        data: ["Continue South and cross the bridge to find Goldmask's body to get the Mending Rune of Perfect Order then reload for his stuff"]
-      - id: "648"
-        data: ["Cross the bridge again and use the staircase nearby to follow the path to kill Sir Gideon Ofnir, the All-Knowing"]
-      - id: "649"
-        data: ["Grab the Erdtree Sanctuary Grace then keep going forward to Summon Nepheli Loux and Shabriri then kill the boss Godfrey, First Elden Lord."]
-      - id: "650"
-        data: ["Grab the Elden Throne Grace"]
-      - id: "651"
-        data: ["Finish the game"]
+sections:
+- title: 宁姆格福
+  items:
+  - id: '0'
+    data:
+    - 在游戏开始时触碰<b>赐福[引导之始]</b>。
+    map_link:
+    - 3701
+    - 7341
+  - id: '1'
+    data:
+    - 与附近的<b>[“白面具”梵雷]</b>对话到重复。
+    map_link:
+    - 3694
+    - 7334
+  - id: '2'
+    data:
+    - 获取召唤雕像旁边的<b>[金色小雕像]</b>。
+    map_link:
+    - 3711
+    - 7342
+  - id: '3'
+    data:
+    - 去北方触碰<b>赐福[艾雷教堂]</b>。
+    map_link:
+    - 3679
+    - 7224
+  - id: '4'
+    data:
+    - 在<b>[艾雷教堂]</b>与<b>[“流浪商人”咖列]</b>对话
+    map_link:
+    - 3655
+    - 7210
+  - id: '5'
+    data:
+    - 前往东北方向的<b>[关卡前废墟]</b>，在石碑处获取<b>[地图碎片：宁姆格福（西）]</b>。
+    map_link:
+    - 3789
+    - 6956
+  - id: '6'
+    data:
+    - 下楼梯在<b>[关卡前废墟]</b>中心，获取<b>[砥石小刀]</b>
+    map_link:
+    - 3808
+    - 6982
+  - id: '7'
+    data:
+    - 去东方的<b>[关卡前废墟]</b>并触碰<b>赐福[亚基尔湖北方]</b>
+    map_link:
+    - 3885
+    - 6983
+  - id: '8'
+    data:
+    - 在<b>赐福[亚基尔湖北方]</b>休息，与<b>[梅琳娜]</b>签订契约并对话到重复。
+    map_link:
+    - 3885
+    - 6983
+  - id: '9'
+    data:
+    - 从赐福向东，打破树幻象并与<b>[亚人柏克]</b>对话到重复。
+    map_link:
+    - 3985
+    - 7039
+  - id: '10'
+    data:
+    - 向北，使用龙卷风跳到悬崖上，并从悬崖上的坑中解救<b>[“战士壶”亚历山大]</b>，然后和他对话到重复。
+    map_link:
+    - 3954
+    - 6543
+  - id: '11'
+    data:
+    - 在你发现<b>[“战士壶”亚历山大]</b>的悬崖下面触碰<b>赐福[圣人桥]</b>。
+    map_link:
+    - 3989
+    - 6525
+  - id: '12'
+    data:
+    - 朝东穿过桥和墓地附近的<b>[“狩猎死亡”Ｄ]</b>对话到重复。
+    map_link:
+    - 4233
+    - 6507
+  - id: '13'
+    data:
+    - 沿着路向东到达<b>[水唤村]</b>，在那里杀死<b>[提比亚的唤声船]</b>。
+    map_link:
+    - 4452
+    - 6518
+  - id: '14'
+    data:
+    - 击杀<b>[提比亚的唤声船]</b>后，与附近的<b>[“狩猎死亡”Ｄ]</b>对话。
+    map_link:
+    - 4379
+    - 6573
+  - id: '15'
+    data:
+    - 沿着悬崖往南走，在废墟的顶部与<b>[“领主的嫡长子”肯尼斯·海德]</b>交谈。
+    map_link:
+    - 4399
+    - 6816
+  - id: '16'
+    data:
+    - 从<b>[“领主的嫡长子”肯尼斯·海德]</b>向东，触碰<b>赐福[玛莉卡第三教堂]</b>以及<b>[圣杯露滴]</b>、<b>[灵药圣杯瓶]</b>和<b>[红结晶露滴]</b>。
+    map_link:
+    - 4635
+    - 6711
+  - id: '17'
+    data:
+    - 在赐福休息并和<b>[梅琳娜]</b>对话到重复。
+    map_link:
+    - 4635
+    - 6711
+  - id: '18'
+    data:
+    - 沿着路向南走，在路旁的石碑处找到<b>[地图碎片：宁姆格福（东）]</b>。
+  - id: '19'
+    data:
+    - 从石碑向西南走，听<b>[“半狼”布莱泽]</b>在<b>[雾林废墟]</b>处的嚎叫。
+  - id: '20'
+    data:
+    - 沿着路东南走，触碰<b>赐福[海德要塞西方]</b>。
+  - id: '21'
+    data:
+    - 从小黄金树前的<b>[海德要塞]</b>获取<b>[黄金种子]</b>
+  - id: '22'
+    data:
+    - 爬到<b>[海德要塞]</b>的顶部并在顶部杀死骑士
+  - id: '23'
+    data:
+    - 爬上附近塔的梯子收集<b>[迪可达斯符节（左）]</b>
+  - id: '24'
+    data:
+    - 回到<b>[艾雷教堂]</b>，如果是白天就打发时间到晚上，与<b>[魔女蕾娜]</b>见面，接收<b>[召魂铃]</b>和<b>[离群野狼的骨灰]</b>，并对话到重复。
+  - id: '25'
+    data:
+    - 与附近的<b>[“流浪商人”咖列]</b>对话，获取<b>[弹指]</b>并对话到重复。
+  - id: '26'
+    data:
+    - 从<b>[艾雷教堂]</b>向西南走，然后向海岸走，然后进入<b>[海岸洞窟]</b>并触碰<b>赐福[海岸洞窟]</b>。
+  - id: '27'
+    data:
+    - 与赐福附近的<b>[亚人柏克]</b>对话到重复。
+  - id: '28'
+    data:
+    - 通过<b>[海岸洞窟]</b>并在Boss房间外召唤<b>[“古老骑士”伊修托邦]</b>
+  - id: '29'
+    data:
+    - 杀死<b>[亚人首领]</b>并获得<b>[缝衣针]</b>和<b>[裁缝工具]</b>
+  - id: '30'
+    data:
+    - 从Boss房间的另一边出去，触碰<b>赐福[龙飨教堂]</b>。
+  - id: '31'
+    data:
+    - 回到<b>[亚人柏克]</b>处，给他<b>[缝衣针]</b>，然后对话到重复。
+  - id: '32'
+    data:
+    - 从第一步的赐福开始向东南方向走，沿着悬崖边缘触碰<b>赐福[傍海古遗迹]</b>。
+  - id: '33'
+    data:
+    - 在<b>赐福[傍海古遗迹]</b>旁边的废墟遇见<b>[“血指猎人”尤拉]</b>并对话到重复。
+  - id: '34'
+    data:
+    - 向西北方向进入湖中并与<b>[“飞龙”亚基尔]</b>战斗，至少击中它一次，并逃跑。
+  - id: '35'
+    data:
+    - 在不杀死<b>[“飞龙”亚基尔]</b>的情况下返回<b>[“血指猎人”尤拉]</b>以获得额外的对话。
+  - id: '38'
+    data:
+    - 从<b>[“血指猎人”尤拉]</b>向东并触碰<b>赐福[亚基尔湖南方]</b>。
+  - id: '39'
+    data:
+    - 从赐福向北走到<b>[驿站街遗迹]</b>并杀死Boss <b>[发狂南瓜头士兵]</b>。
+  - id: '40'
+    data:
+    - 触碰<b>赐福[驿站街遗迹]</b>并和<b>[魔法师瑟濂]</b>交谈。接受她提供的课程，对话到重复。
+  - id: '41'
+    data:
+    - 往西走到湖里，再往北边桥下走，继续沿着这条道路，你会被<b>[“血指”涅利乌斯]</b>入侵。在他面前存活一段时间，<b>[“血指猎人”尤拉]</b>会出现对话，然后杀死血指<b>[“血指”涅利乌斯]</b>。
+  - id: '42'
+    data:
+    - 从你与<b>[“血指”涅利乌斯]</b>战斗的地方向北走，并在废墟下与<b>[“血指猎人”尤拉]</b>交谈。
+  - id: '43'
+    data:
+    - 回到你战斗<b>[“血指”涅利乌斯]</b>的地方，然后进入<b>[蒙流洞窟]</b>触碰<b>赐福[蒙流洞窟]</b>。
+  - id: '44'
+    data:
+    - 穿过洞穴，在完全空的房间里打开明显没有守卫的箱子。
+  - id: '45'
+    data:
+    - 攻击<b>[帕奇]</b>直到生命值低于50%。一旦他投降，停止攻击，战斗就会结束，并获得<b>[求饶]</b>。
+  - id: '46'
+    data:
+    - 攻击<b>[帕奇]</b>三次(轻一点)，他会再次变成敌人。让他把你的生命值敲到50%，此时做出<b>[求饶]</b>这个动作就可以结束这场战斗，并获得<b>[下跪]</b>。
+  - id: '47'
+    data:
+    - 与<b>[帕奇]</b>对话到重复。
+  - id: '48'
+    data:
+    - 刷新(方法1:结束游戏退回标题并加载存档，方法2:在赐福点休息。以后的刷新都按照此操作方法)并回到他身边以获得更多对话并进入他的商店。购买<b>[玛尔基特的囚具]</b>，<b>[传道士的制作笔记【２】]</b>和其他你想要的东西。
+  - id: '49'
+    data:
+    - 购买物品后刷新该区域，并再次与<b>[帕奇]</b>交谈以获得更多对话。他会允许你打开箱子。
+  - id: '50'
+    data:
+    - 向北，回到<b>[“领主的嫡长子”肯尼斯·海德]</b>处并对话到重复。
+  - id: '51'
+    data:
+    - 往南走，回到<b>[雾林废墟]</b>，使用姿势<b>[弹指]</b>呼叫<b>[“半狼”布莱泽]</b>下来，然后与<b>[“半狼”布莱泽]</b>对话到重复。
+  - id: '52'
+    data:
+    - 前往<b>[海德要塞]</b>顶部与骑士战斗的地方并与<b>[“领主的嫡长子”肯尼斯·海德]</b>交谈，并对话到重复。
+  - id: '53'
+    data:
+    - 回到<b>[蒙流洞窟]</b>中的<b>[帕奇]</b>处，并对话到重复。
+  - id: '54'
+    data:
+    - 去<b>赐福[圣人桥]</b>(在那里你解救了<b>[“战士壶”亚历山大]</b>)并向西前进。在悬崖北侧的墙壁上你会发现<b>[死亡降临的地下墓地]</b>。进去触碰<b>赐福[死亡降临的地下墓地]</b>。
+  - id: '55'
+    data:
+    - 通过<b>[死亡降临的地下墓地]</b>并击败Boss <b>[黑刀刺客]</b>并获取<b>[死根]</b>。
+  - id: '56'
+    data:
+    - 从<b>[死亡降临的地下墓地]</b>向西走，触碰<b>赐福[习战者的破屋]</b>。
+  - id: '57'
+    data:
+    - 在<b>[习战者的破屋]</b>中遇到<b>[骑士贝纳尔]</b>并对话到重复。
+  - id: '58'
+    data:
+    - 从<b>[习战者的破屋]</b>向北走，会被<b>[“叛律者”亨利克斯]</b>入侵。杀了他。
+  - id: '59'
+    data:
+    - 从<b>[习战者的破屋]</b>向西，沿着路走到<b>[风暴山丘的破屋]</b>，触碰<b>赐福[风暴山丘的破屋]</b>。
+  - id: '60'
+    data:
+    - 在<b>赐福[风暴山丘的破屋]</b>休息，与<b>[梅琳娜]</b>对话到重复。
+  - id: '61'
+    data:
+    - 在<b>[风暴山丘的破屋]</b>中遇到<b>[罗德莉卡]</b>并对话到重复。
+  - id: '62'
+    data:
+    - 从<b>[风暴山丘的破屋]</b>南边小黄金树获取<b>[黄金种子]</b>。
+  - id: '63'
+    data:
+    - 从<b>[风暴山丘的破屋]</b>向北走，进入树林，在断桥上遇见<b>[解指老妪]</b>
+  - id: '64'
+    data:
+    - 返回道路并向西前进，触碰<b>赐福[通城隧道]</b>。
+  - id: '65'
+    data:
+    - 在<b>赐福[通城隧道]</b>休息，与<b>[梅琳娜]</b>对话到重复。
+  - id: '66'
+    data:
+    - 回到位于<b>[宁姆格福]</b>东南方向的<b>赐福[亚基尔湖南方]</b>，沿着斜坡向南找到<b>[无主猎犬的封印监牢]</b>。
+  - id: '67'
+    data:
+    - 进入<b>[无主猎犬的封印监牢]</b>，召唤<b>[“半狼”布莱泽]</b>进行对话，然后击败Boss <b>[“猎犬骑士”达瑞威尔]</b>。
+  - id: '68'
+    data:
+    - 战斗结束后，与附近的<b>[“半狼”布莱泽]</b>对话到重复。
+  - id: '36'
+    data:
+    - 回到<b>[“飞龙”亚基尔]</b>杀了他。可以在玛莉卡楔石头附近召唤<b>[“血指猎人”尤拉]</b>来进行额外的对话。
+  - id: '37'
+    data:
+    - 回到<b>[“血指猎人”尤拉]</b>处并对话到重复。
+  - id: '69'
+    data:
+    - <b>[宁姆格福]</b>现在是可以100%安全地自由探索! 但要注意，如果你被一个箱子传送，只触碰离你最近的赐福。如果你在最近的赐福之外触碰任何一个赐福，你可能会破坏流程。此外，出于本指南的流程需要，不要使用<b>[野兽神殿]</b>传送门。虽然这个时间点上它是安全的，但可能会改变流程顺序。
+- title: 啜泣半岛
+  items:
+  - id: '70'
+    data:
+    - 从东南方向<b>赐福[亚基尔湖南方]</b>开始，沿着道路东南，穿过<b>[献祭大桥]</b>，触碰<b>赐福[献祭大桥]</b>。
+  - id: '71'
+    data:
+    - 在附近的路上遇见<b>[摩恩的伊蕾娜]</b>，并对话到重复获得<b>[伊蕾娜的信]</b>。
+  - id: '72'
+    data:
+    - 沿着路向南走，触碰<b>赐福[摩恩城（城墙前方）]</b>。
+  - id: '73'
+    data:
+    - 沿着西北方向的路去触碰<b>赐福[监视塔的南方]</b>
+  - id: '74'
+    data:
+    - 过桥向西，沿着向北的路走到<b>[巡礼教堂]</b>，在教堂里触碰<b>赐福[巡礼教堂]</b>和<b>[圣杯露滴]</b>。
+  - id: '75'
+    data:
+    - 在<b>赐福[巡礼教堂]</b>休息，并与<b>[梅琳娜]</b>对话到重复。
+  - id: '76'
+    data:
+    - 回到<b>赐福[摩恩城（城墙前方）]</b>，沿着路南下，在石碑处获取<b>[地图碎片：啜泣半岛]</b>，并从附近的小黄金树处获得<b>[黄金种子]</b>。
+  - id: '77'
+    data:
+    - 继续往南走，到达<b>[摩恩城]</b>，触碰<b>赐福[摩恩城（升降机前方）]</b>。
+  - id: '78'
+    data:
+    - 爬上电梯，偷偷从右边绕过祈祷的敌人。进入房间，然后从另一边出去。爬上梯子到顶端，然后再爬上你面前的下一个梯子。跑到另一边，跳过左边的边缘到下面的墙。跑过桥，再从桥边向左走。跑过敌人到塔，在塔的顶部你会发现<b>[城主艾德格]</b>。
+  - id: '79'
+    data:
+    - 与<b>[城主艾德格]</b>对话到重复。
+  - id: '80'
+    data:
+    - 回头，从敌人面前再走一次。在路径的尽头，跳下墙后在你的左边触碰<b>赐福[城堡后方]</b>。
+  - id: '81'
+    data:
+    - 在Boss房间外召唤<b>[城主艾德格]</b>，然后杀死Boss <b>[狮子混种]</b>获得传说中的武器<b>[剑骸大剑]</b>。
+  - id: '82'
+    data:
+    - 回到<b>[城主艾德格]</b>，他在塔上，对话到重复。
+  - id: '83'
+    data:
+    - 返回在<b>赐福[献祭大桥]</b>附近的<b>[摩恩的伊蕾娜]</b>处，对话到重复。
+  - id: '84'
+    data:
+    - <b>[啜泣半岛]</b>现在是100%安全的自由探索! 不需要任何警告!
+- title: “恶兆妖鬼”玛尔基特/圆桌厅堂
+  items:
+  - id: '86'
+    data:
+    - 回到西边的<b>[宁姆格福]</b>的<b>赐福[通城隧道]</b>，在Boss房间外召唤<b>[魔法师罗杰尔]</b>并杀死<b>[“恶兆妖鬼”玛尔基特]</b>，获取<b>[护符皮袋]</b>。
+  - id: '87'
+    data:
+    - 触碰<b>赐福[“恶兆妖鬼”玛尔基特]</b>并休息，和<b>[梅琳娜]</b>交谈并被带到<b>[圆桌厅堂]</b>。
+  - id: '88'
+    data:
+    - 与<b>[圣职人员柯林]</b>对话到重复
+  - id: '89'
+    data:
+    - 与<b>[“百智爵士”基甸·奥夫尼尔]</b>对话到重复
+  - id: '90'
+    data:
+    - 与<b>[“狩猎死亡”Ｄ]</b>对话到重复
+  - id: '91'
+    data:
+    - 与<b>[骑士狄亚罗斯]</b>对话到重复
+  - id: '92'
+    data:
+    - 与<b>[铁匠修古]</b>对话到重复
+  - id: '93'
+    data:
+    - 与<b>[“死眠少女”菲雅]</b>拥抱并对话到重复
+  - id: '94'
+    data:
+    - 与<b>[“王骸”恩夏]</b>交谈并得到<b>[有何贵干？]</b>
+  - id: '95'
+    data:
+    - 跳下阳台，等待<b>[“发狂之舌”阿尔佩利希]</b>在攻击前鞠躬，然后杀死他。
+- title: 史东薇尔城
+  items:
+  - id: '96'
+    data:
+    - 返回<b>赐福[“恶兆妖鬼”玛尔基特]</b>，并沿着路径上去触碰<b>赐福[史东薇尔正门]</b>
+  - id: '97'
+    data:
+    - 在附近的建筑中与<b>[门卫葛托克]</b>交谈并先同意，然后再与他交谈并拒绝他的建议，最后走到大门打开它。
+  - id: '98'
+    data:
+    - 按照<b>[门卫葛托克]</b>最初推荐的路径，触碰<b>赐福[史东薇尔断崖]</b>。
+  - id: '99'
+    data:
+    - 上台阶，进入建筑在台阶的顶部，并通过第二个门口，然后转身走回<b>赐福[史东薇尔断崖]</b>，但不要休息。你会在赐福上方的悬崖上找到<b>[门卫葛托克]</b>，与他对话到重复。
+  - id: '100'
+    data:
+    - 回到城堡大门旁边的<b>[门卫葛托克]</b>，他的商店现在会打开。
+  - id: '101'
+    data:
+    - 按照前面的步骤继续向前，然后继续触碰<b>赐福[城墙塔]</b>。
+  - id: '102'
+    data:
+    - 选择1:穿过通向西北方向的门，那里有所有的鸟，穿过它们，爬下教堂屋顶的梯子。
+  - id: '103'
+    data:
+    - 选择2:你也可以在遇到第一处敌人的位置之前向右转。跳过阳台，跳到对面的屋顶上，再跳到下面的小路上。
+  - id: '104'
+    data:
+    - 沿着西北方向的小路去教堂，与<b>[魔法师罗杰尔]</b>对话到重复。
+  - id: '105'
+    data:
+    - 从<b>[魔法师罗杰尔]</b>沿着东南方向的路径进入建筑，直到你到达可以在一楼看到<b>[“接肢”贵族后裔]</b>的房间。向右转，穿过门口。在你的左边，你会看到一具倒挂着的巨人尸体。跳下来到地面下面的巨人并获取<b>[蛹群的遗物]</b>。
+  - id: '106'
+    data:
+    - 获取<b>[蛹群的遗物]</b>后，出门，进入左边的门，上电梯解锁通往<b>赐福[城墙塔]</b>的捷径。
+  - id: '107'
+    data:
+    - 返回<b>[罗德莉卡]</b>在<b>[风暴山丘的破屋]</b>，给她<b>[蛹群的遗物]</b>并对话到重复。
+  - id: '108'
+    data:
+    - 返回<b>赐福[城墙塔]</b>，然后返回电梯。出门并杀死或跑过<b>[“接肢”贵族后裔]</b>，然后通过左边最远处的门。走出去左转，沿着墙向北走，经过敌人，然后进入左边的门，获得<b>[绘画《预言》]</b>。
+  - id: '109'
+    data:
+    - 回到外面，左转，上楼去触碰<b>赐福[升降机旁房间]</b>。
+  - id: '110'
+    data:
+    - 拉一下控制杆，上电梯。沿路前进并在<b>[活壶碎片]</b>敌人旁边获取<b>[龟裂壶]</b>x2。
+  - id: '111'
+    data:
+    - 到路的尽头触碰<b>赐福[深处小房间]</b>。
+  - id: '112'
+    data:
+    - 从<b>赐福[深处小房间]</b>向东南方向移动，并在小黄金树旁获得<b>[黄金种子]</b>。
+  - id: '113'
+    data:
+    - 进入附近的建筑，与<b>[战士涅斐丽·露]</b>对话到重复。
+  - id: '114'
+    data:
+    - 回到<b>赐福[深处小房间]</b>，召唤<b>[战士涅斐丽·露]</b>，然后杀死Boss <b>[“接肢”葛瑞克]</b>。
+  - id: '115'
+    data:
+    - 触碰<b>赐福[“接肢”葛瑞克]</b>，与附近的<b>[门卫葛托克]</b>对话并对话到重复。
+  - id: '116'
+    data:
+    - 返回<b>赐福[升降机旁房间]</b>，再次搭乘电梯前往<b>赐福[深处小房间]</b>。不走下坡去赐福，而是走大路，穿过木桥。从木桥上跳上石壁，向右抱住墙壁。最后从窗台跳到附近的阳台上，到达隐藏的小路。
+  - id: '117'
+    data:
+    - 沿着这个隐藏道路前进，直到你看到一个来自<b>[魔法师罗杰尔]</b>的消息。在这个消息的后面是一个通往<b>赐福[升降机旁房间]</b>的捷径门。
+  - id: '118'
+    data:
+    - 你现在可以沿着那条路走到它的底部(它会花一点时间)，或者你可以从<b>赐福[升降机旁房间]</b>走出南门并向右转。走到窗台上，从上面掉下去，然后从那里爬到底部。
+  - id: '119'
+    data:
+    - 在底部，经过所有的老鼠，将是一个较小的<b>[腐烂树灵]</b>。杀死它(这是必需的)获取<b>[黄金种子]</b>。
+  - id: '120'
+    data:
+    - 越过较小的<b>[腐烂树灵]</b>捡到<b>[死王子的脓疮]</b>，旁边是<b>[魔法师罗杰尔]</b>的血迹。互动可以看到之前发生了什么。
+- title: 宁姆格福/圆桌厅堂
+  items:
+  - id: '121'
+    data:
+    - 去<b>[玛莉卡第三教堂]</b>并使用传送门传到北方的<b>[野兽神殿]</b>。
+  - id: '122'
+    data:
+    - 向前进入密室并触碰<b>赐福[野兽神殿]</b>。
+  - id: '123'
+    data:
+    - 与<b>[“野兽祭司”古兰格]</b>对话，给他你的前两个<b>[死根]</b>以获取<b>[爪痕圣印记]</b>， <b>[野兽眼眸]</b>和<b>[兽石]</b>。
+  - id: '124'
+    data:
+    - 回到<b>[“白面具”梵雷]</b>的初始赐福并对话到重复。
+  - id: '125'
+    data:
+    - 返回<b>[圆桌厅堂]</b>，与<b>[“解指”恩雅]</b>和<b>[双指]</b>对话到重复。
+  - id: '126'
+    data:
+    - 与<b>[战士涅斐丽·露]</b>和<b>[“百智爵士”基甸·奥夫尼尔]</b>对话到重复。
+  - id: '127'
+    data:
+    - 与<b>[“狩猎死亡”Ｄ]</b>和<b>[魔法师罗杰尔]</b>对话到重复。
+  - id: '128'
+    data:
+    - 与<b>[罗德莉卡]</b>和<b>[铁匠修古]</b>对话到重复
+  - id: '129'
+    data:
+    - 与<b>[“死眠少女”菲雅]</b>拥抱，并对话到重复获取<b>[烙印的线索]</b>。
+  - id: '130'
+    data:
+    - 回到<b>[“白面具”梵雷]</b>在初始赐福的位置并阅读他的信息。
+- title: 湖之利耶尼亚第一部分
+  items:
+  - id: '131'
+    data:
+    - 去<b>赐福[“接肢”葛瑞克]</b>，穿过王座室，获取它下面的<b>[夏玻利利葡萄]</b>
+  - id: '132'
+    data:
+    - 触碰附近的<b>赐福[傍湖断崖]</b>
+  - id: '133'
+    data:
+    - 把<b>[夏玻利利葡萄]</b>给在赐福附近的<b>[“探寻灯火”海妲]</b>(可能需要休息)并对话到重复
+  - id: '134'
+    data:
+    - 与<b>[亚人柏克]</b>对话到重复
+  - id: '135'
+    data:
+    - 进入<b>[伊利斯教堂]</b>并获取<b>[圣杯露滴]</b>
+  - id: '136'
+    data:
+    - 在<b>[伊利斯教堂]</b>中与<b>[魔法师托普斯]</b>对话并对话到重复
+  - id: '137'
+    data:
+    - 向西北方向，沿着斜坡向下，到岸边触碰<b>赐福[利耶尼亚湖（湖边）]</b>(如果你还没有的话，我建议你从附近的商人那里购买<b>[携带照明灯]</b>)
+  - id: '138'
+    data:
+    - 从海岸向北，获取<b>[地图碎片：利耶尼亚（东）]</b>
+  - id: '139'
+    data:
+    - 继续向北海岸，在<b>[受净化的废墟]</b>与<b>[“探寻灯火”海妲]</b>对话到重复。
+  - id: '140'
+    data:
+    - 往东走，进入<b>[受净化的废墟]</b>，在一些木板下面找到隐藏的楼梯。走下楼梯，获取<b>[夏玻利利葡萄]</b>
+  - id: '141'
+    data:
+    - 返回<b>[“探寻灯火”海妲]</b>，给她<b>[夏玻利利葡萄]</b>并对话到重复
+  - id: '142'
+    data:
+    - 朝东北方向的斜坡前进，然后触碰<b>赐福[利耶尼亚大道（北方）]</b>。
+  - id: '143'
+    data:
+    - 返回斜坡，这次进入附近的废墟，使用里面的传送门传送触摸<b>赐福[雷亚卢卡利亚（南门）]</b>并获得<b>[会合用的地图]</b>
+  - id: '144'
+    data:
+    - 回到<b>赐福[利耶尼亚大道（北方）]</b>然后回到西南海岸。前往西部的岛屿，在望远镜的西部触碰<b>赐福[远眺岛]</b>。
+  - id: '145'
+    data:
+    - 在<b>赐福[远眺岛]</b>与<b>[帕奇]</b>对话并对话到重复
+  - id: '146'
+    data:
+    - 向东走到望远镜附近的亭子，与<b>[“招募者”菈雅]</b>对话到重复
+  - id: '147'
+    data:
+    - 返回<b>[帕奇]</b>并对话到重复。
+  - id: '148'
+    data:
+    - 西北方向找到<b>[煮虾子的破屋]</b>并触碰<b>赐福[煮虾子的破屋]</b>
+  - id: '149'
+    data:
+    - 在<b>[煮虾子的破屋]</b>和<b>[流氓]</b>交谈并购买项链
+  - id: '150'
+    data:
+    - 再和<b>[流氓]</b>谈谈，买一些<b>[煮熟虾子]</b>，然后把他的对话讲完
+  - id: '151'
+    data:
+    - 返回<b>[“招募者”菈雅]</b>给她项链并对话到重复
+  - id: '152'
+    data:
+    - 向北走到<b>[学院门前镇]</b>并触碰<b>赐福[学院门前镇]</b>和<b>[地图碎片：利耶尼亚（北）]</b>
+  - id: '153'
+    data:
+    - 前往赐福的北方/西北，与<b>[骑士狄亚罗斯]</b>对话到重复
+  - id: '154'
+    data:
+    - 向西或向西南方向前进，与<b>[解指老妪]</b>对话到重复
+  - id: '155'
+    data:
+    - 向西南走，触碰<b>赐福[湖中坠落遗迹]</b>
+  - id: '156'
+    data:
+    - 向西前往<b>[蔷薇教堂]</b>，与<b>[“白面具”梵雷]</b>对话到重复
+  - id: '157'
+    data:
+    - 入侵其他玩家3次(你可以入侵后立即离开)
+  - id: '158'
+    data:
+    - 与<b>[“白面具”梵雷]</b>再次对话到重复
+  - id: '159'
+    data:
+    - 前往西北并触碰<b>赐福[教堂区]</b>
+  - id: '160'
+    data:
+    - 从赐福向北，杀死或跑过<b>[“辉石龙”史玛拉格]</b>并获得<b>[学院辉石钥匙]</b>
+  - id: '161'
+    data:
+    - 转过身，向西南方向的海岸找到一个鬼魂，然后跟随尸体的踪迹，直到<b>[复仇者的破屋]</b>。
+  - id: '162'
+    data:
+    - 在<b>[复仇者的破屋]</b>处杀死<b>[“复仇者”艾德格]</b>以接收<b>[夏玻利利葡萄]</b>并触碰<b>赐福[复仇者的破屋]</b>。
+  - id: '162_1'
+    data:
+    - 从<b>[复仇者的破屋]</b>向北走，然后触碰<b>赐福[四钟楼山脚]</b>
+  - id: '163'
+    data:
+    - 沿着路向东走到顶部，获得<b>[魔石剑钥匙]</b>并触碰<b>赐福[四钟楼]</b>
+  - id: '164'
+    data:
+    - 向东走到带有“预知”消息附近的传送门，使用钥匙解锁并进入它
+  - id: '165'
+    data:
+    - 杀死<b>[候王礼拜堂]</b>的Boss<b>[“接肢”贵族后裔]</b>
+  - id: '166'
+    data:
+    - 穿过区域到你开始的小教堂，穿过附近打开的门去拿<b>[风暴鹰古王]</b>的骨灰
+  - id: '166_1'
+    data:
+    - 进入教堂，与死去的少女互动，染红<b>[“白面具”梵雷]</b>给你的布获得<b>[鲜血君王的立誓布]</b>
+  - id: '166_2'
+    data:
+    - 返回<b>赐福[湖中坠落遗迹]</b>，回到在<b>[蔷薇教堂]</b>的<b>[“白面具”梵雷]</b>处。与他交谈并通过他的对话获得<b>[纯血骑士勋章]</b>(这可以用于提前进入<b>[蒙格温王朝]</b>刷卢恩。只要不杀Boss就不影响后续流程。这个区域的攻略流程将在后期进行)
+  - id: '167'
+    data:
+    - 回到<b>[湖中坠落遗迹]</b>，向西南方向去触碰<b>赐福[湖畔凉亭]</b>
+  - id: '169'
+    data:
+    - 向西南方向前进，在悬崖下，沿路上坡与<b>[战士涅斐丽·露]</b>对话到重复
+  - id: '168'
+    data:
+    - 继续沿着路走触碰<b>赐福[白金村]</b>并休息
+  - id: '170'
+    data:
+    - 穿过村庄，找到一个巨大的罐子，它看起来很奇怪并发出声响，对它攻击或翻滚，发现<b>[艾尔帕斯]</b>。
+  - id: '171'
+    data:
+    - 和<b>[艾尔帕斯]</b>对话到重复
+  - id: '172'
+    data:
+    - 召唤<b>[战士涅斐丽·露]</b>并杀死<b>[白金村]</b>的Boss<b>[恶兆猎人]</b>
+  - id: '173'
+    data:
+    - 从<b>赐福[远眺岛]</b>开始，向南触碰<b>赐福[湖旁结晶洞窟]</b>
+  - id: '174'
+    data:
+    - 杀死<b>[湖旁结晶洞窟]</b>的Boss<b>[猎犬骑士]</b>
+  - id: '175'
+    data:
+    - 从洞穴的后出口走，触碰<b>赐福[眠狼的破屋]</b>
+  - id: '176'
+    data:
+    - 与<b>[白金之子勒缇娜]</b>对话到重复
+  - id: '177'
+    data:
+    - 从<b>赐福[利耶尼亚大道（北方）]</b>出发，向北走到<b>赐福[门前镇大桥]</b>
+  - id: '178'
+    data:
+    - 与<b>[“探寻灯火”海妲]</b>交谈，给她<b>[夏玻利利葡萄]</b>并对话到重复
+  - id: '179'
+    data:
+    - 刷新后再次与<b>[“探寻灯火”海妲]</b>交谈，并对话到重复
+  - id: '180'
+    data:
+    - 向东，使用龙卷风跳跃到达悬崖的顶部，然后召唤<b>[“狩猎死亡”Ｄ]</b>并向北杀死<b>[提比亚的唤声船]</b>，获取第三个<b>[死根]</b>。
+  - id: '181'
+    data:
+    - 回到你杀死<b>[提比亚的唤声船]</b>的东南方的悬崖上，使用从悬崖上伸出来的石阶往下跳，在底部触碰<b>赐福[壶村]</b>。
+  - id: '182'
+    data:
+    - 在赐福附近的门廊上，是<b>[小壶]</b>。和他对话到重复。
+- title: 魔法学院雷亚卢卡利亚
+  items:
+  - id: '183'
+    data:
+    - 返回<b>赐福[雷亚卢卡利亚（南门）]</b>，使用<b>[学院辉石钥匙]</b>触摸传送封印后触碰<b>赐福[学院正门口]</b>
+  - id: '184'
+    data:
+    - 向北，绕过传送封印，在地面上使用召唤符号帮助<b>[“血指猎人”尤拉]</b>入侵并杀死<b>[“血指”鸦山的杀手]</b>。
+  - id: '185'
+    data:
+    - 在<b>[血指]</b>死后，与附近的<b>[“血指猎人”尤拉]</b>对话并对话到重复。
+  - id: '186'
+    data:
+    - 从<b>[学院正门口]</b>进入<b>[魔法学院雷亚卢卡利亚]</b>上升电梯。
+  - id: '187'
+    data:
+    - 穿过敌人，进入教堂，向左走，再左转触碰<b>赐福[杜鹃教堂]</b>
+  - id: '188'
+    data:
+    - 从赐福出发，走下大厅，走出大门，进入墓地。穿过敌人，跳上旋转轮升降机，一路向上跳下来并触碰<b>赐福[校舍内的教室]</b>
+  - id: '189'
+    data:
+    - 从赐福到走廊右转。让你越过敌人，然后上楼梯，上楼梯，一直上楼梯，最后走下大厅杀死Boss<b>[拉达冈的红狼]</b>。
+  - id: '190'
+    data:
+    - 杀死Boss后触摸<b>[讨论室]</b>。
+  - id: '191'
+    data:
+    - 你现在可以找到Boss，但首先我们要收集一些东西，所以进入庭院后向左走上楼。继续上楼后进入房间，阳台上有你可以拿的<b>[辉石砥石刀]</b>。
+  - id: '192'
+    data:
+    - 继续往前走，你会发现一个栅栏，你可以跳过去爬上一些屋顶。跳过栅栏后可以打开附近的捷径门。从这里开始，屋顶是一个迷你迷宫，但在这个迷宫的尽头，你将到达<b>[杜鹃教堂]</b>，在那里你可以跳上枝形吊灯，获得<b>[魔法师托普斯]</b>想要的第二把<b>[学院辉石钥匙]</b>。
+  - id: '193'
+    data:
+    - 回到<b>赐福[讨论室]</b>，进入庭院，走到右边，跳上拱门，通往金属球滚动的路。跳过栅栏后躲过金属球达到<b>[“卡利亚骑士”穆格拉姆]</b>并杀死他。
+  - id: '194'
+    data:
+    - 向前上电梯去杀死Boss<b>[“满月女王”蕾娜菈]</b>。
+  - id: '195'
+    data:
+    - 触碰<b>赐福[雷亚卢卡利亚大书库]</b>。
+- title: 湖之利耶尼亚第二部分
+  items:
+  - id: '196'
+    data:
+    - 从<b>赐福[雷亚卢卡利亚大书库]</b>返回电梯，在回到金属球位置之前进入建筑物。北边是传送门，使用它到达<b>[结缘教堂]</b>并触碰<b>赐福[结缘教堂]</b>
+  - id: '197'
+    data:
+    - 在<b>[结缘教堂]</b>内与<b>[“结缘牧师”米利耶]</b>对话并对话到重复。
+  - id: '198'
+    data:
+    - 从附近的箱子中获得<b>[黄金缝衣针]</b>和<b>[裁缝工具]</b>金币
+  - id: '199'
+    data:
+    - 从<b>[结缘教堂]</b>往东北方向走，触碰<b>赐福[遗迹迷宫]</b>
+  - id: '200'
+    data:
+    - 沿着东边的道路在尽头找到<b>赐福[黑刀地下墓地]</b>
+  - id: '201'
+    data:
+    - 进入地下墓穴到达刀片下落的房间，跳上其中一个刀片的刀背，并跳上上方的空间，沿着这条路走到尽头，攻击或翻滚破除幻影墙，召唤<b>[“狩猎死亡”Ｄ]</b>并杀死Boss<b>[黑刀刺客]</b>，获得<b>[黑刀烙印]</b>。
+  - id: '202'
+    data:
+    - 回到常规路径，在尽头杀死Boss<b>[墓地影子]</b>，获得第四个<b>[死根]</b>。
+- title: 圆桌厅堂
+  items:
+  - id: '203'
+    data:
+    - 回到<b>[圆桌厅堂]</b>并杀死入侵者，<b>[“王骸”恩夏]</b>
+  - id: '204'
+    data:
+    - 与<b>[“百智爵士”基甸·奥夫尼尔]</b>和<b>[战士涅斐丽·露]</b>对话到重复
+  - id: '205'
+    data:
+    - 与<b>[铁匠修古]</b>对话到重复
+  - id: '206'
+    data:
+    - 与<b>[罗德莉卡]</b>对话到重复
+  - id: '206_1'
+    data:
+    - 与<b>[圣职人员柯林]</b>对话到重复
+  - id: '207'
+    data:
+    - 与<b>[骑士狄亚罗斯]</b>对话到重复
+  - id: '208'
+    data:
+    - 与<b>[“解指”恩雅]</b>对话到重复
+  - id: '209'
+    data:
+    - 与<b>[“死眠少女”菲雅]</b>拥抱，并与<b>[魔法师罗杰尔]</b>交谈，与双方对话到重复
+  - id: '210'
+    data:
+    - 刷新并再次与<b>[魔法师罗杰尔]</b>对话到重复。
+- title: 湖之利耶尼亚第三部分/圆桌厅堂
+  items:
+  - id: '211'
+    data:
+    - 从<b>赐福[学院门前镇]</b>开始，然后向西北方向前进。在一个亭子里，你会发现一个传送门。使用它传到附近，并触碰<b>赐福[利耶尼亚湖（北岸）]</b>。
+  - id: '212'
+    data:
+    - 获取赐福东北方向的<b>[地图碎片：利耶尼亚（西）]</b>
+  - id: '213'
+    data:
+    - 朝东北方向前进，打破幻影墙，触碰<b>赐福[通往城寨的道路]</b>
+  - id: '214'
+    data:
+    - 与<b>[铁匠伊吉]</b>对话到重复
+  - id: '215'
+    data:
+    - 前往东北方向，触碰<b>赐福[卡利亚城寨（正门）]</b>
+  - id: '216'
+    data:
+    - 通过城寨到达<b>赐福[城寨下部]</b>。
+  - id: '217'
+    data:
+    - 跑过桥，然后向上到<b>赐福[城寨上部]</b>。
+  - id: '218'
+    data:
+    - 穿过敌人并杀死Boss<b>[禁卫骑士罗蕾塔]</b>。
+  - id: '219'
+    data:
+    - 触碰<b>赐福[禁卫骑士罗蕾塔]</b>
+  - id: '220'
+    data:
+    - 走出去，向西，打跑或穿过<b>[“辉石龙”亚杜拉]</b>，进入<b>[菈妮魔法师塔]</b>，并触碰<b>赐福[菈妮魔法师塔]</b>。
+  - id: '221'
+    data:
+    - 上电梯和<b>[魔女菈妮]</b>交谈，被拒绝
+  - id: '222'
+    data:
+    - 回到<b>[魔法师罗杰尔]</b>处获取建议
+  - id: '223'
+    data:
+    - 回到<b>[魔女菈妮]</b>处并被接受
+  - id: '224'
+    data:
+    - 与<b>[铁匠伊吉]</b>， <b>[“半狼”布莱泽]</b>和<b>[魔法教授赛尔维斯]</b>对话，然后返回<b>[魔女菈妮]</b>处。
+  - id: '225'
+    data:
+    - 回到<b>[魔法师罗杰尔]</b>处，刷新并再次对话
+- title: 盖利德
+  items:
+  - id: '226'
+    data:
+    - 从<b>[宁姆格福]</b>东北的<b>[水唤村外]</b>出发，前往东部的悬崖，想办法下到洞窟外面触摸<b>赐福[盖尔坑道（侧门口）]</b>
+  - id: '227'
+    data:
+    - 进去<b>[宁姆格福]</b>一侧的<b>[盖尔坑道]</b>和<b>[“战士壶”亚历山大]</b>交谈
+  - id: '228'
+    data:
+    - 回到悬崖上，沿着路东北方向在<b>[熏火教堂]</b>杀死入侵者<b>[“吞噬褪色者”安娜塔西亚]</b>
+  - id: '229'
+    data:
+    - 继续沿着<b>[盖利德]</b>的路走，触碰<b>赐福[腐败旁露台]</b>
+  - id: '230'
+    data:
+    - 沿着赐福以南的悬崖到达<b>[盖尔坑道]</b>，进入并向下触碰<b>赐福[盖尔坑道]</b>
+  - id: '231'
+    data:
+    - 通过<b>[盖尔坑道]</b>到达Boss门前(你可以选择杀死Boss，但是不要急着触摸回到洞口的传送点)
+  - id: '232'
+    data:
+    - 左转打开附近的门，与<b>[“战士壶”亚历山大]</b>对话到重复
+  - id: '233'
+    data:
+    - 返回<b>赐福[腐败旁露台]</b>，沿着路向东触碰<b>赐福[奇列姆废墟]</b>
+  - id: '234'
+    data:
+    - 顺着路往南去触碰<b>赐福[熏烧火墙]</b>
+  - id: '235'
+    data:
+    - 和附近的<b>[解指老妪]</b>交谈
+  - id: '236'
+    data:
+    - 进入东南沼泽并杀死入侵者<b>[米莉森]</b>。
+  - id: '236_1'
+    data:
+    - 前往沼泽的东北侧并触碰<b>赐福[艾奥尼亚沼泽（深处）]</b>
+  - id: '237'
+    data:
+    - 继续向东北方向前进，触碰<b>赐福[瑟利亚镇（楼梯下方）]</b>。
+  - id: '238'
+    data:
+    - 进入城镇上楼梯，并向南找到<b>[格威的破屋]</b>。杀死周围的猎犬以确保不会打断任务流程，然后在屋里与<b>[贤者格威]</b>对话到重复。
+  - id: '239'
+    data:
+    - 从<b>赐福[艾奥尼亚沼泽（深处）]</b>向南走的沼泽召唤<b>[养女波莉安娜]</b>并在沼泽的东南部分杀死<b>[老将欧尼尔]</b>获取<b>[纯净金针]</b>。
+  - id: '240'
+    data:
+    - 回到<b>[贤者格威]</b>，给他<b>[纯净金针]</b>，然后刷新，再次与他对话到重复
+  - id: '241'
+    data:
+    - 在<b>[魔法镇瑟利亚]</b>的建筑顶部点燃雕像来解开封印，然后穿过城镇北部的封印去触碰<b>赐福[瑟利亚镇后侧]</b>
+  - id: '242'
+    data:
+    - 沿着东北方向走，然后向南拐，触碰<b>赐福[腐败病教堂]</b>
+  - id: '243'
+    data:
+    - 与<b>[米莉森]</b>对话到重复，然后刷新，再次与她对话到重复
+  - id: '244'
+    data:
+    - 返回<b>[贤者格威]</b>处并对话到重复
+  - id: '245'
+    data:
+    - 向南前进，触碰<b>赐福[艾奥尼亚沼泽（南岸）]</b>
+  - id: '246'
+    data:
+    - 沿着东南方向的路走到桥上，然后触碰<b>赐福[不破大桥]</b>。
+  - id: '247'
+    data:
+    - <b>[盖利德]</b>/<b>[桂奥尔龙墓]</b>现在可以100%安全地自由探索! 不需要任何警告!
+- title: 地下希芙拉河 / 湖之利耶尼亚 / 红狮子城
+  items:
+  - id: '248'
+    data:
+    - 从<b>[玛莉卡第三教堂]</b>开始，往南走，找到<b>[希芙拉河的入口井]</b>。走下电梯，触碰<b>赐福[希芙拉河（井底）]</b>。
+  - id: '249'
+    data:
+    - 穿过区域，下电梯，然后触碰<b>赐福[希芙拉河（岸边）]</b>
+  - id: '250'
+    data:
+    - 前往东部的悬崖与<b>[“半狼”布莱泽]</b>对话到重复。
+  - id: '251'
+    data:
+    - 在<b>[伊利斯教堂]</b>与<b>[魔法师托普斯]</b>对话到重复后给他第二把<b>[学院辉石钥匙]</b>，然后继续对话到重复。
+  - id: '252'
+    data:
+    - 去<b>[魔法学院雷亚卢卡利亚]</b>中的<b>赐福[校舍内的教室]</b>，在拐角处找到<b>[魔法师托普斯]</b>的尸体。
+  - id: '253'
+    data:
+    - 前往<b>[菈妮魔法师塔]</b>并向南前往<b>[赛尔维斯魔法师塔]</b>，与<b>[魔法教授赛尔维斯]</b>对话到重复。
+  - id: '254'
+    data:
+    - 离开<b>[赛尔维斯魔法师塔]</b>，去悬崖东边向下跳到壁垒上。跟随路径一路往下跳进入建筑与<b>[仆人毕迪]</b>对话到重复。
+  - id: '255'
+    data:
+    - 去<b>[驿站街遗迹]</b>，与<b>[魔法师瑟濂]</b>对话到重复。
+  - id: '256'
+    data:
+    - 回到<b>[希芙拉河的入口井]</b>与<b>[“半狼”布莱泽]</b>对话到重复。
+  - id: '257'
+    data:
+    - 向北前往废墟，沿着楼梯爬上木制平台。沿着这个平台向西北方向走，找到<b>[流浪民族的商人]</b>向他购买<b>[流浪战士的制作笔记【１７】]</b>。
+  - id: '258'
+    data:
+    - 前往<b>赐福[不破大桥]</b>并使用附近的路径点进入<b>[红狮子城]</b>。向前触碰<b>赐福[广场前房间]</b>。
+  - id: '259'
+    data:
+    - 进入广场和<b>[指头女巫瑟萝莉娜]</b>交谈获取姿势。
+  - id: '260'
+    data:
+    - 与<b>[“战士壶”亚历山大]</b>和<b>[“半狼”布莱泽]</b>对话到重复。
+  - id: '261'
+    data:
+    - 与<b>[城主杰廉]</b>对话可以解锁<b>[“碎星”拉塔恩]</b>的Boss战。
+  - id: '262'
+    data:
+    - 穿过教堂，下电梯到达通往<b>[“碎星”拉塔恩]</b>的传送门，然后击杀<b>[“碎星”拉塔恩]</b>(你可以尽可能多地召唤帮手来打)
+  - id: '263'
+    data:
+    - 触碰<b>赐福[“碎星”拉塔恩]</b>
+  - id: '264'
+    data:
+    - 与<b>[“半狼”布莱泽]</b>对话到重复
+  - id: '265'
+    data:
+    - 与<b>[“战士壶”亚历山大]</b>对话到重复
+  - id: '266'
+    data:
+    - 回到<b>赐福[广场前房间]</b>，然后回到广场的教堂与<b>[城主杰廉]</b>交谈，并对话到重复。
+- title: 湖之利耶尼亚 / 圆桌厅堂
+  items:
+  - id: '267'
+    data:
+    - 进入<b>[圆桌厅堂]</b>，从<b>[“解指”恩雅]</b>那里购买一件<b>[“碎星”拉塔恩]</b>的护甲。
+  - id: '268'
+    data:
+    - 从<b>赐福[利耶尼亚大道（北方）]</b>出发，沿路向北再次找到<b>[“战士壶”亚历山大]</b>。使用<b>[流浪战士的制作笔记【１７】]</b>的配方制作一个<b>[油壶]</b>，对他扔<b>[油壶]</b>解救他，然后对话到重复。
+  - id: '269'
+    data:
+    - 到<b>赐福[学院正门口]</b>使用东北的传送封印传送后往前触碰<b>赐福[雷亚卢卡利亚（东门）]</b>。
+  - id: '270'
+    data:
+    - 与<b>[亚人柏克]</b>交谈，给他<b>[黄金缝衣针]</b>并对话到重复。
+  - id: '271'
+    data:
+    - 在赐福休息，与<b>[梅琳娜]</b>对话到重复。
+  - id: '272'
+    data:
+    - 和<b>[解指老妪]</b>对话到重复。
+  - id: '273'
+    data:
+    - 去东北方向，进入<b>[迪可达斯大升降机]</b>，触碰<b>赐福[迪可达斯大升降机]</b>。
+  - id: '274'
+    data:
+    - 在赐福休息，与<b>[梅琳娜]</b>对话到重复。
+  - id: '275'
+    data:
+    - 从悬崖往南走。小心塔顶的眼球! 当他升起的时候立即找障碍物遮挡以免发狂。你可以选择去眼球所在的塔，杀死顶部的敌人来摧毁眼球，或者一路狂奔向南，通过<b>[癫火村]</b>并上坡向北去杀死入侵者<b>[“烧灼指痕”维克]</b>获取<b>[指痕葡萄]</b>。
+  - id: '276'
+    data:
+    - 触碰附近的<b>赐福[镇静教堂]</b>。
+  - id: '277'
+    data:
+    - 返回<b>赐福[雷亚卢卡利亚（东门）]</b>并向北触碰<b>赐福[彼鲁姆教堂]</b>。
+  - id: '278'
+    data:
+    - 与附近的<b>[“探寻灯火”海妲]</b>交谈，给她<b>[指痕葡萄]</b>并对话到重复
+  - id: '279'
+    data:
+    - 沿着斜坡往北/东北方向走，沿着河流走到尽头获得<b>[黄金种子]</b>。
+  - id: '280'
+    data:
+    - 触碰附近的<b>赐福[谷底秘村]</b>。
+  - id: '281'
+    data:
+    - 爬上梯子，穿过山洞到电梯那里。继续从电梯的顶部走，直到你走到外面触碰<b>赐福[古遗迹断崖]</b>。
+  - id: '282'
+    data:
+    - 爬上附近的电梯，爬上梯子，再爬下一个梯子，再爬上一个梯子。然后坐电梯到达<b>赐福[古遗迹断崖（对岸）]</b>。
+  - id: '283'
+    data:
+    - 继续前进到Boss房间并击杀<b>[“熔岩土龙”马卡尔]</b>(你可以在<b>[“大角”忒拉格斯]</b>、<b>[米莉森]</b>和<b>[流氓]</b>中召唤两个助战)
+  - id: '284'
+    data:
+    - 触碰<b>赐福[“熔岩土龙”马卡尔]</b>
+- title: 亚坛高原 / 格密尔火山
+  items:
+  - id: '285'
+    data:
+    - 上电梯，触碰<b>赐福[弃置棺材]</b>
+  - id: '286'
+    data:
+    - 朝东北方向前进，杀死或跑过<b>[“古龙”兰斯桑克斯]</b>并触碰<b>赐福[近黄金树的山丘]</b>。
+  - id: '287'
+    data:
+    - 与附近的<b>[米莉森]</b>交谈
+  - id: '288'
+    data:
+    - 往北走，在<b>[威达姆废墟]</b>处击杀<b>[提比亚的唤声船]</b>获取第五个<b>[死根]</b>
+  - id: '289'
+    data:
+    - 沿着<b>赐福[近黄金树的山丘]</b>东面的斜坡向下走，然后向北走。贴着悬崖的右边，找到一个龙卷风跳跃点，使用它向上跳。接着再使用一个龙卷风跳跃后过桥触碰<b>赐福[罪人桥]</b>。
+  - id: '290'
+    data:
+    - 继续向西北方向走，穿过一些<b>[掳人少女人偶]</b>，一直走到路的尽头。在<b>[飘尸臭的破屋]</b>处杀死入侵者<b>[“吞噬褪色者”安娜塔西亚]</b>
+  - id: '291'
+    data:
+    - 回头，沿着悬崖往南走，直到找到梯子。爬上去触碰<b>赐福[格密尔火山（第１休息站）]</b>。
+  - id: '292'
+    data:
+    - 沿着小路向西走，直到你发现地上有一个发光的信息，告诉你跟着彩虹石走。跟随石头向南最后在边缘附近再次看到你的好朋友<b>[帕奇]</b>。
+  - id: '293'
+    data:
+    - 沿着向西的路径触碰<b>赐福[沸滚河终点]</b>
+  - id: '294'
+    data:
+    - 去西南，杀死<b>[熔岩土龙]</b>。
+  - id: '295'
+    data:
+    - 与附近悬崖边浸泡在熔岩里的<b>[“战士壶”亚历山大]</b>对话到重复。
+  - id: '296'
+    data:
+    - 继续向东走，然后向东去触碰<b>赐福[匠人的破屋]</b>。
+  - id: '297'
+    data:
+    - 继续向东，看到左边的房子进去获取<b>[唤声泥颅“你长得很好看”]</b>
+  - id: '298'
+    data:
+    - 继续前进，杀死或跑过<b>[“亚人女王”玛姬]</b>去触碰<b>赐福[“起源魔法师”亚兹勒]</b>
+  - id: '299'
+    data:
+    - 与附近的<b>[“起源魔法师”亚兹勒]</b>交谈获得传说中的魔法<b>[彗星亚兹勒]</b>。
+  - id: '300'
+    data:
+    - 从附近的岩石桥到达并触碰<b>赐福[格密尔英雄墓地]</b>。
+  - id: '301'
+    data:
+    - 这里有第六个<b>[死根]</b>，与所有英雄坟墓一样，洞穴也是一个战斗谜题，我将尝试通过下面的步骤来解释如何完成它。
+  - id: '302'
+    data:
+    - 开始顺坡而下，利用两边的缺口躲避路过的战车。第一战车，你会从左边进入一个门继续前进。
+  - id: '303'
+    data:
+    - 一旦你逃离了第一战车，穿过敌人和恶魔雕像的火焰陷阱。你可以按下陷阱把它关掉。
+  - id: '304'
+    data:
+    - 走下一个斜坡，避开第二战车，直到你到达一座桥。从桥的两边摔下，沿着边缘，掉到下面的窗台上。
+  - id: '305'
+    data:
+    - 通过门口的窗台引导你找到<b>[猎犬骑士]</b>和一个梯子。爬上梯子，找到一扇窗户，从窗户跳到木椽上，走到窗户中央。
+  - id: '306'
+    data:
+    - 在椽子中间等待第二战车在你下面减速，然后跳上它上面的空位。如果你错过了，你可以使用附近的窗台回到原位再次尝试。
+  - id: '307'
+    data:
+    - 骑着它到底部，然后等它转过身来，开始往回走的时候，从后面跳下来，爬上梯子，打开附近的门。
+  - id: '308'
+    data:
+    - 走下楼梯，进入Boss房间杀死<b>[英雄的红狼]</b>获得第六个<b>[死根]</b>。
+  - id: '309'
+    data:
+    - 回到<b>[近黄金树的山丘]</b>和附近的<b>[“招募者”菈雅]</b>对话进入<b>[火山官邸]</b>
+  - id: '310'
+    data:
+    - 触碰<b>赐福[火山官邸]</b>
+  - id: '311'
+    data:
+    - 与<b>[“火山官邸之主”塔妮丝]</b>交谈并加入官邸
+  - id: '312'
+    data:
+    - 打开走廊的门与<b>[“招募者”菈雅]</b>对话到重复
+  - id: '313'
+    data:
+    - 与<b>[骑士贝纳尔]</b>对话到重复
+  - id: '314'
+    data:
+    - 从附近的桌子上获取<b>[来自火山官邸的信]</b>
+  - id: '315'
+    data:
+    - 与<b>[骑士狄亚罗斯]</b>对话到重复
+  - id: '316'
+    data:
+    - 再次与<b>[“火山官邸之主”塔妮丝]</b>对话到重复。
+  - id: '317'
+    data:
+    - 上楼杀死入侵者<b>[拷问官基萨]</b>
+  - id: '318'
+    data:
+    - 回到赐福休息，然后在外面的通道与<b>[帕奇]</b>对话到重复。
+- title: 魔法师瑟濂第一部分/火山官邸任务一部分
+  items:
+  - id: '319'
+    data:
+    - 去<b>[宁姆格福]</b>中的<b>赐福[习战者的破屋]</b>，向北在<b>[来自火山官邸的信]</b>指定的位置入侵并杀死<b>[“古老骑士”伊修托邦]</b>
+  - id: '320'
+    data:
+    - 回到<b>[驿站街遗迹]</b>和<b>[魔法师瑟濂]</b>对话到重复获得<b>[瑟利亚封印钥匙]</b>
+  - id: '321'
+    data:
+    - 去<b>赐福[腐败病教堂]</b>前往东北找到一个非常大的墓碑。攻击或滚入墓碑后面的隐藏墙，触碰<b>赐福[瑟利亚隐藏洞窟]</b>。
+  - id: '322'
+    data:
+    - 找到道路下到底部，打开封印与主人<b>[“起源魔法师”卢瑟特]</b>交谈，并获得传说中的魔法<b>[毁灭流星]</b>
+  - id: '323'
+    data:
+    - 进入<b>[瑟利亚隐藏洞窟]</b>的入口向西走，使用龙卷风跳跃去触碰<b>赐福[法洛斯要塞]</b>。向前进入<b>[法洛斯要塞]</b>并爬上梯子获得<b>[迪可达斯符节（右）]</b>
+  - id: '324'
+    data:
+    - 回到<b>[驿站街遗迹]</b>的<b>[魔法师瑟濂]</b>处，并对话到重复。
+  - id: '325'
+    data:
+    - 进入<b>[啜泣半岛]</b>中的<b>赐福[巡礼教堂]</b>，向西南方向触碰“<b>赐福[玛莉卡第四教堂]</b>”。
+  - id: '326'
+    data:
+    - 在<b>[玛莉卡第四教堂]</b>的南边进入<b>[封印魔女的废墟]</b>与<b>[魔法师瑟濂]</b>通话并接收<b>[瑟濂的源辉石]</b>。
+  - id: '327'
+    data:
+    - 刷新区域与<b>[城主杰廉]</b>对话并对话到重复。
+  - id: '328'
+    data:
+    - 回到<b>[火山官邸]</b>和<b>[“火山官邸之主”塔妮丝]</b>交谈，并对话到重复。
+  - id: '329'
+    data:
+    - 与<b>[帕奇]</b>讨论<b>[给帕奇的信]</b>并对话到重复。
+  - id: '330'
+    data:
+    - 与<b>[“招募者”菈雅]</b>对话到重复。
+  - id: '331'
+    data:
+    - 与<b>[骑士贝纳尔]</b>对话到重复。
+  - id: '332'
+    data:
+    - 获取桌上的第二封<b>[来自火山官邸的信]</b>
+  - id: '333'
+    data:
+    - 与<b>[骑士狄亚罗斯]</b>对话到重复。
+  - id: '334'
+    data:
+    - 与鬼魂对话到重复。
+  - id: '336'
+    data:
+    - 返回到<b>赐福[罪人桥]</b>并穿过桥东，然后到南部使用龙卷风跳下悬崖。使用下一个龙卷风跳到西方的底部，然后前往北方在<b>[来自火山官邸的信]</b>标识的位置入侵杀死<b>[“黄昏将尽”莱利]</b>。
+- title: 米莉森/圆桌厅堂
+  items:
+  - id: '337'
+    data:
+    - 继续西北方向杀死<b>[“日荫城主”玛雷玛雷]</b>。
+  - id: '338'
+    data:
+    - 往东走，在城墙的西侧找到一个洞口，你可以用它跳上<b>[日荫城]</b>的城墙。沿着城墙往南走到尽头，然后跳下城墙爬上梯子往东走。在顶部，跟随路径向北打开箱子，并获取<b>[女武神的义手]</b>。
+  - id: '339'
+    data:
+    - 这次掉头从梯子往东走。跳上下面的屋顶，从一个屋顶跳到另一个屋顶，触碰<b>赐福[日荫城（内门）]</b>以备以后使用。
+  - id: '340'
+    data:
+    - 回到<b>[圆桌厅堂]</b>，与<b>[圣职人员柯林]</b>对话到重复。
+  - id: '341'
+    data:
+    - 和<b>[“死眠少女”菲雅]</b>拥抱说话，获得<b>[侵蚀短剑]</b>
+  - id: '342'
+    data:
+    - 与<b>[罗德莉卡]</b>对话到重复
+  - id: '344'
+    data:
+    - 与<b>[“狩猎死亡”Ｄ]</b>交谈，给他<b>[侵蚀短剑]</b>并对话到重复
+  - id: '345'
+    data:
+    - 与<b>[食粪者]</b>对话到重复
+  - id: '346'
+    data:
+    - 刷新，进入打开的房间，经过铁匠找到并拾取<b>[“狩猎死亡”Ｄ]</b>的尸体，获得他的盔甲和铃珠
+  - id: '347'
+    data:
+    - 与<b>[“死眠少女”菲雅]</b>对话到重复
+  - id: '348'
+    data:
+    - 回到<b>赐福[近黄金树的山丘]</b>，与附近的<b>[米莉森]</b>交谈，给她<b>[女武神的义手]</b>并对话到重复。
+- title: 亚坛高原第一部分
+  items:
+  - id: '349'
+    data:
+    - 向东，穿过战场，到路上去触碰<b>赐福[亚坛大道的三叉口]</b>。
+  - id: '350'
+    data:
+    - 在赐福休息，与<b>[梅琳娜]</b>对话到重复。
+  - id: '351'
+    data:
+    - 与<b>[亚人柏克]</b>对话到重复
+  - id: '352'
+    data:
+    - 从赐福向东北走，穿过通道获得<b>[琥珀星光]</b>碎片。
+  - id: '353'
+    data:
+    - 从<b>[亚坛大道的三叉口]</b>沿路向北走与<b>[圣职人员柯林]</b>对话到重复
+  - id: '354'
+    data:
+    - 在附近获取<b>[地图碎片：亚坛高原]</b>
+  - id: '355'
+    data:
+    - 去西北找到<b>[玛莉卡第二教堂]</b>。与<b>[“血指猎人”尤拉]</b>对话到重复。
+  - id: '356'
+    data:
+    - 杀死入侵者<b>[“纯紫血指”艾琉诺拉]</b>
+- title: 地下 - 星星坠落之地
+  items:
+  - id: '357'
+    data:
+    - 回到<b>[宁姆格福]</b>东部，在<b>[海德要塞]</b>西部新形成的陨石坑外面找到<b>[“半狼”布莱泽]</b>的留言。
+  - id: '358'
+    data:
+    - 进入<b>[无主猎犬的封印监牢]</b>并释放<b>[“半狼”布莱泽]</b>
+  - id: '359'
+    data:
+    - 去<b>赐福[通往城寨的道路]</b>，与<b>[铁匠伊吉]</b>交谈，并对话到重复
+  - id: '360'
+    data:
+    - 进入陨石坑西部<b>[海德要塞]</b>并触碰<b>赐福[“永恒之城”诺克隆恩]</b>。
+  - id: '361'
+    data:
+    - 沿着前进的路径到达并杀死Boss<b>[仿身泪滴]</b>
+  - id: '362'
+    data:
+    - 触碰<b>赐福[仿身泪滴]</b>
+  - id: '363'
+    data:
+    - 穿过东北方向的桥，然后沿着悬崖向西找到隐藏在悬崖中的<b>赐福[祖灵森林]</b>。
+  - id: '364'
+    data:
+    - 沿着屋顶向西南方向走，你可以找到<b>[漆黑砥石刀]</b>
+  - id: '365'
+    data:
+    - 继续沿着路径到底部找到<b>赐福[黑夜神域]</b>
+  - id: '366'
+    data:
+    - 从赐福，往东北方向走，进入建筑，找到箱子里面的<b>[猎杀指头刀]</b>(在本攻略中，暂时不要给<b>[魔女菈妮]</b>)
+  - id: '367'
+    data:
+    - 使用附近的传送门返回<b>[祖灵森林]</b>。
+  - id: '368'
+    data:
+    - 从<b>赐福[祖灵森林]</b>向东北方向前进，经过祭坛，进入森林，沿着隐藏的路径到达<b>赐福[导水桥旁断崖]</b>。
+  - id: '369'
+    data:
+    - 沿着这条路走，直到你发现一个男人跪在Boss房间外的阳台旁。这个人是<b>[“狩猎死亡”Ｄ]</b>的兄弟，<b>[“觐见死亡”Ｄ]</b>，他想让你给他<b>[“狩猎死亡”Ｄ]</b>的盔甲
+  - id: '370'
+    data:
+    - 召唤<b>[“觐见死亡”Ｄ]</b>并进入Boss房间杀死Boss双<b>[英雄石像鬼]</b>
+  - id: '371'
+    data:
+    - 触碰<b>赐福[大瀑布水潭]</b>。
+- title: 亚坛高原第二部分
+  items:
+  - id: '372'
+    data:
+    - 走到<b>赐福[亚坛大道的三叉口]</b>，沿路向北走到桥，触碰<b>赐福[穿林大桥]</b>
+  - id: '373'
+    data:
+    - 和旁边的<b>[解指老妪]</b>对话到重复
+  - id: '374'
+    data:
+    - 使用桥上的传送门到达桥的另一边，并与<b>[金面具]</b>交谈
+  - id: '375'
+    data:
+    - 返回<b>[圣职人员柯林]</b>处并对话到重复。
+  - id: '376'
+    data:
+    - 回到<b>[金面具]</b>的位置，与<b>[圣职人员柯林]</b>对话到重复
+  - id: '377'
+    data:
+    - 与<b>[金面具]</b>交谈
+  - id: '378'
+    data:
+    - 从桥往东走，触碰<b>赐福[风车村]</b>。
+  - id: '379'
+    data:
+    - 穿过村庄杀死Boss<b>[神皮使徒]</b>
+  - id: '380'
+    data:
+    - 触碰<b>赐福[风车村高台]</b>
+  - id: '381'
+    data:
+    - 与附近的<b>[米莉森]</b>对话到重复。
+  - id: '382'
+    data:
+    - 从<b>[风车村]</b>沿路向东走，穿过墙体的开口，触碰<b>赐福[城外战场遗迹]</b>
+  - id: '383'
+    data:
+    - 在赐福休息，与<b>[梅琳娜]</b>对话到重复
+  - id: '383_1'
+    data:
+    - 朝东南方向，与<b>[“恶兆妖鬼”玛尔基特]</b>战斗，目前在战场上伪装成普通仆人
+  - id: '384'
+    data:
+    - 顺着路往南走，和<b>[解指老妪]</b>交谈
+  - id: '385'
+    data:
+    - 向西南方向前进，触碰<b>赐福[城外幻影树]</b>
+  - id: '386'
+    data:
+    - 获取<b>[地图碎片：王城罗德尔]</b>
+  - id: '387'
+    data:
+    - 沿着路东南走，触碰<b>赐福[小黄金树教堂]</b>
+  - id: '388'
+    data:
+    - 在赐福休息，与<b>[梅琳娜]</b>对话到重复
+  - id: '389'
+    data:
+    - 返回<b>赐福[城外战场遗迹]</b>并向东，召唤<b>[米莉森]</b>和<b>[“大角”忒拉格斯]</b>并杀死Boss<b>[龙装大树守卫]</b>
+  - id: '390'
+    data:
+    - 走到桥西南，触碰<b>赐福[王城城墙前方]</b>。
+- title: 火山官邸第二部分
+  items:
+  - id: '335'
+    data:
+    - 返回<b>赐福[“熔岩土龙”马卡尔]</b>，在<b>[给帕奇的信]</b>指定的位置入侵并杀死<b>[“大角”忒拉格斯]</b>。
+  - id: '391'
+    data:
+    - 回到<b>[火山官邸]</b>，与<b>[帕奇]</b>对话到重复。
+  - id: '392'
+    data:
+    - 与<b>[“火山官邸之主”塔妮丝]</b>对话到重复
+  - id: '393'
+    data:
+    - 与<b>[“招募者”菈雅]</b>对话到重复。
+  - id: '394'
+    data:
+    - 与<b>[骑士贝纳尔]</b>对话并完成<b>[给贝纳尔的信]</b>的对话
+  - id: '395'
+    data:
+    - 从桌上获取<b>[鲜红书信]</b>。
+  - id: '396'
+    data:
+    - 与<b>[“火山官邸之主”塔妮丝]</b>对话到重复
+  - id: '397'
+    data:
+    - 刷新，再次与<b>[帕奇]</b>对话并对话到重复
+  - id: '398'
+    data:
+    - 再次与<b>[“招募者”菈雅]</b>对话到重复
+  - id: '399'
+    data:
+    - 走到大厅右边的第一个房间，滚到墙上打破幻觉。沿着楼梯下的路径触碰<b>赐福[牢镇教堂]</b>。
+  - id: '400'
+    data:
+    - 沿着小路向下走到底部，进入熔岩，然后向西南走，爬上楼梯，爬上电梯，使用Boss房旁边的杠杆把桥抬高，走捷径。
+  - id: '401'
+    data:
+    - 进入Boss房间杀死Boss <b>[神皮贵族]</b>。
+  - id: '402'
+    data:
+    - 触碰<b>赐福[艾格蕾教堂]</b>
+  - id: '403'
+    data:
+    - 从祭坛上获取<b>[蛇的羊膜]</b>。
+  - id: '404'
+    data:
+    - 返回<b>[“招募者”菈雅]</b>处并对话到重复
+  - id: '405'
+    data:
+    - 刷新，与<b>[“火山官邸之主”塔妮丝]</b>对话并对话到重复
+  - id: '406'
+    data:
+    - 回到<b>[艾格蕾教堂]</b>上电梯。走出去，从阳台跳到下面的熔岩上。穿过鼻涕虫的桥，穿过缺口，上斜坡，跑过铁处女进入熔岩找到一个房间，你会发现<b>[“招募者”菈雅]</b>。(你可以选择给她喝药水，但我不推荐)
+  - id: '407'
+    data:
+    - 沿着这条路出去，然后爬上梯子，走左边的那条路。进入寺庙，打开门，然后走上楼梯，进入入口上方的房间，在那里你会发现一个小恶魔雕像并使用它(如果你不小心走了传送门的岔路，不要碰传送门)
+  - id: '408'
+    data:
+    - 进入房间，让你的方式到底部，并获取<b>[温床的诅咒]</b>。
+  - id: '409'
+    data:
+    - 你现在可以继续沿着这条路打开<b>[帕奇]</b>前面的门来解锁这个区域的捷径
+- title: 令人厌恶的食粪者
+  items:
+  - id: '410'
+    data:
+    - 返回<b>[圆桌厅堂]</b>，与<b>[食粪者]</b>对话，完成对话获得<b>[下水道监牢钥匙]</b>
+  - id: '411'
+    data:
+    - 进入<b>[王城罗德尔]</b>内部的<b>赐福[王城城墙前方]</b>，并沿着路径进入城市触碰<b>赐福[王城东边城墙]</b>。
+  - id: '412'
+    data:
+    - 在赐福休息和<b>[梅琳娜]</b>对话到重复。
+  - id: '413'
+    data:
+    - 与<b>[亚人柏克]</b>对话到重复。当他要一个<b>[泪滴幼体]</b>，对他使用<b>[唤声泥颅“你长得很好看”]</b>，然后再和他对话到重复。
+  - id: '477'
+    data:
+    - 从<b>赐福[王城东边城墙]</b>开始，走到<b>[王城罗德尔]</b>的中心，并触碰<b>赐福[大道旁露台]</b>。
+  - id: '414'
+    data:
+    - 走下楼梯，然后从窗台跳到左边，找到附近的井进入下水道，触碰<b>赐福[地底大道旁]</b>
+  - id: '415'
+    data:
+    - 离开赐福，离开房间，走到左边，从左边打开的格栅上跳下来。穿过所有的老鼠和植物，爬上梯子。杀死或跑过大手，打开牢房的门，找到并与<b>[食粪者]</b>对话到重复。
+  - id: '416'
+    data:
+    - 返回<b>[圆桌厅堂]</b>并阅读<b>[食粪者]</b>处的留言
+  - id: '417'
+    data:
+    - 与<b>[罗德莉卡]</b>对话到重复
+  - id: '418'
+    data:
+    - 从<b>赐福[王城城墙前方]</b>，走东北，然后沿着这条路，直到你可以采取路径南到达护城河外的墙。在那里和<b>[流氓]</b>交谈，买一些<b>[煮熟螃蟹]</b>并对话到重复。
+  - id: '419'
+    data:
+    - 刷新区域并再次与<b>[流氓]</b>对话到重复，拾取他的尸体
+  - id: '420'
+    data:
+    - 在附近的水中行走并杀死入侵者<b>[食粪者]</b>
+  - id: '421'
+    data:
+    - 回到<b>[圆桌厅堂]</b>中的<b>[食粪者]</b>处，对话到重复。
+  - id: '421_1'
+    data:
+    - 与<b>[罗德莉卡]</b>对话到重复
+- title: 魔法师瑟濂 / 魔法教授赛尔维斯第二部分
+  items:
+  - id: '422'
+    data:
+    - 现在可以自由选择把<b>[赛尔维斯的药水]</b>给<b>[“百智爵士”基甸·奥夫尼尔]</b>(无事发生)，<b>[食粪者]</b>(得到<b>[食粪者的傀儡]</b>但无法完成他的任务线)或<b>[战士涅斐丽·露]</b>(得到<b>[涅斐丽·露的傀儡]</b>但无法完成<b>[战士涅斐丽·露]</b>，
+      <b>[“领主的嫡长子”肯尼斯·海德]</b>以及<b>[门卫葛托克]</b>的任务线)。在本攻略流程里<b>[食粪者]</b>将被牺牲，因为他罪有应得。
+  - id: '423'
+    data:
+    - 回到下水道的<b>[食粪者]</b>，给他<b>[赛尔维斯的药水]</b>。在给他药水后，杀死他(这将让你同时得到<b>[食粪者的傀儡]</b>和他的装备)
+  - id: '424'
+    data:
+    - 去<b>[菈妮魔法师塔]</b>并进入附近的废墟找到一个幻影地板，隐藏着一个向下的楼梯。进入房间，发现一堆木偶。在后面打破幻影墙，找到<b>[魔法师瑟濂]</b>傀儡，与它互动使用<b>[瑟濂的源辉石]</b>。
+  - id: '425'
+    data:
+    - 与<b>[魔法师瑟濂]</b>对话到重复。
+  - id: '426'
+    data:
+    - 确保曾与幻墙旁边的留言互动。
+  - id: '427'
+    data:
+    - 去和<b>[魔法教授赛尔维斯]</b>对话到重复，现在可以从他那里购买法术和傀儡。买下所有的法术和其中一个傀儡。注意，你需要在你的库存中至少有一个<b>[星光碎片]</b>以获得木偶。<b>[星光碎片]</b>可以在地图上所有看起来像半个杯子的石柱旁找到。
+  - id: '428'
+    data:
+    - 获取另一个<b>[星光碎片]</b>或者扔下一个并捡起来。之后刷新并再次与<b>[魔法教授赛尔维斯]</b>交谈，要求他卖更多的傀儡。
+  - id: '428_1'
+    data:
+    - 再买一个傀儡，和他交谈。他会让你帮他弄到<b>[琥珀星光]</b>。注意，如果他没有要求道具，你将不得不购买他目前所有的木偶
+  - id: '429'
+    data:
+    - 给他<b>[琥珀星光]</b>完成他的任务，并与他再次交谈，以获得奖励。(如果你再和他说话，他会给你一个药水给<b>[魔女菈妮]</b>，但我不建议这样做。如果你这样做了，你将需要在<b>[结缘教堂]</b>寻求赦免来继续<b>[魔女菈妮]</b>的任务)
+- title: 湖之利耶尼亚 / 圆桌厅堂
+  items:
+  - id: '430'
+    data:
+    - 与<b>[菈妮魔法师塔]</b>中的<b>[魔女菈妮]</b>对话，并给她<b>[猎杀指头刀]</b>以获得<b>[卡利亚颠倒像]</b>。
+  - id: '431'
+    data:
+    - 到<b>[结缘教堂]</b>并向东南方向触碰<b>赐福[东边台地]</b>
+  - id: '432'
+    data:
+    - 继续向东然后向南触碰<b>赐福[书斋入口]</b>
+  - id: '433'
+    data:
+    - 在祭坛上使用<b>[卡利亚颠倒像]</b>来触发一个过场动画，改变<b>[卡利亚书斋]</b>
+  - id: '434'
+    data:
+    - 通过<b>[卡利亚书斋]</b>到顶部触碰<b>赐福[利耶尼亚神授塔（桥上）]</b>
+  - id: '434_1'
+    data:
+    - 继续前进，穿过门，爬上电梯，触碰<b>赐福[利耶尼亚神授塔]</b>
+  - id: '434_2'
+    data:
+    - 继续上楼去获取<b>[死亡的咒痕]</b>
+  - id: '435'
+    data:
+    - 回到<b>[圆桌厅堂]</b>并拾取<b>[魔法师罗杰尔]</b>的尸体。
+  - id: '436'
+    data:
+    - 与<b>[罗德莉卡]</b>对话到重复。
+  - id: '437'
+    data:
+    - 如果你还没有升级任何灵灰到+4，刷新并再次与<b>[罗德莉卡]</b>对话。
+  - id: '438'
+    data:
+    - 与<b>[战士涅斐丽·露]</b>对话，给她暴风鹰之王并对话到重复。
+- title: 深根底层
+  items:
+  - id: '439'
+    data:
+    - 到双<b>[英雄石像鬼]</b>Boss房间的<b>赐福[大瀑布水潭]</b>，使用附近的棺材后触碰<b>赐福[大瀑布顶端]</b>。
+  - id: '440'
+    data:
+    - 向西，穿过树根，触碰悬崖旁边的<b>赐福[深根底层]</b>
+  - id: '441'
+    data:
+    - 和<b>[解指老妪]</b>对话到重复。
+  - id: '442'
+    data:
+    - 向北/西北方向前进并获取<b>[地图碎片：深根底层]</b>
+  - id: '443'
+    data:
+    - 走到附近的根并向东往上走，在底部触碰<b>赐福[树根前路]</b>
+  - id: '444'
+    data:
+    - 向北前进并杀死Boss<b>[菲雅的英雄]</b>
+  - id: '445'
+    data:
+    - 与<b>[“死眠少女”菲雅]</b>交谈并拥抱她。
+  - id: '446'
+    data:
+    - 触碰<b>赐福[死王子宝座]</b>
+  - id: '447'
+    data:
+    - 刷新并再次拥抱<b>[“死眠少女”菲雅]</b>。
+  - id: '448'
+    data:
+    - 刷新并与休眠<b>[“死眠少女”菲雅]</b>互动
+  - id: '449'
+    data:
+    - 杀死Boss<b>[“死龙”弗尔桑克斯]</b>
+  - id: '450'
+    data:
+    - 拾取<b>[“死眠少女”菲雅]</b>附近的战利品
+  - id: '451'
+    data:
+    - 刷新，与<b>[“狩猎死亡”Ｄ]</b>对话并对话到重复
+  - id: '452'
+    data:
+    - 拾取<b>[“死眠少女”菲雅]</b>的尸体。
+  - id: '453'
+    data:
+    - 杀死<b>[“狩猎死亡”Ｄ]</b>或刷新然后拾取<b>[“狩猎死亡”Ｄ]</b>的装备。
+- title: 湖之利耶尼亚/安瑟尔河主流
+  items:
+  - id: '454'
+    data:
+    - 去<b>赐福[通往城寨的道路]</b>，与<b>[铁匠伊吉]</b>交谈，并对话到重复
+  - id: '455'
+    data:
+    - 进入<b>赐福[菈妮魔法师塔]</b>，然后前往<b>[赛尔维斯魔法师塔]</b>找到<b>[魔法教授赛尔维斯]</b>的尸体(你依然可以用它来买傀儡)
+  - id: '456'
+    data:
+    - 去<b>[仆人毕迪]</b>处拾取他的尸体
+  - id: '457'
+    data:
+    - 从<b>[菈妮魔法师塔]</b>往东北方向进入<b>[蕾娜魔法师塔]</b>。使用传送门后从附近的棺材中获得<b>[娇小菈妮]</b>
+  - id: '458'
+    data:
+    - 触碰<b>赐福[安瑟尔河主流]</b>。
+  - id: '459'
+    data:
+    - 在赐福休息，和<b>[娇小菈妮]</b>说三次话
+  - id: '460'
+    data:
+    - 向西南方向前进，触碰<b>赐福[“永恒之城”诺克史黛拉]</b>
+  - id: '461'
+    data:
+    - 沿着下面的路走，下电梯并触碰<b>赐福[诺克史黛拉水潭]</b>
+  - id: '461_1'
+    data:
+    - 在赐福休息并和<b>[娇小菈妮]</b>谈话
+  - id: '462'
+    data:
+    - 继续前进杀死入侵者<b>[灾厄影子]</b>
+  - id: '463'
+    data:
+    - 继续前进，触碰<b>赐福[腐败湖畔]</b>。
+  - id: '464'
+    data:
+    - 设法穿过<b>[腐败湖]</b>(使用平台是最简单的，你也可以直接跑酷过去，只要你有回复手段)，并触碰<b>赐福[大回廊]</b>。
+- title: 魔法师瑟濂 / 魔女菈妮
+  items:
+  - id: '465'
+    data:
+    - 进入<b>赐福[雷亚卢卡利亚大书库]</b>并打开附近的<b>[暗月戒指]</b>箱子
+  - id: '466'
+    data:
+    - 走出房间找到2个召唤标志。选择加入<b>[魔法师瑟濂]</b>或加入<b>[城主杰廉]</b>
+  - id: '467'
+    data:
+    - 战斗结束后，抢劫尸体/与你帮助的人交谈(可能需要刷新)。如果你帮助了<b>[魔法师瑟濂]</b>，刷新并再次与她交谈。
+  - id: '468'
+    data:
+    - 返回<b>赐福[大回廊]</b>，然后向下到南方悬崖边缘，和棺材互动。
+  - id: '469'
+    data:
+    - 杀死Boss<b>[“黑暗弃子”艾丝缇]</b>
+  - id: '470'
+    data:
+    - 触碰<b>赐福[“黑暗弃子”艾丝缇]</b>。
+  - id: '471'
+    data:
+    - 往北走，搭乘电梯，触碰<b>赐福[月光祭坛]</b>
+  - id: '472'
+    data:
+    - 继续往东北方向走，触碰<b>赐福[玛努斯·瑟利斯大教堂]</b>
+  - id: '472_1'
+    data:
+    - 到附近的洞中与<b>[魔女菈妮]</b>交谈，并对话到重复获取<b>[暗月大剑]</b>。
+  - id: '473'
+    data:
+    - 返回<b>[铁匠伊吉]</b>处，与他对话到重复
+  - id: '474'
+    data:
+    - 返回<b>[菈妮魔法师塔]</b>并杀死发狂的<b>[“半狼”布莱泽]</b>
+  - id: '475'
+    data:
+    - 再次回到<b>[铁匠伊吉]</b>并对话到重复。
+  - id: '476'
+    data:
+    - 刷新并拾取<b>[铁匠伊吉]</b>的尸体。
+- title: 王城罗德尔
+  items:
+  - id: '478'
+    data:
+    - 从<b>赐福[大道旁露台]</b>开始，向西北方向前进，爬上龙尸的翅膀到达顶端。跳下来，爬上梯子去触碰<b>赐福[王城西边城墙]</b>。
+  - id: '479'
+    data:
+    - 走下楼梯，跳下窗台向西南走，然后去地图上标记的位置入侵并与<b>[“叛律者”贝纳尔]</b>合作杀死<b>[“离群魔法师”维赫勒]</b>和<b>[“白狼战鬼”巴格莱姆]</b>。
+  - id: '480'
+    data:
+    - 从<b>赐福[王城西边城墙]</b>向南走到半圆形竞技场，与<b>[圣职人员柯林]</b>对话到重复
+  - id: '481'
+    data:
+    - 与<b>[金面具]</b>对话到重复。
+  - id: '482'
+    data:
+    - 沿着树根往东向上，杀死Boss<b>[“初始之王”葛孚雷]</b>。
+  - id: '483'
+    data:
+    - 触碰<b>赐福[黄金树大教堂]</b>。
+  - id: '484'
+    data:
+    - 顺着树根往东走到上一层。出去向左上房顶，从窗户进去。然后从树根向上在<b>赐福[黄金树大教堂]</b>上方获取<b>[黄金律法原本]</b>。
+  - id: '485'
+    data:
+    - 去<b>[“结缘牧师”米利耶]</b>处并对话到重复。
+  - id: '486'
+    data:
+    - 给他<b>[黄金律法原本]</b>然后买<b>[回归性原理]</b>
+  - id: '487'
+    data:
+    - 返回<b>赐福[黄金树大教堂]</b>，使用附近的电梯下去，阅读地上的留言
+  - id: '488'
+    data:
+    - 在留言处使用<b>[回归性原理]</b>后读取新留言
+  - id: '489'
+    data:
+    - 回到<b>[金面具]</b>处并对话到重复。
+  - id: '490'
+    data:
+    - 与<b>[圣职人员柯林]</b>对话到重复
+  - id: '491'
+    data:
+    - 返回<b>赐福[黄金树大教堂]</b>并沿着树根向前触碰<b>赐福[女王闺阁]</b>
+  - id: '492'
+    data:
+    - 继续前进到Boss房间外召唤<b>[梅琳娜]</b>并杀死Boss<b>[“恶兆王”蒙葛特]</b>。
+  - id: '493'
+    data:
+    - 尝试打开黄金树被拒绝，然后触碰<b>赐福[艾尔登宝座]</b>
+  - id: '494'
+    data:
+    - 在赐福休息和<b>[梅琳娜]</b>对话到重复
+  - id: '495'
+    data:
+    - 在<b>赐福[女王闺阁]</b>休息，与<b>[梅琳娜]</b>对话到重复。
+  - id: '496'
+    data:
+    - 走到<b>赐福[大道旁露台]</b>，沿着路向东北方向走，穿过巨大的大门，上斜坡，上电梯，穿过桥，从下一个电梯下去触碰<b>赐福[禁域]</b>。
+  - id: '497'
+    data:
+    - 朝东北方向通过一块区域后召唤<b>[米莉森]</b>并杀死Boss<b>[黑剑眷属]</b>。
+  - id: '498'
+    data:
+    - 经过Boss并触碰<b>赐福[洛德大升降机]</b>。
+  - id: '499'
+    data:
+    - 和旁边的<b>[解指老妪]</b>对话到重复
+- title: 圆桌厅堂/战士涅斐丽·露/桂奥尔龙墓
+  items:
+  - id: '500'
+    data:
+    - 返回<b>[圆桌厅堂]</b>，与<b>[“解指”恩雅]</b>对话到重复
+  - id: '501'
+    data:
+    - 与<b>[“百智爵士”基甸·奥夫尼尔]</b>对话到重复
+  - id: '502'
+    data:
+    - 与<b>[铁匠修古]</b>对话到重复。
+  - id: '503'
+    data:
+    - 返回<b>[史东薇尔城]</b>中的<b>赐福[“接肢”葛瑞克]</b>，与王座大厅中的<b>[战士涅斐丽·露]</b>对话，并对话到重复。
+  - id: '504'
+    data:
+    - 与<b>[“领主的嫡长子”肯尼斯·海德]</b>对话到重复
+  - id: '505'
+    data:
+    - 与<b>[门卫葛托克]</b>对话到重复，他的商店将增加新物品。
+  - id: '506'
+    data:
+    - 回到<b>赐福[野兽神殿]</b>，把<b>[死根]</b>给<b>[“野兽祭司”古兰格]</b>并对话到重复
+  - id: '507'
+    data:
+    - 在赐福休息后<b>[“野兽祭司”古兰格]</b>将攻击你。痛打他一顿，但别杀了他，然后再跟他交谈
+  - id: '508'
+    data:
+    - 在<b>[希芙拉河的入口井]</b>中，进入<b>赐福[希芙拉河（岸边）]</b>。去东北，使用传送门，然后前往该地区的东北角触碰<b>赐福[出口井的下方]</b>。
+  - id: '509'
+    data:
+    - 使用石剑钥匙解锁雕像后坐电梯上去触碰<b>赐福[希芙拉河的出口井]</b>。
+  - id: '510'
+    data:
+    - 向西北方向前往竞技场，并与大壶交谈。
+  - id: '511'
+    data:
+    - 使用大壶前的红色召唤标志召唤并杀死三个<b>[大壶骑士]</b>
+  - id: '512'
+    data:
+    - 再次与大壶对话并获得奖励。
+- title: 巨人山顶第1部分
+  items:
+  - id: '513'
+    data:
+    - 返回<b>赐福[洛德大升降机]</b>，电梯上去后向前获取<b>[地图碎片：巨人山顶（西）]</b>
+  - id: '514'
+    data:
+    - 触碰附近的<b>赐福[萨米尔废墟]</b>。
+  - id: '515'
+    data:
+    - 在<b>赐福[萨米尔废墟]</b>休息并与<b>[梅琳娜]</b>交谈
+  - id: '516'
+    data:
+    - 与附近的<b>[夏玻利利]</b>对话到重复
+  - id: '517'
+    data:
+    - 在赐福休息和<b>[梅琳娜]</b>对话到重复。
+  - id: '518'
+    data:
+    - 朝东北方向前进，当你看到使用火魔法的荆棘法师时，进入附近的门去触摸<b>赐福[巨人山顶地下墓地]</b>。
+  - id: '519'
+    data:
+    - 穿过这个区域，然后下电梯，继续下另一个电梯。沿着这条路径走到尽头，然后掉下靠近大号战士壶的旁边的洞。这个区域看起来和之前一样，但如果你回到电梯，踩下开关后离开电梯，电梯下方会有一条秘道，下面有大号战士壶。跳下来，用拉杆解锁Boss房间
+  - id: '519_1'
+    data:
+    - Boss门打开后进去杀死Boss<b>[腐烂树灵]</b>，获得第七个<b>[死根]</b>
+  - id: '520'
+    data:
+    - 走出墓穴，朝东北方向走，触碰<b>赐福[古遗迹降雪谷]</b>
+  - id: '521'
+    data:
+    - 与附近的<b>[米莉森]</b>对话到重复
+  - id: '522'
+    data:
+    - 继续向北到冰冻的河流然后向西到<b>[离群独行者的破屋]</b>入侵并杀死<b>[“血言骑士”尤诺·霍斯劳]</b>
+  - id: '523'
+    data:
+    - 使用<b>[离群独行者的破屋]</b>南边的龙卷风跳跃点到达占星者的废墟。进入废墟并召唤<b>[灵魂水母的骨灰]</b>开门，然后与门内的灵魂水母交谈完成解谜。
+  - id: '524'
+    data:
+    - 前往废墟东南方向的桥与<b>[圣职人员柯林]</b>对话，并对话到重复(如果你给他遗忘药水，他任务线的最后他会在这里而不是<b>[“灰烬王城”罗德尔]</b>)
+  - id: '525'
+    data:
+    - 与<b>[金面具]</b>对话到重复。
+- title: 火山官邸
+  items:
+  - id: '526'
+    data:
+    - 去<b>[火山官邸]</b>和<b>[骑士贝纳尔]</b>对话获得奖励
+  - id: '526_1'
+    data:
+    - 与附近的<b>[骑士狄亚罗斯]</b>对话到重复
+  - id: '527'
+    data:
+    - 与<b>[“火山官邸之主”塔妮丝]</b>对话并对话到重复，然后触碰<b>赐福[谒见之路]</b>
+  - id: '528'
+    data:
+    - 进入Boss房间，击杀Boss<b>[“亵渎君王”拉卡德]</b>(旁边可以捡到一支特殊攻击方式的矛，可以在远距离上对<b>[“亵渎君王”拉卡德]</b>造成大伤害)
+  - id: '529'
+    data:
+    - 触碰<b>赐福[“亵渎君王”拉卡德]</b>
+  - id: '530'
+    data:
+    - 与<b>[“火山官邸之主”塔妮丝]</b>对话到重复
+  - id: '531'
+    data:
+    - 与<b>[帕奇]</b>对话到重复
+  - id: '532'
+    data:
+    - 与<b>[骑士贝纳尔]</b>对话到重复
+  - id: '534'
+    data:
+    - 在<b>赐福[艾格蕾教堂]</b>往前的位置与<b>[“招募者”菈雅]</b>交谈(不要给她药水)
+  - id: '535'
+    data:
+    - 刷新，看到她的留言。
+  - id: '536'
+    data:
+    - 前往<b>[日荫城]</b>的<b>赐福[日荫城（内门）]</b>，并继续前行，乘坐电梯到达Boss房间前，在满是雕像的通道里与<b>[帕奇]</b>交谈，并从他那里获得<b>[舞娘的打击乐器]</b>。
+  - id: '537'
+    data:
+    - 回到<b>赐福[“亵渎君王”拉卡德]</b>，和附近的<b>[“火山官邸之主”塔妮丝]</b>对话到重复。
+  - id: '538'
+    data:
+    - 杀死<b>[“火山官邸之主”塔妮丝]</b>和她的<b>[熔炉骑士]</b>
+  - id: '539'
+    data:
+    - 去<b>[宁姆格福]</b>中的<b>[蒙流洞窟]</b>，在<b>[帕奇]</b>的Boss房间(这是他现在的永久位置)再次遇见<b>[帕奇]</b>
+- title: 巨人山顶第2部分
+  items:
+  - id: '540'
+    data:
+    - 从古雪谷赐福出发，向东北方向的结冰河流进发。继续往东北到<b>赐福[结冰湖]</b>
+  - id: '541'
+    data:
+    - 沿着斜坡向北走，然后转向西南方向，触碰<b>赐福[古遗迹山谷的山崖上]</b>。
+  - id: '542'
+    data:
+    - 从赐福向西北方向前进，在墓碑后面杀死Boss<b>[提比亚的唤声船]</b>，获取第八个<b>[死根]</b>
+  - id: '543'
+    data:
+    - 继续向西，沿着斜坡往东北方向走，触碰<b>赐福[索尔城（正门）]</b>
+  - id: '544'
+    data:
+    - 进入<b>[索尔城]</b>，上楼到教堂触碰<b>赐福[日蚀教堂]</b>
+  - id: '545'
+    data:
+    - 深入教堂，通过后门打开通往Boss房间的捷径，然后进去杀死Boss<b>[老将尼奥]</b>
+  - id: '546'
+    data:
+    - 触碰<b>赐福[索尔城（屋顶）]</b>
+  - id: '547'
+    data:
+    - Boss房间的电梯向上获得<b>[圣树秘密符节（左）]</b>
+  - id: '548'
+    data:
+    - 回到<b>赐福[结冰湖]</b>，穿过湖向东南走，直到你到达东南角，触碰<b>赐福[玛莉卡第一教堂]</b>
+  - id: '549'
+    data:
+    - 在赐福休息和<b>[梅琳娜]</b>对话到重复。
+  - id: '550'
+    data:
+    - 向西触碰<b>赐福[降雪棱线路]</b>
+  - id: '551'
+    data:
+    - 向南穿过桥去触碰<b>赐福[巨人墓碑]</b>
+  - id: '553'
+    data:
+    - 向南/西南方向去<b>[安歇教堂]</b>杀死入侵者<b>[“血指”老翁]</b>
+  - id: '554'
+    data:
+    - 向东触碰<b>赐福[火焰大锅下方]</b>
+  - id: '555'
+    data:
+    - 使用赐福东北方向的铁索进入Boss房间，召唤<b>[“战士壶”亚历山大]</b>并杀死<b>[火焰巨人]</b>
+  - id: '556'
+    data:
+    - 触碰附近的<b>赐福[火焰巨人]</b>，但不要继续前往熔炉
+- title: 弃置恶兆的地底和癫火封印
+  items:
+  - id: '557'
+    data:
+    - 回到<b>[王城罗德尔]</b>下面的下水道中<b>赐福[地底大道旁]</b>，按照下面的指示解锁所有的捷径并到达<b>赐福[弃置恶兆的底层]</b>(下水道很混乱，所以可能指示不是很明确)
+  - id: '558'
+    data:
+    - 向左转，然后从敞开的大栅栏上跳下。沿着这条路走，向右看，找到一个大管道，然后走进去。沿着小路走，小心跳过洞，走向上倾斜的小路。跳过斜坡顶上的洞，在岔路口右转。爬上梯子，穿过窗户，找到一根拉杆和一扇紧闭的门。拉动控制杆打开第一条捷径。
+  - id: '559'
+    data:
+    - 打开那扇关着的门，走进去。左转，跳到下面的小路上。转身走下楼梯。沿着这条路一直向左走，一直走到花丛那里。跳下来到花丛中，然后转身进入你身后的小路。继续直走到路的尽头，然后右转，走上斜坡，进入一个有死兆兵和两个梯子的开放的房间。爬上右边的梯子，然后穿过门。打开你面前的门，解锁<b>赐福[地底大道旁]</b>前的捷径。
+  - id: '560'
+    data:
+    - 打开门后，转过身，沿着右边向上倾斜的管子走。一直走到顶端，然后往下跳到左边。跳上上面的木条，穿过门。跳到你面前的管道，跳进管道口。走往东的那条路，然后左转，然后马上再左转，走下斜坡。顺着这条路径直走到一个洞里，这次跳进洞里。沿着路径找到一个梯子，然后沿着梯子走下去，看到一个巨大的壶。壶的右边是一个电梯，坐电梯下来，触碰<b>赐福[弃置恶兆的底层]</b>。
+  - id: '561'
+    data:
+    - 进入Boss房间击杀Boss<b>[“恶兆之子”蒙格]</b>
+  - id: '562'
+    data:
+    - 触碰<b>赐福[弃置恶兆的大教堂]</b>。
+  - id: '563'
+    data:
+    - 在赐福休息和<b>[梅琳娜]</b>对话到重复
+  - id: '564'
+    data:
+    - 打破圣坛处的幻影墙向前，想办法向下到达底部触碰<b>赐福[癫火封印]</b>。
+  - id: '565'
+    data:
+    - 与附近的<b>[“探寻灯火”海妲]</b>对话到重复
+  - id: '566'
+    data:
+    - 在赐福休息和<b>[梅琳娜]</b>对话到重复。
+  - id: '567'
+    data:
+    - 你现在有一个选择!!这个选择只会影响过场动画/对话。
+  - id: '568'
+    data:
+    - 选择A是现在获取<b>[癫火封印]</b>。这将触发与<b>[梅琳娜]</b>的对话，一个特殊的巨人熔炉的过场动画，以及一个<b>[梅琳娜]</b>的结局过场动画(如果你选择<b>[癫火封印]</b>结局)。
+  - id: '569'
+    data:
+    - 选择B是等到<b>[梅琳娜]</b>牺牲自己之后再去触碰<b>[癫火封印]</b>。这将触发巨人熔炉的正常过场动画，所有来自选择A的事件都不会发生。在本攻略中，我们将遵循选项A。
+  - id: '570'
+    data:
+    - 卸下所有装备，打开<b>[癫火封印]</b>的门。将播放过场动画。
+  - id: '571'
+    data:
+    - 与<b>[“探寻灯火”海妲]</b>对话到重复。
+  - id: '572'
+    data:
+    - 在赐福休息和<b>[梅琳娜]</b>对话到重复。
+- title: 通往圣树的密道
+  items:
+  - id: '573'
+    data:
+    - 回到<b>赐福[洛德大升降机]</b>并使用电梯。但是，将勋章选项切换为使用秘密勋章。然后沿着路径向前触碰<b>赐福[通往圣树的密道]</b>
+  - id: '574'
+    data:
+    - 触碰赐福后，转身回到有栏杆的平台，找到栏杆被打破的地方。从栏杆的边缘掉下去，踩到下面看不见的路上。
+  - id: '575'
+    data:
+    - 使用留言、血迹、彩虹石或战灰<b>[冻霜踏地]</b>来跟随看不见的道路，到达另一边，但我们想要走的正路是向西到门口的路径。在进入门口之前，看你的左边，看到下面的平台上有一具尸体。跳到平台上，穿过任何一个窗台，拉动北边大海怪后面的控制杆。向南方穿过小路找到Boss的房间。
+  - id: '576'
+    data:
+    - 进入Boss房间并杀死Boss<b>[离群仿身泪滴]</b>，打开附近的箱子获取第九个也是最后一个<b>[死根]</b>。
+- title: “野兽祭司”古兰格 / 贤者格威 / “百智爵士”基甸·奥夫尼尔 / 化圣雪原
+  items:
+  - id: '577'
+    data:
+    - 返回<b>[野兽神殿]</b>与<b>[“野兽祭司”古兰格]</b>对话，给他剩余的<b>[死根]</b>并对话到重复。
+  - id: '578'
+    data:
+    - 返回<b>[贤者格威]</b>在<b>[格威的破屋]</b>与他对话到重复。
+  - id: '579'
+    data:
+    - 从<b>[贤者格威]</b>购买法术<b>[虫丝]</b>
+  - id: '580'
+    data:
+    - 再次与<b>[贤者格威]</b>对话到重复。
+  - id: '581'
+    data:
+    - 返回<b>[圆桌厅堂]</b>与<b>[“百智爵士”基甸·奥夫尼尔]</b>将所有选项对话到重复。
+  - id: '582'
+    data:
+    - 从<b>赐福[通往圣树的密道]</b>，前往外面并触碰<b>赐福[化圣雪原]</b>。
+  - id: '583'
+    data:
+    - 从赐福向北前进，触碰<b>赐福[化圣雪原（深处）]</b>
+  - id: '584'
+    data:
+    - 去北边获取<b>[地图碎片：巨人山顶（西）]</b>
+  - id: '585'
+    data:
+    - 向西北方向触碰<b>赐福[“仪典镇”奥缇那]</b>
+  - id: '586'
+    data:
+    - 与小镇北侧的小恶魔雕像互动，进入封印地牢。
+  - id: '587'
+    data:
+    - 绕城一圈，点亮四尊雕像打开封印，打开<b>[“圣树分枝”艾布雷菲尔]</b>的入口。
+  - id: '588'
+    data:
+    - 向西进发，穿过河流，然后向西北方向触碰<b>赐福[离教废屋]</b>。
+  - id: '589'
+    data:
+    - 在附近与地面上的召唤封印互动召唤<b>[白金之子勒缇娜]</b>与她对话到重复。
+- title: 蒙格温王朝
+  items:
+  - id: '590'
+    data:
+    - 你可能已经使用<b>[纯血骑士勋章]</b>进入过<b>[蒙格温王朝]</b>，但是我们现在将以另一种方式进入。首先，去西部边缘<b>[化圣雪原]</b>杀死入侵者<b>[鲜血贵族]</b>。
+  - id: '590_1'
+    data:
+    - 然后向西，进入森林的角落，使用传送门后触碰<b>赐福[通往王朝的崖上道路]</b>
+  - id: '591'
+    data:
+    - 探索南方的血区，直到你被入侵者<b>[无名白面具]</b>入侵三次。杀死所有三个入侵者(如果你不这样做，他们的奖励将会被错过)
+  - id: '592'
+    data:
+    - 前往西北地区触碰<b>赐福[王朝庙（入口）]</b>
+  - id: '593'
+    data:
+    - 穿过隧道到它的尽头触碰<b>赐福[王朝庙（中段）]</b>
+  - id: '594'
+    data:
+    - 转身，重新进入隧道，使用红色召唤标志入侵<b>[“白面具”梵雷]</b>1，然后杀死他。
+  - id: '595'
+    data:
+    - 在召唤标志所在的地方与<b>[“白面具”梵雷]</b>对话并对话到重复
+  - id: '596'
+    data:
+    - 在赐福休息，并确保把<b>[净血结晶露滴]</b>调配在灵药里，否则下一场战斗将非常困难。
+  - id: '597'
+    data:
+    - 继续从赐福出发，使用电梯上去杀死Boss<b>[“鲜血君王”蒙格]</b>
+  - id: '598'
+    data:
+    - 触碰<b>赐福[神人坠眠之茧]</b>
+- title: 米凯拉的圣树
+  items:
+  - id: '599'
+    data:
+    - 返回<b>赐福[“仪典镇”奥缇那]</b>，然后向东北方向通过传送门到达<b>[米凯拉的圣树]</b>，并触碰附近的<b>赐福[圣树树冠]</b>
+  - id: '600'
+    data:
+    - 沿着树根穿过敌人并触碰<b>赐福[圣树镇]</b>
+  - id: '601'
+    data:
+    - 在城镇中找到<b>赐福[圣树镇（广场）]</b>
+  - id: '602'
+    data:
+    - 继续向前击杀Boss <b>[“圣树骑士”罗蕾塔]</b>
+  - id: '603'
+    data:
+    - 触碰<b>赐福[圣树大舞台]</b>
+  - id: '604'
+    data:
+    - 坐附近的电梯下来，然后继续向前触碰<b>赐福[祈祷室]</b>。
+  - id: '605'
+    data:
+    - 与<b>[米莉森]</b>对话到重复
+  - id: '606'
+    data:
+    - 继续前进，越过敌人，触碰<b>[黄金树的化身]</b>后面的<b>赐福[艾布雷菲尔城墙内部]</b>
+  - id: '607'
+    data:
+    - 继续沿着这条路到腐烂沼泽，穿过它到另一边，然后下梯子触碰<b>赐福[排水通道]</b>
+  - id: '608'
+    data:
+    - 转过身，回到梯子上，向左看，你会看到一个岛。杀死附近的害虫，然后用树根跳到岛上。进入腐烂沼泽中心杀死<b>[腐烂树灵]</b>
+  - id: '609'
+    data:
+    - 刷新，在沼泽上方的悬崖上，<b>[腐烂树灵]</b>将产生2个召唤标志。一个会让你入侵并杀死<b>[米莉森]</b>，而另一个会让你从她的命运中拯救她。为了本攻略的目标，选择救她。
+  - id: '610'
+    data:
+    - 在救下<b>[米莉森]</b>后，和附近的她对话到重复获得<b>[纯净金针]</b>
+  - id: '611'
+    data:
+    - 回到<b>赐福[排水通道]</b>，继续前进，穿过通道，经过敌人，使用建筑内的电梯。下电梯后触碰<b>赐福[圣树底层]</b>
+  - id: '612'
+    data:
+    - 继续前进杀死Boss<b>[“米凯拉的锋刃”玛莲妮亚]</b>
+  - id: '613'
+    data:
+    - 触碰<b>赐福[“腐败女神”玛莲妮亚]</b>
+  - id: '614'
+    data:
+    - 刷新并与附近的<b>[猩红艾奥尼亚]</b>交互，将<b>[纯净金针]</b>变成<b>[米凯拉的针]</b>
+  - id: '615'
+    data:
+    - 回到<b>[贤者格威]</b>的小屋与他交谈并刷新(如果他没死，杀了他)
+  - id: '616'
+    data:
+    - 去<b>[“百智爵士”基甸·奥夫尼尔]</b>和他谈谈关于勋章，圣树，王朝，和鲜血君王的奖励。
+  - id: '617'
+    data:
+    - 如果你还没有升级任何武器到最高级，请在升级后与<b>[铁匠修古]</b>对话
+- title: 逐渐崩毁的法姆·亚兹拉
+  items:
+  - id: '618'
+    data:
+    - 警告! ! !在这一步之后部分游戏地形会发生改变，所以如果你不想错过任何内容，请确保在继续之前完成以上内容。
+  - id: '619'
+    data:
+    - 去<b>赐福[火焰巨人]</b>，然后去锻炉触碰<b>赐福[巨人火焰大锅]</b>，在那里休息然后进入<b>[逐渐崩毁的法姆·亚兹拉]</b>
+  - id: '620'
+    data:
+    - 向前触碰<b>赐福[渐毁野兽墓]</b>
+  - id: '621'
+    data:
+    - 继续前进，越过龙，触碰<b>赐福[渐毁野兽墓（深处）]</b>
+  - id: '622'
+    data:
+    - 穿过建筑往东北方向去触碰<b>赐福[龙卷旁露台]</b>
+  - id: '623'
+    data:
+    - 沿着路径前进并触碰<b>赐福[龙教堂]</b>
+  - id: '624'
+    data:
+    - 转身跳下悬崖，跳到下面的平台上，然后跳下去。通过敌人，保持在你的左边的墙触碰<b>赐福[龙教堂（耳堂）]</b>
+  - id: '625'
+    data:
+    - 在附近召唤<b>[骑士贝纳尔]</b>并杀死Boss <b>[神皮双人组]</b>。
+  - id: '626'
+    data:
+    - 触碰<b>赐福[龙教堂祭坛]</b>
+  - id: '627'
+    data:
+    - 穿过东北门继续前行，发现一尊小恶魔雕像。使用雕像并乘坐电梯到<b>赐福[龙教堂（升降机前）]</b>。
+  - id: '628'
+    data:
+    - 从赐福出发沿路穿过龙找到<b>[“战士壶”亚历山大]</b>。对话到重复以结束他的任务线。
+  - id: '629'
+    data:
+    - 从<b>赐福[龙教堂（升降机前）]</b>返回电梯，并一直沿着底部的路径走，路过<b>[熔炉骑士]</b>。击杀或跑过它以触碰<b>赐福[龙教堂（屋顶）]</b>
+  - id: '630'
+    data:
+    - 继续通过赐福，跑过鸟和龙，到达电梯。乘电梯上去触碰<b>赐福[大桥侧边]</b>
+  - id: '631'
+    data:
+    - 走上楼梯，沿着Boss房间反方向的左边道路爬下楼梯，前进杀死入侵者<b>[“叛律者”贝纳尔]</b>。
+  - id: '632'
+    data:
+    - 回到<b>[王城罗德尔]</b>中的<b>赐福[王城东边城墙]</b>与<b>[亚人柏克]</b>对话并对话到重复
+  - id: '633'
+    data:
+    - 到<b>赐福[壶村]</b>与<b>[小壶]</b>和<b>[骑士狄亚罗斯]</b>对话，刷新直到和他们对话到重复
+  - id: '634'
+    data:
+    - 把时间消磨到早上，再和每个人交谈，直到对话到重复
+  - id: '635'
+    data:
+    - 刷新并与<b>[小壶]</b>对话，然后刷新给他<b>[亚历山大的内容物]</b>，然后再次刷新完成他的任务线。
+  - id: '636'
+    data:
+    - 返回<b>[圆桌厅堂]</b>与<b>[铁匠修古]</b>对话到重复
+  - id: '637'
+    data:
+    - 与<b>[罗德莉卡]</b>对话到重复
+  - id: '638'
+    data:
+    - 与<b>[“百智爵士”基甸·奥夫尼尔]</b>对话到重复
+  - id: '639'
+    data:
+    - <b>[“解指”恩雅]</b>现在会处于死亡状态，但你仍然可以用她来购物。
+  - id: '640'
+    data:
+    - 回到<b>赐福[大桥侧边]</b>，走下电梯径直走到悬崖边，跳到下面的平台上。沿着这条路径到达悬空的坟墓，交互躺下后杀死Boss <b>[“龙王”普拉顿桑克斯]</b>。
+  - id: '641'
+    data:
+    - 触碰<b>赐福[“龙王”普拉顿桑克斯]</b>
+  - id: '642'
+    data:
+    - 从这里开始，你可以在这个区域使用<b>[米凯拉的针]</b>来移除<b>[癫火封印]</b>以达到其他结局。可以在选择游戏结局前的任何时候做。
+  - id: '643'
+    data:
+    - 警告! ! !完成下一步将永久改变<b>[王城罗德尔]</b>。在完成这一步之前在<b>[王城罗德尔]</b>中进行所有的探索，否则你将被迫等待到NG+
+  - id: '644'
+    data:
+    - 返回<b>赐福[大桥侧边]</b>，爬上斜坡杀死<b>[“黑剑”玛利喀斯]</b>
+- title: “灰烬王城”罗德尔
+  items:
+  - id: '645'
+    data:
+    - 触碰<b>赐福[灰城罗德尔]</b>
+  - id: '646'
+    data:
+    - 向西南方向前进，与<b>[圣职人员柯林]</b>交谈(如果你给过他<b>[遗忘秘药]</b>，他将在<b>[化圣雪原]</b>)，对话到重复，刷新后拾取他的东西
+  - id: '647'
+    data:
+    - 继续向南，穿过桥找到<b>[金面具]</b>的身体获得<b>[完美律法的修复卢恩]</b>然后刷新后拾取他的东西
+  - id: '648'
+    data:
+    - 再次穿过桥，使用附近的楼梯沿路向上杀死<b>[“百智爵士”基甸·奥夫尼尔]</b>
+  - id: '649'
+    data:
+    - 触碰<b>赐福[黄金树大教堂]</b>然后召唤<b>[战士涅斐丽·露]</b>和<b>[夏玻利利]</b>后杀死Boss <b>[“初始之王”葛孚雷]</b>/<b>[战士荷莱·露]</b>。
+  - id: '650'
+    data:
+    - 触碰<b>赐福[艾尔登宝座]</b>，前进杀死Boss <b>[“黄金律法”拉达冈]</b>/<b>[艾尔登之兽]</b>。
+  - id: '651'
+    data:
+    - 根据你的行为触发不同的结局，完成游戏

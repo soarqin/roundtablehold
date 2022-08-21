@@ -1,91 +1,203 @@
-title: Illusory Walls & Invisible Paths
+title: 幻影墙和隐藏通道
 id: illusory_walls
-table_widths: [2, 3, 7]
+table_widths:
+- 2
+- 3
+- 7
 sections:
-  -
-    title: Liurnia of the Lakes
-    link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
-    table: ["Location", "Rewards", "Description"]
-    items:
-      - id: "1_1"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Academy+Crystal+Cave\">Academy Crystal Cave</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Crystal+Staff\">Crystal Staff</a>", "After entering through a wooden door, there is a room guarded by a tanky mage with a pointy hat. Before entering that room, the illusory wall is to the left."]
-      - id: "1_2"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Academy+of+Raya+Lucaria\">Academy of Raya Lucaria</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Rune+Arc\">Rune Arc</a>", "The wall to the right just upon entering the Church of the Cuckoo.	"]
-      - id: "1_3"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Academy+of+Raya+Lucaria\">Academy of Raya Lucaria</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Smithing+Stone+(4)\">Smithing Stone [4]</a>, <a href=\"https://eldenring.wiki.fextralife.com/Olivinus+Glintstone+Crown\">Olivinus Glintstone Crown</a>", "Bookshelf by the corpse in the room to the left in the hallway just after the Schoolhouse Classroom site of grace."]
-      - id: "1_4"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Academy+of+Raya+Lucaria\">Academy of Raya Lucaria</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Comet\">Comet</a>, <a href=\"https://eldenring.wiki.fextralife.com/Graven-School+Talisman\">Graven-School Talisman</a>, <a href=\"https://eldenring.wiki.fextralife.com/Stonesword+Key\">Stonesword Key</a>", "From the Debate Parlor site of grace head back the way to the mage's the right bookshelf near the stairs, the one with no books."]
-      - id: "1_5"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs\">Black Knife Catacombs</a>", "Optional Boss  <a href=\"https://eldenring.wiki.fextralife.com/Black+Knife+Assassin\">Black Knife Assassin</a>", "Ride the knife traps up, at the end of the hall, hit the wall to access an Optional Boss."]
-      - id: "1_6"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Kingsrealm+Ruins\">Kingsrealm Ruins</a>", "Areas north of Kingsrealm Ruins", "This illusory wall is located north side of Kingsrealm Ruins, blocking the road, posing as a large brick wall. Hit it to see the road ahead and continue to the manor."]
-      - id: "1_7"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Kingsrealm+Ruins\">Kingsrealm Ruins</a>", "Optional Boss <a href=\"https://eldenring.wiki.fextralife.com/Royal+Revenant\">Royal Revenant</a>", "The stairs leading down into an underground area is covered by an illusory floor."]
-      - id: "1_8"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Moonfolk+Ruins\">Moonfolk Ruins</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Somber+Smithing+Stone+(8)\">Somber Smithing Stone [8]</a>", "This illusory floor is located in the northeast part of the ruins.	"]
-      - id: "1_9"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Road's+End+Catacombs\">Road's End Catacomb</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Ghost+Glovewort+(2)\">Ghost Glovewort (2)</a>, <a href=\"https://eldenring.wiki.fextralife.com/Rune+Arc\">Rune Arc</a>, <a href=\"https://eldenring.wiki.fextralife.com/Root+Resin\">Root Resin</a>, <a href=\"https://eldenring.wiki.fextralife.com/Grave+Grovewort+(2)\">Grave Glovewort [2]</a>, Optional Boss  <a href=\"https://eldenring.wiki.fextralife.com/Spirit-Caller+Snail\">Spirit-Caller Snail</a>, <a href=\"https://eldenring.wiki.fextralife.com/Glintstone+Sorcerer+Ashes\">Glintstone Sorcerer Ashes</a>, <a href=\"https://eldenring.wiki.fextralife.com/Watchdog's+Staff\">Watchdog's Staff</a>, <a href=\"https://eldenring.wiki.fextralife.com/Grave+Glovewort+(3)\">Grave Glovewort (3)</a>, <a href=\"https://eldenring.wiki.fextralife.com/Grave+Violet\">Grave Violet</a>", "The first 2 are one floor below the lever, in the stone archways, both of them lead to the same area, it continues on with another illusory wall, then another one, until you find the boss room. The second 2 are two floors below the lever, in the stone archways, both are next to each other, leading to the same area. The last wall in the catacombs leads to a dead end area with a chest."]
-      - id: "1_10"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Three+Sisters\">Three Sisters</a>", "N/A", "The wall is located on the ground in the Ruined area at the west end. Hit or roll onto it to reveal it. Just below, there is another Illusory Wall that reveals an NPC that appears to be <a href=\"https://eldenring.wiki.fextralife.com/Sorceress+Sellen\">Sorceress Sellen</a>, though in Stasis."]
-  -
-    title: Caelid
-    link: https://eldenring.wiki.fextralife.com/Caelid
-    table: ["Location", "Rewards", "Description"]
-    items:
-      - id: "2_1"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Caelid+Catacombs\">Caelid Catacombs</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Miranda+Sprout+Ashes\">Miranda Sprout Ashes</a>, <a href=\"https://eldenring.wiki.fextralife.com/Grave+Glovewort+(5)\">Grave Glovewort [5]</a>", "After descending the staircase that leads onto a swamp, turn to the right, go under the platform where the Archer Skeleton was, and hit wall on the right corner. At the end of the dungeon, there will be a locked door. Once you see it, turn 180 and then attack the wall on the column in the middle of the previous room."]
-      - id: "2_2"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Sellia+Hideaway\">Sellia Hideaway</a>", "N/A", "Entrance found behind an illusionary wall of rock. Illusory wall in the sloped area leading down to the boss room."]
-  -
-    title: Altus Plateau
-    link: https://eldenring.wiki.fextralife.com/Altus+Plateau
-    table: ["Location", "Rewards", "Description"]
-    items:
-      - id: "3_1"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Auriza+Side+Tomb\">Auriza Side Tomb</a>", "Complete the Dungeon", "In the final room after using the first teleporter trap, when facing the chest in the room, there is an illusory wall on the left side."]
-      - id: "3_2"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Mirage+Rise\">Mirage Rise</a>", "Entrance to the Rise", "East-Southeast of the Bower of Bounty Grace, up a little cliff, it's an illusory rock part of the Mirage Riddle."]
-      - id: "3_3"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Sage's+Cave\">Sage's Cave</a>", "N/A", "There’s an illusory wall near the path past the campfire, with another one along the way. The wall between the two bazaars is actually an illusory wall as well. There are also two illusory walls in the middle of the waterfall with two chests in the middle."]
-      - id: "3_4"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Sainted+Hero's+Grave\">Sainted Hero's Grave</a>", "N/A", "Past the site of grace take the left passage down the stairs, follow the corridor until the end into the room with the two bell casters up the stairs past them the wall behind them is Illusory."]
-      - id: "3_5"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Sealed+Tunnel\">Sealed Tunnel</a>", "N/A", "In Leyndell Royal Capital, there's a tunnel down at the lake outside the west entrance, the tunnel is apparently sealed with nothing in it, but hitting a cavity in one of the walls will open a path to a new area. The tunnel keeps going deeper and deeper and at the end of each hidden area, there's another illusory wall that you must hit to continue."]
-      - id: "3_6"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Sealed+Tunnel\">Sealed Tunnel</a>", "N/A", "The first is between a summoning pool and a fire place. The next is behind a chest containing a ball bearing. After Dropping into a room filled with the exploding ball enemies a hidden wall can be found behind a bunch of crates and barrels opposite a stair case"]
-  -
-    title: Subterranean Shunning-Grounds
-    link: https://eldenring.wiki.fextralife.com/Subterranean+Shunning-Grounds
-    table: ["Location", "Rewards", "Description"]
-    items:
-      - id: "4_1"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Frenzied+Flame+Proscription\">Frenzied Flame Proscription</a>", "Alternative way to <a href=\"https://eldenring.wiki.fextralife.com/Deeproot+Depths\">Deeproot Depths</a>", "In one of the arches on the wall next to <a href=\"https://eldenring.wiki.fextralife.com/Hyetta\">Hyetta</a>'s final location, you'll find an Illusory Wall hiding a hallway leading to a chest with a Rune Arc. Another Illusory Wall can be found behind the chest and opens up to the Root-Facing Site of Grace."]
-      - id: "4_2"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Leyndell+Catacombs\">Leyndell Catacombs</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Haligdrake+Talisman\">Haligdrake Talisman +1</a>", "Up the stairs from the Grace, up the elevator, in the room with unkillable enemies, next to the stairs up 2 walls, leading to the snail. This is also accessible via <a href=\"https://eldenring.wiki.fextralife.com/Leyndell,+Ashen+Capital\">Leyndall, Ashen Capital</a>."]
-  -
-    title: Forbidden Lands
-    link: https://eldenring.wiki.fextralife.com/Forbidden+Lands
-    table: ["Location", "Rewards", "Description"]
-    items:
-      - id: "5_1"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Hidden+Path+to+the+Haligtree\">Hidden Path to the Haligtree</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Grave+Glovewort+(9)\">Grave Glovewort [9]</a>, <a href=\"https://eldenring.wiki.fextralife.com/Silver+Scarab\">Silver Scarab</a>, <a href=\"https://eldenring.wiki.fextralife.com/Grave+Glovewort+(9)\">Grave Glovewort [9]</a>, <a href=\"https://eldenring.wiki.fextralife.com/Hero's+Rune+(1)\">Hero's Rune [1]</a>, <a href=\"https://eldenring.wiki.fextralife.com/Spelldrake+Talisman\">Spelldrake Talisman +2</a>, <a href=\"https://eldenring.wiki.fextralife.com/Blackflame+Monk+Amon\">Blackflame Monk Amon Ashes</a>, <a href=\"https://eldenring.wiki.fextralife.com/Deathroot\">Deathroot</a>", "From the Site of Grace, make your way back down the staircase in the main hall and stand where the broken section of railing is, it will be on your right hand side. Looking down, you should be able to see an alcove along the walls across the pit. Walk to the ledge and drop a Rainbow Stone or Glowstone, etc., to ensure solid landing. Walk forward to drop to the invisible floor. Once on the invisible floor, you can move straight ahead into the alcove. Keep following the hidden path from here to progress."]
-  -
-    title: Mountaintops of the Giants
-    link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
-    table: ["Location", "Rewards", "Description"]
-    items:
-      - id: "6_1"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Giant-Conquering+Hero's+Grave\">Giant-Conquering Hero's Grave</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Golden+Rune+(11)\">Golden Rune [11]</a>", "From the Grace, down the hallway where it opens up, turn right and it's the panel on the left."]
-      - id: "6_2"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Giants'+Mountaintop+Catacombs\">Giants' Mountaintop Catacombs</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Grave+Glovewort+(8)\">Grave Glovewort [8]</a>", "In the secret lower part of the dungeon, located by raising the lift once you've taken it down to the first level. Once you've taken the lift downward and moved past the first room you'll be faced with 2 frost breath traps down a long hallway. The hidden wall is between the two traps on the right hand side just before the second trap."]
-      - id: "6_3"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Heretical+Rise\">Heretical Rise</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Founding+Rain+of+Stars\">Founding Rain of Stars</a>", "You must head over to the other side of the ravine in the north and find the invisible bridge that takes you across. <a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=2804&lat=-63.42&lng=163.07&zoom=8&code=mapA\">See this for the bridge start location</a>. From here make your way across the ravine and as you reach the tower look to your left. You should see very faint mist that guides you on a winding path up to enter the tower from a balcony above. <b>Tip:</b> You can use Rainbow Stones or shoot arrows with a bow to mark safe spots to walk on."]
-  -
-    title: Mt. Gelmir
-    link: https://eldenring.wiki.fextralife.com/Mt+Gelmir
-    table: ["Location", "Rewards", "Description"]
-    items:
-      - id: "7_1"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Volcano+Manor\">Volcano Manor</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Depraved+Perfumer+Carmaan+Ashes\">Depraved Perfumer Carmaan Ashes</a>", "After receiving the Drawing-Room Key from <a href=\"https://eldenring.wiki.fextralife.com/Tanith\">Tanith</a>, open the first door on the right in the hallway next to <a href=\"https://eldenring.wiki.fextralife.com/Tanith\">Tanith</a>. The back wall, right corner is illusory. Follow the hallway, when it opens up go to the path to the left, not the stairs, and all the way at the end of this hallway is an illusory wall on your left."]
-      - id: "7_2"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Volcano+Manor\">Volcano Manor</a>", "Opens a shortcut; probable glitch, it reforms", "From the site of grace, then through the hallway, first room to the right, then the through the path at the corner of the room guarded by snails, at some part in that path you will find a cavity on the left with a bit of illumination coming form the other side. This illusory wall requires multiple hits to open, about 50 times with a heavy weapon."]
+- title: 湖之利耶尼亚
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
+  table:
+  - 位置
+  - 奖励
+  - 描述
+  items:
+  - id: '1_1'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Academy+Crystal+Cave"><b>学院结晶洞窟</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Crystal+Staff"><b>[结晶杖]</b></a>
+    - 穿过一扇木门后，一个尖帽法师守卫着一个房间。在进入那个房间之前，幻影墙在左边。
+  - id: '1_2'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Academy+of+Raya+Lucaria"><b>魔法学院雷亚卢卡利亚</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Rune+Arc"><b>[卢恩弯弧]</b></a>
+    - 进入<b>[杜鹃教堂]</b>后右边的墙。
+  - id: '1_3'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Academy+of+Raya+Lucaria"><b>魔法学院雷亚卢卡利亚</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Smithing+Stone+(4)"><b>[锻造石【４】]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Olivinus+Glintstone+Crown"><b>[奥利维尼斯辉石头罩]</b></a>
+    - <b>赐福[校舍内的教室]</b>出发半路在走廊的左边房间里尸体旁边的书架。
+  - id: '1_4'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Academy+of+Raya+Lucaria"><b>魔法学院雷亚卢卡利亚</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Comet"><b>[帚星]</b></a>，<a href="https://eldenring.wiki.fextralife.com/Graven-School+Talisman"><b>[魔法师球护符]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Stonesword+Key"><b>[石剑钥匙]</b></a>
+    - 从<b>赐福[讨论室]</b>往回到法师右边的书架，靠近楼梯，没有书的那个。
+  - id: '1_5'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs"><b>黑刀地下墓地</b></a>
+    - Boss<a href="https://eldenring.wiki.fextralife.com/Black+Knife+Assassin"><b>[黑刀刺客]</b></a>
+    - 骑着刀片陷阱上去，在道路尽头，幻影墙后是一个Boss。
+  - id: '1_6'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Kingsrealm+Ruins"><b>王室领地废墟</b></a>
+    - <b>[王室领地废墟]</b>以北地区
+    - 这堵幻影墙位于<b>[王室领地废墟]</b>的北侧，挡住了道路，伪装成一堵巨大的砖墙。打破后通往<b>[卡利亚城寨]</b>。
+  - id: '1_7'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Kingsrealm+Ruins"><b>王室领地废墟</b></a>
+    - Boss<a href="https://eldenring.wiki.fextralife.com/Royal+Revenant"><b>[王室幽魂]</b></a>
+    - 通往地下区域的楼梯被一个幻影地板覆盖。
+  - id: '1_8'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Moonfolk+Ruins"><b>月之民废墟</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Somber+Smithing+Stone+(8)"><b>[失色锻造石【８】]</b></a>
+    - 这个幻影地板位于废墟的东北部。
+  - id: '1_9'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Road's+End+Catacombs"><b>绝路地下墓地</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Ghost+Glovewort+(2)"><b>[灵依墓地铃兰【２】]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Rune+Arc"><b>[卢恩弯弧]</b></a>，<a href="https://eldenring.wiki.fextralife.com/Root+Resin"><b>[根脂]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Grave+Grovewort+(2)"><b>[墓地铃兰【２】]</b></a>Boss<a
+      href="https://eldenring.wiki.fextralife.com/Spirit-Caller+Snail"><b>[唤灵蜗牛]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Glintstone+Sorcerer+Ashes"><b>[辉石魔法师的骨灰]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Watchdog's+Staff"><b>[看门犬锡杖]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Grave+Glovewort+(3)"><b>[墓地铃兰【３】]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Grave+Violet"><b>[墓地紫花]</b></a>
+    - 前两堵位于拉杆下层石拱门内，它们都通向同一个区域，接着是另一堵幻影墙，然后是另一堵，直到你找到Boss房间。另外两个在拉杆往下两层，在石拱门内，两个紧挨着通向同一个区域。地下墓穴的最后一堵幻影墙通向一个有宝箱的死路。
+  - id: '1_10'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Three+Sisters"><b>三姊妹塔</b></a>
+    - 无
+    - 墙位于西端遗址区的地面上。击打或翻滚以揭露。在下方，有另一个幻影墙，和NPC<a href="https://eldenring.wiki.fextralife.com/Sorceress+Sellen"><b>[魔法师瑟濂]</b></a>任务相关。
+- title: 盖利德
+  link: https://eldenring.wiki.fextralife.com/Caelid
+  table:
+  - 位置
+  - 奖励
+  - 描述
+  items:
+  - id: '2_1'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Caelid+Catacombs"><b>盖利德地下墓地</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Miranda+Sprout+Ashes"><b>[小米兰达的骨灰]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Grave+Glovewort+(5)"><b>[墓地铃兰【５】]</b></a>
+    - 走下通往沼泽地的楼梯后，向右转，走到骷髅射手所在的平台下面，撞右边角落的墙。在地洞的尽头，会有一扇上锁的门。看到后转身攻击前面房间中间的柱子上的墙。
+  - id: '2_2'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Sellia+Hideaway"><b>瑟利亚隐藏洞窟</b></a>
+    - 无
+    - 入口在一堵幻影岩石墙后面。斜坡区域的幻影墙通向Boss房间。
+- title: 亚坛高原
+  link: https://eldenring.wiki.fextralife.com/Altus+Plateau
+  table:
+  - 位置
+  - 奖励
+  - 描述
+  items:
+  - id: '3_1'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Auriza+Side+Tomb"><b>亚雷萨副墓地</b></a>
+    - 完成墓地
+    - 在使用第一个传送陷阱后的最后一个房间里，当面对房间里的宝箱时，左边有一面幻影墙。
+  - id: '3_2'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Mirage+Rise"><b>海市蜃楼魔法师塔</b></a>
+    - 塔的入口
+    - 在<b>赐福[丰饶森林]</b>东南一个小悬崖上，它是<b>[海市蜃楼的谜题]</b>的幻影岩石部分。
+  - id: '3_3'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Sage's+Cave"><b>贤者的洞窟</b></a>
+    - 无
+    - 经过营火的小路附近有一堵幻影墙，沿路还有一堵。两个集市之间的墙其实也是一堵幻影墙。瀑布中间还有两堵幻影墙，中间有两个宝箱。
+  - id: '3_4'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Sainted+Hero's+Grave"><b>尊贵者的英雄墓地</b></a>
+    - 无
+    - 经过赐福走左边的通道下楼梯，沿着走廊一直到尽头进入有两个钟形轮的房间，上楼经过他们，他们后面是幻影墙。
+  - id: '3_5'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Sealed+Tunnel"><b>封印坑道</b></a>
+    - 无
+    - 在<b>[王城罗德尔]</b>西门外的湖里有一个坑道，坑道看起来是封闭的，里面什么都没有，但打破其中一面幻影墙将打开一条通往新区域的路径。坑道会越挖越深，在每个隐藏区域的尽头都有另一堵幻影墙。
+  - id: '3_6'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Sealed+Tunnel"><b>封印坑道</b></a>
+    - 无
+    - 第一堵是在召唤池和火场之间。下一堵是在一个装有铃珠的宝箱后面。在进入一个充满爆炸球敌人的房间后，你可以在楼梯间对面的一堆板条箱和桶后面发现一堵幻影墙
+- title: 弃置恶兆的地底
+  link: https://eldenring.wiki.fextralife.com/Subterranean+Shunning-Grounds
+  table:
+  - 位置
+  - 奖励
+  - 描述
+  items:
+  - id: '4_1'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Frenzied+Flame+Proscription"><b>癫火封印</b></a>
+    - 另一条去<a href="https://eldenring.wiki.fextralife.com/Deeproot+Depths"><b>[深根底层]</b></a>的路
+    - 在<a href="https://eldenring.wiki.fextralife.com/Hyetta"><b>[“探寻灯火”海妲]</b></a>的最终位置旁边墙上拱门上你会发现一个幻影墙后藏着一个走廊，通向一个装着<b>[卢恩弯弧]</b>的宝箱。另一堵幻影墙可以在宝箱后面找到，并到达<b>赐福[树根旁断崖]</b>。
+  - id: '4_2'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Catacombs"><b>罗德尔地下墓地</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Haligdrake+Talisman"><b>[圣龙徽护符＋１]</b></a>
+    - 从赐福上楼，上电梯，在有不死敌人的房间里，旁边楼梯爬上2堵墙，通向蜗牛。这也可以通过<a href="https://eldenring.wiki.fextralife.com/Leyndell,+Ashen+Capital"><b>[灰城罗德尔]</b></a>到达。
+- title: 禁域
+  link: https://eldenring.wiki.fextralife.com/Forbidden+Lands
+  table:
+  - 位置
+  - 奖励
+  - 描述
+  items:
+  - id: '5_1'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Hidden+Path+to+the+Haligtree"><b>通往圣树的密道</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Grave+Glovewort+(9)"><b>[墓地铃兰【９】]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Silver+Scarab"><b>[银色粪金龟]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Grave+Glovewort+(9)"><b>[墓地铃兰【９】]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Hero's+Rune+(1)"><b>[英雄卢恩【１】]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Spelldrake+Talisman"><b>[魔力龙徽护符＋２]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Blackflame+Monk+Amon">骨灰<b>[黑焰习武修士亚蒙]</b></a>，<a
+      href="https://eldenring.wiki.fextralife.com/Deathroot"><b>[死根]</b></a>
+    - 从赐福走下主大厅的楼梯，站在右手边栏杆断裂的地方。往下看，你应该能看到一个沿墙穿过深渊的凹室。用<b>[虹彩石]</b>或<b>[照明石]</b>等手段探路以确保稳固着陆。沿着看不见的地板前进，前进直接进入壁龛，继续沿着隐藏的路径前进。
+- title: 巨人山顶
+  link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
+  table:
+  - 位置
+  - 奖励
+  - 描述
+  items:
+  - id: '6_1'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Giant-Conquering+Hero's+Grave"><b>巨人战争的英雄墓地</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Golden+Rune+(11)"><b>[黄金卢恩【１１】]</b></a>
+    - 从赐福出发，沿着走廊走，它就打开了，右转后在左边的平台。
+  - id: '6_2'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Giants'+Mountaintop+Catacombs"><b>巨人山顶地下墓地</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Grave+Glovewort+(8)"><b>[墓地铃兰【８】]</b></a>
+    - 在地城底部的秘密部分，把电梯升到第一层你从电梯下的洞往下落。然后乘坐电梯往下走，经过第一个房间时，你会在一条长长的走廊上遇到两个冰霜吐息陷阱。幻影墙在右边的两个陷阱之间，就在第二个陷阱之前。
+  - id: '6_3'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Heretical+Rise"><b>异端魔法师塔</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Founding+Rain+of+Stars"><b>[创星雨]</b></a>
+    - '你必须前往北方峡谷的另一边，找到那座带你过去的隐形桥。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2804&lat=-63.42&lng=163.07&zoom=8&code=mapA">查看此桥开始位置</a>．
+      从这里穿过峡谷，到达塔顶时向左边看。你会看到非常微弱的薄雾引导你沿着蜿蜒的小路从上面的阳台进入塔内。<b>提示: </b>你可以用彩虹石或弓箭来标记安全的地方。'
+- title: 格密尔火山
+  link: https://eldenring.wiki.fextralife.com/Mt+Gelmir
+  table:
+  - 位置
+  - 奖励
+  - 描述
+  items:
+  - id: '7_1'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Volcano+Manor"><b>火山官邸</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Depraved+Perfumer+Carmaan+Ashes">骨灰<b>[“堕落调香师”卡尔曼]</b></a>
+    - 从<a href="https://eldenring.wiki.fextralife.com/Tanith"><b>[“火山官邸之主”塔妮丝]</b></a>收到<b>[客房钥匙]</b>后，打开旁边走廊右边的第一扇门，右边后面的墙是幻影墙。打开后走左边的路而不是楼梯，一直走到走廊的尽头在你的左边有一堵幻影墙。
+  - id: '7_2'
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Volcano+Manor"><b>火山官邸</b></a>
+    - 打开一个捷径; 可能是个bug
+    - 从赐福出发穿过走廊，走右边第一个房间，然后穿过有蜗牛守卫的房间角落的小路，在这条小路的某个地方，你会发现左边有一个洞，从另一边射过来一点光。这堵幻影墙需要多次击打才能打开，使用重型武器大约需要敲50次。

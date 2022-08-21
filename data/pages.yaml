@@ -2,7 +2,7 @@
 # The order of entries in pages determines the order they appear in the dropdown
 dropdowns:
   -
-    name: "Guides"
+    name: "指引"
     pages:
       - "walkthrough.yaml" #Walkthrough
       - "quest_order_tldr.yaml" #TL;DR All NPC Quest Steps in Order
@@ -10,14 +10,14 @@ dropdowns:
       - "achievements.yaml" #Achievements
       - "legendaries.yaml" #Legendaries
   -
-    name: "Locations"
+    name: "位置"
     pages:
       - "bosses.yaml" #Bosses
       - "landmarks.yaml" #Landmarks & Locations
       - "graces.yaml" #Sites of Grace
       - "illusory_walls.yaml" #Illusory Walls & Invisible Paths
   -
-    name: "Equipment"
+    name: "装备类道具"
     pages:
       - "weapons.yaml" #Weapons
       - "armor.yaml" #Armor
@@ -27,7 +27,7 @@ dropdowns:
       - "ashesofwar.yaml" #Ashes of War
       - "spirit_ashes.yaml" #Spirit Ashes
   - 
-    name: "Upgrades & Unlocks"
+    name: "强化和功能解锁道具"
     pages:
       - "flasks.yaml" #Golden Seeds & Sacred Tears
       - "crystal_tears.yaml" #Flask of Wondrous Physick
@@ -38,7 +38,7 @@ dropdowns:
       - "cookbooks.yaml" #Cookbooks
       - "ancient_dragon_smithing_stones.yaml" #Ancient Dragon Smithing Stones
   -
-    name: "Collectables"
+    name: "收集类道具"
     pages:
       - "remembrances.yaml" #Remembrances & Mausoleums
       - "greatrunes.yaml" #Great Runes

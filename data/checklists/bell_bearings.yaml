@@ -1,202 +1,411 @@
-title: Bell Bearings
+title: 铃珠
 id: bell_bearings
-map_icon: "/map/icons/MENU_MAP_80.png"
-description: "Bell bearings should be given to the Twin Maiden Husks at the Roundtable Hold. Each one found unlocks a unique selection of items for the shop, either adding it to the base stock or creating a new special sub-inventory within \"Bell bearing shops.\" Some are found in the world or as boss drops; additionally, every NPC who sells items will drop a bell bearing if they die so that you can still access what they sell. Some bell bearings, including all from the unnamed Merchants of the world, can only be collected by murder, the only benefit to which is the convenience of their inventory being available in the Roundtable Hold. Bell bearings from merchants and NPCs reset upon NG+, but the others don't."
+map_icon: /map/icons/MENU_MAP_80.png
+description: 铃珠需要交给圆桌厅堂的孪生老妪。每个都会增加新的出售内容，要么添加到基础商店出售列表中，要么在“铃珠商店”中创建一个新的独立选项。有些是在探索中拾取或者敌人掉落。此外，每个商店NPC在死亡时会掉落一个铃珠，借此你仍然可以购买他们所出售的道具。有些铃珠，包括所有无名商人，只能通过谋杀来获取，唯一好处是他们的商品可以在圆桌厅堂中直接购买。商人和NPC的铃珠在新周目会重置，但其他铃珠不会。
 sections:
-  -
-    title: "Smithing-Stone Miner's Bell Bearings"
-    icon: "/img/icons/keys/edited/03142.png"
-    table: ["", "Unlocks", "Location"]
-    table_widths: [1, 2, 9]
-    items:
-      - id: "1_1"
-        data: ["[1]", "Smithing Stone 1/2", "Dropped by the boss of the <a href=\"caves_catacombsand_tunnels.html#item_2_5\">Raya Lucaria Crystal Tunnels</a>."]
-      - id: "1_2"
-        data: ["[2]", "Smithing Stone 3/4", "In a chest in the Sealed Tunnel, North-East of the Minor Erdtree Church next to the South-West gate of Leyndell. The tunnel is in the river of the outer moat. Inside the Tunnel you will find lots of Illusory Walls. In a chest behind the Illusory Wall just before reaching the elevator is the Bell Bearing."]
-      - id: "1_3"
-        data: ["[3]", "Smithing Stone 5/6", "Under the Zamor Ruins at the entrance of Mountaintops of the Giants. In the ruins, find a staircase going under the ruins and open the chest for the Bell Bearing."]
-      - id: "1_4"
-        data: ["[4]", "Smithing Stone 7/8", "Dropped by the <a href=\"bosses.html#item_11_2\">Godskin Duo</a> in Crumbling Farum Azula."]
-  -
-    title: "Somberstone Miner's Bell Bearings"
-    icon: "/img/icons/keys/edited/03142.png"
-    table: ["", "Unlocks", "Location"]
-    table_widths: [1, 2, 9]
-    items:
-      - id: "2_1"
-        data: ["[1]", "Somber Stone 1/2", "Dropped by the boss of <a href=\"caves_catacombsand_tunnels.html#item_3_6\">Sellia Crystal Tunnel</a>. Fastest way to the tunnel is by taking the teleporter chest located in the ruins at the South end of the lake in Limgrave. Under the ruins and past some rats is a chest that will teleport you to the Tunnel."]
-      - id: "2_2"
-        data: ["[2]", "Somber Stone 3/4", "Dropped by the boss of <a href=\"caves_catacombsand_tunnels.html#item_4_2\">Altus Tunnel</a>."]
-      - id: "2_3"
-        data: ["[3]", "Somber Stone 5/6", "Found on a body at the First Church of Marika in East Mountaintops of the Giants."]
-      - id: "2_4"
-        data: ["[4]", "Somber Stone 7/8", "Next to the Tempest-Facting Balcony Grace in Crumbling Farum Azula."]
-      - id: "2_5"
-        data: ["[5]", "Somber Stone 9", "In Crumbling Farum Azula. Little hard to explain. From the Dragon Temple Rooftop Grace, hop down to where all the nasty birds are. Past the birds is a dragon. Going past the dragon to the right is a bunch of demi-humans. Past them is a ruin that's fallen over and become a bridge. In the next building on the right is a corpse with the Bell Bearing."]
-  -
-    title: "Glovewort Picker's Bell Bearings"
-    icon: "/img/icons/keys/edited/03142.png"
-    table: ["", "Unlocks", "Location"]
-    table_widths: [1, 2, 9]
-    items:
-      - id: "3_1"
-        data: ["[1]", "Grave Glovewort 1/2/3", "Dropped by the boss of <a href=\"caves_catacombsand_tunnels.html#item_5_6\">Wyndham Catacombs</a> located on North of the Lux Ruins, North of the exit of the \"Cowards\" Path aka Ruins-Strewn Precipice."]
-      - id: "3_2"
-        data: ["[2]", "Grave Glovewort 4/5/6", "Dropped by the boss of <a href=\"caves_catacombsand_tunnels.html#item_7_2\">Giants' Mountaintop Catacomb</a> located North of the Zamor Ruins. On the path North, when you meet the fire guys, turn to the right and down the stairs to the catacomb."]
-      - id: "3_3"
-        data: ["[3]", "Grave Glovewort 7/8/9", "In Crumbling Farum Azula in a lake. Go down the elevator South-West of the room that is North-West from the Crumbling Beast Grave Depths Grace. You'll see a lake down the path and the Bell Bearing is there."]
-  -
-    title: "Ghostform Picker's Bell Bearings"
-    icon: "/img/icons/keys/edited/03142.png"
-    table: ["", "Unlocks", "Location"]
-    table_widths: [1, 2, 9]
-    items:
-      - id: "4_1"
-        data: ["[1]", "Ghost Glovewort 1/2/3", "Just ahead of the Nokron, Eternal City Grace."]
-      - id: "4_2"
-        data: ["[2]", "Ghost Glovewort 4/5/6", "In a chest in Nokstella, Eternal City. From the Grace head West and it will be in a building on the left in the chest."]
-      - id: "4_3"
-        data: ["[3]", "Ghost Glovewort 7/8/9", "Requires Haligtree Medallion. In Miquella's Haligtree. From the Haligtree Roots Grace, go up the elevator and outside the church. Turn left and go down to all the shrimp men and it will next to a grave."]
-  -
-    title: "Peddlers' Bell Bearings"
-    icon: "/img/icons/keys/edited/03142.png"
-    table: ["Version", "Unlocks", "Location"]
-    table_widths: [2, 2, 8]
-    items:
-      - id: "5_1"
-        data: ["Bone", "Thin Animal Bones<br>Hefty Beast Bone", "Dropped by <a href=\"bosses.html#item_2_20\">Bell Bearing Hunter</a> in Warmaster's Shack, Limgrave."]
-      - id: "5_2"
-        data: ["Meat", "Sliver of Meat<br>Lump of Flesh<br>Turtle Neck Meat", "Dropped by <a href=\"bosses.html#item_4_14\">Bell Bearing Hunter</a> in Church of Vows, Liurnia."]
-      - id: "5_3"
-        data: ["Gravity", "Gravity Stone Fan<br>Gravity Stone Chunk", "Dropped by <a href=\"bosses.html#item_5_19\">Bell Bearing Hunter</a> in Isolated Merchant's Shack, Dragonbarrow, Caelid."]
-      - id: "5_4"
-        data: ["Medicine", "Neutralizing Boluses<br>Stanching Boluses<br>Thawfrost Boluses<br>Stimulating Boluses", "Dropped by <a href=\"bosses.html#item_6_16\">Bell Bearing Hunter</a> in Hermit Merchant's Shack, Capital Outskirts."]
-  -
-    title: "NPCs' Bell Bearings"
-    table: ["NPC", "Obtained naturally?", "Notes"]
-    table_widths: [3, 2, 7]
-    items:
-      - id: "6_1"
-        icon: "/img/icons/keys/edited/03145.png"
-        data: ["<a href=\"npc_questlines.html#item_36_5\">Bernahl</a>", "No", "The only chance to get Bernahl's bell bearing is murdering him at his initial location in the Warmaster's Shack in Limgrave. The only other place you see him in person is the combat-free Volcano Manor; when he moves on from there, he leaves his sword behind, which functions as his shop from then on, and at the end of his questline, he doesn't drop it. His shop also adds unique items when you meet him at Volcano Manor, so getting his bell bearing at all locks you out of buying these exclusive Ashes of War."]
-      - id: "6_2"
-        icon: "/img/icons/keys/edited/03142.png"
-        data: ["<a href=\"npc_questlines.html#item_11_4\">Blackguard</a>", "Depends", "If you follow both his and Dung Eater's questlines, you can loot his bell bearing once he dies in Capital Outskirts. His shop inventory (and thus his bell bearing) adds items over his questline, so don't kill him early."]
-      - id: "6_3"
-        icon: "/img/icons/keys/edited/03144.png"
-        data: ["<a href=\"npc_questlines.html#item_7_8\">Corhyn</a>", "Yes", "If you follow his questline, at the end in Leyndell, Capital of Ash or Mountaintops of the Giants, reload after finding him for the final time and you'll find his bell bearing. His shop inventory (and thus his bell bearing) adds items over his questline, in addition to any prayerbooks, so don't kill him early."]
-      - id: "6_4"
-        icon: "/img/icons/keys/edited/03144.png"
-        data: ["<a href=\"npc_questlines.html#item_23_5\">D, Hunter of the Dead</a>", "Yes", "Lootable at the end of his questline in Roundtable Hold."]
-      - id: "6_5"
-        icon: "/img/icons/keys/edited/03142.png"
-        data: ["<a href=\"npc_questlines.html#npc_quests_section_15\">Gostoc</a>", "No", "Gostoc never becomes hostile. To obtain his bell bearing, you must murder him at some point. His shop inventory (and thus his bell bearing) adds a very rare item at the end of his questline, so don't kill him early if you want it."]
-      - id: "6_6"
-        icon: "/img/icons/keys/edited/03143.png"
-        data: ["<a href=\"npc_questlines.html#item_31_20\">Gowry</a>", "Depends", "At the end of Gowry and Millicent's intertwined questline, he will die naturally if you side against Millicent. If you side with her, you'll have to kill him yourself, in which case he won't respawn like he usually does and you'll get his loot and bell bearing."]
-      - id: "6_7"
-        icon: "/img/icons/keys/edited/03145.png"
-        data: ["<a href=\"npc_questlines.html#item_41_5\">Iji</a>", "Yes", "Looted off his body at the end of his questline at his usual spot in Liurnia. You cannot kill him early. Following Blaidd's quest adds an extra item to his shop and bell bearing."]
-      - id: "6_8"
-        icon: "/img/icons/keys/edited/03144.png"
-        data: ["<a href=\"npc_questlines.html#npc_quests_section_28\">Miriel</a>", "No", "Miriel never becomes hostile. If you murder him, you'll get his bell bearing. You monster."]
-      - id: "6_9"
-        icon: "/img/icons/keys/edited/03142.png"
-        data: ["<a href=\"npc_questlines.html#npc_quests_section_30\">Patches</a>", "No", "Patches never becomes hostile (permanently). To obtain his bell bearing, you must murder him at some point."]
-      - id: "6_10"
-        icon: "/img/icons/keys/edited/03142.png"
-        data: ["<a href=\"npc_questlines.html#item_18_2\">Pidia</a>", "Yes", "Looted off his body at the end of his questline in Caria Manor."]
-      - id: "6_11"
-        icon: "/img/icons/keys/edited/03145.png"
-        data: ["<a href=\"npc_questlines.html#item_21_7\">Rogier</a>", "Yes", "Looted off his body at the end of his questline in Roundtable Hold."]
-      - id: "6_12"
-        icon: "/img/icons/keys/edited/03143.png"
-        data: ["<a href=\"npc_questlines.html#item_10_8\">Sellen</a>", "Depends", "At the end of her questline, you choose whether or not to side with her in her duel with Jerren. Killing her grants her bell bearing, while siding with her does not, and you will not be able to obtain it thereafter as she stays in Rennala's combat-free library."]
-      - id: "6_13"
-        icon: "/img/icons/keys/edited/03146.png"
-        data: ["<a href=\"npc_questlines.html#item_19_7\">Seluvis</a>", "Yes", "Looted off his body at Seluvis's Rise at the end of his questline. His shop inventory (and thus his bell bearing) adds items over his questline, so don't kill him early."]
-      - id: "6_14"
-        icon: "/img/icons/keys/edited/03143.png"
-        data: ["<a href=\"npc_questlines.html#item_4_3\">Thops</a>", "Yes", "Looted off his body in Raya Lucaria at the end of his questline."]
-  -
-    title: "Merchants' Bell Bearings"
-    icon: "/img/icons/keys/edited/03142.png"
-    map_icon: "/map/icons/MENU_MAP_80.png"
-    table: ["Merchant", "Location"]
-    table_widths: [2, 10]
-    items:
-      - id: "7_1"
-        data: ["Kalé", "Church of Elleh, Limgrave, just north of where you emerge at the beginning. Note that if you want his or any Merchant's bell bearing to bring back to the Twin Maiden Husks, you must murder them, as they never die or turn hostile otherwise."]
-        cords: [3655, 7210]
-      - id: "7_2"
-        data: ["Nomadic [1]", "East of Saintsbridge in northern Limgrave, alongside the road."]
-        cords: [4128, 6553]
-        map_title: "Nomadic Merchant (1)"
-      - id: "7_3"
-        data: ["Nomadic [2]", "At the southern edge of the Mistwood in Limgrave near the road to Fort Haight; a dev message on the ground serves as a shop sign indicating he's nearby."]
-        cords: [4557, 7182]
-        map_title: "Nomadic Merchant (2)"
-      - id: "7_4"
-        data: ["Nomadic [3]", "Southeast of the entrance to Coastal Cave in southwest Limgrave, under a collapsed ruin of stone."]
-        cords: [3565, 7394]
-        map_title: "Nomadic Merchant (3)"
-      - id: "7_5"
-        data: ["Nomadic [4]", "Near the Castle Morne Rampart Site of Grace in Weeping Peninsula."]
-        cords: [4298, 8173]
-        map_title: "Nomadic Merchant (4)"
-      - id: "7_6"
-        data: ["Nomadic [5]", "Near the Liurnia Lake Shore Site of Grace in Liurnia."]
-        cords: [2725, 6138]
-        map_title: "Nomadic Merchant (5)"
-      - id: "7_7"
-        data: ["Nomadic [6]", "Just down the path of the hole in Bellum Church in Liurnia."]
-        cords: [2192, 3974]
-        map_title: "Nomadic Merchant (6)"
-      - id: "7_8"
-        data: ["Nomadic [7]", "Near the Forest-Spanning Greatbridge Site of Grace in Altus Plateau."]
-        cords: [3307, 3074]
-        map_title: "Nomadic Merchant (7)"
-      - id: "7_9"
-        data: ["Nomadic [8]", "On a mountain in Mt. Gelmir only accessible by ladders up and down. From the Ninth Mt. Gelmir Campsite Site of Grace, cross the rope bridge to the east, then continue east up the slopes to find a ladder down to the merchant."]
-        cords: [2450, 2632]
-        map_title: "Nomadic Merchant (8)"
-      - id: "7_10"
-        data: ["Nomadic [9]", "Near the Astray from Caelid Highway North Site of Grace, just to the east."]
-        cords: [5216, 6762]
-        map_title: "Nomadic Merchant (9)"
-      - id: "7_11"
-        data: ["Nomadic [10]", "A bit southwest of the Southern Aeonia Swamp Bank Site of Grace, near the map fragment pillar."]
-        cords: [5426, 7053]
-        map_title: "Nomadic Merchant (10)"
-      - id: "7_12"
-        data: ["Isolated [1]", "At the Isolated Merchant's Shack in southwestern Weeping Peninsula."]
-        cords: [3463, 8219]
-        map_title: "Isolated Merchant (1)"
-      - id: "7_13"
-        data: ["Isolated [2]", "From the Main Academy Gate Site of Grace in Liurnia, face southeast toward the seal teleporter to the outside side of the South Raya Lucaria Gate. Instead of using the portal, run right through it, and follow the path down to the merchant."]
-        cords: [2017, 4945]
-        map_title: "Isolated Merchant (2)"
-      - id: "7_14"
-        data: ["Isolated [3]", "At the Isolated Merchant's Shack in Dragonbarrow, Caelid."]
-        cords: [5158, 6090]
-        map_title: "Isolated Merchant (3)"
-      - id: "7_15"
-        data: ["Hermit [1]", "At the Hermit Merchant's Shack in northern Capital Outskirts."]
-        cords: [3959, 2941]
-        map_title: "Hermit Merchant (1)"
-      - id: "7_16"
-        data: ["Hermit [2]", "Just up the ravine from the Ancient Snow Valley Ruins Site of Grace. Access by the spiritspring to the west, or the Snow Valley Ruins Overlook Site of Grace to the north."]
-        cords: [5973, 2238]
-        map_title: "Hermit Merchant (2)"
-      - id: "7_17"
-        data: ["Hermit [3]", "In Ainsel River, from the Ainsel River Downstream Site of Grace, face east and head into the big room, climb the stairs to enter the building with the massive Malformed Star enemy on top, and find the merchant inside."]
-        cords: [3558, 12158]
-        map_title: "Hermit Merchant (3)"
-      - id: "7_18"
-        data: ["Abandoned", "From the Worshippers' Woods Site of Grace in Siofra River, climb the scaffolding you can see directly west - climb the ladders, drop down around the corner, cross the wooden bridge, and follow the cave-like path until you can drop down into his room."]
-        cords: [6304, 14256]
-        map_title: "Abandoned Merchant"
-      - id: "7_19"
-        data: ["Imprisoned", "West of the Moghwyn Palace, enter the Mohgwyn Dynasty Mausoleum and keep to the left to find the merchant at a dead end."]
-        cords: [6781, 14472]
-        map_title: "Imprisoned Merchant"
+- title: 锻造石矿工的铃珠
+  icon: /img/icons/keys/edited/03142.png
+  table:
+  - ''
+  - 解锁
+  - 位置
+  table_widths:
+  - 1
+  - 2
+  - 9
+  items:
+  - id: '1_1'
+    data:
+    - '[1]'
+    - <b>锻造石【１】</b><br><b>锻造石【２】</b>
+    - <a href="caves_catacombsand_tunnels.html#item_2_5"><b>[雷亚卢卡利亚结晶坑道]</b></a>Boss掉落。
+  - id: '1_2'
+    data:
+    - '[2]'
+    - <b>锻造石【３】</b><br><b>锻造石【４】</b>
+    - 在<b>[王城罗德尔]</b>西南门旁<b>[小黄金树教堂]</b>东北方向<b>[封印坑道]</b>的一个箱子里。坑道在外护城河的河流中。在坑道内，你会发现许多幻影墙。在到达电梯之前，在幻影墙后面的一个箱子里。
+  - id: '1_3'
+    data:
+    - '[3]'
+    - <b>锻造石【５】</b><br><b>锻造石【６】</b>
+    - 在<b>[巨人山顶]</b>入口的<b>[萨米尔废墟]</b>下面。在废墟中，找到通往废墟下的楼梯，打开宝箱。
+  - id: '1_4'
+    data:
+    - '[4]'
+    - <b>锻造石【７】</b><br><b>锻造石【８】</b>
+    - <b>[逐渐崩毁的法姆·亚兹拉]</b>的Boss<a href="bosses.html#item_11_2"><b>[神皮双人组]</b></a>掉落。
+- title: 失色石矿工的铃珠
+  icon: /img/icons/keys/edited/03142.png
+  table:
+  - ''
+  - 解锁
+  - 位置
+  table_widths:
+  - 1
+  - 2
+  - 9
+  items:
+  - id: '2_1'
+    data:
+    - '[1]'
+    - <b>失色锻造石【１】</b><br><b>失色锻造石【２】</b>
+    - <a href="caves_catacombsand_tunnels.html#item_3_6"><b>[瑟利亚结晶坑道]</b></a>Boss掉落。最快捷到坑道的方式是<b>[亚基尔湖南方]</b>废墟里的传送宝箱。
+  - id: '2_2'
+    data:
+    - '[2]'
+    - <b>失色锻造石【３】</b><br><b>失色锻造石【４】</b>
+    - <a href="caves_catacombsand_tunnels.html#item_4_2"><b>[亚坛坑道]</b></a>Boss掉落.
+  - id: '2_3'
+    data:
+    - '[3]'
+    - <b>失色锻造石【５】</b><br><b>失色锻造石【６】</b>
+    - 在<b>[巨人山顶]</b>东部<b>[玛莉卡第一教堂]</b>一具尸体上发现的。
+  - id: '2_4'
+    data:
+    - '[4]'
+    - <b>失色锻造石【７】</b><br><b>失色锻造石【８】</b>
+    - 在<b>[逐渐崩毁的法姆·亚兹拉]</b>的<b>赐福[龙卷旁露台]</b>旁边。
+  - id: '2_5'
+    data:
+    - '[5]'
+    - <b>失色锻造石【９】</b>
+    - <b>[逐渐崩毁的法姆·亚兹拉]</b>。从<b>赐福[龙教堂（屋顶）]</b>，跳到一堆讨厌的鸟那里。往前是一条龙，经过龙的右边是一群亚人，过去是一片废墟，倒塌后变成了一座桥。往前在右边的建筑里有一具带着铃珠的尸体。
+- title: 铃兰摘采工的铃珠
+  icon: /img/icons/keys/edited/03142.png
+  table:
+  - ''
+  - 解锁
+  - 位置
+  table_widths:
+  - 1
+  - 2
+  - 9
+  items:
+  - id: '3_1'
+    data:
+    - '[1]'
+    - <b>墓地铃兰【１】</b><br><b>墓地铃兰【２】</b><br><b>墓地铃兰【３】</b>
+    - <a href="caves_catacombsand_tunnels.html#item_5_6"><b>[威达姆地下墓地]</b></a>Boss掉落，位于<b>[卢克斯废墟]</b>北边，<b>[古遗迹断崖]</b>出口以北。
+  - id: '3_2'
+    data:
+    - '[2]'
+    - <b>墓地铃兰【４】</b><br><b>墓地铃兰【５】</b><br><b>墓地铃兰【６】</b>
+    - <a href="caves_catacombsand_tunnels.html#item_7_2"><b>[巨人山顶地下墓地]</b></a>Boss掉落，位于<b>[萨米尔废墟]</b>以北。在北面的小路上，当你遇到火焰敌人时，右转到地下墓地。
+  - id: '3_3'
+    data:
+    - '[3]'
+    - <b>墓地铃兰【７】</b><br><b>墓地铃兰【８】</b><br><b>墓地铃兰【９】</b>
+    - 从<b>赐福[渐毁野兽墓（深处）]</b>西北方向的房间乘坐西南方向的电梯下去。沿着小路你会看到一个湖，铃珠就在那里。
+- title: 灵依摘采工的铃珠
+  icon: /img/icons/keys/edited/03142.png
+  table:
+  - ''
+  - 解锁
+  - 位置
+  table_widths:
+  - 1
+  - 2
+  - 9
+  items:
+  - id: '4_1'
+    data:
+    - '[1]'
+    - <b>灵依墓地铃兰【１】</b><br><b>灵依墓地铃兰【２】</b><br><b>灵依墓地铃兰【３】</b>
+    - 就在<b>赐福[“永恒之城”诺克隆恩]</b>往前。
+  - id: '4_2'
+    data:
+    - '[2]'
+    - <b>灵依墓地铃兰【４】</b><br><b>灵依墓地铃兰【５】</b><br><b>灵依墓地铃兰【６】</b>
+    - 在<b>[“永恒之城”诺克史黛拉]</b>的一个箱子里。从赐福往西走，它在左边的一个建筑的宝箱里。
+  - id: '4_3'
+    data:
+    - '[3]'
+    - <b>灵依墓地铃兰【７】</b><br><b>灵依墓地铃兰【８】</b><br><b>灵依墓地铃兰【９】</b>
+    - 需要圣树秘密符节。<b>[米凯拉的圣树]</b>从<b>赐福[圣树底层]</b>出发上电梯，走出教堂。左转走到一堆虾人那里，它就在一个坟墓旁边。
+- title: 贩子的铃珠
+  icon: /img/icons/keys/edited/03142.png
+  table:
+  - 名称
+  - 解锁
+  - 位置
+  table_widths:
+  - 3
+  - 2
+  - 7
+  items:
+  - id: '5_1'
+    data:
+    - <b>兽骨贩子的铃珠</b>
+    - <b>细小兽骨</b><br><b>粗大兽骨</b>
+    - <b>[宁姆格福]</b><b>[习战者的破屋]</b><a href="bosses.html#item_2_20"><b>[铃珠猎人]</b></a>掉落。
+  - id: '5_2'
+    data:
+    - <b>兽肉贩子的铃珠</b>
+    - <b>肉片</b><br><b>野兽肉块</b><br><b>龟颈肉块</b>
+    - <b>[利耶尼亚]</b><b>[结缘教堂]</b><a href="bosses.html#item_4_14"><b>[铃珠猎人]</b></a>掉落。
+  - id: '5_3'
+    data:
+    - <b>重力贩子的铃珠</b>
+    - <b>扇形重力石</b><br><b>块状重力石</b>
+    - <b>[盖利德]</b><b>[桂奥尔龙墓]</b><b>[隐居商人的破屋]</b><a href="bosses.html#item_5_19"><b>[铃珠猎人]</b></a>掉落。
+  - id: '5_4'
+    data:
+    - <b>苔药贩子的铃珠</b>
+    - <b>中毒苔药</b><br><b>出血苔药</b><br><b>冻伤苔药</b><br><b>催眠苔药</b>
+    - <b>[王城外围]</b><b>[遁世商人的破屋]</b><a href="bosses.html#item_6_16"><b>[铃珠猎人]</b></a>掉落。
+- title: NPCs' Bell Bearings
+  table:
+  - NPC
+  - 随剧情自动获取?
+  - 说明
+  table_widths:
+  - 3
+  - 2
+  - 7
+  items:
+  - id: '6_1'
+    icon: /img/icons/keys/edited/03145.png
+    data:
+    - <a href="npc_questlines.html#item_36_5"><b>骑士贝纳尔</b></a>
+    - 否
+    - 获得<b>[贝纳尔的铃珠]</b>的唯一机会是在<b>[宁姆格福]</b>的<b>[习战者的破屋]</b>的初始位置谋杀他。才外能看到他的另一个地方是禁止战斗区域<b>[火山官邸]</b>;
+      当他从那里离开时，他会留下他的剑，这就是他的商店，在任务线的最后，他不会掉落铃珠。当你在<b>[火山官邸]</b>遇到他时，他的商店也会添加新的商品，所以强制得到他的铃珠会失去购买这些独家战灰的机会。
+  - id: '6_2'
+    icon: /img/icons/keys/edited/03142.png
+    data:
+    - <a href="npc_questlines.html#item_11_4"><b>流氓</b></a>
+    - 看情况
+    - 如果你同时跟随他和<b>[食粪者]</b>的任务线，你可以在<b>[王城外围]</b>中他死后拾取他的铃珠。他的商店(以及他的铃珠商店)会随着任务线增加道具，所以不要过早地杀死他。
+  - id: '6_3'
+    icon: /img/icons/keys/edited/03144.png
+    data:
+    - <a href="npc_questlines.html#item_7_8"><b>圣职人员柯林</b></a>
+    - 是
+    - 如果你跟随他的任务线，在<b>[“灰烬王城”罗德尔]</b>或<b>[巨人山顶]</b>的结尾，在最后一次找到他后刷新，你会捡到他的铃珠。他的商店(以及他的铃珠商店)会随着任务线增加除了祈祷书外的其他道具，所以不要过早杀死他。
+  - id: '6_4'
+    icon: /img/icons/keys/edited/03144.png
+    data:
+    - <a href="npc_questlines.html#item_23_5"><b>“狩猎死亡”Ｄ</b></a>
+    - 是
+    - 在<b>[圆桌厅堂]</b>的任务线结束时可以获得
+  - id: '6_5'
+    icon: /img/icons/keys/edited/03142.png
+    data:
+    - <a href="npc_questlines.html#npc_quests_section_15"><b>门卫葛托克</b></a>
+    - 否
+    - <b>[门卫葛托克]</b>永远不会变成敌对状态。为了得到他的铃珠，你必须在某个时候杀了他。他的商品(以及他的铃珠商店)在任务线的最后会增加一个非常稀有的道具，所以如果你想要的话就不要过早地杀死他。
+  - id: '6_6'
+    icon: /img/icons/keys/edited/03143.png
+    data:
+    - <a href="npc_questlines.html#item_31_20"><b>贤者格威</b></a>
+    - 看情况
+    - 在<b>[贤者格威]</b>和<b>[米莉森]</b>交错的任务线结束时，如果你站在<b>[米莉森]</b>一边，他会自然死亡。如果你帮助她，就必须亲手杀死他，在这种情况下，他不会像往常一样重生，你将获得他的道具和铃珠。
+  - id: '6_7'
+    icon: /img/icons/keys/edited/03145.png
+    data:
+    - <a href="npc_questlines.html#item_41_5"><b>铁匠伊吉</b></a>
+    - 是
+    - 在<b>[利耶尼亚]</b>他的任务线最后他尸体上拾取。你无法提前杀死他。跟随<b>[“半狼”布莱泽]</b>的任务会增加一个额外的道具到他的商店和铃珠商店。
+  - id: '6_8'
+    icon: /img/icons/keys/edited/03144.png
+    data:
+    - <a href="npc_questlines.html#npc_quests_section_28"><b>“结缘牧师”米利耶</b></a>
+    - 否
+    - <b>[“结缘牧师”米利耶]</b>永远不会变成敌对状态。如果你杀了他，你就会得到他的铃珠。你这个禽兽。
+  - id: '6_9'
+    icon: /img/icons/keys/edited/03142.png
+    data:
+    - <a href="npc_questlines.html#npc_quests_section_30"><b>帕奇</b></a>
+    - 否
+    - <b>[帕奇]</b>永远不会变成敌对状态。为了得到他的铃珠，你必须在某个时候杀了他。
+  - id: '6_10'
+    icon: /img/icons/keys/edited/03142.png
+    data:
+    - <a href="npc_questlines.html#item_18_2"><b>仆人毕迪</b></a>
+    - 是
+    - 在<b>[卡利亚城寨]</b>他的任务线结束时从他的尸体拾取。
+  - id: '6_11'
+    icon: /img/icons/keys/edited/03145.png
+    data:
+    - <a href="npc_questlines.html#item_21_7"><b>魔法师罗杰尔</b></a>
+    - 'Yes'
+    - 在<b>[圆桌厅堂]</b>他的任务线结束时从他的尸体拾取。
+  - id: '6_12'
+    icon: /img/icons/keys/edited/03143.png
+    data:
+    - <a href="npc_questlines.html#item_10_8"><b>魔法师瑟濂</b></a>
+    - Depends
+    - 在她的任务线的最后，你可以选择是否在她与<b>[城主杰廉]</b>的决斗中站在她一边。杀死她可以获得她的铃铛，而帮助她则不能，并且你将无法获得它，因为她在<b>[“满月女王”蕾娜菈]</b>的禁止战斗区域中。
+  - id: '6_13'
+    icon: /img/icons/keys/edited/03146.png
+    data:
+    - <a href="npc_questlines.html#item_19_7"><b>魔法教授赛尔维斯</b></a>
+    - 'Yes'
+    - 在他的任务线结束时从他在<b>[赛尔维斯魔法师塔]</b>的尸体拾取。他的商店(以及他的铃珠商店)会随着任务线增加道具，所以不要过早地杀死他。
+  - id: '6_14'
+    icon: /img/icons/keys/edited/03143.png
+    data:
+    - <a href="npc_questlines.html#item_4_3"><b>魔法师托普斯</b></a>
+    - 'Yes'
+    - 在他的任务线结束时，在<b>[魔法学院雷亚卢卡利亚]</b>从他的尸体拾取。
+- title: Merchants' Bell Bearings
+  icon: /img/icons/keys/edited/03142.png
+  map_icon: /map/icons/MENU_MAP_80.png
+  table:
+  - 商人
+  - 位置
+  table_widths:
+  - 2
+  - 10
+  items:
+  - id: '7_1'
+    data:
+    - <b>“流浪商人”咖列</b>
+    - <b>宁姆格福</b><b>艾雷教堂</b>，就在你开始出现的地方的北边。注意，如果你想将他或其他任何商人的铃珠带回到<b>孪生老妪</b>，你必须谋杀他们，因为他们永远不会死或敌对。
+    cords:
+    - 3655
+    - 7210
+  - id: '7_2'
+    data:
+    - <b>流浪商人的铃珠【１】</b>
+    - <b>圣人桥</b>以东，<b>宁姆格福</b>北部，沿路走。
+    cords:
+    - 4128
+    - 6553
+    map_title: 流浪民族的商人 (1)
+  - id: '7_3'
+    data:
+    - <b>流浪商人的铃珠【２】</b>
+    - 在<b>宁姆格福</b><b>雾林</b>靠近<b>海德要塞</b>的南缘; 地面上的留言附近。
+    cords:
+    - 4557
+    - 7182
+    map_title: 流浪民族的商人 (2)
+  - id: '7_4'
+    data:
+    - <b>流浪商人的铃珠【３】</b>
+    - 在<b>海岸洞窟</b>西南入口的东南，一个倒塌的石头废墟下。
+    cords:
+    - 3565
+    - 7394
+    map_title: 流浪民族的商人 (3)
+  - id: '7_5'
+    data:
+    - <b>流浪商人的铃珠【４】</b>
+    - 在<b>啜泣半岛</b>的<b>赐福[摩恩城（城墙前方）]</b>附近。
+    cords:
+    - 4298
+    - 8173
+    map_title: 流浪民族的商人 (4)
+  - id: '7_6'
+    data:
+    - <b>流浪商人的铃珠【５】</b>
+    - 在<b>利耶尼亚</b>的<b>赐福[利耶尼亚湖（湖边）]</b>附近。
+    cords:
+    - 2725
+    - 6138
+    map_title: 流浪民族的商人 (5)
+  - id: '7_7'
+    data:
+    - <b>流浪商人的铃珠【６】</b>
+    - 沿着<b>利耶尼亚</b>中<b>彼鲁姆教堂</b>中的有洞路径往前。
+    cords:
+    - 2192
+    - 3974
+    map_title: 流浪民族的商人 (6)
+  - id: '7_8'
+    data:
+    - <b>流浪商人的铃珠【７】</b>
+    - 在<b>亚坛高原</b>的<b>赐福[穿林大桥]</b>附近。
+    cords:
+    - 3307
+    - 3074
+    map_title: 流浪民族的商人 (7)
+  - id: '7_9'
+    data:
+    - <b>流浪商人的铃珠【８】</b>
+    - 在<b>格密尔火山</b>只有梯子上下才能到达的山上。从<b>赐福[格密尔火山（第９休息站）]</b>穿过吊桥到东边，然后继续向东沿着斜坡找到梯子到商人那里。
+    cords:
+    - 2450
+    - 2632
+    map_title: 流浪民族的商人 (8)
+  - id: '7_10'
+    data:
+    - <b>流浪商人的铃珠【９】</b>
+    - 靠近<b>赐福[盖利德大道北方（偏离大道后）]</b>遗址，就在东边。
+    cords:
+    - 5216
+    - 6762
+    map_title: 流浪民族的商人 (9)
+  - id: '7_11'
+    data:
+    - <b>流浪商人的铃珠【１０】</b>
+    - <b>赐福[艾奥尼亚沼泽（南岸）]</b>西南一点，靠近地图碎片石碑。
+    cords:
+    - 5426
+    - 7053
+    map_title: 流浪民族的商人 (10)
+  - id: '7_12'
+    data:
+    - <b>隐居商人的铃珠【１】</b>
+    - 在<b>啜泣半岛</b>西南的<b>隐居商人的破屋</b>。
+    cords:
+    - 3463
+    - 8219
+    map_title: 隐居商人 (1)
+  - id: '7_13'
+    data:
+    - <b>隐居商人的铃珠【２】</b>
+    - 从<b>利耶尼亚</b><b>赐福[学院正门口]</b>，向东南方向的传送封印不触摸封印往前走到<b>雷亚卢卡利亚（南门）</b>的外侧，沿路找到商人。
+    cords:
+    - 2017
+    - 4945
+    map_title: 隐居商人 (2)
+  - id: '7_14'
+    data:
+    - <b>隐居商人的铃珠【３】</b>
+    - 在<b>盖利德</b><b>桂奥尔龙墓</b>的<b>隐居商人的破屋</b>中。
+    cords:
+    - 5158
+    - 6090
+    map_title: 隐居商人 (3)
+  - id: '7_15'
+    data:
+    - <b>遁世商人的铃珠【１】</b>
+    - 在<b>王城外围</b>北部的<b>遁世商人的破屋</b>。
+    cords:
+    - 3959
+    - 2941
+    map_title: 遁世商人 (1)
+  - id: '7_16'
+    data:
+    - <b>遁世商人的铃珠【２】</b>
+    - 就在<b>古遗迹降雪谷</b>优雅之地的峡谷上，通过龙卷风跳进入西边。或<b>赐福[古遗迹山谷的山崖上]</b>向北。
+    cords:
+    - 5973
+    - 2238
+    map_title: 遁世商人 (2)
+  - id: '7_17'
+    data:
+    - <b>遁世商人的铃珠【３】</b>
+    - 在<b>安瑟尔河</b>，从<b>赐福[安瑟尔河（下游）]</b>向东进入大房间，爬上楼梯进入顶部有巨大畸形繁星敌人的建筑，找到里面的商人。
+    cords:
+    - 3558
+    - 12158
+    map_title: 遁世商人 (3)
+  - id: '7_18'
+    data:
+    - <b>见弃商人的铃珠</b>
+    - 从<b>希芙拉河</b><b>赐福[信仰者森林]</b>出发，爬上木架，直接向西，爬梯子，从拐角处下来，穿过木桥，沿着洞穴般的路径，直到你可以向下进入他的房间。
+    cords:
+    - 6304
+    - 14256
+    map_title: 见弃商人
+  - id: '7_19'
+    data:
+    - <b>受囚商人的铃珠</b>
+    - <b>蒙格温王朝</b>西边，进入<b>蒙格温王朝庙</b>，靠左在一个死胡同找到商人。
+    cords:
+    - 6781
+    - 14472
+    map_title: 受囚商人

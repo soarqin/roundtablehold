@@ -1,1069 +1,2219 @@
-title: Landmarks & Locations
+title: 地标和位置
 id: caves
-icon: '/map/icons/MENU_MAP_30.png'
-table_widths: [4, 2, 3, 3]
+icon: /map/icons/MENU_MAP_30.png
+table_widths:
+- 4
+- 2
+- 3
+- 3
 sections:
-  -
-    title: "Limgrave"
-    table: ["Name", "Type", "Bosses", "Notes"]
-    items:
-        #CAVES '/map/icons/edited/MENU_MAP_13.png'
-      - id: "1_1"
-        data: ["Stranded Graveyard", "Cave", "Soldier of Godrick", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [3766, 7373]
-      - id: "1_5"
-        data: ["Groveside Cave", "Cave", "Beastman of Farum Azula", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [3664, 7065]
-      - id: "1_3"
-        data: ["Coastal Cave", "Cave", "Demi-Human Chief (x2)", "Related to Boc's questline."]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [3497, 7347]
-      - id: "1_9"
-        data: ["Murkwater Cave", "Cave", "Patches", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [4060, 6975]
-      - id: "1_6"
-        data: ["Highroad Cave", "Cave", "Guardian Golem", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [4048, 6437]
-        #CATACOMBS '/map/icons/edited/MENU_MAP_04.png'
-      - id: "1_4"
-        data: ["Deathtouched Catacombs", "Catacomb", "Black Knife Assassin", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [3897, 6502]
-      - id: "1_10"
-        data: ["Stormfoot Catacombs", "Catacomb", "Erdtree Burial Watchdog", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [3509, 7060]
-      - id: "1_8"
-        data: ["Murkwater Catacombs", "Catacomb", "Grave Warden Duelist", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [4067, 6704]
-        #TUNNELS '/map/icons/MENU_MAP_14.png'
-      - id: "1_7"
-        data: ["Limgrave Tunnels", "Tunnel", "Stonedigger Troll", ""]
-        icon: '/map/icons/MENU_MAP_14.png'
-        cords: [3839, 7051]
-        #HERO'S GRAVES '/map/icons/edited/MENU_MAP_16.png'
-      - id: "1_2"
-        data: ["Fringefolk Hero's Grave", "Hero's grave", "Ulcerated Tree Sprit<br>Grafted Scion (x2)", "Requires 2 Stonesword Keys."]
-        icon: '/map/icons/MENU_MAP_16.png'
-        map_icon: '/map/icons/edited/MENU_MAP_16.png'
-        cords: [3755, 7319]
-        #EVERGAOLS '/map/icons/edited/MENU_MAP_09.png'
-      - id: "e1"
-        data: ["Forlorn Hound Evergaol", "Evergaol", "Bloodhound Knight Darriwil", "Bloodhound's Fang (Armament)"]
-        cords: [4207, 7666]
-        icon: '/map/icons/edited/MENU_MAP_09.png'
-      - id: "e2"
-        data: ["Stormhill Evergaol", "Evergaol", "Crucible Knight", "Aspects of the Crucible: Tail (Incantation)"]
-        cords: [3646, 6998]
-        icon: '/map/icons/edited/MENU_MAP_09.png'
-        #MINOR ERDTREES '/map/icons/MENU_MAP_30.png'
-      - id: "l1"
-        data: ["Minor Erdtree", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_30.png'
-        cords: [4561, 7088]
-        map_icon_size: 45
-        #DIVINE TOWERS '/map/icons/MENU_MAP_23.png'
-      - id: "l2"
-        data: ["Divine Tower of Limgrave", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_23.png'
-        cords: [4239, 6218]
-        map_icon_size: 45
-        #TOWERS '/map/icons/MENU_MAP_08.png'
-        #RUINS '/map/icons/MENU_MAP_05.png'
-      - id: "l3"
-        data: ["Dragon-Burnt Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [3965, 7373]
-      - id: "l4"
-        data: ["Gatefront Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [3785, 6961]
-      - id: "l5"
-        data: ["Mistwood Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [4419, 7152]
-      - id: "l6"
-        data: ["Waypoint Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [4234, 7222]
-      - id: "l7"
-        data: ["Summonwater Village", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [4462, 6491]
-        #SHACKS '/map/icons/MENU_MAP_06.png'
-      - id: "l8"
-        data: ["Stormhill Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [3491, 6775]
-      - id: "l9"
-        data: ["Warmaster's Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [3720, 6696]
-      - id: "l10"
-        data: ["Artist's Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [4214, 6789]
-        #CHURCHES '/map/icons/MENU_MAP_Church.png'
-      - id: "l11"
-        data: ["Church of Elleh", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [3659, 7225]
-        map_icon_size: 40
-      - id: "l12"
-        data: ["Church of Dragon Communion", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [3382, 7601]
-        map_icon_size: 40
-      - id: "l13"
-        data: ["Third Church of Marika", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [4624, 6710]
-        map_icon_size: 40
-        #UNIQUE
-      - id: "l14"
-        data: ["Stormgate", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_10.png'
-        cords: [3677, 6915]
-      - id: "l15"
-        data: ["Siofra River Well", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Ungro.png'
-        cords: [4581, 7032]
-      - id: "l16"
-        data: ["Fort Haight", "Landmark", "", "Related to Kenneth Haight's questline."]
-        icon: '/map/icons/MENU_MAP_18.png'
-        cords: [4707, 7314]
-        map_icon_size: 40
-        #LEGACY
-      - id: "ld1"
-        data: ["Stormveil Castle", "Legacy dungeon (major)", "Margit, the Fell Omen<br>Godrick the Grafted", "Semi-required for progression."]
-        icon: '/map/icons/MENU_MAP_50.png'
-        cords: [3216, 6775]
-        map_icon_size: 45
-  -
-    title: "Weeping Peninsula"
-    table: ["Name", "Type", "Bosses", "Notes"]
-    items:
-        #CAVES '/map/icons/edited/MENU_MAP_13.png'
-      - id: "0_1"
-        data: ["Earthbore Cave", "Cave", "Runebear", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [4136, 7836]
-      - id: "0_5"
-        data: ["Tombsward Cave", "Cave", "Miranda, the Blighted Bloom", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [3616, 8023]
-        #CATACOMBS '/map/icons/edited/MENU_MAP_04.png'
-      - id: "0_2"
-        data: ["Impaler's Catacombs", "Catacomb", "Erdtree Burial Watchdog", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [4472, 7848]
-      - id: "0_4"
-        data: ["Tombsward Catacombs", "Catacomb", "Cemetary Shade", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [3851, 7951]
-        #TUNNELS '/map/icons/MENU_MAP_14.png'
-      - id: "0_3"
-        data: ["Morne Tunnel", "Tunnel", "Scaly Misbegotten", ""]
-        icon: '/map/icons/MENU_MAP_14.png'
-        cords: [4005, 8113]
-        #HERO'S GRAVES '/map/icons/edited/MENU_MAP_16.png'
-        #EVERGAOLS '/map/icons/edited/MENU_MAP_09.png'
-      - id: "e3"
-        data: ["Weeping Evergaol", "Evergaol", "Ancient Hero of Zamor", "Radgon's Scarseal (Talisman)"]
-        cords: [3599, 7958]
-        icon: '/map/icons/edited/MENU_MAP_09.png'
-        #MINOR ERDTREES '/map/icons/MENU_MAP_30.png'
-      - id: "l17"
-        data: ["Minor Erdtree", "Landmark", "Erdtree Avatar", ""]
-        icon: '/map/icons/MENU_MAP_30.png'
-        cords: [3912, 8109]
-        map_icon_size: 45
-        #DIVINE TOWERS '/map/icons/MENU_MAP_23.png'
-        #TOWERS '/map/icons/MENU_MAP_08.png'
-      - id: "l18"
-        data: ["Oridys's Rise", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_17.png'
-        cords: [4415, 8121]
-        map_icon_size: 45
-        #RUINS '/map/icons/MENU_MAP_05.png'
-      - id: "l19"
-        data: ["Demi-Human Forest Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [3994, 7867]
-      - id: "l20"
-        data: ["Tombsward Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [3704, 7918]
-      - id: "l21"
-        data: ["Witchbane Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [3510, 8063]
-        #SHACKS '/map/icons/MENU_MAP_06.png'
-      - id: "l22"
-        data: ["Isolated Merchant's Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [3468, 8225]
-        #CHURCHES '/map/icons/MENU_MAP_Church.png'
-      - id: "l23"
-        data: ["Church of Pilgrimage", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [3858, 7679]
-        map_icon_size: 40
-      - id: "l24"
-        data: ["Callu Baptismal Church", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [4137, 8122]
-        map_icon_size: 40
-      - id: "l25"
-        data: ["Fourth Church of Marika", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [3538, 7993]
-        map_icon_size: 40
-        #UNIQUE
-      - id: "l26"
-        data: ["Bridge of Sacrifice", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_11.png'
-        cords: [4350, 7771]
-      - id: "l27"
-        data: ["Ailing Village", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_37.png'
-        cords: [4119, 8090]
-      - id: "l28"
-        data: ["Forest Lookout Tower", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_08.png'
-        cords: [4227, 7868]
-      - id: "l29"
-        data: ["Tower of Return", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_08.png'
-        cords: [3659, 8364]
-        #LEGACY
-      - id: "ld2"
-        data: ["Castle Morne", "Legacy dungeon (minor)", "Leonine Misbegotten", "Related to Irina's questline."]
-        icon: '/map/icons/MENU_MAP_25.png'
-        cords: [4097, 8554]
-        map_icon_size: 45
-  -
-    title: "Liurnia of the Lakes"
-    table: ["Name", "Type", "Bosses", "Notes"]
-    items:
-        #CAVES '/map/icons/edited/MENU_MAP_13.png'
-      - id: "2_1"
-        data: ["Academy Crystal Cave", "Cave", "Crystalian (x2)", "Requires 2 Stonesword Keys."]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [1724, 4870]
-      - id: "2_4"
-        data: ["Lakeside Crystal Cave", "Cave", "Bloodhound Knight", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [2335, 5968]
-      - id: "2_8"
-        data: ["Stillwater Cave", "Cave", "Cleanrot Knight", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [2940, 6303]
-        #CATACOMBS '/map/icons/edited/MENU_MAP_04.png'
-      - id: "2_2"
-        data: ["Black Knife Catacombs", "Catacomb", "Black Knife Assassin<br>Cemetery Shade", "Has 1 Imp Statue inside."]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [2870, 4122]
-      - id: "2_3"
-        data: ["Cliffbottom Catacombs", "Catacomb", "Erdtree Burial Watchdog", "Has 1 Imp Statue inside."]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [3037, 5944]
-      - id: "2_6"
-        data: ["Road's End Catacombs", "Catacomb", "Spirit-Caller Snail", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [1381, 5526]
-        #TUNNELS '/map/icons/MENU_MAP_14.png'
-      - id: "2_5"
-        data: ["Raya Lucaria Crystal Tunnel", "Tunnel", "Crystalian (Ringblade)", ""]
-        icon: '/map/icons/MENU_MAP_14.png'
-        cords: [2304, 4457]
-        #HERO'S GRAVES '/map/icons/edited/MENU_MAP_16.png'
-        #EVERGAOLS '/map/icons/edited/MENU_MAP_09.png'
-      - id: "e4"
-        data: ["Malefactor's Evergaol", "Evergaol", "Adan, Thief of Fire", "Flame of the Fell God (Incantation)"]
-        cords: [2684, 6120]
-        icon: '/map/icons/edited/MENU_MAP_09.png'
-      - id: "e5"
-        data: ["Cuckoo's Evergaol", "Evergaol", "Bols, Carian Knight", "Greatblade Phalanx (Sorcery)"]
-        cords: [1377, 5030]
-        icon: '/map/icons/edited/MENU_MAP_09.png'
-      - id: "e6"
-        data: ["Royal Grave Evergaol", "Evergaol", "Alabaster Lord", "Meteorite (Sorcery)"]
-        cords: [2276, 3697]
-        icon: '/map/icons/edited/MENU_MAP_09.png'
-      - id: "e7"
-        data: ["Ringleader's Evergaol", "Evergaol", "Alecto, Black Knife Ringleader", "Black Knife Tiche (Ashen Remains)"]
-        cords: [1377, 5693]
-        icon: '/map/icons/edited/MENU_MAP_09.png'
-        #MINOR ERDTREES '/map/icons/MENU_MAP_30.png'
-      - id: "l30"
-        data: ["Minor Erdtree (southwest)", "Landmark", "Erdtree Avatar", ""]
-        icon: '/map/icons/MENU_MAP_30.png'
-        cords: [1440, 5437]
-        map_icon_size: 45
-      - id: "l31"
-        data: ["Minor Erdtree (northeast)", "Landmark", "Erdtree Avatar", ""]
-        icon: '/map/icons/MENU_MAP_30.png'
-        cords: [2673, 4345]
-        map_icon_size: 45
-        #DIVINE TOWERS '/map/icons/MENU_MAP_23.png'
-      - id: "l32"
-        data: ["Divine Tower of Liurnia", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_23.png'
-        cords: [3345, 5135]
-        map_icon_size: 45
-        #TOWERS '/map/icons/MENU_MAP_08.png'
-      - id: "l33"
-        data: ["Converted Tower", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_17.png'
-        cords: [1577, 5578]
-        map_icon_size: 45
-      - id: "l34"
-        data: ["Testu's Rise", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_17.png'
-        cords: [1833, 4405]
-        map_icon_size: 45
-      - id: "l35"
-        data: ["Converted Fringe Tower", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_17.png'
-        cords: [2919, 4172]
-        map_icon_size: 45
-      - id: "l36"
-        data: ["Ranni's Rise", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_17.png'
-        cords: [1596, 3690]
-        map_icon_size: 45
-      - id: "l38"
-        data: ["Seluvis's Rise", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_17.png'
-        cords: [1732, 3803]
-        map_icon_size: 45
-      - id: "l39"
-        data: ["Renna's Rise", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_17.png'
-        cords: [1755, 3517]
-        map_icon_size: 45
-      - id: "l50"
-        data: ["Chelona's Rise", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_17.png'
-        cords: [1406, 6245]
-        map_icon_size: 45
-        #RUINS '/map/icons/MENU_MAP_05.png'
-      - id: "l40"
-        data: ["Laskyar Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [2543, 5875]
-      - id: "l41"
-        data: ["Purified Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [2861, 5927]
-      - id: "l42"
-        data: ["Kingsrealm Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [1722, 4123]
-      - id: "l43"
-        data: ["Lunar Estate Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [1950, 5937]
-      - id: "l44"
-        data: ["Moonfolk Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [1675, 5781]
-        #SHACKS '/map/icons/MENU_MAP_06.png'
-      - id: "l45"
-        data: ["Slumbering Wolf's Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [2302, 6064]
-      - id: "l46"
-        data: ["Boilprawn Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [2277, 5562]
-      - id: "l47"
-        data: ["Artist's Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [2768, 5102]
-      - id: "l48"
-        data: ["Revenger's Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [1430, 5208]
-        #CHURCHES '/map/icons/MENU_MAP_Church.png'
-      - id: "l131"
-        data: ["Church of Irith", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [2911, 6414]
-        map_icon_size: 40
-      - id: "l51"
-        data: ["Rose Church", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [1829, 5363]
-        map_icon_size: 40
-      - id: "l52"
-        data: ["Church of Vows", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [2405, 4720]
-        map_icon_size: 40
-      - id: "l53"
-        data: ["Bellum Church", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [2180, 4048]
-        map_icon_size: 40
-      - id: "l54"
-        data: ["Church of Inhibition", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [2499, 4013]
-        map_icon_size: 40
-      - id: "l55"
-        data: ["Cathedral of Manus Celes", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_20.png'
-        cords: [1883, 5784]
-        map_icon_size: 40
-        #UNIQUE
-      - id: "l56"
-        data: ["Highway Lookout Tower", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_08.png'
-        cords: [2793, 5638]
-      - id: "l57"
-        data: ["Carian Study Hall", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_66.png'
-        cords: [2917, 5209]
-        map_icon_size: 45
-      - id: "l58"
-        data: ["Jarburg", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_38.png'
-        cords: [2993, 5259]
-      - id: "l59"
-        data: ["Academy Gate Town", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_32.png'
-        cords: [2345, 5207]
-      - id: "l60"
-        data: ["Temple Quarter", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_32.png'
-        cords: [1714, 5178]
-      - id: "l61"
-        data: ["Village of the Albinaurics", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_39.png'
-        cords: [1727, 5852]
-      - id: "l62"
-        data: ["The Four Belfries", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_52.png'
-        cords: [1475, 4565]
-        map_icon_size: 40
-      - id: "l63"
-        data: ["Frenzied Flame Village", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_35.png'
-        cords: [2650, 4245]
-      - id: "l64"
-        data: ["Frenzy-Flaming Tower", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_08.png'
-        cords: [2679, 4054]
-      - id: "l65"
-        data: ["Ainsel River Well", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Ungro.png'
-        cords: [2777, 4661]
-      - id: "l66"
-        data: ["Deep Ainsel Well", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Ungro.png'
-        cords: [1643, 5990]
-        #LEGACY
-      - id: "ld3"
-        data: ["Academy of Raya Lucaria", "Legacy dungeon (major)", "Red Wolf of Radagon<br>Rennala, Queen of the Full Moon", "Semi-required for progression, needs Academy Key to enter."]
-        icon: '/map/icons/MENU_MAP_51.png'
-        cords: [1800, 4807]
-        map_icon_size: 45
-      - id: "ld4"
-        data: ["Caria Manor", "Legacy dungeon (minor)", "Royal Knight Loretta", "Related to Ranni's questline."]
-        icon: '/map/icons/MENU_MAP_26.png'
-        cords: [1927, 3730]
-        map_icon_size: 45
-      - id: "2_7" #This legacy dungeon has a Cave-style ID instead of a Legacy Dungeon-style ID because it was listed on both original pages, and keeping the ID it had on the Caves page means it preserves its progress.
-        data: ["Ruin-Strewn Precipice", "Legacy dungeon (minor)", "Magma Wyrm Makar", "Not required, unless you want alternate entry to Altus Plateau."]
-        icon: '/map/icons/MENU_MAP_53.png'
-        cords: [2580, 3625]
-        map_icon_size: 45
-  -
-    title: "Caelid"
-    table: ["Name", "Type", "Bosses", "Notes"]
-    items:
-        #CAVES '/map/icons/edited/MENU_MAP_13.png'
-      - id: "3_1"
-        data: ["Abandoned Cave", "Cave", "Cleanrot Knight (x2)", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [5363, 6479]
-      - id: "3_4"
-        data: ["Gaol Cave", "Cave", "Frenzied Duelist", "Requires 2 Stonesword Keys."]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [4936, 6771]
-      - id: "3_7"
-        data: ["Dragonbarrow Cave", "Cave", "Beastman of Farum Azula (x2)", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [6011, 6173]
-      - id: "3_9"
-        data: ["Sellia Hideaway", "Cave", "Crystalian (x3)", "Part of Sellen's questline. Located behind an illusory cliffside."]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [5873, 6481]
-        #CATACOMBS '/map/icons/edited/MENU_MAP_04.png'
-      - id: "3_2"
-        data: ["Caelid Catacombs", "Catacomb", "Cemetery Shade", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [5362, 7238]
-      - id: "3_5"
-        data: ["Minor Erdtree Catacombs", "Catacomb", "Erdtree Burial Watchdog (x2)", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [4930, 6172]
-      - id: "3_8"
-        data: ["War-Dead Catacombs", "Catacomb", "Putrid Tree Spirit", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [6310, 6173]
-        #TUNNELS '/map/icons/MENU_MAP_14.png'
-      - id: "3_3"
-        data: ["Gael Tunnel", "Tunnel", "Magma Wyrm", ""]
-        icon: '/map/icons/MENU_MAP_14.png'
-        cords: [4796, 6512]
-      - id: "3_6"
-        data: ["Sellia Crystal Tunnel", "Tunnel", "Fallingstar Beast", ""]
-        icon: '/map/icons/MENU_MAP_14.png'
-        cords: [5520, 6433]
-        #HERO'S GRAVES '/map/icons/edited/MENU_MAP_16.png'
-        #EVERGAOLS '/map/icons/edited/MENU_MAP_09.png'
-      - id: "e8"
-        data: ["Sellia Evergaol", "Evergaol", "Battlemage Hugues", "Battlemage Hugues (Ashen Remains)"]
-        cords: [5413, 6515]
-        icon: '/map/icons/edited/MENU_MAP_09.png'
-        #MINOR ERDTREES '/map/icons/MENU_MAP_30.png'
-      - id: "l67"
-        data: ["Minor Erdtree (west)", "Landmark", "Erdtree Avatar", ""]
-        icon: '/map/icons/MENU_MAP_30.png'
-        cords: [4911, 6164]
-        map_icon_size: 45
-      - id: "l68"
-        data: ["Minor Erdtree (east)", "Landmark", "Putrid Avatar", ""]
-        icon: '/map/icons/MENU_MAP_30.png'
-        cords: [6037, 6244]
-        map_icon_size: 45
-        #DIVINE TOWERS '/map/icons/MENU_MAP_23.png'
-      - id: "l69"
-        data: ["Divine Tower of Caelid", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_23.png'
-        cords: [5581, 6055]
-        map_icon_size: 45
-      - id: "l70"
-        data: ["Isolated Divine Tower", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_23.png'
-        cords: [5990, 4819]
-        map_icon_size: 45
-        #TOWERS '/map/icons/MENU_MAP_08.png'
-      - id: "l71"
-        data: ["Lenne's Rise", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_17.png'
-        cords: [6338, 6042]
-        map_icon_size: 45
-        #RUINS '/map/icons/MENU_MAP_05.png'
-      - id: "l72"
-        data: ["Forsaken Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [4894, 6375]
-      - id: "l73"
-        data: ["Caelem Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [5114, 6372]
-      - id: "l74"
-        data: ["Caelid Waypoint Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [5043, 6879]
-      - id: "l75"
-        data: ["Street of Sages Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [5286, 6664]
-        #SHACKS '/map/icons/MENU_MAP_06.png'
-      - id: "l76"
-        data: ["Shack of the Rotting", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [4819, 6362]
-      - id: "l77"
-        data: ["Isolated Merchant's Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [5171, 6098]
-      - id: "l78"
-        data: ["Gowry's Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [5672, 6738]
-        #CHURCHES '/map/icons/MENU_MAP_Church.png'
-      - id: "l79"
-        data: ["Smouldering Church", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [4668, 6258]
-        map_icon_size: 40
-      - id: "l80"
-        data: ["Cathedral of Dragon Communion", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [5267, 7189]
-        map_icon_size: 40
-      - id: "l81"
-        data: ["Church of the Plague", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [5773, 6662]
-        map_icon_size: 40
-        #UNIQUE
-      - id: "l82"
-        data: ["Sellia, Town of Sorcery", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_33.png'
-        cords: [5638, 6579]
-        map_icon_size: 40
-      - id: "l83"
-        data: ["Sellia Gateway", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_10.png'
-        cords: [5629, 6836]
-      - id: "l84"
-        data: ["Bestial Sanctum", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_54.png'
-        cords: [5983, 5504]
-        map_icon_size: 40
-      - id: "l85"
-        data: ["Deep Siofra Well", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Ungro.png'
-        cords: [5390, 6283]
-      - id: "l86"
-        data: ["Fort Gael", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_18.png'
-        cords: [4885, 6793]
-        map_icon_size: 40
-      - id: "l87"
-        data: ["Fort Faroth", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_18.png'
-        cords: [5957, 6429]
-        map_icon_size: 40
-      - id: "l88"
-        data: ["Swamp Lookout Tower", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_08.png'
-        cords: [5558, 6732]
-        #LEGACY
-      - id: "ld5"
-        data: ["Redmane Castle", "Legacy dungeon (minor)", "Misbegotten Warrior & Crucible Knight<br>Starscourge Radahn", "Semi-required for progression."]
-        icon: '/map/icons/MENU_MAP_28.png'
-        cords: [6060, 7357]
-        map_icon_size: 45
-  -
-    title: "Altus Plateau"
-    table: ["Name", "Type", "Bosses", "Notes"]
-    items:
-        #CAVES '/map/icons/edited/MENU_MAP_13.png'
-      - id: "4_3"
-        data: ["Perfumer's Grotto", "Cave", "Omenkiller & Miranda, the Blighted Bloom", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [3506, 3448]
-      - id: "5_2"
-        data: ["Sage's Cave", "Cave", "Necromancer Garris<br>Black Knife Assassin", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [2511, 3264]
-        #CATACOMBS '/map/icons/edited/MENU_MAP_04.png'
-      - id: "5_4"
-        data: ["Unsightly Catacombs", "Catacomb", "Perfumer Tricia & Misbegotten Warrior", "Requires 2 Stonesword Keys."]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [2126, 3369]
-        #TUNNELS '/map/icons/MENU_MAP_14.png'
-      - id: "4_1"
-        data: ["Old Altus Tunnel", "Tunnel", "Stonedigger Troll", ""]
-        icon: '/map/icons/MENU_MAP_14.png'
-        cords: [2794, 3058]
-      - id: "4_2"
-        data: ["Altus Tunnel", "Tunnel", "Crystalian (x2)", ""]
-        icon: '/map/icons/MENU_MAP_14.png'
-        cords: [3408, 3137]
-        #HERO'S GRAVES '/map/icons/edited/MENU_MAP_16.png'
-      - id: "4_4"
-        data: ["Sainted Hero's Grave", "Hero's grave", "Ancient Hero of Zamor<br>Black Knife Assassin", "Requires 2 Stonesword Keys."]
-        icon: '/map/icons/MENU_MAP_16.png'
-        map_icon: '/map/icons/edited/MENU_MAP_16.png'
-        cords: [3225, 3190]
-        #EVERGAOLS '/map/icons/edited/MENU_MAP_09.png'
-      - id: "e9"
-        data: ["Golden Lineage Evergaol", "Evergaol", "Godefroy the Grafted", "Godfrey Icon (Talisman)"]
-        cords: [2880, 3791]
-        icon: '/map/icons/edited/MENU_MAP_09.png'
-        #MINOR ERDTREES '/map/icons/MENU_MAP_30.png'
-      - id: "l89"
-        data: ["Minor Erdtree", "Landmark", "Wormface", ""]
-        icon: '/map/icons/MENU_MAP_30.png'
-        cords: [3384, 2925]
-        map_icon_size: 45
-        #DIVINE TOWERS '/map/icons/MENU_MAP_23.png'
-        #TOWERS '/map/icons/MENU_MAP_08.png'
-      - id: "l90"
-        data: ["Mirage Rise", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_17.png'
-        cords: [3035, 3019]
-        map_icon_size: 45
-        #RUINS '/map/icons/MENU_MAP_05.png'
-      - id: "l91"
-        data: ["Perfumer's Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [2165, 3317]
-      - id: "l92"
-        data: ["Lux Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [2663, 3448]
-      - id: "l93"
-        data: ["Wyndham Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [2637, 3187]
-      - id: "l94"
-        data: ["Writheblood Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [3140, 2866]
-      - id: "l95"
-        data: ["Woodfolk Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [3481, 2918]
-        #SHACKS '/map/icons/MENU_MAP_06.png'
-        #CHURCHES '/map/icons/MENU_MAP_Church.png'
-      - id: "l96"
-        data: ["Stormcaller Church", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [3227, 3351]
-        map_icon_size: 40
-      - id: "l97"
-        data: ["Second Church of Marika", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [2989, 3151]
-        map_icon_size: 40
-        #UNIQUE
-      - id: "l98"
-        data: ["Grand Lift of Dectus", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_21.png'
-        cords: [2745, 3733]
-        map_icon_size: 50
-      - id: "l99"
-        data: ["West Windmill Pasture", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_19.png'
-        cords: [3126, 2512]
-      - id: "l100"
-        data: ["East Windmill Pasture", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_19.png'
-        cords: [3348, 2391]
-      - id: "l101"
-        data: ["Village Windmill Pasture", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_19.png'
-        cords: [3504, 2528]
-      - id: "l102"
-        data: ["Dominula, Windmill Village", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_36.png'
-        cords: [3633, 2586]
-        map_icon_size: 40
-      - id: "l103"
-        data: ["Highway Lookout Tower", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_08.png'
-        cords: [3739, 2723]
-        #LEGACY
-      - id: "ld6"
-        data: ["The Shaded Castle", "Legacy dungeon (minor)", "Elemer of the Briar", "Related to Millicent's questline."]
-        icon: '/map/icons/MENU_MAP_27.png'
-        cords: [2921, 2682]
-        map_icon_size: 45
-  -
-    title: "Mt. Gelmir"
-    table: ["Name", "Type", "Bosses", "Notes"]
-    items:
-        #CAVES '/map/icons/edited/MENU_MAP_13.png'
-      - id: "5_3"
-        data: ["Seethewater Cave", "Cave", "Kindred of Rot", "Requires 2 Stonesword Keys."]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [2433, 2813]
-      - id: "5_5"
-        data: ["Volcano Cave", "Cave", "Demi-Human Queen Margot", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [2378, 2485]
-        #CATACOMBS '/map/icons/edited/MENU_MAP_04.png'
-      - id: "5_6"
-        data: ["Wyndham Catacombs", "Catacomb", "Erdtree Burial Watchdog", "Has 1 Imp Statue inside."]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [2560, 3090]
-        #TUNNELS '/map/icons/MENU_MAP_14.png'
-        #HERO'S GRAVES '/map/icons/edited/MENU_MAP_16.png'
-      - id: "5_1"
-        data: ["Gelmir Hero's Grave", "Hero's grave", "Red Wolf of the Champion", ""]
-        icon: '/map/icons/MENU_MAP_16.png'
-        map_icon: '/map/icons/edited/MENU_MAP_16.png'
-        cords: [2521, 2928]
-        #EVERGAOLS '/map/icons/edited/MENU_MAP_09.png'
-        #MINOR ERDTREES '/map/icons/MENU_MAP_30.png'
-      - id: "l104"
-        data: ["Minor Erdtree", "Landmark", "Ulcerated Tree Spirit", ""]
-        icon: '/map/icons/MENU_MAP_30.png'
-        cords: [2427, 2772]
-        map_icon_size: 45
-        #DIVINE TOWERS '/map/icons/MENU_MAP_23.png'
-        #TOWERS '/map/icons/MENU_MAP_08.png'
-        #RUINS '/map/icons/MENU_MAP_05.png'
-        #SHACKS '/map/icons/MENU_MAP_06.png'
-      - id: "l105"
-        data: ["Corpse-Stench Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [2587, 2688]
-      - id: "l106"
-        data: ["Craftsman's Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [2265, 3214]
-      - id: "l107"
-        data: ["Hermit's Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [2057, 3173]
-        #CHURCHES '/map/icons/MENU_MAP_Church.png'
-        #UNIQUE
-      - id: "l108"
-        data: ["Hermit Village", "Landmark", "Erdtree Avatar", ""]
-        icon: '/map/icons/MENU_MAP_40.png'
-        cords: [2435, 3108]
-      - id: "l109"
-        data: ["Fort Laiedd", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_18.png'
-        cords: [1908, 2820]
-        map_icon_size: 40
-        #LEGACY
-      - id: "ld7"
-        data: ["Volcano Manor", "Legacy dungeon (major)", "God-Devouring Serpent / Rykard, Lord of Blasphemy", "Semi-required for progression."]
-        icon: '/map/icons/MENU_MAP_58.png'
-        cords: [2190, 2837]
-        map_icon_size: 45
-  -
-    title: "Leyndell, Royal Capital"
-    table: ["Name", "Type", "Bosses", "Notes"]
-    items:
-        #CAVES '/map/icons/edited/MENU_MAP_13.png'
-        #CATACOMBS '/map/icons/edited/MENU_MAP_04.png'
-      - id: "6_4"
-        data: ["Auriza Side Tomb", "Catacomb", "Grave Warden Duelist", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [4591, 3186]
-      - id: "6_3"
-        data: ["Leyndell Catacombs", "Catacomb", "Esgar, Priest of Blood", "Doesn't have a map icon in-game for some reason!"]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [4381, 3571]
-        #TUNNELS '/map/icons/MENU_MAP_14.png'
-      - id: "6_1"
-        data: ["Sealed Tunnel", "Tunnel", "Onyx Lord", ""]
-        icon: '/map/icons/MENU_MAP_14.png'
-        cords: [3909, 3653]
-        #HERO'S GRAVES '/map/icons/edited/MENU_MAP_16.png'
-      - id: "6_2"
-        data: ["Auriza Hero's Grave", "Hero's grave", "Crucible Knight & Crucible Knight Ordovis", "Requires 1 Stonesword Key."]
-        icon: '/map/icons/MENU_MAP_16.png'
-        map_icon: '/map/icons/edited/MENU_MAP_16.png'
-        cords: [4542, 3302]
-        #EVERGAOLS '/map/icons/edited/MENU_MAP_09.png'
-        #MINOR ERDTREES '/map/icons/MENU_MAP_30.png'
-      - id: "l110"
-        data: ["Minor Erdtree", "Landmark", "Erdtree Avatar", ""]
-        icon: '/map/icons/MENU_MAP_30.png'
-        cords: [4286, 2869]
-        map_icon_size: 45
-        #DIVINE TOWERS '/map/icons/MENU_MAP_23.png'
-      - id: "l111"
-        data: ["Divine Tower of West Altus", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_23.png'
-        cords: [3919, 4009]
-        map_icon_size: 45
-        #TOWERS '/map/icons/MENU_MAP_08.png'
-        #RUINS '/map/icons/MENU_MAP_05.png'
-        #SHACKS '/map/icons/MENU_MAP_06.png'
-      - id: "l112"
-        data: ["Hermit Merchant's Shack", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [3946, 2944]
-        #CHURCHES '/map/icons/MENU_MAP_Church.png'
-      - id: "l113"
-        data: ["Minor Erdtree Church", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [3849, 3752]
-        map_icon_size: 40
-        #UNIQUE
-        #LEGACY
-      - id: "ld8"
-        data: ["Leyndell, Royal Capital", "Legacy dungeon (major)", "Morgott, the Omen King<br>Godfrey, First Elden Lord (Golden Shade)", "Required."]
-        icon: '/map/icons/MENU_MAP_60.png'
-        cords: [4271, 3531]
-        map_icon_size: 45
-      - id: "ld9"
-        data: ["Subterranean Shunning-Grounds", "Legacy dungeon (minor)", "Mohg, the Omen", "Related to the Dung Eater's questline."]
-        icon: '/map/icons/MENU_MAP_61.png'
-        cords: [4338, 3513]
-  -
-    title: "Mountaintops of the Giants"
-    table: ["Name", "Type", "Bosses", "Notes"]
-    items:
-        #CAVES '/map/icons/edited/MENU_MAP_13.png'
-      - id: "7_3"
-        data: ["Spiritcaller Cave", "Cave", "Spirit-Caller Snail", "Requires 2 Stonesword Keys."]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [6494, 2050]
-        #CATACOMBS '/map/icons/edited/MENU_MAP_04.png'
-      - id: "7_2"
-        data: ["Giants' Mountaintop Catacombs", "Catacomb", "Ulcerated Tree Sprit", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [5786, 2808]
-        #TUNNELS '/map/icons/MENU_MAP_14.png'
-        #HERO'S GRAVES '/map/icons/edited/MENU_MAP_16.png'
-      - id: "7_1"
-        data: ["Giant-Conquering Hero's Grave", "Hero's grave", "Ancient Hero of Zamor", ""]
-        icon: '/map/icons/MENU_MAP_16.png'
-        map_icon: '/map/icons/edited/MENU_MAP_16.png'
-        cords: [5686, 2823]
-        #EVERGAOLS '/map/icons/edited/MENU_MAP_09.png'
-      - id: "e10"
-        data: ["Lord Contender's Evergaol", "Evergaol", "Roundtable Knight Vyke", "Fingerprint Set (Armor) & Vyke's Dragonbolt (Incantation)"]
-        cords: [6478, 2280]
-        icon: '/map/icons/edited/MENU_MAP_09.png'
-        #MINOR ERDTREES '/map/icons/MENU_MAP_30.png'
-      - id: "l114"
-        data: ["Minor Erdtree", "Landmark", "Erdtree Avatar (x2)", ""]
-        icon: '/map/icons/MENU_MAP_30.png'
-        cords: [6229, 2108]
-        map_icon_size: 45
-        #DIVINE TOWERS '/map/icons/MENU_MAP_23.png'
-      - id: "l115"
-        data: ["Divine Tower of East Altus", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_23.png'
-        cords: [5144, 3854]
-        map_icon_size: 45
-        #TOWERS '/map/icons/MENU_MAP_08.png'
-      - id: "l116"
-        data: ["Heretical Rise", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_17.png'
-        cords: [6382, 1985]
-        map_icon_size: 45
-        #RUINS '/map/icons/MENU_MAP_05.png'
-      - id: "l117"
-        data: ["Zamor Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [5605, 3005]
-      - id: "l118"
-        data: ["Stargazer's Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [5967, 2141]
-        #SHACKS '/map/icons/MENU_MAP_06.png'
-      - id: "l119"
-        data: ["Shack of the Lofty", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_06.png'
-        cords: [5796, 2094]
-        #CHURCHES '/map/icons/MENU_MAP_Church.png'
-      - id: "l120"
-        data: ["First Church of Marika", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [6754, 2338]
-        map_icon_size: 40
-      - id: "l121"
-        data: ["Church of Repose", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [5981, 2999]
-        map_icon_size: 40
-        #UNIQUE
-      - id: "l122"
-        data: ["Grand Lift of Rold", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_21.png'
-        cords: [5483, 2972]
-        map_icon_size: 50
-      - id: "l123"
-        data: ["Guardians' Garrison", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_18.png'
-        cords: [6220, 2352]
-        map_icon_size: 40
-      #l124 was Flame Peak (not a landmark)
-      - id: "l125"
-        data: ["Forge of the Giants", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_57.png'
-        cords: [6700, 2983]
-        map_icon_size: 45
-        #LEGACY
-      - id: "ld10"
-        data: ["Castle Sol", "Legacy dungeon (minor)", "Commander Niall", "Related to Latenna's questline."]
-        icon: '/map/icons/MENU_MAP_29.png'
-        cords: [6030, 1849]
-        map_icon_size: 45
-  -
-    title: "Consecrated Snowfield"
-    table: ["Name", "Type", "Bosses", "Notes"]
-    items:
-        #CAVES '/map/icons/edited/MENU_MAP_13.png'
-      - id: "8_4"
-        data: ["Cave of the Forlorn", "Cave", "Misbegotten Crusader", ""]
-        icon: '/map/icons/edited/MENU_MAP_13.png'
-        cords: [5692, 2146]
-        #CATACOMBS '/map/icons/edited/MENU_MAP_04.png'
-      - id: "8_2"
-        data: ["Hidden Path to the Haligtree", "Catacomb", "Stray Mimic Tear", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [5427, 2869]
-      - id: "8_1"
-        data: ["Consecrated Snowfield Catacombs", "Catacomb", "Putrid Grave Warden Duelist", ""]
-        icon: '/map/icons/edited/MENU_MAP_04.png'
-        cords: [5666, 2509]
-        #TUNNELS '/map/icons/MENU_MAP_14.png'
-      - id: "8_3"
-        data: ["Yelough Anix Tunnel", "Tunnel", "Astel, Stars of Darkness", ""]
-        icon: '/map/icons/MENU_MAP_14.png'
-        cords: [5044, 2512]
-        #HERO'S GRAVES '/map/icons/edited/MENU_MAP_16.png'
-        #EVERGAOLS '/map/icons/edited/MENU_MAP_09.png'
-        #MINOR ERDTREES '/map/icons/MENU_MAP_30.png'
-      - id: "l126"
-        data: ["Minor Erdtree", "Landmark", "Putrid Avatar", ""]
-        icon: '/map/icons/MENU_MAP_30.png'
-        cords: [5633, 2054]
-        map_icon_size: 45
-        #DIVINE TOWERS '/map/icons/MENU_MAP_23.png'
-        #TOWERS '/map/icons/MENU_MAP_08.png'
-      - id: "l127"
-        data: ["Albinauric Rise", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_17.png'
-        cords: [5648, 2262]
-        map_icon_size: 45
-        #RUINS '/map/icons/MENU_MAP_05.png'
-      - id: "l128"
-        data: ["Yelough Anix Ruins", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_05.png'
-        cords: [5061, 2411]
-        #SHACKS '/map/icons/MENU_MAP_06.png'
-        #CHURCHES '/map/icons/MENU_MAP_Church.png'
-      - id: "l129"
-        data: ["Apostate Derelict", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_Church.png'
-        cords: [5056, 1707]
-        map_icon_size: 40
-        #UNIQUE
-      - id: "l130"
-        data: ["Ordina, Liturgical Town", "Landmark", "", ""]
-        icon: '/map/icons/MENU_MAP_34.png'
-        cords: [5312, 1923]
-        map_icon_size: 40
-        #LEGACY
-      - id: "ld11"
-        data: ["Miquella's Haligtree", "Legacy dungeon (minor)", "N/A", "Required to get to Elphael, Brace of the Haligtree."]
-        icon: '/map/icons/MENU_MAP_55.png'
-        cords: [5664, 1200]
-        map_icon_size: 50
-      - id: "ld12"
-        data: ["Elphael, Brace of the Haligtree", "Legacy dungeon (major)", "Malenia, Blade of Miquella", ":')"]
-        icon: '/map/icons/MENU_MAP_56.png'
-        cords: [5610, 876]
-        map_icon_size: 45
-  -
-    title: "Crumbling Farum Azula"
-    table: ["Name", "Type", "Bosses", "Notes"]
-    items:
-      - id: "ld13"
-        data: ["Crumbling Farum Azula", "Legacy dungeon (major)", "Godskin Duo<br>Maliketh, the Black Blade", "Required."]
-        icon: '/map/icons/MENU_MAP_59.png'
-        cords: [8570, 4553]
-        map_icon_size: 50
-  -
-    title: "Leyndell, Ashen Capital"
-    table: ["Name", "Type", "Bosses", "Notes"]
-    items:
-      - id: "ld14"
-        data: ["Leyndell, Ashen Capital", "Legacy dungeon (major)", "Sir Gideon Ofnir, The All-Knowing<br>Godfrey, First Elden Lord (Hoarah Loux)<br>Radagon of the Golden Order / Elden Beast", "Required. Replaces Leyndell, Royal Capital."]
-        icon: '/map/icons/MENU_MAP_62.png'
-        map_link: [4271, 3531]
+- title: 宁姆格福
+  table:
+  - 名称
+  - 类型
+  - Boss
+  - 说明
+  items:
+  - id: '1_1'
+    data:
+    - <b>漂流墓地</b>
+    - 洞窟
+    - <b>葛瑞克的士兵</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 3766
+    - 7373
+  - id: '1_5'
+    data:
+    - <b>近林洞窟</b>
+    - 洞窟
+    - <b>法姆·亚兹拉的兽人</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 3664
+    - 7065
+  - id: '1_3'
+    data:
+    - <b>海岸洞窟</b>
+    - 洞窟
+    - <b>亚人首领</b> (x2)
+    - 与<b>亚人柏克</b>的任务线相关。
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 3497
+    - 7347
+  - id: '1_9'
+    data:
+    - <b>蒙流洞窟</b>
+    - 洞窟
+    - <b>帕奇</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 4060
+    - 6975
+  - id: '1_6'
+    data:
+    - <b>大道下的洞窟</b>
+    - 洞窟
+    - <b>魔像守卫</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 4048
+    - 6437
+  - id: '1_4'
+    data:
+    - <b>死亡降临的地下墓地</b>
+    - 地下墓地
+    - <b>黑刀刺客</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 3897
+    - 6502
+  - id: '1_10'
+    data:
+    - <b>风暴根脚的地下墓地</b>
+    - 地下墓地
+    - <b>归树看门犬</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 3509
+    - 7060
+  - id: '1_8'
+    data:
+    - <b>蒙流地下墓地</b>
+    - 地下墓地
+    - <b>守墓斗士</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 4067
+    - 6704
+  - id: '1_7'
+    data:
+    - <b>宁姆格福坑道</b>
+    - 坑道
+    - <b>挖石山妖</b>
+    - ''
+    icon: /map/icons/MENU_MAP_14.png
+    cords:
+    - 3839
+    - 7051
+  - id: '1_2'
+    data:
+    - <b>边境英雄墓地</b>
+    - 英雄墓地
+    - <b>腐烂树灵</b><br><b>“接肢”贵族后裔</b> (x2)
+    - 需要2个<b>石剑钥匙</b>
+    icon: /map/icons/MENU_MAP_16.png
+    map_icon: /map/icons/edited/MENU_MAP_16.png
+    cords:
+    - 3755
+    - 7319
+  - id: e1
+    data:
+    - <b>无主猎犬的封印监牢</b>
+    - 封印地牢
+    - <b>“猎犬骑士”达瑞威尔</b>
+    - <b>猎犬长牙</b>(武器)
+    cords:
+    - 4207
+    - 7666
+    icon: /map/icons/edited/MENU_MAP_09.png
+  - id: e2
+    data:
+    - <b>风暴山丘的封印监牢</b>
+    - 封印地牢
+    - <b>熔炉骑士</b>
+    - <b>熔炉百相之尾</b>(祷告)
+    cords:
+    - 3646
+    - 6998
+    icon: /map/icons/edited/MENU_MAP_09.png
+  - id: l1
+    data:
+    - <b>小黄金树</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_30.png
+    cords:
+    - 4561
+    - 7088
+    map_icon_size: 45
+  - id: l2
+    data:
+    - <b>宁姆格福神授塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_23.png
+    cords:
+    - 4239
+    - 6218
+    map_icon_size: 45
+  - id: l3
+    data:
+    - <b>龙息废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 3965
+    - 7373
+  - id: l4
+    data:
+    - <b>关卡前废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 3785
+    - 6961
+  - id: l5
+    data:
+    - <b>雾林废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 4419
+    - 7152
+  - id: l6
+    data:
+    - <b>驿站街遗迹</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 4234
+    - 7222
+  - id: l7
+    data:
+    - <b>水唤村</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 4462
+    - 6491
+  - id: l8
+    data:
+    - <b>风暴山丘的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 3491
+    - 6775
+  - id: l9
+    data:
+    - <b>习战者的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 3720
+    - 6696
+  - id: l10
+    data:
+    - <b>画家的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 4214
+    - 6789
+  - id: l11
+    data:
+    - <b>艾雷教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 3659
+    - 7225
+    map_icon_size: 40
+  - id: l12
+    data:
+    - <b>龙飨教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 3382
+    - 7601
+    map_icon_size: 40
+  - id: l13
+    data:
+    - <b>玛莉卡第三教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 4624
+    - 6710
+    map_icon_size: 40
+  - id: l14
+    data:
+    - <b>风暴关卡</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_10.png
+    cords:
+    - 3677
+    - 6915
+  - id: l15
+    data:
+    - <b>希芙拉河的入口井</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Ungro.png
+    cords:
+    - 4581
+    - 7032
+  - id: l16
+    data:
+    - <b>海德要塞</b>
+    - 地标
+    - ''
+    - 与<b>“领主的嫡长子”肯尼斯·海德</b>的任务线有关。
+    icon: /map/icons/MENU_MAP_18.png
+    cords:
+    - 4707
+    - 7314
+    map_icon_size: 40
+  - id: ld1
+    data:
+    - <b>史东薇尔城</b>
+    - 传说遗迹 (主要)
+    - <b>“恶兆妖鬼”玛尔基特</b><br><b>“接肢”葛瑞克</b>
+    - 主线半必要
+    icon: /map/icons/MENU_MAP_50.png
+    cords:
+    - 3216
+    - 6775
+    map_icon_size: 45
+- title: 啜泣半岛
+  table:
+  - 名称
+  - 类型
+  - Boss
+  - 说明
+  items:
+  - id: '0_1'
+    data:
+    - <b>垂穴洞窟</b>
+    - 洞窟
+    - <b>卢恩熊</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 4136
+    - 7836
+  - id: '0_5'
+    data:
+    - <b>灵庙原野洞窟</b>
+    - 洞窟
+    - <b>“病花”米兰达</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 3616
+    - 8023
+  - id: '0_2'
+    data:
+    - <b>穿刺地下墓地</b>
+    - 地下墓地
+    - <b>归树看门犬</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 4472
+    - 7848
+  - id: '0_4'
+    data:
+    - <b>灵庙原野地下墓地</b>
+    - 地下墓地
+    - Cemetary Shade
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 3851
+    - 7951
+  - id: '0_3'
+    data:
+    - <b>摩恩坑道</b>
+    - 坑道
+    - <b>片鳞混种</b>
+    - ''
+    icon: /map/icons/MENU_MAP_14.png
+    cords:
+    - 4005
+    - 8113
+  - id: e3
+    data:
+    - <b>啜泣的封印监牢</b>
+    - 封印地牢
+    - <b>萨米尔的古英雄</b>
+    - <b>拉达冈的烙印</b>（护符）
+    cords:
+    - 3599
+    - 7958
+    icon: /map/icons/edited/MENU_MAP_09.png
+  - id: l17
+    data:
+    - <b>小黄金树</b>
+    - 地标
+    - <b>黄金树的化身</b>
+    - ''
+    icon: /map/icons/MENU_MAP_30.png
+    cords:
+    - 3912
+    - 8109
+    map_icon_size: 45
+  - id: l18
+    data:
+    - <b>奥利缇斯魔法师塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_17.png
+    cords:
+    - 4415
+    - 8121
+    map_icon_size: 45
+  - id: l19
+    data:
+    - <b>亚人森林的废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 3994
+    - 7867
+  - id: l20
+    data:
+    - <b>灵庙原野的废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 3704
+    - 7918
+  - id: l21
+    data:
+    - <b>封印魔女的废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 3510
+    - 8063
+  - id: l22
+    data:
+    - <b>隐居商人的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 3468
+    - 8225
+  - id: l23
+    data:
+    - <b>巡礼教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 3858
+    - 7679
+    map_icon_size: 40
+  - id: l24
+    data:
+    - <b>卡尔洗礼教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 4137
+    - 8122
+    map_icon_size: 40
+  - id: l25
+    data:
+    - <b>玛莉卡第四教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 3538
+    - 7993
+    map_icon_size: 40
+  - id: l26
+    data:
+    - <b>献祭大桥</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_11.png
+    cords:
+    - 4350
+    - 7771
+  - id: l27
+    data:
+    - <b>病村</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_37.png
+    cords:
+    - 4119
+    - 8090
+  - id: l28
+    data:
+    - <b>森林监视塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_08.png
+    cords:
+    - 4227
+    - 7868
+  - id: l29
+    data:
+    - <b>归还塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_08.png
+    cords:
+    - 3659
+    - 8364
+  - id: ld2
+    data:
+    - <b>摩恩城</b>
+    - 传说遗迹 (次要)
+    - <b>狮子混种</b>
+    - 与<b>摩恩的伊蕾娜</b>的任务线相关。
+    icon: /map/icons/MENU_MAP_25.png
+    cords:
+    - 4097
+    - 8554
+    map_icon_size: 45
+- title: 湖之利耶尼亚
+  table:
+  - 名称
+  - 类型
+  - Boss
+  - 说明
+  items:
+  - id: '2_1'
+    data:
+    - <b>学院结晶洞窟</b>
+    - 洞窟
+    - <b>结晶人</b> (x2)
+    - 需要2个<b>石剑钥匙</b>
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 1724
+    - 4870
+  - id: '2_4'
+    data:
+    - <b>湖旁结晶洞窟</b>
+    - 洞窟
+    - <b>猎犬骑士</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 2335
+    - 5968
+  - id: '2_8'
+    data:
+    - <b>留水洞窟</b>
+    - 洞窟
+    - <b>玛莲妮亚的尊腐骑士</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 2940
+    - 6303
+  - id: '2_2'
+    data:
+    - <b>黑刀地下墓地</b>
+    - 地下墓地
+    - <b>黑刀刺客</b><br><b>墓地影子</b>
+    - 里面有一个小恶魔雕像。
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 2870
+    - 4122
+  - id: '2_3'
+    data:
+    - <b>断崖下的地下墓地</b>
+    - 地下墓地
+    - <b>归树看门犬</b>
+    - 里面有一个小恶魔雕像。
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 3037
+    - 5944
+  - id: '2_6'
+    data:
+    - <b>绝路地下墓地</b>
+    - 地下墓地
+    - <b>唤灵蜗牛</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 1381
+    - 5526
+  - id: '2_5'
+    data:
+    - <b>雷亚卢卡利亚结晶坑道</b>
+    - 坑道
+    - <b>结晶人（圆刃刀）</b>
+    - ''
+    icon: /map/icons/MENU_MAP_14.png
+    cords:
+    - 2304
+    - 4457
+  - id: e4
+    data:
+    - <b>小偷的封印监牢</b>
+    - 封印地牢
+    - <b>“盗火”亚当</b>
+    - <b>恶神火焰</b>(祷告)
+    cords:
+    - 2684
+    - 6120
+    icon: /map/icons/edited/MENU_MAP_09.png
+  - id: e5
+    data:
+    - <b>杜鹃的封印监牢</b>
+    - 封印地牢
+    - <b>“卡利亚骑士”波尔斯</b>
+    - <b>巨剑阵</b>(巫术)
+    cords:
+    - 1377
+    - 5030
+    icon: /map/icons/edited/MENU_MAP_09.png
+  - id: e6
+    data:
+    - <b>王室墓地的封印监牢</b>
+    - 封印地牢
+    - 白金之子
+    - <b>陨石</b>(法术)
+    cords:
+    - 2276
+    - 3697
+    icon: /map/icons/edited/MENU_MAP_09.png
+  - id: e7
+    data:
+    - <b>刀之首的封印监牢</b>
+    - 封印地牢
+    - <b>“黑刀之首”亚勒托</b>
+    - <b>“黑刀”狄希</b>(灰色的)
+    cords:
+    - 1377
+    - 5693
+    icon: /map/icons/edited/MENU_MAP_09.png
+  - id: l30
+    data:
+    - <b>小黄金树</b> (西南)
+    - 地标
+    - <b>黄金树的化身</b>
+    - ''
+    icon: /map/icons/MENU_MAP_30.png
+    cords:
+    - 1440
+    - 5437
+    map_icon_size: 45
+  - id: l31
+    data:
+    - <b>小黄金树</b> (东北)
+    - 地标
+    - <b>黄金树的化身</b>
+    - ''
+    icon: /map/icons/MENU_MAP_30.png
+    cords:
+    - 2673
+    - 4345
+    map_icon_size: 45
+  - id: l32
+    data:
+    - <b>利耶尼亚神授塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_23.png
+    cords:
+    - 3345
+    - 5135
+    map_icon_size: 45
+  - id: l33
+    data:
+    - <b>改宗塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_17.png
+    cords:
+    - 1577
+    - 5578
+    map_icon_size: 45
+  - id: l34
+    data:
+    - <b>提斯魔法师塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_17.png
+    cords:
+    - 1833
+    - 4405
+    map_icon_size: 45
+  - id: l35
+    data:
+    - <b>改宗边境塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_17.png
+    cords:
+    - 2919
+    - 4172
+    map_icon_size: 45
+  - id: l36
+    data:
+    - <b>菈妮魔法师塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_17.png
+    cords:
+    - 1596
+    - 3690
+    map_icon_size: 45
+  - id: l38
+    data:
+    - <b>赛尔维斯魔法师塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_17.png
+    cords:
+    - 1732
+    - 3803
+    map_icon_size: 45
+  - id: l39
+    data:
+    - <b>蕾娜魔法师塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_17.png
+    cords:
+    - 1755
+    - 3517
+    map_icon_size: 45
+  - id: l50
+    data:
+    - <b>希耶罗那魔法师塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_17.png
+    cords:
+    - 1406
+    - 6245
+    map_icon_size: 45
+  - id: l40
+    data:
+    - <b>拉斯卡废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 2543
+    - 5875
+  - id: l41
+    data:
+    - <b>受净化的废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 2861
+    - 5927
+  - id: l42
+    data:
+    - <b>王室领地废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 1722
+    - 4123
+  - id: l43
+    data:
+    - <b>月之贵族废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 1950
+    - 5937
+  - id: l44
+    data:
+    - <b>月之民废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 1675
+    - 5781
+  - id: l45
+    data:
+    - <b>眠狼的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 2302
+    - 6064
+  - id: l46
+    data:
+    - <b>煮虾子的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 2277
+    - 5562
+  - id: l47
+    data:
+    - <b>画家的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 2768
+    - 5102
+  - id: l48
+    data:
+    - <b>复仇者的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 1430
+    - 5208
+  - id: l131
+    data:
+    - <b>伊利斯教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 2911
+    - 6414
+    map_icon_size: 40
+  - id: l51
+    data:
+    - <b>蔷薇教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 1829
+    - 5363
+    map_icon_size: 40
+  - id: l52
+    data:
+    - <b>结缘教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 2405
+    - 4720
+    map_icon_size: 40
+  - id: l53
+    data:
+    - <b>彼鲁姆教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 2180
+    - 4048
+    map_icon_size: 40
+  - id: l54
+    data:
+    - <b>镇静教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 2499
+    - 4013
+    map_icon_size: 40
+  - id: l55
+    data:
+    - <b>玛努斯·瑟利斯大教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_20.png
+    cords:
+    - 1883
+    - 5784
+    map_icon_size: 40
+  - id: l56
+    data:
+    - <b>大道监视塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_08.png
+    cords:
+    - 2793
+    - 5638
+  - id: l57
+    data:
+    - <b>卡利亚书斋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_66.png
+    cords:
+    - 2917
+    - 5209
+    map_icon_size: 45
+  - id: l58
+    data:
+    - <b>壶村</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_38.png
+    cords:
+    - 2993
+    - 5259
+  - id: l59
+    data:
+    - <b>学院门前镇</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_32.png
+    cords:
+    - 2345
+    - 5207
+  - id: l60
+    data:
+    - <b>教堂区</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_32.png
+    cords:
+    - 1714
+    - 5178
+  - id: l61
+    data:
+    - <b>白金村</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_39.png
+    cords:
+    - 1727
+    - 5852
+  - id: l62
+    data:
+    - <b>四钟楼</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_52.png
+    cords:
+    - 1475
+    - 4565
+    map_icon_size: 40
+  - id: l63
+    data:
+    - <b>癫火村</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_35.png
+    cords:
+    - 2650
+    - 4245
+  - id: l64
+    data:
+    - <b>癫火灯塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_08.png
+    cords:
+    - 2679
+    - 4054
+  - id: l65
+    data:
+    - <b>安瑟尔河的入口井</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Ungro.png
+    cords:
+    - 2777
+    - 4661
+  - id: l66
+    data:
+    - <b>安瑟尔河的出口井</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Ungro.png
+    cords:
+    - 1643
+    - 5990
+  - id: ld3
+    data:
+    - <b>魔法学院雷亚卢卡利亚</b>
+    - 传说遗迹 (主要)
+    - <b>拉达冈的红狼</b><br><b>“满月女王”蕾娜菈</b>
+    - 主线半必要，需要学院钥匙才能进入。
+    icon: /map/icons/MENU_MAP_51.png
+    cords:
+    - 1800
+    - 4807
+    map_icon_size: 45
+  - id: ld4
+    data:
+    - <b>卡利亚城寨</b>
+    - 传说遗迹 (次要)
+    - <b>禁卫骑士罗蕾塔</b>
+    - 与<b>魔女菈妮</b>的任务线相关。
+    icon: /map/icons/MENU_MAP_26.png
+    cords:
+    - 1927
+    - 3730
+    map_icon_size: 45
+  - id: '2_7'
+    data:
+    - <b>古遗迹断崖</b>
+    - 传说遗迹 (次要)
+    - <b>“熔岩土龙”马卡尔</b>
+    - 非必要，除非你不想走<b>亚坛高原</b>。
+    icon: /map/icons/MENU_MAP_53.png
+    cords:
+    - 2580
+    - 3625
+    map_icon_size: 45
+- title: 盖利德
+  table:
+  - 名称
+  - 类型
+  - Boss
+  - 说明
+  items:
+  - id: '3_1'
+    data:
+    - <b>废弃洞窟</b>
+    - 洞窟
+    - <b>玛莲妮亚的尊腐骑士</b> (x2)
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 5363
+    - 6479
+  - id: '3_4'
+    data:
+    - <b>牢狱洞窟</b>
+    - 洞窟
+    - <b>发狂斗士</b>
+    - 需要2个<b>石剑钥匙</b>
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 4936
+    - 6771
+  - id: '3_7'
+    data:
+    - <b>龙墓洞窟</b>
+    - 洞窟
+    - <b>法姆·亚兹拉的兽人</b> (x2)
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 6011
+    - 6173
+  - id: '3_9'
+    data:
+    - <b>瑟利亚隐藏洞窟</b>
+    - 洞窟
+    - <b>结晶人</b> (x3)
+    - <b>魔法师瑟濂</b>任务线的一部分。位于一个悬崖下的幻影墙后面。
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 5873
+    - 6481
+  - id: '3_2'
+    data:
+    - <b>盖利德地下墓地</b>
+    - 地下墓地
+    - <b>墓地影子</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 5362
+    - 7238
+  - id: '3_5'
+    data:
+    - <b>小黄金树地下墓地</b>
+    - 地下墓地
+    - <b>归树看门犬</b> (x2)
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 4930
+    - 6172
+  - id: '3_8'
+    data:
+    - <b>英灵地下墓地</b>
+    - 地下墓地
+    - <b>腐败树灵</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 6310
+    - 6173
+  - id: '3_3'
+    data:
+    - <b>盖尔坑道</b>
+    - 坑道
+    - <b>熔岩土龙</b>
+    - ''
+    icon: /map/icons/MENU_MAP_14.png
+    cords:
+    - 4796
+    - 6512
+  - id: '3_6'
+    data:
+    - <b>瑟利亚结晶坑道</b>
+    - 坑道
+    - <b>坠星兽物</b>
+    - ''
+    icon: /map/icons/MENU_MAP_14.png
+    cords:
+    - 5520
+    - 6433
+  - id: e8
+    data:
+    - <b>瑟利亚的封印监牢</b>
+    - 封印地牢
+    - <b>战场魔法师犹格</b>
+    - <b>战场魔法师犹格</b>(灰色的)
+    cords:
+    - 5413
+    - 6515
+    icon: /map/icons/edited/MENU_MAP_09.png
+  - id: l67
+    data:
+    - <b>小黄金树</b> (西)
+    - 地标
+    - <b>黄金树的化身</b>
+    - ''
+    icon: /map/icons/MENU_MAP_30.png
+    cords:
+    - 4911
+    - 6164
+    map_icon_size: 45
+  - id: l68
+    data:
+    - <b>小黄金树</b> (东)
+    - 地标
+    - <b>腐败化身</b>
+    - ''
+    icon: /map/icons/MENU_MAP_30.png
+    cords:
+    - 6037
+    - 6244
+    map_icon_size: 45
+  - id: l69
+    data:
+    - <b>盖利德神授塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_23.png
+    cords:
+    - 5581
+    - 6055
+    map_icon_size: 45
+  - id: l70
+    data:
+    - <b>孤立神授塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_23.png
+    cords:
+    - 5990
+    - 4819
+    map_icon_size: 45
+  - id: l71
+    data:
+    - <b>雷恩魔法师塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_17.png
+    cords:
+    - 6338
+    - 6042
+    map_icon_size: 45
+  - id: l72
+    data:
+    - <b>荒废废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 4894
+    - 6375
+  - id: l73
+    data:
+    - <b>奇列姆废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 5114
+    - 6372
+  - id: l74
+    data:
+    - <b>盖利德的驿站街遗迹</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 5043
+    - 6879
+  - id: l75
+    data:
+    - <b>贤者镇的废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 5286
+    - 6664
+  - id: l76
+    data:
+    - <b>步入腐败者的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 4819
+    - 6362
+  - id: l77
+    data:
+    - <b>隐居商人的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 5171
+    - 6098
+  - id: l78
+    data:
+    - <b>格威的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 5672
+    - 6738
+  - id: l79
+    data:
+    - <b>熏火教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 4668
+    - 6258
+    map_icon_size: 40
+  - id: l80
+    data:
+    - <b>大龙飨教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 5267
+    - 7189
+    map_icon_size: 40
+  - id: l81
+    data:
+    - <b>腐败病教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 5773
+    - 6662
+    map_icon_size: 40
+  - id: l82
+    data:
+    - <b>魔法镇瑟利亚</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_33.png
+    cords:
+    - 5638
+    - 6579
+    map_icon_size: 40
+  - id: l83
+    data:
+    - <b>瑟利亚关卡</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_10.png
+    cords:
+    - 5629
+    - 6836
+  - id: l84
+    data:
+    - <b>野兽神殿</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_54.png
+    cords:
+    - 5983
+    - 5504
+    map_icon_size: 40
+  - id: l85
+    data:
+    - <b>希芙拉河的出口井</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Ungro.png
+    cords:
+    - 5390
+    - 6283
+  - id: l86
+    data:
+    - <b>盖尔要塞</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_18.png
+    cords:
+    - 4885
+    - 6793
+    map_icon_size: 40
+  - id: l87
+    data:
+    - <b>法洛斯要塞</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_18.png
+    cords:
+    - 5957
+    - 6429
+    map_icon_size: 40
+  - id: l88
+    data:
+    - <b>沼泽监视塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_08.png
+    cords:
+    - 5558
+    - 6732
+  - id: ld5
+    data:
+    - <b>红狮子城</b>
+    - 传说遗迹 (次要)
+    - <b>混种战士</b> & <b>熔炉骑士</b><br><b>“碎星”拉塔恩</b>
+    - 主线半必要。
+    icon: /map/icons/MENU_MAP_28.png
+    cords:
+    - 6060
+    - 7357
+    map_icon_size: 45
+- title: 亚坛高原
+  table:
+  - 名称
+  - 类型
+  - Boss
+  - 说明
+  items:
+  - id: '4_3'
+    data:
+    - <b>调香师的隐藏洞窟</b>
+    - 洞窟
+    - <b>恶兆猎人</b> & <b>“病花”米兰达</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 3506
+    - 3448
+  - id: '5_2'
+    data:
+    - <b>贤者的洞窟</b>
+    - 洞窟
+    - <b>死术师哥瑞斯</b><br><b>黑刀刺客</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 2511
+    - 3264
+  - id: '5_4'
+    data:
+    - <b>丑恶地下墓地</b>
+    - 地下墓地
+    - <b>调香师托莉夏</b> & <b>混种战士</b>
+    - 需要2个<b>石剑钥匙</b>
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 2126
+    - 3369
+  - id: '4_1'
+    data:
+    - <b>旧亚坛坑道</b>
+    - 坑道
+    - <b>挖石山妖</b>
+    - ''
+    icon: /map/icons/MENU_MAP_14.png
+    cords:
+    - 2794
+    - 3058
+  - id: '4_2'
+    data:
+    - <b>亚坛坑道</b>
+    - 坑道
+    - <b>结晶人</b> (x2)
+    - ''
+    icon: /map/icons/MENU_MAP_14.png
+    cords:
+    - 3408
+    - 3137
+  - id: '4_4'
+    data:
+    - <b>尊贵者的英雄墓地</b>
+    - 英雄墓地
+    - <b>萨米尔的古英雄</b><br><b>黑刀刺客</b>
+    - 需要2个<b>石剑钥匙</b>
+    icon: /map/icons/MENU_MAP_16.png
+    map_icon: /map/icons/edited/MENU_MAP_16.png
+    cords:
+    - 3225
+    - 3190
+  - id: e9
+    data:
+    - <b>黄金一族的封印监牢</b>
+    - 封印地牢
+    - <b>“接肢”葛孚亚</b>
+    - <b>葛孚雷的肖像</b>(护身符)
+    cords:
+    - 2880
+    - 3791
+    icon: /map/icons/edited/MENU_MAP_09.png
+  - id: l89
+    data:
+    - <b>小黄金树</b>
+    - 地标
+    - <b>蚯蚓脸</b>
+    - ''
+    icon: /map/icons/MENU_MAP_30.png
+    cords:
+    - 3384
+    - 2925
+    map_icon_size: 45
+  - id: l90
+    data:
+    - <b>海市蜃楼魔法师塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_17.png
+    cords:
+    - 3035
+    - 3019
+    map_icon_size: 45
+  - id: l91
+    data:
+    - <b>调香师的废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 2165
+    - 3317
+  - id: l92
+    data:
+    - <b>卢克斯废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 2663
+    - 3448
+  - id: l93
+    data:
+    - <b>威达姆废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 2637
+    - 3187
+  - id: l94
+    data:
+    - <b>蠕血废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 3140
+    - 2866
+  - id: l95
+    data:
+    - <b>森林之民的废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 3481
+    - 2918
+  - id: l96
+    data:
+    - <b>唤雷教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 3227
+    - 3351
+    map_icon_size: 40
+  - id: l97
+    data:
+    - <b>玛莉卡第二教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 2989
+    - 3151
+    map_icon_size: 40
+  - id: l98
+    data:
+    - <b>迪可达斯大升降机</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_21.png
+    cords:
+    - 2745
+    - 3733
+    map_icon_size: 50
+  - id: l99
+    data:
+    - <b>西边风车牧场</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_19.png
+    cords:
+    - 3126
+    - 2512
+  - id: l100
+    data:
+    - <b>东边风车牧场</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_19.png
+    cords:
+    - 3348
+    - 2391
+  - id: l101
+    data:
+    - <b>村内风车牧场</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_19.png
+    cords:
+    - 3504
+    - 2528
+  - id: l102
+    data:
+    - <b>风车村多明努拉</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_36.png
+    cords:
+    - 3633
+    - 2586
+    map_icon_size: 40
+  - id: l103
+    data:
+    - <b>大道监视塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_08.png
+    cords:
+    - 3739
+    - 2723
+  - id: ld6
+    data:
+    - <b>日荫城</b>
+    - 传说遗迹 (次要)
+    - <b>“铁棘”艾隆梅尔</b>
+    - 与<b>米莉森</b>的任务线有关。
+    icon: /map/icons/MENU_MAP_27.png
+    cords:
+    - 2921
+    - 2682
+    map_icon_size: 45
+- title: 格密尔火山
+  table:
+  - 名称
+  - 类型
+  - Boss
+  - 说明
+  items:
+  - id: '5_3'
+    data:
+    - <b>沸滚河洞窟</b>
+    - 洞窟
+    - <b>腐败眷属</b>
+    - 需要2个<b>石剑钥匙</b>
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 2433
+    - 2813
+  - id: '5_5'
+    data:
+    - <b>火山洞窟</b>
+    - 洞窟
+    - <b>“亚人女王”玛格</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 2378
+    - 2485
+  - id: '5_6'
+    data:
+    - <b>威达姆地下墓地</b>
+    - 地下墓地
+    - <b>归树看门犬</b>
+    - 里面有一个小恶魔雕像。
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 2560
+    - 3090
+  - id: '5_1'
+    data:
+    - <b>格密尔英雄墓地</b>
+    - 英雄墓地
+    - <b>英雄的红狼</b>
+    - ''
+    icon: /map/icons/MENU_MAP_16.png
+    map_icon: /map/icons/edited/MENU_MAP_16.png
+    cords:
+    - 2521
+    - 2928
+  - id: l104
+    data:
+    - <b>小黄金树</b>
+    - 地标
+    - <b>腐烂树灵</b>
+    - ''
+    icon: /map/icons/MENU_MAP_30.png
+    cords:
+    - 2427
+    - 2772
+    map_icon_size: 45
+  - id: l105
+    data:
+    - <b>飘尸臭的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 2587
+    - 2688
+  - id: l106
+    data:
+    - <b>匠人的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 2265
+    - 3214
+  - id: l107
+    data:
+    - <b>遁世者的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 2057
+    - 3173
+  - id: l108
+    data:
+    - <b>遁世者村</b>
+    - 地标
+    - <b>黄金树的化身</b>
+    - ''
+    icon: /map/icons/MENU_MAP_40.png
+    cords:
+    - 2435
+    - 3108
+  - id: l109
+    data:
+    - <b>莱多要塞</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_18.png
+    cords:
+    - 1908
+    - 2820
+    map_icon_size: 40
+  - id: ld7
+    data:
+    - <b>火山官邸</b>
+    - 传说遗迹 (主要)
+    - <b>噬神大蛇</b> / <b>“亵渎君王”拉卡德</b>
+    - 主线半必要。
+    icon: /map/icons/MENU_MAP_58.png
+    cords:
+    - 2190
+    - 2837
+    map_icon_size: 45
+- title: 王城罗德尔
+  table:
+  - 名称
+  - 类型
+  - Boss
+  - 说明
+  items:
+  - id: '6_4'
+    data:
+    - <b>亚雷萨副墓地</b>
+    - 地下墓地
+    - <b>守墓斗士</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 4591
+    - 3186
+  - id: '6_3'
+    data:
+    - <b>罗德尔地下墓地</b>
+    - 地下墓地
+    - <b>“鲜血祭司”艾斯加</b>
+    - 因为某些原因在游戏中没有地图图标!
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 4381
+    - 3571
+  - id: '6_1'
+    data:
+    - <b>封印坑道</b>
+    - 坑道
+    - <b>石肤黑王</b>
+    - ''
+    icon: /map/icons/MENU_MAP_14.png
+    cords:
+    - 3909
+    - 3653
+  - id: '6_2'
+    data:
+    - <b>亚雷萨英雄墓地</b>
+    - 英雄墓地
+    - <b>熔炉骑士</b> & <b>“熔炉骑士”奥陶琵斯</b>
+    - 需要1个<b>石剑钥匙</b>。
+    icon: /map/icons/MENU_MAP_16.png
+    map_icon: /map/icons/edited/MENU_MAP_16.png
+    cords:
+    - 4542
+    - 3302
+  - id: l110
+    data:
+    - <b>小黄金树</b>
+    - 地标
+    - <b>黄金树的化身</b>
+    - ''
+    icon: /map/icons/MENU_MAP_30.png
+    cords:
+    - 4286
+    - 2869
+    map_icon_size: 45
+  - id: l111
+    data:
+    - <b>西亚坛神授塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_23.png
+    cords:
+    - 3919
+    - 4009
+    map_icon_size: 45
+  - id: l112
+    data:
+    - <b>遁世商人的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 3946
+    - 2944
+  - id: l113
+    data:
+    - <b>小黄金树教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 3849
+    - 3752
+    map_icon_size: 40
+  - id: ld8
+    data:
+    - <b>王城罗德尔</b>
+    - 传说遗迹 (主要)
+    - <b>“恶兆王”蒙葛特</b><br><b>“初始之王”葛孚雷</b> (Golden Shade)
+    - 必要。
+    icon: /map/icons/MENU_MAP_60.png
+    cords:
+    - 4271
+    - 3531
+    map_icon_size: 45
+  - id: ld9
+    data:
+    - <b>弃置恶兆的地底</b>
+    - 传说遗迹 (次要)
+    - <b>“恶兆之子”蒙格</b>
+    - 与<b>食粪者</b>的任务线相关。
+    icon: /map/icons/MENU_MAP_61.png
+    cords:
+    - 4338
+    - 3513
+- title: 巨人山顶
+  table:
+  - 名称
+  - 类型
+  - Boss
+  - 说明
+  items:
+  - id: '7_3'
+    data:
+    - <b>唤灵洞窟</b>
+    - 洞窟
+    - <b>唤灵蜗牛</b>
+    - 需要2个<b>石剑钥匙</b>
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 6494
+    - 2050
+  - id: '7_2'
+    data:
+    - <b>巨人山顶地下墓地</b>
+    - 地下墓地
+    - <b>腐烂树灵</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 5786
+    - 2808
+  - id: '7_1'
+    data:
+    - <b>巨人战争的英雄墓地</b>
+    - 英雄墓地
+    - <b>萨米尔的古英雄</b>
+    - ''
+    icon: /map/icons/MENU_MAP_16.png
+    map_icon: /map/icons/edited/MENU_MAP_16.png
+    cords:
+    - 5686
+    - 2823
+  - id: e10
+    data:
+    - <b>准王者的封印监牢</b>
+    - 封印地牢
+    - <b>“圆桌骑士”维克</b>
+    - 指痕套装(护甲) & <b>维克的龙雷</b>(法术)
+    cords:
+    - 6478
+    - 2280
+    icon: /map/icons/edited/MENU_MAP_09.png
+  - id: l114
+    data:
+    - <b>小黄金树</b>
+    - 地标
+    - <b>黄金树的化身</b> (x2)
+    - ''
+    icon: /map/icons/MENU_MAP_30.png
+    cords:
+    - 6229
+    - 2108
+    map_icon_size: 45
+  - id: l115
+    data:
+    - <b>东亚坛神授塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_23.png
+    cords:
+    - 5144
+    - 3854
+    map_icon_size: 45
+  - id: l116
+    data:
+    - <b>异端魔法师塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_17.png
+    cords:
+    - 6382
+    - 1985
+    map_icon_size: 45
+  - id: l117
+    data:
+    - <b>萨米尔废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 5605
+    - 3005
+  - id: l118
+    data:
+    - <b>观星废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 5967
+    - 2141
+  - id: l119
+    data:
+    - <b>离群独行者的破屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_06.png
+    cords:
+    - 5796
+    - 2094
+  - id: l120
+    data:
+    - <b>玛莉卡第一教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 6754
+    - 2338
+    map_icon_size: 40
+  - id: l121
+    data:
+    - <b>安歇教堂</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 5981
+    - 2999
+    map_icon_size: 40
+  - id: l122
+    data:
+    - <b>洛德大升降机</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_21.png
+    cords:
+    - 5483
+    - 2972
+    map_icon_size: 50
+  - id: l123
+    data:
+    - <b>监视者要塞</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_18.png
+    cords:
+    - 6220
+    - 2352
+    map_icon_size: 40
+  - id: l125
+    data:
+    - <b>巨人火焰大锅</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_57.png
+    cords:
+    - 6700
+    - 2983
+    map_icon_size: 45
+  - id: ld10
+    data:
+    - <b>索尔城</b>
+    - 传说遗迹 (次要)
+    - <b>老将尼奥</b>
+    - 与<b>白金之子勒缇娜</b>的任务线相关。
+    icon: /map/icons/MENU_MAP_29.png
+    cords:
+    - 6030
+    - 1849
+    map_icon_size: 45
+- title: 化圣雪原
+  table:
+  - 名称
+  - 类型
+  - Boss
+  - 说明
+  items:
+  - id: '8_4'
+    data:
+    - <b>安身洞窟</b>
+    - 洞窟
+    - <b>混种圣骑士</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_13.png
+    cords:
+    - 5692
+    - 2146
+  - id: '8_2'
+    data:
+    - <b>通往圣树的密道</b>
+    - 地下墓地
+    - <b>离群仿身泪滴</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 5427
+    - 2869
+  - id: '8_1'
+    data:
+    - <b>化圣雪原地下墓地</b>
+    - 地下墓地
+    - <b>腐败守墓斗士</b>
+    - ''
+    icon: /map/icons/edited/MENU_MAP_04.png
+    cords:
+    - 5666
+    - 2509
+  - id: '8_3'
+    data:
+    - <b>耶罗·亚尼斯坑道</b>
+    - 坑道
+    - <b>“黑暗繁星”艾丝缇</b>
+    - ''
+    icon: /map/icons/MENU_MAP_14.png
+    cords:
+    - 5044
+    - 2512
+  - id: l126
+    data:
+    - <b>小黄金树</b>
+    - 地标
+    - <b>腐败化身</b>
+    - ''
+    icon: /map/icons/MENU_MAP_30.png
+    cords:
+    - 5633
+    - 2054
+    map_icon_size: 45
+  - id: l127
+    data:
+    - <b>白金魔法师塔</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_17.png
+    cords:
+    - 5648
+    - 2262
+    map_icon_size: 45
+  - id: l128
+    data:
+    - <b>耶罗·亚尼斯废墟</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_05.png
+    cords:
+    - 5061
+    - 2411
+  - id: l129
+    data:
+    - <b>离教废屋</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_Church.png
+    cords:
+    - 5056
+    - 1707
+    map_icon_size: 40
+  - id: l130
+    data:
+    - <b>“仪典镇”奥缇那</b>
+    - 地标
+    - ''
+    - ''
+    icon: /map/icons/MENU_MAP_34.png
+    cords:
+    - 5312
+    - 1923
+    map_icon_size: 40
+  - id: ld11
+    data:
+    - <b>米凯拉的圣树</b>
+    - 传说遗迹 (次要)
+    - N/A
+    - 需要到达<b>“圣树分枝”艾布雷菲尔</b>。
+    icon: /map/icons/MENU_MAP_55.png
+    cords:
+    - 5664
+    - 1200
+    map_icon_size: 50
+  - id: ld12
+    data:
+    - <b>“圣树分枝”艾布雷菲尔</b>
+    - 传说遗迹 (主要)
+    - <b>“米凯拉的锋刃”玛莲妮亚</b>
+    - :')
+    icon: /map/icons/MENU_MAP_56.png
+    cords:
+    - 5610
+    - 876
+    map_icon_size: 45
+- title: 逐渐崩毁的法姆·亚兹拉
+  table:
+  - 名称
+  - 类型
+  - Boss
+  - 说明
+  items:
+  - id: ld13
+    data:
+    - <b>逐渐崩毁的法姆·亚兹拉</b>
+    - 传说遗迹 (主要)
+    - <b>神皮双人组</b><br><b>“黑剑”玛利喀斯</b>
+    - 必要。
+    icon: /map/icons/MENU_MAP_59.png
+    cords:
+    - 8570
+    - 4553
+    map_icon_size: 50
+- title: 灰城罗德尔
+  table:
+  - 名称
+  - 类型
+  - Boss
+  - 说明
+  items:
+  - id: ld14
+    data:
+    - <b>灰城罗德尔</b>
+    - 传说遗迹 (主要)
+    - <b>“百智爵士”基甸·奥夫尼尔</b><br><b>“初始之王”葛孚雷</b> (<b>战士荷莱·露</b>)<br><b>“黄金律法”拉达冈</b>
+      / <b>艾尔登之兽</b>
+    - 必要。地形变换后的<b>王城罗德尔</b>。
+    icon: /map/icons/MENU_MAP_62.png
+    map_link:
+    - 4271
+    - 3531

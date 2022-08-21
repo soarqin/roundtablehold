@@ -1,91 +1,170 @@
-title: Paintings
+title: 绘画
 id: paintings
-icon: "/img/icons/info/paintings/edited/03066.png"
-table_widths: [3, 2, 7]
+icon: /img/icons/info/paintings/edited/03066.png
+table_widths:
+- 3
+- 2
+- 7
 sections:
-  -
-    title: "Painting Locations"
-    table: ["Name", "Area", "Location"]
-    items:
-      - id: "1_1"
-        icon: "/img/icons/info/paintings/edited/03210.png"
-        map_icon: "/map/icons/shadows/info/paintings/03210.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Prophecy+Painting\">Prophecy Painting</a>", "Limgrave", "Stormveil Castle, in a study room in the heavily guarded courtyard."]
-        cords: [3060, 6606]
-      - id: "1_2"
-        icon: "/img/icons/info/paintings/edited/03066.png"
-        map_icon: "/map/icons/shadows/info/paintings/03066.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Homing+Instinct+Painting\">Homing Instinct Painting</a>", "Limgrave", "Artist's Shack, northwest of the Mistwood Outskirts Site of Grace, and east of the Murkwater Coast Site of Grace."]
-        cords: [4226, 6800]
-      - id: "2_1"
-        icon: "/img/icons/info/paintings/edited/03207.png"
-        map_icon: "/map/icons/shadows/info/paintings/03207.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Resurrection+Painting\">Resurrection Painting</a>", "Liurnia of the Lakes", "Artist's Shack, on the Plateau southeast of the Eastern Liurnia Lake Shore Site of Grace, and north of the Gate Town Bridge Site of Grace."]
-        cords: [2782, 5092]
-      - id: "3_1"
-        icon: "/img/icons/info/paintings/edited/03212.png"
-        map_icon: "/map/icons/shadows/info/paintings/03212.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Redmane+Painting\">Redmane Painting</a>", "Caelid", "Sellia, Town of Sorcery east of the Inner Aeonia Site of Grace, and southwest of Fort Faroth."]
-        cords: [5642, 6603]
-      - id: "4_1"
-        icon: "/img/icons/info/paintings/edited/03208.png"
-        map_icon: "/map/icons/shadows/info/paintings/03208.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Champion's+Song+Painting\">Champion's Song Painting</a>", "Altus Plateau", "Shaded Castle, in a Wooden Shack next to the eastern outer wall of the Shaded Castle, along the wall of the Shaded Castle Ramparts Site of Grace."]
-        cords: [2980, 2668]
-      - id: "5_1"
-        icon: "/img/icons/info/paintings/edited/03211.png"
-        map_icon: "/map/icons/shadows/info/paintings/03211.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Flightless+Bird+Painting\">Flightless Bird Painting</a>", "Leyndell, Royal Capital", "Fortified Manor, right next to the Fortified Manor, First Floor Site of Grace."]
-        cords: [4188, 3582]
-      - id: "6_1"
-        icon: "/img/icons/info/paintings/edited/03209.png"
-        map_icon: "/map/icons/shadows/info/paintings/03209.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Sorcerer+Painting\">Sorcerer Painting</a>", "Mountaintop of the Giants", "Castle Sol, in a locked room accessed from descending a ladder from atop the Ramparts guarded by two ballistas."]
-        cords: [6039, 1806]
-  -
-    title: "Painting Rewards"
-    table: ["Name", "Rewards","Destination"]
-    items:
-      - id: "1"
-        icon: "/img/icons/spirit_ashes/00456.png"
-        map_icon: "/map/icons/shadows/spirit_ashes/00456.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Prophecy+Painting\">Prophecy Painting</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Warhawk+Ashes\">Warhawk Ashes</a>", "Weeping Peninsula, just north of Pilgrimage Church on the cliff edge you should see the spirit of the artist in a chair."]
-        cords: [3845, 7638]
-        map_title: "Prophecy Painting solution"
-      - id: "2"
-        icon: "/img/icons/armor/15290.png"
-        map_icon: "/map/icons/shadows/armor/15290.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Homing+Instinct+Painting\">Homing Instinct Painting</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Incantation+Scarab\">Incantation Scarab</a>", "Limgrave, A small grave west from Dragon-Burnt Ruins, and northwest from the Seaside Ruins Site of Grace, next to some gravestones you should see the spirit of the painter in a chair."]
-        cords: [3870, 7397]
-        map_title: "Homing Instinct Painting solution"
-      - id: "3"
-        icon: "/img/icons/armor/14770.png"
-        map_icon: "/map/icons/shadows/armor/14770.png"
-        map_icon_size: 20
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Resurrection+Painting\">Resurrection Painting</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Juvenile+Scholar+Cap\">Juvenile Scholar Cap</a>, <a href=\"https://eldenring.wiki.fextralife.com/Juvenile+Scholar+Robe\">Juvenile Scholar Robe</a> and <a href=\"https://eldenring.wiki.fextralife.com/Larval+Tear\">Larval Tear</a>", "Liurnia of the Lakes, start at the Behind Caria Manor Site of Grace and head slightly southeast until you arrive at a graveyard, behind a big rock you should see the spirit of the artist sitting in a chair."]
-        cords: [2135, 3783]
-        map_title: "Resurrection Painting solution"
-      - id: "4"
-        icon: "/img/icons/ashes_of_war/08385.png"
-        map_icon: "/map/icons/shadows/ashes_of_war/08385.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Redmane+Painting\">Redmane Painting</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Ash+of+War:+Rain+of+Arrows\">Ash of War: Rain of Arrows</a>", "Caelid, off a cliff edge south east of the Minor Erdtree in Dragonbarrow where a powerful Magic weilding Golem will be. Once you've made your way down the roots and stone pillars, walk to the edge and you'll briefly see the spirit of a painter."]
-        cords: [6063, 6323]
-        map_title: "Redmane Painting solution"
-      - id: "5"
-        icon: "/img/icons/weapons/lightbows/11003.png"
-        map_icon: "/map/icons/shadows/weapons/lightbows/11003.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Champion's+Song+Painting\">Champion's Song Painting</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Harp+Bow\">Harp Bow</a>", "Altus Plateau, on the cliff just slightly southeast of the Rampartside Path Site of Grace, you should see the painter in a chair."]
-        cords: [3493, 3203]
-        map_title: "Champion's Song Painting solution"
-      - id: "6"
-        icon: "/img/icons/incantations/06060.png"
-        map_icon: "/map/icons/shadows/incantations/06060.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Flightless+Bird+Painting\">Flightless Bird Painting</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Fire's+Deadly+Sin\">Fire's Deadly Sin</a>", "Altus Plateau, From the Windmill Heights Site of Grace head southeast along the cliff edge, you will find the spirit of the painter on a cliff left of the shack at the end of the road."]
-        cords: [3727, 2615]
-        map_title: "Flightless Bird Painting solution"
-      - id: "7"
-        icon: "/img/icons/armor/15000.png"
-        map_icon: "/map/icons/shadows/armor/15000.png"
-        data: ["<a href=\"https://eldenring.wiki.fextralife.com/Sorcerer+Painting\">Sorcerer Painting</a>", "<a href=\"https://eldenring.wiki.fextralife.com/Greathood\">Greathood</a>", "Moutaintops of the Giants, on the bridge Northwest of the Stargazers' Ruins, go on the small platform jutting out on the eastern side of the bridge to find the spirit of the artist."]
-        cords: [5875, 2080]
-        map_title: "Sorcerer Painting solution"
+- title: 绘画位置
+  table:
+  - 名字
+  - 区域
+  - 位置
+  items:
+  - id: '1_1'
+    icon: /img/icons/info/paintings/edited/03210.png
+    map_icon: /map/icons/shadows/info/paintings/03210.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Prophecy+Painting"><b>[绘画《预言》]</b></a>
+    - <b>[宁姆格福]</b>
+    - <b>[史东薇尔城]</b>，在一个戒备森严的院子的书房里。
+    cords:
+    - 3060
+    - 6606
+  - id: '1_2'
+    icon: /img/icons/info/paintings/edited/03066.png
+    map_icon: /map/icons/shadows/info/paintings/03066.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Homing+Instinct+Painting"><b>[绘画《归巢》]</b></a>
+    - <b>[宁姆格福]</b>
+    - <b>[画家的破屋]</b>，<b>赐福[雾林边缘]</b>西北<b>赐福[蒙流岸边]</b>以东。
+    cords:
+    - 4226
+    - 6800
+  - id: '2_1'
+    icon: /img/icons/info/paintings/edited/03207.png
+    map_icon: /map/icons/shadows/info/paintings/03207.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Resurrection+Painting"><b>[绘画《再世》]</b></a>
+    - <b>[湖之利耶尼亚]</b>
+    - <b>[画家的破屋]</b>，<b>赐福[利耶尼亚湖（东岸）]</b>东南、<b>赐福[门前镇大桥]</b>以北的高原上。
+    cords:
+    - 2782
+    - 5092
+  - id: '3_1'
+    icon: /img/icons/info/paintings/edited/03212.png
+    map_icon: /map/icons/shadows/info/paintings/03212.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Redmane+Painting"><b>[绘画《红狮子》]</b></a>
+    - <b>[盖利德]</b>
+    - <b>[魔法镇瑟利亚]</b>, <b>赐福[艾奥尼亚沼泽（深处）]</b>以东<b>[法洛斯要塞]</b>西南。
+    cords:
+    - 5642
+    - 6603
+  - id: '4_1'
+    icon: /img/icons/info/paintings/edited/03208.png
+    map_icon: /map/icons/shadows/info/paintings/03208.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Champion's+Song+Painting"><b>[绘画《英雄之歌》]</b></a>
+    - <b>[亚坛高原]</b>
+    - <b>[日荫城]</b>，在靠近<b>[日荫城]</b>东外墙的一个木屋里，<b>赐福[日荫城（城墙）]</b>出发沿墙走。
+    cords:
+    - 2980
+    - 2668
+  - id: '5_1'
+    icon: /img/icons/info/paintings/edited/03211.png
+    map_icon: /map/icons/shadows/info/paintings/03211.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Flightless+Bird+Painting"><b>[绘画《不飞之鸟》]</b></a>
+    - <b>[王城罗德尔]</b>
+    - 就在<b>赐福[城寨一楼]</b>旁边。
+    cords:
+    - 4188
+    - 3582
+  - id: '6_1'
+    icon: /img/icons/info/paintings/edited/03209.png
+    map_icon: /map/icons/shadows/info/paintings/03209.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Sorcerer+Painting"><b>[绘画《魔法师》]</b></a>
+    - Mountaintop of the Giants
+    - <b>[索尔城]</b>，在一个锁着的房间里，从壁垒顶部的梯子上下来，有两个弩炮把守。
+    cords:
+    - 6039
+    - 1806
+- title: 绘画奖励
+  table:
+  - 名字
+  - 奖励
+  - 位置
+  items:
+  - id: '1'
+    icon: /img/icons/spirit_ashes/00456.png
+    map_icon: /map/icons/shadows/spirit_ashes/00456.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Prophecy+Painting"><b>[绘画《预言》]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Warhawk+Ashes"><b>[战鹰的骨灰]</b></a>
+    - <b>[啜泣半岛]</b>，就在<b>[巡礼教堂]</b>北边的悬崖边上，能看到坐在椅子上的画家灵魂。
+    cords:
+    - 3845
+    - 7638
+    map_title: 绘画《预言》 解答
+  - id: '2'
+    icon: /img/icons/armor/15290.png
+    map_icon: /map/icons/shadows/armor/15290.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Homing+Instinct+Painting"><b>[绘画《归巢》]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Incantation+Scarab"><b>[祷告粪金龟]</b></a>
+    - <b>[龙息废墟]</b>西边，<b>赐福[傍海古遗迹]</b>西北方向的一个小坟墓，在一些墓碑旁边，可以看到坐在椅子上的画家灵魂。
+    cords:
+    - 3870
+    - 7397
+    map_title: 绘画《归巢》 解答
+  - id: '3'
+    icon: /img/icons/armor/14770.png
+    map_icon: /map/icons/shadows/armor/14770.png
+    map_icon_size: 20
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Resurrection+Painting"><b>[绘画《再世》]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Juvenile+Scholar+Cap"><b>[年幼学徒帽子]</b></a>,
+      <a href="https://eldenring.wiki.fextralife.com/Juvenile+Scholar+Robe"><b>[年幼学徒长袍]</b></a>
+      and <a href="https://eldenring.wiki.fextralife.com/Larval+Tear"><b>[泪滴幼体]</b></a>
+    - <b>[湖之利耶尼亚]</b>，从<b>赐福[卡利亚城寨（后方）]</b>触发，稍微往东南方向走，直到一个墓地，在一块大石头后面，可以看到坐在椅子上的画家灵魂。
+    cords:
+    - 2135
+    - 3783
+    map_title: 绘画《再世》 解答
+  - id: '4'
+    icon: /img/icons/ashes_of_war/08385.png
+    map_icon: /map/icons/shadows/ashes_of_war/08385.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Redmane+Painting"><b>[绘画《红狮子》]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Rain+of+Arrows"><b>[战灰：箭雨]</b></a>
+    - <b>[盖利德]</b>，在<b>[桂奥尔龙墓]</b><b>[小黄金树]</b>东南的悬崖边缘，那里有一个强大的魔像。沿着树根和石柱走下去，走到边缘，你会看到一个画家灵魂。
+    cords:
+    - 6063
+    - 6323
+    map_title: 绘画《红狮子》 解答
+  - id: '5'
+    icon: /img/icons/weapons/lightbows/11003.png
+    map_icon: /map/icons/shadows/weapons/lightbows/11003.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Champion's+Song+Painting"><b>[绘画《英雄之歌》]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Harp+Bow"><b>[竖琴弓]</b></a>
+    - <b>[亚坛高原]</b>，在<b>赐福[城墙旁小径]</b>稍东南的悬崖上，可以看到坐在椅子上的画家灵魂。
+    cords:
+    - 3493
+    - 3203
+    map_title: 绘画《英雄之歌》 解答
+  - id: '6'
+    icon: /img/icons/incantations/06060.png
+    map_icon: /map/icons/shadows/incantations/06060.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Flightless+Bird+Painting"><b>[绘画《不飞之鸟》]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fire's+Deadly+Sin"><b>[火焰重罪]</b></a>
+    - <b>[亚坛高原]</b>，从<b>赐福[风车村高台]</b>沿着悬崖边缘向东南走，你会在路尽头小屋左侧的悬崖上找到画家灵魂。
+    cords:
+    - 3727
+    - 2615
+    map_title: 绘画《不飞之鸟》 解答
+  - id: '7'
+    icon: /img/icons/armor/15000.png
+    map_icon: /map/icons/shadows/armor/15000.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Sorcerer+Painting"><b>[绘画《魔法师》]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Greathood"><b>[大风帽]</b></a>
+    - <b>[巨人山顶]</b>，<b>[观星废墟]</b>西北的桥上东侧突出的小平台找到画家灵魂。
+    cords:
+    - 5875
+    - 2080
+    map_title: 绘画《魔法师》 解答

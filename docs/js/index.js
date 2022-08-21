@@ -1912,7 +1912,6 @@
 "npc_quests_12_5",
 "npc_quests_12_5_1",
 "npc_quests_12_5_2",
-"npc_quests_12_6",
 "npc_quests_12_7",
 "npc_quests_13_1",
 "npc_quests_14_1",
@@ -1923,10 +1922,8 @@
 "npc_quests_15_3",
 "npc_quests_15_4",
 "npc_quests_15_5",
-"npc_quests_15_6",
 "npc_quests_16_1",
 "npc_quests_16_2",
-"npc_quests_16_3",
 "npc_quests_17_1",
 "npc_quests_17_10",
 "npc_quests_17_11",
@@ -1945,7 +1942,6 @@
 "npc_quests_17_9",
 "npc_quests_18_1",
 "npc_quests_18_2",
-"npc_quests_18_3",
 "npc_quests_19_1",
 "npc_quests_19_10",
 "npc_quests_19_11",
@@ -1964,11 +1960,9 @@
 "npc_quests_1_3",
 "npc_quests_1_4",
 "npc_quests_1_5",
-"npc_quests_1_6",
 "npc_quests_1_7",
 "npc_quests_1_8",
 "npc_quests_20_1",
-"npc_quests_20_10",
 "npc_quests_20_2",
 "npc_quests_20_3",
 "npc_quests_20_3_2",
@@ -2018,8 +2012,6 @@
 "npc_quests_24_3",
 "npc_quests_25_1",
 "npc_quests_25_2",
-"npc_quests_25_3",
-"npc_quests_26.9",
 "npc_quests_26_1",
 "npc_quests_26_2",
 "npc_quests_26_3",
@@ -2059,7 +2051,6 @@
 "npc_quests_30_3",
 "npc_quests_30_4",
 "npc_quests_30_5",
-"npc_quests_30_6",
 "npc_quests_31_1",
 "npc_quests_31_10",
 "npc_quests_31_10_1",
@@ -2103,7 +2094,6 @@
 "npc_quests_33_3",
 "npc_quests_33_4",
 "npc_quests_33_5",
-"npc_quests_33_6",
 "npc_quests_34_1",
 "npc_quests_34_2",
 "npc_quests_34_3",
@@ -2199,7 +2189,6 @@
 "npc_quests_4_1",
 "npc_quests_4_2",
 "npc_quests_4_3",
-"npc_quests_4_4",
 "npc_quests_5_1",
 "npc_quests_5_2",
 "npc_quests_5_3",
@@ -2218,12 +2207,10 @@
 "npc_quests_7_6",
 "npc_quests_7_7",
 "npc_quests_7_8",
-"npc_quests_7_9",
 "npc_quests_8_1",
 "npc_quests_8_2",
 "npc_quests_8_3",
 "npc_quests_8_4",
-"npc_quests_8_6",
 "npc_quests_9_1",
 "npc_quests_9_2",
 "npc_quests_9_3",
@@ -4111,7 +4098,7 @@ const playthrough_total = 663;
 var playthrough_checked = 0;
 const quest_order_tldr_total = 273;
 var quest_order_tldr_checked = 0;
-const npc_quests_total = 344;
+const npc_quests_total = 331;
 var npc_quests_checked = 0;
 const achievements_total = 42;
 var achievements_checked = 0;

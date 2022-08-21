@@ -1,76 +1,107 @@
-title: Scrolls and Prayerbooks
+title: 卷轴&祷告书
 id: scrolls_prayerbooks
-icon: "/img/icons/keys/edited/00318.png"
+icon: /img/icons/keys/edited/00318.png
 sections:
-  -
-    title: Scrolls
-    items:
-      - id: "0_1"
-        icon: "/img/icons/keys/edited/00311.png"
-        map_icon: "/map/icons/shadows/keys/00311.png"
-        data: ["Royal House Scroll - East of the Agheel Lake South Site of Grace, on a ruin, next to a mage enemy."]
-        cords: [4311, 7517]
-        map_title: "Royal House Scroll"
-      - id: "0_2"
-        icon: "/img/icons/keys/edited/00310.png"
-        map_icon: "/map/icons/shadows/keys/00310.png"
-        data: ["Academy Scroll - West of the Lake-Facing Cliffs Site of Grace, in a graveyard."]
-        cords: [2836, 6351]
-        map_title: "Academy Scroll"
-      - id: "0_3"
-        icon: "/img/icons/keys/edited/00310.png"
-        map_icon: "/map/icons/shadows/keys/00310.png"
-        data: ["Conspectus Scroll - Near the Schoolhouse Classroom Site of Grace in Raya Lucaria; turn left as you leave the grace room headed into the building."]
-        cords: [1969, 4997]
-        map_title: "Conspectus Scroll"
-  -
-    title: Prayerbooks
-    items:
-      - id: "1_1"
-        icon: "/img/icons/keys/edited/00319.png"
-        map_icon: "/map/icons/shadows/keys/00319.png"
-        data: ["Assassin's Prayerbook - Behind an Imp Statue door that's behind another Imp Statue door in Roundtable Hold. Requires 3 Stonesword Keys total."]
-        cords: [710, 8415]
-        map_title: "Assassin's Prayerbook"
-      - id: "1_2"
-        icon: "/img/icons/keys/edited/00317.png"
-        map_icon: "/map/icons/shadows/keys/00317.png"
-        data: ["Godskin Prayerbook - Behind an Imp Statue door in Stormveil Castle. From the Liftside Chamber Site of Grace, exit into the courtyard and hug the right wall until you find a set of stairs going down on the wall on the other side."]
-        cords: [3126, 6731]
-        map_title: "Godskin Prayerbook"
-      - id: "1_3"
-        icon: "/img/icons/keys/edited/00315.png"
-        map_icon: "/map/icons/shadows/keys/00315.png"
-        data: ["Fire Monks' Prayerbook - In a Fire Monk camp in the southern edge of Liurnia, near the Fire Spur Me gesture."]
-        cords: [2229, 5961]
-        map_title: "Fire Monks' Prayerbook"
-      - id: "1_4"
-        icon: "/img/icons/keys/edited/00324.png"
-        map_icon: "/map/icons/shadows/keys/00324.png"
-        data: ["Dragon Cult Prayerbook - Kill the Leyndell Knight patrolling south of the Artist's Shack Site of Grace in Liurnia."]
-        cords: [2797, 5200]
-        map_title: "Dragon Cult Prayerbook"
-      - id: "1_5"
-        icon: "/img/icons/keys/edited/00318.png"
-        map_icon: "/map/icons/shadows/keys/00318.png"
-        data: ["Two Fingers' Prayerbook - In Leyndell, near the Fortified Manor, First Floor Site of Grace, in a room to the south, by a fireplace. Same room as the By My Sword gesture."]
-        cords: [4228, 3627]
-        map_title: "Two Fingers' Prayerbook"
-      - id: "1_8"
-        icon: "/img/icons/keys/edited/00322.png"
-        map_icon: "/map/icons/shadows/keys/00322.png"
-        data: ["Golden Order Principia - In Leyndell, from the Erdtree Sanctuary Site of Grace, exit east and climb up to the second floor. Go through the door, jump down to the roof on the left, and go through the broken window. Climb a root to the chair hanging from the ceiling."]
-        cords: [4365, 3698]
-        map_title: "Golden Order Principia"
-      - id: "1_6"
-        icon: "/img/icons/keys/edited/00316.png"
-        map_icon: "/map/icons/shadows/keys/00316.png"
-        data: ["Giant's Prayerbook - In Mountaintops of the Giants, at the top of Guardian's Garrison, up a ladder behind Chief Guardian Arghanthy."]
-        cords: [6209, 2420]
-        map_title: "Giant's Prayerbook"
-      - id: "1_7"
-        icon: "/img/icons/keys/edited/00325.png"
-        map_icon: "/map/icons/shadows/keys/00325.png"
-        data: ["Ancient Dragon Prayerbook - Northwest of the Crumbling Beast Site of Grace in Crumbling Farum Azula, in the middle of the main hall."]
-        cords: [8363, 4583]
-        map_title: "Ancient Dragon Prayerbook"
+- title: 卷轴
+  items:
+  - id: '0_1'
+    icon: /img/icons/keys/edited/00311.png
+    map_icon: /map/icons/shadows/keys/00311.png
+    data:
+    - <b>[王室卷轴]</b> - <b>赐福[亚基尔湖南方]</b>以东，在一个法师怪旁边的废墟上。
+    cords:
+    - 4311
+    - 7517
+    map_title: 王室卷轴
+  - id: '0_2'
+    icon: /img/icons/keys/edited/00310.png
+    map_icon: /map/icons/shadows/keys/00310.png
+    data:
+    - <b>[学院卷轴]</b> - 在<b>赐福[傍湖断崖]</b>以西的一个墓地里。
+    cords:
+    - 2836
+    - 6351
+    map_title: 学院卷轴
+  - id: '0_3'
+    icon: /img/icons/keys/edited/00310.png
+    map_icon: /map/icons/shadows/keys/00310.png
+    data:
+    - <b>[教室卷轴]</b> - <b>[魔法学院雷亚卢卡利亚]</b>靠近<b>赐福[校舍内的教室]</b>，离开赐福的房间向左转进入建筑。
+    cords:
+    - 1969
+    - 4997
+    map_title: 教室卷轴
+- title: 祷告书
+  items:
+  - id: '1_1'
+    icon: /img/icons/keys/edited/00319.png
+    map_icon: /map/icons/shadows/keys/00319.png
+    data:
+    - <b>[刺客祷告书]</b> - 在<b>[圆桌厅堂]</b>中另一扇小恶魔雕像门的后面。总共需要3个石剑钥匙
+    cords:
+    - 710
+    - 8415
+    map_title: 刺客祷告书
+  - id: '1_2'
+    icon: /img/icons/keys/edited/00317.png
+    map_icon: /map/icons/shadows/keys/00317.png
+    data:
+    - <b>[神皮祷告书]</b> - 在<b>[史东薇尔城]</b>的小恶魔雕像门后面。从<b>赐福[升降机旁房间]</b>进入庭院，靠着右边的墙走直到看到在另一边的墙上有一组楼梯。
+    cords:
+    - 3126
+    - 6731
+    map_title: 神皮祷告书
+  - id: '1_3'
+    icon: /img/icons/keys/edited/00315.png
+    map_icon: /map/icons/shadows/keys/00315.png
+    data:
+    - <b>[火焰习武修士祷告书]</b> - 在<b>[利耶尼亚]</b>南部边缘的火焰教众营地，靠近姿势<b>[愿火焰常在我心]</b>。
+    cords:
+    - 2229
+    - 5961
+    map_title: 火焰习武修士祷告书
+  - id: '1_4'
+    icon: /img/icons/keys/edited/00324.png
+    map_icon: /map/icons/shadows/keys/00324.png
+    data:
+    - <b>[龙信仰祷告书]</b> - 杀死在<b>[利耶尼亚]</b><b>赐福[画家的破屋]</b>以南巡逻的罗德尔骑士
+    cords:
+    - 2797
+    - 5200
+    map_title: 龙信仰祷告书
+  - id: '1_5'
+    icon: /img/icons/keys/edited/00318.png
+    map_icon: /map/icons/shadows/keys/00318.png
+    data:
+    - <b>[双指祷告书]</b> - 在<b>[王城罗德尔]</b>，靠近<b>赐福[城寨一楼]</b>，在南边的一个房子里壁炉旁。与姿势<b>[以剑立誓]</b>在同一个房间。
+    cords:
+    - 4228
+    - 3627
+    map_title: 双指祷告书
+  - id: '1_8'
+    icon: /img/icons/keys/edited/00322.png
+    map_icon: /map/icons/shadows/keys/00322.png
+    data:
+    - <b>[黄金律法原本]</b> - 在<b>[王城罗德尔]</b>，从<b>赐福[黄金树大教堂]</b>向东出去，爬上二楼穿过门，跳到左边的屋顶，再穿过那扇破窗户。爬到天花板上后的椅子上。
+    cords:
+    - 4365
+    - 3698
+    map_title: 黄金律法原本
+  - id: '1_6'
+    icon: /img/icons/keys/edited/00316.png
+    map_icon: /map/icons/shadows/keys/00316.png
+    data:
+    - <b>[巨人祷告书]</b> - 在<b>[巨人山顶]</b><b>[监视者要塞]</b>的顶部，<b>[“监视者之首”亚冈提]</b>后面的梯子爬上去。
+    cords:
+    - 6209
+    - 2420
+    map_title: 巨人祷告书
+  - id: '1_7'
+    icon: /img/icons/keys/edited/00325.png
+    map_icon: /map/icons/shadows/keys/00325.png
+    data:
+    - <b>[古龙祷告书]</b> - <b>[逐渐崩毁的法姆·亚兹拉]</b><b>赐福[渐毁野兽墓]</b>的西北的大厅中央。
+    cords:
+    - 8363
+    - 4583
+    map_title: 古龙祷告书

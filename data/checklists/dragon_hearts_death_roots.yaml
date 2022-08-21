@@ -1,114 +1,178 @@
-title: "Dragon Hearts & Deathroots"
+title: 龙心脏&死根
 id: dragon_hearts_death_roots
-map_icon: "/img/icons/keys/edited/03230.png"
+map_icon: /img/icons/keys/edited/03230.png
 sections:
-  -
-    title: "Dragon Hearts"
-    icon: "/img/icons/keys/edited/03230.png"
-    map_icon: "/map/icons/shadows/keys/03230.png"
-    items:
-      - "Limgrave"
-      - id: "0_1"
-        data: ["Defeat Flying Dragon Agheel in Agheel Lake (x1)"]
-        cords: [3891, 7227]
-        map_title: "Dragon Heart"
-      - "Liurnia of the Lakes"
-      - id: "0_3"
-        data: ["Defeat Glintstone Dragon Smarag, west of Raya Lucaria Academy (x1)"]
-        cords: [1613, 4973]
-        map_title: "Dragon Heart"
-      - id: "0_4"
-        data: ["Defeat Magma Wyrm Makar in Ruin-Strewn Precipice (x1)"]
-        cords: [2426, 3602]
-        map_title: "Dragon Heart"
-      - id: "0_5"
-        data: ["Defeat the three dragons in Moonlight Altar (x3)"]
-        cords: [1529, 5943]
-        map_title: "Dragon Heart x3"
-      - id: "0_2"
-        data: ["Defeat Glintstone Dragon Adula in front of the Cathedral of Manus Celes (x3)"]
-        cords: [1778, 5793]
-        map_title: "Dragon Heart x3"
-      - "Caelid"
-      - id: "0_6"
-        data: ["Defeat Decaying Ekzykes, northwest of the Cathedral of Dragon Communion (x1)"]
-        cords: [5179, 7029]
-        map_title: "Dragon Heart"
-      - id: "0_7"
-        data: ["Defeat Flying Dragon Greyll in the northeast of Caelid on the Farum Greatbridge (x1)"]
-        cords: [6156, 5856]
-        map_title: "Dragon Heart"
-      - id: "0_8"
-        data: ["Defeat Elder Dragon Greyoll in front of Fort Faroth (x5)"]
-        cords: [5846, 6377]
-        map_title: "Dragon Heart x5"
-      - id: "0_9"
-        data: ["Defeat the Magma Wyrm in Gael Tunnel bordering Limgrave (x1)"]
-        cords: [4828, 6464]
-        map_title: "Dragon Heart"
-      - "Mt. Gelmir"
-      - id: "0_10"
-        data: ["Defeat the Magma Wyrm in Volcano Manor (x1)"]
-        cords: [2205, 3041]
-        map_title: "Dragon Heart"
-      - id: "0_11"
-        data: ["Defeat the Magma Wyrm near Seethwater Terminus to the west of Mt. Gelmir (x1)"]
-        cords: [1936, 3004]
-        map_title: "Dragon Heart"
-      - "Mountaintops of the Giants"
-      - id: "0_12"
-        data: ["Defeat Borealis, the Freezing Fog in the frozen lake in the northeast (x1)"]
-        cords: [6661, 2034]
-        map_title: "Dragon Heart"
-      - "Consecrated Snowfield"
-      - id: "0_13"
-        data: ["Defeat Great Wyrm Theodorix, north of Albinauric Rise (x3)"]
-        cords: [5739, 2171]
-        map_title: "Dragon Heart x3"
-  -
-    title: "Deathroots"
-    icon: "/img/icons/keys/edited/00557.png"
-    map_icon: "/map/icons/shadows/keys/00557.png"
-    map_icon_size: 45
-    items:
-      - "Limgrave"
-      - id: "1_1"
-        data: ["Defeat the Tibia Mariner in northeast Limgrave in Summonwater Village"]
-        cords: [4440, 6524]
-        map_title: "Deathroot"
-      - id: "1_2"
-        data: ["In a chest in the boss room of the Deathtouched Catacombs"]
-        cords: [3898, 6485]
-        map_title: "Deathroot"
-      - "Liurnia of the Lakes"
-      - id: "1_3"
-        data: ["In a chest in the main boss room of the Black Knife Catacombs"]
-        cords: [2851, 4095]
-        map_title: "Deathroot"
-      - id: "1_4"
-        data: ["Defeat the Tibia Mariner southwest of Carian Study Hall in east Liurnia of the Lakes"]
-        cords: [2861, 5271]
-        map_title: "Deathroot"
-      - "Mt. Gelmir"
-      - id: "1_5"
-        data: ["Defeat the Tibia Mariner in the Wyndham Ruins"]
-        cords: [2658, 3232]
-        map_title: "Deathroot"
-      - id: "1_6"
-        data: ["In a chest in the boss room of the Gelmir Hero's Grave"]
-        cords: [2505, 2934]
-        map_title: "Deathroot"
-      - "Mountaintops of the Giants"
-      - id: "1_7"
-        data: ["In a chest in the boss room of the Giants' Mountaintop Catacombs"]
-        cords: [5772, 2802]
-        map_title: "Deathroot"
-      - id: "1_8"
-        data: ["Defeat the Tibia Mariner south of Castle Sol, on a cliff edge"]
-        cords: [6028, 1921]
-        map_title: "Deathroot"
-      - "Consecrated Snowfield"
-      - id: "1_9"
-        data: ["In a chest in the boss room at the bottom of the Hidden Path to the Haligtree"]
-        cords: [5436, 2882]
-        map_title: "Deathroot"
+- title: 龙心脏
+  icon: /img/icons/keys/edited/03230.png
+  map_icon: /map/icons/shadows/keys/03230.png
+  items:
+  - 宁姆格福
+  - id: '0_1'
+    data:
+    - 击败<b>[亚基尔湖]</b>中的<b>[“飞龙”亚基尔]</b> (x1)
+    cords:
+    - 3891
+    - 7227
+    map_title: 龙心脏
+  - 湖之利耶尼亚
+  - id: '0_3'
+    data:
+    - 击败<b>[魔法学院雷亚卢卡利亚]</b>以西的<b>[“辉石龙”史玛拉格]</b> (x1)
+    cords:
+    - 1613
+    - 4973
+    map_title: 龙心脏
+  - id: '0_4'
+    data:
+    - 击败<b>[古遗迹断崖]</b>中的<b>{PL39000}</b> (x1)
+    cords:
+    - 2426
+    - 3602
+    map_title: 龙心脏
+  - id: '0_5'
+    data:
+    - 击败<b>[月光祭坛]</b>中的三条龙 (x3)
+    cords:
+    - 1529
+    - 5943
+    map_title: 龙心脏 x3
+  - id: '0_2'
+    data:
+    - 在<b>[玛努斯·瑟利斯大教堂]</b>击败<b>[“辉石龙”亚杜拉]</b> (x3)
+    cords:
+    - 1778
+    - 5793
+    map_title: 龙心脏 x3
+  - 盖利德
+  - id: '0_6'
+    data:
+    - 击败<b>[大龙飨教堂]</b>西北的<b>[“步入腐败”艾格基斯]</b> (x1)
+    cords:
+    - 5179
+    - 7029
+    map_title: 龙心脏
+  - id: '0_7'
+    data:
+    - 在<b>[盖利德]</b><b>[法姆大桥]</b>的东北击败<b>[“飞龙”桂雷尔]</b> (x1)
+    cords:
+    - 6156
+    - 5856
+    map_title: 龙心脏
+  - id: 0_8
+    data:
+    - 在<b>[法洛斯要塞]</b>前击败老龙桂奥尔 (x5)
+    cords:
+    - 5846
+    - 6377
+    map_title: 龙心脏 x5
+  - id: 0_9
+    data:
+    - 在<b>[宁姆格福]</b>的<b>[盖尔坑道]</b>旁击败<b>[熔岩土龙]</b> (x1)
+    cords:
+    - 4828
+    - 6464
+    map_title: 龙心脏
+  - 格密尔火山
+  - id: '0_10'
+    data:
+    - 击败<b>[火山官邸]</b>中的<b>[熔岩土龙]</b> (x1)
+    cords:
+    - 2205
+    - 3041
+    map_title: 龙心脏
+  - id: '0_11'
+    data:
+    - 击败<b>[格密尔火山]</b>西边<b>[沸滚河终点]</b>附近的<b>[熔岩土龙]</b> (x1)
+    cords:
+    - 1936
+    - 3004
+    map_title: 龙心脏
+  - 巨人山顶
+  - id: '0_12'
+    data:
+    - 在冰冻湖东北击败<b>[“冻结冰雾”玻列琉斯]</b> (x1)
+    cords:
+    - 6661
+    - 2034
+    map_title: 龙心脏
+  - 化圣雪原
+  - id: '0_13'
+    data:
+    - 在<b>[白金魔法师塔]</b>以北击败<b>[“大土龙”席欧朵利克]</b> (x3)
+    cords:
+    - 5739
+    - 2171
+    map_title: 龙心脏 x3
+- title: 死根
+  icon: /img/icons/keys/edited/00557.png
+  map_icon: /map/icons/shadows/keys/00557.png
+  map_icon_size: 45
+  items:
+  - 宁姆格福
+  - id: '1_1'
+    data:
+    - 击败<b>[宁姆格福]</b>东北<b>[水唤村]</b>的<b>[提比亚的唤声船]</b>
+    cords:
+    - 4440
+    - 6524
+    map_title: 死根
+  - id: '1_2'
+    data:
+    - 在<b>[死亡降临的地下墓地]</b> Boss房间的一个宝箱里
+    cords:
+    - 3898
+    - 6485
+    map_title: 死根
+  - 湖之利耶尼亚
+  - id: '1_3'
+    data:
+    - 在<b>[黑刀地下墓地]</b> 主boss房间的一个宝箱里
+    cords:
+    - 2851
+    - 4095
+    map_title: 死根
+  - id: '1_4'
+    data:
+    - 击败<b>[湖之利耶尼亚]</b>东部<b>[卡利亚书斋]</b>西南的<b>[提比亚的唤声船]</b>
+    cords:
+    - 2861
+    - 5271
+    map_title: 死根
+  - 格密尔火山
+  - id: '1_5'
+    data:
+    - 击败<b>[威达姆废墟]</b>中的<b>[提比亚的唤声船]</b>
+    cords:
+    - 2658
+    - 3232
+    map_title: 死根
+  - id: '1_6'
+    data:
+    - 在<b>[格密尔英雄墓地]</b> Boss房间的一个宝箱里
+    cords:
+    - 2505
+    - 2934
+    map_title: 死根
+  - 巨人山顶
+  - id: '1_7'
+    data:
+    - 在<b>[巨人山顶地下墓地]</b> Boss房间的一个宝箱里
+    cords:
+    - 5772
+    - 2802
+    map_title: 死根
+  - id: '1_8'
+    data:
+    - 在<b>[索尔城]</b>南部的悬崖边击败<b>[提比亚的唤声船]</b>
+    cords:
+    - 6028
+    - 1921
+    map_title: 死根
+  - 化圣雪原
+  - id: '1_9'
+    data:
+    - 在<b>[通往圣树的密道]</b> Boss房间底部的一个宝箱里
+    cords:
+    - 5436
+    - 2882
+    map_title: 死根

@@ -1,443 +1,847 @@
-title: Talismans
+title: 护符
 id: talismans
-table_widths: [4, 4, 4]
+table_widths:
+- 4
+- 4
+- 4
 sections:
-  -
-    title: "Limgrave"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "2_1"
-        icon: "/img/icons/talismans/18000.png"
-        data: ["Crimson Amber Medallion", "Can choose one as a Keepsake", "Raises maximum HP by ~6%"]
-      - id: "2_2"
-        icon: "/img/icons/talismans/18810.png"
-        data: ["Roar Medallion", "Dropped by the Stonedigger Troll, located in the Limgrave Tunnels", "Enhances roars and breath attacks"]
-      - id: "2_3"
-        icon: "/img/icons/talismans/18510.png"
-        data: ["Flamedrake Talisman", "Dropped by the Beastman of Farum Azula in Groveside Cave in Limgrave", "Boosts fire damage negation by 13%"]
-      - id: "2_4"
-        icon: "/img/icons/talismans/18530.png"
-        data: ["Haligdrake Talisman", "Found on a corpse in the Stranded Graveyard, but only accessible via the beach below the Seaside Ruins Grace", "Boosts holy damage negation by 13%"]
-      - id: "2_5"
-        icon: "/img/icons/talismans/18370.png"
-        data: ["Axe Talisman", "Found in a cellar underneath the Mistwood Ruins", "Enhances charge attacks by 10%"]
-      - id: "2_6"
-        icon: "/img/icons/talismans/18200.png"
-        data: ["Prince of Death's Pustule", "Found in the Stormveil Castle Crypts, most easily accessible via the Rampart Tower Grace", "Raises Vitality by 90."]
-      - id: "2_7"
-        icon: "/img/icons/talismans/18800.png"
-        data: ["Claw Talisman", "Found on a corpse situated in a watchtower accessible from the Rampart Tower Grace", "Enhances jump attacks by 15%"]
-      - id: "2_8"
-        icon: "/img/icons/talismans/18820.png"
-        data: ["Curved Sword Talisman", "Found in a treasure chest inside the room where you fight the Banished Knight in Stormveil Castle", "Enhances guard counters by 20%"]
-      - id: "2_9"
-        icon: "/img/icons/talismans/18520.png"
-        data: ["Boltdrake Talisman", "Found on a corpse on the way to the Divine Tower of Limgrave", "Boosts lightning damage negation by 13%"]
-      - id: "2_10"
-        icon: "/img/icons/talismans/18160.png"
-        data: ["Green Turtle Talisman", "Found in the underground area on the outskirts of Summonwater Village", "Raises stamina recovery speed by 8 points per second (+17.7%)"]
-      - id: "2_11"
-        icon: "/img/icons/talismans/18300.png"
-        data: ["Hammer Talisman", "Dropped by Recusant Henricus northeast of Stormhill Shack", "Enhances stamina-reducing attacks against blockers by 20%"]
-      - id: "2_12"
-        icon: "/img/icons/talismans/18330.png"
-        data: ["Arrow's Reach Talisman", "Found in a treasure chest inside the Stormgate Towers", "Increases bow effective range"]
-      - id: "2_13"
-        icon: "/img/icons/talismans/18350.png"
-        data: ["Blue Dancer Charm", "Dropped by the Guardian Golem in Highroad Cave", "Raises attack power with lower equipment load"]
-      - id: "2_14"
-        icon: "/img/icons/talismans/18380.png"
-        data: ["Lance Talisman", "Found in the Northeast Stormhill", "Enhances attacks on horseback by 15%"]
-      - id: "2_15"
-        icon: "/img/icons/talismans/18750.png"
-        data: ["Sacrificial Twig", "Can be purchased from Patches at Murkwater Cave after he sets up shop for 5,000 runes", "Will be lost on death in place of runes"]
-      - id: "2_16"
-        icon: "/img/icons/talismans/18040.png"
-        data: ["Erdtree's Favor", "Found in the Fringefolk Hero's Grave, guarded by two Grafted Scions in a secret area", "Raises maximum HP (3%), Stamina (6.75%) and Equip Load (5%)"]
-      - id: "2_17"
-        icon: "/img/icons/talismans/18570.png"
-        data: ["Blue-Feathered Branchsword", "Dropped by the Deathbird east of the Warmaster's Shack", "Raises defense when HP is low (Activates under 20% health, raises damage negation by: current damage negation / 2 + 50)"]
-      - id: "2_18"
-        icon: "/img/icons/talismans/18660.png"
-        data: ["Assassin's Crimson Dagger", "Dropped by the Black Knife Assassin in the Deathtouched Catacombs", "Critical hits restore HP (Heals 10% of max HP + 85 HP)"]
-      - id: "2_19"
-        icon: "/img/icons/talismans/18260.png"
-        data: ["Sacred Scorpion Charm", "Dropped by Anastasia, Tarnished-Eater", "Raises holy attack, but lowers damage negation. (Holy damage is increased by 12% in PvE and 8% in PvP. Increases physical damage taken by 10% in PvE and 15% in PvP.)"]
-  -
-    title: "Weeping Peninsula"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "1_1"
-        icon: "/img/icons/talismans/18000.png"
-        data: ["Crimson Amber Medallion", "Can be purchased from the Nomadic Merchant at the eastern side of Weeping Peninsula for 1,500 runes", "Raises maximum HP by ~6%"]
-      - id: "1_2"
-        icon: "/img/icons/talismans/18750.png"
-        data: ["Sacrificial Twig (x3)", "Can be purchased from the Isolated Merchant at the western side of Weeping Peninsula for 3,000 runes", "Will be lost on death in place of runes"]
-      - id: "1_3"
-        icon: "/img/icons/talismans/18020.png"
-        data: ["Viridian Amber Medallion", "Reward for defeating Miranda, the Blighted Bloom in the Tombsward Cave", "Raises maximum stamina by 11%"]
-      - id: "1_4"
-        icon: "/img/icons/talismans/18750.png"
-        data: ["Sacrificial Twig", "Given by Edgar when spoken to for the first time at Castle Morne", "Will be lost on death in place of runes"]
-      - id: "1_5"
-        icon: "/img/icons/talismans/18500.png"
-        data: ["Spelldrake Talisman", "Reward for defeating Runebear at the end of the Earthbore Cave in the Weeping Peninsula", "Boosts magical damage negation (PvE: 13%; PVP: 4%)"]
-      - id: "1_6"
-        icon: "/img/icons/talismans/18050.png"
-        data: ["Radagon's Scarseal", "Dropped by the Ancient Hero of Zamor in Weeping Evergaol", "Raises physical attributes by 3, increases damage taken by ~5%"]
-      - id: "1_7"
-        icon: "/img/icons/talismans/18360.png"
-        data: ["Twinblade Talisman", "Found at the top of a tower accessible by dropping down from the Back of the Castle Grace, to the west", "Enhances final hit of chain attacks by 20%"]
-  -
-    title: "Roundtable Hold"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "3_1"
-        icon: "/img/icons/talismans/18030.png"
-        data: ["Arsenal Charm", "Obtained by talking to Nepheli Loux after beating Godrick the Grafted in Stormveil Castle", "Raises maximum equipment weight by 15%"]
-      - id: "3_2"
-        icon: "/img/icons/talismans/18760.png"
-        data: ["Furled Finger's Trick-Mirror", "Can be purchased from Twin Maiden Husks at the Roundtable Hold for 5,000 Runes", "Take on appearance of a Host of Fingers"]
-      - id: "3_3"
-        icon: "/img/icons/talismans/18770.png"
-        data: ["Host's Trick-Mirror", "Can be purchased from Twin Maiden Husks at the Roundtable Hold for 5,000 Runes", "Take on appearance of a cooperator"]
-      - id: "3_4"
-        icon: "/img/icons/talismans/18880.png"
-        data: ["Ancestral Spirit's Horn", "Unlocked via the Remembrance of the Regal Ancestor", "Restores FP upon defeating enemies (3 FP per kill)"]
-  -
-    title: "Liurnia of the Lakes"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "4_1"
-        icon: "/img/icons/talismans/18670.png"
-        data: ["Assassin's Cerulean Dagger", "Dropped by the Black Knife Assassin in Black Knife Catacombs", "Critical hits restores 15 FP"]
-      - id: "4_2"
-        icon: "/img/icons/talismans/18750.png"
-        data: ["Sacrificial Twig", "Found on a corpse in Southern Liurnia of the Lakes, only accessible from the top, east of Malefactor's Evergaol", "Will be lost on death in place of runes"]
-      - id: "4_3"
-        icon: "/img/icons/talismans/18410.png"
-        data: ["Graven-School Talisman", "Found in a room filled with Potboys behind a illusory wall and a ladder in Raya Lucaria Academy, near the Debate Parlor Grace", "Raises potency of sorceries by 8%."]
-      - id: "4_4"
-        icon: "/img/icons/talismans/18470.png"
-        data: ["Radagon Icon", "Found in the second floor of the Debate Parlor, Can be reached by jumping a fence in the courtyard", "Shortens spell casting time. (Gives 30 virtual dexterity towards exclusively spellcasting (both sorceries and incantations). Casting speed is capped at 70 dexterity.)"]
-      - id: "4_5"
-        icon: "/img/icons/talismans/18720.png"
-        data: ["Longtail Cat Talisman", "Found on a corpse at the bottom of the spinning wheel in Raya Lucaria Academy", "Renders the wearer immune to fall damage(not)"]
-      - id: "4_6"
-        icon: "/img/icons/talismans/18010.png"
-        data: ["Cerulean Amber Medallion", "Dropped by the Bloodhound Knight in Lakeside Crystal Cave", "Raises maximum FP by 7%."]
-      - id: "4_7"
-        icon: "/img/icons/talismans/18012.png"
-        data: ["Cerulean Amber Medallion +2", "Found in a treasure chest in an underground room northwest of Lunar Estate ruins", "Raises maximum FP by 11%."]
-      - id: "4_8"
-        icon: "/img/icons/talismans/18090.png"
-        data: ["Stargazer Heirloom", "Found on a corpse lying at the top of the Divine Tower of Liurnia", "Raises intelligence by 5."]
-      - id: "4_9"
-        icon: "/img/icons/talismans/18100.png"
-        data: ["Two Fingers Heirloom", "Found on the lower level of the Purified Ruins", "Raises faith by 5."]
-      - id: "4_10"
-        icon: "/img/icons/talismans/18310.png"
-        data: ["Winged Sword Insignia", "Dropped by the Cleanrot Knight in Stillwater Cave", "Raises attack power with successive attacks"]
-      - id: "4_11"
-        icon: "/img/icons/talismans/18170.png"
-        data: ["Stalwart Horn Charm", "Found on a corpse in Eastern Liurnia, on the cliffs the west from the Mausoleum Compound Grace", "Greatly raises robustness (+90)"]
-      - id: "4_12"
-        icon: "/img/icons/talismans/18230.png"
-        data: ["Magic Scorpion Charm", "Obtained by talking Preceptor Seluvis after obtaining the Fingerslayer Blade but before giving it to Ranni the Witch", "Raises magic attack (12%), but lowers damage negation (10%)"]
-      - id: "4_13"
-        icon: "/img/icons/talismans/18270.png"
-        data: ["Red-Feathered Branchsword", "Dropped by the Deathbird northeast of Scenic Isle Grace", "Raises attack power by 20% when HP is low (below 20%)."]
-      - id: "4_14"
-        icon: "/img/icons/talismans/18290.png"
-        data: ["Spear Talisman", "Found in a treasure chest inside Lakeside Crystal Cave near a demi-human campfire", "Enhances counterattacks unique to thrusting weapons (13%)"]
-      - id: "4_15"
-        icon: "/img/icons/talismans/18540.png"
-        data: ["Pearldrake Talisman", "Found behind the first waygate of The Four Belfries", "Boosts non-physical damage negation (5%)"]
-      - id: "4_16"
-        icon: "/img/icons/talismans/18620.png"
-        data: ["Cerulean Seed Talisman", "Found in the rafters of Carian Study Hall, accessible from the roofs", "Boosts FP restoration from Flask of Cerulean Tears.(20%)"]
-      - id: "4_17"
-        icon: "/img/icons/talismans/18600.png"
-        data: ["Crucible Knot Talisman", "Dropped by the Omenkiller, located in the Village of the Albinaurics", "Reduces damage and impact of headshots taken."]
-      - id: "4_18"
-        icon: "/img/icons/talismans/18700.png"
-        data: ["Carian Filigreed Crest", "Can be purchased from War Counselor Iji if you defeat Bloodhound Knight Darriwil without Blaidd's help, for 1,000 runes", "Lowers FP consumed by skills by 25%."]
-      - id: "4_19"
-        icon: "/img/icons/talismans/18730.png"
-        data: ["Shabriri's Woe", "Found on a corpse at the edge of the Frenzied Flame Village", "Constantly attracts enemies' aggression."]
-      - id: "4_20"
-        icon: "/img/icons/talismans/18830.png"
-        data: ["Companion Jar", "Received from Jar Bairn after completing his quest", "Raises potency of throwing pots (20% damage up)"]
-  -
-    title: "Caelid"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "5_1"
-        icon: "/img/icons/talismans/18340.png"
-        data: ["Arrow's Sting Talisman", "Found in a treasure chest on the top of the tower directly above Impassable Greatbridge Grace", "Raises attack power of arrows and bolts (10%)."]
-      - id: "5_2"
-        icon: "/img/icons/talismans/18120.png"
-        data: ["Gold Scarab", "Dropped by Cleanrot Knight (Sickle) & Cleanrot Knight (Spear) in the Abandoned Cave", "Increases runes Obtained from defeated enemies by ~20%."]
-      - id: "5_3"
-        icon: "/img/icons/talismans/18032.png"
-        data: ["Great-Jar's Arsenal", "Reward for defeating the Knights of the Great Jar in Caelid, near the colosseum", "Vastly raises maximum equip load. (16-19% based on Endurance)"]
-      - id: "5_4"
-        icon: "/img/icons/talismans/18080.png"
-        data: ["Prosthesis-Wearer Heirloom", "Obtained by finishing the sidequest given by Gowry in Caelid, then returning to Millicent to receive the Talisman", "Raises Dexterity by 5."]
-      - id: "5_5"
-        icon: "/img/icons/talismans/18051.png"
-        data: ["Radagon's Soreseal", "Found in a corpse in Fort Faroth", "Raises physical attributes by 5, increases damage taken by ~15%"]
-      - id: "5_6"
-        icon: "/img/icons/talismans/18750.png"
-        data: ["Sacrificial Twig (x3)", "Can be purchased from the Isolated Merchant in Dragonbarrow for 3,000 runes", "Will be lost on death in place of runes"]
-      - id: "5_7"
-        icon: "/img/icons/talismans/18512.png"
-        data: ["Flamedrake Talisman +2", "Dropped by the Beastman of Farum Azula (x2) in Dragonbarrow Cave", "Boosts fire damage negation by 20%."]
-      - id: "5_8"
-        icon: "/img/icons/talismans/18220.png"
-        data: ["Bull-Goat's Talisman", "Found in the back in of Dragonbarrow Cave", "Raises Poise by ~33.3% rounded to the nearest integer."]
-      - id: "5_9"
-        icon: "/img/icons/talismans/18070.png"
-        data: ["Starscourge Heirloom", "Found in Fort Gael", "Raises Strength by 5"]
-      - id: "5_10"
-        icon: "/img/icons/talismans/18440.png"
-        data: ["Faithful's Canvas Talisman", "Found on a corpse in Sellia Crystal Tunnel", "Raises potency of Incantations by 4%."]
-      - id: "5_11"
-        icon: "/img/icons/talismans/18450.png"
-        data: ["Flock's Canvas Talisman", "Dropped by Gowry after completing the Millicent questline if you kill him", "Greatly raises the potency of Incantations by 8%."]
-      - id: "5_12"
-        icon: "/img/icons/talismans/18501.png"
-        data: ["Spelldrake Talisman +1", "Found in a small room in the northwest section of town, right under the balcony containing the Staff of Loss", "Boosts magical damage negation. (PvE: 17%; PVP: 5%)"]
-      - id: "5_13"
-        icon: "/img/icons/talismans/18490.png"
-        data: ["Dragoncrest Shield Talisman", "Found on one of the edges of Bestial Sanctum", "Massively boosts physical damage negation by 10%."]
-  -
-    title: "Altus Plateau"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "6_1"
-        icon: "/img/icons/talismans/18031.png"
-        data: ["Arsenal Charm +1", "Found on a corpse in the Altus Tunnel", "Raises maximum equipment load by 17%."]
-      - id: "6_2"
-        icon: "/img/icons/talismans/18240.png"
-        data: ["Lightning Scorpion Charm", "Found in the Wyndham Catacombs in a room sealed by an Imp Statue", "Raises lightning attack (12%), but lowers damage negation (10%)"]
-      - id: "6_3"
-        icon: "/img/icons/talismans/18280.png"
-        data: ["Ritual Sword Talisman", "Found in a treasure chest in Lux Ruins", "Raises attack power by 10% when HP is at maximum"]
-      - id: "6_4"
-        icon: "/img/icons/talismans/18840.png"
-        data: ["Perfumer's Talisman", "Found in a treasure in Perfumer's Ruins", "Raises potency of perfume items"]
-      - id: "6_5"
-        icon: "/img/icons/talismans/18860.png"
-        data: ["Godfrey Icon", "Dropped by Godefroy the Grafted in the Golden Lineage Evergaol", "Enhances charged spells and skills by 15%."]
-      - id: "6_6"
-        icon: "/img/icons/talismans/18491.png"
-        data: ["Dragoncrest Shield Talisman +1", "Found in the Sainted Hero's Grave behind an Imp Statue", "Boosts physical damage negation by 13%."]
-      - id: "6_7"
-        icon: "/img/icons/talismans/18521.png"
-        data: ["Boltdrake Talisman +1", "Found in the Old Altus Tunnel", "Boosts lightning damage negation by 17%."]
-      - id: "6_8"
-        icon: "/img/icons/talismans/18590.png"
-        data: ["Greatshield Talisman", "Found in a chest on a Wagon East Erdtree-Gazing Hill Grace", "Boosts guarding ability. (Multiplies your Guard Boost rating by 1.1, reducing the amount of stamina that is lost when you block attacks.)"]
-      - id: "6_9"
-        icon: "/img/icons/talismans/18610.png"
-        data: ["Crimson Seed Talisman", "Found in the Sainted Hero's Grave", "Boosts HP regeneration from Flask of Crimson Tears by 20%"]
-      - id: "6_10"
-        icon: "/img/icons/talismans/18690.png"
-        data: ["Concealing Veil", "Dropped by the Black Knife Assassin in Sage's Cave", "Conceals wearer while crouching away from foes."]
-      - id: "6_11"
-        icon: "/img/icons/talismans/18750.png"
-        data: ["Sacrificial Twig", "Found inside a chest at an enemy camp north of Altus Highway Junction Grace", "Will be lost on death in place of runes"]
-      - id: "7_8"
-        icon: "/img/icons/talismans/18680.png"
-        data: ["Crepus's Vial", "Reward for defeating Rileigh the Idle as part of the Volcano Manor questline", "Eliminates all sound made by the wearer during movement"]
-  -
-    title: "Mt. Gelmir"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "7_1"
-        icon: "/img/icons/talismans/18001.png"
-        data: ["Crimson Amber Medallion +1", "Found on a corpse in Volcano Manor, behind a Imp Statue, accessible from the Prison Town Church Grace", "Raises maximum HP by 7%."]
-      - id: "7_2"
-        icon: "/img/icons/talismans/18250.png"
-        data: ["Fire Scorpion Charm", "Found up the ramparts on a wooden platform to the west in Fort Laiedd within Mt. Gelmir", "Raises fire attack (12%), but lowers damage negations (10%)."]
-      - id: "7_4"
-        icon: "/img/icons/talismans/18320.png"
-        data: ["Dagger Talisman", "Found behind an Imp Statue, in Volcano Manor in the room before Rykard's portal", "Enhances critical hits by 17%."]
-      - id: "7_5"
-        icon: "/img/icons/talismans/18400.png"
-        data: ["Kindred of Rot's Exultation", "Dropped by the Kindred of Rot in Seethewater Cave", "Poisoning or rot in vicinity increases attack power. (Increases attack power by 20% for 20 seconds when a player or enemy nearby is inflicted with Poison or Scarlet Rot.)"]
-      - id: "7_6"
-        icon: "/img/icons/talismans/18541.png"
-        data: ["Pearldrake Talisman +1", "Found in a treasure chest behind an Imp Statue in Wyndham Ruins", "Boosts non-physical damage negation by 7%."]
-      - id: "7_7"
-        icon: "/img/icons/talismans/18640.png"
-        data: ["Taker's Cameo", "Reward from Tanith at Volcano Manor for doing the third part of the questline", "Restores HP upon defeating enemies. (3% of max HP + 30 HP)"]
-      - id: "7_9"
-        icon: "/img/icons/talismans/18740.png"
-        data: ["Daedicar's Woe", "Obtained at the end of Rya's questline after the Volcano Manor questline", "Increases damage taken by 100%."]
-  -
-    title: "Leyndell, Royal City"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "8_1"
-        icon: "/img/icons/talismans/18021.png"
-        data: ["Viridian Amber Medallion +1", "Dropped by Margit, the Fell Omen in Capital Outskirts", "Raises maximum stamina by 13%."]
-      - id: "8_2"
-        icon: "/img/icons/talismans/18041.png"
-        data: ["Erdtree's Favor +1", "Found in the boss room after beating Mohg, the Omen", "Raises maximum HP (3.5%), stamina (8.25%) and equip load (6.5%)"]
-      - id: "8_3"
-        icon: "/img/icons/talismans/18511.png"
-        data: ["Flamedrake Talisman +1", "Found on the ground against a column on the bridge with the Fell Twins", "Boosts fire damage negation by 17%."]
-      - id: "8_4"
-        icon: "/img/icons/talismans/18531.png"
-        data: ["Haligdrake Talisman +1", "Found on a corpse near the Leyndell Catacombs Grace behind two illusory walls", "Boosts holy damage negation by 17%."]
-      - id: "8_5"
-        icon: "/img/icons/talismans/18550.png"
-        data: ["Crucible Scale Talisman", "Found on a corpse in the Leyndell Catacombs, accessible by riding up the trap column", "Reduces damage taken from critical hits"]
-      - id: "8_6"
-        icon: "/img/icons/talismans/18560.png"
-        data: ["Crucible Feather Talisman", "Found in a secret area within the Auriza Hero's Grave", "Improves dodge rolling but increases damage taken by 30%."]
-      - id: "8_7"
-        icon: "/img/icons/talismans/18580.png"
-        data: ["Ritual Shield Talisman", "Found in front of the doors of the Leyndell Colosseum", "Raises defense by 30% when HP is at maximum"]
-      - id: "8_8"
-        icon: "/img/icons/talismans/18630.png"
-        data: ["Blessed Dew Talisman", "Found in a treasure chest on the Divine Bridge, guarded by a Golem", "Slowly restores HP (2 HP/sec)."]
-  -
-    title: "Mountaintops of the Giants"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "9_1"
-        icon: "/img/icons/talismans/18011.png"
-        data: ["Cerulean Amber Medallion +1", "Found on a corpse hanging by a wooden ledge above the southern walls of Castle Sol", "Raises maximum FP by 9%."]
-      - id: "9_2"
-        icon: "/img/icons/talismans/18390.png"
-        data: ["Lord of Blood's Exultation", "Dropped by Esgar, Priest of Blood in Leyndell Catacombs", "Blood loss in vicinity increases attack power. (Increases attack power by 20% for 20 seconds when a nearby player or enemy is inflicted with blood loss.)"]
-      - id: "9_3"
-        icon: "/img/icons/talismans/18480.png"
-        data: ["Primal Glintstone Blade", "Found in a treasure chest in the underground area of the Stargazer Ruins", "Spells consume less FP (25%), but maximum HP is reduced (15%)."]
-      - id: "9_4"
-        icon: "/img/icons/talismans/18542.png"
-        data: ["Pearldrake Talisman +2", "Found on a corpse above the Haligtree Town Grace", "Boosts non-physical damage negation by 9%."]
-      - id: "9_5"
-        icon: "/img/icons/talismans/18650.png"
-        data: ["Godskin Swaddling Cloth", "Dropped by Godskin Apostle & Godskin Noble in the Spiritcaller's Cave", "Successive attacks restore HP (3% of max HP + 30 HP, timer resets at ~10 seconds)"]
-  -
-    title: "Consecrated Snowfield"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "10_1"
-        icon: "/img/icons/talismans/18022.png"
-        data: ["Viridian Amber Medallion +2", "Found in a treasure chest accessible from the roof with the Summoning Snail near the Haligtree Town Plaza Grace", "Raises maximum stamina by 15%."]
-      - id: "10_2"
-        icon: "/img/icons/talismans/18110.png"
-        data: ["Silver Scarab", "Found in a treasure chest past an illusory wall in the Hidden Path to the Haligtree", "Raises item discovery by 75."]
-      - id: "10_3"
-        icon: "/img/icons/talismans/18171.png"
-        data: ["Stalwart Horn Charm +1", "Found on the west of Consecrated Snowfield, on the way to Yelough Anix Tunnel entrance", "Greatly raises robustness by 140."]
-      - id: "10_4"
-        icon: "/img/icons/talismans/18061.png"
-        data: ["Marika's Soreseal", "Found on an altar in a room requiring a Stonesword Key in Elphael, Brace of the Haligtree", "Greatly raises magical attributes by 5, but also increases damage taken by 15%."]
-      - id: "10_5"
-        icon: "/img/icons/talismans/18890.png"
-        data: ["Millicent's Prosthesis", "Obtained by killing Millicent at the end of her questline", "Boosts dexterity by 5, raises attack power with successive attacks"]
-      - id: "10_6"
-        icon: "/img/icons/talismans/18311.png"
-        data: ["Rotten Winged Sword Insignia", "Reward for choosing to assist Millicent and successfully defeating her sisters", "Greatly raises attack power with successive attacks. (Base increase is 6%, increases in increments of 4%)"]
-      - id: "10_7"
-        icon: "/img/icons/talismans/18411.png"
-        data: ["Graven-Mass Talisman", "Found at the top of Albinauric Rise within the eastern Consecrated Snowfield", "Greatly raises potency of sorceries by 8%."]
-      - id: "10_8"
-        icon: "/img/icons/talismans/18493.png"
-        data: ["Dragoncrest Greatshield Talisman", "Found in a treasure chest on an elevated platform inside the large building in the northeast of Elphael, Brace of the Haligtree", "Enormously boosts physical damage negation by 20%."]
-      - id: "10_9"
-        icon: "/img/icons/talismans/18502.png"
-        data: ["Spelldrake Talisman +2", "Found on a corpse in the secret catacombs underneath the Hidden Path to the Haligtree, to the right before the Stray Mimic Tear", "Boosts magical damage negation. (PvE: 20%; PVP: 6%)"]
-  -
-    title: "Crumbling Farum Azula"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "11_1"
-        icon: "/img/icons/talismans/18870.png"
-        data: ["Warrior Jar Shard", "Obtained by completing Iron Fist Alexander's questline", "Boosts the attack power of skills by 10%."]
-      - id: "11_2"
-        icon: "/img/icons/talismans/18871.png"
-        data: ["Shard of Alexander", "Obtained by completing Iron Fist Alexander's questline", "Greatly boosts the attack power of skills by 15%."]
-      - id: "11_3"
-        icon: "/img/icons/talismans/18460.png"
-        data: ["Old Lord's Talisman", "Found in a treasure chest to the east of the Dragon Temple Rooftops Grace", "Extends spell (and incantation) effect duration by 30%."]
-      - id: "11_4"
-        icon: "/img/icons/talismans/18492.png"
-        data: ["Dragoncrest Shield Talisman +2", "Found on a corpse in a floating platform between Dragon Temple Lift and Dragon Temple Rooftop", "Boosts physical damage negation by 17%."]
-      - id: "11_5"
-        icon: "/img/icons/talismans/18522.png"
-        data: ["Boltdrake Talisman +2", "Found on a corpse accessible by dropping off a cliff to the east of where there is/was an Ancient Dragon", "Boosts lightning damage negation by 20%."]
-  -
-    title: "Leyndell, Capital of Ash"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "12_1"
-        icon: "/img/icons/talismans/18002.png"
-        data: ["Crimson Amber Medallion +2", "Found in Leyndell, Capital of Ash, just before entering the Subterranean Shunning-Grounds", "Raises max HP by 7.5%."]
-      - id: "12_2"
-        icon: "/img/icons/talismans/18042.png"
-        data: ["Erdtree's Favor +2", "Found on top of a branch jutting out of the ground in a large courtyard in the endgame", "Raises maximum HP (4%), stamina (9.6%) and equip load (8%)."]
-  -
-    title: "Siofra River"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "13_1"
-        icon: "/img/icons/talismans/18190.png"
-        data: ["Clarifying Horn Charm", "Found on a corpse lying on the stairs leading to the lift going up to the Deep Siofra Well.", "Raises Focus by 90."]
-      - id: "13_2"
-        icon: "/img/icons/talismans/18060.png"
-        data: ["Marika's Scarseal", "Found on a corpse at the base of the waterfall Found at the highest level of Siofra River", "Raises magical attributes by 3, but also increases damage taken by 10%."]
-  -
-    title: "Nokron, Eternal City"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "14_1"
-        icon: "/img/icons/talismans/18191.png"
-        data: ["Clarifying Horn Charm +1", "Found on a corpse in the middle and at the lowest floor of a ruin in Nokron, Eternal City", "Raises Focus by 140."]
-      - id: "14_2"
-        icon: "/img/icons/talismans/18210.png"
-        data: ["Mottled Necklace", "Found on a corpse at very edge of the ruined bridge leading to Nokron, Eternal City, accessible via waygate at The Four Belfries", "Raises Robustness, Immunity, and Focus by 40."]
-      - id: "14_3"
-        icon: "/img/icons/talismans/18211.png"
-        data: ["Mottled Necklace +1", "Found on a corpse on top of some ruined arches in Nokron, Eternal City", "Raises Robustness, Immunity, and Focus by 60."]
-  -
-    title: "Mohgwyn Palace"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "15_1"
-        icon: "/img/icons/talismans/18532.png"
-        data: ["Haligdrake Talisman +2", "Found on a corpse in Mohgwyn Palace, in a small cluster of graves near a watchful Giant Crow perched up high", "Boosts holy damage negation by 20%."]
-  -
-    title: "Ainsel River"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "16_1"
-        icon: "/img/icons/talismans/18180.png"
-        data: ["Immunizing Horn Charm", "Found on a corpse in an ant nest in Ainsel River", "Raises Immunity by 90."]
-  -
-    title: "Nokstella, Eternal City"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "17_1"
-        icon: "/img/icons/talismans/18150.png"
-        data: ["Moon of Nokstella", "Found in a chest underneath a massive throne in Nokstella, Eternal City", "Increases memory slots by 2."]
-  -
-    title: "Lake of Rot"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "18_1"
-        icon: "/img/icons/talismans/18181.png"
-        data: ["Immunizing Horn Charm +1", "Reward for defeating an Ancestral Follower South East of the Lake of Rot Shoreside Site of Grace ", "Raises Immunity by 140."]
-  -  
-    title: "Deeproot Depths"
-    table: ["Name", "Location", "Effect(s)"]
-    items:
-      - id: "19_1"
-        icon: "/img/icons/talismans/18201.png"
-        data: ["Prince of Death's Cyst", "Dropped by a large runebear in a cave behind a waterfall northeast of the Deeproot Depths Site of Grace", "Greatly raises vitality by 140."]
+- title: 宁姆格福
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '2_1'
+    icon: /img/icons/talismans/18000.png
+    data:
+    - <b>红琥珀链坠</b>
+    - 可以选一个作为遗物。
+    - 能提升血量的上限(~6%)
+  - id: '2_2'
+    icon: /img/icons/talismans/18810.png
+    data:
+    - <b>咆哮链坠</b>
+    - <b>[宁姆格福坑道]</b>的<b>[挖石山妖]</b>掉落
+    - 能强化咆哮与吐息
+  - id: '2_3'
+    icon: /img/icons/talismans/18510.png
+    data:
+    - <b>火龙徽护符</b>
+    - <b>[宁姆格福]</b>中的<b>[近林洞窟]</b>中的<b>[法姆·亚兹拉的兽人]</b>掉落
+    - 能提升火属性减伤率(13%)
+  - id: '2_4'
+    icon: /img/icons/talismans/18530.png
+    data:
+    - <b>圣龙徽护符</b>
+    - 在<b>[漂流墓地]</b>的一具尸体上发现，只能通过<b>赐福[傍海古遗迹]</b>下面的海滩进入
+    - 能提升圣属性减伤率(13%)
+  - id: '2_5'
+    icon: /img/icons/talismans/18370.png
+    data:
+    - <b>斧护符</b>
+    - 在<b>[雾林废墟]</b>下面的一个地窖中发现
+    - 能强化蓄力攻击(10%)
+  - id: '2_6'
+    icon: /img/icons/talismans/18200.png
+    data:
+    - <b>死王子的脓疮</b>
+    - 在<b>[史东薇尔城]</b>地下找到，可以通过<b>赐福[城墙塔]</b>到达
+    - 提升抗死度(90点)
+  - id: '2_7'
+    icon: /img/icons/talismans/18800.png
+    data:
+    - <b>钩爪护符</b>
+    - 在一个可以从<b>赐福[城墙塔]</b>进入的瞭望塔的尸体上发现
+    - 能强化跳跃攻击(15%)
+  - id: '2_8'
+    icon: /img/icons/talismans/18820.png
+    data:
+    - <b>曲剑护符</b>
+    - 在<b>[史东薇尔城]</b>与失乡骑士战斗的房间内的一个宝箱中
+    - 能强化防御反击(20%)
+  - id: '2_9'
+    icon: /img/icons/talismans/18520.png
+    data:
+    - <b>雷龙徽护符</b>
+    - 在前往<b>[宁姆格福神授塔]</b>路上的尸体上
+    - 提升雷属性减伤率(13%)
+  - id: '2_10'
+    icon: /img/icons/talismans/18160.png
+    data:
+    - <b>绿龟护符</b>
+    - 发现于<b>[水唤村]</b>外的地下区域
+    - 能提升精力的恢复速度(8点/秒, +17.7%)
+  - id: '2_11'
+    icon: /img/icons/talismans/18300.png
+    data:
+    - <b>大槌护符</b>
+    - 在<b>[风暴山丘的破屋]</b>东北的<b>[“叛律者”亨利克斯]</b>掉落
+    - 当敌人防御，攻击时能增加对方消耗的精力(20%)
+  - id: '2_12'
+    icon: /img/icons/talismans/18330.png
+    data:
+    - <b>远箭护符</b>
+    - 在<b>[风暴关卡]</b>塔内的宝箱中发现
+    - 能提升弓的射程距离
+  - id: '2_13'
+    icon: /img/icons/talismans/18350.png
+    data:
+    - <b>蓝色舞娘</b>
+    - <b>[大道下的洞窟]</b>中的<b>[魔像守卫]</b>掉落
+    - 装备重量越轻，攻击力会越高
+  - id: '2_14'
+    icon: /img/icons/talismans/18380.png
+    data:
+    - <b>骑枪护符</b>
+    - 发现于<b>[风暴山丘]</b>东北
+    - 提升骑马时的攻击力(15%)
+  - id: '2_15'
+    icon: /img/icons/talismans/18750.png
+    data:
+    - <b>牺牲细枝</b>
+    - 在<b>[蒙流洞窟]</b><b>[帕奇]</b>的商店里以5000卢恩购买
+    - 死亡时不会掉落卢恩，但护符会消失
+  - id: '2_16'
+    icon: /img/icons/talismans/18040.png
+    data:
+    - <b>黄金树的恩惠</b>
+    - 在<b>[边境英雄墓地]</b>，由两个<b>[“接肢”贵族后裔]</b>在一个秘密区域守卫着
+    - 能提升血量、精力、装备重量的上限(3%,6.75%,5%)
+  - id: '2_17'
+    icon: /img/icons/talismans/18570.png
+    data:
+    - <b>蓝羽七刃剑</b>
+    - <b>[习战者的破屋]</b>东的<b>[死之鸟]</b>掉落
+    - 血量偏低时，能提升防御力(生命值低于20%时激活，提高减伤率:当前减伤率/2+50)
+  - id: '2_18'
+    icon: /img/icons/talismans/18660.png
+    data:
+    - <b>染红凶刀</b>
+    - <b>[死亡降临的地下墓地]</b>中的<b>[黑刀刺客]</b>掉落
+    - 使出致命一击能恢复血量(治疗10%最大HP+85HP)
+  - id: '2_19'
+    icon: /img/icons/talismans/18260.png
+    data:
+    - <b>圣对蝎</b>
+    - <b>[“吞噬褪色者”安娜塔西亚]</b>掉落
+    - 能提升圣属性攻击力，但降低减伤率(圣属性攻击力在PvE和PvP中分别提高12%和8%; 物理伤害在PvE在PvP分别增加10%和15%)
+- title: 啜泣半岛
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '1_1'
+    icon: /img/icons/talismans/18000.png
+    data:
+    - <b>红琥珀链坠</b>
+    - 可以在<b>[啜泣半岛]</b>东边的<b>[流浪民族的商人]</b>以1500卢恩购买
+    - 能提升血量的上限(~6%)
+  - id: '1_2'
+    icon: /img/icons/talismans/18750.png
+    data:
+    - <b>牺牲细枝</b> (x3)
+    - 可以在<b>[啜泣半岛]</b>西边的<b>[隐居商人]</b>以3000卢恩购买
+    - 死亡时不会掉落卢恩，但护符会消失
+  - id: '1_3'
+    icon: /img/icons/talismans/18020.png
+    data:
+    - <b>绿琥珀链坠</b>
+    - 击败<b>[灵庙原野洞窟]</b>中的<b>[“病花”米兰达]</b>的奖励
+    - 能提升精力的上限(11%)
+  - id: '1_4'
+    icon: /img/icons/talismans/18750.png
+    data:
+    - <b>牺牲细枝</b>
+    - 在<b>[摩恩城]</b>第一次和<b>[城主艾德格]</b>交谈时给予
+    - 死亡时不会掉落卢恩，但护符会消失
+  - id: '1_5'
+    icon: /img/icons/talismans/18500.png
+    data:
+    - <b>魔力龙徽护符</b>
+    - 击败<b>[啜泣半岛]</b>的<b>[垂穴洞窟]</b>终点处<b>[卢恩熊]</b>的奖励
+    - 能提升魔力属性减伤率(PvE:13%;PVP:4%)
+  - id: '1_6'
+    icon: /img/icons/talismans/18050.png
+    data:
+    - <b>拉达冈的烙印</b>
+    - <b>[啜泣的封印监牢]</b>中的<b>[萨米尔的古英雄]</b>掉落
+    - 能提升能力值，但增加受到的损伤(3点属性，~5%额外伤害)
+  - id: '1_7'
+    icon: /img/icons/talismans/18360.png
+    data:
+    - <b>双头剑护符</b>
+    - 从<b>赐福[城堡后方]</b>往西走在塔顶发现
+    - 能强化连续攻击的最后一记攻击(20%)
+- title: 圆桌厅堂
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '3_1'
+    icon: /img/icons/talismans/18030.png
+    data:
+    - <b>众武护符</b>
+    - 打败<b>[史东薇尔城]</b>中的<b>[“接肢”葛瑞克]</b>后与<b>[战士涅斐丽·露]</b>交谈获得
+    - 能提升装备重量的上限(15%)
+  - id: '3_2'
+    icon: /img/icons/talismans/18760.png
+    data:
+    - <b>勾指伪装镜</b>
+    - 可以在<b>[圆桌厅堂]</b>用5000卢恩从<b>[孪生老妪]</b>购买
+    - 能变得像是勾指主人
+  - id: '3_3'
+    icon: /img/icons/talismans/18770.png
+    data:
+    - <b>主人伪装镜</b>
+    - 可以在<b>[圆桌厅堂]</b>用5000卢恩从<b>[孪生老妪]</b>购买
+    - 能变得像是协助者
+  - id: '3_4'
+    icon: /img/icons/talismans/18880.png
+    data:
+    - <b>祖灵角</b>
+    - 交换<b>[祖灵之王的追忆]</b>获得
+    - 打倒敌人时，能恢复专注值(每次击杀恢复3点FP)
+- title: 湖之利耶尼亚
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '4_1'
+    icon: /img/icons/talismans/18670.png
+    data:
+    - <b>染蓝凶刀</b>
+    - <b>[黑刀地下墓地]</b>中的<b>[黑刀刺客]</b>掉落
+    - 使出致命一击能恢复专注值(15点)
+  - id: '4_2'
+    icon: /img/icons/talismans/18750.png
+    data:
+    - <b>牺牲细枝</b>
+    - 在<b>[湖之利耶尼亚]</b>南部的一具尸体上发现，只能从<b>[小偷的封印监牢]</b>的顶部进入
+    - 死亡时不会掉落卢恩，但护符会消失
+  - id: '4_3'
+    icon: /img/icons/talismans/18410.png
+    data:
+    - <b>魔法师球护符</b>
+    - 在<b>[魔法学院雷亚卢卡利亚]</b>学院的一堵幻影墙和进入后的梯子后面，靠近<b>赐福[讨论室]</b>的一个房间里。
+    - 能提升魔法的威力(8%)
+  - id: '4_4'
+    icon: /img/icons/talismans/18470.png
+    data:
+    - <b>拉达冈的肖像</b>
+    - 在<b>[讨论室]</b>二楼发现，可以通过跳过庭院的栅栏到达
+    - 能缩短魔法、祷告的咏唱时间(在法术施法时给予30点虚拟敏捷(包括巫术和咒语)。施法速度上限为70敏捷)
+  - id: '4_5'
+    icon: /img/icons/talismans/18720.png
+    data:
+    - <b>长尾猫别针</b>
+    - 在学院纺车底部的一具尸体上发现
+    - 从高处落下时，能完全不受到损伤<br>但是无法避免过高落下时，造成的死亡
+  - id: '4_6'
+    icon: /img/icons/talismans/18010.png
+    data:
+    - <b>蓝琥珀链坠</b>
+    - <b>[湖旁结晶洞窟]</b>中的<b>[猎犬骑士]</b>掉落
+    - 能提升专注值的上限(7%)
+  - id: '4_7'
+    icon: /img/icons/talismans/18012.png
+    data:
+    - <b>蓝琥珀链坠＋２</b>
+    - 在<b>[月之贵族废墟]</b>西北的一个地下房间的宝箱中发现
+    - 能更大幅提升专注值的上限(11%)
+  - id: '4_8'
+    icon: /img/icons/talismans/18090.png
+    data:
+    - <b>观星少女的传说</b>
+    - 躺在<b>[利耶尼亚神授塔]</b>的一具尸体上发现
+    - 能提升智力(5点)
+  - id: '4_9'
+    icon: /img/icons/talismans/18100.png
+    data:
+    - <b>双指的传说</b>
+    - 在<b>[受净化的废墟]</b>的低处
+    - 能提升信仰(5点)
+  - id: '4_10'
+    icon: /img/icons/talismans/18310.png
+    data:
+    - <b>带翼剑徽章</b>
+    - <b>[留水洞窟]</b>中的<b>[玛莲妮亚的尊腐骑士]</b>掉落
+    - 攻击越是连续，越能提升攻击力
+  - id: '4_11'
+    icon: /img/icons/talismans/18170.png
+    data:
+    - <b>健壮角饰品</b>
+    - 在<b>[利耶尼亚]</b>东部的一具尸体上发现，<b>赐福[群集灵庙]</b>西边的悬崖上
+    - 能提升健壮度(+90)
+  - id: '4_12'
+    icon: /img/icons/talismans/18230.png
+    data:
+    - <b>魔力对蝎</b>
+    - 获得<b>[猎杀指头刀]</b>，但在给<b>[魔女菈妮]</b>之前和<b>[魔法教授赛尔维斯]</b>交谈获得
+    - 能提升魔力属性攻击力，但降低减伤率(+12%,-10%)
+  - id: '4_13'
+    icon: /img/icons/talismans/18270.png
+    data:
+    - <b>红羽七刃剑</b>
+    - <b>赐福[远眺岛]</b>东北方向<b>[死之鸟]</b>掉落
+    - 血量偏低(低于20%)时，能提升攻击力(20%)
+  - id: '4_14'
+    icon: /img/icons/talismans/18290.png
+    data:
+    - <b>矛护符</b>
+    - 在<b>[湖旁结晶洞窟]</b>亚人营火附近的宝箱中发现
+    - 能强化突刺攻击特有的反击攻击(13%)
+  - id: '4_15'
+    icon: /img/icons/talismans/18540.png
+    data:
+    - <b>珍珠龙徽护符</b>
+    - 在<b>[四钟楼]</b>的第一个传送门后发现
+    - 能提升物理以外的减伤率(5%)
+  - id: '4_16'
+    icon: /img/icons/talismans/18620.png
+    data:
+    - <b>蓝种子护符</b>
+    - 在<b>[卡利亚书斋]</b>的屋梁上发现，可从屋顶进入
+    - 能提升蓝露滴圣杯瓶的恢复量(20%)
+  - id: '4_17'
+    icon: /img/icons/talismans/18600.png
+    data:
+    - <b>熔炉瘤护符</b>
+    - <b>[白金村]</b>的<b>[恶兆猎人]</b>掉落
+    - 能减少头部射击造成的损伤与冲击
+  - id: '4_18'
+    icon: /img/icons/talismans/18700.png
+    data:
+    - <b>卡利亚徽章</b>
+    - 如果你在没有<b>[“半狼”布莱泽]</b>帮助的情况下击败<b>[“猎犬骑士”达瑞威尔]</b>，可以从<b>[军师伊吉]</b>购买，价值1000卢恩
+    - 能减少使用战技消耗的专注值(25%)
+  - id: '4_19'
+    icon: /img/icons/talismans/18730.png
+    data:
+    - <b>夏玻利利之祸</b>
+    - <b>[癫火村]</b>的一具尸体
+    - 将变得容易受敌人攻击
+  - id: '4_20'
+    icon: /img/icons/talismans/18830.png
+    data:
+    - <b>友好壶</b>
+    - 完成任务后从<b>[小壶]</b>处获得
+    - 能提升投掷壶类道具的威力(20%)
+- title: 盖利德
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '5_1'
+    icon: /img/icons/talismans/18340.png
+    data:
+    - <b>硬箭护符</b>
+    - 在<b>赐福[不破大桥]</b>塔顶的宝箱中
+    - 能提升射出箭、弩箭时的攻击力(10%)。
+  - id: '5_2'
+    icon: /img/icons/talismans/18120.png
+    data:
+    - <b>金色粪金龟</b>
+    - <b>[废弃洞窟]</b>中的<b>[玛莲妮亚的尊腐骑士（镰刀）]</b>和<b>[玛莲妮亚的尊腐骑士（矛）]</b>掉落
+    - 打倒敌人时，能增加获得的卢恩(~20%)
+  - id: '5_3'
+    icon: /img/icons/talismans/18032.png
+    data:
+    - <b>大壶众武护符</b>
+    - 在<b>[盖利德]</b>斗兽场附近击败大壶的奖励
+    - 能更大幅提升装备重量的上限(基于耐力的16-19%)
+  - id: '5_4'
+    icon: /img/icons/talismans/18080.png
+    data:
+    - <b>义手剑士的传说</b>
+    - 在<b>[盖利德]</b>中完成<b>[贤者格威]</b>的支线任务，然后返回<b>[米莉森]</b>处获得护符
+    - 能提升灵巧(5点)
+  - id: '5_5'
+    icon: /img/icons/talismans/18051.png
+    data:
+    - <b>拉达冈的糜烂烙印</b>
+    - 在<b>[法洛斯要塞]</b>一具尸体上
+    - 能大幅提升能力值，但大幅增加受到的损伤(5点属性，伤害提高~15%)
+  - id: '5_6'
+    icon: /img/icons/talismans/18750.png
+    data:
+    - <b>牺牲细枝</b> (x3)
+    - 可以从<b>[桂奥尔龙墓]</b>的<b>[隐居商人]</b>处以3000卢恩购买
+    - 死亡时不会掉落卢恩，但护符会消失
+  - id: '5_7'
+    icon: /img/icons/talismans/18512.png
+    data:
+    - <b>火龙徽护符＋２</b>
+    - <b>[龙墓洞窟]</b>中的<b>[法姆·亚兹拉的兽人]</b>(x2)掉落
+    - 能更大幅提升火属性减伤率(20%)
+  - id: '5_8'
+    icon: /img/icons/talismans/18220.png
+    data:
+    - <b>大山羊护符</b>
+    - 在<b>[龙墓洞窟]</b>找到
+    - 能提升强韧度(提升~33.3%四舍五入到最接近的整数)
+  - id: '5_9'
+    icon: /img/icons/talismans/18070.png
+    data:
+    - <b>碎星的传说</b>
+    - 在<b>[盖尔要塞]</b>
+    - 能提升力气(5点)
+  - id: '5_10'
+    icon: /img/icons/talismans/18440.png
+    data:
+    - <b>信徒的立誓布</b>
+    - 在<b>[瑟利亚结晶坑道]</b>的尸体上
+    - 能提升祷告的威力(4%)
+  - id: '5_11'
+    icon: /img/icons/talismans/18450.png
+    data:
+    - <b>群聚信徒的立誓布</b>
+    - 在完成<b>[米莉森]</b>任务线完成后杀死<b>[贤者格威]</b>掉落
+    - 能大幅提升祷告的威力(8%)
+  - id: '5_12'
+    icon: /img/icons/talismans/18501.png
+    data:
+    - <b>魔力龙徽护符＋１</b>
+    - 在城镇西北的一个小房间里，就在阳台下面，里面有<b>[丧失杖]</b>
+    - 能大幅提升魔力属性减伤率。(PvE:17%; PvP:5%)
+  - id: '5_13'
+    icon: /img/icons/talismans/18490.png
+    data:
+    - <b>龙徽盾护符</b>
+    - 在<b>[野兽神殿]</b>的边缘发现
+    - 能提升物理减伤率(10%)
+- title: 亚坛高原
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '6_1'
+    icon: /img/icons/talismans/18031.png
+    data:
+    - <b>众武护符＋１</b>
+    - 在<b>[亚坛坑道]</b>一具尸体上发现
+    - 能大幅提升装备重量的上限(17%)
+  - id: '6_2'
+    icon: /img/icons/talismans/18240.png
+    data:
+    - <b>雷对蝎</b>
+    - 在<b>[威达姆地下墓地]</b>一个被小恶魔像封印的房间里发现
+    - 能提升雷属性攻击力，但降低减伤率(+12%,-10%)
+  - id: '6_3'
+    icon: /img/icons/talismans/18280.png
+    data:
+    - <b>献斗剑护符</b>
+    - 在<b>[卢克斯废墟]</b>的宝箱中
+    - 血量全满时，能提升攻击力(10%)
+  - id: '6_4'
+    icon: /img/icons/talismans/18840.png
+    data:
+    - <b>调香师护符</b>
+    - 在<b>[调香师的废墟]</b>的一个宝箱中
+    - 能提升调香类道具的威力
+  - id: '6_5'
+    icon: /img/icons/talismans/18860.png
+    data:
+    - <b>葛孚雷的肖像</b>
+    - <b>[黄金一族的封印监牢]</b>中的<b>[“接肢”葛孚亚]</b>掉落
+    - 能强化魔法、祷告、战技的蓄力使用(15%)
+  - id: '6_6'
+    icon: /img/icons/talismans/18491.png
+    data:
+    - <b>龙徽盾护符＋１</b>
+    - 在<b>[尊贵者的英雄墓地]</b>的小恶魔像后面发现
+    - 能大幅提升物理减伤率(13%)
+  - id: '6_7'
+    icon: /img/icons/talismans/18521.png
+    data:
+    - <b>雷龙徽护符＋１</b>
+    - 在<b>[旧亚坛坑道]</b>中找到
+    - 能大幅提升雷属性减伤率(17%)
+  - id: '6_8'
+    icon: /img/icons/talismans/18590.png
+    data:
+    - <b>大盾护符</b>
+    - 在<b>赐福[近黄金树的山丘]</b>东方马车上的一个箱子里
+    - 能提升防御强度(使你的防御强化等级提高1.1，减少你格挡攻击时损失的耐力)
+  - id: '6_9'
+    icon: /img/icons/talismans/18610.png
+    data:
+    - <b>红种子护符</b>
+    - 在<b>[尊贵者的英雄墓地]</b>中找到
+    - 能提升红露滴圣杯瓶的恢复量(20%)
+  - id: '6_10'
+    icon: /img/icons/talismans/18690.png
+    data:
+    - <b>隐身面纱</b>
+    - <b>[贤者的洞窟]</b>中的<b>[黑刀刺客]</b>掉落
+    - 远离敌人后，蹲下能隐藏自己的身影
+  - id: '6_11'
+    icon: /img/icons/talismans/18750.png
+    data:
+    - <b>牺牲细枝</b>
+    - 在<b>赐福[亚坛大道的三叉口]</b>北部敌军营地的一个宝箱里
+    - 死亡时不会掉落卢恩，但护符会消失
+  - id: '7_8'
+    icon: /img/icons/talismans/18680.png
+    data:
+    - <b>克雷普的小瓶子</b>
+    - 作为<b>[火山官邸]</b>任务线的一部分，击败<b>[“黄昏将尽”莱利]</b>的奖励
+    - 能完全去除自己发出的声响
+- title: 格密尔火山
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '7_1'
+    icon: /img/icons/talismans/18001.png
+    data:
+    - <b>红琥珀链坠＋１</b>
+    - 在<b>[火山官邸]</b>在一个小恶魔像后面的一具尸体上发现，可以从<b>赐福[牢镇教堂]</b>到达
+    - 能大幅提升血量的上限(7%)
+  - id: '7_2'
+    icon: /img/icons/talismans/18250.png
+    data:
+    - <b>火对蝎</b>
+    - 在<b>[格密尔火山]</b>内的<b>[莱多要塞]</b>向西的城墙上一个木制平台上
+    - 能提升火属性攻击力，但降低减伤率(+12%,-10%)
+  - id: '7_4'
+    icon: /img/icons/talismans/18320.png
+    data:
+    - <b>短剑护符</b>
+    - 在<b>[火山官邸]</b><b>[“亵渎君王”拉卡德]</b>传送门前的房间里一个小恶魔像后面
+    - 能强化致命一击(17%)
+  - id: '7_5'
+    icon: /img/icons/talismans/18400.png
+    data:
+    - <b>腐败眷属的欢愉</b>
+    - <b>[沸滚河洞窟]</b>中的<b>[腐败眷属]</b>掉落
+    - 当周围人物陷入中毒、腐败时，能提升攻击力(当附近的玩家或敌人受到毒或猩红腐的伤害时，攻击强度提高20%，持续20秒)
+  - id: '7_6'
+    icon: /img/icons/talismans/18541.png
+    data:
+    - <b>珍珠龙徽护符＋１</b>
+    - 在<b>[威达姆废墟]</b>一个小恶魔像后面的宝箱中
+    - 能大幅提升物理以外的减伤率(7%)
+  - id: '7_7'
+    icon: /img/icons/talismans/18640.png
+    data:
+    - <b>掠夺浮雕坠饰</b>
+    - 在<b>[火山官邸]</b>完成<b>[“火山官邸之主”塔妮丝]</b>任务线第三部分的奖励
+    - 打倒敌人时，能恢复血量(3%最大HP+30HP)
+  - id: '7_9'
+    icon: /img/icons/talismans/18740.png
+    data:
+    - <b>狄蒂卡之祸</b>
+    - 在<b>[火山官邸]</b>任务线之后的<b>[“招募者”菈雅]</b>任务线的末尾获得
+    - 将增加受到的损伤(100%)
+- title: 王城罗德尔
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '8_1'
+    icon: /img/icons/talismans/18021.png
+    data:
+    - <b>绿琥珀链坠＋１</b>
+    - <b>[王城外围]</b>中的<b>[“恶兆妖鬼”玛尔基特]</b>掉落
+    - 能大幅提升精力的上限(13%)
+  - id: '8_2'
+    icon: /img/icons/talismans/18041.png
+    data:
+    - <b>黄金树的恩惠＋１</b>
+    - 打<b>[“恶兆之子”蒙格]</b>后在Boss房间内发现
+    - 能提升血量、精力、装备重量的上限(3.5%,8.25%,6.5%)
+  - id: '8_3'
+    icon: /img/icons/talismans/18511.png
+    data:
+    - <b>火龙徽护符＋１</b>
+    - 在桥上<b>[恶兆孪生子]</b>位置的一根柱子旁
+    - 能大幅提升火属性减伤率(17%)
+  - id: '8_4'
+    icon: /img/icons/talismans/18531.png
+    data:
+    - <b>圣龙徽护符＋１</b>
+    - 在<b>赐福[罗德尔地下墓地]</b>两堵幻影墙后附近的尸体上
+    - 能大幅提升圣属性减伤率(17%)
+  - id: '8_5'
+    icon: /img/icons/talismans/18550.png
+    data:
+    - <b>熔炉鳞护符</b>
+    - 在<b>[罗德尔地下墓地]</b>一具尸体上
+    - 能减少致命一击造成的损伤
+  - id: '8_6'
+    icon: /img/icons/talismans/18560.png
+    data:
+    - <b>熔炉羽护符</b>
+    - 在<b>[亚雷萨英雄墓地]</b>内的一个秘密区域发现
+    - 能强化翻滚的闪避能力，但增加受到的损伤(30%)
+  - id: '8_7'
+    icon: /img/icons/talismans/18580.png
+    data:
+    - <b>献斗盾护符</b>
+    - 在<b>[王城罗德尔]</b>竞技场门前发现
+    - 血量全满时，能提升防御力(30%)
+  - id: '8_8'
+    icon: /img/icons/talismans/18630.png
+    data:
+    - <b>恩惠露滴护符</b>
+    - 在<b>[神授桥]</b>上的一个宝箱中发现，由一个魔像守卫
+    - 能缓慢恢复血量(2点/秒)。
+- title: 巨人山顶
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '9_1'
+    icon: /img/icons/talismans/18011.png
+    data:
+    - <b>蓝琥珀链坠＋１</b>
+    - 在<b>[索尔城]</b>南墙上方的木制壁架的尸体上。
+    - 能大幅提升专注值的上限(9%)
+  - id: '9_2'
+    icon: /img/icons/talismans/18390.png
+    data:
+    - <b>鲜血君王的欢愉</b>
+    - <b>[罗德尔地下墓地]</b>中的<b>[“鲜血祭司”艾斯加]</b>掉落
+    - 当周围人物陷入异常状态出血时，能提升攻击力(当附近的玩家或敌人遭受血量损失时，攻击强度提高20%，持续20秒)
+  - id: '9_3'
+    icon: /img/icons/talismans/18480.png
+    data:
+    - <b>源辉石刀</b>
+    - 在<b>[观星废墟]</b>地下的一个宝箱中
+    - 能减少魔法、祷告消耗的专注值，但减少血量上限(25%,15%)。
+  - id: '9_4'
+    icon: /img/icons/talismans/18542.png
+    data:
+    - <b>珍珠龙徽护符＋２</b>
+    - 在<b>赐福[圣树镇]</b>上方的尸体上发现
+    - 能更大幅提升物理以外的减伤率(9%)
+  - id: '9_5'
+    icon: /img/icons/talismans/18650.png
+    data:
+    - <b>神皮襁褓</b>
+    - 在<b>[唤灵洞窟]</b>中由<b>[神皮使徒]</b>和<b>[神皮贵族]</b>掉落
+    - 连续攻击时，能恢复血量(3%最大HP+30HP，~10秒重置计时)
+- title: 化圣雪原
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '10_1'
+    icon: /img/icons/talismans/18022.png
+    data:
+    - <b>绿琥珀链坠＋２</b>
+    - 在靠近<b>赐福[圣树镇（广场）]</b>的从召唤蜗牛所在的屋顶到达房间的宝箱中
+    - 能更大幅提升精力的上限(15%)
+  - id: '10_2'
+    icon: /img/icons/talismans/18110.png
+    data:
+    - <b>银色粪金龟</b>
+    - <b>[通往圣树的密道]</b>一个幻影墙后的宝箱里
+    - 能提升观察力(75)
+  - id: '10_3'
+    icon: /img/icons/talismans/18171.png
+    data:
+    - <b>健壮角饰品＋１</b>
+    - 在<b>[化圣雪原]</b>的西边通往<b>[耶罗·亚尼斯坑道]</b>入口的路上
+    - 能大幅提升健壮度(140)
+  - id: '10_4'
+    icon: /img/icons/talismans/18061.png
+    data:
+    - <b>玛莉卡的糜烂烙印</b>
+    - 在<b>[“圣树分枝”艾布雷菲尔]</b>一个需要<b>[石剑钥匙]</b>解锁的房间祭坛上
+    - 能大幅提升能力值，但大幅增加受到的损伤(+5点，伤害提高15%)
+  - id: '10_5'
+    icon: /img/icons/talismans/18890.png
+    data:
+    - <b>米莉森的义手</b>
+    - 在任务线最后杀死<b>[米莉森]</b>获得
+    - 能提升灵巧、攻击越是连续，越能提升攻击力(灵巧+5点)
+  - id: '10_6'
+    icon: /img/icons/talismans/18311.png
+    data:
+    - <b>腐败翼剑徽章</b>
+    - 选择协助<b>[米莉森]</b>并成功击败她的姐妹的奖励
+    - 攻击越是连续，越能大幅提升攻击力(基础攻击力+6%，连续攻击+4%)
+  - id: '10_7'
+    icon: /img/icons/talismans/18411.png
+    data:
+    - <b>魔法师块护符</b>
+    - 在<b>[化圣雪原]</b>东部<b>[白金魔法师塔]</b>顶部
+    - 能大幅提升魔法的威力(8%)
+  - id: '10_8'
+    icon: /img/icons/talismans/18493.png
+    data:
+    - <b>龙徽大盾护符</b>
+    - 在<b>[“圣树分枝”艾布雷菲尔]</b>东北大建筑内的高平台上的一个宝箱中
+    - 能极大幅提升物理减伤率(20%)
+  - id: '10_9'
+    icon: /img/icons/talismans/18502.png
+    data:
+    - <b>魔力龙徽护符＋２</b>
+    - 在<b>[通往圣树的密道]</b>下面的秘密地下墓穴的尸体上，<b>[离群仿身泪滴]</b>前的右边
+    - 能更大幅提升魔力属性减伤率(PvE:20%; PvP:6%)
+- title: 逐渐崩毁的法姆·亚兹拉
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '11_1'
+    icon: /img/icons/talismans/18870.png
+    data:
+    - <b>战士壶碎片</b>
+    - 完成<b>[“战士壶”亚历山大]</b>的任务线获得
+    - 能提升战技的攻击力(10%)
+  - id: '11_2'
+    icon: /img/icons/talismans/18871.png
+    data:
+    - <b>亚历山大的碎片</b>
+    - 完成<b>[“战士壶”亚历山大]</b>的任务线获得
+    - 能大幅提升战技的攻击力(15%)
+  - id: '11_3'
+    icon: /img/icons/talismans/18460.png
+    data:
+    - <b>古王护符</b>
+    - 在<b>赐福[龙教堂（屋顶）]</b>东的一个宝箱中
+    - 能延长魔法、祷告的有效时间(30%)
+  - id: '11_4'
+    icon: /img/icons/talismans/18492.png
+    data:
+    - <b>龙徽盾护符＋２</b>
+    - 在<b>[龙教堂（升降机前）]</b>和<b>[龙教堂（屋顶）]</b>之间漂浮平台上的尸体上
+    - 能更大幅提升物理减伤率(17%)
+  - id: '11_5'
+    icon: /img/icons/talismans/18522.png
+    data:
+    - <b>雷龙徽护符＋２</b>
+    - 在一具尸体上，从东边的一个悬崖上掉下来发现，那里有一条古龙
+    - 能更大幅提升雷属性减伤率(20%)
+- title: “灰烬王城”罗德尔
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '12_1'
+    icon: /img/icons/talismans/18002.png
+    data:
+    - <b>红琥珀链坠＋２</b>
+    - 在<b>[“灰烬王城”罗德尔]</b>中在进入<b>[弃置恶兆的地底]</b>前的位置
+    - 能更大幅提升血量的上限(7.5%)
+  - id: '12_2'
+    icon: /img/icons/talismans/18042.png
+    data:
+    - <b>黄金树的恩惠＋２</b>
+    - 在一个大院子里的一根树枝上发现的(需要从<b>[禁域]</b>往回走)
+    - 能提升血量、精力、装备重量的上限(4%,9.6%,8%)
+- title: 希芙拉河
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '13_1'
+    icon: /img/icons/talismans/18190.png
+    data:
+    - <b>理智角饰品</b>
+    - 在<b>[希芙拉河的出口井]</b>通往电梯楼梯上的尸体上
+    - 能提升理智度(90)
+  - id: '13_2'
+    icon: /img/icons/talismans/18060.png
+    data:
+    - <b>玛莉卡的烙印</b>
+    - 在瀑布底部的一具尸体上
+    - 能提升能力值，但增加受到的损伤(+3点,伤害提高10%)
+- title: “永恒之城”诺克隆恩
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '14_1'
+    icon: /img/icons/talismans/18191.png
+    data:
+    - <b>理智角饰品＋１</b>
+    - 在<b>[“永恒之城”诺克隆恩]</b>中途废墟最底层的一具尸体上
+    - 能大幅提升理智度(140)
+  - id: '14_2'
+    icon: /img/icons/talismans/18210.png
+    data:
+    - <b>斑斓项链</b>
+    - 在通向<b>[“永恒之城”诺克隆恩]</b>的断桥边缘的一具尸体上，可通过<b>[四钟楼]</b>的通道进入
+    - 能提升免疫力、健壮度、理智度(40点)
+  - id: '14_3'
+    icon: /img/icons/talismans/18211.png
+    data:
+    - <b>斑斓项链＋１</b>
+    - 在<b>[“永恒之城”诺克隆恩]</b>废墟拱门顶部的尸体上
+    - 能大幅提升免疫力、健壮度、理智度(60点)
+- title: 蒙格温王朝
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '15_1'
+    icon: /img/icons/talismans/18532.png
+    data:
+    - <b>圣龙徽护符＋２</b>
+    - 在<b>[蒙格温王朝]</b>的一具尸体上，在一个小坟堆里，旁边有一只警戒的大乌鸦栖息于高处
+    - 能更大幅提升圣属性减伤率(20%)
+- title: 安瑟尔河
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '16_1'
+    icon: /img/icons/talismans/18180.png
+    data:
+    - <b>免疫角饰品</b>
+    - 在<b>[安瑟尔河]</b>蚁巢的尸体上
+    - 能提升免疫力(90点)
+- title: “永恒之城”诺克史黛拉
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '17_1'
+    icon: /img/icons/talismans/18150.png
+    data:
+    - <b>诺克史黛拉之月</b>
+    - 在<b>[“永恒之城”诺克史黛拉]</b>一个巨大王座下的一个宝箱中
+    - 能增加记忆空格(2格)
+- title: 腐败湖
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '18_1'
+    icon: /img/icons/talismans/18181.png
+    data:
+    - <b>免疫角饰品＋１</b>
+    - <b>赐福[腐败湖畔]</b>击败东南的祖灵之民的奖励
+    - 能大幅提升免疫力(140)
+- title: 深根底层
+  table:
+  - 名称
+  - 位置
+  - 效果
+  items:
+  - id: '19_1'
+    icon: /img/icons/talismans/18201.png
+    data:
+    - <b>死王子的恶性脓疮</b>
+    - 在<b>赐福[深根底层]</b>东北的一个瀑布后面的洞穴里一只巨大<b>[卢恩熊]</b>掉落
+    - 能大幅提升抗死度(140)

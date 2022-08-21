@@ -1,198 +1,315 @@
-title: "Pots & Bottles"
+title: 壶&调香瓶
 id: pots_bottles
-icon: "/img/icons/keys/edited/00504.png"
+icon: /img/icons/keys/edited/00504.png
 sections:
-  -
-    title: "Cracked Pots"
-    icon: "/img/icons/keys/edited/00504.png"
-    map_icon: "/map/icons/shadows/keys/00504.png"
-    items:
-      - "Limgrave"
-      - id: "1_1"
-        data: ["Church of Elleh, North-West of game's start: sold by Kalé for 300 runes"]
-        cords: [3667, 7210]
-        map_title: "Cracked Pot x3"
-      - id: "1_2"
-        data: ["Church of Elleh, North-West of game's start: sold by Kalé for 300 runes"]
-        map_link: [3667, 7210]
-        map_title: "Cracked Pot"
-      - id: "1_3"
-        data: ["Church of Elleh, North-West of game's start: sold by Kalé for 300 runes"]
-        map_link: [3667, 7210]
-        map_title: "Cracked Pot"
-      - id: "1_5"
-        data: ["Groveside Cave, in cliffs North of Church of Elleh: near the entrance, on a body near wolves"]
-        cords: [3649, 7067]
-        map_title: "Cracked Pot"
-      - id: "1_4"
-        data: ["East of Saintsbridge Grace in the North: Sold by Nomadic Merchant for 600 runes"]
-        cords: [4114, 6553]
-        map_title: "Cracked Pot"
-      - "Weeping Peninsula"
-      - id: "1_6"
-        data: ["Castle Morne Rampart Grace: Sold by Nomadic Merchant for 600 runes"]
-        cords: [4310, 8172]
-        map_title: "Cracked Pot"
-      - "Stormveil Castle"
-      - id: "1_7"
-        data: ["On the path between Liftside Chamber Grace and Secluded Cell Grace. Amongst the Living Pots"]
-        cords: [3066, 6551]
-        map_title: "Cracked Pot"
-      - id: "1_8"
-        data: ["On the path between Liftside Chamber Grace and Secluded Cell Grace. Amongst the Living Pots"]
-        cords: [3065, 6537]
-        map_title: "Cracked Pot"
-      - "Liurnia of the Lakes"
-      - id: "1_9"
-        data: ["Jarburg, located in the East, down the cliffs just South of Carian Study Hall. Found by a large headstone on the southern end of town"]
-        cords: [3008, 5286]
-        map_title: "Cracked Pot"
-      - id: "1_10"
-        data: ["Jarburg, located in the East, down the cliffs just South of Carian Study Hall. Found on the doorstep of a building's blocked entrance on the northern end of town, directly beneath a Ritual Pot on the roof"]
-        cords: [2961, 5245]
-        map_title: "Cracked Pot"
-      - id: "1_11"
-        data: ["Jarburg, located in the East, down the cliffs just South of Carian Study Hall. Found in a hut just northeast of the previous"]
-        cords: [2996, 5219]
-        map_title: "Cracked Pot"
-      - id: "1_13"
-        data: ["Caria Manor, located in the North-West: Left of the entrance to the boss, find a small archway in the wall to walk through, then drop down to ground level; as soon as you do, without dropping further, follow the wall to the left and find it on the cliff edge"]
-        cords: [1926, 3685]
-        map_title: "Cracked Pot"
-      - "Academy of Raya Lucaria"
-      - id: "1_12"
-        data: ["From Debate Parlor Grace, go outside then up the stairs to the left. On a body amongst Living Pots"]
-        cords: [1963, 5007]
-        map_title: "Cracked Pot"
-      - "Caelid"
-      - id: "1_15"
-        data: ["Behind the Minor Erdtree in the North-West, on a tree branch extending from the northwest cliffs"]
-        cords: [4898, 6089]
-        map_title: "Cracked Pot"
-      - id: "1_14"
-        data: ["South-West of Southern Aeonia Swamp Bank Grace, South of the rot swamp. Sold by Nomadic Merchant for 1500 runes (NOTE: choosing Cracked Pots as a Keepsake gives you this pot early)"]
-        cords: [5439, 7052]
-        map_title: "Cracked Pot"
-      - "Capital Outskirts"
-      - id: "1_16"
-        data: ["Auriza Side Tomb, just North-East of Leyndell: In the gated-off watery rooms at the bottom (NOTE: choosing Cracked Pots as a Keepsake gives you this pot early)"]
-        cords: [4597, 3173]
-        map_title: "Cracked Pot x4"
-      - id: "1_17"
-        data: ["Auriza Side Tomb, just North-East of Leyndell: In the gated-off watery rooms at the bottom (NOTE: choosing Cracked Pots as a Keepsake gives you this pot early)"]
-        map_link: [4597, 3173]
-        map_title: "Cracked Pot"
-      - id: "1_18"
-        data: ["Auriza Side Tomb, just North-East of Leyndell: In the gated-off watery rooms at the bottom"]
-        map_link: [4597, 3173]
-        map_title: "Cracked Pot"
-      - id: "1_19"
-        data: ["Auriza Side Tomb, just North-East of Leyndell: In the gated-off watery rooms at the bottom"]
-        map_link: [4597, 3173]
-        map_title: "Cracked Pot"
-      - "Leyndell, Royal Capital"
-      - id: "1_20"
-        data: ["Northwest of the Avenue Balcony Site of Grace and one level below, through a couple doors, on a corpse"]
-        cords: [4292, 3480]
-        map_title: "Cracked Pot"
-  -
-    title: "Ritual Pots"
-    icon: "/img/icons/keys/edited/03010.png"
-    map_icon: "/map/icons/shadows/keys/03010.png"
-    items:
-      - "Liurnia of the Lakes"
-      - id: "2_1"
-        data: ["Laskyar Ruins, North-West of Liurnia Lake Shore Grace: near columns on the northern side"]
-        cords: [2547, 5851]
-        map_title: "Ritual Pot"
-      - id: "2_2"
-        data: ["Jarburg, located in the East, down the cliffs just South of Carian Study Hall. Found on a rooftop; jump onto it from above near Jar-Bairn's perch."]
-        cords: [2971, 5235]
-        map_title: "Ritual Pot"
-      - id: "2_3"
-        data: ["Jarburg, located in the East, down the cliffs just South of Carian Study Hall. South of the previous, on a large decorative jar"]
-        cords: [2973, 5264]
-        map_title: "Ritual Pot"
-      - id: "2_5"
-        data: ["After Caria Manor, go West of the Manor then head South. Along the cliffs on the East side, you can jump down, back into Caria manor. Sold by Pidia for 1500 runes"]
-        cords: [1822, 3733]
-        map_title: "Ritual Pot"
-      - "Academy of Raya Lucaria"
-      - id: "2_4"
-        data: ["Near the Schoolhouse Classroom Site of Grace, in a chest guarded by mages and a giant Living Jar"]
-        cords: [1900, 5036]
-        map_title: "Ritual Pot"
-      - "Caelid"
-      - id: "2_6"
-        data: ["Isolated Merchant's Shack in the North. Sold by the Isolated Merchant for 3000 runes"]
-        cords: [5144, 6094]
-        map_title: "Ritual Pot"
-      - "Capital Outskirts"
-      - id: "2_7"
-        data: ["Auriza Side Tomb, just North-East of Leyndell: In a room with a giant Living Jar"]
-        cords: [4606, 3184]
-        map_title: "Ritual Pot x2"
-      - id: "2_8"
-        data: ["Auriza Side Tomb, just North-East of Leyndell: In a room with a giant Living Jar"]
-        map_link: [4606, 3184]
-        map_title: "Ritual Pot"
-      - "Leyndell, Royal Capital"
-      - id: "2_9"
-        data: ["In the Sewers at the end of the maze of tunnels, just before the elevator to the Forsaken Depths Grace."]
-        cords: [4422, 3483]
-        map_title: "Ritual Pot"
-      - "Mountaintops of the Giants"
-      - id: "2_10"
-        data: ["Giants' Mountaintop Catacombs. Follow the path North from Zamor Ruins and when you reach the fire enemies, turn around to the right to enter. In a room with a giant Living Jar."]
-        cords: [5798, 2822]
-        map_title: "Ritual Pot"
-  -
-    title: "Perfume Bottles"
-    icon: "/img/icons/keys/edited/00443.png"
-    map_icon: "/map/icons/shadows/keys/00443.png"
-    items:
-      - "Caelid"
-      - id: "3_1"
-        data: ["Street of Sages Ruins in the North-West part of the rot swamp: in the corner of a ruined building guarded by Miranda Sprouts and a Servant of Rot"]
-        cords: [5284, 6689]
-        map_title: "Perfume Bottle"
-      - "Altus Plateau"
-      - id: "3_2"
-        data: ["Found North of the Altus Highway Junction Site of Grace, on a body in the small camp near the Erdtree sapling"]
-        cords: [3010, 3347]
-        map_title: "Perfume Bottle"
-      - id: "3_5"
-        data: ["Perfumer's Grotto, East of the Altus Highway Junction: in a chest near the second Giant Miranda Sprout"]
-        cords: [3521, 3441]
-        map_title: "Perfume Bottle"
-      - id: "3_3"
-        data: ["Perfumer's Ruins, in the far South-West, North-West from the Abandoned Coffin Grace: on a body near the chest with the Perfumer's Cookbook"]
-        cords: [2153, 3337]
-        map_title: "Perfume Bottle"
-      - id: "3_4"
-        data: ["Perfumer's Ruins, in the far South-West, North-West from the Abandoned Coffin Grace: in the back, near the Giant Miranda Sprout"]
-        cords: [2142, 3319]
-        map_title: "Perfume Bottle"
-      - id: "3_6"
-        data: ["Shaded Castle, in the North-West: on a body atop a wall, accessible via the second swamp ladder"]
-        cords: [2934, 2695]
-        map_title: "Perfume Bottle"
-      - "Mt. Gelmir"
-      - id: "3_7"
-        data: ["Volcano Manor: on a body in a room unlocked with the Drawing-Room Key"]
-        cords: [2205, 2885]
-        map_title: "Perfume Bottle"
-      - "Capital Outskirts"
-      - id: "3_8"
-        data: ["Hermit Merchant's Shack, on the cliff North-East from the Outer Wall Battleground Grace on the North side of the outer wall: sold by Hermit Merchant for 2000 runes"]
-        cords: [3974, 2945]
-        map_title: "Perfume Bottle"
-      - "Leyndell, Royal Capital"
-      - id: "3_9"
-        data: ["Follow the path from the East Capital Rampart Grace along the rampart, into the tower, down the elevator, into the next tower, and up a ladder guarded by a Perfumer. It's in a chest in the room at the top"]
-        cords: [4434, 3542]
-        map_title: "Perfume Bottle"
-      - id: "3_10"
-        data: ["Through the large double doors in Leyndell leading to the path to the Forbidden Lands, all the way in the back without going up the stairs, on a body guarded by a Lesser Misbegotten"]
-        cords: [4581, 3560]
-        map_title: "Perfume Bottle"
+- title: 龟裂壶
+  icon: /img/icons/keys/edited/00504.png
+  map_icon: /map/icons/shadows/keys/00504.png
+  items:
+  - 宁姆格福
+  - id: '1_1'
+    data:
+    - '游戏起始西北方向的<b>[艾雷教堂]</b>: <b>[“流浪商人”咖列]</b>以300卢恩出售'
+    cords:
+    - 3667
+    - 7210
+    map_title: 龟裂壶 x3
+  - id: '1_2'
+    data:
+    - '游戏起始西北方向的<b>[艾雷教堂]</b>: <b>[“流浪商人”咖列]</b>以300卢恩出售'
+    map_link:
+    - 3667
+    - 7210
+    map_title: 龟裂壶
+  - id: '1_3'
+    data:
+    - '游戏起始西北方向的<b>[艾雷教堂]</b>: <b>[“流浪商人”咖列]</b>以300卢恩出售'
+    map_link:
+    - 3667
+    - 7210
+    map_title: 龟裂壶
+  - id: '1_5'
+    data:
+    - '<b>[近林洞窟]</b>，在<b>[艾雷教堂]</b>北面的悬崖上: 靠近入口，在狼附近的尸体上'
+    cords:
+    - 3649
+    - 7067
+    map_title: 龟裂壶
+  - id: '1_4'
+    data:
+    - '<b>赐福[圣人桥]</b>北方以东: 由<b>[流浪民族的商人]</b>以600卢恩出售'
+    cords:
+    - 4114
+    - 6553
+    map_title: 龟裂壶
+  - 啜泣半岛
+  - id: '1_6'
+    data:
+    - '<b>赐福[摩恩城（城墙前方）]</b>: 由<b>[流浪民族的商人]</b>以600卢恩出售'
+    cords:
+    - 4310
+    - 8172
+    map_title: 龟裂壶
+  - 史东薇尔城
+  - id: '1_7'
+    data:
+    - 在<b>赐福[升降机旁房间]</b>和<b>赐福[深处小房间]</b>之间的路径上。活壶中间
+    cords:
+    - 3066
+    - 6551
+    map_title: 龟裂壶
+  - id: '1_8'
+    data:
+    - 在<b>赐福[升降机旁房间]</b>和<b>赐福[深处小房间]</b>之间的路径上。活壶中间
+    cords:
+    - 3065
+    - 6537
+    map_title: 龟裂壶
+  - 湖之利耶尼亚
+  - id: '1_9'
+    data:
+    - <b>[壶村]</b>东部，在<b>[卡利亚书斋]</b>南部的悬崖下。城镇镇南端的一块大墓碑旁发现
+    cords:
+    - 3008
+    - 5286
+    map_title: 龟裂壶
+  - id: '1_10'
+    data:
+    - <b>[壶村]</b>东部，在<b>[卡利亚书斋]</b>南部的悬崖下。城镇北端一座被封锁入口建筑物的台阶上发现，就在屋顶上的一个<b>[仪式壶]</b>下面
+    cords:
+    - 2961
+    - 5245
+    map_title: 龟裂壶
+  - id: '1_11'
+    data:
+    - <b>[壶村]</b>东部，在<b>[卡利亚书斋]</b>南部的悬崖下。一间小屋内发现，就在前一间小屋的东北方向
+    cords:
+    - 2996
+    - 5219
+    map_title: 龟裂壶
+  - id: '1_13'
+    data:
+    - '<b>[卡利亚城寨]</b>西北: Boss入口左侧，在墙上找到一个小拱门走过去，然后掉落到地面; 然后不要再往下跳，沿着墙向左走，在悬崖边找到'
+    cords:
+    - 1926
+    - 3685
+    map_title: 龟裂壶
+  - 魔法学院雷亚卢卡利亚
+  - id: '1_12'
+    data:
+    - 从<b>赐福[讨论室]</b>出去上楼到左边。在一具尸体上
+    cords:
+    - 1963
+    - 5007
+    map_title: 龟裂壶
+  - 盖利德
+  - id: '1_15'
+    data:
+    - 在西北<b>[小黄金树]</b>的后面，在从西北悬崖延伸出来的树枝上
+    cords:
+    - 4898
+    - 6089
+    map_title: 龟裂壶
+  - id: '1_14'
+    data:
+    - '腐败沼泽以南的西南方向。由<b>[流浪民族的商人]</b>以1500卢恩出售(注意: 作为遗物的话会直接给你这个<b>[龟裂壶]</b>)'
+    cords:
+    - 5439
+    - 7052
+    map_title: 龟裂壶
+  - 王城外围
+  - id: '1_16'
+    data:
+    - '<b>[亚雷萨副墓地]</b>，就在<b>[王城罗德尔]</b>的东北方向: 在底部有水的房间里(注意: 作为遗物的话会直接给你这个<b>[龟裂壶]</b>)'
+    cords:
+    - 4597
+    - 3173
+    map_title: 龟裂壶 x4
+  - id: '1_17'
+    data:
+    - '<b>[亚雷萨副墓地]</b>，就在<b>[王城罗德尔]</b>的东北方向: 在底部有水的房间里(注意: 作为遗物的话会直接给你这个<b>[龟裂壶]</b>)'
+    map_link:
+    - 4597
+    - 3173
+    map_title: 龟裂壶
+  - id: '1_18'
+    data:
+    - '<b>[亚雷萨副墓地]</b>，就在<b>[王城罗德尔]</b>的东北方向: 在底部关了门的水屋里'
+    map_link:
+    - 4597
+    - 3173
+    map_title: 龟裂壶
+  - id: '1_19'
+    data:
+    - '<b>[亚雷萨副墓地]</b>，就在<b>[王城罗德尔]</b>的东北方向: 在底部关了门的水屋里'
+    map_link:
+    - 4597
+    - 3173
+    map_title: 龟裂壶
+  - 王城罗德尔
+  - id: '1_20'
+    data:
+    - <b>赐福[大道旁露台]</b>西北下面一层，通过一对门，在一具尸体上
+    cords:
+    - 4292
+    - 3480
+    map_title: 龟裂壶
+- title: 仪式壶
+  icon: /img/icons/keys/edited/03010.png
+  map_icon: /map/icons/shadows/keys/03010.png
+  items:
+  - 湖之利耶尼亚
+  - id: '2_1'
+    data:
+    - '<b>[拉斯卡废墟]</b>，<b>赐福[利耶尼亚湖（湖边）]</b>西北: 靠近石柱的北侧'
+    cords:
+    - 2547
+    - 5851
+    map_title: 仪式壶
+  - id: '2_2'
+    data:
+    - <b>[壶村]</b>东部，在<b>[卡利亚书斋]</b>南部的悬崖下。在屋顶上发现; 从<b>[小壶]</b>的栖木附近跳上去。
+    cords:
+    - 2971
+    - 5235
+    map_title: 仪式壶
+  - id: '2_3'
+    data:
+    - <b>[壶村]</b>东部，在<b>[卡利亚书斋]</b>南部的悬崖下。前面一个位置的南面，一个大的装饰壶
+    cords:
+    - 2973
+    - 5264
+    map_title: 仪式壶
+  - id: '2_5'
+    data:
+    - <b>[卡利亚城寨]</b>，去城寨的西部然后向南。沿着东边的悬崖，你可以跳下去，回到<b>[卡利亚城寨]</b>。由<b>[仆人毕迪]</b>以1500卢恩出售
+    cords:
+    - 1822
+    - 3733
+    map_title: 仪式壶
+  - 魔法学院雷亚卢卡利亚
+  - id: '2_4'
+    data:
+    - 在<b>赐福[校舍内的教室]</b>附近，在一个由法师和一个巨大活壶守卫的宝箱里
+    cords:
+    - 1900
+    - 5036
+    map_title: 仪式壶
+  - 盖利德
+  - id: '2_6'
+    data:
+    - <b>[隐居商人的破屋]</b>北方。由<b>[隐居商人]</b>以3000卢恩出售
+    cords:
+    - 5144
+    - 6094
+    map_title: 仪式壶
+  - 王城外围
+  - id: '2_7'
+    data:
+    - '<b>[亚雷萨副墓地]</b>，<b>[王城罗德尔]</b>的东北方向: 在一个有巨大活壶的房间里'
+    cords:
+    - 4606
+    - 3184
+    map_title: 仪式壶 x2
+  - id: '2_8'
+    data:
+    - '<b>[亚雷萨副墓地]</b>，<b>[王城罗德尔]</b>的东北方向: 在一个有巨大活壶的房间里'
+    map_link:
+    - 4606
+    - 3184
+    map_title: 仪式壶
+  - 王城罗德尔
+  - id: '2_9'
+    data:
+    - 在隧道迷宫的尽头的下水道里，就在通往<b>赐福[弃置恶兆的底层]</b>的电梯之前。
+    cords:
+    - 4422
+    - 3483
+    map_title: 仪式壶
+  - 巨人山顶
+  - id: '2_10'
+    data:
+    - <b>[巨人山顶地下墓地]</b>。从<b>[萨米尔废墟]</b>向北走，右转进入墓地。在一个房间里有一个巨大活壶。
+    cords:
+    - 5798
+    - 2822
+    map_title: 仪式壶
+- title: 调香瓶
+  icon: /img/icons/keys/edited/00443.png
+  map_icon: /map/icons/shadows/keys/00443.png
+  items:
+  - 盖利德
+  - id: '3_1'
+    data:
+    - '在腐败沼泽的西北部分: 一个被<b>[“病花”米兰达]</b>守卫的废弃建筑的角落里'
+    cords:
+    - 5284
+    - 6689
+    map_title: 调香瓶
+  - 亚坛高原
+  - id: '3_2'
+    data:
+    - 在<b>赐福[亚坛大道的三叉口]</b>以北，黄金树苗附近小营地的一具尸体上发现
+    cords:
+    - 3010
+    - 3347
+    map_title: 调香瓶
+  - id: '3_5'
+    data:
+    - '<b>[调香师的隐藏洞窟]</b>，在<b>[亚坛大道的三叉口]</b>的东边: 第二个巨大<b>[“病花”米兰达]</b>芽附近的一个宝箱里'
+    cords:
+    - 3521
+    - 3441
+    map_title: 调香瓶
+  - id: '3_3'
+    data:
+    - '<b>[调香师的废墟]</b>，在遥远的西南方向，从<b>赐福[弃置棺材]</b>的西北方向: 在靠近宝箱的尸体上，有一本调香师制作笔记'
+    cords:
+    - 2153
+    - 3337
+    map_title: 调香瓶
+  - id: '3_4'
+    data:
+    - '<b>[调香师的废墟]</b>，在遥远的西南，<b>赐福[弃置棺材]</b>西北: 在后面，靠近巨大<b>[“病花”米兰达]</b>芽'
+    cords:
+    - 2142
+    - 3319
+    map_title: 调香瓶
+  - id: '3_6'
+    data:
+    - '<b>[日荫城]</b>西北: 墙上的一具尸体上，通过第二个沼泽梯子进入'
+    cords:
+    - 2934
+    - 2695
+    map_title: 调香瓶
+  - 格密尔火山
+  - id: '3_7'
+    data:
+    - '<b>[火山官邸]</b>: 用<b>[客房钥匙]</b>解锁的房间，里面的尸体上'
+    cords:
+    - 2205
+    - 2885
+    map_title: 调香瓶
+  - 王城外围
+  - id: '3_8'
+    data:
+    - '<b>[遁世商人的破屋]</b>，在外墙北侧的<b>赐福[城外战场遗迹]</b>东北方向的悬崖上: 由<b>[遁世商人]</b>以2000卢恩出售'
+    cords:
+    - 3974
+    - 2945
+    map_title: 调香瓶
+  - 王城罗德尔
+  - id: '3_9'
+    data:
+    - <b>赐福[王城东边城墙]</b>出发沿着城墙的路，进入塔，下电梯，进入下一个塔，并登上一个由调香师守卫的梯子。在楼上房间的一个宝箱里
+    cords:
+    - 4434
+    - 3542
+    map_title: 调香瓶
+  - id: '3_10'
+    data:
+    - 穿过<b>[王城罗德尔]</b>里通往<b>[禁域]</b>的双开大门，一直走不要上楼梯，在一个小型混种守卫的尸体上
+    cords:
+    - 4581
+    - 3560
+    map_title: 调香瓶

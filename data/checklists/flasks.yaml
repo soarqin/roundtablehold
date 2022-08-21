@@ -1,252 +1,413 @@
-title: Golden Seeds & Sacred Tears
-icon: "/img/icons/bolstering/edited/00383.png"
+title: 黄金种子&圣杯滴露
+icon: /img/icons/bolstering/edited/00383.png
 id: flasks
 sections:
-  -
-    title: "Golden Seeds"
-    icon: "/img/icons/bolstering/edited/00383.png"
-    map_icon: "/map/icons/shadows/bolstering/00383.png"
-    items:
-      - "Limgrave"
-      - id: "1_2"
-        data: ["Can choose one as a Keepsake"]
-      - id: "1_3"
-        data: ["Under a Golden Tree on the path to Stormveil Castle"]
-        cords: [3501, 6860]
-        map_title: "Golden Seed"
-      - id: "1_4"
-        data: ["Reward for finishing Roderika's quest, can otherwise be found at her shack"]
-        cords: [724, 8465]
-        map_title: "Golden Seed"
-      - id: "1_5"
-        data: ["Under Golden Tree in front of Fort Haight"]
-        cords: [4674, 7344]
-        map_title: "Golden Seed"
-      - id: "1_6"
-        data: ["Drops from Kenneth Haight if killed"]
-        cords: [4393, 6811]
-        map_title: "Golden Seed"
-      - id: "1_7"
-        data: ["Reward for defeating Ulcerated Tree Spirit in Fringefolk Hero's Grave"]
-        cords: [3789, 7318]
-        map_title: "Golden Seed"
-      - id: "1_43"
-        data: ["Under a Golden Tree inside Stormveil, near the Secluded Cell Grace"]
-        cords: [3175, 6585]
-        map_title: "Golden Seed"
-      - id: "1_8"
-        data: ["Reward for defeating hidden Ulcerated Tree Spirit in Stormveil Castle"]
-        cords: [3091, 6723]
-        map_title: "Golden Seed"
-      - "Weeping Peninsula"
-      - id: "1_1"
-        data: ["Under a Golden Tree south of Castle Morne Rampart Grace"]
-        cords: [4169, 8346]
-        map_title: "Golden Seed"
-      - "Liurnia of the Lakes"
-      - id: "1_9"
-        data: ["Under a Golden Tree in Academy Gate Town"]
-        cords: [2192, 5235]
-        map_title: "Golden Seed"
-      - id: "1_10"
-        data: ["Under a Golden Tree north of Main Academy Gate Grace, at the end of the bridge"]
-        cords: [1932, 4612]
-        map_title: "Golden Seed"
-      - id: "1_11"
-        data: ["Under a Golden Tree west side of Raya Lucaria Academy courtyard"]
-        cords: [1906, 4905]
-        map_title: "Golden Seed"
-      - id: "1_12"
-        data: ["Under a Golden Tree in Caria Manor's upper level."]
-        cords: [1984, 3730]
-        map_title: "Golden Seed"
-      - id: "1_13"
-        data: ["Under a Golden Tree at the north end of the lake, near the Ruin-Strewn Precipice"]
-        cords: [2490, 3661]
-        map_title: "Golden Seed"
-      - "Caelid"
-      - id: "1_14"
-        data: ["under a Golden Tree near the three way crossroad leading to Castle Redmane"]
-        cords: [5471, 7149]
-        map_title: "Golden Seed"
-      - id: "1_15"
-        data: ["under a Golden Tree in the upper area of Sellia, Town of Sorcery"]
-        cords: [5644, 6515]
-        map_title: "Golden Seed"
-      - id: "1_16"
-        data: ["under a Golden Tree, south of Bestial Sanctum"]
-        cords: [6088, 5594]
-        map_title: "Golden Seed"
-      - id: "1_17"
-        data: ["reward for defeating Putrid Tree Spirit in War-Dead Catacombs (after Radahn)"]
-        cords: [6322, 6137]
-        map_title: "Golden Seed"
-      - "Altus Plateau"
-      - id: "1_18"
-        data: ["under a Golden Tree near Erdtree-Grazing Hill Grace"]
-        cords: [2697, 3377]
-        map_title: "Golden Seed"
-      - id: "1_19"
-        data: ["under a Golden Tree north of Altus Highway Junction"]
-        cords: [3037, 3372]
-        map_title: "Golden Seed"
-      - id: "1_20"
-        data: ["under a Golden Tree near the Minor Erdtree"]
-        cords: [3329, 2800]
-        map_title: "Golden Seed"
-      - id: "1_21"
-        data: ["under a Golden Tree, southeast of Windmill Village, near Highway Lookout Tower"]
-        cords: [3675, 2801]
-        map_title: "Golden Seed"
-      - "Mt. Gelmir"
-      - id: "1_29"
-        data: ["under a Golden Tree in the ravine, south of Seethewater Cave"]
-        cords: [2458, 2953]
-        map_title: "Golden Seed"
-      - id: "1_30"
-        data: ["under a Golden Tree, northwest of Road of Iniquity"]
-        cords: [2059, 2650]
-        map_title: "Golden Seed"
-      - "Capital Outskirts"
-      - id: "1_22"
-        data: ["under a large Golden Tree near the Outer Wall Phantom Tree Grace"]
-        cords: [3670, 3491]
-        map_title: "Golden Seed x2"
-      - id: "1_23"
-        data: ["under the same Golden Tree mentioned above"]
-        map_link: [3670, 3491]
-        map_title: "Golden Seed"
-      - id: "1_24"
-        data: ["under a large Golden Tree north of the Outer Wall Phantom Tree Grace"]
-        cords: [3842, 3233]
-        map_title: "Golden Seed x2"
-      - id: "1_25"
-        data: ["under the same Golden Tree mentioned above"]
-        map_link: [3842, 3233]
-        map_title: "Golden Seed"
-      - id: "1_26"
-        data: ["reward for defeating Ulcerated Tree Spirit south of Outer Wall Phantom Tree Grace"]
-        cords: [3664, 3661]
-        map_title: "Golden Seed"
-      - "Leyndell, Royal Capital"
-      - id: "1_27"
-        data: ["under a Golden Tree south of the West Capital Rampart Grace"]
-        cords: [4293, 3645]
-        map_title: "Golden Seed"
-      - id: "1_28"
-        data: ["reward for defeating Ulcerated Tree Spirit west of Avenue Balcony Grace"]
-        cords: [4278, 3429]
-        map_title: "Golden Seed"
-      - "Mountaintops of the Giants"
-      - id: "1_31"
-        data: ["under a Golden Tree in the Forbidden Lands"]
-        cords: [5424, 3302]
-        map_title: "Golden Seed"
-      - id: "1_32"
-        data: ["reward for defeating Ulcerated Tree Spirit in the Giants' Mountaintop Catacombs"]
-        cords: [5773, 2833]
-        map_title: "Golden Seed"
-      - id: "1_33"
-        data: ["under a Golden Tree, northeast of the Foot of the Forge Grace"]
-        cords: [6331, 2826]
-        map_title: "Golden Seed"
-      - id: "1_34"
-        data: ["under a Golden Tree, in the ravine between the Minor Erdtree and Heretical Rise, guarded by a Giant Golem"]
-        cords: [6310, 2042]
-        map_title: "Golden Seed"
-      - "Consecrated Snowfield"
-      - id: "1_35"
-        data: ["under a Golden Tree, south of Inner Consecrated Snowfield Grace"]
-        cords: [5498, 2519]
-        map_title: "Golden Seed"
-      - id: "1_36"
-        data: ["under a Golden Tree, west of Ordina, Liturgical Town"]
-        cords: [5158, 1981]
-        map_title: "Golden Seed"
-      - "Crumbling Farum Azula"
-      - id: "1_37"
-        data: ["under a Golden Tree in the middle of the Dragon Temple"]
-        cords: [8469, 4420] #TODO: Verify
-        map_title: "Golden Seed"
-      - id: "1_38"
-        data: ["under a Golden Tree, southeast of Dragon Temple Rooftop Grace"]
-        cords: [8645, 4325] #TODO: Verify
-        map_title: "Golden Seed"
-      - "Siofra River"
-      - id: "1_39"
-        data: ["under a Golden Tree accessible by crossing a stone bridge southwest of the Below the Well Site of Grace"]
-        cords: [6423, 14011]
-        map_title: "Golden Seed"
-      - "Mohgwyn Palace"
-      - id: "1_40"
-        data: ["under a Golden Tree in the middle of the lake, surrounded by giant birds"]
-        cords: [7039, 14440]
-        map_title: "Golden Seed"
-      - "Ainsel River"
-      - id: "1_41"
-        data: ["under a Golden Tree in the northwest of Nokstella; climb every staircase to the absolute top of the city, exit the topmost building (with the Moon of Nokstella talisman) to the left, and go down the elevator past it, to see the tree as you emerge back at the bottom"]
-        cords: [3344, 11892]
-        map_title: "Golden Seed"
-      - id: "1_42"
-        data: ["reward for defeating Putrid Tree Spirit in Lake of Rot"]
-        cords: [3155, 12592]
-        map_title: "Golden Seed"
-  -
-    title: "Sacred Tears"
-    icon: "/img/icons/bolstering/edited/00384.png"
-    map_icon: "/map/icons/shadows/bolstering/00384.png"
-    items:
-      - "Limgrave"
-      - id: "2_4"
-        data: ["Third Church of Marika, in East Limgrave"]
-        cords: [4649, 6705]
-        map_title: "Sacred Tear"
-      - "Weeping Peninsula"
-      - id: "2_1"
-        data: ["Callu Baptismal Church, in the middle of the Weeping Peninsula"]
-        cords: [4146, 8131]
-        map_title: "Sacred Tear"
-      - id: "2_2"
-        data: ["Church of Pilgrimage, north of Weeping Peninsula"]
-        cords: [3848, 7689]
-        map_title: "Sacred Tear"
-      - id: "2_3"
-        data: ["Fourth Church of Marika, west of Weeping Peninsula"]
-        cords: [3524, 7990]
-        map_title: "Sacred Tear"
-      - "Liurnia of the Lakes"
-      - id: "2_5"
-        data: ["Church of Irith, southern part of Liurnia of the Lakes"]
-        cords: [2916, 6433]
-        map_title: "Sacred Tear"
-      - id: "2_6"
-        data: ["Bellum Church, on the way to the Grand Lift of Dectus"]
-        cords: [2187, 4037]
-        map_title: "Sacred Tear"
-      - id: "2_7"
-        data: ["Church of Inhibition, northeast of Bellum Highway Forest"]
-        cords: [2511, 4014]
-        map_title: "Sacred Tear"
-      - "Caelid"
-      - id: "2_8"
-        data: ["Church of Plague, accessible through Sellia, Town of Sorcery"]
-        cords: [5785, 6663]
-        map_title: "Sacred Tear"
-      - "Altus Plateau"
-      - id: "2_9"
-        data: ["Second Church of Marika, north of Altus Highway Junction Grace"]
-        cords: [2963, 3141]
-        map_title: "Sacred Tear"
-      - id: "2_10"
-        data: ["Stormcaller Church, west of Rampartside Path Grace"]
-        cords: [3209, 3345]
-        map_title: "Sacred Tear"
-      - "Mountaintops of the Giants"
-      - id: "2_11"
-        data: ["Church of Repose, east of Grand Lift of Rold"]
-        cords: [5969, 3006]
-        map_title: "Sacred Tear"
-      - id: "2_12"
-        data: ["First Church of Marika, southeastern most part of Mountaintops of the Giants"]
-        cords: [6754, 2354]
-        map_title: "Sacred Tear"
+- title: 黄金种子
+  icon: /img/icons/bolstering/edited/00383.png
+  map_icon: /map/icons/shadows/bolstering/00383.png
+  items:
+  - 宁姆格福
+  - id: '1_2'
+    data:
+    - 可以选一个作为初始遗产
+  - id: '1_3'
+    data:
+    - 在通往<b>[史东薇尔城]</b>的路上的一棵黄金树下
+    cords:
+    - 3501
+    - 6860
+    map_title: 黄金种子
+  - id: '1_4'
+    data:
+    - 完成<b>[罗德莉卡]</b>任务的奖励，可以在她的小屋找到
+    cords:
+    - 724
+    - 8465
+    map_title: 黄金种子
+  - id: '1_5'
+    data:
+    - <b>[海德要塞]</b>前的黄金树下
+    cords:
+    - 4674
+    - 7344
+    map_title: 黄金种子
+  - id: '1_6'
+    data:
+    - 杀死<b>[“领主的嫡长子”肯尼斯·海德]</b>掉落
+    cords:
+    - 4393
+    - 6811
+    map_title: 黄金种子
+  - id: '1_7'
+    data:
+    - 击败<b>[边境英雄墓地]</b>中的<b>[腐烂树灵]</b>的奖励
+    cords:
+    - 3789
+    - 7318
+    map_title: 黄金种子
+  - id: '1_43'
+    data:
+    - 在<b>[史东薇尔城]</b>里面的一棵黄金树下，靠近<b>赐福[深处小房间]</b>
+    cords:
+    - 3175
+    - 6585
+    map_title: 黄金种子
+  - id: '1_8'
+    data:
+    - 击败<b>[史东薇尔城]</b>中隐藏的<b>[腐烂树灵]</b>的奖励
+    cords:
+    - 3091
+    - 6723
+    map_title: 黄金种子
+  - 啜泣半岛
+  - id: '1_1'
+    data:
+    - 在<b>赐福[摩恩城（城墙前方）]</b>南方的一棵黄金树下
+    cords:
+    - 4169
+    - 8346
+    map_title: 黄金种子
+  - 湖之利耶尼亚
+  - id: '1_9'
+    data:
+    - 在<b>[学院门前镇]</b>一棵黄金树下
+    cords:
+    - 2192
+    - 5235
+    map_title: 黄金种子
+  - id: '1_10'
+    data:
+    - 在<b>赐福[学院正门口]</b>北边桥尽头的一棵黄金树下
+    cords:
+    - 1932
+    - 4612
+    map_title: 黄金种子
+  - id: '1_11'
+    data:
+    - <b>[魔法学院雷亚卢卡利亚]</b>院落西侧一棵黄金树下
+    cords:
+    - 1906
+    - 4905
+    map_title: 黄金种子
+  - id: '1_12'
+    data:
+    - 在<b>[卡利亚城寨]</b>的上层的一棵黄金树下。
+    cords:
+    - 1984
+    - 3730
+    map_title: 黄金种子
+  - id: '1_13'
+    data:
+    - 在靠近<b>[古遗迹断崖]</b>的湖北端的一棵黄金树下
+    cords:
+    - 2490
+    - 3661
+    map_title: 黄金种子
+  - 盖利德
+  - id: '1_14'
+    data:
+    - 在通往<b>[红狮子城]</b>的三岔路口附近的一棵黄金树下
+    cords:
+    - 5471
+    - 7149
+    map_title: 黄金种子
+  - id: '1_15'
+    data:
+    - 在<b>[魔法镇瑟利亚]</b>上部的一棵黄金树下
+    cords:
+    - 5644
+    - 6515
+    map_title: 黄金种子
+  - id: '1_16'
+    data:
+    - 在<b>[野兽神殿]</b>南边一棵黄金树下
+    cords:
+    - 6088
+    - 5594
+    map_title: 黄金种子
+  - id: '1_17'
+    data:
+    - 击败<b>[英灵地下墓地]</b>的<b>[腐败树灵]</b>的奖励(击败<b>[“碎星”拉塔恩]</b>之后)
+    cords:
+    - 6322
+    - 6137
+    map_title: 黄金种子
+  - 亚坛高原
+  - id: '1_18'
+    data:
+    - 在<b>赐福[近黄金树的山丘]</b>附近的一棵黄金树下
+    cords:
+    - 2697
+    - 3377
+    map_title: 黄金种子
+  - id: '1_19'
+    data:
+    - 在<b>[亚坛大道的三叉口]</b>北方的一棵黄金树下
+    cords:
+    - 3037
+    - 3372
+    map_title: 黄金种子
+  - id: '1_20'
+    data:
+    - 在靠近<b>[小黄金树]</b>的一棵黄金树下
+    cords:
+    - 3329
+    - 2800
+    map_title: 黄金种子
+  - id: '1_21'
+    data:
+    - 在在<b>[风车村]</b>东南靠近<b>[大道监视塔]</b>的一棵黄金树下
+    cords:
+    - 3675
+    - 2801
+    map_title: 黄金种子
+  - 格密尔火山
+  - id: '1_29'
+    data:
+    - <b>[沸滚河洞窟]</b>南部峡谷里的一棵黄金树下
+    cords:
+    - 2458
+    - 2953
+    map_title: 黄金种子
+  - id: '1_30'
+    data:
+    - 在<b>[移送罪人之路]</b>西北方向一棵黄金树下
+    cords:
+    - 2059
+    - 2650
+    map_title: 黄金种子
+  - 王城外围
+  - id: '1_22'
+    data:
+    - 在靠近<b>赐福[城外幻影树]</b>的一棵大黄金树下
+    cords:
+    - 3670
+    - 3491
+    map_title: 黄金种子 x2
+  - id: '1_23'
+    data:
+    - 就在上面提到的那棵黄金树下
+    map_link:
+    - 3670
+    - 3491
+    map_title: 黄金种子
+  - id: '1_24'
+    data:
+    - 在<b>赐福[城外幻影树]</b>北方的一棵大黄金树下
+    cords:
+    - 3842
+    - 3233
+    map_title: 黄金种子 x2
+  - id: '1_25'
+    data:
+    - 就在上面提到的那棵黄金树下
+    map_link:
+    - 3842
+    - 3233
+    map_title: 黄金种子
+  - id: '1_26'
+    data:
+    - 击败<b>赐福[城外幻影树]</b>南边的<b>[腐烂树灵]</b>奖励
+    cords:
+    - 3664
+    - 3661
+    map_title: 黄金种子
+  - 王城罗德尔
+  - id: '1_27'
+    data:
+    - 在<b>赐福[王城西边城墙]</b>南方的一棵黄金树下
+    cords:
+    - 4293
+    - 3645
+    map_title: 黄金种子
+  - id: '1_28'
+    data:
+    - 击败<b>赐福[大道旁露台]</b>西边的<b>[腐烂树灵]</b>的奖励
+    cords:
+    - 4278
+    - 3429
+    map_title: 黄金种子
+  - 巨人山顶
+  - id: '1_31'
+    data:
+    - <b>[禁域]</b>金色的树下
+    cords:
+    - 5424
+    - 3302
+    map_title: 黄金种子
+  - id: '1_32'
+    data:
+    - 击败<b>[巨人山顶地下墓地]</b>的<b>[腐烂树灵]</b>的奖励
+    cords:
+    - 5773
+    - 2833
+    map_title: 黄金种子
+  - id: '1_33'
+    data:
+    - 在<b>赐福[火焰大锅下方]</b>东北的黄金树下
+    cords:
+    - 6331
+    - 2826
+    map_title: 黄金种子
+  - id: '1_34'
+    data:
+    - 在<b>[小黄金树]</b>和<b>[异端魔法师塔]</b>之间的峡谷中，由一个巨大的魔像守卫着的一棵黄金树下
+    cords:
+    - 6310
+    - 2042
+    map_title: 黄金种子
+  - 化圣雪原
+  - id: '1_35'
+    data:
+    - <b>赐福[化圣雪原（深处）]</b>南边的黄金树下
+    cords:
+    - 5498
+    - 2519
+    map_title: 黄金种子
+  - id: '1_36'
+    data:
+    - <b>[“仪典镇”奥缇那]</b>以西的一棵黄金树下
+    cords:
+    - 5158
+    - 1981
+    map_title: 黄金种子
+  - 逐渐崩毁的法姆·亚兹拉
+  - id: '1_37'
+    data:
+    - 在<b>[龙教堂]</b>中央的一棵黄金树下
+    cords:
+    - 8469
+    - 4420
+    map_title: 黄金种子
+  - id: '1_38'
+    data:
+    - <b>赐福[龙教堂（屋顶）]</b>东南方向的黄金树下
+    cords:
+    - 8645
+    - 4325
+    map_title: 黄金种子
+  - 希芙拉河
+  - id: '1_39'
+    data:
+    - 穿过位于<b>赐福[出口井的下方]</b>西南方向的一座石桥，在一棵黄金树下
+    cords:
+    - 6423
+    - 14011
+    map_title: 黄金种子
+  - 蒙格温王朝
+  - id: '1_40'
+    data:
+    - 在湖中央的一棵黄金树下，周围都是巨大的鸟
+    cords:
+    - 7039
+    - 14440
+    map_title: 黄金种子
+  - 安瑟尔河
+  - id: '1_41'
+    data:
+    - 在<b>[“永恒之城”诺克史黛拉]</b>西北部的一棵黄金树下;爬上每一个楼梯到城市的最高处，离开最顶层的建筑(内有<b>[诺克史黛拉之月]</b>护符)向左，然后经过它下电梯，回到底部看到黄金树
+    cords:
+    - 3344
+    - 11892
+    map_title: 黄金种子
+  - id: '1_42'
+    data:
+    - 击败<b>[腐败湖]</b>中的<b>[腐败树灵]</b>的奖励
+    cords:
+    - 3155
+    - 12592
+    map_title: 黄金种子
+- title: 圣杯滴露
+  icon: /img/icons/bolstering/edited/00384.png
+  map_icon: /map/icons/shadows/bolstering/00384.png
+  items:
+  - 宁姆格福
+  - id: '2_4'
+    data:
+    - <b>[玛莉卡第三教堂]</b>，<b>[宁姆格福]</b>东部
+    cords:
+    - 4649
+    - 6705
+    map_title: 圣杯露滴
+  - 啜泣半岛
+  - id: '2_1'
+    data:
+    - <b>[卡尔洗礼教堂]</b>，在<b>[啜泣半岛]</b>中间
+    cords:
+    - 4146
+    - 8131
+    map_title: 圣杯露滴
+  - id: '2_2'
+    data:
+    - <b>[巡礼教堂]</b>，在<b>[啜泣半岛]</b>北部
+    cords:
+    - 3848
+    - 7689
+    map_title: 圣杯露滴
+  - id: '2_3'
+    data:
+    - <b>[玛莉卡第四教堂]</b>， <b>[啜泣半岛]</b>西部
+    cords:
+    - 3524
+    - 7990
+    map_title: 圣杯露滴
+  - 湖之利耶尼亚
+  - id: '2_5'
+    data:
+    - <b>[伊利斯教堂]</b>，<b>[湖之利耶尼亚]</b>南部
+    cords:
+    - 2916
+    - 6433
+    map_title: 圣杯露滴
+  - id: '2_6'
+    data:
+    - <b>[彼鲁姆教堂]</b>，在去<b>[迪可达斯大升降机]</b>的路上
+    cords:
+    - 2187
+    - 4037
+    map_title: 圣杯露滴
+  - id: '2_7'
+    data:
+    - <b>[镇静教堂]</b>，<b>[彼鲁姆大道]</b>东北森林
+    cords:
+    - 2511
+    - 4014
+    map_title: 圣杯露滴
+  - 盖利德
+  - id: '2_8'
+    data:
+    - <b>[腐败病教堂]</b>，穿过<b>[魔法镇瑟利亚]</b>到达
+    cords:
+    - 5785
+    - 6663
+    map_title: 圣杯露滴
+  - 亚坛高原
+  - id: '2_9'
+    data:
+    - <b>[玛莉卡第二教堂]</b>，<b>赐福[亚坛大道的三叉口]</b>北部
+    cords:
+    - 2963
+    - 3141
+    map_title: 圣杯露滴
+  - id: '2_10'
+    data:
+    - <b>[唤雷教堂]</b>，<b>赐福[城墙旁小径]</b>西边
+    cords:
+    - 3209
+    - 3345
+    map_title: 圣杯露滴
+  - 巨人山顶
+  - id: '2_11'
+    data:
+    - <b>[安歇教堂]</b>，<b>[洛德大升降机]</b>以东
+    cords:
+    - 5969
+    - 3006
+    map_title: 圣杯露滴
+  - id: '2_12'
+    data:
+    - <b>[玛莉卡第一教堂]</b>，<b>[巨人山顶]</b>最东南部分
+    cords:
+    - 6754
+    - 2354
+    map_title: 圣杯露滴

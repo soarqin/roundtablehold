@@ -1,553 +1,865 @@
-title: "Stonesword Keys & Imp Seals"
+title: 石剑钥匙&小恶魔封印
 id: stonesword
-icon: "/img/icons/keys/00228.png"
-description: "Stonesword Keys are consumable key items that open Imp Statue Seals, which typically guard loot, dungeons, or optional paths. A maximum of 81 Stonesword Keys can be found in the game, plus 2 if chosen as a Keepsake. However, only 46 are required to open every Imp Statue Seal. Imp Statues each require either 1 or 2 keys, and the only way to tell the difference is by visual examination: most Imp Statues already have one key in them when you find them, meaning you only need one more."
+icon: /img/icons/keys/00228.png
+description: '石剑钥匙是一种消耗性的关键道具，能够打开小恶魔像的封印，通常封印着战利品、地下城或可选路径。在游戏中最多可以找到81把石剑钥匙，如果选择作为遗物再多2把。然而，打开所有小恶魔像的封印只需要46个。每个小恶魔像都需要1到2把钥匙，唯一的区别就是通过外形确认:
+  大多数小恶魔像上已经插有一把钥匙了，这意味着你只需要消耗一把。'
 sections:
-  -
-    title: "Stonesword Keys"
-    icon: "/img/icons/keys/00228.png"
-    map_icon: "/map/icons/shadows/keys/00228.png"
-    items:
-      - id: "k1"
-        data: ["Can choose two as a keepsake"]
-      - id: "k2"
-        data: ["Can choose two as a keepsake"]
-      #
-      - "Limgrave"
-      - id: "k3"
-        data: ["In a tiny intact room in the center of Dragon-Burnt Ruins, on a body guarded by a single rat"]
-        cords: [3939, 7352]
-        map_title: "Stonesword Key"
-      - id: "k4"
-        data: ["Sold by Patches for 5000 runes in Murkwater Cave (and thereafter)"]
-        cords: [4015, 6975]
-        map_title: "Stonesword Key"
-      - id: "k5"
-        data: ["On the front of Stormhill Shack, on a body atop the little staircase of wooden platforms"]
-        cords: [3485, 6762]
-        map_title: "Stonesword Key"
-      - id: "k6"
-        data: ["In Fringefolk Hero's Grave, on the ledge from which you can shoot down the jars to destroy the chariot"]
-        cords: [3757, 7304]
-        map_title: "Stonesword Key"
-      #
-      - "Roundtable Hold"
-      - id: "k7"
-        data: ["Sold by Twin Maiden Husks for 4000 runes"]
-        cords: [451, 8385]
-        map_title: "Stonesword Key x3"
-      - id: "k8"
-        data: ["Sold by Twin Maiden Husks for 4000 runes"]
-        map_link: [451, 8385]
-        map_title: "Stonesword Key"
-      - id: "k9"
-        data: ["Sold by Twin Maiden Husks for 4000 runes"]
-        map_link: [451, 8385]
-        map_title: "Stonesword Key"
-      #
-      - "Weeping Peninsula"
-      - id: "k10"
-        data: ["On the Bridge of Sacrifice on a body behind the ballista"]
-        cords: [4350, 7756]
-        map_title: "Stonesword Key"
-      - id: "k11"
-        data: ["On the northern tip of the high ledge in the northeast, on a body sitting in a chair"]
-        cords: [4435, 7826]
-        map_title: "Stonesword Key"
-      - id: "k12"
-        data: ["Sold by the Nomadic Merchant in the east for 2000 runes"]
-        cords: [4307, 8185]
-        map_title: "Stonesword Key"
-      - id: "k13"
-        data: ["Sold by the Isolated Merchant in the west for 2000 runes"]
-        cords: [3450, 8230]
-        map_title: "Stonesword Key x3"
-      - id: "k14"
-        data: ["Sold by the Isolated Merchant in the west for 2000 runes"]
-        map_link: [3450, 8230]
-        map_title: "Stonesword Key"
-      - id: "k15"
-        data: ["Sold by the Isolated Merchant in the west for 2000 runes"]
-        map_link: [3450, 8230]
-        map_title: "Stonesword Key"
-      - id: "k16"
-        data: ["From the Behind the Castle Site of Grace in Castle Morne, descend down a couple ledges to the first rooftop, then walk forward and drop off to a wooden platform halfway down with the key on a body"]
-        cords: [3973, 8699]
-        map_title: "Stonesword Key"
-      #
-      - "Stormveil Castle"
-      - id: "k17"
-        data: ["From Rampart Tower, follow the path up the central spiral staircase and to the rooftops; from the stack of sandbags, follow the ledge to the south tower, then turn east and hop to the next crumbling tower, and drop down inside it to find it on a body"]
-        cords: [3104, 6709]
-        map_title: "Stonesword Key"
-      - id: "k18"
-        data: ["On a body on the wooden platform above the Grafted Scion (down the shortcut elevator from Rampart Tower)"]
-        cords: [3132, 6698]
-        map_title: "Stonesword Key"
-      - id: "k19"
-        data: ["On a body in the pit with the Ulcerated Tree Spirit, just past the first big roots on the left"]
-        cords: [3078, 6662]
-        map_title: "Stonesword Key"
-      #
-      - "Liurnia of the Lakes"
-      - id: "k20"
-        data: ["In Academy Crystal Cave, stick to the left past the rats and the Sages to find a small side room in the back, containing the key on a body in a cage"]
-        cords: [1733, 4883]
-        map_title: "Stonesword Key"
-      - id: "k21"
-        data: ["On the island directly east of the South Raya Lucaria Gate Site of Grace, accessible from Gate Town North; it's in a chest in a small tower sticking out of the water, requiring Torrent's double jump to reach"]
-        cords: [2102, 5056]
-        map_title: "Stonesword Key"
-      - id: "k22"
-        data: ["Outside Raya Lucaria at the base of its northeastern corner, up an incline leading to an area with many Wraith Callers and a body sitting in a chair with the key"]
-        cords: [1948, 4840]
-        map_title: "Stonesword Key"
-      - id: "k23"
-        data: ["Sold by the Isolated Merchant inside the South Raya Lucaria Gate for 3000 runes"]
-        cords: [2028, 4957]
-        map_title: "Stonesword Key x3"
-      - id: "k24"
-        data: ["Sold by the Isolated Merchant inside the South Raya Lucaria Gate for 3000 runes"]
-        map_link: [2028, 4957]
-        map_title: "Stonesword Key"
-      - id: "k25"
-        data: ["Sold by the Isolated Merchant inside the South Raya Lucaria Gate for 3000 runes"]
-        map_link: [2028, 4957]
-        map_title: "Stonesword Key"
-      - id: "k26"
-        data: ["As far north as it's possible to go from the Ainsel River Well before the cliff wall cuts off the path, on a body in a chair in a small patch of flowers"]
-        cords: [2782, 4459]
-        map_title: "Stonesword Key"
-      - id: "k27"
-        data: ["Atop the western wall of Frenzied Flame Village"]
-        cords: [2573, 4200]
-        map_title: "Stonesword Key"
-      - id: "k28"
-        data: ["From Three Sisters above Caria Manor, follow the path along the rooftops, dropping down when necessary, all the way to the rampart overlooking the Main Gate, with a Giant Crab on top guarding a body with the key"]
-        cords: [1885, 3832]
-        map_title: "Stonesword Key"
-      #
-      - "Academy of Raya Lucaria"
-      - id: "k29"
-        data: ["Past the illusory bookshelf directly before the Debate Parlor (Red Wolf of Radagon), on the other side of the altar behind the chest"]
-        cords: [1923, 5008]
-        map_title: "Stonesword Key"
-      - id: "k30"
-        data: ["In the courtyard directly after the Debate Parlor, on a body draped on the central fountain"]
-        cords: [1949, 4942]
-        map_title: "Stonesword Key"
-      #
-      - "Caelid"
-      - id: "k31"
-        data: ["In Gaol Cave, on a body in a cell"]
-        cords: [4921, 6764]
-        map_title: "Stonesword Key"
-      - id: "k32"
-        data: ["Sold by the Nomadic Merchant in the south for 4000 runes"]
-        cords: [5416, 7067]
-        map_title: "Stonesword Key"
-      - id: "k33"
-        data: ["From the Dragonbarrow West grace, head to the Divine Tower of Caelid and jump onto the high tree branch, then to the first ledge with a ladder and a sentry with a torch; don't climb the ladder but face southeast from it and follow the arch to find the key on a body on the next landing, guarded by a knight"]
-        cords: [5569, 6091]
-        map_title: "Stonesword Key"
-      - id: "k34"
-        data: ["In Sellia, Town of Sorcery, on a body slumped atop an archway connecting two buildings at the southern entrance of town; passing northward through the arch underneath, turn right to see rubble with a rotted tree through it, an easy way up on horseback"]
-        cords: [5628, 6618]
-        map_title: "Stonesword Key"
-      - id: "k35"
-        data: ["From Fort Faroth, face west and climb the hulking white rock in the distance; it's on one of the bodies on top, the one whose chair fell over"]
-        cords: [5747, 6449]
-        map_title: "Stonesword Key"
-      - id: "k36"
-        data: ["South of the Deep Siofra Well, past the large bear, on a body sitting on the cliff"]
-        cords: [5353, 6421]
-        map_title: "Stonesword Key"
-      #
-      - "Altus Plateau"
-      - id: "k37"
-        data: ["Early on the road northeast from the Grand Lift of Dectus, in the small encampment of Misbegottens on the right, on a body against a tent"]
-        cords: [2940, 3670]
-        map_title: "Stonesword Key"
-      - id: "k38"
-        data: ["In Sage's Cave, proceed down the linear path, through illusory walls when necessary, until a more open room with a bonfire, many stalactites, and a larger skeleton wielding the Executioner's Greataxe; on the left, being stared at by another skeleton, is an illusory wall hiding a nook with a chest with the key inside"]
-        cords: [2528, 3269]
-        map_title: "Stonesword Key"
-      - id: "k39"
-        data: ["Sold by the Nomadic Merchant here for 4000 runes"]
-        cords: [3321, 3074]
-        map_title: "Stonesword Key x3"
-      - id: "k40"
-        data: ["Sold by the Nomadic Merchant here for 4000 runes"]
-        map_link: [3321, 3074]
-        map_title: "Stonesword Key"
-      - id: "k41"
-        data: ["Sold by the Nomadic Merchant here for 4000 runes"]
-        map_link: [3321, 3074]
-        map_title: "Stonesword Key"
-      - id: "k42"
-        data: ["On the eastern side of the raised plateau in the center of Altus with perpetual lightning storms, on a body slumped on a stone platform"]
-        cords: [3429, 3295]
-        map_title: "Stonesword Key"
-      - id: "k43"
-        data: ["From the Shaded Castle Ramparts grace, go back down the little stairs and turn left, following the rampart around to find a Perfumer near a ramp down to the swamp below. The wall of the rampart is broken near this ramp, providing a way up, so get on the wall and follow it back a bit the way you came (south) until you can hop to the right onto the large stone barrier. Carefully climb up the stones with a few precise jumps, until a ledge wraps slightly around to the right, from where you can see a lower landing ahead that you can jump to. Then turn left and hop over the rock in the way (it's a bit tricky to get over it) and drop down to the other side of it, onto a small ledge with a body holding the key, with three slugs looking up at you from below."]
-        cords: [2972, 2711]
-        map_title: "Stonesword Key"
-      #
-      - "Mt. Gelmir"
-      - id: "k44"
-        data: ["In Gelmir Hero's Grave, past the first chariot, a few Nobles and Pages, and a fire trap, you'll find a second chariot through an archway; instead of turning left to go down the incline and progress through the dungeon, turn right and run up into a dead end to find the key, though beware it's very difficult to get back on track without being killed by the chariot, as it will suddenly go all the way up the incline on its way back, so you may need to make a suicide run for it"]
-        cords: [2530, 2915]
-        map_title: "Stonesword Key"
-      - id: "k45"
-        data: ["On the broken bridge just west of Corpse-Stench Shack"]
-        cords: [2513, 2700]
-        map_title: "Stonesword Key"
-      - id: "k46"
-        data: ["Sold by the Nomadic Merchant here for 5000 runes"]
-        cords: [2438, 2633]
-        map_title: "Stonesword Key"
-      - id: "k47"
-        data: ["North of Fort Laiedd, in the corner with gravestones and jellyfish, on a body against a large tree"]
-        cords: [1957, 2722]
-        map_title: "Stonesword Key"
-      #
-      - "Volcano Manor"
-      - id: "k48"
-        data: ["From the Prison Town Church grace, descend into the town square with an Omenkiller by a bonfire. Go through the doorway near the Omenkiller's initial position, proceed through another archway with a dog, and turn right. Go down the stairs to the broken gap. Instead of dropping all the way down (you can survive that fall), if you take a running jump, you can just barely reach the other end of the gap and land on the wooden platform, which has the key."]
-        cords: [2063, 2983]
-        map_title: "Stonesword Key"
-      - id: "k49"
-        data: ["Exit southeast from the room Rya moves to deep in Volcano Manor later in her questline, hop over the thin lava stream, and jump up the ledge through an open window to find the key on a body on a cot"]
-        cords: [2224, 2976]
-        map_title: "Stonesword Key"
-      #
-      - "Capital Outskirts"
-      - id: "k50"
-        data: ["In Sealed Tunnel, when you emerge into an open room navigable by tree branches and containing many Vulgar Militia and an Iron Maiden, use the branches to get to the platform on the right side, which has a short dead-end path with the key on a body"]
-        cords: [3914, 3668]
-        map_title: "Stonesword Key"
-      - id: "k51"
-        data: ["In Auriza Hero's Grave in the room with two chariots running opposite each other, on a body in an alcove in the center of their paths"]
-        cords: [4556, 3311]
-        map_title: "Stonesword Key"
-      #
-      - "Leyndell, Royal Capital"
-      - id: "k52"
-        data: ["From East Capital Rampart, follow the rampart all the way south until just before the door into a building filled with plants, drop off the side of the rampart onto the rooftops, and hop between rooftops all the way back north, until you find the key on a body next to two Imps"]
-        cords: [4431, 3459]
-        map_title: "Stonesword Key"
-      - id: "k53"
-        data: ["From West Capital Rampart, drop down to ground level and face northwest, then climb the petrified dragon foot and leap from its extended claw to the roof of a barn, and from there into the second floor of an adjacent building, with the key on a body draped over a windowsill"]
-        cords: [4225, 3565]
-        map_title: "Stonesword Key"
-      - id: "k54"
-        data: ["From Avenue Balcony, head down the stairs and hook around them to the right, then down the ladder into a room with many enemies throwing lightning pots, and open the little cell on the ground floor to find a chest with the key inside"]
-        cords: [4301, 3495]
-        map_title: "Stonesword Key"
-      - id: "k55"
-        data: ["From the previous, head out the door on the ground floor, and continue forward until you can hook around a little set of stairs up and right, to see two Skeletal Militiamen and a Putrid Corpse praying at a grave bearing a body with the key"]
-        cords: [4334, 3488]
-        map_title: "Stonesword Key"
-      - id: "k56"
-        data: ["From Lower Capital Church, exit the church and wrap around the building to the right; climb the long ladder and the following ladder to emerge at a gazebo; hook right again before the gazebo, then turn left and follow the tight path until you can climb a large staircase on your left; finally, from the top of the staircase, face directly east and run and jump on top of the gazebo to loot the key from the body"]
-        cords: [4338, 3595]
-        map_title: "Stonesword Key"
-      - id: "k57"
-        data: ["Subterranean Shunning-Grounds: From Underground Roadside, head northeast and drop through the gap in the floor grate, turn northwest and go into the tunnel in the right wall, drop into the first hole surrounded by Slugs, and follow the path from there into a room with three Wraith Callers and the key on a body"]
-        cords: [4364, 3366]
-        map_title: "Stonesword Key"
-      #
-      - "Mountaintops of the Giants"
-      - id: "k58"
-        data: ["Sold by the Hermit Merchant here for 5000 runes"]
-        cords: [5960, 2238]
-        map_title: "Stonesword Key x3"
-      - id: "k59"
-        data: ["Sold by the Hermit Merchant here for 5000 runes"]
-        map_link: [5960, 2238]
-        map_title: "Stonesword Key"
-      - id: "k60"
-        data: ["Sold by the Hermit Merchant here for 5000 runes"]
-        map_link: [5960, 2238]
-        map_title: "Stonesword Key"
-      - id: "k61"
-        data: ["In Castle Sol, from the Church of the Eclipse, exit to the north, climb the ladder to the east, go all the way north, cross the wooden bridge, and climb the stairs on the right to find a body slumped over the wall on the left with the key"]
-        cords: [6037, 1724]
-        map_title: "Stonesword Key"
-      - id: "k62"
-        data: ["On a body right behind the Fire Prelate outside Guardians' Garrison"]
-        cords: [6275, 2393]
-        map_title: "Stonesword Key"
-      #
-      - "Consecrated Snowfield"
-      - id: "k63"
-        data: ["From Inner Consecrated Snowfield, look at your compass and travel exactly one notch north of West, to a hill guarded by two lightning balls; on top is a chair with a corpse with the key"]
-        cords: [5194, 2247]
-        map_title: "Stonesword Key"
-      - id: "k64"
-        data: ["In the northwest of Yelough Anix Ruins, in a tiny crumbling room packed with four frenzied rats"]
-        cords: [5012, 2341]
-        map_title: "Stonesword Key"
-      #
-      - "Miquella's Haligtree"
-      - id: "k65"
-        data: ["Directly south of Haligtree Canopy on a body at the tip of the same branch"]
-        cords: [5610, 1351]
-        map_title: "Stonesword Key"
-      - id: "k66"
-        data: ["From Haligtree Canopy, head east, dropping down when necessary to reach the first Large Oracle Envoy; follow the branch from there east/northeast until you can reach a large central branch with Giant Ants patrolling; follow the large branch south until its first offshoot on the left, which you can follow around in a large ascending circle onto a wide branch above with a scarlot rot flavored Giant Miranda Sprout; face northwest and walk along this branch until its first offshoot at a sharp left angle, at the end of which is an Oracle Envoy and a body with the key"]
-        cords: [5713, 1309]
-        map_title: "Stonesword Key"
-      #
-      - "Crumbling Farum Azula"
-      - id: "k67" #TODO: Verify
-        data: ["In the back of the Dragon Temple to the east, on a body near a ledge"]
-        cords: [8530, 4410]
-        map_title: "Stonesword Key"
-      #
-      - "Siofra River"
-      - id: "k68"
-        data: ["Sold by the Abandoned Merchant for 2000 runes"]
-        cords: [6289, 14256]
-        map_title: "Stonesword Key x3"
-      - id: "k69"
-        data: ["Sold by the Abandoned Merchant for 2000 runes"]
-        map_link: [6289, 14256]
-        map_title: "Stonesword Key"
-      - id: "k70"
-        data: ["Sold by the Abandoned Merchant for 2000 runes"]
-        map_link: [6289, 14256]
-        map_title: "Stonesword Key"
-      - id: "k71"
-        data: ["At the end of the long bridge/wall protruding from the southwest of Siofra River, accessed via a spiritspring in front of it"]
-        cords: [6495, 14564]
-        map_title: "Stonesword Key"
-      - id: "k72"
-        data: ["From the Below the Well grace, travel southwest along the right cliffside until you find a bridge leading to the other side near a Golden Tree; turn left at the other side and hop onto the pillar there, then run down the attached beam to the next pillar, which hides a body with a key"]
-        cords: [6434, 14046]
-        map_title: "Stonesword Key"
-      #
-      - "Nokron, Eternal City"
-      - id: "k73"
-        data: ["On a body just south of the Aqueduct-Facing Cliffs grace, right outside the cave, where you drop down from the ledge above with the jellyfish to reach it"]
-        cords: [6221, 14108]
-        map_title: "Stonesword Key"
-      #
-      - "Ainsel River"
-      - id: "k74"
-        data: ["On a body in water surrounded by many frenzied Miranda Sprouts, near the waterfall just southwest of Uld Palace Ruins"]
-        cords: [3930, 12022]
-        map_title: "Stonesword Key"
-      - id: "k75"
-        data: ["In Nokstella, Eternal City, directly north of the elevator to Nokstella Waterfall Basin, on a cliff under a ledge"]
-        cords: [3356, 11846]
-        map_title: "Stonesword Key"
-      #
-      - "Deeproot Depths"
-      - id: "k76"
-        data: ["Atop the very tall square building directly southeast of Crucible Knight Siluria, reached via the spiritspring next to the building"]
-        cords: [5249, 10856]
-        map_title: "Stonesword Key"
-      #
-      - "Mohgwyn Palace"
-      - id: "k77"
-        data: ["On the south end of the area with many Giant Crows, on a body on the ground in the open"]
-        cords: [6952, 14489]
-        map_title: "Stonesword Key"
-      - id: "k78"
-        data: ["Along the path up from Dynasty Mausoleum Entrance, just past the Giant Skeletal Slime, turn right for a dead end side path with many praying Putrid Corpses and a key on a body against a rock"]
-        cords: [6913, 14428]
-        map_title: "Stonesword Key"
-      - id: "k79"
-        data: ["Sold by the Imprisoned Merchant for 5000 runes"]
-        cords: [6793, 14474]
-        map_title: "Stonesword Key x5"
-      - id: "k80"
-        data: ["Sold by the Imprisoned Merchant for 5000 runes"]
-        map_link: [6793, 14474]
-        map_title: "Stonesword Key"
-      - id: "k81"
-        data: ["Sold by the Imprisoned Merchant for 5000 runes"]
-        map_link: [6793, 14474]
-        map_title: "Stonesword Key"
-      - id: "k82"
-        data: ["Sold by the Imprisoned Merchant for 5000 runes"]
-        map_link: [6793, 14474]
-        map_title: "Stonesword Key"
-      - id: "k83"
-        data: ["Sold by the Imprisoned Merchant for 5000 runes"]
-        map_link: [6793, 14474]
-        map_title: "Stonesword Key"
-  -
-    title: "Imp Statue Seals"
-    map_icon: "/map/icons/shadows/imp.png"
-    items:
-      - "Limgrave"
-      - id: "s1"
-        data: ["2 keys: The entrance to Fringefolk Hero's Grave"]
-        cords: [3727, 7368]
-        map_title: "Imp Statue Seal (2 keys)"
-      - id: "s2"
-        data: ["1 key: A cellar in eastern Summonwater Village containing the Green Turtle Talisman"]
-        cords: [4496, 6510]
-        map_title: "Imp Statue Seal (1 key)"
-      #
-      - "Roundtable Hold"
-      - id: "s3"
-        data: ["1 key: A small room down the stairs near Smithing Master Hewg containing Crepus's Black-Key Crossbow and another Imp Statue Seal"]
-        cords: [631, 8321]
-        map_title: "Imp Statue Seal (1 key)"
-      - id: "s4"
-        data: ["2 keys: A small room accessed via the previous, containing the Assassin's Prayerbook"]
-        cords: [642, 8325]
-        map_title: "Imp Statue Seal (2 keys)"
-      #
-      - "Weeping Peninsula"
-      - id: "s5"
-        data: ["1 key: A small room in Tombsward Catacombs containing Nomadic Warrior's Cookbook [9]"]
-        cords: [3844, 7966]
-        map_title: "Imp Statue Seal (1 key)"
-      - id: "s6"
-        data: ["1 key: Unlocks Weeping Evergaol"]
-        cords: [3615, 7957]
-        map_title: "Imp Statue Seal (1 key)"
-      #
-      - "Stormveil Castle"
-      - id: "s7"
-        data: ["1 key: A cellar down some stairs in the main courtyard opposite Liftside Chamber, on the other side of a room full of rats; contains the Godskin Prayerbook, the Godslayer's Seal, and a shortcut door"]
-        cords: [3122, 6713]
-        map_title: "Imp Statue Seal (1 key)"
-      - id: "s8"
-        data: ["1 key: A small room out the northwest of the main hall with the Grafted Scion, containing the Iron Whetblade, a Miséricorde, and a Hawk Crest Wooden Shield"]
-        cords: [3096, 6693]
-        map_title: "Imp Statue Seal (1 key)"
-      #
-      - "Liurnia of the Lakes"
-      - id: "s9"
-        data: ["1 key: A small room in Cliffbottom Catacombs containing the Nox Mirrorhelm"]
-        cords: [3027, 5957]
-        map_title: "Imp Statue Seal (1 key)"
-      - id: "s10"
-        data: ["2 keys: The entrance to Academy Crystal Cave"]
-        cords: [1723, 4885]
-        map_title: "Imp Statue Seal (2 keys)"
-      - id: "s11"
-        data: ["1 key: A small room in Black Knife Catacombs containing Rosus' Axe"]
-        cords: [2885, 4117]
-        map_title: "Imp Statue Seal (1 key)"
-      - id: "s12"
-        data: ["1 key: A cellar in Lunar Estate Ruins up by the Moonlight Altar accessed late in Ranni's questline. The Imp Statue appears to be by itself, with its seal located to its right underneath an illusory floor blocking a hidden basement. Contains the Cerulean Amber Medallion +2."]
-        cords: [1887, 5920]
-        map_title: "Imp Statue Seal (1 key)"
-      #
-      - "Caelid"
-      - id: "s13"
-        data: ["2 keys: The entrance to Gaol Cave"]
-        cords: [4922, 6779]
-        map_title: "Imp Statue Seal (2 keys)"
-      - id: "s14"
-        data: ["1 key: A cellar in Forsaken Ruins containing the Sword of St. Trina"]
-        cords: [4889, 6351]
-        map_title: "Imp Statue Seal (1 key)"
-      #
-      - "Altus Plateau"
-      - id: "s15"
-        data: ["1 key: Unlocks Golden Lineage Evergaol"]
-        cords: [2865, 3795]
-        map_title: "Imp Statue Seal (1 key)"
-      - id: "s16"
-        data: ["2 keys: The entrance to Unsightly Catacombs"]
-        cords: [2141, 3366]
-        map_title: "Imp Statue Seal (2 keys)"
-      - id: "s21"
-        data: ["1 key: A cellar near the top of Wyndham Ruins containing the Pearldrake Talisman +1"]
-        cords: [2626, 3119]
-        map_title: "Imp Statue Seal (1 key)"
-      - id: "s17"
-        data: ["1 key: A small room in Sainted Hero's Grave containing the Crimson Seed Talisman"]
-        cords: [3237, 3180]
-        map_title: "Imp Statue Seal (1 key)"
-      - id: "s18"
-        data: ["1 key: A small room much farther into Sainted Hero's Grave containing a Ghost Glovewort [5] and the Dragoncrest Shield Talisman +1"]
-        cords: [3223, 3176]
-        map_title: "Imp Statue Seal (1 key)"
-      - id: "s19"
-        data: ["2 keys: The entrance to Old Altus Tunnel"]
-        cords: [2810, 3060]
-        map_title: "Imp Statue Seal (2 keys)"
-      #
-      - "Mt. Gelmir"
-      - id: "s20"
-        data: ["2 keys: The entrance to Seethewater Cave"]
-        cords: [2433, 2828]
-        map_title: "Imp Statue Seal (2 keys)"
-      - id: "s22"
-        data: ["1 key: A small room in Wyndham Catacombs containing the Lightning Scorpion Charm"]
-        cords: [2547, 3081]
-        map_title: "Imp Statue Seal (1 key)"
-      #
-      - "Volcano Manor"
-      - id: "s23"
-        data: ["1 key: A building along the main path from Prison Town Church with an Abductor Virgin and a spiral staircase to the Crimson Amber Medallion +1"]
-        cords: [2017, 2987]
-        map_title: "Imp Statue Seal (1 key)"
-      - id: "s24"
-        data: ["2 keys: In the grand hall with an eastern upstairs exit to a balcony with the teleporter to Audience Chamber, climb the west-facing stairs instead; a cavernous room with hanging cages that leads to the Dagger Talisman, a Seedbed Curse, a Somber Smithing Stone [7], and eventually a shortcut door"]
-        cords: [2185, 2869]
-        map_title: "Imp Statue Seal (2 keys)"
-      #
-      - "Capital Outskirts"
-      - id: "s25"
-        data: ["1 key: A small room in Auriza Hero's Grave containing the Golden Epitaph"]
-        cords: [4529, 3313]
-        map_title: "Imp Statue Seal (1 key)"
-      #
-      - "Mountaintops of the Giants"
-      - id: "s26"
-        data: ["2 keys: The entrance to Spiritcaller Cave"]
-        cords: [6480, 2046]
-        map_title: "Imp Statue Seal (2 keys)"
-      - id: "s27"
-        data: ["1 key: A small room in Giant-Conquering Hero's Grave containing Flame, Protect Me"]
-        cords: [5672, 2823]
-        map_title: "Imp Statue Seal (1 key)"
-      #
-      - "Consecrated Snowfield"
-      - id: "s28"
-        data: ["2 keys: The entrance to Cave of the Forlorn"]
-        cords: [5678, 2147]
-        map_title: "Imp Statue Seal (2 keys)"
-      #
-      - "Elphael, Brace of the Haligtree"
-      - id: "s29"
-        data: ["1 key: Drop down twice immediately after the Prayer Room grace; a small room containing Triple Rings of Light"]
-        cords: [5710, 915]
-        map_title: "Imp Statue Seal (1 key)"
-      - id: "s30"
-        data: ["1 key: Visible below from the previous, but must be climbed down to further on, e.g. via the pillars; a small room containing the Marika's Soreseal"]
-        cords: [5726, 935]
-        map_title: "Imp Statue Seal (1 key)"
-      #
-      - "Crumbling Farum Azula"
-      - id: "s31"
-        data: ["2 keys: Unlocks the Dragon Temple Lift"]
-        cords: [8432, 4332] #TODO: Verify
-        map_title: "Imp Statue Seal (2 keys)"
-      #
-      - "Siofra River"
-      - id: "s32"
-        data: ["2 keys: The elevator up to Deep Siofra Well"]
-        cords: [6593, 13866]
-        map_title: "Imp Statue Seal (2 keys)"
-      #
-      - "Nokron, Eternal City"
-      - id: "s33"
-        data: ["1 key: A room down a small hall in the massive cathedral with a large ball in Night's Sacred Ground, upstairs near the altar with the Black Whetblade; contains the Mimic Tear Ashes"]
-        cords: [6098, 14428]
-        map_title: "Imp Statue Seal (1 key)"
-      #
-      - "Nokstella, Eternal City"
-      - id: "s34"
-        data: ["1 key: A room along the path to the top, tucked around the far side of a building before the bridge leading to a large ball on a stairway; contains two Nox Monks guarding the Nightmaiden & Swordstress Puppets"]
-        cords: [3473, 11993]
-        map_title: "Imp Statue Seal (1 key)"
+- title: 石剑钥匙
+  icon: /img/icons/keys/00228.png
+  map_icon: /map/icons/shadows/keys/00228.png
+  items:
+  - id: k1
+    data:
+    - 可以选两把作为遗物
+  - id: k2
+    data:
+    - 可以选两把作为遗物
+  - 宁姆格福
+  - id: k3
+    data:
+    - 在<b>[龙息废墟]</b>中心一个小房间里，一只老鼠看守着尸体
+    cords:
+    - 3939
+    - 7352
+    map_title: 石剑钥匙
+  - id: k4
+    data:
+    - <b>[蒙流洞窟]</b>(以及他之后所在的位置)的<b>[帕奇]</b>以5000卢恩出售
+    cords:
+    - 4015
+    - 6975
+    map_title: 石剑钥匙
+  - id: k5
+    data:
+    - 在<b>[风暴山丘的破屋]</b>前面，木制平台的小楼梯上
+    cords:
+    - 3485
+    - 6762
+    map_title: 石剑钥匙
+  - id: k6
+    data:
+    - <b>[边境英雄墓地]</b>，在你可以射下罐子摧毁战车的窗台上
+    cords:
+    - 3757
+    - 7304
+    map_title: 石剑钥匙
+  - 圆桌厅堂
+  - id: k7
+    data:
+    - 由<b>[孪生老妪]</b>以4000卢恩出售
+    cords:
+    - 451
+    - 8385
+    map_title: 石剑钥匙
+  - id: k8
+    data:
+    - 由<b>[孪生老妪]</b>以4000卢恩出售
+    map_link:
+    - 451
+    - 8385
+    map_title: 石剑钥匙
+  - id: k9
+    data:
+    - 由<b>[孪生老妪]</b>以4000卢恩出售
+    map_link:
+    - 451
+    - 8385
+    map_title: 石剑钥匙
+  - 啜泣半岛
+  - id: k10
+    data:
+    - 在<b>[献祭大桥]</b>的一个弩炮后面的尸体上
+    cords:
+    - 4350
+    - 7756
+    map_title: 石剑钥匙
+  - id: k11
+    data:
+    - 在东北高地的北端，一具尸体坐在椅子上
+    cords:
+    - 4435
+    - 7826
+    map_title: 石剑钥匙
+  - id: k12
+    data:
+    - 在东部由<b>[流浪民族的商人]</b>以2000卢恩出售
+    cords:
+    - 4307
+    - 8185
+    map_title: 石剑钥匙
+  - id: k13
+    data:
+    - 在西部由<b>[隐居商人]</b>以2000卢恩出售
+    cords:
+    - 3450
+    - 8230
+    map_title: 石剑钥匙
+  - id: k14
+    data:
+    - 在西部由<b>[隐居商人]</b>以2000卢恩出售
+    map_link:
+    - 3450
+    - 8230
+    map_title: 石剑钥匙
+  - id: k15
+    data:
+    - 在西部由<b>[隐居商人]</b>以2000卢恩出售
+    map_link:
+    - 3450
+    - 8230
+    map_title: 石剑钥匙
+  - id: k16
+    data:
+    - 从<b>[摩恩城]</b>的<b>赐福[城堡后方]</b>下楼梯到第一个屋顶，然后向前走，在中间下跳到一个木制平台上，钥匙在尸体上
+    cords:
+    - 3973
+    - 8699
+    map_title: 石剑钥匙
+  - 史东薇尔城
+  - id: k17
+    data:
+    - 从<b>赐福[城墙塔]</b>出发，沿着中央螺旋楼梯向上到达屋顶; 从沙袋堆沿着石梁到南塔，然后转向东，跳到下一个半毁的塔，跳进去在里面找到的尸体
+    cords:
+    - 3104
+    - 6709
+    map_title: 石剑钥匙
+  - id: k18
+    data:
+    - 在<b>[“接肢”贵族后裔]</b>上方木制平台上的一具尸体上(从<b>[城墙塔]</b>下捷径电梯)
+    cords:
+    - 3132
+    - 6698
+    map_title: 石剑钥匙
+  - id: k19
+    data:
+    - 在<b>[腐烂树灵]</b>所在坑的尸体上，经过第一个大树根后的左侧
+    cords:
+    - 3078
+    - 6662
+    map_title: 石剑钥匙
+  - 湖之利耶尼亚
+  - id: k20
+    data:
+    - 在<b>[学院结晶洞窟]</b>，靠左走经过老鼠和法师找到一个在后面的小房间，在一个笼子里的尸体上
+    cords:
+    - 1733
+    - 4883
+    map_title: 石剑钥匙
+  - id: k21
+    data:
+    - <b>赐福[雷亚卢卡利亚（南门）]</b>正东的岛屿上，从<b>[门前镇的北方]</b>到达; 在一个浮出水面的小塔的宝箱里，需要龙卷风双跳才能到达
+    cords:
+    - 2102
+    - 5056
+    map_title: 石剑钥匙
+  - id: k22
+    data:
+    - 在<b>[魔法学院雷亚卢卡利亚]</b>外东北角的底部，有一个斜坡，通向一个有许多幽灵召唤者的区域，钥匙在椅子的尸体上
+    cords:
+    - 1948
+    - 4840
+    map_title: 石剑钥匙
+  - id: k23
+    data:
+    - 由<b>[雷亚卢卡利亚（南门）]</b>的<b>[隐居商人]</b>以3000卢恩出售
+    cords:
+    - 2028
+    - 4957
+    map_title: 石剑钥匙
+  - id: k24
+    data:
+    - 由<b>[雷亚卢卡利亚（南门）]</b>的<b>[隐居商人]</b>以3000卢恩出售
+    map_link:
+    - 2028
+    - 4957
+    map_title: 石剑钥匙
+  - id: k25
+    data:
+    - 由<b>[雷亚卢卡利亚（南门）]</b>的<b>[隐居商人]</b>以3000卢恩出售
+    map_link:
+    - 2028
+    - 4957
+    map_title: 石剑钥匙
+  - id: k26
+    data:
+    - 在崖壁截断道路之前，尽可能往北走，在一小片花中，坐在椅子上的尸体上
+    cords:
+    - 2782
+    - 4459
+    map_title: 石剑钥匙
+  - id: k27
+    data:
+    - 在<b>[癫火村]</b>的西墙上
+    cords:
+    - 2573
+    - 4200
+    map_title: 石剑钥匙
+  - id: k28
+    data:
+    - 从<b>[卡利亚城寨]</b>上方的<b>{PL6200001}</b>，沿着屋顶的路径，必要时向下跳，一直到俯瞰正门的城墙，上面有一只巨蟹，守护着一具尸体
+    cords:
+    - 1885
+    - 3832
+    map_title: 石剑钥匙
+  - 魔法学院雷亚卢卡利亚
+  - id: k29
+    data:
+    - 穿过<b>[讨论室]</b>(<b>[拉达冈的红狼]</b>)前面的幻影书架墙，在柜子后面祭坛的另一边
+    cords:
+    - 1923
+    - 5008
+    map_title: 石剑钥匙
+  - id: k30
+    data:
+    - 在<b>[讨论室]</b>庭院后面，一具尸体悬挂在中央喷泉上
+    cords:
+    - 1949
+    - 4942
+    map_title: 石剑钥匙
+  - 盖利德
+  - id: k31
+    data:
+    - 在<b>[牢狱洞窟]</b>中，小牢房的身体上
+    cords:
+    - 4921
+    - 6764
+    map_title: 石剑钥匙
+  - id: k32
+    data:
+    - 由南部的<b>[流浪民族的商人]</b>以4000卢恩出售
+    cords:
+    - 5416
+    - 7067
+    map_title: 石剑钥匙
+  - id: k33
+    data:
+    - 从<b>赐福[龙墓西方]</b>，前往<b>[盖利德神授塔]</b>跳上高处的树枝，然后到第一个窗台，有梯子和一个举着火把的哨兵; 不要爬梯子，面向东南，沿着拱门走，在下一个平台上，有一名骑士守护着一具尸体
+    cords:
+    - 5569
+    - 6091
+    map_title: 石剑钥匙
+  - id: k34
+    data:
+    - 在<b>[魔法镇瑟利亚]</b>，城镇南部入口连接两个建筑物拱门顶部的尸体上; 向北穿过下面的拱门，右转看到碎石堆和一棵腐烂的树，骑马上去
+    cords:
+    - 5628
+    - 6618
+    map_title: 石剑钥匙
+  - id: k35
+    data:
+    - 从<b>[法洛斯要塞]</b>向西爬上远处巨大的白色岩石; 在上面一具椅子倒了的尸体上
+    cords:
+    - 5747
+    - 6449
+    map_title: 石剑钥匙
+  - id: k36
+    data:
+    - <b>[希芙拉河的出口井]</b>南边，穿过大熊，尸体在悬崖上
+    cords:
+    - 5353
+    - 6421
+    map_title: 石剑钥匙
+  - 亚坛高原
+  - id: k37
+    data:
+    - 从<b>[迪可达斯大升降机]</b>往东北方向走的不远处，在右边的一个混种小营地，靠着帐篷的尸体上
+    cords:
+    - 2940
+    - 3670
+    map_title: 石剑钥匙
+  - id: k38
+    data:
+    - 在<b>[贤者的洞窟]</b>沿着线性道路前进，必要时穿过幻影墙壁，直到篝火、许多钟乳石和一个挥舞<b>[斩身大柴刀]</b>的更大骷髅的更开放的房间;
+      在左边，另一具骷髅正盯着一堵幻影墙，墙后隐藏着的宝箱
+    cords:
+    - 2528
+    - 3269
+    map_title: 石剑钥匙
+  - id: k39
+    data:
+    - 由这里的<b>[流浪民族的商人]</b>以4000卢恩出售
+    cords:
+    - 3321
+    - 3074
+    map_title: 石剑钥匙
+  - id: k40
+    data:
+    - 由这里的<b>[流浪民族的商人]</b>以4000卢恩出售
+    map_link:
+    - 3321
+    - 3074
+    map_title: 石剑钥匙
+  - id: k41
+    data:
+    - 由这里的<b>[流浪民族的商人]</b>以4000卢恩出售
+    map_link:
+    - 3321
+    - 3074
+    map_title: 石剑钥匙
+  - id: k42
+    data:
+    - 在<b>[亚坛高原]</b>中心雷暴不断的高地东侧，倒在石头平台上的尸体
+    cords:
+    - 3429
+    - 3295
+    map_title: 石剑钥匙
+  - id: k43
+    data:
+    - 从<b>赐福[日荫城（城墙）]</b>出发，走下小楼梯，然后左转，沿着壁垒找到一个靠近斜坡的调香师，然后下到下面的沼泽。城墙在这个斜坡附近破损并可以借此爬上去，往你过来的方向走(南)，直到你可以跳到右边的大石头障碍物上。小心翼翼地爬上石头，精确地跳跃几下，直到一块突出的岩石稍微向右环绕，从那里你可以看到前面有一个较低的平台，你可以跳上去。然后左转，跳过路上的岩石(有点难)，然后降落到另一边，在一个小平台的尸体上，三个鼻涕虫从下面看着你。
+    cords:
+    - 2972
+    - 2711
+    map_title: 石剑钥匙
+  - 格密尔火山
+  - id: k44
+    data:
+    - 在<b>[格密尔英雄墓地]</b>，通过第一辆战车，一些贵族和侍从，以及一个火焰陷阱，你会发现通过拱门的第二辆战车; 不左转下去，而是右转并跑到一条死路拾取钥匙，在不被战车杀死的情况下回去是非常困难的，因为它会在返回的路上突然沿着斜坡一路冲刺，所以你只能通过牺牲来回原位。
+    cords:
+    - 2530
+    - 2915
+    map_title: 石剑钥匙
+  - id: k45
+    data:
+    - 在<b>[飘尸臭的破屋]</b>西边的断桥上
+    cords:
+    - 2513
+    - 2700
+    map_title: 石剑钥匙
+  - id: k46
+    data:
+    - 由这里的<b>[流浪民族的商人]</b>以5000卢恩出售
+    cords:
+    - 2438
+    - 2633
+    map_title: 石剑钥匙
+  - id: k47
+    data:
+    - 在<b>[莱多要塞]</b>北面有墓碑和水母的角落里，一具尸体靠着一棵大树
+    cords:
+    - 1957
+    - 2722
+    map_title: 石剑钥匙
+  - 火山官邸
+  - id: k48
+    data:
+    - 从<b>赐福[牢镇教堂]</b>出发，在篝火旁进入<b>[恶兆猎人]</b>所在的城镇广场。穿过门口附近<b>[恶兆猎人]</b>的初始位置，通过另一个拱门和猎犬，并向右转。走下楼梯到那个破洞那里。如果你做一个冲刺跳，而不是往下掉落，你可以勉强到达缝隙的另一端，并落在木制平台上，那里有钥匙。
+    cords:
+    - 2063
+    - 2983
+    map_title: 石剑钥匙
+  - id: k49
+    data:
+    - 从东南方向离开<b>[“招募者”菈雅]</b>任务线后期移动到<b>[火山官邸]</b>深处的那个房间，跳过稀薄的熔岩流，并通过打开的窗户跳上窗台，在床上的尸体上找到钥匙
+    cords:
+    - 2224
+    - 2976
+    map_title: 石剑钥匙
+  - 王城外围
+  - id: k50
+    data:
+    - 在<b>[封印坑道]</b>中，当你出现在一个可以通过树枝到达的开放房间，里面有许多恶兵和一个铁处女，使用树枝到达右边的平台，短的死路尽头尸体上
+    cords:
+    - 3914
+    - 3668
+    map_title: 石剑钥匙
+  - id: k51
+    data:
+    - 在<b>[亚雷萨英雄墓地]</b>两辆战车相对运行的房间，他们路径中心凹陷处的尸体上
+    cords:
+    - 4556
+    - 3311
+    map_title: 石剑钥匙
+  - 王城罗德尔
+  - id: k52
+    data:
+    - 从<b>[王城东边城墙]</b>沿着城墙一路南下，直到门之前进入一个充满植物的建筑，从城墙的一边掉到屋顶，并在屋顶之间一路跳回北方，直到你在两个小恶魔旁的尸体上找到钥匙
+    cords:
+    - 4431
+    - 3459
+    map_title: 石剑钥匙
+  - id: k53
+    data:
+    - 从<b>[王城西边城墙]</b>向下到地面，面向西北，然后爬上石化的龙脚，从它伸出的爪子跳到谷仓的屋顶，从那里进入相邻建筑的二楼，钥匙放在挂在窗台上的尸体上
+    cords:
+    - 4225
+    - 3565
+    map_title: 石剑钥匙
+  - id: k54
+    data:
+    - 从<b>[大道旁露台]</b>下楼梯，沿路到右边，然后从梯子下到一个房间，有许多敌人扔闪电罐，打开一楼的小牢房，发现一个宝箱里有钥匙
+    cords:
+    - 4301
+    - 3495
+    map_title: 石剑钥匙
+  - id: k55
+    data:
+    - 在前面的场景中，从一楼的门出去，继续向前走，直到你可以绕着一段小楼梯往上走，然后向右走，你会看到两个骷髅和一个腐烂的尸体在一个坟墓前祈祷，坟墓里有一个带钥匙的尸体
+    cords:
+    - 4334
+    - 3488
+    map_title: 石剑钥匙
+  - id: k56
+    data:
+    - 从<b>[王城底层教堂]</b>出教堂，并绕建筑到右边; 爬上长梯和下面的楼梯，来到凉亭; 在凉亭前向右转，然后左转，沿着狭窄的小路走，直到你能爬上左边的一个大楼梯;
+      最后，从楼梯的顶部，直接面向东方，冲刺跳上凉亭的顶部，从尸体上获取钥匙
+    cords:
+    - 4338
+    - 3595
+    map_title: 石剑钥匙
+  - id: k57
+    data:
+    - '<b>[弃置恶兆的地底]</b>: 从<b>[地底大道旁]</b>出发，向东北从地板格的缝隙下落，转向西北，进入右边墙壁的隧道，进入第一个被鼻涕虫包围的洞，然后从那里沿着路径进入一个房间，里面有三个幽灵召唤者，尸体上有钥匙'
+    cords:
+    - 4364
+    - 3366
+    map_title: 石剑钥匙
+  - 巨人山顶
+  - id: k58
+    data:
+    - 由这里的<b>[遁世商人]</b>以5000卢恩出售
+    cords:
+    - 5960
+    - 2238
+    map_title: 石剑钥匙
+  - id: k59
+    data:
+    - 由这里的<b>[遁世商人]</b>以5000卢恩出售
+    map_link:
+    - 5960
+    - 2238
+    map_title: 石剑钥匙
+  - id: k60
+    data:
+    - 由这里的<b>[遁世商人]</b>以5000卢恩出售
+    map_link:
+    - 5960
+    - 2238
+    map_title: 石剑钥匙
+  - id: k61
+    data:
+    - 在<b>[索尔城]</b>，从<b>[日蚀教堂]</b>向北出去，爬梯子向东，一路向北，穿过木桥，爬上右边的楼梯，发现一具尸体带着钥匙倒在左边的墙上
+    cords:
+    - 6037
+    - 1724
+    map_title: 石剑钥匙
+  - id: k62
+    data:
+    - <b>[监视者要塞]</b>外面火焰主教身后的一具尸体上
+    cords:
+    - 6275
+    - 2393
+    map_title: 石剑钥匙
+  - 化圣雪原
+  - id: k63
+    data:
+    - 从<b>[化圣雪原（深处）]</b>出发向西北方走到达一个由两个闪电球守卫的小山; 上面椅子上的尸体
+    cords:
+    - 5194
+    - 2247
+    map_title: 石剑钥匙
+  - id: k64
+    data:
+    - 在<b>[耶罗·亚尼斯废墟]</b>西北的一个小破屋里，有四只疯狂的老鼠
+    cords:
+    - 5012
+    - 2341
+    map_title: 石剑钥匙
+  - 米凯拉的圣树
+  - id: k65
+    data:
+    - 在<b>[圣树树冠]</b>正南方同一岔路顶端的身体上
+    cords:
+    - 5610
+    - 1351
+    map_title: 石剑钥匙
+  - id: k66
+    data:
+    - 从<b>[圣树树冠]</b>向东，下降时路过第一个神谕使者; 沿着树枝从那里向东/东北，直到一个巨大的中央岔路口有巨型蚂蚁巡逻; 跟随大的分岔往南，直到第一个左分岔，过去环绕上升到一个宽的分岔路上有一个巨大病花芽;
+      面朝西北，沿着这条树枝一直走到它的第一个分岔，在它的左边有一个凸出尖角，在这条路的尽头是一个神谕使者和一个带钥匙的尸体
+    cords:
+    - 5713
+    - 1309
+    map_title: 石剑钥匙
+  - 逐渐崩毁的法姆·亚兹拉
+  - id: k67
+    data:
+    - 在<b>[龙教堂]</b>的后面向东，在一个靠近窗台的尸体上
+    cords:
+    - 8530
+    - 4410
+    map_title: 石剑钥匙
+  - 希芙拉河
+  - id: k68
+    data:
+    - 由<b>[见弃商人]</b>以2000卢恩出售
+    cords:
+    - 6289
+    - 14256
+    map_title: 石剑钥匙
+  - id: k69
+    data:
+    - 由<b>[见弃商人]</b>以2000卢恩出售
+    map_link:
+    - 6289
+    - 14256
+    map_title: 石剑钥匙
+  - id: k70
+    data:
+    - 由<b>[见弃商人]</b>以2000卢恩出售
+    map_link:
+    - 6289
+    - 14256
+    map_title: 石剑钥匙
+  - id: k71
+    data:
+    - 在长桥/墙的尽头，从<b>[希芙拉河]</b>西南突出位置前面的一个龙卷风跳跃进入
+    cords:
+    - 6495
+    - 14564
+    map_title: 石剑钥匙
+  - id: k72
+    data:
+    - 从<b>赐福[出口井的下方]</b>沿右边的悬崖向西南走，直到你在一棵黄金树附近找到一座通往另一边的桥; 在另一边左转，跳上柱子，然后沿着与下一根柱子相连的横梁跑下去，柱子上藏着一个带钥匙的尸体
+    cords:
+    - 6434
+    - 14046
+    map_title: 石剑钥匙
+  - “永恒之城”诺克隆恩
+  - id: k73
+    data:
+    - 在<b>赐福[导水桥旁断崖]</b>的南边，就在洞穴外面，在有水母的窗台上下落
+    cords:
+    - 6221
+    - 14108
+    map_title: 石剑钥匙
+  - 安瑟尔河
+  - id: k74
+    data:
+    - 在<b>[兀德王朝遗迹]</b>西南方向的瀑布附近，一个被许多疯狂的病花芽包围的水中尸体上。
+    cords:
+    - 3930
+    - 12022
+    map_title: 石剑钥匙
+  - id: k75
+    data:
+    - 在<b>[“永恒之城”诺克史黛拉]</b>，通往<b>[诺克史黛拉水潭]</b>的电梯正北方，在一个岩架下的悬崖上
+    cords:
+    - 3356
+    - 11846
+    map_title: 石剑钥匙
+  - 深根底层
+  - id: k76
+    data:
+    - 在<b>[“熔炉骑士”志留亚]</b>正东南非常高的广场建筑的顶部，通过建筑旁边的龙卷风跳到达
+    cords:
+    - 5249
+    - 10856
+    map_title: 石剑钥匙
+  - 蒙格温王朝
+  - id: k77
+    data:
+    - 在该地区的南端有许多巨型乌鸦，在开放区域地面的一具尸体上
+    cords:
+    - 6952
+    - 14489
+    map_title: 石剑钥匙
+  - id: k78
+    data:
+    - 沿着路径从<b>[王朝庙（入口）]</b>出发经过巨大骷髅史莱姆，右转到一个死路，有许多在祈祷的腐烂尸体和对着岩石的尸体
+    cords:
+    - 6913
+    - 14428
+    map_title: 石剑钥匙
+  - id: k79
+    data:
+    - 由<b>[受囚商人]</b>以5000卢恩出售
+    cords:
+    - 6793
+    - 14474
+    map_title: 石剑钥匙 x5
+  - id: k80
+    data:
+    - 由<b>[受囚商人]</b>以5000卢恩出售
+    map_link:
+    - 6793
+    - 14474
+    map_title: 石剑钥匙
+  - id: k81
+    data:
+    - 由<b>[受囚商人]</b>以5000卢恩出售
+    map_link:
+    - 6793
+    - 14474
+    map_title: 石剑钥匙
+  - id: k82
+    data:
+    - 由<b>[受囚商人]</b>以5000卢恩出售
+    map_link:
+    - 6793
+    - 14474
+    map_title: 石剑钥匙
+  - id: k83
+    data:
+    - 由<b>[受囚商人]</b>以5000卢恩出售
+    map_link:
+    - 6793
+    - 14474
+    map_title: 石剑钥匙
+- title: 小恶魔像的封印
+  map_icon: /map/icons/shadows/imp.png
+  items:
+  - 宁姆格福
+  - id: s1
+    data:
+    - '2把: <b>[边境英雄墓地]</b>的入口'
+    cords:
+    - 3727
+    - 7368
+    map_title: 小恶魔像的封印 (2把钥匙)
+  - id: s2
+    data:
+    - '1把: 在<b>[水唤村]</b>东部的一个地窖，里面有<b>[绿龟护符]</b>'
+    cords:
+    - 4496
+    - 6510
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - 圆桌厅堂
+  - id: s3
+    data:
+    - '1把: <b>[铁匠修古]</b>附近楼梯下的一个小房间，有<b>[克雷普的黑键]</b>和另一个小恶魔像的封印'
+    cords:
+    - 631
+    - 8321
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - id: s4
+    data:
+    - '2把: 通过前面的封印，内含<b>[刺客祷告书]</b>'
+    cords:
+    - 642
+    - 8325
+    map_title: 小恶魔像的封印 (2把钥匙)
+  - 啜泣半岛
+  - id: s5
+    data:
+    - '1把: 在<b>[灵庙原野地下墓地]</b>里的一个小房间，里面有<b>[流浪战士的制作笔记【９】]</b>'
+    cords:
+    - 3844
+    - 7966
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - id: s6
+    data:
+    - '1把: 解锁<b>[啜泣的封印监牢]</b>'
+    cords:
+    - 3615
+    - 7957
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - 史东薇尔城
+  - id: s7
+    data:
+    - '1把: <b>[升降机旁房间]</b>主庭院下一些楼梯的地窖，在另一边的一个房间全是老鼠; 内有<b>[神皮祷告书]</b>、<b>[狩猎神祇圣印记]</b>和一个捷径门'
+    cords:
+    - 3122
+    - 6713
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - id: s8
+    data:
+    - '1把: <b>[“接肢”贵族后裔]</b>所在主大厅西北方向的一个小房间，里面有<b>[铁制砥石刀]</b>、<b>[慈悲短剑]</b>和<b>[鹰纹木盾]</b>'
+    cords:
+    - 3096
+    - 6693
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - 湖之利耶尼亚
+  - id: s9
+    data:
+    - '1把: <b>[断崖下的地下墓地]</b>的一个小房间，里面有<b>[诺克斯镜面盔]</b>'
+    cords:
+    - 3027
+    - 5957
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - id: s10
+    data:
+    - '2把: <b>[学院结晶洞窟]</b>的入口'
+    cords:
+    - 1723
+    - 4885
+    map_title: 小恶魔像的封印 (2把钥匙)
+  - id: s11
+    data:
+    - '1把: <b>[黑刀地下墓地]</b>的一个小房间，里面有<b>[罗泽司的斧]</b>'
+    cords:
+    - 2885
+    - 4117
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - id: s12
+    data:
+    - '1把: 被<b>[月光祭坛]</b>(<b>[魔女菈妮]</b>任务线可到访)旁的<b>[月之贵族废墟]</b>中的一个地下室。小恶魔像似乎是孤立的，封印位于它的右边，一个幻影地板挡住了一个隐藏的地下室，内有<b>[蓝琥珀链坠＋２]</b>。'
+    cords:
+    - 1887
+    - 5920
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - 盖利德
+  - id: s13
+    data:
+    - '2把: <b>[牢狱洞窟]</b>的入口'
+    cords:
+    - 4922
+    - 6779
+    map_title: 小恶魔像的封印 (2把钥匙)
+  - id: s14
+    data:
+    - '1把: <b>[荒废废墟]</b>的一个地下室，内有<b>[托莉娜剑]</b>'
+    cords:
+    - 4889
+    - 6351
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - 亚坛高原
+  - id: s15
+    data:
+    - '1把: 解锁<b>[黄金一族的封印监牢]</b>'
+    cords:
+    - 2865
+    - 3795
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - id: s16
+    data:
+    - '2把: <b>[丑恶地下墓地]</b>的入口'
+    cords:
+    - 2141
+    - 3366
+    map_title: 小恶魔像的封印 (2把钥匙)
+  - id: s21
+    data:
+    - '1把: 靠近<b>[威达姆废墟]</b>顶部的一个房间，里面有<b>[珍珠龙徽护符＋１]</b>'
+    cords:
+    - 2626
+    - 3119
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - id: s17
+    data:
+    - '1把: <b>[尊贵者的英雄墓地]</b>的一个小房间，里面有<b>[红种子护符]</b>'
+    cords:
+    - 3237
+    - 3180
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - id: s18
+    data:
+    - '1把: 靠近<b>[尊贵者的英雄墓地]</b>的一个小房间，里面有<b>[灵依墓地铃兰【５】]</b>和<b>[龙徽盾护符＋１]</b>'
+    cords:
+    - 3223
+    - 3176
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - id: s19
+    data:
+    - '2把: <b>[旧亚坛坑道]</b>的入口'
+    cords:
+    - 2810
+    - 3060
+    map_title: 小恶魔像的封印 (2把钥匙)
+  - 格密尔火山
+  - id: s20
+    data:
+    - '2把: <b>[沸滚河洞窟]</b>的入口'
+    cords:
+    - 2433
+    - 2828
+    map_title: 小恶魔像的封印 (2把钥匙)
+  - id: s22
+    data:
+    - '1把: <b>[威达姆地下墓地]</b>的一个小房间，里面有<b>[雷对蝎]</b>'
+    cords:
+    - 2547
+    - 3081
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - 火山官邸
+  - id: s23
+    data:
+    - '1把: 从<b>[牢镇教堂]</b>出发有<b>[掳人少女人偶]</b>的主路螺旋楼梯到达一个建筑，内有<b>[红琥珀链坠＋１]</b>'
+    cords:
+    - 2017
+    - 2987
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - id: s24
+    data:
+    - '2把: 在东边上去出去的阳台有传送门直达<b>[谒见之路]</b>的大厅，爬西边的楼梯; 洞后一个带有悬挂笼子的房间，内有<b>[短剑护符]</b>，<b>[温床的诅咒]</b>，<b>[失色锻造石【７】]</b>，最终达到一个捷径门'
+    cords:
+    - 2185
+    - 2869
+    map_title: 小恶魔像的封印 (2把钥匙)
+  - 王城外围
+  - id: s25
+    data:
+    - '1把: <b>[亚雷萨英雄墓地]</b>的一个小房间，里面有<b>[黄金墓碑]</b>'
+    cords:
+    - 4529
+    - 3313
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - 巨人山顶
+  - id: s26
+    data:
+    - '2把: <b>[唤灵洞窟]</b>的入口'
+    cords:
+    - 6480
+    - 2046
+    map_title: 小恶魔像的封印 (2把钥匙)
+  - id: s27
+    data:
+    - '1把: <b>[巨人战争的英雄墓地]</b>的一个小房间，里面有<b>[火焰的庇佑啊]</b>'
+    cords:
+    - 5672
+    - 2823
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - 化圣雪原
+  - id: s28
+    data:
+    - '2把: <b>[安身洞窟]</b>的入口'
+    cords:
+    - 5678
+    - 2147
+    map_title: 小恶魔像的封印 (2把钥匙)
+  - “圣树分枝”艾布雷菲尔
+  - id: s29
+    data:
+    - '1把: 在<b>赐福[祈祷室]</b>立即下落两次; 有<b>[化三光环]</b>的小房间'
+    cords:
+    - 5710
+    - 915
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - id: s30
+    data:
+    - '1把: 从前一个房间向下可以看到，但必须继续往下爬，例如通过柱子; 内有<b>[玛莉卡的糜烂烙印]</b>的小房间'
+    cords:
+    - 5726
+    - 935
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - 逐渐崩毁的法姆·亚兹拉
+  - id: s31
+    data:
+    - '2把: 解锁<b>[龙教堂（升降机前）]</b>'
+    cords:
+    - 8432
+    - 4332
+    map_title: 小恶魔像的封印 (2把钥匙)
+  - 希芙拉河
+  - id: s32
+    data:
+    - '2把: 电梯上到<b>[希芙拉河的出口井]</b>'
+    cords:
+    - 6593
+    - 13866
+    map_title: 小恶魔像的封印 (2把钥匙)
+  - “永恒之城”诺克隆恩
+  - id: s33
+    data:
+    - '1把: <b>[黑夜神域]</b>巨大教堂的一个小厅下面的一个房间，有一个大的球，在楼上有<b>[漆黑砥石刀]</b>的圣坛旁; 内有<b>[仿身泪滴的骨灰]</b>'
+    cords:
+    - 6098
+    - 14428
+    map_title: 小恶魔像的封印 (1把钥匙)
+  - “永恒之城”诺克史黛拉
+  - id: s34
+    data:
+    - '1把: 沿着通往顶部路径的一个房间，在通向楼梯上的一个大球的桥之前，隐藏在建筑物的远侧; 内有两个<b>[诺克斯修士]</b>守卫着<b>[黑夜女巫与剑士的傀儡]</b>'
+    cords:
+    - 3473
+    - 11993
+    map_title: 小恶魔像的封印 (1把钥匙)
