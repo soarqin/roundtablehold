@@ -1308,7 +1308,7 @@ const feature_data = [
           "icon_size": 35,
           "id": "bosses_4_21",
           "link": "/checklists/bosses.html#item_4_21",
-          "title": "\u201c\u63a5\u80a2\u201d\u8d35\u65cf\u540e\u88d4 (\u901a\u8fc7\u5229\u8036\u5c3c\u4e9a\u897f\u8fb9\u7684\u56db\u949f\u697c)"
+          "title": "\u201c\u63a5\u80a2\u201d\u8d35\u65cf\u540e\u88d4 (\u901a\u8fc7\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a\u897f\u8fb9\u7684\u56db\u949f\u697c)"
         },
         "type": "Feature"
       },
@@ -18910,7 +18910,7 @@ const feature_data = [
           "icon_size": 35,
           "id": "paintings_1_1",
           "link": "/checklists/paintings.html#item_1_1",
-          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Prophecy+Painting\"><b>[\u7ed8\u753b\u300a\u9884\u8a00\u300b]</b></a>"
+          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Prophecy+Painting\"><b>\u7ed8\u753b\u300a\u9884\u8a00\u300b</b></a>"
         },
         "type": "Feature"
       },
@@ -18929,7 +18929,7 @@ const feature_data = [
           "icon_size": 35,
           "id": "paintings_1_2",
           "link": "/checklists/paintings.html#item_1_2",
-          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Homing+Instinct+Painting\"><b>[\u7ed8\u753b\u300a\u5f52\u5de2\u300b]</b></a>"
+          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Homing+Instinct+Painting\"><b>\u7ed8\u753b\u300a\u5f52\u5de2\u300b</b></a>"
         },
         "type": "Feature"
       },
@@ -18948,7 +18948,7 @@ const feature_data = [
           "icon_size": 35,
           "id": "paintings_2_1",
           "link": "/checklists/paintings.html#item_2_1",
-          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Resurrection+Painting\"><b>[\u7ed8\u753b\u300a\u518d\u4e16\u300b]</b></a>"
+          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Resurrection+Painting\"><b>\u7ed8\u753b\u300a\u518d\u4e16\u300b</b></a>"
         },
         "type": "Feature"
       },
@@ -18967,7 +18967,7 @@ const feature_data = [
           "icon_size": 35,
           "id": "paintings_3_1",
           "link": "/checklists/paintings.html#item_3_1",
-          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Redmane+Painting\"><b>[\u7ed8\u753b\u300a\u7ea2\u72ee\u5b50\u300b]</b></a>"
+          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Redmane+Painting\"><b>\u7ed8\u753b\u300a\u7ea2\u72ee\u5b50\u300b</b></a>"
         },
         "type": "Feature"
       },
@@ -18986,7 +18986,7 @@ const feature_data = [
           "icon_size": 35,
           "id": "paintings_4_1",
           "link": "/checklists/paintings.html#item_4_1",
-          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Champion's+Song+Painting\"><b>[\u7ed8\u753b\u300a\u82f1\u96c4\u4e4b\u6b4c\u300b]</b></a>"
+          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Champion's+Song+Painting\"><b>\u7ed8\u753b\u300a\u82f1\u96c4\u4e4b\u6b4c\u300b</b></a>"
         },
         "type": "Feature"
       },
@@ -19005,7 +19005,7 @@ const feature_data = [
           "icon_size": 35,
           "id": "paintings_5_1",
           "link": "/checklists/paintings.html#item_5_1",
-          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Flightless+Bird+Painting\"><b>[\u7ed8\u753b\u300a\u4e0d\u98de\u4e4b\u9e1f\u300b]</b></a>"
+          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Flightless+Bird+Painting\"><b>\u7ed8\u753b\u300a\u4e0d\u98de\u4e4b\u9e1f\u300b</b></a>"
         },
         "type": "Feature"
       },
@@ -19024,7 +19024,7 @@ const feature_data = [
           "icon_size": 35,
           "id": "paintings_6_1",
           "link": "/checklists/paintings.html#item_6_1",
-          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Sorcerer+Painting\"><b>[\u7ed8\u753b\u300a\u9b54\u6cd5\u5e08\u300b]</b></a>"
+          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Sorcerer+Painting\"><b>\u7ed8\u753b\u300a\u9b54\u6cd5\u5e08\u300b</b></a>"
         },
         "type": "Feature"
       },

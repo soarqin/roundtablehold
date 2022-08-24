@@ -222,6 +222,16 @@ def make_index():
                 with div(cls="col-md-12 text-center"):
                     h1("圆桌指引", cls="mt-4")
                 with div(cls="row gy-3"):
+                    with div(cls="col-md-4 col-12"):
+                        with div(cls='card shadow'):
+                            with div(cls="card-body uncolor-links"):
+                                h5('进度追踪', cls='card-title text-center')
+                                with ul(id='progress_list', cls='nav flex-column'):
+                                    hr()
+                                    for name, l in dropdowns:
+                                        for guide in l:
+                                            li(cls='tab-li').add(a(guide[0], href="/checklists/" + to_snake_case(guide[1]) + '.html')).add(span(id=guide[1] + "_progress_total", cls='d-print-none'))
+                                        hr()
                     with div(cls='col-md-8 col-12'):
                         with div(cls='row row-cols-1 row-cols-md-2 gy-3'):
                             with div(cls="col"):
@@ -267,16 +277,6 @@ def make_index():
                                     with div(cls="card-body"):
                                         h5('列表追踪状态是怎么保存的？', cls='card-title text-center')
                                         p("列表追踪状态数据保存在浏览器本地存储里。小心！清除浏览器缓存也会清空你的数据。", cls='card-text')
-                    with div(cls="col-md-4 col-12"):
-                        with div(cls='card shadow'):
-                            with div(cls="card-body uncolor-links"):
-                                h5('Progress', cls='card-title text-center')
-                                with ul(id='progress_list', cls='nav flex-column'):
-                                    hr()
-                                    for name, l in dropdowns:
-                                        for guide in l:
-                                            li(cls='tab-li').add(a(guide[0], href="/checklists/" + to_snake_case(guide[1]) + '.html')).add(span(id=guide[1] + "_progress_total", cls='d-print-none'))
-                                        hr()
             make_footer()
             script(src="/js/index.js")
     with open(os.path.join('docs', 'index.html'), 'w', encoding='utf_8') as index:
