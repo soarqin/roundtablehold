@@ -261,7 +261,7 @@ def make_index():
                                     with div(cls="card-body"):
                                         h5('我有问题要反馈，怎么对项目做出贡献？', cls='card-title text-center')
                                         text = p(cls='card-text')
-                                        text += '方法很简单，你并不需要懂得如果编写网页代码，你可以在Github仓库'
+                                        text += '方法很简单，你并不需要懂得如何编写网页代码，你可以在Github仓库'
                                         text += a('(英文版)', href='https://github.com/RoundtableHold/roundtablehold.github.io')
                                         text += '找到说明，或者直接去反馈bug'
                                         text += a('(英文版)', href='https://github.com/RoundtableHold/roundtablehold.github.io/issues')
