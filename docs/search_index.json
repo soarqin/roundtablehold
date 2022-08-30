@@ -3925,7 +3925,7 @@
   },
   {
     "id": "/checklists/npc_quests.html#item_8_2",
-    "text": "\u53bb\u4f4d\u4e8e[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u897f\u5357\u5730\u533a\u4e00\u4e2a\u5c9b\u4e0a\u7684[\u8537\u8587\u6559\u5802]\u3002\u548c\u4ed6\u8c08[\u6e83\u70c2\u8840\u6307]\u7136\u540e\u6267\u884c3\u6b21\u5165\u4fb5\uff0c\u7ed3\u679c\u4e0d\u91cd\u8981\uff0c\u4f60\u751a\u81f3\u53ef\u4ee5\u5728\u5165\u4fb5\u540e\u7acb\u5373\u79bb\u5f00\u3002\u5982\u679c\u4f60\u4e0d\u60f3\u8fd9\u4e48\u505a\u6216\u8005\u6ca1\u6709\u5728\u7ebf\u6e38\u73a9\u7684\u6761\u4ef6\uff0c\u90a3\u4e48\u53ef\u4ee5\u5728[\u4e9a\u575b\u9ad8\u539f][\u8815\u8840\u5e9f\u589f]\u5730\u4e0a\u627e\u5230\u4e00\u4e2a\u53ec\u5524\u5370\u8bb0\u89e6\u6478\u540e\u53ef\u4ee5\u5165\u4fb5[\u201c\u517d\u722a\u201d\u739b\u683c\u7eb3\u65af](\u6bcf\u6b21\u5c1d\u8bd5\u7b49\u540c\u4e8e\u4e00\u6b21\u8054\u673a\u6e38\u73a9\u5165\u4fb5)\u3002\u7136\u540e\u56de\u53bb\u548c[\u201c\u767d\u9762\u5177\u201d\u68b5\u96f7]\u8c08[\u9c9c\u8840\u541b\u738b\u7684\u7acb\u8a93\u5e03]\u3002"
+    "text": "\u53bb\u4f4d\u4e8e[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u897f\u5357\u5730\u533a\u4e00\u4e2a\u5c9b\u4e0a\u7684[\u8537\u8587\u6559\u5802]\u3002\u548c\u4ed6\u8c08[\u6e83\u70c2\u8840\u6307]\u7136\u540e\u6267\u884c3\u6b21\u5165\u4fb5\uff0c\u7ed3\u679c\u4e0d\u91cd\u8981\uff0c\u4f60\u751a\u81f3\u53ef\u4ee5\u5728\u5165\u4fb5\u540e\u7acb\u5373\u79bb\u5f00\u3002\u5982\u679c\u4f60\u4e0d\u60f3\u8fd9\u4e48\u505a\u6216\u8005\u6ca1\u6709\u5728\u7ebf\u6e38\u73a9\u7684\u6761\u4ef6\uff0c\u90a3\u4e48\u53ef\u4ee5\u5728[\u4e9a\u575b\u9ad8\u539f][\u8815\u8840\u5e9f\u589f]\u5730\u4e0a\u627e\u5230\u4e00\u4e2a\u53ec\u5524\u5370\u8bb0\u89e6\u6478\u540e\u53ef\u4ee5\u5165\u4fb5[\u201c\u517d\u722a\u201d\u739b\u683c\u7eb3\u65af](\u6bcf\u6b21\u6218\u8d25\u7684\u5c1d\u8bd5\u7b49\u4e8e\u8fdb\u884c\u8fc7\u4e00\u6b21\u8054\u673a\u6e38\u73a9\u5165\u4fb5)\u3002\u7136\u540e\u56de\u53bb\u548c[\u201c\u767d\u9762\u5177\u201d\u68b5\u96f7]\u8c08[\u9c9c\u8840\u541b\u738b\u7684\u7acb\u8a93\u5e03]\u3002"
   },
   {
     "id": "/checklists/npc_quests.html#item_8_3",
@@ -8513,1511 +8513,1511 @@
   },
   {
     "id": "/checklists/weapons.html#item_3_1",
-    "text": "Dagger Purchased from Twin Maiden Husks at the Roundtable Hold. Normal"
+    "text": "\u5315\u9996 \u5728[\u5706\u684c\u5385\u5802][\u5b6a\u751f\u8001\u59aa]\u5904\u8d2d\u4e70\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_3_3",
-    "text": "Parrying Dagger Purchased from Patches inside Murkwater Cave after he sets up shop or if killed, from using his bell bearing. Normal"
+    "text": "\u683c\u6321\u5315\u9996 [\u8499\u6d41\u6d1e\u7a9f]\u5185\u7684[\u5e15\u5947]\u5904(\u6216\u63d0\u4ea4\u4ed6\u7684\u94c3\u73e0)\u8d2d\u4e70\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_3_4",
-    "text": "Misericorde Found on a corpse inside the Armory (Requires a Stonesword Key to enter). [Map Link] Normal"
+    "text": "\u6148\u60b2\u77ed\u5251 \u5728\u519b\u68b0\u5e93\u5185\u7684\u4e00\u5177\u5c38\u4f53\u4e0a(\u9700\u8981\u4e00\u628a[\u77f3\u5251\u94a5\u5319])\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_3_10",
-    "text": "Great Knife Starting Equipment for the Bandit Class. 2% drop chance from Demi-Humans wielding this weapon, such as those in Lakeside Crystal Cave. Normal"
+    "text": "\u5355\u5203\u5c0f\u5200 \u76d7\u8d3c\u521d\u59cb\u81ea\u5e26\u3002\u4f7f\u7528\u8fd9\u79cd\u6b66\u5668\u7684\u534a\u4eba2%\u51e0\u7387\u6389\u843d\uff0c\u4f8b\u5982\u5728[\u6e56\u65c1\u7ed3\u6676\u6d1e\u7a9f]\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_3_14",
-    "text": "Bloodstained Dagger 4% drop chance from Demi-Human Chiefs. Normal"
+    "text": "\u67d3\u8840\u77ed\u5200 \u534a\u4eba\u9996\u98864%\u51e0\u7387\u6389\u843d \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_3_15",
-    "text": "Erdsteel Dagger Rewarded by Kenneth Haight for clearing out Fort Haight. Normal"
+    "text": "\u9ec4\u94dc\u77ed\u5200 \u4e3a[\u201c\u9886\u4e3b\u7684\u5ae1\u957f\u5b50\u201d\u80af\u5c3c\u65af\u00b7\u6d77\u5fb7]\u6e05\u7406[\u6d77\u5fb7\u8981\u585e]\u83b7\u5f97\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_3_11",
-    "text": "Wakizashi Gaol Cave: Found inside a locked cell (unlocked via a lever). Normal"
+    "text": "\u80c1\u5dee [\u7262\u72f1\u6d1e\u7a9f]: \u5728\u4e00\u4e2a\u4e0a\u9501\u7684\u7262\u623f\u4e2d\u53d1\u73b0(\u901a\u8fc7\u62c9\u6746\u89e3\u9501)\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_3_7",
-    "text": "Celebrant's Sickle 0.5% drop chance from the blue-hooded Celebrants in Windmill Village. Normal"
+    "text": "\u5e86\u5178\u5c0f\u9570\u5200 \u5728[\u98ce\u8f66\u6751]\u6234\u84dd\u515c\u5e3d\u7684\u5e86\u5178\u80050.5%\u51e0\u7387\u6389\u843d \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_3_13",
-    "text": "Ivory Sickle Found on a stone coffin next to Albus at the Village of the Albinaurics. Normal"
+    "text": "\u8c61\u7259\u5c0f\u9570\u5200 \u5728[\u767d\u91d1\u6751][\u827e\u5c14\u5e15\u65af]\u65c1\u8fb9\u7684\u4e00\u4e2a\u77f3\u68fa\u4e0a. \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_3_6",
-    "text": "Crystal Knife Raya Lucaria Crystal Tunnel: Found inside a chest on one of the lower levels. Normal"
+    "text": "\u7ed3\u6676\u5c0f\u5200 [\u96f7\u4e9a\u5362\u5361\u5229\u4e9a\u7ed3\u6676\u5751\u9053]: \u5728\u4e0b\u5c42\u7684\u4e00\u4e2a\u5b9d\u7bb1\u91cc\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_3_9",
-    "text": "Scorpion's Stinger Located inside a chest at the end of the brazier-lit Grand Cloister; guarded by many Lesser Kindred of Rot (Pests) enemies. Somber"
+    "text": "\u874e\u5c3e\u9488 [\u5927\u56de\u5eca]\u70b9\u71c3\u706b\u76c6\u7684\u672b\u7aef\u5b9d\u7bb1\u91cc\uff0c\u6709\u8bb8\u591a\u5c0f[\u8150\u8d25\u7737\u5c5e]\u5b88\u536b\u7740\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_3_12",
-    "text": "Cinquedea Found at the bottom of a long series of drop-downs near the south-west side of Bestial Sanctum. Starting at south-western cliff, look for a thick tree root growing into the cliffside to drop down to. Somber"
+    "text": "\u4e94\u6307\u5251 \u5728[\u91ce\u517d\u795e\u6bbf]\u9760\u8fd1\u897f\u5357\u89d2\u7684\u4e00\u957f\u4e32\u843d\u5dee\u5730\u5f62\u7684\u5e95\u90e8\u3002\u4ece\u897f\u5357\u8fb9\u7684\u60ac\u5d16\u51fa\u53d1\uff0c\u627e\u4e00\u68f5\u751f\u957f\u5728\u60ac\u5d16\u8fb9\u7684\u7c97\u6811\u6839\u5f80\u4e0b\u6389\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_3_8",
-    "text": "Glintstone Kris Rewarded for siding with Sorceress Sellen at the end of her questline. Somber"
+    "text": "\u8f89\u77f3\u514b\u529b\u58eb \u5728[\u9b54\u6cd5\u5e08\u745f\u6fc2]\u4efb\u52a1\u7ebf\u7684\u6700\u540e\u5e2e\u52a9\u5979\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_3_5",
-    "text": "Reduvia Dropped from the invading NPC Bloody Finger Nerijus; just outside Murkwater Cave. *IMPORTANT NOTE* Do not let Bloody Finger Hunter Yura die during this invasion if you wish to continue his questline. Somber"
+    "text": "\u9006\u523a [\u8499\u6d41\u6d1e\u7a9f]\u5916\u7684\u5165\u4fb5NPC[\u201c\u8840\u6307\u201d\u6d85\u5229\u4e4c\u65af]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_3_16",
-    "text": "Blade of Calling While riding up the lift found behind the Forbidden Land's site of grace, face south-west to find a room built into the wall. Somber"
+    "text": "\u4f7f\u547d\u77ed\u5200 \u4e58\u8d50\u798f[\u7981\u57df]\u540e\u9762\u7684\u7535\u68af\uff0c\u9762\u5411\u897f\u5357\u627e\u5230\u4e00\u95f4\u5d4c\u5728\u5899\u91cc\u7684\u623f\u95f4\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_3_2",
-    "text": "Black Knife Dropped from the Black Knife Assassin guarding the entrance of Sainted Hero's Grave. Somber"
+    "text": "\u9ed1\u5200 [\u5c0a\u8d35\u8005\u7684\u82f1\u96c4\u5893\u5730]\u5165\u53e3\u5904\u7684[\u9ed1\u5200\u523a\u5ba2]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_13_1",
-    "text": "Short Sword Starting Equipment for the Astrologer Class. Purchased from the Nomadic Merchant across the Saintsbridge, in North Limgrave.   [Map Link] Normal"
+    "text": "\u77ed\u5251 \u89c2\u661f\u8005\u8d77\u59cb\u88c5\u5907\u3002\u5728[\u5b81\u59c6\u683c\u798f]\u5317\u7a7f\u8fc7[\u5723\u4eba\u6865]\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u5904\u8d2d\u4e70\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_13_2",
-    "text": "Longsword Starting Equipment for the Vagabond Class. Purchased from Twin Maiden Husks at the Roundtable Hold. Normal"
+    "text": "\u957f\u5251 \u6d41\u6d6a\u9a91\u58eb\u8d77\u59cb\u88c5\u5907\u3002\u5728[\u5706\u684c\u5385\u5802]\u7684[\u5b6a\u751f\u8001\u59aa]\u5904\u8d2d\u4e70 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_13_3",
-    "text": "Broadsword Starting Equipment for the Confessor Class. Purchased from the Nomadic Merchant just south-east of Coastal Cave.  [Map Link] Normal"
+    "text": "\u9614\u5251 \u5bc6\u4f7f\u521d\u59cb\u88c5\u5907\u3002[\u6d77\u5cb8\u6d1e\u7a9f]\u4e1c\u5357\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u5904\u8d2d\u4e70\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_13_4",
-    "text": "Weathered Straight Sword 2% drop chance from Commoner enemies. Normal"
+    "text": "\u8001\u65e7\u76f4\u5251 \u5c45\u6c11\u7c7b\u654c\u4eba2%\u51e0\u7387\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_13_5",
-    "text": "Lordsworn's Straight Sword 2% drop chance from Godrick Soldiers found all over Limgrave. A good place to find many of these enemies is Gatefront Ruins. Normal"
+    "text": "\u541b\u738b\u519b\u76f4\u5251 [\u5b81\u59c6\u683c\u798f]\u7684\u845b\u745e\u514b\u58eb\u51752%\u51e0\u7387\u6389\u843d\u3002 [\u5173\u5361\u524d\u5e9f\u589f]\u662f\u5237\u7684\u597d\u53bb\u5904\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_13_6",
-    "text": "Noble's Slender Sword 0.5% drop chance from Common Nobles wielding this weapon. Notable farming areas include the graveyard south of the Caelid Highway South grace site and Raya Lucaria Academy - just outside the Debate Parlor grace. Normal"
+    "text": "\u6743\u8d35\u7ec6\u8eab\u5251 \u7528\u8fd9\u79cd\u6b66\u5668\u7684\u6d41\u6d6a\u8d35\u65cf0.5%\u51e0\u7387\u6389\u843d\u3002\u5e38\u89c1\u533a\u57df\u5982\u8d50\u798f[\u76d6\u5229\u5fb7\u5927\u9053\u5357\u65b9]\u5357\u90e8\u5893\u5730\uff0c[\u9b54\u6cd5\u5b66\u9662\u96f7\u4e9a\u5362\u5361\u5229\u4e9a]\u5b66\u9662\u5916\u9762\u3002[\u8ba8\u8bba\u5ba4]\u6069\u5178\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_13_7",
-    "text": "Cane Sword Leyndell, Royal Capital: Start from the West Capital Ramparts and head south, taking the first set of stairs you see. At the bottom of the stairs, immediately hang right and turn 180\u00b0 to find a corpse with the sword. Normal"
+    "text": "\u624b\u6756\u5251 [\u738b\u57ce\u7f57\u5fb7\u5c14]: \u4ece\u8d50\u798f[\u738b\u57ce\u897f\u8fb9\u57ce\u5899]\u7136\u540e\u5f80\u5357\u8d70\uff0c\u8d70\u4e0b\u4f60\u770b\u5230\u7684\u7b2c\u4e00\u4e2a\u53f0\u9636\u3002\u5728\u697c\u68af\u5e95\u90e8\uff0c\u7acb\u5373\u53f3\u8f6c180\u00b0\uff0c\u53d1\u73b0\u4e00\u5177\u5e26\u5251\u7684\u5c38\u4f53\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_13_8",
-    "text": "Warhawk's Talon 2% drop chance from Bladed Talon Eagles found in Stormveil Castle. A good spot is just north of the Rampart Tower grace site. Normal"
+    "text": "\u6218\u9e70\u722a\u5f62\u5251 [\u53f2\u4e1c\u8587\u5c14\u57ce]\u4e2d\u7684\u5203\u722a\u9e702%\u51e0\u7387\u6389\u843d\u3002 \u65b9\u4fbf\u7684\u5730\u70b9\u5982\u8d50\u798f[\u57ce\u5899\u5854]\u5317\u8fb9\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_13_9",
-    "text": "Lazuli Glintsone Sword 2% drop chance from Lazuli Sorcerers found in Raya Lucaria Academy and Caria Manor. Normal"
+    "text": "\u62c9\u5179\u5229\u8f89\u77f3\u5251 [\u9b54\u6cd5\u5b66\u9662\u96f7\u4e9a\u5362\u5361\u5229\u4e9a]\u548c[\u5361\u5229\u4e9a\u57ce\u5be8]\u7684\u62c9\u5179\u5229\u6cd5\u5e082%\u51e0\u7387\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_13_10",
-    "text": "Carian Knight's Sword Found in the north-western area of Liurnia of the Lakes inside a chest on the back of troll-drawn carriage. [Map Link] *Note* Hitting one of the trolls pulling the carriage will cause them to stop moving. Somber"
+    "text": "\u5361\u5229\u4e9a\u9a91\u58eb\u5251 [\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u897f\u5317\u90e8\u5730\u533a\u9a6c\u8f66\u540e\u9762\u7684\u4e00\u4e2a\u7bb1\u5b50\u91cc\u3002*\u6ce8\u610f*\u51fb\u5012\u4e00\u4e2a\u62d6\u7740\u9a6c\u8f66\u7684\u5de8\u4eba\u53ef\u4ee5\u4f7f\u9a6c\u8f66\u505c\u6b62\u79fb\u52a8\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_13_11",
-    "text": "Crystal Sword Found at the Village of the Albinaurics. From the grace site, go north across the bridge to find the sword on a corpse near the cliffedge. Somber"
+    "text": "\u7ed3\u6676\u5251 [\u767d\u91d1\u6751]\uff0c\u4ece\u8d50\u798f\u51fa\u53d1\u5411\u5317\u7a7f\u8fc7\u6865\u5728\u60ac\u5d16\u8fb9\u7684\u4e00\u5177\u5c38\u4f53\u4e0a\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_13_12",
-    "text": "Rotten Crystal Sword Elphael, Brace of the Haligtree: From the Elphael Inner Wall grace site, head south down the stairs and climb over the tree roots on your left. The sword is looted from a chest guarded by three Crystalians. Somber"
+    "text": "\u8150\u8d25\u7ed3\u6676\u5251 [\u201c\u5723\u6811\u5206\u679d\u201d\u827e\u5e03\u96f7\u83f2\u5c14]:\u4ece[\u827e\u5e03\u96f7\u83f2\u5c14\u57ce\u5899\u5185\u90e8]\u5f80\u5357\u8d70\u4e0b\u697c\u68af\uff0c\u722c\u8fc7\u5de6\u8fb9\u7684\u6811\u6839\u3002\u4e00\u4e2a\u7531\u4e09\u4e2a[\u7ed3\u6676\u4eba]\u770b\u5b88\u7684\u5b9d\u7bb1\u91cc\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_13_13",
-    "text": "Miquellan Knight's Sword Elphael, Brace of the Haligtree: At the top of the bell tower [Map Link]. From the Prayer Room grace site, head north along the walkway until you reach a stone basin with a small walkway on your right. At the end of the small walkway, drop down to the bell tower's ledge and carefully walk around to the eastern side of the tower where you will find a ladder. At the top of the ladder will be the sword. Somber"
+    "text": "\u7c73\u51ef\u62c9\u9a91\u58eb\u5251 [\u201c\u5723\u6811\u5206\u679d\u201d\u827e\u5e03\u96f7\u83f2\u5c14]\u5b57\u4f53\u5728\u949f\u697c\u7684\u9876\u7aef[\u5730\u56fe\u94fe\u63a5]\u3002 \u4ece[\u7948\u7977\u5ba4]\u6cbf\u8def\u5411\u5317\u8d70\uff0c\u76f4\u5230\u4f60\u5230\u8fbe\u4e00\u4e2a\u77f3\u76c6\uff0c\u53f3\u8fb9\u6709\u4e00\u6761\u5c0f\u8def\u3002\u5728\u5c0f\u8def\u7684\u5c3d\u5934\u5411\u4e0b\u8d70\u5230\u949f\u697c\u7684\u8fb9\u7f18\uff0c\u7136\u540e\u5c0f\u5fc3\u7ffc\u7ffc\u5730\u7ed5\u5230\u949f\u697c\u7684\u4e1c\u4fa7\uff0c\u5728\u90a3\u91cc\u4f60\u4f1a\u53d1\u73b0\u4e00\u4e2a\u68af\u5b50\u3002\u5728\u68af\u5b50\u7684\u9876\u7aef\u662f\u5251\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_13_14",
-    "text": "Ornamental Straight Sword Dropped from the Grafted Scion at the Chapel of Anticipation. Players can return to this area after the tutorial by using the waygate (denoted by the message 'Precipice of Anticipation') [Map Link] at The Four Belfries. (Requires an Imbued Sword Key) Somber"
+    "text": "\u4eea\u5f0f\u76f4\u5251 \u5728[\u5019\u738b\u793c\u62dc\u5802]\u7684[\u201c\u63a5\u80a2\u201d\u8d35\u65cf\u540e\u88d4]\u6389\u843d\u3002\u73a9\u5bb6\u53ef\u4ee5\u5728\u6559\u7a0b\u7ed3\u675f\u540e\u901a\u8fc7[\u56db\u949f\u697c]\u7684\u4f20\u9001\u95e8(\u6709\u201c\u5019\u738b\u65ad\u5d16\u201d\u7684\u7559\u8a00)\u56de\u5230\u8fd9\u4e2a\u533a\u57df\u3002(\u9700\u8981\u4e00\u4e2a[\u9b54\u77f3\u5251\u94a5\u5319])[\u5730\u56fe\u94fe\u63a5]\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_13_15",
-    "text": "Golden Epitaph Auriza Hero's Grave in the eastern Capital Outskirts: Looted from a corpse found behind the Imp Statue's fog wall near the grace site. (Requires a Stonesword Key to enter) Somber"
+    "text": "\u9ec4\u91d1\u5893\u7891 [\u738b\u57ce\u5916\u56f4]\u4e1c\u90e8\u7684[\u4e9a\u96f7\u8428\u82f1\u96c4\u5893\u5730]: \u4ece\u8d50\u798f\u9644\u8fd1\u7684\u5c0f\u6076\u9b54\u50cf\u96fe\u5899\u540e\u9762\u53d1\u73b0\u7684\u5c38\u4f53\u4e0a\u83b7\u53d6\u3002(\u9700\u8981\u4e00\u4e2a[\u77f3\u5251\u94a5\u5319]\u8fdb\u5165) \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_13_16",
-    "text": "Sword of St Trina Found down an imp sealed staircase in the Forsaken Ruins, just below the Rotview Balcony grace site. (Requires a Stonesword Key to enter) Somber"
+    "text": "\u6258\u8389\u5a1c\u5251 \u5728[\u8352\u5e9f\u5e9f\u589f]\u4e00\u4e2a\u5c01\u5370\u7684\u697c\u68af\u4e0a\uff0c\u5c31\u5728\u8d50\u798f[\u8150\u8d25\u65c1\u9732\u53f0]\u4e0b\u65b9\u3002(\u9700\u8981\u4e00\u4e2a[\u77f3\u5251\u94a5\u5319]\u8fdb\u5165) \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_13_17",
-    "text": "Regalia of Eochaid Found on a cliffside at the end of Gaol Cave. Can also be accessed by dropping down from the cliff above to skip the cave. [Map Link] Somber"
+    "text": "\u6b27\u8d6b\u5b9d\u5251 \u5728[\u7262\u72f1\u6d1e\u7a9f]\u901a\u8fc7\u540e\u7684\u60ac\u5d16\u8fb9\u4e0a\u3002\u4e5f\u53ef\u4ee5\u901a\u8fc7\u4ece\u4e0a\u65b9\u60ac\u5d16\u4e0a\u5f80\u4e0b\u8df3\u7684\u65b9\u5f0f\u8df3\u8fc7\u6d1e\u7a74\u9053\u8def\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_13_18",
-    "text": "Coded Sword Leyndell, Royal Capital: From the West Capital Ramparts head south and find a safe way down somewhere to your right. Directly across from a large tree root will be partially sunken horse stable, climb onto its roof and head forward to enter the building. Keep making your way inward until you come across a broken roundtable. There will be a set of double doors, open them and the sword will be waiting for you on a throne. [Map Link] Somber"
+    "text": "\u79d8\u6587\u5251 [\u738b\u57ce\u7f57\u5fb7\u5c14]:\u4ece\u8d50\u798f[\u738b\u57ce\u897f\u8fb9\u57ce\u5899]\u5f80\u5357\u8d70\uff0c\u5728\u53f3\u8fb9\u627e\u6761\u5b89\u5168\u7684\u8def\u3002\u6b63\u5bf9\u7740\u4e00\u68f5\u5927\u6811\u6839\u90e8\u5206\u51f9\u9677\u7684\u9a6c\u68da\uff0c\u722c\u4e0a\u5b83\u7684\u5c4b\u9876\u5e76\u5411\u524d\u8fdb\u5165\u5efa\u7b51\u3002\u4e00\u76f4\u5411\u5185\u8d70\uff0c\u76f4\u5230\u4f60\u770b\u5230\u4e00\u5f20\u7834\u5706\u684c\u3002\u90a3\u91cc\u4f1a\u6709\u4e24\u6247\u95e8\uff0c\u6253\u5f00\u5b83\u4eec\u53d6\u5f97\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_13_19",
-    "text": "Sword of Night and Flame Caria Manor: From the Manor Lower Level grace site, head south-east across the rooftop walls (mind the blue spectral soldiers), making a left (north) at the first intersection, follow the pathway until it ends. There will be a rooftop to the north, run and jump to safely make it. To the north, beyond a small broken wall, will be another lower rooftop with a ladder, climb down to find a chest with the sword inside. [Map Link] Somber"
+    "text": "\u591c\u4e0e\u706b\u4e4b\u5251 [\u5361\u5229\u4e9a\u57ce\u5be8]:\u4ece\u8d50\u798f[\u57ce\u5be8\u4e0b\u90e8]\u5411\u4e1c\u5357\u65b9\u5411\u7a7f\u8fc7\u5c4b\u9876\u7684\u5899(\u6ce8\u610f\u84dd\u8272\u5e7d\u7075\u58eb\u5175)\uff0c\u5728\u7b2c\u4e00\u4e2a\u5341\u5b57\u8def\u53e3\u5411\u5de6(\u5411\u5317)\uff0c\u6cbf\u7740\u5c0f\u8def\u8d70\u5230\u5c3d\u5934\u3002\u5728\u5317\u8fb9\u4f1a\u6709\u4e00\u4e2a\u5c4b\u9876\uff0c\u8dd1\u6b65\u8df3\u4e0a\u53bb\u3002\u5411\u5317\uff0c\u8d8a\u8fc7\u4e00\u5835\u5c0f\u7834\u5899\uff0c\u4f1a\u6709\u53e6\u4e00\u4e2a\u8f83\u4f4e\u7684\u5c4b\u9876\uff0c\u4e0a\u9762\u6709\u68af\u5b50\uff0c\u722c\u68af\u5b50\u627e\u5230\u88c5\u7740\u5251\u7684\u5b9d\u7bb1\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_14_1",
-    "text": "Bastard Sword Purchased from the Nomadic Merchant at the Castle Morne Rampart grace site, in eastern Weeping Peninsula.   [Map Link] Normal"
+    "text": "\u6df7\u79cd\u5927\u5251 [\u555c\u6ce3\u534a\u5c9b]\u4e1c\u8fb9\u8d50\u798f[\u6469\u6069\u57ce\uff08\u57ce\u5899\u524d\u65b9\uff09]\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u5904\u8d2d\u4e70\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_14_2",
-    "text": "Claymore Castle Morne: Starting from the main courtyard, hug the right wall while running past the burning corpses and harpies. Heading north, you should see an entrance to a building; the sword can be found inside a chest to your left as you enter. Normal"
+    "text": "\u5927\u5251 [\u6469\u6069\u57ce]: \u4ece\u4e3b\u5ead\u9662\u9760\u53f3\u8fb9\u7684\u5899\u8dd1\u8fc7\u71c3\u70e7\u7684\u5c38\u4f53\u548c\u9e1f\u4eba\u3002\u5f80\u5317\u8d70\uff0c\u4f60\u4f1a\u770b\u5230\u4e00\u5ea7\u5efa\u7b51\u7684\u5165\u53e3;\u5f53\u4f60\u8fdb\u5165\u65f6\uff0c\u4f60\u53ef\u4ee5\u5728\u4f60\u5de6\u8fb9\u7684\u4e00\u4e2a\u5b9d\u7bb1\u91cc\u627e\u5230\u5251\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_14_3",
-    "text": "Iron Greatsword 4% drop chance from red-maned Misbegottens. One can be found just north of Haligtree Town (walk near the edge so he jumps down) as well as north of Haligtree Town Plaza grace sites. Normal"
+    "text": "\u94c1\u5236\u5927\u5251 \u7ea2\u8272\u6df7\u79cd4%\u51e0\u7387\u6389\u843d\u3002 \u5c31\u5728\u8d50\u798f[\u5723\u6811\u9547\uff08\u5e7f\u573a\uff09]\u548c[\u5723\u6811\u9547]\u7684\u5317\u8fb9(\u8d70\u5230\u8fb9\u7f18\u4ed6\u4f1a\u8df3\u4e0b\u6765)\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_14_4",
-    "text": "Lordsworn's Greatsword Gatefront Ruins: Looted from a chest on the back of a large, stationary carriage that sits just east of the Gatefront Ruins grace site.  [Map Link] Normal"
+    "text": "\u541b\u738b\u519b\u5927\u5251 [\u5173\u5361\u524d\u5e9f\u589f]: \u4ece\u4e00\u4e2a\u505c\u6b62\u7684\u9a6c\u8f66\u540e\u9762\u7684\u5b9d\u7bb1\u91cc\u83b7\u5f97\uff0c\u9a6c\u8f66\u5c31\u5728\u8d50\u798f[\u5173\u5361\u524d\u5e9f\u589f]\u4e1c\u8fb9\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_14_5",
-    "text": "Knight's Greatsword 4% drop chance from most knight enemies, more specifically: Godrick Knights, Mausoleum Knights, Cuckoo Knights, Leyndell Knights, and Haligtree Knights. Normal"
+    "text": "\u9a91\u58eb\u5927\u5251 \u5927\u591a\u6570\u9a91\u58eb\u7c7b\u654c\u4eba4%\u51e0\u7387\u6389\u843d\uff0c\u5177\u4f53\u6765\u8bf4\u662f: \u845b\u745e\u514b\u9a91\u58eb\uff0c\u7075\u5e99\u9a91\u58eb\uff0c\u675c\u9e43\u9a91\u58eb\uff0c\u7f57\u5fb7\u5c14\u9a91\u58eb,\u5723\u6811\u9a91\u58eb. \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_14_6",
-    "text": "Banished Knight's Greatsword 4% drop chance from Banished Knights found all over Stormveil Castle or a lone spawn at the entrance of the Cathedral of Dragon Communion in Caelid. Normal"
+    "text": "\u5931\u4e61\u9a91\u58eb\u5927\u5251 \u5728[\u53f2\u4e1c\u8587\u5c14\u57ce]\u6216\u8005[\u76d6\u5229\u5fb7][\u5927\u9f99\u98e8\u6559\u5802]\u5165\u53e3\u5904\u7684\u5931\u4e61\u9a91\u58eb4%\u51e0\u7387\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_14_7",
-    "text": "Forked Greatsword 2% drop chance from Imps that wield this weapon. Several are found inside the Road's End Catacombs in western Liurnia of the Lakes. Normal"
+    "text": "\u5206\u5c94\u5927\u5251 \u6325\u821e\u8fd9\u628a\u6b66\u5668\u7684\u5c0f\u6076\u9b542%\u51e0\u7387\u6389\u843d\u3002\u6709\u51e0\u4e2a\u5728[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u897f\u8fb9[\u7edd\u8def\u5730\u4e0b\u5893\u5730]\u91cc\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_14_8",
-    "text": "Flamberge Inside Redmane Castle on the southeastern-most rampart. Looted from a corpse that is guarded by a Pumpkin Head. [Map Link] *NOTE* This item is inaccessible during the Radahn Festival as all the doors in the castle are locked shut. If triggered, you will have to first defeat Starscourge Radahn. Normal"
+    "text": "\u7130\u5f62\u5927\u5251 [\u7ea2\u72ee\u5b50\u57ce]\u5728\u6700\u4e1c\u5357\u65b9\u7684\u5821\u5792\u4e0a\u3002\u4ece\u88ab\u5357\u74dc\u5934\u5b88\u536b\u7684\u5c38\u4f53\u4e0a\u83b7\u5f97\u3002*\u6ce8\u610f*\u8fd9\u4e2a\u7269\u54c1\u5728\u6b66\u6597\u796d\u671f\u95f4\u662f\u62ff\u4e0d\u5230\u7684\uff0c\u56e0\u4e3a\u57ce\u5821\u7684\u6240\u6709\u95e8\u90fd\u662f\u9501\u7740\u7684\u3002\u4f60\u5fc5\u987b\u5148\u51fb\u8d25[\u201c\u788e\u661f\u201d\u62c9\u5854\u6069]\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_14_9",
-    "text": "Gargoyle's Greatsword Dropped from the Valiant Gargoyle duo at the end of Siofra Aqueduct.  [Map Link] Normal"
+    "text": "\u77f3\u50cf\u9b3c\u5927\u5251 [\u5e0c\u8299\u62c9\u5bfc\u6c34\u6865]\u6700\u540e\u7684Boss\u53cc[\u82f1\u96c4\u77f3\u50cf\u9b3c]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_14_10",
-    "text": "Gargoyle's Blackblade Dropped from Black Blade Kindred. He can be found standing guard in front of Bestial Sanctum.  [Map Link] Somber"
+    "text": "\u77f3\u50cf\u9b3c\u9ed1\u5251 [\u9ed1\u5251\u7737\u5c5e]\u6389\u843d\u3002\u4ed6\u5728[\u91ce\u517d\u795e\u6bbf]\u524d\u9762\u7ad9\u5c97\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_14_11",
-    "text": "Inseparable Sword Requires giving D's Twin Brother the Twinned Armor Set and then finishing Fia's questline at the Prince of Death's Throne (a sub-section of Deeproot Depths). Somber"
+    "text": "\u7d27\u5bc6\u5b6a\u751f\u5251 \u9700\u8981\u7ed9[\u201c\u72e9\u730e\u6b7b\u4ea1\u201d\uff24]\u7684\u5b6a\u751f\u5144\u5f1f[\u5b6a\u751f\u94e0\u7532]\u7ec4\u7136\u540e\u5b8c\u6210[\u6b7b\u738b\u5b50\u5b9d\u5ea7]\u5904[\u201c\u6b7b\u7720\u5c11\u5973\u201d\u83f2\u96c5]\u7684\u4efb\u52a1\u7ebf([\u6df1\u6839\u5e95\u5c42]\u5185\uff09\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_14_12",
-    "text": "Sword of Milos Dung Eater's sword; drops if killed in the Subterranean Shunning-Grounds sewer-goal (requires the Sewer-Gaol Key) or by defeating him as an invader in the Capital Outskirts moat.  [Map Link] Both options require progression of his questline. Somber"
+    "text": "\u706d\u6d1b\u65af\u5251 [\u98df\u7caa\u8005]\u7684\u5251; \u5982\u679c[\u5f03\u7f6e\u6076\u5146\u7684\u5730\u5e95]\u7684\u7262\u623f\u91cc(\u9700\u8981[\u4e0b\u6c34\u9053\u76d1\u7262\u94a5\u5319])\u6740\u6b7b\u4ed6\u6216\u8005\u5728[\u738b\u57ce\u5916\u56f4]\u62a4\u57ce\u6cb3\u628a\u4ed6\u4f5c\u4e3a\u5165\u4fb5\u8005\u51fb\u8d25\u3002\u8fd9\u4e24\u79cd\u9009\u62e9\u90fd\u9700\u8981\u4efb\u52a1\u7ebf\u7684\u53d1\u5c55\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_14_13",
-    "text": "Marais Executioner's Sword Dropped from Elemer of the Briar at the end of The Shaded Castle. Somber"
+    "text": "\u739b\u96f7\u5bb6\u884c\u5211\u5251 \u5728[\u65e5\u836b\u57ce]\u6700\u540e\u7684[\u201c\u94c1\u68d8\u201d\u827e\u9686\u6885\u5c14]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_14_14",
-    "text": "Ordovis's Greatsword Dropped from Crucible Knight Ordovis at the end of Auriza Hero's Grave. *NOTE* You will have to fight both Ordovis (sword and shield) and a spear-wielding Crucible Knight at the same time! Somber"
+    "text": "\u5965\u9676\u7435\u65af\u5927\u5251 \u5728[\u4e9a\u96f7\u8428\u82f1\u96c4\u5893\u5730]\u6700\u540e\u51fb\u8d25[\u201c\u7194\u7089\u9a91\u58eb\u201d\u5965\u9676\u7435\u65af]\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_14_15",
-    "text": "Alabaster Lord's Sword Dropped from the Alabaster Lord at the Lake of Rot. Requires standing on two different pressure plates; one to raise the stone column walkway and the other to lift you up onto the walkway. [Map Link] These pressure plates can be found accompanied by a stone obelisk throughout the lake. Somber"
+    "text": "\u767d\u738b\u5251 \u5728[\u8150\u8d25\u6e56]\u7684\u767d\u738b\u6389\u843d\u3002 \u9700\u8981\u7ad9\u5728\u4e24\u4e2a\u4e0d\u540c\u7684\u673a\u5173\u677f\u4e0a;\u4e00\u4e2a\u7528\u6765\u62ac\u9ad8\u77f3\u67f1\u8d70\u9053\uff0c\u53e6\u4e00\u4e2a\u7528\u6765\u628a\u4f60\u62ac\u5230\u8d70\u9053\u4e0a\u3002\u8fd9\u4e9b\u673a\u5173\u677f\u53ef\u4ee5\u5728\u6e56\u7684\u77f3\u7891\u65c1\u627e\u5230\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_14_16",
-    "text": "Death's Poker Dropped from a Death Rite Bird (only spawns at night!) in Caelid, just south-east of the Southern Aeonia Swamp Bank grace site.  [Map Link] Somber"
+    "text": "\u6b7b\u4ea1\u94a9\u68d2 [\u76d6\u5229\u5fb7]\u8d50\u798f[\u827e\u5965\u5c3c\u4e9a\u6cbc\u6cfd\uff08\u5357\u5cb8\uff09]\u4e1c\u5357\u65b9\u7684[\u6b7b\u4ea1\u4eea\u5f0f\u9e1f](\u53ea\u5728\u665a\u4e0a\u51fa\u73b0)\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_14_17",
-    "text": "Helphen's Steeple Dropped from a Tibia Mariner on top of a cliffside (looks like a dagger's tip) just south of Castle Sol Main Gate grace site. Somber"
+    "text": "\u8d6b\u82ac\u5c16\u5854\u5251 \u8d50\u798f[\u7d22\u5c14\u57ce\uff08\u6b63\u95e8\uff09]\u5357\u8fb9\u7684\u60ac\u5d16(\u770b\u8d77\u6765\u50cf\u5315\u9996\u5c16)\u4e0a\u7684[\u63d0\u6bd4\u4e9a\u7684\u5524\u58f0\u8239]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_14_18",
-    "text": "Blasphemous Blade One of the choices offered when trading in the Remembrance of the Blasphemous to Finger Reader Enia at the Roundtable Hold. Somber"
+    "text": "\u4eb5\u6e0e\u5723\u5251 \u5728[\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u4eb5\u6e0e\u541b\u738b\u7684\u8ffd\u5fc6]\u4ea4\u6362\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_14_19",
-    "text": "Golden Order Greatsword Dropped from Misbegotten Crusader at the end of the Cave of the Forlorn in Consecrated Snowfield. Somber"
+    "text": "\u9ec4\u91d1\u5f8b\u6cd5\u5927\u5251 [\u5316\u5723\u96ea\u539f][\u5b89\u8eab\u6d1e\u7a9f]\u6700\u540e\u7684[\u6df7\u79cd\u5723\u9a91\u58eb]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_14_20",
-    "text": "Dark Moon Greatsword Rewarded from Ranni the Witch underneath the Cathedral of Manus Celes at the end of her questline. Somber"
+    "text": "\u6697\u6708\u5927\u5251 [\u9b54\u5973\u83c8\u59ae]\u4efb\u52a1\u7ebf\u7684\u6700\u540e[\u739b\u52aa\u65af\u00b7\u745f\u5229\u65af\u5927\u6559\u5802]\u4e0b\u9762\u83b7\u5f97\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_14_21",
-    "text": "Sacred Relic Sword One of the choices offered when trading in the Elden Remembrance to Finger Reader Enia at the Roundtable Hold. Somber"
+    "text": "\u795e\u8eaf\u5316\u5251 \u5728[\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u827e\u5c14\u767b\u7684\u8ffd\u5fc6]\u4ea4\u6362\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_5_5",
-    "text": "Zweihander Purchased from the Isolated Merchant at the Isolated Merchant's Shack at the western end of the Weeping Peninsula. Normal"
+    "text": "\u53cc\u624b\u5de8\u5251 \u5728[\u555c\u6ce3\u534a\u5c9b]\u897f\u8fb9[\u9690\u5c45\u5546\u4eba\u7684\u7834\u5c4b]\u7684[\u9690\u5c45\u5546\u4eba]\u5904\u8d2d\u4e70\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_5_1",
-    "text": "Greatsword Found inside a chest on the back of a stationary carriage in the north-west corner of Caelid. Easily found by following the road east of the Rotview Balcony grace site. [Map Link] Normal"
+    "text": "\u5de8\u5251 \u5728[\u76d6\u5229\u5fb7]\u897f\u5317\u89d2\u4e00\u8f86\u9759\u6b62\u7684\u9a6c\u8f66\u540e\u9762\u7684\u5b9d\u7bb1\u91cc\u3002 \u987a\u7740\u8d50\u798f[\u8150\u8d25\u65c1\u9732\u53f0]\u5f80\u4e1c\u8d70\u5f88\u5bb9\u6613\u627e\u5230\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_5_2",
-    "text": "Watchdog's Greatsword 8% drop chance from the non-boss Watchdogs that wield this sword. They can be found in both the Giants' Mountaintop Catacombs and the Giant-Conquering Hero's Grave dungeons. Normal"
+    "text": "\u770b\u95e8\u72ac\u5927\u5251 \u4ece\u6325\u821e\u8fd9\u628a\u5251\u7684\u975eBoss\u5c0f\u770b\u95e8\u72ac\u8eab\u4e0a8%\u51e0\u7387\u6389\u843d\u3002\u4ed6\u4eec\u51fa\u73b0\u5728[\u5de8\u4eba\u5c71\u9876\u5730\u4e0b\u5893\u5730]\u548c[\u5de8\u4eba\u6218\u4e89\u7684\u82f1\u96c4\u5893\u5730]\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_5_4",
-    "text": "Troll's Golden Sword Found inside a chest on the back of a large, stationary carriage that sits just east of the Erdtree-Gazing Hill grace site in Altus Plateau.  [Map Link] Normal"
+    "text": "\u5c71\u5996\u9ec4\u91d1\u5251 \u5728[\u4e9a\u575b\u9ad8\u539f]\u8d50\u798f[\u8fd1\u9ec4\u91d1\u6811\u7684\u5c71\u4e18]\u4e1c\u8fb9\u9759\u6b62\u9a6c\u8f66\u540e\u9762\u7684\u5b9d\u7bb1\u91cc\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_5_11",
-    "text": "Troll Knight's Sword Dropped from the Troll Knight in Caria Manor.  [Map Link] Somber"
+    "text": "\u5c71\u5996\u9a91\u58eb\u5251 \u5728[\u5361\u5229\u4e9a\u57ce\u5be8]\u7684\u5c71\u5996\u9a91\u58eb\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_5_7",
-    "text": "Royal Greatsword Obtainable near the end of Ranni the Witch's questline. A certain someone (Click for Spoiler!) will spawn in front of Ranni's Rise that you will need to defeat. Somber"
+    "text": "\u738b\u5ba4\u5de8\u5251 \u5728[\u9b54\u5973\u83c8\u59ae]\u4efb\u52a1\u7ebf\u4e34\u8fd1\u7ed3\u675f\u65f6\u83b7\u5f97\u3002[\u201c\u534a\u72fc\u201d\u5e03\u83b1\u6cfd]\u5728[\u83c8\u59ae\u9b54\u6cd5\u5e08\u5854]\u524d\u51fa\u73b0\uff0c\u4f60\u9700\u8981\u6218\u80dc\u4ed6\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_5_10",
-    "text": "Grafted Blade Greatsword A legendary armament. Dropped from the Leonine Misbegotten boss in Castle Morne at the southern end of Weeping Peninsula.  [Map Link] Somber"
+    "text": "\u5251\u9ab8\u5927\u5251 \u4f20\u8bf4\u4e2d\u7684\u6b66\u5668\u3002[\u555c\u6ce3\u534a\u5c9b]\u6700\u5357\u7aef[\u6469\u6069\u57ce]\u7684Boss[\u72ee\u5b50\u6df7\u79cd]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_5_9",
-    "text": "Ruins Greatsword Dropped by the Misbegotten Warrior and Crucible Knight boss duo at Redmane Castle Plaza.  [Map Link] *NOTE* This item is inaccessible during the Radahn Festival. If triggered, you will have to first defeat Starscourge Radahn. Somber"
+    "text": "\u9057\u8ff9\u5927\u5251 [\u7ea2\u72ee\u5b50\u57ce]\u5e7f\u573a\u7684\u53ccBoss[\u6df7\u79cd\u6218\u58eb]\u548c[\u7194\u7089\u9a91\u58eb]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5]*\u6ce8\u610f*\u5728Radahn\u8282\u671f\u95f4\u65e0\u6cd5\u8bbf\u95ee\u8be5\u9879\u76ee\u3002\u5982\u679c\u88ab\u89e6\u53d1\uff0c\u4f60\u5fc5\u987b\u5148\u5931\u8d25[\u201c\u788e\u661f\u201d\u62c9\u5854\u6069]. \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_5_6",
-    "text": "Starscourge Greatsword One of the choices offered when trading in the Remembrance of the Starscourge to Finger Reader Enia at the Roundtable Hold. Somber"
+    "text": "\u788e\u661f\u5927\u5251 [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u4ea4\u6613[\u788e\u661f\u7684\u8ffd\u5fc6]\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_5_8",
-    "text": "Godslayer's Greatsword Divine Tower of Caelid's basement: After a series of drop downs, found inside a chest just beyond the Godskin Apostle fight. Somber"
+    "text": "\u72e9\u730e\u795e\u7947\u5927\u5251 [\u76d6\u5229\u5fb7\u795e\u6388\u5854]\u7684\u5730\u4e0b\u5ba4: \u7ecf\u8fc7\u4e00\u7cfb\u5217\u7684\u4e0b\u843d\uff0c\u5728[\u795e\u76ae\u4f7f\u5f92]Boss\u6218\u540e\u7684\u5b9d\u7bb1\u91cc\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_5_3",
-    "text": "Maliketh's Black Blade One of the choices offered when trading in the Remembrance of the Black Blade to Finger Reader Enia at the Roundtable Hold. Somber"
+    "text": "\u739b\u5229\u5580\u65af\u7684\u9ed1\u5251 [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u4ea4\u6613[\u9ed1\u5251\u7684\u8ffd\u5fc6]\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_15_1",
-    "text": "Rapier Purchased from Twin Maiden Husks at the Roundtable Hold. Normal"
+    "text": "\u7ec6\u5251 [\u5706\u684c\u5385\u5802]\u7684[\u5b6a\u751f\u8001\u59aa]\u5904\u8d2d\u4e70 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_15_2",
-    "text": "Estoc Starting Equipment for the Prisoner Class. Purchased from the Nomadic Merchant near the southern entrance of Liurnia of the Lakes.  [Map Link] Normal"
+    "text": "\u523a\u5251 \u56da\u72af\u521d\u59cb\u88c5\u5907\u3002[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u5357\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u5904\u8d2d\u4e70\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_15_3",
-    "text": "Noble's Estoc 0.5% drop chance from Wandering Nobles around Limgrave, Raya Lucaria Academy, and Liurnia of the Lakes who wear feathered caps and coats. One area to farm this is at the Church of Vows; one pack can be found to the north-east as well as one more pack directly east. Normal"
+    "text": "\u6743\u8d35\u523a\u5251 [\u5b81\u59c6\u683c\u798f]\u3001[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u4ee5\u53ca[\u9b54\u6cd5\u5b66\u9662\u96f7\u4e9a\u5362\u5361\u5229\u4e9a]\u5b66\u9662\u7684\u6d41\u6d6a\u8d35\u65cf0.5%\u51e0\u7387\u6389\u843d\u3002\u4ed6\u4eec\u6234\u7740\u7fbd\u6bdb\u5e3d\u5b50\uff0c\u7a7f\u7740\u7fbd\u6bdb\u5916\u5957\u3002\u4e00\u4e2a\u6bd4\u8f83\u65b9\u4fbf\u7684\u5237\u7684\u5730\u70b9\u662f[\u7ed3\u7f18\u6559\u5802]\u7684\u4e1c\u5317\u548c\u4e1c\u9762\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_15_4",
-    "text": "Cleanrot Knight's Sword 4% drop chance from non-boss Cleanrot Knights. You can farm this sword, along with the Cleanrot Spear, Halo Scythe, and the Cleanrot Armor on the ~6 cleanrot knights (a few are submerged in the swamp) just south of the Inner Aeonia grace site in Caelid. Normal"
+    "text": "\u5c0a\u8150\u9a91\u58eb\u5251 \u975eBoss\u7684\u5c0a\u8150\u9a91\u58eb4%\u51e0\u7387\u6389\u843d\u3002 \u53ef\u4ee5\u540c\u65f6\u5237[\u5c0a\u8150\u9a91\u58eb\u77db]\u3001[\u5149\u73af\u9570\u5200]\u548c[\u5c0a\u8150\u9a91\u58eb\u94e0\u7532]\u3002[\u76d6\u5229\u5fb7]\u8d50\u798f[\u827e\u5965\u5c3c\u4e9a\u6cbc\u6cfd\uff08\u6df1\u5904\uff09]\u5357\u90e8\u67096\u4e2a\u5c0a\u8150\u9a91\u58eb(\u4e00\u4e9b\u5728\u6cbc\u6cfd\u91cc)\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_15_5",
-    "text": "Rogier's Rapier+8 Rewarded by Sorcerer Rogier at the balcony in Roundtable Hold after defeating Godrick the Grafted. Normal"
+    "text": "\u7f57\u6770\u5c14\u523a\u5251+8 \u51fb\u8d25[\u201c\u63a5\u80a2\u201d\u845b\u745e\u514b]\u540e\u5728[\u5706\u684c\u5385\u5802]\u9633\u53f0\u4e0a\u548c[\u9b54\u6cd5\u5e08\u7f57\u6770\u5c14]\u4ea4\u8c08\u83b7\u5f97\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_15_6",
-    "text": "Antspur Rapier Dropped from Maleigh Marais, Shaded Castle Castellan, a hostile NPC found in the rocky fields just west of The Shaded Castle.  [Map Link] Normal"
+    "text": "\u8681\u523a\u7ec6\u5251 [\u65e5\u836b\u57ce]\u897f\u8fb9\u7684\u654c\u5bf9NPC[\u201c\u65e5\u836b\u57ce\u4e3b\u201d\u739b\u96f7\u739b\u96f7]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_15_7",
-    "text": "Frozen Needle Kingsrealm Ruins, at the northwestern part of Liurnia of the Lakes: Found inside a chest after defeating the Royal Revenant boss in a hidden underground area. The stairway is paved over with an illusionary floor at the east end of the ruins, near a pack of wolves. Somber"
+    "text": "\u7ed3\u51b0\u9488 [\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u897f\u5317\u90e8\u7684[\u738b\u5ba4\u9886\u5730\u5e9f\u589f]: \u51fb\u8d25Boss[\u738b\u5ba4\u5e7d\u9b42]\u540e\u5728\u4e00\u4e2a\u5b9d\u7bb1\u91cc\u3002Boss\u5728\u4e00\u4e2a\u9690\u853d\u7684\u5730\u4e0b\u533a\u57df\u3002\u697c\u68af\u5728\u5e9f\u589f\u4e1c\u7aef\u7684\u5e7b\u5f71\u5730\u677f\u4e0b\uff0c\u9644\u8fd1\u6709\u4e00\u7fa4\u72fc\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_16_1",
-    "text": "Great \u00c9p\u00e9e Found inside a chest in an encampment just east of the Agheel Lake South grace site.  [Map Link] Normal"
+    "text": "\u5927\u91cd\u5251 \u5728\u8d50\u798f[\u4e9a\u57fa\u5c14\u6e56\u5357\u65b9]\u9644\u8fd1\u8425\u5730\u7684\u4e00\u4e2a\u5b9d\u7bb1\u91cc\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_16_2",
-    "text": "Godskin Stitcher Dropped from the Godskin Noble boss inside Volcano Manor.  [Map Link] Normal"
+    "text": "\u795e\u76ae\u7f1d\u9488 [\u706b\u5c71\u5b98\u90b8]\u7684Boss[\u795e\u76ae\u8d35\u65cf]\u53cc\u4eba\u7ec4\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_16_3",
-    "text": "Bloody Helice Writheblood Ruins, in northern Altus Plateau: Found inside a chest after defeating the Sanguine Noble boss.  [Map Link] Somber"
+    "text": "\u9c9c\u8840\u65cb\u6d41 [\u4e9a\u575b\u9ad8\u539f]\u5317\u90e8[\u8815\u8840\u5e9f\u589f]: \u51fb\u8d25Boss[\u9c9c\u8840\u8d35\u65cf]\u540e\u5728\u4e00\u4e2a\u5b9d\u7bb1\u91cc\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_16_4",
-    "text": "Dragon King's Cragblade One of the choices offered when trading in the Remembrance of the Dragonlord to Finger Reader Enia at the Roundtable Hold. Somber"
+    "text": "\u9f99\u738b\u5ca9\u5251 \u5728[\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u9f99\u738b\u7684\u8ffd\u5fc6]\u4ea4\u6362\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_9_13",
-    "text": "Scimitar Starting Equipment for the Warrior Class. Can be purchased from Twin Maiden Husks at the Roundtable Hold for 600 Runes. Can be dropped by Scimitar-wielding Skeletal Militiamen found in various dungeons such as Deathtouched Catacombs. Normal"
+    "text": "\u77ed\u5f2f\u5200 \u5251\u58eb\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002\u4ece[\u5706\u684c\u5385\u5802][\u5b6a\u751f\u8001\u59aa]\u5904\u4ee5600\u5362\u6069\u8d2d\u4e70\u3002\u53ef\u4ee5\u88ab\u5728\u5404\u79cd\u5730\u7262\u4e2d\u7531\u6325\u821e\u8fd9\u628a\u6b66\u5668\u7684\u9ab7\u9ac5\u5175\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_9_1",
-    "text": "Falchion Potential drop from falchion-wielding Demi-Humans. A good spot to farm is under the large ruin, below where Kenneth Haight can first be found, just north of the Mistwood Outskirts Grace. [Map Link]. Normal"
+    "text": "\u5f2f\u5203\u5927\u5200 \u6325\u821e\u9570\u5200\u4e9a\u4eba\u53ef\u80fd\u6389\u843d\u3002 \u4e00\u4e2a\u65b9\u4fbf\u5237\u7684\u5730\u70b9\u662f\u5728[\u201c\u9886\u4e3b\u7684\u5ae1\u957f\u5b50\u201d\u80af\u5c3c\u65af\u00b7\u6d77\u5fb7]\u4f4d\u4e8e\u8d50\u798f[\u96fe\u6797\u8fb9\u7f18]\u7684\u5317\u9762\u5927\u5e9f\u589f\u4e0b\u9762\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_9_4",
-    "text": "Shamshir On a body located at the bottom of Highroad Cave, on a platform after the waterfall section, being feasted on by Giant Bats. [Map Link] Normal"
+    "text": "\u8d5b\u65bd\u5c14\u957f\u5200 \u5728[\u5927\u9053\u4e0b\u7684\u6d1e\u7a9f]\u5e95\u90e8\u7011\u5e03\u4e4b\u540e\u7684\u4e00\u4e2a\u5e73\u53f0\u88ab\u5de8\u8760\u5543\u98df\u7684\u5c38\u4f53\u4e0a\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_9_14",
-    "text": "Grossmesser 2% drop chance from Skeletal Militiamen wielding this weapon in Tombsward Catacombs. Normal"
+    "text": "\u5de8\u578b\u5200 [\u7075\u5e99\u539f\u91ce\u5730\u4e0b\u5893\u5730]\u6325\u821e\u7740\u8fd9\u4e2a\u6b66\u5668\u7684\u9ab7\u9ac5\u51752%\u51e0\u7387\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_9_5",
-    "text": "Bandit's Curved Sword 2% drop chance from Skeletal Bandits, such as those near Church of Pilgrimage and Hermit Merchant's Shack. Normal"
+    "text": "\u5c71\u8d3c\u5f2f\u5200 \u9ab7\u9ac5\u5f3a\u76d72%\u51e0\u7387\u6389\u843d\uff0c\u4f8b\u5982[\u5de1\u793c\u6559\u5802]\u548c[\u9041\u4e16\u5546\u4eba\u7684\u7834\u5c4b]\u9644\u8fd1\u90a3\u4e9b\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_9_3",
-    "text": "Shotel Purchased from the Nomadic Merchant in Siofra River for 2500 Runes. [Map Link] Normal"
+    "text": "\u94a9\u5251 [\u5e0c\u8299\u62c9\u6cb3]\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u53562,500\u5362\u6069\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_9_9",
-    "text": "Scavenger's Curved Sword Found in Mt. Gelmir, on a corpse near a Grafted Scion across a stone pillar-bridge north west of the First Mt. Gelmir Campsite site of grace. The corpse closest to the ladder has the blade. [Map Link] Normal"
+    "text": "\u5265\u5c38\u66f2\u5251 [\u683c\u5bc6\u5c14\u706b\u5c71]: \u5728\u8d50\u798f[\u683c\u5bc6\u5c14\u706b\u5c71\uff08\u7b2c\uff11\u4f11\u606f\u7ad9\uff09]\u897f\u5317\u7684\u4e00\u5ea7\u77f3\u67f1\u6865\u4e0a[\u201c\u63a5\u80a2\u201d\u8d35\u65cf\u540e\u88d4]\u9644\u8fd1\u79bb\u68af\u5b50\u6700\u8fd1\u7684\u5c38\u4f53\u4e0a\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_9_12",
-    "text": "Mantis Blade Dropped by Cemetery Shade in Gelmir Hero's Grave. [Map Link] Normal"
+    "text": "\u87b3\u81c2\u5200 [\u683c\u5bc6\u5c14\u82f1\u96c4\u5893\u5730]\u7684[\u5893\u5730\u5f71\u5b50]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_9_2",
-    "text": "Beastman's Curved Sword 2% drop chance from Azula Beastmen carrying this weapon. 7 beastmen carrying this weapon can be found near the Crumbling Beast Grave Site of Grace in Crumbling Farum Azula. Turn right after leaving the room with the grace, the beastmen will be in two rooms ahead. Four of the beastmen are eating and do not respond unless the player attacks or walks near their head. Normal"
+    "text": "\u517d\u4eba\u5f2f\u5200 \u5e26\u7740\u8fd9\u79cd\u6b66\u5668\u7684\u4e9a\u5179\u62c9\u7684\u517d\u4eba2%\u51e0\u7387\u6389\u843d\u3002\u5728[\u9010\u6e10\u5d29\u6bc1\u7684\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9]\u8d50\u798f[\u6e10\u6bc1\u91ce\u517d\u5893]\u9644\u8fd1\u53ef\u4ee5\u627e\u52307\u4e2a\u643a\u5e26\u6b64\u6b66\u5668\u7684\u517d\u4eba\u3002\u4ece\u8d50\u798f\u79bb\u5f00\u623f\u95f4\u540e\u53f3\u8f6c\uff0c\u517d\u4eba\u5728\u524d\u9762\u4e24\u4e2a\u623f\u95f4\u30024\u4e2a\u91ce\u517d\u4eba\u6b63\u5728\u5403\u4e1c\u897f\uff0c\u9664\u975e\u73a9\u5bb6\u653b\u51fb\u6216\u8d70\u5230\u4ed6\u4eec\u9762\u524d\uff0c\u5426\u5219\u4ed6\u4eec\u4e0d\u4f1a\u4e3b\u52a8\u653b\u51fb\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_9_7",
-    "text": "Flowing Curved Sword Consecrated Snowfield: Southwest of the Inner Consecrated Snowfield Site of Grace a caravan is pulling a Hearse with a chest containing the Flowing Curved Sword. The Hearse is protected at night by a double Night's Cavalry boss fight. [Map Link] Normal"
+    "text": "\u6d41\u6c34\u66f2\u5251 [\u5316\u5723\u96ea\u539f]: \u5728\u8d50\u798f[\u5316\u5723\u96ea\u539f\uff08\u6df1\u5904\uff09]\u897f\u5357\u7684\u5927\u7bf7\u8f66\uff0c\u91cc\u9762\u88c5\u7740[\u6d41\u6c34\u66f2\u5251]\u3002\u6ce8\u610f\u665a\u4e0a\u6709\u573a\u5730Boss[\u9ed1\u591c\u9a91\u5175]\u62a4\u536b\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_9_11",
-    "text": "Serpent-God's Curved Sword Can be found at Ruin-Strewn Precipice. From the Ruin-Strewn Precipice Overlook Grace, take the elevator down to end up behind the two singing bats. Traversing northward takes you to a ladder, and the sword is behind the Land Octopus. [Map Link] Normal"
+    "text": "\u86c7\u795e\u5f2f\u5200 \u5728[\u53e4\u9057\u8ff9\u65ad\u5d16]\uff0c\u4ece\u8d50\u798f[\u53e4\u9057\u8ff9\u65ad\u5d16\uff08\u5bf9\u5cb8\uff09]\u51fa\u53d1\u5750\u7535\u68af\u4e0b\u5230\u4e24\u53ea\u8759\u8760\u540e\u9762\u3002\u5f80\u5317\u8d70\uff0c\u4f60\u4f1a\u770b\u5230\u68af\u5b50\uff0c\u5251\u5c31\u5728\u7ae0\u9c7c\u540e\u9762\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_9_6",
-    "text": "Magma Blade Rare drop from Man-Serpents wielding this weapon at Volcano Manor. Somber"
+    "text": "\u7194\u5ca9\u5200 [\u706b\u5c71\u5b98\u90b8]\u6325\u821e\u8fd9\u628a\u6b66\u5668\u7684\u86c7\u4eba\u7684\u7a00\u6709\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_9_15",
-    "text": "Nox Flowing Sword Sellia, Town of Sorcery: Dropped by the Nox Swordstress & Nox Priest boss duo upon defeat. [Map Link] Somber"
+    "text": "\u8bfa\u514b\u65af\u6d41\u4f53\u5251 [\u9b54\u6cd5\u9547\u745f\u5229\u4e9a]: \u51fb\u8d25[\u8bfa\u514b\u65af\u5251\u58eb]\u548c[\u8bfa\u514b\u65af\u4fee\u58eb]\u53cc\u4eba\u7ec4\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_9_8",
-    "text": "Wing of Astel Found in a small chest at the top of the ruins in southern Uhl Palace Ruins. Can only be reached if you have access to the northern section of Ainsel River, by following the river east from northern Uhl Palace Ruins. From the Nokstella, Eternal City Site of Grace, look east at the waterfall and go forward, climbing up the ladder you see on your right. Go through the door and up the watery path, hugging the right wall, you'll encounter an ant enemy along the way and through the tunnel you'll see a T-Posing enemy with a scythe at the cliff. Continue hugging the right wall, and drop down safely down the ledges and up the path where the chest is located on the walkway behind the Malformed Star enemy. Be careful of the spells it fires at you, so you don't get knocked off the walkway. [Map Link] Somber"
+    "text": "\u827e\u4e1d\u7f07\u8584\u7ffc \u5728[\u4e4c\u9c81\u738b\u671d\u9057\u8ff9]\u5357\u90e8\u5e9f\u589f\u9876\u90e8\u7684\u5b9d\u7bb1\u91cc\u3002\u53ea\u6709\u5728\u4f60\u80fd\u8fdb\u5165[\u5b89\u745f\u5c14\u6cb3]\u5317\u6bb5\u7684\u60c5\u51b5\u4e0b\u624d\u80fd\u5230\u8fbe\u3002\u4ece\u8d50\u798f[\u201c\u6c38\u6052\u4e4b\u57ce\u201d\u8bfa\u514b\u53f2\u9edb\u62c9]\u5411\u4e1c\u770b\u7011\u5e03\uff0c\u7136\u540e\u6cbf\u7740\u4f60\u53f3\u8fb9\u770b\u5230\u7684\u68af\u5b50\u5f80\u4e0a\u722c\u3002\u7a7f\u8fc7\u95e8\uff0c\u6cbf\u7740\u6c34\u8def\u8d70\uff0c\u6cbf\u7740\u53f3\u8fb9\u7684\u5899\uff0c\u4f60\u4f1a\u9047\u5230\u4e00\u53ea\u8682\u8681\u654c\u4eba\uff0c\u7a7f\u8fc7\u96a7\u9053\uff0c\u4f60\u4f1a\u770b\u5230\u4e00\u4e2a\u624b\u6301\u9570\u5200\u7684\u654c\u4eba\u5728\u60ac\u5d16\u8fb9\u3002\u7ee7\u7eed\u6cbf\u7740\u53f3\u8fb9\u7684\u5899\uff0c\u7136\u540e\u5b89\u5168\u5730\u4ece\u7a97\u53f0\u4e0b\u6765\uff0c\u6cbf\u7740\u7578\u5f62\u7e41\u661f\u540e\u9762\u7684\u8d70\u9053\u5411\u4e0a\u8d70\u3002\u5c0f\u5fc3\u5b83\u5411\u4f60\u53d1\u5c04\u7684\u9b54\u6cd5\uff0c\u8fd9\u6837\u4f60\u5c31\u4e0d\u4f1a\u88ab\u63a8\u4e0b\u8d70\u9053\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_9_10",
-    "text": "Eclipse Shotel Castle Sol: Found at the altar of the church in the southeast section of the castle. [Map Link] Somber"
+    "text": "\u65e5\u8680\u94a9\u5251 [\u7d22\u5c14\u57ce]: \u5728\u57ce\u5821\u4e1c\u5357\u90e8\u7684\u6559\u5802\u796d\u575b\u4e0a\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_8_2",
-    "text": "Dismounter 4% drop chance from any Kaiden Sellsword around the map. Normal"
+    "text": "\u9a91\u5175\u9a6c\u5200 \u51ef\u4e39\u4f63\u51754%\u51e0\u7387\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_8_6",
-    "text": "Omen Cleaver 4% drop chance from Omen enemies wielding it. You can find one at the heavily guarded courtyard in Stormveil Castle. The nearest checkpoint is the Liftside Chamber site of grace. [Map Link] If the dog is interfering with your farming attempts, equip Beast-Repellent Torch. Normal"
+    "text": "\u6076\u5146\u4e4b\u5b50\u5927\u5200 \u6325\u821e\u5b83\u7684\u6076\u5146\u51754%\u51e0\u7387\u6389\u843d\u3002\u4f60\u53ef\u4ee5\u5728[\u53f2\u4e1c\u8587\u5c14\u57ce]\u6212\u5907\u68ee\u4e25\u7684\u9662\u5b50\u91cc\u627e\u5230\u4e00\u4e2a\u3002\u6700\u8fd1\u7684\u8d50\u798f\u662f\u8d50\u798f[\u5347\u964d\u673a\u65c1\u623f\u95f4]\u3002\u5982\u679c\u4e0d\u60f3\u7ba1\u5468\u56f4\u7684\u730e\u72ac\uff0c\u53ef\u4ee5\u88c5\u5907[\u9a71\u517d\u706b\u628a]\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_8_7",
-    "text": "Monk's Flameblade 4% drop chance from Fire Monks in Giant-Conquering Hero's Grave, Mountaintops of the Giants. Normal"
+    "text": "\u4e60\u6b66\u4fee\u58eb\u706b\u7eb9\u5200 [\u5de8\u4eba\u5c71\u9876]\u7684\u706b\u7130\u6559\u58eb[\u5de8\u4eba\u6218\u4e89\u7684\u82f1\u96c4\u5893\u5730]4%\u51e0\u7387\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_8_8",
-    "text": "Beastman's Cleaver One appears on the bottom ledge of secluded group of flying debris in Crumbling Farum Azula only reachable via a Waygate at The Four Belfries. [Map Link] Two found near the Dragon Temple Lift grace in Crumbling Farum Azula. From the grace, take the lift down and take a right to reach some stairs. One can be found by going right when facing the stairs and jumping across the floating pillar. Another can be found by taking those stairs down. One near the Beside the Great Bridge grace in Crumbling Farum Azula. From the grace, take the lift down and through the passage to the right. This beastman has more hp than the previous ones. Normal"
+    "text": "\u517d\u4eba\u5927\u5f2f\u5200 \u5e26\u7740\u8fd9\u79cd\u6b66\u5668\u7684\u4e9a\u5179\u62c9\u7684\u517d\u4eba\u6389\u843d\u3002\u4e00\u4e2a\u51fa\u73b0\u5728\u53ea\u80fd\u901a\u8fc7\u4f20\u9001\u95e8\u5230\u8fbe[\u56db\u949f\u697c]\u7684[\u9010\u6e10\u5d29\u6bc1\u7684\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9]\u5e95\u90e8\u8fb9\u7f18\u3002[\u5730\u56fe\u94fe\u63a5]\u3002[\u9010\u6e10\u5d29\u6bc1\u7684\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9]\u8d50\u798f[\u9f99\u6559\u5802\uff08\u5347\u964d\u673a\u524d\uff09]\u9644\u8fd1\u6709\u4e24\u4e2a\u3002\u4ece\u8d50\u798f\u70b9\u51fa\u53d1\u4e58\u7535\u68af\u4e0b\u53bb\uff0c\u7136\u540e\u53f3\u8f6c\u5230\u697c\u68af\u5904\u3002\u9762\u5bf9\u697c\u68af\u5411\u53f3\u8d70\uff0c\u8d8a\u8fc7\u6f02\u6d6e\u7684\u67f1\u5b50\u5c31\u53ef\u4ee5\u627e\u5230\u4e00\u4e2a\uff0c\u4e0b\u697c\u68af\u80fd\u627e\u5230\u53e6\u4e00\u4e2a\u3002[\u9010\u6e10\u5d29\u6bc1\u7684\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9]\u8d50\u798f[\u5927\u6865\u4fa7\u8fb9]\u9644\u8fd1\u4e5f\u6709\u4e00\u4e2a\uff0c\u5750\u7535\u68af\u4e0b\u53bb\uff0c\u7a7f\u8fc7\u53f3\u8fb9\u7684\u901a\u9053\u3002\u8fd9\u4e2a\u517d\u4eba\u6bd4\u4e4b\u524d\u7684HP\u66f4\u591a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_8_3",
-    "text": "Bloodhound's Fang Dropped by the Bloodhound Knight Darriwil, in Limgrave. [Map Link]. Somber"
+    "text": "\u730e\u72ac\u957f\u7259 [\u5b81\u59c6\u683c\u798f]\u7684[\u201c\u730e\u72ac\u9a91\u58eb\u201d\u8fbe\u745e\u5a01\u5c14]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_8_1",
-    "text": "Onyx Lord's Greatsword Dropped by Onyx Lord in the Sealed Tunnel. [Map Link]. Somber"
+    "text": "\u9ed1\u738b\u5927\u5251 [\u5c01\u5370\u5751\u9053]\u7684[\u77f3\u80a4\u9ed1\u738b]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5]. \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_8_5",
-    "text": "Zamor Curved Sword Giant-Conquering Hero's Grave: Dropped by the Ancient Hero of Zamor boss found at the end of the dungeon. [Map Link] Somber"
+    "text": "\u8428\u7c73\u5c14\u5f2f\u5200 [\u5de8\u4eba\u6218\u4e89\u7684\u82f1\u96c4\u5893\u5730]\u7684Boss[\u8428\u7c73\u5c14\u7684\u53e4\u82f1\u96c4]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_8_4",
-    "text": "Magma Wyrm's Scalesword Drops from Magma Wyrm Makar in Ruin-Strewn Precipice in northern Liurnia of the Lakes. [Map Link] Somber"
+    "text": "\u571f\u9f99\u9cde\u5251 [\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u5317\u90e8[\u53e4\u9057\u8ff9\u65ad\u5d16]\u7684[\u201c\u7194\u5ca9\u571f\u9f99\u201d\u9a6c\u5361\u5c14]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_8_9",
-    "text": "Morgott's Cursed Sword Can be purchased from Finger Reader Enia found at the Roundtable Hold with the Remembrance of the Omen King. Somber"
+    "text": "\u8499\u845b\u7279\u5492\u5251 [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u6076\u5146\u738b\u7684\u8ffd\u5fc6]\u4ea4\u6362\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_17_1",
-    "text": "Uchigatana Starting Equipment for the Samurai Class. It can be found inside the Deathtouched Catacombs in Stormhill, Limgrave. You need to turn the lever down in order to unlock the door of one of the previous halls. You will find the Uchigatana on a dead body hanging over the edge of the platform. [Map Link] Normal"
+    "text": "\u6253\u5200 \u6b66\u58eb\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002\u5b83\u53ef\u4ee5\u5728\u91cc\u9762\u627e\u5230[\u6b7b\u4ea1\u964d\u4e34\u7684\u5730\u4e0b\u5893\u5730]\u5728[\u98ce\u66b4\u5c71\u4e18], [\u5b81\u59c6\u683c\u798f]\u3002\u4f60\u9700\u8981\u628a\u6760\u6746\u8c03\u4f4e\uff0c\u4ee5\u4fbf\u6253\u5f00\u524d\u4e00\u4e2a\u5927\u5385\u7684\u95e8\u3002\u4f60\u4f1a\u5728\u5e73\u53f0\u8fb9\u7f18\u7684\u5c38\u4f53\u4e0a\u53d1\u73b0[\u6253\u5200]\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_17_2",
-    "text": "Nagakiba Dropped by Bloody Finger Hunter Yura to the north of Murkwater Cave or in his camp near Seaside Ruins Site of Grace. Can also be obtained by completing Bloody Finger Hunter Yura's questline at the Second Church of Marika allowing you to also obtain Eleonora's Poleblade and Purifying Crystal Tear. [Map Link] If his questline is progressed too far without killing Eleonora (to the point where his body is taken by Shabriri), the Nagakiba can be found in one of the prior locations the player saw Yura: 1. at Yura's camp north-east of the Seaside Ruins Site of Grace, 2. at the underpass below the Murkwater Coast Site of Grace, or 3. on the edge of the bridge a little way away from the Main Academy Gate Site of Grace. If killed by the Zamor Ruins site of grace, you can loot the Ronin Armor set from him and the weapon will be found in his usual spot just north of Murkwater Cave or it can be found south of the Dragon Burnt Ruins under the broken structure. Normal"
+    "text": "\u957f\u7259 \u6740\u6b7b[\u8499\u6d41\u6d1e\u7a9f]\u5317\u8fb9\u6216\u8005\u8d50\u798f[\u508d\u6d77\u53e4\u9057\u8ff9]\u9644\u8fd1\u8425\u5730\u7684[\u201c\u8840\u6307\u730e\u4eba\u201d\u5c24\u62c9]\u6389\u843d\u3002\u4e5f\u53ef\u4ee5\u901a\u8fc7\u5b8c\u6210[\u201c\u8840\u6307\u730e\u4eba\u201d\u5c24\u62c9]\u7684\u4efb\u52a1\u7ebf\u5728[\u739b\u8389\u5361\u7b2c\u4e8c\u6559\u5802]\u83b7\u5f97[\u827e\u7409\u8bfa\u62c9\u7684\u53cc\u5934\u5200]\u548c[\u51c0\u8840\u7ed3\u6676\u9732\u6ef4]\u3002[\u5730\u56fe\u94fe\u63a5]\u3002 \u5982\u679c\u5728\u6ca1\u6709\u6740\u6b7b[\u201c\u7eaf\u7d2b\u8840\u6307\u201d\u827e\u7409\u8bfa\u62c9]\u7684\u60c5\u51b5\u4e0b\u8d70\u5f97\u592a\u8fdc(\u5230\u4ed6\u7684\u8eab\u4f53\u88ab[\u590f\u73bb\u5229\u5229]\u5360\u636e\u7684\u4f4d\u7f6e)\uff0c[\u957f\u7259]\u53ef\u4ee5\u5728\u73a9\u5bb6\u4e4b\u524d\u770b\u5230[\u201c\u8840\u6307\u730e\u4eba\u201d\u5c24\u62c9]\u7684\u4e00\u4e2a\u4f4d\u7f6e\u627e\u5230: 1.\u5728\u8d50\u798f[\u508d\u6d77\u53e4\u9057\u8ff9]\u65c1[\u201c\u8840\u6307\u730e\u4eba\u201d\u5c24\u62c9]\u7684\u8425\u5730 2.\u5728\u8d50\u798f[\u8499\u6d41\u5cb8\u8fb9]\u4e0b\u65b9\u7684\u5730\u4e0b\u901a\u9053 3.\u5728\u79bb\u8d50\u798f[\u5b66\u9662\u6b63\u95e8\u53e3]\u4e0d\u8fdc\u7684\u6865\u7684\u8fb9\u7f18\u3002\u5982\u679c\u5728\u8d50\u798f[\u8428\u7c73\u5c14\u5e9f\u589f]\u65c1\u6740\u6b7b\u4ed6\uff0c\u4f60\u53ef\u4ee5\u4ece\u4ed6\u90a3\u91cc\u62a2\u5230\u6d6a\u4eba\u7684\u76d4\u7532\uff0c\u6b66\u5668\u4f1a\u5728\u4ed6\u4e4b\u524d\u6240\u5728\u7684[\u8499\u6d41\u6d1e\u7a9f]\u5317\u8fb9\u6216\u8005[\u9f99\u606f\u5e9f\u589f]\u5357\u8fb9\u7684\u5efa\u7b51\u4e0b\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_17_3",
-    "text": "Serpentbone Blade Given as a reward for completing the second letter quest in Volcano Manor from Tanith. [Map Link] Normal"
+    "text": "\u86c7\u9aa8\u5200 \u5b8c\u6210[\u706b\u5c71\u5b98\u90b8][\u201c\u706b\u5c71\u5b98\u90b8\u4e4b\u4e3b\u201d\u5854\u59ae\u4e1d]\u7b2c\u4e8c\u4e2a\u4efb\u52a1\u7684\u5956\u52b1\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_17_4",
-    "text": "Meteoric Ore Blade Caelid Waypoint Ruins: Found inside a chest in a small room at the back of an underground hall filled with sarcophagi and Prawn Miner enemies. The entrance to the area is found in the northwest section of the ruins. [Map Link] Somber"
+    "text": "\u94c1\u9668\u77f3\u5200 [\u76d6\u5229\u5fb7\u7684\u9a7f\u7ad9\u8857\u9057\u8ff9]: \u5728\u6709\u5f88\u591a\u77f3\u68fa\u548c\u4e00\u4e2a\u867e\u4eba\u77ff\u5de5\u7684\u5730\u4e0b\u5927\u5385\u540e\u9762\u4e00\u4e2a\u5c0f\u623f\u95f4\u7684\u5b9d\u7bb1\u91cc\u3002\u8be5\u5730\u533a\u7684\u5165\u53e3\u5728\u9057\u8ff9\u7684\u897f\u5317\u90e8\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_17_5",
-    "text": "Moonveil Dropped by Magma Wyrm found in Gael Tunnel - Caelid. [Map Link] Somber"
+    "text": "\u540d\u5200\u6708\u9690 [\u76d6\u5229\u5fb7][\u76d6\u5c14\u5751\u9053]\u7684[\u7194\u5ca9\u571f\u9f99]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_17_6",
-    "text": "Rivers of Blood Dropped by Bloody Finger Okina. Okina invades near the Church of Repose, found in the Eastern region of Mountaintops of the Giants. [Map Link] Somber"
+    "text": "\u5c38\u5c71\u8840\u6d77 [\u5de8\u4eba\u5c71\u9876]\u4e1c\u90e8[\u5b89\u6b47\u6559\u5802]\u9644\u8fd1\u5165\u4fb5\u7684[\u201c\u8840\u6307\u201d\u8001\u7fc1]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_17_7",
-    "text": "Dragonscale Blade Dropped by Dragonkin Soldier in the Lake of Rot. [Map Link] Somber"
+    "text": "\u9f99\u9cde\u5200 [\u8150\u8d25\u6e56]\u7684[\u9f99\u4eba\u58eb\u5175]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_17_8",
-    "text": "Hand of Malenia Can be drawn by Enia out of the Remembrance of the Rot Goddess at the Roundtable Hold, obtained after killing Malenia, Blade of Miquella. Somber"
+    "text": "\u739b\u83b2\u59ae\u4e9a\u7684\u4e49\u624b\u5200 \u7528\u6740\u6b7b[\u201c\u7c73\u51ef\u62c9\u7684\u950b\u5203\u201d\u739b\u83b2\u59ae\u4e9a]\u540e\u83b7\u5f97\u7684[\u8150\u8d25\u5973\u795e\u7684\u8ffd\u5fc6]\u5728[\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u4ea4\u6362\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_18_1",
-    "text": "Twinblade Inside a chest, in the underground cellar, surrounded by four intact walls, just entering Dragon-Burnt Ruins. [Map Link]. Normal"
+    "text": "\u53cc\u5934\u5251 [\u9f99\u606f\u5e9f\u589f]\u5730\u4e0b\u7684\u4e00\u4e2a\u5b9d\u7bb1\u91cc\u3002[\u5730\u56fe\u94fe\u63a5]. \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_18_2",
-    "text": "Twinned Knight Swords In a burning corpse pile in front of East Windmill Pasture in Altus Plateau. [Map Link] Normal"
+    "text": "\u9a91\u58eb\u53cc\u5934\u5251 \u5728[\u4e9a\u575b\u9ad8\u539f][\u4e1c\u8fb9\u98ce\u8f66\u7267\u573a]\u4e00\u4e2a\u71c3\u70e7\u7684\u5c38\u4f53\u5806\u524d\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_18_3",
-    "text": "Godskin Peeler Dropped by Godskin Apostle at Windmill Village, Altus Plateau. [Map Link]. Normal"
+    "text": "\u795e\u76ae\u5265\u5236\u5251 [\u4e9a\u575b\u9ad8\u539f][\u98ce\u8f66\u6751]\u7684[\u795e\u76ae\u4f7f\u5f92]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5]. \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_18_4",
-    "text": "Gargoyle's Twinblade Dropped by Valiant Gargoyle (Twinblade) when both bosses are defeated. [Map Link]. Normal"
+    "text": "\u77f3\u50cf\u9b3c\u53cc\u5934\u5251 \u51fb\u8d25\u53ccBoss[\u82f1\u96c4\u77f3\u50cf\u9b3c\uff08\u53cc\u5934\u5251\uff09]\u540e\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5]. \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_18_5",
-    "text": "Gargoyle's Black Blades Dropped by Black Blade Kindred at the Forbidden Lands just before Mountaintops of the Giants. [Map Link] Somber"
+    "text": "\u77f3\u50cf\u9b3c\u9ed1\u53cc\u5934\u5251 [\u5de8\u4eba\u5c71\u9876][\u7981\u57df]\u7684[\u9ed1\u5251\u7737\u5c5e]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_18_6",
-    "text": "Eleonora's Poleblade Obtained by defeating Eleonora, Violet Bloody Finger, at the Second Church of Marika. [Map Link] (You do not have to complete Bloody Finger Hunter Yura's quest line to obtain this weapon.) Somber"
+    "text": "\u827e\u7409\u8bfa\u62c9\u7684\u53cc\u5934\u5200 \u51fb\u6740[\u739b\u8389\u5361\u7b2c\u4e8c\u6559\u5802]\u7684[\u201c\u7eaf\u7d2b\u8840\u6307\u201d\u827e\u7409\u8bfa\u62c9]\u3002[\u5730\u56fe\u94fe\u63a5](\u4f60\u4e0d\u9700\u8981\u5b8c\u6210[\u201c\u8840\u6307\u730e\u4eba\u201d\u5c24\u62c9]\u7684\u4efb\u52a1\u7ebf\u3002) \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_1_3",
-    "text": "Hand Axe Purchased from the Nomadic Merchant in southeast Mistwood in Limgrave. [Map Link] Normal"
+    "text": "\u624b\u65a7 [\u96fe\u6797]\u5728[\u5b81\u59c6\u683c\u798f]\u4e1c\u5357\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u5904\u8d2d\u4e70\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_1_2",
-    "text": "Forked Hatchet 2% drop chance from Imps that wield this weapon. Normal"
+    "text": "\u5206\u5c94\u624b\u65a7 \u6325\u821e\u8fd9\u6b66\u5668\u7684\u5c0f\u6076\u9b542%\u51e0\u7387\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_1_1",
-    "text": "Battle Axe Starting Equipment for the Hero Class. Purchased from Twin Maiden Husks at the Roundtable Hold. Normal"
+    "text": "\u6218\u65a7 \u52c7\u8005\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002[\u5706\u684c\u5385\u5802]\u7684[\u5b6a\u751f\u8001\u59aa]\u51fa\u552e\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_1_13",
-    "text": "Warped Axe 4% drop chance from Omen and Ogre enemies. You can find an Omen at the heavily guarded courtyard in Stormveil Castle. The nearest checkpoint is the Liftside Chamber site of grace. [Map Link] If the dog is interfering with your farming attempts, equip Beast-Repellent Torch. Normal"
+    "text": "\u6b6a\u67c4\u65a7 \u6076\u5146\u51754%\u51e0\u7387\u6389\u843d\u3002\u4f60\u53ef\u4ee5\u5728[\u53f2\u4e1c\u8587\u5c14\u57ce]\u6212\u5907\u68ee\u4e25\u7684\u9662\u5b50\u91cc\u627e\u5230\u4e00\u4e2a\u3002\u6700\u8fd1\u7684\u8d50\u798f\u662f\u8d50\u798f[\u5347\u964d\u673a\u65c1\u623f\u95f4]\u3002\u5982\u679c\u4e0d\u60f3\u7ba1\u5468\u56f4\u7684\u730e\u72ac\uff0c\u53ef\u4ee5\u88c5\u5907[\u9a71\u517d\u706b\u628a]\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_1_4",
-    "text": "Jawbone Axe 2% drop chance from Ancestral Followers in Siofra, Nokron, and Liurnia near the northeastern Minor Erdtree. Normal"
+    "text": "\u989a\u9f7f\u65a7 \u7956\u7075\u4e4b\u6c112%\u51e0\u7387\u6389\u843d\u3002\u5728[\u5e0c\u8299\u62c9\u6cb3], [\u201c\u6c38\u6052\u4e4b\u57ce\u201d\u8bfa\u514b\u9686\u6069]\u4ee5\u53ca[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u4e1c\u5317\u7684[\u5c0f\u9ec4\u91d1\u6811]\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_1_5",
-    "text": "Iron Cleaver 2% drop chance from Misbegottens wielding this weapon, such as those in Castle Morne and Leyndell [Map Link]. Normal"
+    "text": "\u94c1\u67f4\u5200 \u4f7f\u7528\u8fd9\u79cd\u6b66\u5668\u7684\u6df7\u79cd2%\u7684\u51e0\u7387\u6389\u843d\uff0c\u4f8b\u5982\u5728[\u6469\u6069\u57ce]\u548c[\u738b\u57ce\u7f57\u5fb7\u5c14]\u7684\u3002[\u5730\u56fe\u94fe\u63a5]\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_1_9",
-    "text": "Highland Axe Stormveil Castle: Found on a body down the lift in the small room across from the Rampart Tower Site of Grace, in the room with the Grafted Scion, at the foot of the massive painting. [Map Link] Normal"
+    "text": "\u9ad8\u5730\u65a7 [\u53f2\u4e1c\u8587\u5c14\u57ce]: \u8d50\u798f[\u57ce\u5899\u5854]\u4e0b\u7535\u68af\u5bf9\u9762\u623f\u95f4\u91cc\u7684\u5c38\u4f53\u4e0a\uff0c\u623f\u95f4\u91cc\u5de8\u5e45\u753b\u50cf\u4e0b\u65b9\u6709[\u201c\u63a5\u80a2\u201d\u8d35\u65cf\u540e\u88d4]\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_1_7",
-    "text": "Celebrant's Cleaver 0.5% drop chance from the Celebrants in Windmill Village that wield this weapon. Normal"
+    "text": "\u5e86\u5178\u67f4\u5200 [\u98ce\u8f66\u6751]\u6325\u821e\u8fd9\u6b66\u5668\u7684\u5e86\u5178\u80050.5%\u51e0\u7387\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_1_10",
-    "text": "Sacrificial Axe Dropped from the Deathbird in the Weeping Peninsula just north of Castle Morne. [Map Link] Normal"
+    "text": "\u6d3b\u796d\u54c1\u65a7 [\u555c\u6ce3\u534a\u5c9b][\u6469\u6069\u57ce]\u5317\u65b9\u7684[\u6b7b\u4e4b\u9e1f](\u4ec5\u591c\u95f4\u51fa\u73b0)\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_1_8",
-    "text": "Icerind Hatchet Found at Temple Quarter in Liurnia: Southeast of the Site of Grace is a ruined bell tower containing a chest with the weapon. [Map Link] Somber"
+    "text": "\u51bb\u58f3\u65a7 \u5728[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u7684\u8d50\u798f[\u6559\u5802\u533a]\u4e1c\u5357\u6709\u4e00\u5ea7\u5e9f\u5f03\u7684\u949f\u697c\uff0c\u91cc\u9762\u6709\u4e00\u4e2a\u88c5\u6709\u6b66\u5668\u7684\u5b9d\u7bb1\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_1_6",
-    "text": "Ripple Blade Purchased from Pidia inside Caria Manor. [Map Link] Somber"
+    "text": "\u6ce2\u7eb9\u5251 [\u5361\u5229\u4e9a\u57ce\u5be8]\u5185\u90e8\u7684[\u4ec6\u4eba\u6bd5\u8fea]\u51fa\u552e\u3002 [\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_1_12",
-    "text": "Stormhawk Axe One found in Leyndell, Royal Capital: near Fortified Manor, First Floor, in a courtyard with Iron Maidens [Map Link]. One found in Castle Sol: From the main entrance, hug the western ramparts and head north; enter a room with several slimes and climb the ladder inside; follow the ramparts west to a wooden bridge to the roof of the central building; on the northeastern section, hop up a pile of cluttered objects draped in cloth to get onto the awning with the axe [Map Link]. Finally, you can get two more of these by attacking and killing Nepheli. Somber"
+    "text": "\u98ce\u66b4\u9e70\u65a7 [\u738b\u57ce\u7f57\u5fb7\u5c14]: \u5728[\u57ce\u5be8\u4e00\u697c]\u9644\u8fd1\uff0c\u6709\u94c1\u5904\u5973\u7684\u9662\u5b50\u91cc\u3002[\u5730\u56fe\u94fe\u63a5] [\u7d22\u5c14\u57ce]: \u4ece\u4e3b\u5165\u53e3\u7d27\u8d34\u897f\u5899\u5411\u5317\uff0c\u8fdb\u5165\u4e00\u4e2a\u6709\u51e0\u4e2a\u7c98\u6db2\u602a\u7684\u623f\u95f4\uff0c\u722c\u4e0a\u91cc\u9762\u7684\u68af\u5b50\u6cbf\u7740\u57ce\u5899\u5f80\u897f\u8d70\uff0c\u6709\u4e00\u5ea7\u6728\u6865\u901a\u5f80\u4e2d\u592e\u5efa\u7b51\u7684\u5c4b\u9876\uff0c\u5728\u4e1c\u5317\u65b9\u8df3\u4e0a\u4e00\u5806\u4e71\u4e03\u516b\u7cdf\u7684\u5e03\u642d\u4e1c\u897f\u7136\u540e\u722c\u4e0a\u906e\u9633\u7bf7\u6361\u53d6\u3002[\u5730\u56fe\u94fe\u63a5] \u6700\u540e\uff0c\u4f60\u53ef\u4ee5\u901a\u8fc7\u51fb\u6740[\u6218\u58eb\u6d85\u6590\u4e3d\u00b7\u9732]\u83b7\u5f97\u53e6\u5916\u4e24\u4e2a\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_1_11",
-    "text": "Rosus' Axe Black Knife Catacombs: Found behind an Imp Statue fog door right after the grace (Requires a Stonesword Key to enter). [Map Link] Somber"
+    "text": "\u7f57\u6cfd\u53f8\u7684\u65a7 [\u9ed1\u5200\u5730\u4e0b\u5893\u5730]: \u5728\u8d50\u798f\u524d\u65b9\u89e3\u9501\u4e00\u4e2a\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370(\u9700\u8981\u4e00\u628a[\u77f3\u5251\u94a5\u5319])\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_19_1",
-    "text": "Greataxe Found west of Waypoint Ruins in Limgrave on the large Hearse being slowly pulled by two Trolls and followed by a huge crows of Wandering Nobles. [Map Link] Normal"
+    "text": "\u5de8\u65a7 \u5728[\u5b81\u59c6\u683c\u798f]\u897f\u8fb9[\u9a7f\u7ad9\u8857\u9057\u8ff9]\u4e24\u4e2a\u5c71\u5996\u6162\u6162\u62c9\u7740\u4e00\u8f86\u5927\u8f66\u540e\u9762\u8ddf\u7740\u4e00\u5927\u7fa4\u6d41\u6d6a\u8d35\u65cf\uff0c\u8f66\u540e\u5b9d\u7bb1\u91cc\u5c31\u662f\u3002 [\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_19_2",
-    "text": "Crescent Moon Axe 4% drop chance from extra-large Exile Soldiers, such as those in the Stormveil Castle courtyard. Normal"
+    "text": "\u5f26\u6708\u65a7 \u4ece\u7279\u5927\u53f7\u6d41\u5211\u58eb\u51754%\u51e0\u7387\u6389\u843d\uff0c\u4f8b\u5982\u5728[\u53f2\u4e1c\u8587\u5c14\u57ce]\u5ead\u9662\u7684\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_19_3",
-    "text": "Longhaft Axe 2% drop chance from Misbegottens wielding this weapon, such as those in Castle Morne, Windmill Village, and Cave of the Forlorn. Normal"
+    "text": "\u957f\u67c4\u67f4\u5200 \u4f7f\u7528\u8fd9\u79cd\u6b66\u5668\u7684\u6df7\u79cd2%\u51e0\u7387\u6389\u843d\uff0c\u4f8b\u5982\u5728[\u6469\u6069\u57ce], [\u98ce\u8f66\u6751], [\u5b89\u8eab\u6d1e\u7a9f]\u7684\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_19_4",
-    "text": "Executioner's Greataxe 4% drop chance from Skeleton Militiamen wielding this weapon, such as one in the small graveyard west of the Church of Irith. Normal"
+    "text": "\u65a9\u8eab\u5927\u67f4\u5200 \u6325\u821e\u8fd9\u79cd\u6b66\u5668\u7684\u9ab8\u9aa8\u6c11\u51754%\u51e0\u7387\u6389\u843d\uff0c\u4f8b\u5982[\u4f0a\u5229\u65af\u6559\u5802]\u897f\u4fa7\u5c0f\u5893\u5730\u7684\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_19_5",
-    "text": "Great Omenkiller Cleaver Dropped by Omenkiller bosses in Perfumer's Grotto [Map Link] and Volcano Manor. Normal"
+    "text": "\u6076\u5146\u730e\u4eba\u5927\u67f4\u5200 [\u706b\u5c71\u5b98\u90b8][\u8c03\u9999\u5e08\u7684\u9690\u85cf\u6d1e\u7a9f]\u7684Boss[\u6076\u5146\u730e\u4eba]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5]) \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_19_6",
-    "text": "Rusted Anchor Dropped by Scaly Misbegotten in Morne Tunnel. [Map Link] Normal"
+    "text": "\u9508\u8680\u8239\u951a [\u6469\u6069\u5751\u9053]\u7684[\u7247\u9cde\u6df7\u79cd]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_19_7",
-    "text": "Butchering Knife Dropped by Anastasia, Tarnished-Eater, upon her second invasion at Corpse-Stench Shack. [Map Link] Normal"
+    "text": "\u80a2\u89e3\u83dc\u5200 [\u98d8\u5c38\u81ed\u7684\u7834\u5c4b]\u5904[\u201c\u541e\u566c\u892a\u8272\u8005\u201d\u5b89\u5a1c\u5854\u897f\u4e9a]\u7b2c\u4e8c\u6b21\u5165\u4fb5\u7684\u65f6\u5019\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_19_8",
-    "text": "Gargoyle's Great Axe Dropped by the lesser Valiant Gargoyle in Capital Outskirts, on the stairs after the Outer Wall Phantom Tree Site of Grace. [Map Link] Normal"
+    "text": "\u77f3\u50cf\u9b3c\u5927\u65a7 [\u738b\u57ce\u5916\u56f4]\u8d50\u798f[\u57ce\u5916\u5e7b\u5f71\u6811]\u697c\u68af\u540e\u8f83\u5c0f\u7684[\u82f1\u96c4\u77f3\u50cf\u9b3c]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_19_9",
-    "text": "Gargoyle's Black Axe Dropped by the Black Blade Kindred boss guarding the Grand Lift of Rold. [Map Link] Somber"
+    "text": "\u77f3\u50cf\u9b3c\u9ed1\u65a7 \u770b\u5b88[\u6d1b\u5fb7\u5927\u5347\u964d\u673a]\u7684\u573a\u5730Boss[\u9ed1\u5251\u7737\u5c5e]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_19_10",
-    "text": "Winged Greathorn One of the choices offered when trading in the Remembrance of the Regal Ancestor to Finger Reader Enia at the Roundtable Hold. Somber"
+    "text": "\u5c55\u7ffc\u5927\u89d2 [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u7956\u7075\u4e4b\u738b\u7684\u8ffd\u5fc6]\u4ea4\u6362\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_19_11",
-    "text": "Axe of Godrick One of the choices offered when trading in the Remembrance of the Grafted to Finger Reader Enia at the Roundtable Hold. Somber"
+    "text": "\u845b\u745e\u514b\u7684\u738b\u65a7 [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u63a5\u80a2\u7684\u8ffd\u5fc6]\u4ea4\u6362\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_20_1",
-    "text": "Club Is the starting Weapon for the Wretch.Can be bought for 600 Runes from the Nomadic Merchant on the shore in Limgrave.Dropped by Demi-humans. Normal"
+    "text": "\u68cd\u68d2 \u65e0\u7528\u4e4b\u4eba\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002[\u5b81\u59c6\u683c\u798f]\u5cb8\u4e0a\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u5356600\u5362\u6069\u3002\u4e9a\u4eba\u4e5f\u4f1a\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_20_2",
-    "text": "Curved Club Dropped by Albinaurics armed with this weapon. A pack of albinaurics is found east of the Academy Gate Town Site of Grace. Normal"
+    "text": "\u5f2f\u66f2\u68cd\u68d2 \u7528\u8fd9\u79cd\u6b66\u5668\u7684\u767d\u91d1\u4e4b\u5b50\u6389\u843d\u3002\u5728\u8d50\u798f[\u5b66\u9662\u95e8\u524d\u9547]\u4ee5\u4e1c\u53ef\u4ee5\u53d1\u73b0\u4e00\u4e9b\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_20_3",
-    "text": "Spiked Club Dropped by large Demi-humans, easy to kill Demi-humans found in the Coastal Cave in Limgrave. Normal"
+    "text": "\u517d\u7259\u68d2 \u7531\u5927\u578b\u4e9a\u4eba\u6389\u843d\uff0c\u4f8b\u5982[\u5b81\u59c6\u683c\u798f]\u7684[\u6d77\u5cb8\u6d1e\u7a9f]\u7684\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_20_4",
-    "text": "Stone Club Dropped by Battlemages in front of Sellia Hideaway or before the Fog-wall in the Academy Crystal Cave. Normal"
+    "text": "\u77f3\u68cd\u68d2 [\u745f\u5229\u4e9a\u9690\u85cf\u6d1e\u7a9f]\u524d\u6216[\u5b66\u9662\u7ed3\u6676\u6d1e\u7a9f]\u96fe\u5899\u524d\u7684\u6218\u6597\u6cd5\u5e08\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_20_5",
-    "text": "Mace Can be bought for 800 Runes from Twin Maiden Husks. Normal"
+    "text": "\u9524\u77db [\u5b6a\u751f\u8001\u59aa]\u5356800\u5362\u6069\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_20_6",
-    "text": "Morning Star Can be found in a chest on a big broken hearse down the main Road in Weeping Peninsula south of Bridge of Sacrifice Site of Grace. Normal"
+    "text": "\u6668\u661f\u9524 \u5728[\u555c\u6ce3\u534a\u5c9b]\u4e3b\u8def\u8d50\u798f[\u732e\u796d\u5927\u6865]\u5357\u90e8\u7684\u4e00\u4e2a\u5927\u8f66\u540e\u5b9d\u7bb1\u4e2d\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_20_7",
-    "text": "Warpick Dropped by Godrick Soldiers wielding this weapoon, there are a few at the Gatefront Ruins Site of Grace and 2 more west from it. Normal"
+    "text": "\u6218\u9550 \u6325\u821e\u8fd9\u79cd\u6b66\u5668\u7684\u845b\u745e\u514b\u58eb\u5175\u6389\u843d\uff0c\u5728\u8d50\u798f[\u5173\u5361\u524d\u5e9f\u589f]\u6709\u4e00\u4e9b\uff0c\u5f80\u897f\u8fd8\u67092\u4e2a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_20_8",
-    "text": "Hammer Found in Leyndell, the Royal Capital close to the Avenue Balcony Site of Grace. Normal"
+    "text": "\u77f3\u69cc [\u738b\u57ce\u7f57\u5fb7\u5c14]\u8d50\u798f[\u5927\u9053\u65c1\u9732\u53f0]\u9644\u8fd1\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_20_9",
-    "text": "Monk's Flamemace Dropped by Flame Monks in Liurnia of the Lakes and Mountaintops of the Giants. Normal"
+    "text": "\u4e60\u6b66\u4fee\u58eb\u706b\u7eb9\u9524 [\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u548c[\u5de8\u4eba\u5c71\u9876]\u7684\u706b\u7130\u6559\u58eb\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_20_10",
-    "text": "Varr\u00e9's Bouquet Quest reward from White Mask Varr\u00e9's questline. Somber"
+    "text": "\u68b5\u96f7\u7684\u82b1\u675f [\u201c\u767d\u9762\u5177\u201d\u68b5\u96f7]\u4efb\u52a1\u7ebf\u7684\u5956\u52b1 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_20_11",
-    "text": "Envoy's Horn Dropped by Oracle Envoys in Leyndell, Royal Capital at the East Capital Site of Grace or Haligtree Canopy Site of Grace. Somber"
+    "text": "\u4f17\u4f7f\u8005\u7684\u7b1b\u5b50 [\u738b\u57ce\u7f57\u5fb7\u5c14]\u8d50\u798f[\u738b\u57ce\u4e1c\u8fb9\u57ce\u5899]\u6216\u8d50\u798f[\u5723\u6811\u6811\u51a0]\u7684\u795e\u8c15\u4f17\u4f7f\u8005\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_20_12",
-    "text": "Nox Flowing Hammer Found in Nokron, from the Sacred Ground Site of Grace take the stairs up to your right, cross them room and take the ladder up, leave the upper area to the right of the altar and look for an open window in the hall, follow the roof path to another open window with the item behind. Somber"
+    "text": "\u8bfa\u514b\u65af\u6d41\u4f53\u9524 \u5728[\u201c\u6c38\u6052\u4e4b\u57ce\u201d\u8bfa\u514b\u9686\u6069]\uff0c\u4ece\u8d50\u798f[\u9ed1\u591c\u795e\u57df]\u4e0a\u697c\u5411\u53f3\uff0c\u7a7f\u8fc7\u623f\u95f4\u4e0a\u68af\u5b50\uff0c\u5927\u5385\u7684\u796d\u575b\u53f3\u8fb9\u901a\u9053\u627e\u5230\u4e00\u6247\u6253\u5f00\u7684\u7a97\u6237\uff0c\u8df3\u5230\u5c4b\u9876\u8fdb\u5165\u53e6\u4e00\u6247\u6253\u5f00\u7684\u7a97\u6237\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_20_13",
-    "text": "Ringed Finger Found in Gelmir Hero's Grave, at the first chariot all the way down through the lava and to the left. Somber"
+    "text": "\u6212\u6307\u6307\u5934 \u5728[\u683c\u5bc6\u5c14\u82f1\u96c4\u5893\u5730]\u53d1\u73b0\uff0c\u901a\u8fc7\u7b2c\u4e00\u8f86\u6218\u8f66\u540e\u7a7f\u8fc7\u7194\u5ca9\u5de6\u8f6c\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_20_14",
-    "text": "Scepter of the All-Knowing Obtained from Sir Gideon Ofnir, the All-Knowing. Somber"
+    "text": "\u767e\u667a\u6743\u6756 [\u201c\u767e\u667a\u7235\u58eb\u201d\u57fa\u7538\u00b7\u5965\u592b\u5c3c\u5c14]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_20_15",
-    "text": "Marika's Hammer Can be Traded for Elden Remembrance with Enia at Roundtable Hold. Somber"
+    "text": "\u739b\u8389\u5361\u7684\u77f3\u69cc [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u827e\u5c14\u767b\u7684\u8ffd\u5fc6]\u4ea4\u6362 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_21_1",
-    "text": "Flail Found in a chest on the eastern hearse at Gatefront Ruins Normal"
+    "text": "\u8fde\u67b7 [\u5173\u5361\u524d\u5e9f\u589f]\u7684\u4e1c\u90e8\u5927\u8f66\u4e0a\u7684\u4e00\u4e2a\u5b9d\u7bb1\u4e2d \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_21_2",
-    "text": "Nightrider Flail Dropped by Night's Cavalry at Castle Morne Rampart Site of Grace Normal"
+    "text": "\u9ed1\u591c\u9a91\u5175\u8fde\u67b7 \u8d50\u798f[\u6469\u6069\u57ce\uff08\u57ce\u5899\u524d\u65b9\uff09]\u9644\u8fd1\u7684[\u9ed1\u591c\u9a91\u5175]\u6389\u843d \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_21_3",
-    "text": "Chainlink Flail Dropped by Pumpkin heads wielding this weapon. One is north of the Foot of the Four Bellfries Site of Grace Normal"
+    "text": "\u94c1\u5757\u8fde\u67b7 \u6325\u821e\u7740\u8fd9\u4e2a\u6b66\u5668\u7684\u75af\u72c2\u5357\u74dc\u5934\u58eb\u5175\u6389\u843d\u3002\u56db\u949f\u697c\u5317\u9762\u8425\u5730\u6709\u4e00\u4e2a \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_21_4",
-    "text": "Family Heads Dropped by Necromancer Garris in the Sage's Cave at Altus Plateau Somber"
+    "text": "\u5bb6\u65cf\u5934\u8fde\u67b7 [\u4e9a\u575b\u9ad8\u539f][\u8d24\u8005\u7684\u6d1e\u7a9f]\u7684[\u6b7b\u672f\u5e08\u54e5\u745e\u65af]\u6389\u843d \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_21_5",
-    "text": "Bastard's Stars Can be traded for Rememberance of the Naturalborn with Enia at Roundtable Hold Somber"
+    "text": "\u5f03\u5b50\u7684\u7e41\u661f [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u9ed1\u6697\u5f03\u5b50\u7684\u8ffd\u5fc6]\u4ea4\u6362 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_22_1",
-    "text": "Large Club Found south of the Forlorn Hound Evergaol on a cliff. Normal"
+    "text": "\u5927\u68cd\u68d2 \u5728\u5357\u8fb9\u7684\u60ac\u5d16\u4e0a\u53d1\u73b0\u7684\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_22_2",
-    "text": "Curved Great Club Dropped by Albinaurics wielding this weapon. There are a few in and around Temple Quarter in Liurnia of the Lakes. Normal"
+    "text": "\u5f2f\u66f2\u5927\u68cd\u68d2 \u4f7f\u7528\u6b64\u6b66\u5668\u7684\u767d\u91d1\u4e4b\u5b50\u6389\u843d\u3002\u5728[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u7684[\u6559\u5802\u533a]\u4e00\u5e26\u6709\u4e00\u4e9b\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_22_3",
-    "text": "Great Mace In a chest near the trebuchets south west of the Grand Lift of Dectus Site of Grace. Normal"
+    "text": "\u5de8\u578b\u9524\u77db \u5728\u8d50\u798f[\u8fea\u53ef\u8fbe\u65af\u5927\u5347\u964d\u673a]\u5904\u6295\u77f3\u673a\u897f\u5357\u65b9\u5411\u7684\u4e00\u4e2a\u5b9d\u7bb1\u91cc\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_22_4",
-    "text": "Pickaxe Dropped by Miners, Limgrave Tunnels has 3 easy to kill Miners in the first room. Normal"
+    "text": "\u5341\u5b57\u9550 \u77ff\u5de5\u6389\u843d\uff0c\u5728[\u5b81\u59c6\u683c\u798f\u5751\u9053]\u7b2c\u4e00\u4e2a\u623f\u95f4\u67093\u4e2a\u5f88\u5bb9\u6613\u6740\u6b7b\u7684\u77ff\u5de5\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_22_5",
-    "text": "Brick Hammer From the Stormveil Cliffside Site of Grace, traverse the Wine-Cellar Area and climb the Ladder behind the locked door, jump on the wooden platform that leads outside, just around the corner to the left is a small room with the weapon on a corpse. Normal"
+    "text": "\u780c\u77f3\u69cc \u4ece\u8d50\u798f[\u53f2\u4e1c\u8587\u5c14\u65ad\u5d16]\u51fa\u53d1\u7a7f\u8fc7\u9152\u7a96\u533a\uff0c\u722c\u4e0a\u9501\u7740\u7684\u95e8\u540e\u7684\u68af\u5b50\uff0c\u8df3\u4e0a\u901a\u5411\u5916\u9762\u7684\u6728\u5236\u5e73\u53f0\uff0c\u62d0\u89d2\u5904\u5de6\u8fb9\u5c0f\u623f\u95f4\u7684\u5c38\u4f53\u4e0a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_22_6",
-    "text": "Battle Hammer Dropped by duelists near the Leyndell, Royal Capital Colosseum or the Grave Warden Duelist in Murkwater Catacombs. Normal"
+    "text": "\u6597\u6280\u9524 [\u738b\u57ce\u7f57\u5fb7\u5c14]\u7ade\u6280\u573a\u9644\u8fd1\u7684\u6597\u58eb\u6216[\u8499\u6d41\u5730\u4e0b\u5893\u5730]\u7684[\u5b88\u5893\u6597\u58eb]\u6389\u843d \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_22_7",
-    "text": "Rotten Battle Hammer Dropped by Rotten Duelists west of the Consecrated Snowfield Site of Grace in the Mountaintops of the Giants. Normal"
+    "text": "\u8150\u8d25\u6597\u6280\u9524 [\u5de8\u4eba\u5c71\u9876]\u8d50\u798f[\u5316\u5723\u96ea\u539f]\u897f\u8fb9\u7684\u8150\u70c2\u6597\u58eb\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_22_8",
-    "text": "Celebrant's Skull Found on a Corpse northeast of the Windmill Village Site of Grace. Normal"
+    "text": "\u5e86\u5178\u5927\u5934\u76d6\u9aa8 \u8d50\u798f[\u98ce\u8f66\u6751]\u4e1c\u5317\u7684\u4e00\u5177\u5c38\u4f53\u4e0a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_22_10",
-    "text": "Great Stars Found in hearse southwest of the Road of Iniquity Side Path Site of Grace. Also dropped by Magnus the Beast Claw in Writheblood Ruins. Normal"
+    "text": "\u5de8\u661f\u9524 \u5728\u8d50\u798f[\u79fb\u9001\u7f6a\u4eba\u4e4b\u8def\uff08\u8def\u65c1\uff09]\u897f\u5357\u7684\u5927\u8f66\u4e0a\u3002[\u8815\u8840\u5e9f\u589f]\u4e2d\u7684[\u201c\u517d\u722a\u201d\u739b\u683c\u7eb3\u65af]\u4e5f\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_22_11",
-    "text": "Greathorn Hammer Dropped by Ancestral Followers in Siofra River region. Normal"
+    "text": "\u5927\u89d2\u69cc \u5728[\u5e0c\u8299\u62c9\u6cb3]\u5730\u533a\u7684\u7956\u7075\u4e4b\u6c11\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_22_12",
-    "text": "Envoy's Long Horn Dropped by Oracle Envoys in Leyndell, Royal Capital at the East Capital Site of Grace or Haligtree Canopy Site of Grace. Somber"
+    "text": "\u4f17\u4f7f\u8005\u7684\u957f\u7b1b\u5b50 [\u738b\u57ce\u7f57\u5fb7\u5c14]\u8d50\u798f[\u738b\u57ce\u4e1c\u8fb9\u57ce\u5899]\u6216\u8d50\u798f[\u5723\u6811\u6811\u51a0]\u7684\u7528\u8fd9\u4e2a\u7684\u795e\u8c15\u4f17\u4f7f\u8005\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_22_13",
-    "text": "Cranial Vessel Candlestand Found in a room locked behind an Imp Statue in Giant-Conquering Hero's Grave. Somber"
+    "text": "\u5c0a\u5bb9\u70db\u53f0 \u5728[\u5de8\u4eba\u6218\u4e89\u7684\u82f1\u96c4\u5893\u5730]\u4e2d\u4e00\u4e2a\u5c0f\u6076\u9b54\u50cf\u5c01\u5370\u7684\u623f\u95f4\u91cc\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_22_14",
-    "text": "Beastclaw Greathammer Reward from Gurranq, Beast Clergyman on giving him the 7th Deathroot. Somber"
+    "text": "\u517d\u722a\u5927\u9524 \u7ed9[\u201c\u91ce\u517d\u796d\u53f8\u201d\u53e4\u5170\u683c]\u7b2c7\u4e2a[\u6b7b\u6839]\u7684\u5956\u52b1\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_22_15",
-    "text": "Devourer's Scepter Dropped by Bernahl when killed at the Warmaster's Shack or as part from his Invasion in Crumbling Farrum Azula Somber"
+    "text": "\u541e\u4e16\u6743\u6756 \u5728[\u4e60\u6218\u8005\u7684\u7834\u5c4b]\u6740\u6b7b[\u9a91\u58eb\u8d1d\u7eb3\u5c14]\u6216\u5728[\u9010\u6e10\u5d29\u6bc1\u7684\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9]\u6740\u6b7b\u5165\u4fb5\u7684\u4ed6\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_6_5",
-    "text": "Duelist Greataxe Dropped by Duelists near the West Capital Rampart Site of Grace. NOTE: can not be farmed after Maliketh has been killed. Normal"
+    "text": "\u6597\u58eb\u5927\u65a7 \u5728\u8d50\u798f[\u738b\u57ce\u897f\u8fb9\u57ce\u5899]\u9644\u8fd1\u7684\u6597\u58eb\u6389\u843d\u3002\u6ce8\u610f: \u51fb\u6740[\u201c\u9ed1\u5251\u201d\u739b\u5229\u5580\u65af]\u540e\u4e0d\u518d\u5237\u65b0\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_6_15",
-    "text": "Rotten Greataxe Dropped by Rotten Duelist north of Ordina Liturgical Town. Normal"
+    "text": "\u8150\u8d25\u5927\u65a7 [\u201c\u4eea\u5178\u9547\u201d\u5965\u7f07\u90a3]\u5317\u8fb9\u7684\u8150\u70c2\u6597\u58eb\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_6_12",
-    "text": "Golem's Halberd Dropped by Golems wielding this weapon. Can be farmed at Limgrave Twower Bridge Site of Grace. Normal"
+    "text": "\u9b54\u50cf\u621f \u4f7f\u7528\u6b64\u6b66\u5668\u7684\u9b54\u50cf\u6389\u843d\u3002\u53ef\u4ee5\u5728\u8d50\u798f[\u5b81\u59c6\u683c\u798f\u795e\u6388\u5854\uff08\u6865\u4e0a\uff09]\u9644\u8fd1\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_6_11",
-    "text": "Giant-Crusher Can be found in a chest just south of the Outer Wall Phantom Tree Site of Grace. Normal"
+    "text": "\u7c89\u788e\u5de8\u4eba\u69cc \u5728\u8d50\u798f[\u57ce\u5916\u5e7b\u5f71\u6811]\u5357\u8fb9\u7684\u4e00\u4e2a\u5b9d\u7bb1\u91cc\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_6_1",
-    "text": "Prelate's Inferno Crozier Drops from an enemy inside Fort Laiedd near Seethewater Terminus Site of Grace. Normal"
+    "text": "\u4e3b\u6559\u5927\u706b\u69cc \u9760\u8fd1\u8d50\u798f[\u6cb8\u6eda\u6cb3\u7ec8\u70b9]\u7684[\u83b1\u591a\u8981\u585e]\u5185\u7684\u654c\u4eba\u6389\u843d \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_6_3",
-    "text": "Great Club Dropped by the Stonedigger Troll Boss at the end of Old Altus Tunnel. Normal"
+    "text": "\u5de8\u578b\u68cd\u68d2 [\u65e7\u4e9a\u575b\u5751\u9053]\u7684Boss[\u6316\u77f3\u5c71\u5996]\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_6_13",
-    "text": "Troll's Hammer Found in a shed in the Old Altus Tunnel Normal"
+    "text": "\u5c71\u5996\u5927\u69cc \u5728[\u65e7\u4e9a\u575b\u5751\u9053]\u7684\u4e00\u4e2a\u68da\u5b50\u91cc\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_6_7",
-    "text": "Dragon Greatclaw Dropped by the Draconic Tree Sentinel at the Capital Outskirts. Somber"
+    "text": "\u5927\u9f99\u722a [\u738b\u57ce\u5916\u56f4]\u7684[\u9f99\u88c5\u5927\u6811\u5b88\u536b]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_6_2",
-    "text": "Watchdog's Staff Found in Road's End Catacombs in Liurnia of the Lakes behind a hidden wall all the way down the stairs where the lever is. Somber"
+    "text": "\u770b\u95e8\u72ac\u9521\u6756 [\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u7684[\u7edd\u8def\u5730\u4e0b\u5893\u5730]\u4e2d\u4e00\u5835\u5e7b\u5f71\u5899\uff0c\u4e00\u8def\u4e0b\u697c\u68af\u540e\u7684\u62c9\u6746\u5904\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_6_8",
-    "text": "Staff of the Avatar Dropped by Erdtree Avatar you encounter near the Great Waterfall Crest site of Grace. Somber"
+    "text": "\u5316\u8eab\u4eea\u5f0f\u6756 \u5728\u8d50\u798f[\u5927\u7011\u5e03\u9876\u7aef]\u9644\u8fd1\u7684[\u9ec4\u91d1\u6811\u7684\u5316\u8eab]\u6389\u843d \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_6_14",
-    "text": "Rotten Staff Dropped by Erdtree Avatar on the ring walkway at Elphael, Brace of the Haligtree. Somber"
+    "text": "\u8150\u8d25\u4eea\u5f0f\u6756 \u5728[\u201c\u5723\u6811\u5206\u679d\u201d\u827e\u5e03\u96f7\u83f2\u5c14]\u73af\u5f62\u8d70\u9053\u4e0a\u7684[\u9ec4\u91d1\u6811\u7684\u5316\u8eab]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_6_4",
-    "text": "Envoy's Greathorn Dropped by Giant Oracle Envoy's at Miquella's Haligtree. Somber"
+    "text": "\u4f17\u4f7f\u8005\u7684\u6247\u5f62\u7b1b\u5b50 [\u7c73\u51ef\u62c9\u7684\u5723\u6811]\u7684\u5de8\u5927\u795e\u8c15\u4f17\u4f7f\u8005\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_6_10",
-    "text": "Ghiza's Wheel Dropped by NPC Invader Inquisitor Ghiza up the Stairs in Volcano Manor. Somber"
+    "text": "\u57fa\u8428\u7684\u523a\u8f6e [\u706b\u5c71\u5b98\u90b8]\u4e0a\u697c\u68af\u7684\u5165\u4fb5NPC[\u62f7\u95ee\u5b98\u57fa\u8428]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_6_9",
-    "text": "Fallingstar Beast Jaw Dropped by Full-Grown Fallingstar Beast in Mt. Gelmir. Somber"
+    "text": "\u661f\u517d\u534a\u989a [\u683c\u5bc6\u5c14\u706b\u5c71]\u7684[\u5760\u661f\u6210\u517d]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_6_6",
-    "text": "Axe of Godfrey Can be traded for Rememberance of Hoarah Loux with Enia at Roundtable Hold. Somber"
+    "text": "\u845b\u5b5a\u96f7\u7684\u738b\u65a7 [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u8377\u83b1\u00b7\u9732\u7684\u8ffd\u5fc6]\u4ea4\u6362\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_23_1",
-    "text": "Short Spear Starting Weapon for the Prophet Class.Can be bought from Twin Maiden Husks at Roundtable Hold for 600 runes. Normal"
+    "text": "\u77ed\u77db \u9884\u8a00\u5bb6\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002[\u5706\u684c\u5385\u5802]\u7684[\u5b6a\u751f\u8001\u59aa]\u5356500\u5362\u6069 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_23_2",
-    "text": "Iron Spear Dropped by Fallen Hawks Soldier near Nokron, Eternal City site of Grace. Normal"
+    "text": "\u94c1\u5236\u77db \u5728\u8d50\u798f[\u201c\u6c38\u6052\u4e4b\u57ce\u201d\u8bfa\u514b\u9686\u6069]\u9644\u8fd1\u7684\u9e70\u6218\u58eb\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_23_3",
-    "text": "Spear Patches drops a +8 spear in Murkwater Caves, when killed.Dropped by Castle Guards wielding this weapon near the Rampart Tower Site of Grace in Stormveil Castle. Normal"
+    "text": "{WP16010000} [\u8499\u6d41\u6d1e\u7a9f]\u7684[\u5e15\u5947]\u88ab\u6740\u6b7b\u65f6\u6389\u843d\u4e00\u652f+8\u7684\u3002[\u53f2\u4e1c\u8587\u5c14\u57ce]\u8d50\u798f[\u57ce\u5899\u5854]\u9644\u8fd1\u4f7f\u7528\u6b64\u6b66\u5668\u7684\u57ce\u5821\u5b88\u536b\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_23_4",
-    "text": "Partisan Dropped from all Knight enemies wielding this weapon. Normal"
+    "text": "\u9614\u5934\u67aa \u6240\u6709\u4f7f\u7528\u6b64\u6b66\u5668\u7684\u9a91\u58eb\u654c\u4eba\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_23_5",
-    "text": "Pike Can be looted from a corpse in the courtyard filled with enemies near the Liftside Chamber Site of Grace in Stormveil Castle. Normal"
+    "text": "\u957f\u77db [\u53f2\u4e1c\u8587\u5c14\u57ce]\u8d50\u798f[\u5347\u964d\u673a\u65c1\u623f\u95f4]\u9644\u8fd1\u5145\u6ee1\u654c\u4eba\u7684\u9662\u843d\u5c38\u4f53\u4e0a\u62fe\u53d6 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_23_6",
-    "text": "Spiked Spear Dropped by Spear wielding Marionette Soldiers. One is just outside Witchbane Ruins in the Weeping Peninsula. Normal"
+    "text": "\u68d8\u523a\u68cd \u7531\u6325\u821e\u6b64\u6b66\u5668\u7684\u4eba\u5076\u58eb\u5175\u6389\u843d\uff0c\u4e00\u4e2a\u5728[\u555c\u6ce3\u534a\u5c9b]\u5916\u7684[\u5c01\u5370\u9b54\u5973\u7684\u5e9f\u589f]\u4e2d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_23_7",
-    "text": "Cross-Naginata Found on a corpse inside Gael Tunnel in the room with the Giant Land Octopus hanging from the ceiling. Normal"
+    "text": "\u5341\u5b57\u5200 \u5728[\u76d6\u5c14\u5751\u9053]\u5929\u82b1\u677f\u4e0a\u60ac\u6302\u7740\u5de8\u578b\u9646\u5730\u7ae0\u9c7c\u7684\u623f\u95f4\u5185\u7684\u4e00\u5177\u5c38\u4f53\u4e0a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_23_8",
-    "text": "Clayman's Harpoon Dropped by Clayman wielding this weapon at Uhl Palace Ruins, Siofra River, Ainsel River. Normal"
+    "text": "\u6ce5\u4eba\u9c7c\u53c9 \u7531[\u5b89\u745f\u5c14\u6cb3][\u5e0c\u8299\u62c9\u6cb3][\u4e4c\u9c81\u738b\u671d\u9057\u8ff9]\u6325\u821e\u6b64\u6b66\u5668\u7684\u6ce5\u4eba\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_23_9",
-    "text": "Celebrant's Rib-Rake Dropped by Festive Dancers in the Windmill Village. Normal"
+    "text": "\u5e86\u5178\u808b\u9aa8\u9489\u8019 [\u98ce\u8f66\u6751]\u7684\u5e86\u5178\u821e\u8005\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_23_10",
-    "text": "Torchpole Dropped by guards wielding this weapon. There are some in the Courtyard at the Liftside Chamber Site of Grace in Stormveil Castle. Normal"
+    "text": "\u70db\u53f0\u68d2 \u6325\u821e\u7740\u8fd9\u4e2a\u6b66\u5668\u7684\u536b\u5175\u6389\u843d\u3002\u5728[\u53f2\u4e1c\u8587\u5c14\u57ce]\u7684\u8d50\u798f[\u5347\u964d\u673a\u65c1\u623f\u95f4]\u5ead\u9662\u4e2d\u6709\u4e00\u4e9b\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_23_11",
-    "text": "Inquisitor's Girandole Dropped by Abductor Virgins in Volcano Manor underground Normal"
+    "text": "\u62f7\u95ee\u70db\u53f0 [\u706b\u5c71\u5b98\u90b8]\u5730\u4e0b\u7684\u63b3\u4eba\u5c11\u5973\u4eba\u5076\u6389\u843d \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_23_12",
-    "text": "Crystal Spear Can be found in a room hidden by an illusiory wall just where the Preserving Boluses are looted in Sellia Hideaway Somber"
+    "text": "\u7ed3\u6676\u77db \u5728[\u745f\u5229\u4e9a\u9690\u85cf\u6d1e\u7a9f]\u627e\u5230[\u8150\u8d25\u82d4\u836f]\u7684\u5730\u65b9\u7684\u5e7b\u5f71\u5899\u6240\u9690\u85cf\u7684\u623f\u95f4\u91cc\u627e\u5230\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_23_13",
-    "text": "Rotten Crystal Spear Can be farmed from non-Boss Crystallians located in Elphael, Brace of the Haligtree.Note: Use weapons with strike damage while farming. Somber"
+    "text": "\u8150\u8d25\u7ed3\u6676\u77db [\u201c\u5723\u6811\u5206\u679d\u201d\u827e\u5e03\u96f7\u83f2\u5c14]\u7684\u975eBoss\u7ed3\u6676\u4eba\u6389\u843d\u3002\u6ce8\u610f: \u4f7f\u7528\u6253\u51fb\u6b66\u5668\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_23_14",
-    "text": "Cleanrot Spear Dropped by Cleanrot Knights just outside of Commander O'Neil's Boss Arena in Caelid. Somber"
+    "text": "\u5c0a\u8150\u9a91\u58eb\u77db [\u76d6\u5229\u5fb7]\u7684[\u8001\u5c06\u6b27\u5c3c\u5c14]\u7684Boss\u533a\u57df\u9644\u8fd1\u7684\u5c0a\u8150\u9a91\u58eb\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_23_15",
-    "text": "Death Ritual Spear Dropped by the Deathrite Bird found west of Castle Sol Main Gate Site of Grace in the Mountaintops of the Giants. Somber"
+    "text": "\u6b7b\u4ea1\u4eea\u5f0f\u77db [\u5de8\u4eba\u5c71\u9876]\u8d50\u798f[\u7d22\u5c14\u57ce\uff08\u6b63\u95e8\uff09]\u897f\u8fb9\u7684[\u6b7b\u4ea1\u4eea\u5f0f\u9e1f]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_23_16",
-    "text": "Bolt of Gransax Can be found in Leyndell Royal Capital after defeating Godfrey (Golden Shade). Walk up the spear at Erdtree Sanctuary Site of Grace. Somber"
+    "text": "\u53e4\u5170\u6851\u514b\u65af\u7684\u96f7\u7535 [\u738b\u57ce\u7f57\u5fb7\u5c14]\u51fb\u8d25[\u201c\u521d\u59cb\u4e4b\u738b\u201d\u845b\u5b5a\u96f7](\u91d1\u8272\u9634\u5f71)\u540e\u53ef\u4ee5\u83b7\u53d6\u3002\u4ece\u8d50\u798f[\u9ec4\u91d1\u6811\u5927\u6559\u5802]\u51fa\u95e8\u5750\u7535\u68af\u4e0b\u53bb\u8df3\u5230\u77db\u5411\u4e0a\u722c\u83b7\u53d6\u3002\u6ce8\u610f: \u51fb\u6740[\u201c\u9ed1\u5251\u201d\u739b\u5229\u5580\u65af]\u540e\u65e0\u6cd5\u83b7\u53d6\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_24_1",
-    "text": "Lance Can be found on top of a ruin structure just southwest of the Deathtouched Catacombs. Normal"
+    "text": "\u9a91\u5175\u957f\u77db \u53ef\u4ee5\u5728[\u6b7b\u4ea1\u964d\u4e34\u7684\u5730\u4e0b\u5893\u5730]\u897f\u5357\u65b9\u5411\u7684\u5e9f\u589f\u5efa\u7b51\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_24_2",
-    "text": "Treespear Found on a hearse southeast from Liurnia Highway South Site of Grace. Normal"
+    "text": "\u5927\u6811\u77db \u5728\u8d50\u798f[\u5229\u8036\u5c3c\u4e9a\u5927\u9053\uff08\u5357\u65b9\uff09]\u4e1c\u5357\u65b9\u5411\u7684\u5927\u8f66\u540e\u5b9d\u7bb1\u91cc\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_24_3",
-    "text": "Serpent Hunter Can be found just as you enter the Rykard, Lord of Blasphemy Boss room, held by corpse. Somber"
+    "text": "\u5927\u86c7\u72e9\u730e\u77db \u8fdb\u5165[\u201c\u4eb5\u6e0e\u541b\u738b\u201d\u62c9\u5361\u5fb7]Boss\u623f\u95f4\u5185\u4ece\u5c38\u4f53\u4e0a\u62fe\u53d6\uff0c\u5bf9[\u201c\u4eb5\u6e0e\u541b\u738b\u201d\u62c9\u5361\u5fb7]\u6709\u7279\u6b8a\u7684\u8fdc\u7a0b\u653b\u51fb\u80fd\u529b\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_24_4",
-    "text": "Siluria's Tree Dropped by Crucible Knight Siluria in the Deeprot Depths. Somber"
+    "text": "\u5fd7\u7559\u4e9a\u7684\u6811\u77db [\u6df1\u6839\u5e95\u5c42]\u7684[\u201c\u7194\u7089\u9a91\u58eb\u201d\u5fd7\u7559\u4e9a]\u6389\u843d \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_24_5",
-    "text": "Vyke's War Spear Dropped by NPC Invader Festering Fingerprint Vyke, South of the Church of Inhibition Site of Grace.  Somber"
+    "text": "\u7ef4\u514b\u7684\u6218\u77db \u5728\u8d50\u798f[\u9547\u9759\u6559\u5802]\u5357\u8fb9\u7684\u5165\u4fb5NPC[\u201c\u70e7\u707c\u6307\u75d5\u201d\u7ef4\u514b]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_24_6",
-    "text": "Mohgwyn's Sacred Spear Can be traded for Rememberance of the Blood Lord with Enia at Roundtable Hold. Somber"
+    "text": "\u8499\u683c\u6e29\u5723\u77db [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u9c9c\u8840\u541b\u738b\u7684\u8ffd\u5fc6]\u4ea4\u6362 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_25_1",
-    "text": "Halberd Starting equipment for the Vagabond class. Can be purchased from the Nomadic Merchant in northern Limgrave. Normal"
+    "text": "{WP18000000} \u6d41\u6d6a\u9a91\u58eb\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002\u53ef\u4ee5\u4ece[\u5b81\u59c6\u683c\u798f]\u5317\u90e8\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u5904\u8d2d\u4e70\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_25_2",
-    "text": "Banished Knight's Halberd Dropped by Banished Knights wielding this weapon. One Knight Patrols the Area down the stairs from the Castle Ramparts Site of Grace in Stormveil Castle. Normal"
+    "text": "\u5931\u4e61\u9a91\u58eb\u621f \u4f7f\u7528\u6b64\u6b66\u5668\u7684\u5931\u4e61\u9a91\u58eb\u6389\u843d\u3002[\u53f2\u4e1c\u8587\u5c14\u57ce]\u8d50\u798f[\u57ce\u5899\u5854]\u7684\u697c\u68af\u4e0b\u6709\u4e00\u4e2a\u5728\u5de1\u903b\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_25_3",
-    "text": "Lucerne Can be found under some carts north of Liurnia Highway north Site of Grace. Normal"
+    "text": "\u7409\u68ee\u621f \u53ef\u4ee5\u5728\u8d50\u798f[\u5229\u8036\u5c3c\u4e9a\u5927\u9053\uff08\u5317\u65b9\uff09]\u9644\u8fd1\u4e00\u4e9b\u63a8\u8f66\u4e0b\u9762\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_25_4",
-    "text": "Glaive Dropped by Skeletons wielding this weapon. One Skeleton is located east of the Church of Vows Site of Grace. Normal"
+    "text": "\u5251\u5203\u621f \u4f7f\u7528\u6b64\u6b66\u5668\u7684\u9ab7\u9ac5\u6389\u843d\u3002\u8d50\u798f[\u7ed3\u7f18\u6559\u5802]\u4ee5\u4e1c\u6709\u4e00\u5177\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_25_5",
-    "text": "Vulgar Militia Shotel Dropped by Vulgar Militia. there are a few up the Hill from Farum Bridge to the Bestial Sanctum. Normal"
+    "text": "\u6076\u5175\u94a9\u5251 \u6076\u5175\u6389\u843d\u3002\u4ece[\u6cd5\u59c6\u5927\u6865]\u5230[\u91ce\u517d\u795e\u6bbf]\u7684\u5c71\u4e0a\u6709\u4e00\u4e9b\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_25_6",
-    "text": "Vulgar Militia Saw Dropped by Vulgar Militia. there are a few up the Hill from Farum Bridge to the Bestial Sanctum. Normal"
+    "text": "\u6076\u5175\u952f\u9f7f\u5200 \u6076\u5175\u6389\u843d\u3002\u4ece[\u6cd5\u59c6\u5927\u6865]\u5230[\u91ce\u517d\u795e\u6bbf]\u7684\u5c71\u4e0a\u6709\u4e00\u4e9b\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_25_7",
-    "text": "Guardian's Swordspear Dropped by Erdtree Guardians. The earliest farm spot is at the minor Erdtree in the Weeping Peninsula. Normal"
+    "text": "\u5b88\u536b\u5251\u67aa \u9ec4\u91d1\u6811\u5b88\u536b\u6389\u843d\u3002\u6700\u65e9\u53ef\u4ee5[\u555c\u6ce3\u534a\u5c9b]\u7684\u5c0f\u9ec4\u91d1\u6811\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_25_8",
-    "text": "Gargoyle's Halberd Dropped by the Valiant Gargoyle near the West Capital Rampart Site of Grace. Normal"
+    "text": "\u77f3\u50cf\u9b3c\u621f \u8d50\u798f[\u738b\u57ce\u897f\u8fb9\u57ce\u5899]\u9644\u8fd1\u7684[\u82f1\u96c4\u77f3\u50cf\u9b3c]\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_25_9",
-    "text": "Gargoyle's Black Halberd Dropped by the Black Blade Kindred outside of the Bestial Sanctum. Somber"
+    "text": "\u77f3\u50cf\u9b3c\u9ed1\u621f [\u91ce\u517d\u795e\u6bbf]\u5916\u7684[\u9ed1\u5251\u7737\u5c5e]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_25_10",
-    "text": "Nightrider Glaive Dropped by the Night's Cavalry patrtolling between Bellum Church and East Raya Lucaria Gate in Liurnia of the Lakes. Somber"
+    "text": "\u9ed1\u591c\u9a91\u5175\u5251\u5203\u621f \u5728[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u4e2d[\u5f7c\u9c81\u59c6\u6559\u5802]\u548c[\u96f7\u4e9a\u5362\u5361\u5229\u4e9a\uff08\u4e1c\u95e8\uff09]\u4e4b\u95f4\u5de1\u903b\u7684[\u9ed1\u591c\u9a91\u5175]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_25_11",
-    "text": "Pest's Glaive Droppped by Pests, there are many to be found at the Caelid waypoint Ruins. There are 2 guarding the Church of the Plague. Somber"
+    "text": "\u6606\u866b\u5251\u5203\u621f \u6606\u866b\u6389\u843d\u3002\u6709\u8bb8\u591a\u5728[\u76d6\u5229\u5fb7\u7684\u9a7f\u7ad9\u8857\u9057\u8ff9]\u3002\u67092\u4e2a\u5b88\u536b\u7740[\u8150\u8d25\u75c5\u6559\u5802]\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_25_12",
-    "text": "Ripple Crescent Halberd Dropped by Albinaurics wielding this weapon. There is a group just east of the Fallen Ruins of the Lakes Site of Grace. Somber"
+    "text": "\u6b8b\u7f3a\u6ce2\u7eb9\u621f \u4f7f\u7528\u6b64\u6b66\u5668\u7684\u767d\u91d1\u4e4b\u5b50\u6389\u843d\u3002\u6709\u4e00\u7fa4\u8d50\u798f[\u6e56\u4e2d\u5760\u843d\u9057\u8ff9]\u7684\u4e1c\u8fb9\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_25_13",
-    "text": "Golden Halberd Dropped by the Tree Sentinel in Limgrave. Somber"
+    "text": "\u9ec4\u91d1\u621f [\u5b81\u59c6\u683c\u798f]\u7684[\u5927\u6811\u5b88\u536b]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_25_14",
-    "text": "Dragon Halberd Dropped by the Dragonkin Soldier Boss in the upper section of the Worshipper's Woods in Siofra River. Somber"
+    "text": "\u9f99\u621f [\u5e0c\u8299\u62c9\u6cb3][\u4fe1\u4ef0\u8005\u68ee\u6797]\u4e0a\u65b9\u7684Boss[\u9f99\u4eba\u58eb\u5175]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_25_15",
-    "text": "Loretta's War Sickle Dropped by Loretta, Kinght of the Haligtree. Somber"
+    "text": "\u7f57\u857e\u5854\u7684\u6218\u9570 [\u201c\u5723\u6811\u5206\u679d\u201d\u827e\u5e03\u96f7\u83f2\u5c14]\u7684[\u201c\u5723\u6811\u9a91\u58eb\u201d\u7f57\u857e\u5854]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_25_16",
-    "text": "Commander's Standard Dropped by Commander O'Neil in the heart of Aeonia. Somber"
+    "text": "\u8001\u5c06\u7684\u519b\u65d7 [\u827e\u5965\u5c3c\u4e9a\u4e2d\u5fc3\u5730]\u7684[\u8001\u5c06\u6b27\u5c3c\u5c14]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_26_1",
-    "text": "Scythe Found at the end of the Cliffbottom Catacombs in Liurnia of the Lakes. Normal"
+    "text": "\u5927\u9570\u5200 [\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u4e2d[\u65ad\u5d16\u4e0b\u7684\u5730\u4e0b\u5893\u5730]\u7684\u7ec8\u70b9\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_26_2",
-    "text": "Grave Scythe Dropped by Skeletal Mages wielding this weapon. 3 can be found at the graveyard west of the Lake-Facing Cliffs Site of Grace. Normal"
+    "text": "\u5893\u5730\u5927\u9570\u5200 \u4f7f\u7528\u6b64\u6b66\u5668\u7684\u9ab7\u9ac5\u6cd5\u5e08\u6389\u843d\u3002\u53ef\u4ee5\u5728\u8d50\u798f[\u508d\u6e56\u65ad\u5d16]\u4ee5\u897f\u7684\u5893\u5730\u627e\u52303\u4e2a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_26_3",
-    "text": "Halo Scythe Dropped by Cleanrot Knights wielding this weapon. Few of them can be found around the Commander O'Neil Boss Arena in Caelid. Somber"
+    "text": "\u5149\u73af\u9570\u5200 \u6325\u821e\u6b64\u6b66\u5668\u7684\u5c0a\u8150\u9a91\u58eb\u6389\u843d\u3002\u5728[\u76d6\u5229\u5fb7]\u7684[\u8001\u5c06\u6b27\u5c3c\u5c14]Boss\u533a\u57df\u9644\u8fd1\u53ef\u4ee5\u627e\u5230\u4e00\u4e9b\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_26_4",
-    "text": "Winged Scythe In a Chest at the Tombsward Ruins in the Weeping Peninsula. Somber"
+    "text": "\u5c55\u7ffc\u9570\u5200 [\u555c\u6ce3\u534a\u5c9b]\u7684[\u7075\u5e99\u539f\u91ce\u7684\u5e9f\u589f]\u7684\u4e00\u4e2a\u5b9d\u7bb1\u91cc\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_27_1",
-    "text": "Whip Can be found in Castle Morne on the ground floor of the building where you drop onto wooden beams through an opening in the roof. Normal"
+    "text": "\u8f6f\u97ad \u53ef\u4ee5\u5728[\u6469\u6069\u57ce]\u5efa\u7b51\u5e95\u5c42\u627e\u5230\uff0c\u4ece\u5c4b\u9876\u7684\u4e00\u4e2a\u5f00\u53e3\u8df3\u5230\u6728\u6881\u4e0a\u5f80\u4e0b\u6389\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_27_2",
-    "text": "Thorned Whip Dropped by Fire Prelate in the North of the Mountaintops of the Giants. Normal"
+    "text": "\u8346\u68d8\u97ad \u5728[\u5de8\u4eba\u5c71\u9876]\u5317\u65b9\u7684\u706b\u7130\u4e3b\u6559\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_27_3",
-    "text": "Urumi Can be found on a body in Caria Manor, just before the stairs in front of the elevator leading to the Upper Caria Manor drop on a roof to the east. Normal"
+    "text": "\u8f6f\u97ad\u5251 \u5728[\u5361\u5229\u4e9a\u57ce\u5be8]\u7684\u4e00\u5177\u5c38\u4f53\u4e0a\u627e\u5230\uff0c\u5c31\u5728\u901a\u5f80[\u57ce\u5be8\u4e0a\u90e8]\u7535\u68af\u7684\u697c\u68af\u524d\u4e0b\u843d\u5230\u7684\u5c4b\u9876\u7684\u4e1c\u8fb9\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_27_4",
-    "text": "Hoslow's Petal Whip Is a Reward from Diallos' questline or the last part of Volcano Manor's contracts. Normal"
+    "text": "\u970d\u65af\u52b3\u82b1\u74e3\u97ad [\u706b\u5c71\u5b98\u90b8]\u4efb\u52a1\u7ebf\u6700\u540e\u7684\u5956\u52b1\u3002[\u9a91\u58eb\u72c4\u4e9a\u7f57\u65af]\u4efb\u52a1\u7ebf\u7684\u5956\u52b1\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_27_5",
-    "text": "Magma Whip Candlestick Given by Patches after completing his Volcano Manor contract. Somber"
+    "text": "\u7194\u5ca9\u70db\u53f0\u97ad \u5b8c\u6210[\u5e15\u5947]\u5728[\u706b\u5c71\u5b98\u90b8]\u7684\u4efb\u52a1\u540e\u7ed9\u4e88\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_27_6",
-    "text": "Giant Red Braid Can be traded for Rememberance of the Fire Giant with Enia at Roundtable Hold. Somber"
+    "text": "\u5de8\u4eba\u7ea2\u53d1\u97ad [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u706b\u7130\u5de8\u4eba\u7684\u8ffd\u5fc6]\u4ea4\u6362\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_28_1",
-    "text": "Caestus Can be purchased from Gatekeeper Gostoc for 800 Runes after obtaining the Rusted Key in Stormveil Castle  Normal"
+    "text": "\u640f\u51fb\u624b\u5957 \u5728\u83b7\u5f97[\u53f2\u4e1c\u8587\u5c14\u57ce]\u7684[\u751f\u9508\u94a5\u5319]\u540e\uff0c\u4ece[\u95e8\u536b\u845b\u6258\u514b]\u5904\u4ee5800\u5362\u6069\u8d2d\u4e70 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_28_2",
-    "text": "Spiked Caestus Sold by the Isolated Merchant for 4000 Runes at the Isolated Merchant's Shack in northern Caelid Normal"
+    "text": "\u68d8\u523a\u640f\u51fb\u624b\u5957 [\u76d6\u5229\u5fb7]\u5317\u90e8[\u9690\u5c45\u5546\u4eba\u7684\u7834\u5c4b]\u7684[\u9690\u5c45\u5546\u4eba]4,000\u5362\u6069\u51fa\u552e \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_28_3",
-    "text": "Katar Can be found in a chest in Fort Gael in southwest Caelid. Normal"
+    "text": "\u62f3\u5251 \u5728[\u76d6\u5229\u5fb7][\u76d6\u5c14\u8981\u585e]\u897f\u5357\u90e8\u7684\u5b9d\u7bb1\u4e2d\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_28_4",
-    "text": "Iron Ball Dropped by Blackguard Big Boggart. At all his Locations. Normal"
+    "text": "\u94c1\u7403\u62f3\u5957 [\u6d41\u6c13]\u6389\u843d\u3002\u53ef\u4ee5\u5728\u4ed6\u4efb\u52a1\u7ebf\u4efb\u4f55\u65f6\u5019\u6740\u4e86\u4ed6\uff0c\u6216\u8005\u5230\u6700\u540e\u4ed6\u88ab[\u98df\u7caa\u8005]\u6740\u6b7b \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_28_5",
-    "text": "Star Fist Can be found on a body on the most left opening in the Leyndell Colosseum. Normal"
+    "text": "\u6668\u661f\u62f3\u5957 [\u738b\u57ce\u7f57\u5fb7\u5c14]\u7ade\u6280\u573a\u6700\u5de6\u8fb9\u7684\u5f00\u53e3\u5185\u7684\u5c38\u4f53\u4e0a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_28_6",
-    "text": "Clinging Bone Dropped by Ensha after he invades you at Roundtable hold. The Invasion is triggered by finding both Dectus Medaillons. Somber"
+    "text": "\u6500\u9644\u624b\u9aa8 [\u5706\u684c\u5385\u5802]\u51fb\u6740\u5165\u4fb5NPC[\u201c\u738b\u9ab8\u201d\u6069\u590f]\u6389\u843d\u3002\u627e\u5230\u4efb\u610f\u534a\u4e2a\u8fea\u53ef\u8fbe\u65af\u7b26\u8282\u540e\u4f20\u9001\u5230[\u5706\u684c\u5385\u5802]\u89e6\u53d1\u5165\u4fb5\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_28_7",
-    "text": "Veteran's Prosthesis Dropped by Commander Niall, at Castle Sol in the Mountaintops of the Giants. Somber"
+    "text": "\u8001\u5c06\u7684\u4e49\u8db3 [\u5de8\u4eba\u5c71\u9876][\u7d22\u5c14\u57ce]\u7684[\u8001\u5c06\u5c3c\u5965]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_28_8",
-    "text": "Cipher Pata Found in Roundtable Hold to the left of  Mad tongue Alberich's Invasion Room. Somber"
+    "text": "\u79d8\u6587\u5e15\u5854\u5251 \u5728[\u5706\u684c\u5385\u5802][\u201c\u53d1\u72c2\u4e4b\u820c\u201d\u963f\u5c14\u4f69\u5229\u5e0c]\u5165\u4fb5\u5927\u5385\u5de6\u8fb9\u7684\u623f\u95f4\u4e2d\u627e\u5230\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_28_9",
-    "text": "Grafted Dragon Can be traded for Rememberance of the Grafted with Enia in Roundtable Hold. Somber"
+    "text": "\u63a5\u80a2\u98de\u9f99 [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u63a5\u80a2\u7684\u8ffd\u5fc6]\u4ea4\u6362\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_4_1",
-    "text": "Hookclaws Can be found on a body in the back of a room filled with Barrels in the Wine Cellar section of Stormveil Castle. Normal"
+    "text": "\u94a9\u722a \u5728[\u53f2\u4e1c\u8587\u5c14\u57ce]\u7684\u9152\u7a96\u90e8\u5206\u7684\u4e00\u4e2a\u88c5\u6ee1\u6876\u7684\u623f\u95f4\u540e\u9762\u7684\u5c38\u4f53\u4e0a\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_4_2",
-    "text": "Venomous Fang Can be found in the Abandoned Cave North of the Aeonia Swamp in Caelid. Normal"
+    "text": "\u6bd2\u86c7\u7259 \u5728[\u76d6\u5229\u5fb7][\u5e9f\u5f03\u6d1e\u7a9f]\u5317\u90e8\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_4_3",
-    "text": "Bloodhound Claws Dropped by a Bloodhound Knight in the Cellar of Volcano Manor, Cellar can be reached through the hidden wall in Volcano Manor. Normal"
+    "text": "\u730e\u72ac\u5f2f\u722a \u5728[\u706b\u5c71\u5b98\u90b8]\u5730\u7a96\u4e2d\u7684[\u730e\u72ac\u9a91\u58eb]\u6389\u843d\uff0c\u53ef\u4ee5\u901a\u8fc7[\u706b\u5c71\u5b98\u90b8]\u7684\u5e7b\u5f71\u5899\u5230\u8fbe\u5730\u7a96\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_4_4",
-    "text": "Raptor Talons Can be found in one of the many chests in the Sage's Cave on the Altus Plateau. Normal"
+    "text": "\u731b\u79bd\u94a9\u722a [\u4e9a\u575b\u9ad8\u539f][\u8d24\u8005\u7684\u6d1e\u7a9f]\u5185\u4f17\u591a\u5b9d\u7bb1\u4e2d\u7684\u4e00\u4e2a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_11_1",
-    "text": "Short Bow Starting equipment for the Bandit. Can be bought from the Nomadic Merchant south of the Coastal Cave in Limgrave for 600 Runes. Normal"
+    "text": "\u77ed\u5f13 \u76d7\u8d3c\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002[\u5b81\u59c6\u683c\u798f][\u6d77\u5cb8\u6d1e\u7a9f]\u4ee5\u5357\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u5356600\u5362\u6069\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_11_2",
-    "text": "Composite Bow Can be bought from the Nomadic Merchant at the Bellum Church in Liurnia of the Lakes for 3500 Runes. Normal"
+    "text": "\u590d\u5408\u5f13 [\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a][\u5f7c\u9c81\u59c6\u6559\u5802]\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u53563,500\u5362\u6069 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_11_3",
-    "text": "Red Branch Shortbow Dropped by Pages wielding this weilding this weapon. 1 is found just after the group of Oracle Envoys at the East Capital Rampart Site of Grace. Normal"
+    "text": "\u7ea2\u6728\u77ed\u5f13 \u6325\u821e\u7740\u8fd9\u628a\u6b66\u5668\u7684\u968f\u4ece\u6389\u843d\u3002\u5728\u8d50\u798f[\u738b\u57ce\u4e1c\u8fb9\u57ce\u5899]\u7684\u795e\u8c15\u4f17\u4f7f\u8005\u540e\u6709\u4e00\u4e2a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_11_4",
-    "text": "Misbegotten Shortbow Can be farmed from flying Misbegotten in Castle Morne in the Weeping Peninsula. Normal"
+    "text": "\u6df7\u79cd\u5c0f\u5f13 [\u555c\u6ce3\u534a\u5c9b][\u6469\u6069\u57ce]\u98de\u884c\u7684\u6df7\u79cd\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_11_5",
-    "text": "Harp Bow Reward for Solving the Champion's Song Painting, found in The Shaded Castle. Normal"
+    "text": "\u7ad6\u7434\u5f13 \u89e3\u51b3[\u7ed8\u753b\u300a\u82f1\u96c4\u4e4b\u6b4c\u300b]\u7684\u5956\u52b1\u3002\u753b\u53ef\u4ee5\u5728[\u65e5\u836b\u57ce]\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_10_1",
-    "text": "Longbow Starting equipment for the Samurai. Can be bought from the Twin Maiden Husks at Roundtable Hold for 1200 Runes. Normal"
+    "text": "\u957f\u5f13 \u6b66\u58eb\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002[\u5706\u684c\u5385\u5802][\u5b6a\u751f\u8001\u59aa]\u53561,200\u5362\u6069\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_10_2",
-    "text": "Albinauric Bow Dropped by Albinauric Wolfback Archers, around the consecrated Snowfield in the Mountaintops of the Giants. Normal"
+    "text": "\u767d\u91d1\u5f13 \u767d\u91d1\u72fc\u9a91\u5f13\u7bad\u624b\u6389\u843d\uff0c\u5728[\u5316\u5723\u96ea\u539f]\u53ef\u4ee5\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_10_7",
-    "text": "Black Bow Found on a corpse on a roof north-east of the Avenue Balcony Site of Grace in Leyndell, Royal Capital. Normal"
+    "text": "\u9ed1\u5f13 \u5728\u8d50\u798f[\u5927\u9053\u65c1\u9732\u53f0]\u4e1c\u5317\u65b9\u5411\u5c4b\u9876\u4e0a\u7684\u4e00\u5177\u5c38\u4f53\u4e0a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_10_6",
-    "text": "Pulley Bow Found on a corpse on top of a mobile Siege Tower near Mt. Gelmir Camp Site of Grace. Somber"
+    "text": "\u6ed1\u8f6e\u5f13 \u5728\u8d50\u798f[\u683c\u5bc6\u5c14\u706b\u5c71\uff08\u7b2c\uff11\u4f11\u606f\u7ad9\uff09]\u9644\u8fd1\u7684\u4e00\u5177\u673a\u52a8\u653b\u57ce\u5854\u7684\u5c38\u4f53\u4e0a\u53d1\u73b0\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_10_3",
-    "text": "Horn Bow Can be found in Siofra River under the Stairs leading to the Hallowhorn Grounds. Somber"
+    "text": "\u89d2\u5f13 \u53ef\u4ee5\u5728[\u5e0c\u8299\u62c9\u6cb3]\u901a\u5f80[\u89d2\u9ab8\u7075\u5730]\u7684\u697c\u68af\u4e0b\u53d1\u73b0\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_10_5",
-    "text": "Serpent Bow Can be found in the Abandoned Cave north of the Swamp of Aeonia in Caelid. Somber"
+    "text": "\u86c7\u5f13 \u5728[\u76d6\u5229\u5fb7][\u5e9f\u5f03\u6d1e\u7a9f]\u4ee5\u5317\u7684[\u827e\u5965\u5c3c\u4e9a\u6cbc\u6cfd]\u4e2d\u627e\u5230\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_10_4",
-    "text": "Erdtree Bow Can be found in a chest on the second floor after an open window on a roof in the same building where the Erdtree Sancuary Site of Grace is situated. Somber"
+    "text": "\u9ec4\u91d1\u6811\u5f13 \u5728\u8d50\u798f[\u9ec4\u91d1\u6811\u5927\u6559\u5802]\u4e8c\u697c\u7684\u4e00\u4e2a\u7bb1\u5b50\u91cc\u627e\u5230\uff0c\u4ece\u5916\u9762\u722c\u4e0a\u6811\u6839\u540e\u4ece\u5c4b\u9876\u6253\u5f00\u7684\u7a97\u6237\u8fdb\u53bb\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_12_1",
-    "text": "Greatbow Can be found in a chest on the upper most level of the Highway lookout Tower north of Leyndell in Altus Plateau. Dropped by Radahn Knight in Fort Gael wielding this weapon Normal"
+    "text": "\u5927\u5f13 \u5728[\u4e9a\u575b\u9ad8\u539f]\u4e2d[\u738b\u57ce\u7f57\u5fb7\u5c14]\u4ee5\u5317\u7684[\u5927\u9053\u76d1\u89c6\u5854]\u7684\u6700\u4e0a\u5c42\u7684\u5b9d\u7bb1\u4e2d\u3002\u4f7f\u7528\u6b64\u6b66\u5668\u7684\u62c9\u5854\u6069\u9a91\u58eb\u4e5f\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_12_2",
-    "text": "Golem Greatbow Dropped by Golems wielding this weapon, 2 Golems can be found on the way to the Colosseum in Caelid, 1 more can be found just after reaching the Altus Plateau via the Grand lift of Dectus. Somber"
+    "text": "\u9b54\u50cf\u5927\u5f13 \u6325\u821e\u8fd9\u628a\u6b66\u5668\u7684\u5de8\u5927\u9b54\u50cf\u6389\u843d\uff0c\u5728[\u76d6\u5229\u5fb7]\u53bb\u7ade\u6280\u573a\u7684\u8def\u4e0a\u53ef\u4ee5\u627e\u52302\u4e2a\uff0c\u901a\u8fc7\u5927\u7535\u68af\u5230\u8fbe[\u4e9a\u575b\u9ad8\u539f]\u540e\u95e8\u53e3\u67091\u4e2a\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_12_3",
-    "text": "Erdtree Greatbow Dropped by 1 of the Chariots in the Fringefolk Hero's Grave after droppping one of the Giant Pots hanging from the ceiling on it. Somber"
+    "text": "\u9ec4\u91d1\u6811\u5927\u5f13 [\u8fb9\u5883\u82f1\u96c4\u5893\u5730]\u51fb\u843d\u5929\u82b1\u677f\u4e0a\u7684\u5de8\u5927\u7f50\u5b50\u6467\u6bc1\u6218\u8f66\u540e\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_12_4",
-    "text": "Lion Greatbow Can be traded with Enia at Roundtable Hold for the Rememberance of the Starscourge. Somber"
+    "text": "\u72ee\u5b50\u5927\u5f13 [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u788e\u661f\u7684\u8ffd\u5fc6]\u4ea4\u6362\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_7_1",
-    "text": "Soldier's Crossbow Dropped by all Footsoldiers wielding this weapon. Normal"
+    "text": "\u58eb\u5175\u5f29 \u6240\u6709\u4f7f\u7528\u6b64\u6b66\u5668\u7684\u6b65\u5175\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_7_2",
-    "text": "Light Crossbow Can be bought from the Nomadic Merchant at the Castle Morne Rampart Site of Grace for 1500 Runes. Normal"
+    "text": "\u8f7b\u5f29 \u8d50\u798f[\u6469\u6069\u57ce\uff08\u57ce\u5899\u524d\u65b9\uff09]\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u53561,500\u5362\u6069 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_7_3",
-    "text": "Heavy Crossbow Dropped by enemies wielding this weapon, a few soldiers at the Gatefront Site of Grace leading up to Stormhill have a chance of dropping it. Normal"
+    "text": "\u91cd\u5f29 [\u98ce\u66b4\u5c71\u4e18]\u524d\u9762\u7684\u8d50\u798f[\u5173\u5361\u524d\u65b9]\u4e0a\u7684\u4e00\u4e9b\u58eb\u5175\u6709\u51e0\u7387\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_7_6",
-    "text": "Arbalest Found on a corpse after the Imp Fog wall that also has the Godskin Prayerbook near the courtyard filled with FLamethrowers in Stormveil Castle. Somber"
+    "text": "\u94a2\u5f29 \u5728[\u53f2\u4e1c\u8587\u5c14\u57ce]\u5145\u6ee1\u706b\u7130\u55b7\u5c04\u5668\u7684\u9662\u5b50\u9644\u8fd1\u5c0f\u6076\u9b54\u50cf\u5c01\u5370\u7684\u96fe\u5899\u540e\u7684\u4e00\u5177\u5c38\u4f53\u4e0a\uff0c\u91cc\u9762\u8fd8\u6709[\u795e\u76ae\u7977\u544a\u4e66]\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_7_7",
-    "text": "Crepus's Black-Key Crossbow Found after the first Imp Fog Wall in Roundtable Hold. Somber"
+    "text": "\u514b\u96f7\u666e\u7684\u9ed1\u952e \u5728[\u5706\u684c\u5385\u5802]\u7684\u7b2c\u4e00\u4e2a\u5c0f\u6076\u9b54\u50cf\u5c01\u5370\u7684\u96fe\u5899\u540e\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_7_4",
-    "text": "Pulley Crossbow Can be found next to the Craftmen's Shack in Mt. Gelmir. Somber"
+    "text": "\u6ed1\u8f6e\u5f29 \u5728[\u683c\u5bc6\u5c14\u706b\u5c71][\u5320\u4eba\u7684\u7834\u5c4b]\u65c1\u627e\u5230\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_7_5",
-    "text": "Full Moon Crossbow Found on the Rooftop area after the Debate Parlor Site of Grace in Raya Lucaria. Somber"
+    "text": "\u5706\u6708\u5f29 \u5728[\u9b54\u6cd5\u5b66\u9662\u96f7\u4e9a\u5362\u5361\u5229\u4e9a]\u7684\u8d50\u798f[\u8ba8\u8bba\u5ba4]\u5f80\u524d\u7684\u5c4b\u9876\u533a\u57df\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_2_1",
-    "text": "Hand Ballista Can be found in a chest on top of the Forest Lookout Tower west of the Bridge of Sacrifice in the Weeping Peninsula. Normal"
+    "text": "\u643a\u5e26\u578b\u5f29\u70ae \u5728[\u555c\u6ce3\u534a\u5c9b][\u732e\u796d\u5927\u6865]\u897f\u8fb9[\u68ee\u6797\u76d1\u89c6\u5854]\u4e0a\u7684\u5b9d\u7bb1\u91cc\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_2_2",
-    "text": "Jar Cannon Dropped by the Demi-human Queen Margot at the end of Volcano Cave north of Mt. Gelmir. Somber"
+    "text": "\u58f6\u5927\u70ae [\u683c\u5bc6\u5c14\u706b\u5c71]\u5317\u90e8[\u706b\u5c71\u6d1e\u7a9f]\u7684[\u201c\u4e9a\u4eba\u5973\u738b\u201d\u739b\u683c]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_1",
-    "text": "Astrologer's Staff Starting equipment for the Astrologer. Can be purchased from the Nomadic Merchant near the Liurnia Lake Shore Site of Grace for 600 Runes. Normal"
+    "text": "\u89c2\u661f\u6756 \u89c2\u661f\u8005\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002\u8d50\u798f[\u5229\u8036\u5c3c\u4e9a\u6e56\uff08\u6e56\u8fb9\uff09]\u9644\u8fd1\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u5356600\u5362\u6069\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_29_2",
-    "text": "Glintstone Staff Starting equipment for the Prisoner. Dropped by Noble Sorcerers, there is one south of the Waypoint Ruins and quite a few at the Kingsrealm Ruins. Normal"
+    "text": "\u8f89\u77f3\u6756 \u56da\u72af\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002\u7531\u6743\u8d35\u9b54\u6cd5\u5e08\u6389\u843d\uff0c\u5728[\u9a7f\u7ad9\u8857\u9057\u8ff9]\u7684\u5357\u8fb9\u6709\u4e00\u4e2a\uff0c\u5728[\u738b\u5ba4\u9886\u5730\u5e9f\u589f]\u6709\u8bb8\u591a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_29_3",
-    "text": "Academy Glintstone Staff Rewarded for finishing Thops questline, can also be dropped by any Glintstone Sorcerer in Raya Lucaria Academy. Normal"
+    "text": "\u5b66\u9662\u8f89\u77f3\u6756 \u5b8c\u6210[\u9b54\u6cd5\u5e08\u6258\u666e\u65af]\u4efb\u52a1\u7ebf\u7684\u5956\u52b1\uff0c[\u9b54\u6cd5\u5b66\u9662\u96f7\u4e9a\u5362\u5361\u5229\u4e9a]\u5b66\u9662\u7684\u4efb\u4f55\u8f89\u77f3\u9b54\u6cd5\u5e08\u4e5f\u80fd\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_29_4",
-    "text": "Digger's Staff Dropped from Sorcerer Miners in Sellia Crystal Tunnel. Normal"
+    "text": "\u6316\u77f3\u6756 [\u745f\u5229\u4e9a\u7ed3\u6676\u5751\u9053]\u7684\u9b54\u6cd5\u77ff\u5de5\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_29_5",
-    "text": "Demi-Human Queen's Staff Dropped by the Demi-human Queen in the Demi-human Forest Ruins. Normal"
+    "text": "\u4e9a\u4eba\u5973\u738b\u6756 [\u4e9a\u4eba\u68ee\u6797\u7684\u5e9f\u589f]\u7684\u4e9a\u4eba\u5973\u738b\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_29_6",
-    "text": "Azur's Glintstone Staff Can be found in room filled with Glintstone crystals after you unlocked the ladder shortcut in the Church of Cuckoo, on the upper level head to the east side through a doorway. Somber"
+    "text": "\u4e9a\u5179\u52d2\u7684\u8f89\u77f3\u6756 \u6253\u5f00[\u675c\u9e43\u6559\u5802]\u7684\u68af\u5b50\u6377\u5f84\u540e\uff0c\u4f60\u53ef\u4ee5\u5728\u5145\u6ee1\u8f89\u77f3\u6c34\u6676\u7684\u623f\u95f4\u627e\u5230\uff0c\u5728\u4e0a\u5c42\u901a\u8fc7\u4e00\u4e2a\u95e8\u53e3\u5f80\u4e1c\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_7",
-    "text": "Lusat's Glintstone Staff Found in a chest after the Duo Nox Boss fight in Sellia, Town of Sorcery in Caelid. Somber"
+    "text": "\u5362\u745f\u7279\u7684\u8f89\u77f3\u6756 \u5728[\u76d6\u5229\u5fb7]\u4e0e[\u9b54\u6cd5\u9547\u745f\u5229\u4e9a]\u7684\u53cc\u8bfa\u514b\u65afBoss\u6218\u6597\u540e\u7684\u4e00\u4e2a\u7bb1\u5b50\u4e2d\u53d1\u73b0\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_9",
-    "text": "Carian Glintstone Staff Can be found in Carian Stufy Hall just before the 2nd lift in Liurnia of the Lakes. Somber"
+    "text": "\u5361\u5229\u4e9a\u8f89\u77f3\u6756 \u53ef\u4ee5\u5728[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a][\u5361\u5229\u4e9a\u4e66\u658b]\u627e\u5230\uff0c\u5c31\u5728\u7b2c2\u4e2a\u7535\u68af\u524d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_8",
-    "text": "Carian Glintblade Staff Found on top of the Highway Lookout Tower in eastern Liurnia. Somber"
+    "text": "\u5361\u5229\u4e9a\u8f89\u5251\u6756 \u5728[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u4e1c\u90e8[\u5927\u9053\u76d1\u89c6\u5854]\u7684\u9876\u90e8\u53d1\u73b0\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_10",
-    "text": "Carian Regal Scepter Can be traded with Enia for the Remembrance of the Full Moon in Roundtable Hold. Somber"
+    "text": "\u5361\u5229\u4e9a\u6743\u6756 [\u5706\u684c\u5385\u5802][\u201c\u89e3\u6307\u201d\u6069\u96c5]\u5904\u7528[\u6ee1\u6708\u5973\u738b\u7684\u8ffd\u5fc6]\u4ea4\u6362 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_11",
-    "text": "Albinauric Staff Dropped by an Omenkiller in Volcano Manor near the Guesthouse Site of Grace. Somber"
+    "text": "\u767d\u91d1\u6756 \u5728[\u706b\u5c71\u5b98\u90b8]\u8d50\u798f[\u8fce\u5bbe\u5385]\u9644\u8fd1\u7684[\u6076\u5146\u730e\u4eba]\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_12",
-    "text": "Staff of Loss Found on a corpse hanging over on of the balconies in Sellia, Town of Sorcery in Caelid. Somber"
+    "text": "\u4e27\u5931\u6756 \u5728[\u76d6\u5229\u5fb7][\u9b54\u6cd5\u9547\u745f\u5229\u4e9a]\u9633\u53f0\u4e0a\u7684\u4e00\u5177\u5c38\u4f53\u4e0a\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_13",
-    "text": "Gelmir Glintstone Staff Dropped by the Man Serpent wielding this weapon in the Throne Room above Volcano Manor. Somber"
+    "text": "\u683c\u5bc6\u5c14\u8f89\u77f3\u6756 \u5728[\u706b\u5c71\u5b98\u90b8]\u6b63\u6bbf\u4e0a\u65b9\u6325\u821e\u7740\u8fd9\u4e2a\u6b66\u5668\u7684\u86c7\u4eba\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_14",
-    "text": "Crystal Staff Can be found in the Academy Crystal Cave in a room that is guarded by a sorcerer just before the Boss Fog Gate. Somber"
+    "text": "\u7ed3\u6676\u6756 \u5728[\u5b66\u9662\u7ed3\u6676\u6d1e\u7a9f]Boss\u96fe\u95e8\u524d\u88ab\u9b54\u6cd5\u5e08\u5b88\u536b\u7684\u623f\u95f4\u91cc\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_15",
-    "text": "Rotten Crystal Staff Dropped by Crystallians in Elphael, Brace of the Haligtree. Somber"
+    "text": "\u8150\u8d25\u7ed3\u6676\u6756 [\u201c\u5723\u6811\u5206\u679d\u201d\u827e\u5e03\u96f7\u83f2\u5c14]\u7684\u7ed3\u6676\u4eba\u6389\u843d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_16",
-    "text": "Meteorite Staff Found on a corpse hanging on a ledge of a ruin in the Street of Sage's Ruins in the western part of the Swamp of Aeonia in Caelid. Somber"
+    "text": "\u9668\u77f3\u6756 \u5728[\u76d6\u5229\u5fb7]\u897f\u90e8[\u8d24\u8005\u9547\u7684\u5e9f\u589f]\u8fb9\u7f18\u7684\u4e00\u5177\u5c38\u4f53\u4e0a\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_17",
-    "text": "Staff of the Guilty Dropped by enemies wielding this weapon at Fort Laiedd in Mt. Gelmir. Somber"
+    "text": "\u7f6a\u4eba\u6756 \u5728[\u683c\u5bc6\u5c14\u706b\u5c71]\u7684[\u83b1\u591a\u8981\u585e]\u5904\u6325\u821e\u6b64\u6b66\u5668\u7684\u654c\u4eba\u6389\u843d \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_29_18",
-    "text": "Prince of Death's Staff Found in the Deeproot Depths. Follow the path up the roots and take the first drop to the left and continue the path to the tower. Somber"
+    "text": "\u6b7b\u738b\u5b50\u6756 \u5728[\u6df1\u6839\u5e95\u5c42]\u4e2d\u627e\u5230\u3002\u987a\u7740\u8fd9\u6761\u5c0f\u8def\u6cbf\u7740\u6811\u6839\u5f80\u4e0a\u8d70\uff0c\u5728\u7b2c\u4e00\u4e2a\u6c34\u6c60\u5de6\u8f6c\uff0c\u7ee7\u7eed\u8d70\u5230\u5854\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_30_1",
-    "text": "Finger Seal Starting item for Confessor and Prophet. Bought from Twin Maiden Husks for 600 Runes Normal"
+    "text": "\u6307\u5934\u5723\u5370\u8bb0 \u5bc6\u4f7f\u548c\u9884\u8a00\u5bb6\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002[\u5b6a\u751f\u8001\u59aa]\u5356600\u5362\u6069\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_30_2",
-    "text": "Erdtree Seal Found on a Corpse after the Omenkiller near the Prison Town Church Site of Grace Normal"
+    "text": "\u9ec4\u91d1\u6811\u5723\u5370\u8bb0 \u5728\u8d50\u798f[\u7262\u9547\u6559\u5802]\u9644\u8fd1[\u6076\u5146\u730e\u4eba]\u540e\u7684\u5c38\u4f53\u4e0a\u53d1\u73b0\u7684 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_30_3",
-    "text": "Golden Order Seal Looted from a corpse near the Minor Erdtre Church Site of Grace. Normal"
+    "text": "\u9ec4\u91d1\u5f8b\u6cd5\u5723\u5370\u8bb0 \u5728[\u5c0f\u9ec4\u91d1\u6811\u6559\u5802]\u9644\u8fd1\u7684\u4e00\u5177\u5c38\u4f53\u4e0a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_30_4",
-    "text": "Gravel Stone Seal Dropped by a Leyndell Knight in the courtyard with the big dragon foot near the West Capital Rampart Site of Grace. Normal"
+    "text": "\u788e\u77f3\u5723\u5370\u8bb0 \u8d50\u798f[\u738b\u57ce\u897f\u8fb9\u57ce\u5899]\u5de8\u9f99\u811a\u9644\u8fd1\u7684\u7f57\u5fb7\u5c14\u9a91\u58eb\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_30_5",
-    "text": "Giant's Seal Can be found in the basement of the Giant-Conquering Hero's Grave. Normal"
+    "text": "\u5de8\u4eba\u5723\u5370\u8bb0 \u5728[\u5de8\u4eba\u6218\u4e89\u7684\u82f1\u96c4\u5893\u5730]\u5730\u4e0b\u5ba4\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_30_6",
-    "text": "Godslayer's Seal Can be found after the Imp Wall near were the Grafted Scion is in Stormveil Castle. Normal"
+    "text": "\u72e9\u730e\u795e\u7947\u5723\u5370\u8bb0 \u5728[\u53f2\u4e1c\u8587\u5c14\u57ce][\u201c\u63a5\u80a2\u201d\u8d35\u65cf\u540e\u88d4]\u9644\u8fd1\u7684\u5c0f\u6076\u9b54\u50cf\u5c01\u5370\u7684\u96fe\u5899\u540e\u627e\u5230\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_30_7",
-    "text": "Clawmark Seal Reward from Gurranq for the first Deathroot. Normal"
+    "text": "\u722a\u75d5\u5723\u5370\u8bb0 \u7ed9[\u201c\u91ce\u517d\u796d\u53f8\u201d\u53e4\u5170\u683c]\u7b2c\u4e00\u4e2a[\u6b7b\u6839]\u7684\u5956\u52b1 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_30_8",
-    "text": "Frenzied Flame Seal Reward for finishing Hyetta's questline. Somber"
+    "text": "\u766b\u706b\u5723\u5370\u8bb0 \u5b8c\u6210[\u201c\u63a2\u5bfb\u706f\u706b\u201d\u6d77\u59b2]\u4efb\u52a1\u7ebf\u7684\u5956\u52b1 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_30_9",
-    "text": "Dragon Communion Seal Can be found Fringefolk Hero's Grave guarded by a Knight. Somber"
+    "text": "\u9f99\u98e8\u5370\u8bb0 [\u8fb9\u5883\u82f1\u96c4\u5893\u5730]\u5185\u7531\u4e00\u4e2a\u9a91\u58eb\u5b88\u536b\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_31_1",
-    "text": "Torch Can be Purchased from Kal\u00e9 for 200 runes. Normal"
+    "text": "\u706b\u628a [\u201c\u6d41\u6d6a\u5546\u4eba\u201d\u5496\u5217]\u5356200\u5362\u6069\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_31_2",
-    "text": "Beast-Repllent Torch Sold by the merchant at the Isolated Merchant's Shack in Caelid for 1200 runes. Normal"
+    "text": "\u9a71\u517d\u706b\u628a [\u76d6\u5229\u5fb7][\u9690\u5c45\u5546\u4eba\u7684\u7834\u5c4b]\u7684\u5546\u4eba\u53561,200\u5362\u6069\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_31_3",
-    "text": "Steel-Wire Torch Found on a corpse guarded by two Misbegotten on the upper part of Castle Morne. Normal"
+    "text": "\u94a2\u4e1d\u706b\u628a [\u6469\u6069\u57ce]\u4e24\u4e2a\u6df7\u79cd\u5b88\u536b\u7684\u5c38\u4f53\u4e0a\u53d1\u73b0\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_31_4",
-    "text": "Sentry's Torch Can be bought from Hermit Merchant at the Hermit Merchant's Shack on the Altus Plateau for 7,000 Runes Somber"
+    "text": "\u54e8\u5175\u706b\u628a [\u4e9a\u575b\u9ad8\u539f][\u9041\u4e16\u5546\u4eba\u7684\u7834\u5c4b]\u7684[\u9041\u4e16\u5546\u4eba]\u53567,000\u5362\u6069 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_31_5",
-    "text": "Ghostflame Torch Can be found just after one enters Nokron, the Eternal City through the Crater. After getting to the first roof section jump on the tower to reach the torch. Somber"
+    "text": "\u7075\u706b\u706b\u628a \u53ef\u4ee5\u5728\u8fdb\u5165[\u201c\u6c38\u6052\u4e4b\u57ce\u201d\u8bfa\u514b\u9686\u6069]\u540e\u627e\u5230\uff0c\u901a\u8fc7[\u661f\u661f\u5760\u843d\u4e4b\u5730]\u3002\u5728\u5230\u8fbe\u7b2c\u4e00\u4e2a\u5c4b\u9876\u90e8\u5206\u540e\uff0c\u8df3\u4e0a\u5854\u53bb\u62ff\u5230\u706b\u628a\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_31_6",
-    "text": "St Trina's Torch Found in a chest on a hearse southwest in the Consecrated Snowfield in the Mountaintops of the Goants. Somber"
+    "text": "\u6258\u8389\u5a1c\u70db\u706b \u5728[\u5de8\u4eba\u5c71\u9876][\u5316\u5723\u96ea\u539f]\u897f\u5357\u4e00\u8f86\u5927\u8f66\u540e\u7684\u5b9d\u7bb1\u4e2d\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_32_4",
-    "text": "Rickety Shield Starting equimpent for the Prophet, dropped by Demi-humans. Normal"
+    "text": "\u534a\u574f\u6728\u76fe \u9884\u8a00\u5bb6\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\uff0c\u4e9a\u4eba\u65cf\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_9",
-    "text": "Riveted Wooden Shield Starting equipment for the Warrior. Can be bought for 600 runes from Nomadic Merchant in East Limgrave Normal"
+    "text": "\u94c1\u94c6\u9489\u6728\u76fe \u5251\u58eb\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002[\u5b81\u59c6\u683c\u798f]\u4e1c\u90e8[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u5356600\u5362\u6069 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_10",
-    "text": "Blue-white Wooden Shield Found when circling around the buildings when heading to Raya Lucaria Academy Main Gate. Normal"
+    "text": "\u84dd\u767d\u6728\u76fe \u524d\u5f80[\u9b54\u6cd5\u5b66\u9662\u96f7\u4e9a\u5362\u5361\u5229\u4e9a]\u5b66\u9662\u5927\u95e8\u65f6\uff0c\u5728\u5efa\u7b51\u7269\u5468\u56f4\u53d1\u73b0\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_8",
-    "text": "Scripture Wooden Shield Starting equipment for the Astrologer, dropped by Scimitar and shield wielding skeletons in catacombs. Normal"
+    "text": "\u5723\u53e5\u6728\u76fe \u89c2\u661f\u8005\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\uff0c\u5728\u5730\u4e0b\u5893\u7a74\u4e2d\u5e26\u77ed\u5f2f\u5200\u548c\u76fe\u724c\u7684\u9ab7\u9ac5\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_7",
-    "text": "Red Thorn Roundshield Starting equipment for the Samurai. Can be bought from the Nomadic Merchant at the Castle Morne Rampart Site of Grace for 600 runes. Normal"
+    "text": "\u7ea2\u68d8\u6728\u76fe \u6b66\u58eb\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002\u8d50\u798f[\u6469\u6069\u57ce\uff08\u57ce\u5899\u524d\u65b9\uff09]\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u5356600\u5362\u6069 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_5",
-    "text": "Pillory Shield Inside the Gaol Cave behind an Imp Wall. Normal"
+    "text": "\u67b7\u9501\u76fe \u5728[\u7262\u72f1\u6d1e\u7a9f]\u5c0f\u6076\u9b54\u50cf\u5c01\u5370\u7684\u96fe\u5899\u540e\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_1",
-    "text": "Buckler Starting equipment for the Bandit Class. Can be bought from Gatekeeper Gostoc for 1500 runes after he's become a merchant. Normal"
+    "text": "\u5c0f\u5706\u76fe \u5f3a\u76d7\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002\u5f53[\u95e8\u536b\u845b\u6258\u514b]\u6210\u4e3a\u5546\u4eba\u540e\u53561,500\u5362\u6069\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_12",
-    "text": "Iron Roundshield Can be bought from the Nomadic Merchant near the Coastal Cave in Limgrave for 900 runes. Normal"
+    "text": "\u94c1\u5706\u76fe [\u5b81\u59c6\u683c\u798f][\u6d77\u5cb8\u6d1e\u7a9f]\u9644\u8fd1\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u5356900\u5362\u6069\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_13",
-    "text": "Gilded Iron Shield Found on Corpse west of the Church of Pilgrimage in the Weeping Peninsula. Normal"
+    "text": "\u91d1\u9ec4\u94c1\u76fe \u5728[\u555c\u6ce3\u534a\u5c9b][\u5de1\u793c\u6559\u5802]\u897f\u8fb9\u7684\u5c38\u4f53\u4e0a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_3",
-    "text": "Man-serpent's Shield Dropped by Man-Serpents in Volcano Manor. Normal"
+    "text": "\u86c7\u4eba\u76fe [\u706b\u5c71\u5b98\u90b8]\u86c7\u4eba\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_14",
-    "text": "Ice Crest Shield Found behind a stone pillar after entering Caria Manor near the eastern wall. Normal"
+    "text": "\u51b0\u7eb9\u94c1\u76fe \u8fdb\u5165[\u5361\u5229\u4e9a\u57ce\u5be8]\u540e\u5728\u9760\u8fd1\u4e1c\u5899\u7684\u4e00\u4e2a\u77f3\u67f1\u540e\u9762\u53d1\u73b0\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_11",
-    "text": "Rift Shield Starting equipment for the Prisoner. Bought for 1800 runes from the Nomadic Merchant sitting north of Bellum church. Normal"
+    "text": "\u88c2\u7f1d\u76fe \u56da\u72af\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002[\u5f7c\u9c81\u59c6\u6559\u5802]\u5317\u90e8\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u53561,800\u5362\u6069\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_2",
-    "text": "Perfumer's Shield Dropped by Perfumers wielding this shield. There are 2 farmable Perfumers near the Perfumer's Grotto Site of Grace. Normal"
+    "text": "\u8c03\u9999\u5e08\u76fe \u4f7f\u7528\u6b64\u76fe\u7684\u8c03\u9999\u5e08\u6389\u843d\u3002\u5728\u8d50\u798f[\u8c03\u9999\u5e08\u7684\u9690\u85cf\u6d1e\u7a9f]\u9644\u8fd1\u67092\u4e2a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_6",
-    "text": "Shield Of The Guilty In the Cellar of the Demi-human Forest Ruins in the Weeping Peninsula. Normal"
+    "text": "\u7f6a\u4eba\u76fe \u5728[\u4e9a\u4eba\u68ee\u6797\u7684\u5e9f\u589f]\u7684\u5730\u7a96\u91cc\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_16",
-    "text": "Spiralhorn Shield Found uphill along the lakeshore at the Mausoleum Compound in Liurnia of the Lakes. Normal"
+    "text": "\u65cb\u89d2\u76fe \u5728[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a][\u7fa4\u96c6\u7075\u5e99]\u6cbf\u6e56\u5cb8\u5411\u4e0a\u8d70\u53d1\u73b0\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_15",
-    "text": "Smoldering Shield From the Prison Town Church Site of Grace exit to the left and drop down until you reach a confined Magma Graveyard area. The shield is sitting on a corpse. Normal"
+    "text": "\u718f\u70e7\u76fe \u4ece\u8d50\u798f[\u7262\u9547\u6559\u5802]\u5de6\u8fb9\u51fa\u53e3\u5411\u4e0b\uff0c\u76f4\u5230\u4f60\u5230\u8fbe\u4e00\u4e2a\u5c01\u95ed\u7684\u5ca9\u6d46\u5893\u5730\u533a\u57df\u3002\u76fe\u724c\u5728\u4e00\u5177\u5c38\u4f53\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_32_17",
-    "text": "Coil Shield Found in the Volcano Cave from the first large room take the right most exit drop down onto a cliff below and enter the tunnel until you reach a room with a corpse holding the shield. Somber"
+    "text": "\u76d8\u86c7\u76fe \u5728[\u706b\u5c71\u6d1e\u7a9f]\u4ece\u7b2c\u4e00\u4e2a\u5927\u623f\u95f4\u4ece\u6700\u53f3\u8fb9\u7684\u53e3\u4e0b\u843d\u5230\u60ac\u5d16\u4e0b\u9762\uff0c\u8fdb\u5165\u96a7\u9053\uff0c\u76f4\u5230\u4e00\u4e2a\u623f\u95f4\u91cc\u7684\u5c38\u4f53\u4e0a\u6709\u76fe\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_33_20",
-    "text": "Hawk Crest Wooden Shield  Normal"
+    "text": "\u9e70\u7eb9\u6728\u76fe [\u53f2\u4e1c\u8587\u5c14\u57ce]: \u6709[\u201c\u63a5\u80a2\u201d\u8d35\u65cf\u540e\u88d4]\u7684\u5927\u623f\u95f4\u9694\u58c1\u7684\u5c0f\u6076\u9b54\u50cf\u5c01\u5370\u7684\u96fe\u95e8\u540e\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_17",
-    "text": "Horse Crest Wooden Shield  Normal"
+    "text": "\u9a6c\u7eb9\u6728\u76fe [\u8499\u6d41\u6d1e\u7a9f]\u7684[\u5e15\u5947]\u5728\u5f00\u5e97\u4e4b\u540e\u53561,000\u5362\u6069\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_18",
-    "text": "Candletree Wooden Shield  Normal"
+    "text": "\u70db\u6811\u7eb9\u6728\u76fe \u5728[\u8d24\u8005\u7684\u6d1e\u7a9f]\u4e00\u5835\u5e7b\u5f71\u5899\u540e\u7684\u4e00\u4e2a\u7bb1\u5b50\u91cc\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_19",
-    "text": "Flame Crest Wooden Shield  Normal"
+    "text": "\u706b\u7eb9\u6728\u76fe [\u555c\u6ce3\u534a\u5c9b][\u75c5\u6751]\u5317\u4fa7\u4e00\u95f4\u5c0f\u68da\u5c4b\u91cc\u7684\u5c38\u4f53\u4e0a\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_3",
-    "text": "Marred Wooden Shield  Normal"
+    "text": "\u4fb5\u8680\u6728\u76fe [\u53f2\u4e1c\u8587\u5c14\u57ce]: \u4ece\u8d50\u798f[\u57ce\u5899\u5854]\u51fa\u53bb\u5230\u8d70\u9053\u4e0a\u6740\u6b7b\u5750\u5728\u897f\u9762\u5854\u4e0a\u5e26\u7740\u7206\u70b8\u6876\u7684\u6218\u9e70\u3002 \u7136\u540e\u4ece\u8fb9\u7f18\u4e0b\u843d\u5230\u4e0b\u9762\u7684\u7a97\u53f0\u4e0a\u3002\u6cbf\u7740\u5ca9\u58c1\u5411\u5317\uff0c\u8df3\u4e0b\u5230\u7834\u788e\u7684\u67f1\u5b50\u4e0a\u627e\u5230\u76fe\u724c\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_6",
-    "text": "Sun Realm Shield  Normal"
+    "text": "\u592a\u9633\u57ce\u76fe \u9ab7\u9ac5\u5251\u58eb\u6389\u843d\u3002\u4e00\u4e2a\u5237\u53d6\u7684\u597d\u5730\u65b9\u662f\u5728[\u4e9a\u575b\u9ad8\u539f]\u4ece[\u9041\u4e16\u5546\u4eba\u7684\u7834\u5c4b]\u5411\u4e1c\u8d70\u4e00\u5c0f\u6bb5\u8def\uff0c\u4e00\u4e2a\u9ab7\u9ac5\u4f1a\u722c\u51fa\u5730\u9762\u7684\u3002\u5728[\u5723\u4eba\u6865]\u548c\u8d50\u798f[\u6c34\u5524\u6751\u5916]\u4e4b\u95f4\u7684\u8def\u4e0a\u4f1a\u67092\u4e2a\u3002\u53e6\u4e00\u4e2a\u5237\u53d6\u7684\u597d\u5730\u65b9\u662f[\u76d6\u5229\u5fb7]\u7684[\u8150\u8d25\u75c5\u6559\u5802]\u3002\u4e00\u5171\u67097\u4e2a\uff0c\u5b83\u4eec\u7684\u8ddd\u79bb\u5f88\u8fd1\uff0c\u5411\u5317\u5728\u5893\u5730\u4e2d\u67093\u4e2a\uff0c\u7136\u540e\u5411\u5317\u5230\u62f1\u8d77\u7684\u6811\u6839\u67092\u4e2a\uff0c\u7136\u540e\u5411\u5317\u5230\u53e6\u4e00\u4e2a\u62f1\u8d77\u7684\u6811\u6839\u67092\u4e2a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_8",
-    "text": "Round Shield  Normal"
+    "text": "\u5706\u76fe [\u555c\u6ce3\u534a\u5c9b]\u4e1c\u9762\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u53561,000\u5362\u6069\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_16",
-    "text": "Large Leather Shield  Normal"
+    "text": "\u5927\u76ae\u76fe \u52c7\u8005\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002[\u5b81\u59c6\u683c\u798f][\u827e\u96f7\u6559\u5802]\u7684Merchant Kale\u5356600\u5362\u6069\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_27",
-    "text": "Black Leather Shield  Normal"
+    "text": "\u9ed1\u76ae\u76fe [\u5361\u5229\u4e9a\u57ce\u5be8]\u7684[\u4ec6\u4eba\u6bd5\u8fea]\u53562,500\u5362\u6069: \u5728\u8d50\u798f[\u57ce\u5be8\u4e0b\u90e8]\u4e0a\u65b9\u7684\u9633\u53f0\u4e0a\u3002\u53ea\u6709\u4ece[\u4e09\u59ca\u59b9\u5854]\u4e1c\u5357\u65b9\u7684\u60ac\u5d16\u4e0a\u4e0b\u53bb\u624d\u80fd\u5230\u8fbe\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_2",
-    "text": "Marred Leather Shield  Normal"
+    "text": "\u4fb5\u8680\u76ae\u76fe \u4f4d\u4e8e[\u53f2\u4e1c\u8587\u5c14\u57ce]\u3002\u6309\u7167[\u95e8\u536b\u845b\u6258\u514b]\u5efa\u8bae\u4ece\u540e\u95e8\u8d70\u3002\u4ece\u4fef\u77b0\u7684\u533a\u57df\uff0c\u4f60\u4f1a\u53d1\u73b0\u8d50\u798f[\u53f2\u4e1c\u8587\u5c14\u65ad\u5d16]\u3002\u6cbf\u7740\u53f3\u8fb9\u7684\u659c\u5761\u5f80\u4e0a\u8d70\uff0c\u8df3\u4e0a\u901a\u5f80\u5c71\u9876\u7684\u6728\u8def\u548c\u53f0\u9636\u3002\u5728\u5230\u8fbe\u5e73\u53f0\u9876\u90e8\u4e4b\u524d\uff0c\u5728\u53f0\u9636\u4e2d\u95f4\u53d1\u73b0\u4e00\u5177\u5c38\u4f53\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_26",
-    "text": "Heater Shield  Normal"
+    "text": "\u71a8\u6597\u5f62\u76fe \u6d41\u6d6a\u9a91\u58eb\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002[\u5706\u684c\u5385\u5802]\u7684[\u5b6a\u751f\u8001\u59aa]\u53561,500\u5362\u6069\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_23",
-    "text": "Blue Crest Heater Shield  Normal"
+    "text": "\u84dd\u7eb9\u71a8\u6597\u5f62\u76fe \u5bc6\u4f7f\u804c\u4e1a\u521d\u59cb\u81ea\u5e26\u3002[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u897f\u5317\u90e8\u8d50\u798f[\u5f7c\u9c81\u59c6\u6559\u5802]\u9644\u8fd1\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u53561,500\u5362\u6069\u3002 [\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_22",
-    "text": "Red Crest Heater Shield  Normal"
+    "text": "\u7ea2\u7eb9\u71a8\u6597\u5f62\u76fe [\u4e9a\u575b\u9ad8\u539f]: \u4f4d\u4e8e\u8d50\u798f[\u7a7f\u6797\u5927\u6865]\u9644\u8fd1\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u53562,500\u5362\u6069\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_21",
-    "text": "Beast Crest Heater Shield  Normal"
+    "text": "\u517d\u7eb9\u71a8\u6597\u5f62\u76fe \u5728\u8d50\u798f[\u5723\u4eba\u6865]\u4e1c\u90e8\u6cbf[\u98ce\u66b4\u5c71\u4e18]\u5f80\u897f\u4e00\u4e2a\u8425\u5730\u7684\u5b9d\u7bb1\u91cc\uff0c\u7531\u845b\u745e\u514b\u58eb\u5175\u548c\u4e00\u4e2a\u845b\u745e\u514b\u9a91\u58eb\u5b88\u536b\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_25",
-    "text": "Inverted Hawk Heater Shield  Normal"
+    "text": "\u9006\u9e70\u7eb9\u71a8\u6597\u5f62\u76fe [\u5e0c\u8299\u62c9\u6cb3]\u3002 \u8d50\u798f[\u5e0c\u8299\u62c9\u6cb3\uff08\u5cb8\u8fb9\uff09]\u4e1c\u5357\uff0c\u722c\u4e0a\u4e00\u5ea7\u5c0f\u5c71\uff0c\u7ecf\u8fc73\u4e2a\u654c\u4eba\u540e\u5728\u4e00\u5177\u5c38\u4f53\u4e0a\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_24",
-    "text": "Eclipse Crest Heater Shield  Normal"
+    "text": "\u65e5\u8680\u7eb9\u71a8\u6597\u5f62\u76fe \u8d50\u798f[\u7075\u5e99\u539f\u91ce\u5730\u4e0b\u5893\u5730]\u897f\u5357\u60ac\u5d16\u8fb9\u7684\u4e00\u4e2a\u77f3\u53f0\u4e0a\u3002\u53ef\u4ee5\u901a\u8fc7\u4ece[\u7075\u5e99\u539f\u91ce\u5730\u4e0b\u5893\u5730]\u4e0a\u65b9\u7684\u533a\u57df\u4e0b\u843d\u62b5\u8fbe\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_1",
-    "text": "Kite Shield  Normal"
+    "text": "\u9e22\u5f62\u76fe [\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u53561,000\u5362\u6069\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_11",
-    "text": "Blue-gold Kite Shield  Normal"
+    "text": "\u84dd\u91d1\u9e22\u5f62\u76fe [\u5b81\u59c6\u683c\u798f]\u4e1c\u8fb9\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u53561,000\u5362\u6069\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_9",
-    "text": "Scorpion Kite Shield  Normal"
+    "text": "\u874e\u7eb9\u9e22\u5f62\u76fe [\u4e9a\u575b\u9ad8\u539f]\u8d50\u798f[\u7a7f\u6797\u5927\u6865]\u5904\u7684\u5546\u4eba\u51fa\u552e\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_10",
-    "text": "Twinbird Kite Shield  Normal"
+    "text": "\u53cc\u9e1f\u9e22\u5f62\u76fe [\u9041\u4e16\u5546\u4eba\u7684\u7834\u5c4b]\u4e1c\u9762\u665a\u4e0a\u51fa\u73b0\u7684[\u6b7b\u4e4b\u9e1f]\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_12",
-    "text": "Brass Shield  Normal"
+    "text": "\u9ec4\u94dc\u76fe \u62ff\u7740\u5b83\u7684\u845b\u745e\u514b\u58eb\u5175\u6389\u843d\u3002(231\u6b21\u51fb\u6740\uff0c2\u6b21\u6389\u843d\u3002\u6389\u843d\u7387\u7ea60.8%)\u3002\u4e00\u4e2a\u65e9\u671f\u51fa\u73b0\u7684\u4f4d\u7f6e\u662f[\u5b81\u59c6\u683c\u798f]\u8d50\u798f[\u5173\u5361\u524d\u65b9]\u897f\u8fb9\uff0c\u5c31\u5728[\u98ce\u66b4\u5173\u5361]\u524d\u3002 \u4ece\u8d50\u798f\u9762\u5bf9\u4e1c\u5357\u4f1a\u6709\u56db\u4e2a\u845b\u745e\u514b\u58eb\u5175\u5728[\u5173\u5361\u524d\u5e9f\u589f]\u533a\u57df\u3002\u6709\u4e24\u4e2a\u5728\u8def\u53f3\u8fb9\u7684\u4e00\u4e2a\u5c0f\u56f4\u680f\u91cc\uff0c\u4e00\u4e2a\u62ff\u7740\u5587\u53ed\u5728\u8def\u4e0a\uff0c\u6700\u540e\u4e00\u4e2a\u5750\u5728\u9644\u8fd1\u7684\u706b\u65c1\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_4",
-    "text": "Banished Knight's Shield  Normal"
+    "text": "\u5931\u4e61\u9a91\u58eb\u76fe \u62ff\u7740\u5b83\u7684\u5931\u4e61\u9a91\u58eb\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_5",
-    "text": "Albinauric Shield  Normal"
+    "text": "\u767d\u91d1\u76fe \u4f7f\u7528\u6b64\u76fe\u724c\u7684\u767d\u91d1\u4e4b\u5b50\u6389\u843d\u3002\u6709\u4e09\u4e2a\u5728\u8d50\u798f[\u5b66\u9662\u95e8\u524d\u9547]\u897f\u5317\u7684\u6559\u5802\u533a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_14",
-    "text": "Beastman's Jar-shield  Normal"
+    "text": "\u517d\u4eba\u58f6\u76fe \u5728[\u9010\u6e10\u5d29\u6bc1\u7684\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9]\u8d50\u798f[\u6e10\u6bc1\u91ce\u517d\u5893\uff08\u6df1\u5904\uff09]\u65c1\u8fb9\u7684\u623f\u95f4\u91cc\u53ef\u4ee5\u627e\u5230\u4e00\u4e2a\u5e26\u8fd9\u4e2a\u76fe\u724c\u7684\u517d\u4eba\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_15",
-    "text": "Carian Knight's Shield  Normal"
+    "text": "\u5361\u5229\u4e9a\u9a91\u58eb\u76fe [\u9b54\u6cd5\u5b66\u9662\u96f7\u4e9a\u5362\u5361\u5229\u4e9a]\u51fb\u8d25[\u201c\u5361\u5229\u4e9a\u9a91\u58eb\u201d\u7a46\u683c\u62c9\u59c6]\u540e\u83b7\u5f97\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_33_7",
-    "text": "Silver Mirrorshield  Somber"
+    "text": "\u767d\u94f6\u76fe \u53d1\u73b0\u4e8e[\u5316\u5723\u96ea\u539f]\u5317\u90e8\u5730\u533a[\u79bb\u6559\u5e9f\u5c4b]\u6bc1\u574f\u7684\u6559\u4f1a\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_33_13",
-    "text": "Great Turtle Shell  Somber"
+    "text": "\u5927\u4e4c\u9f9f\u58f3 [\u555c\u6ce3\u534a\u5c9b]: \u4ece\u8d50\u798f[\u6469\u6069\u57ce\uff08\u57ce\u5899\u524d\u65b9\uff09]\u51fa\u53d1\u5411\u4e1c\u5bfb\u627e\u9f99\u5377\u98ce\u5e76\u4f7f\u7528\u5b83\u5f80\u5c4b\u9876\u8df3\uff0c\u8fd9\u662f\u57ce\u5899\u7684\u4e00\u90e8\u5206\u3002\u76fe\u724c\u53ef\u4ee5\u5728\u5854\u9876\u7684\u5c38\u4f53\u4e0a\u627e\u5230\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_34_24",
-    "text": "Wooden Greatshield  Normal"
+    "text": "\u6728\u5236\u5927\u76fe [\u53f2\u4e1c\u8587\u5c14\u57ce]: \u5728\u91cd\u5175\u628a\u5b88\u7684\u9662\u843d\u91cc\u4ece\u4e00\u5177\u5c38\u4f53\u4e0a\u62a2\u6765\u7684\u3002\u6700\u8fd1\u7684\u8d50\u798f\u70b9\u662f\u8d50\u798f[\u5347\u964d\u673a\u65c1\u623f\u95f4]\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_25",
-    "text": "Lordsworn's Shield  Normal"
+    "text": "\u541b\u738b\u519b\u5927\u76fe [\u5173\u5361\u524d\u5e9f\u589f]\u5e26\u7740\u5b83\u7684\u845b\u745e\u514b\u58eb\u5175\u6389\u843d. \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_5",
-    "text": "Briar Greatshield  Normal"
+    "text": "\u94c1\u68d8\u5927\u76fe [\u65e5\u836b\u57ce]\u7684[\u201c\u94c1\u68d8\u201d\u827e\u9686\u6885\u5c14]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_13",
-    "text": "Spiked Palisade Shield  Normal"
+    "text": "\u9489\u5899\u76fe \u5728[\u76d6\u5229\u5fb7][\u5e0c\u8299\u62c9\u6cb3\u7684\u51fa\u53e3\u4e95]\u897f\u8fb9\u4e00\u4e2a\u9b54\u50cf\u4e0b\u7684\u5c38\u4f53\u4e0a\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_10",
-    "text": "Icon Shield  Normal"
+    "text": "\u795e\u5723\u7ed8\u753b\u76fe \u5728[\u68ee\u6797\u4e4b\u6c11\u7684\u5e9f\u589f]\u4e00\u4e2a\u6447\u6447\u6b32\u5760\u7684\u5efa\u7b51\u91cc\u53d1\u73b0\u3002\u5c0f\u5fc3\u91cc\u9762\u7684\u654c\u4eba\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_7",
-    "text": "Golden Beast Crest Shield  Normal"
+    "text": "\u517d\u7eb9\u9ec4\u91d1\u76fe [\u5019\u738b\u793c\u62dc\u5802]\u7684[\u201c\u63a5\u80a2\u201d\u8d35\u65cf\u540e\u88d4]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5]\u6ce8: \u73a9\u5bb6\u53ef\u4ee5\u5728\u6e38\u620f\u540e\u671f\u56de\u5230[\u5019\u738b\u793c\u62dc\u5802]\uff0c\u4ecd\u7136\u53ef\u4ee5\u83b7\u5f97[\u517d\u7eb9\u9ec4\u91d1\u76fe]\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_14",
-    "text": "Manor Towershield  Normal"
+    "text": "\u57ce\u5be8\u5854\u76fe [\u53f2\u4e1c\u8587\u5c14\u57ce]: \u4ece\u8d50\u798f[\u6df1\u5904\u5c0f\u623f\u95f4]\u5f80\u897f\u4e0a\u5761\uff0c\u5728\u6d3b\u58f6\u90a3\u91cc\u8f6c\u5411\u6728\u8d28\u5e73\u53f0\u3002\u5728\u5e73\u53f0\u7684\u5c3d\u5934\uff0c\u8df3\u5230\u5899\u4e0a\u7684\u7a97\u53f0\u4e0a\uff0c\u6cbf\u7740\u5b83\u5411\u53f3\u7a7f\u8fc7\u4e00\u4e9b\u62f1\u95e8\u8fdb\u5165\u53f3\u8fb9\u7684\u50a8\u85cf\u5ba4\uff0c\u6cbf\u7740\u697c\u68af\u8d70\u4e0a\u4e0a\u9762\u7684\u8d70\u9053\uff0c\u8f6c\u5de6\u8d70\u5411\u4e00\u4e2a\u66f4\u5927\u7684\u5b58\u50a8\u5ba4\u90fd\u662f\u5e73\u6c11\u3002\u4f60\u53ef\u4ee5\u5728\u8fd9\u4e2a\u623f\u95f4\u7684\u7b2c\u4e8c\u9053\u697c\u68af\u4e0b\u9762\u627e\u5230\u76fe\u724c\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_15",
-    "text": "Crossed-tree Towershield  Normal"
+    "text": "\u4ea4\u9519\u6811\u5854\u76fe [\u4e9a\u575b\u9ad8\u539f]\u897f\u90e8\u7684[\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba]\u53563,800\u5362\u6069\u3002[\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_16",
-    "text": "Inverted Hawk Towershield  Normal"
+    "text": "\u9006\u9e70\u5854\u76fe \u8d50\u798f[\u201c\u6c38\u6052\u4e4b\u57ce\u201d\u8bfa\u514b\u9686\u6069]\u5916\u9762\u6e38\u8361\u7684\u5815\u843d\u9e70\u58eb\u5175\u6389\u843d\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_1",
-    "text": "Dragon Towershield  Normal"
+    "text": "\u9f99\u5854\u76fe \u4ece[\u9010\u6e10\u5d29\u6bc1\u7684\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9]\u8d50\u798f[\u9f99\u6559\u5802\uff08\u5c4b\u9876\uff09]\u4e0b\u697c\u68af\uff0c\u987a\u7740\u68af\u5b50\u5f80\u5357\u8d70\u3002\u76f4\u5230\u5230\u8fbe\u96f7\u9f99\u6240\u5728\u7684\u5f00\u9614\u533a\u57df\uff0c\u4e1c\u5357\u65b9\u662f\u4e00\u4e2a\u5c0f\u51c9\u4ead\uff0c\u51c9\u4ead\u7684\u5317\u9762\u662f\u4e0b\u843d\u540e\u4e00\u76f4\u5f80\u4e1c\u5317\u65b9\u5411\u8d70\uff0c\u76f4\u5230\u4f60\u5230\u8fbe\u4e00\u5ea7\u5efa\u7b51\u3002\u7a7f\u8fc7\u5927\u697c\uff0c\u722c\u4e0a\u5916\u9762\u7684\u68af\u5b50\u3002\u5728\u8fd9\u4e2a\u533a\u57df\u7684\u4e1c\u8fb9\u7f18\u6709\u4e00\u4e2a\u88c5\u6709[\u9f99\u5854\u76fe]\u7684\u5b9d\u7bb1\uff0c\u7531\u4e00\u4e2a\u5931\u4e61\u9a91\u58eb\u5b88\u536b\u3002 [\u5730\u56fe\u94fe\u63a5] \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_2",
-    "text": "Distinguished Greatshield  Normal"
+    "text": "\u540d\u95e8\u5927\u76fe [\u9041\u4e16\u5546\u4eba\u7684\u7834\u5c4b]\u7684[\u9041\u4e16\u5546\u4eba]\u53565,500\u5362\u6069. \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_22",
-    "text": "Gilded Greatshield  Normal"
+    "text": "\u91d1\u9ec4\u5927\u76fe \u5e26\u7740\u5b83\u7684\u845b\u745e\u514b\u9a91\u58eb\u6389\u843d\u3002\u5728[\u5173\u5361\u524d\u5e9f\u589f]\u6709\u4e00\u4e2a\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_20",
-    "text": "Cuckoo Greatshield  Normal"
+    "text": "\u675c\u9e43\u5927\u76fe \u6709\u673a\u4f1a\u4ece\u4efb\u4f55\u4f7f\u7528\u5927\u76fe\u7684\u675c\u9e43\u9a91\u58eb\u8eab\u4e0a\u6389\u843d: \u5982\u679c\u4ece[\u5f7c\u9c81\u59c6\u6559\u5802]\u53cd\u8dd1\uff0c\u4f60\u53ef\u4ee5\u653b\u51fb\u5750\u5728\u8fd9\u91cc\u7684\u5e03\u8c37\u9e1f\u9a91\u58eb\u800c\u4e0d\u60ca\u52a8\u5176\u4ed6\u654c\u4eba\u3002\u6740\u6b7b\u675c\u9e43\u9a91\u58eb\u540e\u4f60\u548c\u5176\u4ed6\u654c\u4eba\u4e4b\u95f4\u5e94\u8be5\u6709\u8db3\u591f\u7684\u8ddd\u79bb\u6765\u8131\u79bb\u6218\u6597\u3002\u5982\u679c\u4f60\u4ece\u8d50\u798f[\u96f7\u4e9a\u5362\u5361\u5229\u4e9a\uff08\u4e1c\u95e8\uff09]\u51fa\u53d1\u9009\u62e9\u4e00\u8def\u6740\u5230\u675c\u9e43\u9a91\u58eb\u9762\u524d\uff0c\u4f60\u5fc5\u987b\u6740\u6b7b\u6240\u6709\u5468\u56f4\u7684\u654c\u4eba\u6216\u4f7f\u7528[\u8d50\u798f\u8bb0\u5fc6]\u624d\u80fd\u4f20\u9001\u56de\u5230\u8d50\u798f\u70b9\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_18",
-    "text": "Redmane Greatshield  Normal"
+    "text": "\u7ea2\u72ee\u5b50\u5927\u76fe [\u76d6\u5229\u5fb7]\u7ea2\u72ee\u5b50\u9a91\u58eb\u6389\u843d\u3002\u4e00\u4e2a\u53ef\u4ee5\u5728\u8d50\u798f[\u4e0d\u7834\u5927\u6865]\u4ee5\u897f\u627e\u5230\u3002\u6cbf\u7740\u9644\u8fd1\u7684\u60ac\u5d16\u8fb9\u7f18\u7ecf\u8fc7\u5251\u7891\uff0c\u4e0b\u843d\u5230\u5c0f\u5e73\u53f0\uff0c\u7136\u540e\u7ee7\u7eed\u5411\u897f\u671d[\u76d6\u5229\u5fb7\u5730\u4e0b\u5893\u5730]\u8d70\u4e00\u5c0f\u6bb5\u8ddd\u79bb\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_21",
-    "text": "Golden Greatshield  Normal"
+    "text": "\u9ec4\u91d1\u5927\u76fe \u5e26\u7740\u5b83\u7684\u8fd1\u6218\u7f57\u5fb7\u5c14\u9a91\u58eb\u6389\u843d(\u5728\u8fd1\u6218\u4e2d\u4f7f\u7528\u76fe\u724c\u7684\u5f13\u7bad\u9a91\u58eb\u4e0d\u4f1a\u6389\u843d\u76fe\u724c)\uff0c\u5927\u90e8\u5206\u90fd\u80fd\u5728[\u738b\u57ce\u7f57\u5fb7\u5c14]\u533a\u57df\u627e\u5230\u3002 \u5728[\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a][\u753b\u5bb6\u7684\u7834\u5c4b]\u5357\u90e8\u53ef\u4ee5\u627e\u5230\u4e00\u4e2a\uff0c\u8fd9\u662f\u8fd9\u4e2a\u654c\u4eba\u6700\u65e9\u51fa\u73b0\u7684\u4f4d\u7f6e\uff0c\u4f46\u6389\u7387\u4f3c\u4e4e\u76f8\u5bf9\u6bd4\u8f83\u4f4e\u4e00\u70b9\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_23",
-    "text": "Haligtree Crest Greatshield  Normal"
+    "text": "\u5723\u6811\u7eb9\u5927\u76fe \u6325\u821e\u7740\u5de8\u5251\u548c\u76fe\u724c\u7684\u5723\u6811\u9a91\u58eb\u51e0\u7387\u6389\u843d\u3002\u8fd9\u4e9b\u9a91\u58eb\u53ea\u80fd\u5728[\u201c\u5723\u6811\u5206\u679d\u201d\u827e\u5e03\u96f7\u83f2\u5c14]\u6559\u5802\u65c1\u8fb9\u7684\u5893\u5730\u5e95\u90e8\u627e\u5230\u3002\u4f7f\u7528\u957f\u77db\u6216\u5de8\u5f13\u7684\u9a91\u58eb\u4e0d\u4f1a\u6389\u843d(\u5373\u4f7f\u4ed6\u4eec\u53ef\u4ee5\u5207\u6362\u4e3a\u5de8\u5251)\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_3",
-    "text": "Crucible Hornshield  Somber"
+    "text": "\u7194\u7089\u89d2\u76fe [\u5e0c\u8299\u62c9\u5bfc\u6c34\u6865]\u5728\u6865\u4e0a\u5de1\u903b\u7684\u8f83\u5c0f\u7684[\u7194\u7089\u9a91\u58eb]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5]\u5728\u8d50\u798f[\u57ce\u5899\u5854]\u65c1\u8f83\u5c0f\u7684[\u7194\u7089\u9a91\u58eb]\u4e5f\u53ef\u80fd\u6389\u843d\u3002\u5411\u9e1f\u7684\u65b9\u5411\u8d70\uff0c\u7136\u540e\u4ece\u67f1\u5b50\u4e0a\u8df3\u5230\u5ca9\u77f3\u4e0a\u3002\u9a91\u58eb\u5728\u60ac\u5d16\u5e95\u4e0b\u3002 \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_34_4",
-    "text": "Dragonclaw Shield  Somber"
+    "text": "\u9f99\u722a\u76fe [\u738b\u57ce\u5916\u56f4]\u7684[\u9f99\u88c5\u5927\u6811\u5b88\u536b]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_34_9",
-    "text": "Fingerprint Stone Shield  Normal"
+    "text": "\u6307\u7eb9\u77f3\u76fe \u51fb\u8d25[\u5f03\u7f6e\u6076\u5146\u7684\u5927\u6559\u5802]\u7684[\u201c\u9c9c\u8840\u541b\u738b\u201d\u8499\u683c]\u540e\uff0c\u4f60\u53ef\u4ee5\u6eda\u52a8/\u653b\u51fb\u5b9d\u7bb1\u540e\u9762\u7684\u796d\u575b\u8fdb\u5165\u9690\u85cf\u533a\u57df\u3002\u987a\u7740\u7ad6\u4e95\u5f80\u4e0b\u8d70\u5230\u4e00\u5b9a\u7684\u5730\u65b9\uff0c\u8fdb\u5165\u5d4c\u5165\u5899\u58c1\u7684\u533a\u57df\u83b7\u5f97\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_19",
-    "text": "Eclipse Crest Greatshield  Normal"
+    "text": "\u65e5\u8680\u7eb9\u5927\u76fe [\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a]\u5e26\u7740\u5b83\u7684\u7075\u5e99\u9a91\u58eb\u51e0\u7387\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5]\u6bd4\u524d\u9762\u66f4\u597d\u7684\u9009\u62e9\u662f\u51fb\u6740[\u9ed1\u5200\u5730\u4e0b\u5893\u5730]\u7684\u9a91\u58eb\u3002 \u666e\u901a"
   },
   {
     "id": "/checklists/weapons.html#item_34_17",
-    "text": "Ant's Skull Plate  Somber"
+    "text": "\u8682\u8681\u5934\u76fe \u53ef\u4ee5\u5728[\u201c\u6c38\u6052\u4e4b\u57ce\u201d\u8bfa\u514b\u53f2\u9edb\u62c9]\u7684\u4e00\u4e2a\u5c0f\u623f\u95f4\u91cc\u53d1\u73b0\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_34_6",
-    "text": "Erdtree Greatshield  Somber"
+    "text": "\u9ec4\u91d1\u6811\u5927\u76fe \u51fb\u6740[\u4e9a\u575b\u9ad8\u539f]\u5b88\u536b\u7740\u8d50\u798f[\u57ce\u5916\u5e7b\u5f71\u6811]\u5916\u5927\u95e8\u7684\u53cc[\u5927\u6811\u5b88\u536b]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_34_8",
-    "text": "Jellyfish Shield  Somber"
+    "text": "\u6c34\u6bcd\u76fe \u4f4d\u4e8e\u8d50\u798f[\u56db\u949f\u697c\u5c71\u811a]\u6b63\u5317\u7684\u4e00\u8f86\u7834\u9a6c\u8f66\u4e0a\uff0c\u65c1\u8fb9\u662f\u4e00\u5177\u5c38\u4f53\uff0c\u5468\u56f4\u6709\u56db\u53ea\u7075\u9b42\u6c34\u6bcd\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_34_12",
-    "text": "Visage Shield  Somber"
+    "text": "\u989c\u9762\u76fe [\u5947\u5217\u59c6\u5e9f\u589f]: \u5728\u5e9f\u589f\u4e1c\u90e8\u7684\u4e00\u4e2a\u5730\u4e0b\u533a\u57df\u7684\u5b9d\u7bb1\u4e2d\u3002\u9700\u8981\u51fb\u8d25\u5b88\u536b\u5b9d\u7bb1\u623f\u95f4\u7684[\u53d1\u72c2\u5357\u74dc\u5934\u58eb\u5175]\u53cc\u4eba\u7ec4\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/weapons.html#item_34_11",
-    "text": "One-eyed Shield  Somber"
+    "text": "\u72ec\u773c\u76fe [\u5de8\u4eba\u5c71\u9876][\u76d1\u89c6\u8005\u8981\u585e]\u5185\u90e8\u7684[\u201c\u76d1\u89c6\u8005\u4e4b\u9996\u201d\u4e9a\u5188\u63d0]\u6389\u843d\u3002[\u5730\u56fe\u94fe\u63a5] \u5931\u8272"
   },
   {
     "id": "/checklists/armor.html#item_0",
