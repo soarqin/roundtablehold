@@ -76,7 +76,7 @@ def make_doc(title, description):
     doc.set_attribute('lang', 'en')
     with doc.head:
         # setting html static resource base location
-        base(href="http://gh-pages.shuang-se.fun/roundtablehold/")
+        base(href="https://roundtablehold.soar.im/")
         meta(charset="UTF-8")
         meta(name="viewport", content="width=device-width, initial-scale=1.0")
         link(rel="apple-touch-icon", sizes="180x180", href="img/apple-touch-icon.png")
