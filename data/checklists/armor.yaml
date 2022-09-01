@@ -2,2477 +2,3477 @@ title: 防具
 id: armor
 table_widths:
 - 3
-- 6
-- 3
+- 9
 sections:
-- title: 旅行套装 (无头盔)
+- title: 旅行套装 (无头部)
   link: https://eldenring.wiki.fextralife.com/Traveler's+Set
   items:
   - id: '0'
     icon: /img/icons/armor/14761.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Traveler's+Clothes"><b>[旅行上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Traveler's+Clothes"><b>旅行上衣</b></a>
+    - '<b>赐福[圣树底层]</b>: 在地下深处橙色大花的侧边房间里，可以找到整套装备。这个区域可以从东北部的大型建筑乘坐电梯进入。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5365&lat=-36.798438&lng=149.268446&zoom=8&code=mapA">[地图链接]</a>'
   - id: '1'
     icon: /img/icons/armor/14762.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Traveler's+Manchettes"><b>[旅行腕套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Traveler's+Manchettes"><b>旅行腕套</b></a>
+    - ''
   - id: '2'
     icon: /img/icons/armor/14763.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Traveler's+Boots"><b>[旅行靴子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Traveler's+Boots"><b>旅行靴子</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 居民套装
   link: https://eldenring.wiki.fextralife.com/Commoner's+Set
   items:
   - id: '3'
     icon: /img/icons/armor/14260.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Commoner's+Headband"><b>[居民头巾]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Commoner's+Headband"><b>居民头巾</b></a>
+    - 在<b>[格密尔火山]</b>一具尸体上发现的。到达<b>赐福[艾格蕾教堂]</b>后，搭乘电梯从外阳台跳下，进入下方区域。沿着路径经过<b>[掳人少女人偶]</b>进入官邸的窗口。继续走，直到你走在一条可以俯瞰湖的走道上，熔岩湖右侧有蛇雕像。第二尊雕像头上的一具尸体上就是。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=6861&lat=-88.11&lng=64.93&zoom=8&code=mapA">[地图链接]</a>
   - id: '4'
     icon: /img/icons/armor/14270.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Commoner's+Headband+(Altered)"><b>[居民头巾（轻装）]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Commoner's+Headband+(Altered)"><b>居民头巾（轻装）</b></a>
+    - <b>[居民上衣]</b>和<b>[居民鞋子]</b>有几率从居民类敌人身上掉落。他们很容易在<b>[史东薇尔城]</b>和<b>[王城罗德尔]</b>，以及游戏的其他区域找到。穿着对应部位护甲的敌人也掉落<b>[居民便衣]</b>和<b>[居民头巾（轻装）]</b>。
   - id: '5'
     icon: /img/icons/armor/14261.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Commoner's+Garb"><b>[居民上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Commoner's+Garb"><b>居民上衣</b></a>
+    - ''
   - id: '7'
     icon: /img/icons/armor/14281.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Commoner's+Simple+Garb"><b>[居民便衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Commoner's+Simple+Garb"><b>居民便衣</b></a>
+    - ''
   - id: '9'
     icon: /img/icons/armor/14263.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Commoner's+Shoes"><b>[居民鞋子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Commoner's+Shoes"><b>居民鞋子</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 权贵套装
   link: https://eldenring.wiki.fextralife.com/Aristocrat+Set
   items:
   - id: '10'
     icon: /img/icons/armor/13540.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Aristocrat+Headband"><b>[权贵头带]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Aristocrat+Headband"><b>权贵头带</b></a>
+    - 在大部分地区的道路上游荡的贵族群中的贵族巫师掉落。在<b>赐福[通往城寨的道路]</b>附近的<b>[王室领地废墟]</b>有3个一组的可以刷。从<b>[铁匠伊吉]</b>的工作台转身，他们就在曾经是一堵幻影墙的大门之外。另一个地点是<b>赐福[亚基尔湖南方]</b>北边道路上山妖拉着的大车。<b>[权贵头带]</b>比胸甲和腿甲掉率低得多。
   - id: '11'
     icon: /img/icons/armor/13560.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Aristocrat+Hat"><b>[权贵帽子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Aristocrat+Hat"><b>权贵帽子</b></a>
+    - ''
   - id: '12'
     icon: /img/icons/armor/13541.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Aristocrat+Garb"><b>[权贵上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Aristocrat+Garb"><b>权贵上衣</b></a>
+    - ''
   - id: '13'
     icon: /img/icons/armor/13551.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Aristocrat+Garb+(Altered)"><b>[权贵上衣（轻装）]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Aristocrat+Garb+(Altered)"><b>权贵上衣（轻装）</b></a>
+    - ''
   - id: '14'
     icon: /img/icons/armor/13561.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Aristocrat+Coat"><b>[权贵大衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Aristocrat+Coat"><b>权贵大衣</b></a>
+    - ''
   - id: '15'
     icon: /img/icons/armor/13543.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Aristocrat+Boots"><b>[权贵靴子]</b></a>
-- title: 年迈权贵套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Aristocrat+Boots"><b>权贵靴子</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 年迈权贵套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Old+Aristocrat+Set
   items:
   - id: '16'
     icon: /img/icons/armor/13570.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Old+Aristocrat+Cowl"><b>[年迈权贵头巾]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Old+Aristocrat+Cowl"><b>年迈权贵头巾</b></a>
+    - <b>[年迈权贵套装]</b>的所有物品都是由年迈权贵类敌人掉落的，通常是在游荡在大部分地区道路上的大群流浪贵族中发现。高举的旗帜使他们很容易与其他流浪贵族区分开来。有两个在<b>赐福[驿站街遗迹的地下室]</b>西边山妖拉车队伍里。<b>[亚坛高原]</b>
+      - 在<b>[金面具]</b>所在桥的左边。
   - id: '17'
     icon: /img/icons/armor/13571.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Old+Aristocrat+Gown"><b>[年迈权贵长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Old+Aristocrat+Gown"><b>年迈权贵长袍</b></a>
+    - ''
   - id: '18'
     icon: /img/icons/armor/13573.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Old+Aristocrat+Shoes"><b>[年迈权贵短靴]</b></a>
-- title: 随从套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Old+Aristocrat+Shoes"><b>年迈权贵短靴</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 随从套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Page+Set
   items:
   - id: '19'
     icon: /img/icons/armor/13260.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Page+Hood"><b>[随从风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Page+Hood"><b>随从风帽</b></a>
+    - 随从类敌人掉落。常见地点:<br>1. 在<b>[卡利亚城寨]</b>的<b>赐福[王室赏月地]</b>后面很容易找到三个。<br>2. 分散在<b>[王城罗德尔]</b><br>3.
+      <b>[灵庙原野的废墟]</b>地下<br>4. <b>[格密尔英雄墓地]</b>
   - id: '20'
     icon: /img/icons/armor/13261.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Page+Garb"><b>[随从上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Page+Garb"><b>随从上衣</b></a>
+    - ''
   - id: '22'
     icon: /img/icons/armor/13263.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Page+Trousers"><b>[随从长裤]</b></a>
-- title: 上流随从套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Page+Trousers"><b>随从长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 上流随从套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/High+Page+Set
   items:
   - id: '23'
     icon: /img/icons/armor/15390.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/High+Page+Hood"><b>[上流随从风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/High+Page+Hood"><b>上流随从风帽</b></a>
+    - <b>[上流随从风帽]</b>和<b>[上流随从上衣]</b>由上流随从掉落。最早可以发现的是在<b>[魔法学院雷亚卢卡利亚]</b>学院。从<b>赐福[杜鹃教堂]</b>进入教堂，走捷径梯子上去。房间的另一边是一条长长的走廊，走廊尽头有一个。它们也可以在<b>[王城罗德尔]</b>各建筑中找到。但是在<b>[王城罗德尔]</b>变成<b>[灰城罗德尔]</b>之后它们不再出现<br>
+      随从和上流随从都掉落<b>[随从长裤]</b>
   - id: '24'
     icon: /img/icons/armor/15391.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/High+Page+Clothes"><b>[上流随从上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/High+Page+Clothes"><b>上流随从上衣</b></a>
+    - ''
   - id: '26'
     icon: /img/icons/armor/13263.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Page+Trousers"><b>[随从长裤]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Page+Trousers"><b>随从长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 守卫套装
   link: https://eldenring.wiki.fextralife.com/Guardian+Set
   items:
   - id: '27'
     icon: /img/icons/armor/13460.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Guardian+Mask"><b>[守卫面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Guardian+Mask"><b>守卫面具</b></a>
+    - 套装可以通过小黄金树附近的小黄金树守卫掉落。<br>从<b>赐福[龙墓的岔路]</b>出发找到一个守卫密集的区域，然后向<b>[小黄金树]</b>前进。守卫会以小组形式出现，并且会有更多的守卫从地面上冒出来。<br><b>[啜泣半岛]</b>小黄金树的守卫也可能掉落。<br><b>[守卫上衣]</b>的另一种形态<b>[守卫上衣（开花）]</b>可以从会发芽开花的守卫掉落。例如在<b>[黄金树大教堂]</b>外的那些。这个形态的套装提供了更好的防御，提高了<b>[红露滴圣杯瓶]</b>的HP恢复效果，但代价是大大降低了火焰抗性。
   - id: '28'
     icon: /img/icons/armor/13471.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Guardian+Garb"><b>[守卫上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Guardian+Garb"><b>守卫上衣</b></a>
+    - ''
   - id: '29'
     icon: /img/icons/armor/13461.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Guardian+Garb+(Full+Bloom)"><b>[守卫上衣（开花）]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Guardian+Garb+(Full+Bloom)"><b>守卫上衣（开花）</b></a>
+    - ''
   - id: '30'
     icon: /img/icons/armor/13462.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Guardian+Bracers"><b>[守卫臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Guardian+Bracers"><b>守卫臂甲</b></a>
+    - ''
   - id: '31'
     icon: /img/icons/armor/13463.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Guardian+Greaves"><b>[守卫腿甲]</b></a>
-- title: 庆典套装 (无腕甲腿甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Guardian+Greaves"><b>守卫腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 庆典套装 (无腕部和腿部)
   link: https://eldenring.wiki.fextralife.com/Festive+Set
   items:
   - id: '32'
     icon: /img/icons/armor/14230.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Festive+Hood"><b>[庆典风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Festive+Hood"><b>庆典风帽</b></a>
+    - 在<b>[风车村多明努拉]</b>由庆典舞者掉落的。常规的套装是由那些穿着黄色帽子和衣服的人掉落的。穿着蓝色服装的有机会掉落蓝色庆典套装。
   - id: '34'
     icon: /img/icons/armor/14231.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Festive+Garb"><b>[庆典礼服]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Festive+Garb"><b>庆典礼服</b></a>
+    - ''
   - id: '35'
     icon: /img/icons/armor/14241.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Festive+Garb+(Altered)"><b>[庆典礼服（简化）]</b></a>
-- title: 庆典蓝套装 (无腕甲腿甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Festive+Garb+(Altered)"><b>庆典礼服（简化）</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 庆典蓝套装 (无腕部和腿部)
   link: https://eldenring.wiki.fextralife.com/Blue+Festive+Set
   items:
   - id: '36'
     icon: /img/icons/armor/14250.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blue+Festive+Hood"><b>[庆典蓝风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blue+Festive+Hood"><b>庆典蓝风帽</b></a>
+    - 在<b>[风车村多明努拉]</b>穿着蓝色的庆典舞者掉落的。常规套装是由那些穿着黄色帽子和衣服的人掉落的。
   - id: '37'
     icon: /img/icons/armor/14251.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blue+Festive+Garb"><b>[庆典蓝礼服]</b></a>
-- title: 罪人套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Blue+Festive+Garb"><b>庆典蓝礼服</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 罪人套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Guilty+Set
   items:
   - id: '38'
     icon: /img/icons/armor/13160.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Guilty+Hood"><b>[罪人风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Guilty+Hood"><b>罪人风帽</b></a>
+    - <b>[布质上衣]</b><a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1229&lat=-185.453125&lng=108.815045&zoom=8&code=mapA">[地图链接]</a>和<b>[布质长裤]</b><a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1230&lat=-187.276563&lng=108.784055&zoom=8&code=mapA">[地图链接]</a>可以在<b>[蒙流洞窟]</b>中找到。他们在<b>[帕奇]</b>房间的宝箱里，触发他的Boss击杀他或者投降推进任务线后再打开宝箱。<b>[罪人风帽]</b>可以从<b>[格密尔火山]</b>中的<b>[流浪民族的商人]</b>500卢恩购买。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1332&lat=-80.8125&lng=70.236035&zoom=8">[地图链接]</a>
+      <b>[罪人风帽]</b>也可以在皇家首都<b>赐福[大道旁露台]</b>以北下水道的尸体上发现。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3839&lat=-100.5625&lng=115.871142&zoom=8&code=mapA">[地图链接]</a>
   - id: '39'
     icon: /img/icons/armor/13161.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Cloth+Garb"><b>[布质上衣]</b></a>
-      (和套装其他部分排序不同，游戏中排在胸甲第一个)
+    - <a href="https://eldenring.wiki.fextralife.com/Cloth+Garb"><b>布质上衣</b></a> (未按套装顺序排列，出现在胸甲的第一格)
+    - ''
   - id: '40'
     icon: /img/icons/armor/13163.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Cloth+Trousers"><b>[布质长裤]</b></a>
-      (和套装其他部分排序不同，游戏中排在腿甲第一个)
-- title: 囚犯套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Cloth+Trousers"><b>布质长裤</b></a>
+      (未按套装顺序排列，出现在腿甲的第一格)
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 囚犯套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Prisoner+Set
   items:
   - id: '41'
     icon: /img/icons/armor/14440.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Prisoner+Iron+Mask"><b>[囚犯铁面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Prisoner+Iron+Mask"><b>囚犯铁面具</b></a>
+    - 囚犯职业初始自带。可以从<b>[安瑟尔河]</b>的<b>[流浪民族的商人]</b>3,500卢恩购买。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1364&lat=-127.6875&lng=67.278441&zoom=8&code=mapB">[地图链接]</a>
   - id: '42'
     icon: /img/icons/armor/14441.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Prisoner+Clothing"><b>[囚犯布衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Prisoner+Clothing"><b>囚犯布衣</b></a>
+    - ''
   - id: '43'
     icon: /img/icons/armor/14443.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Prisoner+Trousers"><b>[囚犯长裤]</b></a>
-- title: 流氓铁面具 (只有头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Prisoner+Trousers"><b>囚犯长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 流氓铁面具 (仅头部)
   items:
   - id: '44'
     icon: /img/icons/armor/14450.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blackguard's+Iron+Mask"><b>[流氓铁面具]</b></a>
-- title: 渗血套装 (无腿甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Blackguard's+Iron+Mask"><b>流氓铁面具</b></a>
+    - 击杀<b>[流氓]</b>掉落<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8301&lat=-152.10&lng=68.19&zoom=8&code=mapA">[地图链接]</a><br>在<b>[流氓]</b>任务线的最后掉落。
+  table:
+  - 名称
+  - 位置
+- title: 渗血套装 (无腿部)
   link: https://eldenring.wiki.fextralife.com/Bloodsoaked+Set
   items:
   - id: '45'
     icon: /img/icons/armor/14620.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bloodsoaked+Mask"><b>[渗血面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bloodsoaked+Mask"><b>渗血面具</b></a>
+    - <b>[渗血面具]</b>和<b>[渗血腕套]</b>可以在<b>[弃置恶兆的地底]</b>地面捡到。从<b>赐福[地底大道旁]</b>出发进入主路，左转，穿过第一个预兆后在路右侧的地面上。
   - id: '46'
     icon: /img/icons/armor/14603.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Official's+Attire"><b>[官吏上衣]</b></a>
-      (和套装其他部分排序不同，游戏中排在胸甲第三区域)
+    - <a href="https://eldenring.wiki.fextralife.com/Official's+Attire"><b>官吏上衣</b></a>
+      (未按套装顺序排列，出现在胸甲第三区域)
+    - 在<b>[巨人山顶]</b>的尸体上。从<b>赐福[禁域]</b>上电梯，激活电梯后对折东南方向，电梯运行过程中看到一个可以跳进去的房间拾取<b>[使命短刀]</b>和<b>[官吏上衣]</b>
   - id: '47'
     icon: /img/icons/armor/14613.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bloodsoaked+Manchettes"><b>[渗血腕套]</b></a>
-- title: 黑头罩 (只有头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Bloodsoaked+Manchettes"><b>渗血腕套</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 黑头罩 (仅头部)
   items:
   - id: '48'
     icon: /img/icons/armor/15440.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Black+Dumpling"><b>[黑头罩]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Black+Dumpling"><b>黑头罩</b></a>
+    - <b>[火山官邸]</b>和<b>[王城罗德尔]</b>戴这个头盔的初代白金之子掉落。<br>(需要打开连接<b>[艾格蕾教堂]</b>和<b>[火山官邸]</b>的捷径门)从<b>赐福[火山官邸]</b>走过桌子，走向官邸入口。穿过左手边第一个门(捷径);
+      然后沿着走廊一直走到一个没有灯光的大房间。有5个敌人可以掉落它，虽然掉落率很低(<1%)。
+  table:
+  - 名称
+  - 位置
 - title: 蘑菇套装
   link: https://eldenring.wiki.fextralife.com/Mushroom+Set
   items:
   - id: '49'
     icon: /img/icons/armor/14940.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Mushroom+Head"><b>[蘑菇头部]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Mushroom+Head"><b>蘑菇头部</b></a>
+    - <b>[蘑菇王冠]</b>是在<b>[腐败湖]</b>东南角一具挂在废墟柱子上的尸体上发现的。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2993&lat=-136.80469&lng=64.1007&zoom=8&code=mapB">[地图链接]</a><br>其余部件是在<b>[沸滚河洞窟]</b>中发现，在一个洞穴中有巨大的毒花和多个蘑菇人。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3569&lat=-85.220312&lng=68.619916&zoom=8&code=mapA">[地图链接]</a>
   - id: '50'
     icon: /img/icons/armor/15430.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Mushroom+Crown"><b>[蘑菇王冠]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Mushroom+Crown"><b>蘑菇王冠</b></a>
+    - ''
   - id: '51'
     icon: /img/icons/armor/14941.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Mushroom+Body"><b>[蘑菇身体]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Mushroom+Body"><b>蘑菇身体</b></a>
+    - ''
   - id: '52'
     icon: /img/icons/armor/14942.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Mushroom+Arms"><b>[蘑菇腕部]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Mushroom+Arms"><b>蘑菇腕部</b></a>
+    - ''
   - id: '53'
     icon: /img/icons/armor/14943.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Mushroom+Legs"><b>[蘑菇腿部]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Mushroom+Legs"><b>蘑菇腿部</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 观星者套装
   link: https://eldenring.wiki.fextralife.com/Astrologer+Set
   items:
   - id: '54'
     icon: /img/icons/armor/13950.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Astrologer+Hood"><b>[观星者风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Astrologer+Hood"><b>观星者风帽</b></a>
+    - 观星者职业初始自带。可以从<b>[湖之利耶尼亚]</b>的<b>[流浪民族的商人]</b>4,500卢恩购买。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1367&lat=-166.823437&lng=77.24144&zoom=8&code=mapA">[地图链接]</a>
   - id: '55'
     icon: /img/icons/armor/13951.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Astrologer+Robe"><b>[观星者长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Astrologer+Robe"><b>观星者长袍</b></a>
+    - ''
   - id: '57'
     icon: /img/icons/armor/13952.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Astrologer+Gloves"><b>[观星者手套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Astrologer+Gloves"><b>观星者手套</b></a>
+    - ''
   - id: '58'
     icon: /img/icons/armor/13953.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Astrologer+Trousers"><b>[观星者长裤]</b></a>
-- title: 年幼学徒套装 (无腕甲腿甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Astrologer+Trousers"><b>观星者长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 年幼学徒套装 (无腕部和腿部)
   link: https://eldenring.wiki.fextralife.com/Juvenile+Scholar+Set
   items:
   - id: '59'
     icon: /img/icons/armor/14770.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Juvenile+Scholar+Cap"><b>[年幼学徒帽子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Juvenile+Scholar+Cap"><b>年幼学徒帽子</b></a>
+    - 在<b>[湖之利耶尼亚]</b>东部先获得<b>[绘画《再世》]</b>。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=6734&lat=-140.914062&lng=79.059176&zoom=8&code=mapA">[地图链接]</a><br>有了这幅画，前往<b>[卡利亚城寨]</b>以东的墓地区域。这个位置只有在完成城寨并击败<b>[禁卫骑士罗蕾塔]</b>后才能进入。触摸一个坐在墓地椅子上的画家灵魂，<b>[年幼学徒帽子]</b><a
+      href="https://eldenring.wiki.fextralife.com/Interactive+map?id=1871&lat=-108.359375&lng=62.646036&zoom=8&code=mapA">[地图链接]</a>,<b>[年幼学徒长袍]</b><a
+      href="https://eldenring.wiki.fextralife.com/Interactive+map?id=1872&lat=-108.56875&lng=63.411507&zoom=8&code=mapA">[地图链接]</a>和<b>[泪滴幼体]</b>一起出现在地面上。
   - id: '60'
     icon: /img/icons/armor/14771.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Juvenile+Scholar+Robe"><b>[年幼学徒长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Juvenile+Scholar+Robe"><b>年幼学徒长袍</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 雷亚卢卡利亚魔法师套装
   link: https://eldenring.wiki.fextralife.com/Raya+Lucarian+Sorcerer+Set
   items:
   - id: '61'
     icon: /img/icons/armor/14340.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Karolos+Glintstone+Crown"><b>[卡勒罗斯辉石头罩]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Karolos+Glintstone+Crown"><b>卡勒罗斯辉石头罩</b></a>
+    - <b>[魔法学院雷亚卢卡利亚]</b>的院落西边角落的一只水晶蟹掉落，最近的赐福点是<b>[讨论室]</b>。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2268&lat=-136.8125&lng=56.477389&zoom=8&code=mapA">[地图链接]</a>
   - id: '62'
     icon: /img/icons/armor/14320.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Olivinus+Glintstone+Crown"><b>[奥利维尼斯辉石头罩]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Olivinus+Glintstone+Crown"><b>奥利维尼斯辉石头罩</b></a>
+    - <b>[魔法学院雷亚卢卡利亚]</b>的<b>赐福[校舍内的教室]</b>出发，走进建筑后面向左边的房间打破尸体后的幻影墙，向左跳上石头平台前行回到赐福点上方的尸体处拾取。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2261&lat=-137.851562&lng=58.939819&zoom=8&code=mapA">[地图链接]</a>
   - id: '63'
     icon: /img/icons/armor/14310.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Twinsage+Glintstone+Crown"><b>[双贤辉石头罩]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Twinsage+Glintstone+Crown"><b>双贤辉石头罩</b></a>
+    - <b>[魔法学院雷亚卢卡利亚]</b>，如果解锁了捷径，直接从<b>赐福[杜鹃教堂]</b>出发爬梯上二楼，向东到窗台上爬下击杀角落处的水晶蟹。<br>否则从<b>赐福[校舍内的教室]</b>出发走拿取第二把<b>[学院辉石钥匙]</b>的路线到达此处。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2279&lat=-136.476562&lng=54.609104&zoom=8&code=mapA">[地图链接]</a>
   - id: '64'
     icon: /img/icons/armor/14730.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Witch's+Glintstone+Crown"><b>[魔女辉石头罩]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Witch's+Glintstone+Crown"><b>魔女辉石头罩</b></a>
+    - <b>[魔法师瑟濂]</b>任务线最后获取，如果帮助<b>[魔法师瑟濂]</b>则会出现在他最终型态位置的面前，如果帮助<b>[“魔女猎人”杰廉]</b>则会在击杀<b>[魔法师瑟濂]</b>后掉落
   - id: '65'
     icon: /img/icons/armor/14311.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Raya+Lucarian+Robe"><b>[雷亚卢卡利亚长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Raya+Lucarian+Robe"><b>雷亚卢卡利亚长袍</b></a>
+    - <b>[雷亚卢卡利亚长袍]</b>， <b>[魔法师腕套]</b>和<b>[魔法师绑腿]</b>是由<b>[魔法学院雷亚卢卡利亚]</b>的辉石魔法师和双刃魔法师掉落的。
   - id: '66'
     icon: /img/icons/armor/14312.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Sorcerer+Manchettes"><b>[魔法师腕套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Sorcerer+Manchettes"><b>魔法师腕套</b></a>
+    - ''
   - id: '67'
     icon: /img/icons/armor/14313.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Sorcerer+Leggings"><b>[魔法师绑腿]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Sorcerer+Leggings"><b>魔法师绑腿</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 拉兹利魔法师套装
   link: https://eldenring.wiki.fextralife.com/Lazuli+Sorcerer+Set
   items:
   - id: '68'
     icon: /img/icons/armor/14330.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lazuli+Glintstone+Crown"><b>[拉兹利辉石头罩]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Lazuli+Glintstone+Crown"><b>拉兹利辉石头罩</b></a>
+    - 杀死<b>[魔法学院雷亚卢卡利亚]</b>的一只水晶蟹掉落。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5701&lat=-137.625&lng=53.899473&zoom=8&code=mapA">[地图链接]</a>
   - id: '69'
     icon: /img/icons/armor/15451.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lazuli+Robe"><b>[拉兹利长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Lazuli+Robe"><b>拉兹利长袍</b></a>
+    - 拉兹利魔法师掉落，可以在<b>[魔法学院雷亚卢卡利亚]</b>的一些区域找到。
   - id: '70'
     icon: /img/icons/armor/14312.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Sorcerer+Manchettes"><b>[魔法师腕套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Sorcerer+Manchettes"><b>魔法师腕套</b></a>
+    - <b>[魔法师腕套]</b>和<b>[魔法师绑腿]</b>是由辉石魔法师和双刃魔法师掉落，他们在<b>[魔法学院雷亚卢卡利亚]</b>的大部分区域可以找到。
   - id: '71'
     icon: /img/icons/armor/14313.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Sorcerer+Leggings"><b>[魔法师绑腿]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Sorcerer+Leggings"><b>魔法师绑腿</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 海摩套装
   link: https://eldenring.wiki.fextralife.com/Battlemage+Set
   items:
   - id: '72'
     icon: /img/icons/armor/14680.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Haima+Glintstone+Crown"><b>[海摩辉石头罩]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Haima+Glintstone+Crown"><b>海摩辉石头罩</b></a>
+    - 位于<b>[西边风车牧场]</b>东方的特定战斗法师敌人掉落。或者在<b>[东边风车牧场]</b>以西的一座山上，在倒塌的桥北端附近。
   - id: '73'
     icon: /img/icons/armor/14681.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Battlemage+Robe"><b>[战场魔法师长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Battlemage+Robe"><b>战场魔法师长袍</b></a>
+    - ''
   - id: '74'
     icon: /img/icons/armor/14682.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Battlemage+Manchettes"><b>[战场魔法师腕套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Battlemage+Manchettes"><b>战场魔法师腕套</b></a>
+    - ''
   - id: '75'
     icon: /img/icons/armor/14683.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Battlemage+Legwraps"><b>[战场魔法师绑腿]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Battlemage+Legwraps"><b>战场魔法师绑腿</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 亚罗塔斯套装
   link: https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Set
   items:
   - id: '76'
     icon: /img/icons/armor/14660.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Hierodas+Glintstone+Crown"><b>[亚罗塔斯辉石头罩]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Hierodas+Glintstone+Crown"><b>亚罗塔斯辉石头罩</b></a>
+    - 这套可以从<b>[格密尔火山]</b><b>[遁世者村]</b>的两个不同的尸体上拾取。从村庄南端一所房子后面的尸体上拾取<b>[亚罗塔斯辉石头罩]</b>。<b>[离群魔法师长袍]</b>、<b>[离群魔法师腕套]</b>和<b>[离群魔法师靴子]</b>从村庄西北角一所房子的尸体上拾取。
   - id: '77'
     icon: /img/icons/armor/14661.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Robe"><b>[离群魔法师长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Robe"><b>离群魔法师长袍</b></a>
+    - ''
   - id: '79'
     icon: /img/icons/armor/14662.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Manchettes"><b>[离群魔法师腕套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Manchettes"><b>离群魔法师腕套</b></a>
+    - ''
   - id: '80'
     icon: /img/icons/armor/14663.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Boots"><b>[离群魔法师靴子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Errant+Sorcerer+Boots"><b>离群魔法师靴子</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 魔法剑士套装
   link: https://eldenring.wiki.fextralife.com/Spellblade+Set
   items:
   - id: '81'
     icon: /img/icons/armor/13110.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Spellblade's+Pointed+Hat"><b>[魔法剑士尖帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Spellblade's+Pointed+Hat"><b>魔法剑士尖帽</b></a>
+    - <b>[圆桌厅堂]</b>的<b>[魔法师罗杰尔]</b>掉落。
   - id: '82'
     icon: /img/icons/armor/13111.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Spellblade's+Traveling+Attire"><b>[魔法剑士旅行装]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Spellblade's+Traveling+Attire"><b>魔法剑士旅行装</b></a>
+    - ''
   - id: '84'
     icon: /img/icons/armor/13112.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Spellblade's+Gloves"><b>[魔法剑士手套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Spellblade's+Gloves"><b>魔法剑士手套</b></a>
+    - ''
   - id: '85'
     icon: /img/icons/armor/13113.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Spellblade's+Trousers"><b>[魔法剑士长裤]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Spellblade's+Trousers"><b>魔法剑士长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 阿尔佩利希套装
   link: https://eldenring.wiki.fextralife.com/Alberich's+Set
   items:
   - id: '86'
     icon: /img/icons/armor/13090.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Alberich's+Pointed+Hat"><b>[阿尔佩利希尖帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Alberich's+Pointed+Hat"><b>阿尔佩利希尖帽</b></a>
+    - 可以在<b>[王城罗德尔]</b>城寨主厅找到，靠近<b>赐福[城寨一楼]</b>。
   - id: '88'
     icon: /img/icons/armor/13091.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Alberich's+Robe"><b>[阿尔佩利希上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Alberich's+Robe"><b>阿尔佩利希上衣</b></a>
+    - ''
   - id: '90'
     icon: /img/icons/armor/13092.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Alberich's+Bracers"><b>[阿尔佩利希臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Alberich's+Bracers"><b>阿尔佩利希臂甲</b></a>
+    - ''
   - id: '91'
     icon: /img/icons/armor/13093.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Alberich's+Trousers"><b>[阿尔佩利希长裤]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Alberich's+Trousers"><b>阿尔佩利希长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 魔法教授套装
   link: https://eldenring.wiki.fextralife.com/Preceptor's+Set
   items:
   - id: '92'
     icon: /img/icons/armor/14500.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Preceptor's+Big+Hat"><b>[魔法教授大帽子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Preceptor's+Big+Hat"><b>魔法教授大帽子</b></a>
+    - <b>[魔法教授赛尔维斯]</b>的任务线结束后在<b>[赛尔维斯魔法师塔]</b>的<b>[魔法教授赛尔维斯]</b>尸体上拾取。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2127&lat=-109.75&lng=52.372118&zoom=8&code=mapA">[地图链接]</a>
   - id: '93'
     icon: /img/icons/armor/14501.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Preceptor's+Long+Gown"><b>[魔法教授长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Preceptor's+Long+Gown"><b>魔法教授长袍</b></a>
+    - ''
   - id: '95'
     icon: /img/icons/armor/14502.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Preceptor's+Gloves"><b>[魔法教授手套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Preceptor's+Gloves"><b>魔法教授手套</b></a>
+    - ''
   - id: '96'
     icon: /img/icons/armor/14503.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Preceptor's+Trousers"><b>[魔法教授长裤]</b></a>
-- title: 隐匿面具 (只有头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Preceptor's+Trousers"><b>魔法教授长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 隐匿面具 (仅头部)
   items:
   - id: '97'
     icon: /img/icons/armor/14510.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Mask+of+Confidence"><b>[隐匿面具]</b></a>
-- title: 亚兹勒辉石套装 (无腿甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Mask+of+Confidence"><b>隐匿面具</b></a>
+    - 在<b>[卡利亚书斋]</b>使用<b>[卡利亚颠倒像]</b>解锁进入颠倒的秘密区域，在墙上的尸体拾取。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2118&lat=-142.73437&lng=82.11316&zoom=8&code=mapA">[地图链接]</a>
+  table:
+  - 名称
+  - 位置
+- title: 亚兹勒辉石套装 (无腿部)
   link: https://eldenring.wiki.fextralife.com/Azur's+Glintstone+Set
   items:
   - id: '98'
     icon: /img/icons/armor/13850.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Azur's+Glintstone+Crown"><b>[亚兹勒辉石头冠]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Azur's+Glintstone+Crown"><b>亚兹勒辉石头冠</b></a>
+    - 完成<b>[魔法师瑟濂]</b>的任务线后，可以找到所有三件护甲。返回<b>[“起源魔法师”亚兹勒]</b>的位置。全套装备将会在魔法师曾经所在的地方。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+map?id=8290&lat=-90.04&lng=70.05&zoom=8&code=mapA">[地图链接]</a>
   - id: '99'
     icon: /img/icons/armor/13851.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Azur's+Glintstone+Robe"><b>[亚兹勒长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Azur's+Glintstone+Robe"><b>亚兹勒长袍</b></a>
+    - ''
   - id: '100'
     icon: /img/icons/armor/13852.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Azur's+Manchettes"><b>[亚兹勒腕套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Azur's+Manchettes"><b>亚兹勒腕套</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 卢瑟特套装
   link: https://eldenring.wiki.fextralife.com/Lusat's+Set
   items:
   - id: '101'
     icon: /img/icons/armor/13840.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lusat's+Glintstone+Crown"><b>[卢瑟特辉石头冠]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Lusat's+Glintstone+Crown"><b>卢瑟特辉石头冠</b></a>
+    - 在完成<b>[魔法师瑟濂]</b>的任务线和并在最后帮助<b>[魔法师瑟濂]</b>的话，可以找到所有四件护甲。返回<b>[瑟利亚隐藏洞窟]</b>的<b>[“起源魔法师”卢瑟特]</b>位置。整在他曾经待过的地方拾取。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8307&lat=-173.960937&lng=152.340063&zoom=8&code=mapA">[地图链接]</a>
   - id: '102'
     icon: /img/icons/armor/13841.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lusat's+Robe"><b>[卢瑟特长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Lusat's+Robe"><b>卢瑟特长袍</b></a>
+    - ''
   - id: '103'
     icon: /img/icons/armor/13842.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lusat's+Manchettes"><b>[卢瑟特腕套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Lusat's+Manchettes"><b>卢瑟特腕套</b></a>
+    - ''
   - id: '104'
     icon: /img/icons/armor/13843.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Old+Sorcerer's+Legwraps"><b>[古老魔法师绑腿]</b></a>
-      (和套装其他部分排序不同，游戏中排在腿甲第二区域第二个)
+    - <a href="https://eldenring.wiki.fextralife.com/Old+Sorcerer's+Legwraps"><b>古老魔法师绑腿</b></a>
+      (未按套装顺序排列，出现在腿甲第二区域第二格)
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 女王套装
   link: https://eldenring.wiki.fextralife.com/Queen+of+the+Full+Moon+Set
   items:
   - id: '105'
     icon: /img/icons/armor/13710.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Queen's+Crescent+Crown"><b>[女王弯月冠]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Queen's+Crescent+Crown"><b>女王弯月冠</b></a>
+    - 可以在击败Boss<b>[“满月女王”蕾娜菈]</b>后从<b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处购买。
   - id: '106'
     icon: /img/icons/armor/13711.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Queen's+Robe"><b>[女王长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Queen's+Robe"><b>女王长袍</b></a>
+    - ''
   - id: '107'
     icon: /img/icons/armor/13712.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Queen's+Bracelets"><b>[女王手环]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Queen's+Bracelets"><b>女王手环</b></a>
+    - ''
   - id: '108'
     icon: /img/icons/armor/13713.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Queen's+Leggings"><b>[女王长裤]</b></a>
-- title: 雪魔女套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Queen's+Leggings"><b>女王长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 雪魔女套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Snow+Witch+Set
   items:
   - id: '109'
     icon: /img/icons/armor/14740.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Snow+Witch+Hat"><b>[雪魔女尖帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Snow+Witch+Hat"><b>雪魔女尖帽</b></a>
+    - 在<b>[魔女菈妮]</b>的任务线进行到一定程度后，在<b>[蕾娜魔法师塔]</b>电梯室后面上层的一个宝箱中。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2137&lat=-101.945312&lng=53.95069&zoom=8&code=mapA">[地图链接]</a>
   - id: '110'
     icon: /img/icons/armor/14741.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Snow+Witch+Robe"><b>[雪魔女长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Snow+Witch+Robe"><b>雪魔女长袍</b></a>
+    - ''
   - id: '112'
     icon: /img/icons/armor/14743.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Snow+Witch+Skirt"><b>[雪魔女长裙]</b></a>
-- title: 菲雅套装 (无腕甲腿甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Snow+Witch+Skirt"><b>雪魔女长裙</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 菲雅套装 (无腕部和腿部)
   link: https://eldenring.wiki.fextralife.com/Fia's+Set
   items:
   - id: '113'
     icon: /img/icons/armor/15340.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fia's+Hood"><b>[菲雅风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fia's+Hood"><b>菲雅风帽</b></a>
+    - 在<b>[“死眠少女”菲雅]</b>的任务线结束时，她会掉落她的套装。战斗结束后，set将是她躺在<b>[圆桌厅堂]</b>的地方。
   - id: '114'
     icon: /img/icons/armor/15341.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fia's+Robe"><b>[菲雅长袍]</b></a>
-- title: 死眠连身裙 (只有胸甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Fia's+Robe"><b>菲雅长袍</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 死眠连身裙 (仅胸部)
   items:
   - id: '116'
     icon: /img/icons/armor/15331.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Deathbed+Dress"><b>[死眠连身裙]</b></a>
-- title: 预言家套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Deathbed+Dress"><b>死眠连身裙</b></a>
+    - 在<b>[王城罗德尔]</b><b>赐福[王城底层教堂]</b>所在建筑的床上发现。
+  table:
+  - 名称
+  - 位置
+- title: 预言家套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Prophet+Set
   items:
   - id: '117'
     icon: /img/icons/armor/13920.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Prophet+Blindfold"><b>[预言家眼罩]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Prophet+Blindfold"><b>预言家眼罩</b></a>
+    - 预言家职业初始自带。可以从<b>[王城罗德尔]</b><b>[遁世商人的破屋]</b><b>[遁世商人]</b>处3,500卢恩购买。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5423&lat=-87.92&lng=107.11&zoom=8&code=mapA">[地图链接]</a>
   - id: '118'
     icon: /img/icons/armor/13941.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Prophet+Robe"><b>[预言家长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Prophet+Robe"><b>预言家长袍</b></a>
+    - ''
   - id: '120'
     icon: /img/icons/armor/13923.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Prophet+Trousers"><b>[预言家长裤]</b></a>
-- title: 柯林长袍 (只有胸甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Prophet+Trousers"><b>预言家长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 柯林长袍 (仅胸部)
   items:
   - id: '121'
     icon: /img/icons/armor/13921.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Corhyn's+Robe"><b>[柯林长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Corhyn's+Robe"><b>柯林长袍</b></a>
+    - 在<b>[金面具]</b>任务线的末尾，在<b>[“灰烬王城”罗德尔]</b>中和<b>[圣职人员柯林]</b>交谈并刷新，与<b>[连枷]</b>和<b>[柯林的铃珠]</b>一起在他的尸体上。如果你给过他<b>[遗忘秘药]</b>，他会留在<b>[观星废墟]</b>附近的桥上。完成<b>[逐渐崩毁的法姆·亚兹拉]</b>后返回该地区，并从他所在的地方获取这些物品。如果你在到达<b>[逐渐崩毁的法姆·亚兹拉]</b>之前没有完成任务线的<b>[回归性原理]</b>谜题，这些物品将会在他最后被看到的地方找到。这些物品也可以在他离开<b>[圆桌厅堂]</b>后直接杀死他获得。
+  table:
+  - 名称
+  - 位置
 - title: 旅行女巫套装
   link: https://eldenring.wiki.fextralife.com/Traveling+Maiden+Set
   items:
   - id: '122'
     icon: /img/icons/armor/14460.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Traveling+Maiden+Hood"><b>[旅行女巫风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Traveling+Maiden+Hood"><b>旅行女巫风帽</b></a>
+    - 可以在<b>[巨人山顶]</b>北部<b>[离群独行者的破屋]</b>内的一具尸体上找到。<a href="https://eldenring.wiki.fextralife.com/Interactive+map?id=4002&lat=-67.348438&lng=150.937088&zoom=8&code=mapA">[地图链接]</a>
   - id: '123'
     icon: /img/icons/armor/14461.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Traveling+Maiden+Robe"><b>[旅行女巫长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Traveling+Maiden+Robe"><b>旅行女巫长袍</b></a>
+    - ''
   - id: '125'
     icon: /img/icons/armor/14462.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Traveling+Maiden+Gloves"><b>[旅行女巫手套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Traveling+Maiden+Gloves"><b>旅行女巫手套</b></a>
+    - ''
   - id: '126'
     icon: /img/icons/armor/14463.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Traveling+Maiden+Boots"><b>[旅行女巫靴子]</b></a>
-- title: 指头女巫套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Traveling+Maiden+Boots"><b>旅行女巫靴子</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 指头女巫套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Finger+Maiden+Set
   items:
   - id: '127'
     icon: /img/icons/armor/14480.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Finger+Maiden+Fillet"><b>[指头女巫帽子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Finger+Maiden+Fillet"><b>指头女巫帽子</b></a>
+    - 可以在<b>赐福[镇静教堂]</b>旁边直接找到。可以越过NPC入侵者先触摸赐福点。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3802&lat=-115.01&lng=71.69&zoom=8&code=mapA">[地图链接]</a>
   - id: '128'
     icon: /img/icons/armor/14481.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Finger+Maiden+Robe"><b>[指头女巫长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Finger+Maiden+Robe"><b>指头女巫长袍</b></a>
+    - ''
   - id: '130'
     icon: /img/icons/armor/14482.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Finger+Maiden+Shoes"><b>[指头女巫鞋子]</b></a>
-- title: 贤者套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Finger+Maiden+Shoes"><b>指头女巫鞋子</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 贤者套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Sage+Set
   items:
   - id: '131'
     icon: /img/icons/armor/13610.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Sage+Hood"><b>[贤者风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Sage+Hood"><b>贤者风帽</b></a>
+    - 在<b>[湖之利耶尼亚]</b><b>[留水洞窟]</b>找到，就在<b>[傍湖断崖]</b>的前面下方。沿着上面的路走然后跳过去，2个腐败随从站在那里。入口附近有一具被毒药淹没的尸体，当你拾取尸体时两只巨蝙蝠和一只蝙蝠守卫会攻击你，可以在触发仇恨前远程消灭他们。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2508&lat=-169.101562&lng=81.50281&zoom=8&code=mapA">[地图链接]</a>
   - id: '132'
     icon: /img/icons/armor/13611.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Sage+Robe"><b>[贤者长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Sage+Robe"><b>贤者长袍</b></a>
+    - ''
   - id: '133'
     icon: /img/icons/armor/13613.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Sage+Trousers"><b>[贤者长裤]</b></a>
-- title: 大风帽 (只有头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Sage+Trousers"><b>贤者长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 大风帽 (仅头部)
   items:
   - id: '134'
     icon: /img/icons/armor/15000.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Greathood"><b>[大风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Greathood"><b>大风帽</b></a>
+    - 解开<b>[绘画《魔法师》]</b>谜题的奖励。从<b>[观星废墟]</b>西北方的桥一直向北走。在桥的中心东边有一块凸起的平台，一个画家灵魂坐在椅子上。互动后拾取<b>[大风帽]</b>。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8228&lat=-67.34688&lng=153.20421&zoom=8&code=mapA">[地图链接]</a>
+  table:
+  - 名称
+  - 位置
 - title: 金面具套装
   link: https://eldenring.wiki.fextralife.com/Goldmask's+Set
   items:
   - id: '135'
     icon: /img/icons/armor/14780.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Radiant+Gold+Mask"><b>[光耀金面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Radiant+Gold+Mask"><b>光耀金面具</b></a>
+    - 可以在两个不同的位置找到。<b>[光耀金面具]</b>位于<b>[亚坛高原]</b><b>[蠕血废墟]</b>东北倒塌桥梁的一段。<a href="/Interactive+Map?id=5842&lat=-84.153125&lng=90.106297&zoom=8&code=mapA">[地图链接]</a>完成<b>[圣职人员柯林]</b>的任务线后，<b>[金面具的破布]</b>、<b>[金色腕套]</b>和<b>[金色腰巾]</b>都可以在<b>[金面具]</b>的身上拾取。从<b>赐福[“灰烬王城”罗德尔]</b>向南，沿着竞技场方向的小路走下去。爬坡向左，你会发现<b>[金面具]</b>。从他的尸体上拾取修复大卢恩，刷新后拾取套装。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8402&lat=-108.46&lng=114.17&zoom=8&code=mapC">[地图链接]</a>
   - id: '136'
     icon: /img/icons/armor/14781.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Goldmask's+Rags"><b>[金面具的破布]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Goldmask's+Rags"><b>金面具的破布</b></a>
+    - ''
   - id: '137'
     icon: /img/icons/armor/14782.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Gold+Bracelets"><b>[金色腕套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Gold+Bracelets"><b>金色腕套</b></a>
+    - ''
   - id: '138'
     icon: /img/icons/armor/14783.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Gold+Waistwrap"><b>[金色腰巾]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Gold+Waistwrap"><b>金色腰巾</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 调香师套装
   link: https://eldenring.wiki.fextralife.com/Perfumer+Set
   items:
   - id: '139'
     icon: /img/icons/armor/13060.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Perfumer+Hood"><b>[调香师风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Perfumer+Hood"><b>调香师风帽</b></a>
+    - 可以从<b>[王城罗德尔]</b>区域的调香师类敌人掉落。
   - id: '140'
     icon: /img/icons/armor/13061.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Perfumer+Robe"><b>[调香师长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Perfumer+Robe"><b>调香师长袍</b></a>
+    - ''
   - id: '142'
     icon: /img/icons/armor/13062.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Perfumer+Gloves"><b>[调香师手套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Perfumer+Gloves"><b>调香师手套</b></a>
+    - ''
   - id: '143'
     icon: /img/icons/armor/13063.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Perfumer+Sarong"><b>[调香师腰巾]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Perfumer+Sarong"><b>调香师腰巾</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 旅行套装
   link: https://eldenring.wiki.fextralife.com/Perfumer+Traveler%27s+Set
   items:
   - id: '144'
     icon: /img/icons/armor/13070.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Traveler's+Hat"><b>[旅行帽子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Traveler's+Hat"><b>旅行帽子</b></a>
+    - 在<b>[盖利德]</b><b>[贤者镇的废墟]</b>位于沼泽地区的建筑的一个角落里的尸体。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1809&lat=-178.68&lng=138.98&zoom=8&code=mapA">[地图链接]</a>
   - id: '145'
     icon: /img/icons/armor/13071.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Perfumer's+Traveling+Garb"><b>[调香师旅行装]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Perfumer's+Traveling+Garb"><b>调香师旅行装</b></a>
+    - ''
   - id: '147'
     icon: /img/icons/armor/13072.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Traveler's+Gloves"><b>[旅行手套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Traveler's+Gloves"><b>旅行手套</b></a>
+    - ''
   - id: '148'
     icon: /img/icons/armor/13073.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Traveler's+Slops"><b>[旅行长裤]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Traveler's+Slops"><b>旅行长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 堕落调香师套装
   link: https://eldenring.wiki.fextralife.com/Depraved+Perfumer+Set
   items:
   - id: '149'
     icon: /img/icons/armor/13740.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Depraved+Perfumer+Headscarf"><b>[堕落调香师帽子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Depraved+Perfumer+Headscarf"><b>堕落调香师帽子</b></a>
+    - 可以从位于<b>[日荫城]</b>附近的堕落调香师类敌人那里刷。最佳地点是<b>[湖之利耶尼亚]</b>附近的<b>赐福[白金村]</b>。在东面不远的山上有一个。
   - id: '150'
     icon: /img/icons/armor/13741.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Depraved+Perfumer+Robe"><b>[堕落调香师长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Depraved+Perfumer+Robe"><b>堕落调香师长袍</b></a>
+    - ''
   - id: '152'
     icon: /img/icons/armor/13742.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Depraved+Perfumer+Gloves"><b>[堕落调香师手套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Depraved+Perfumer+Gloves"><b>堕落调香师手套</b></a>
+    - ''
   - id: '153'
     icon: /img/icons/armor/13743.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Depraved+Perfumer+Trousers"><b>[堕落调香师长裤]</b></a>
-- title: 上流阶级长袍 (只有胸甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Depraved+Perfumer+Trousers"><b>堕落调香师长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 上流阶级长袍 (仅胸部)
   items:
   - id: '154'
     icon: /img/icons/armor/14621.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Upper-Class+Robe"><b>[上流阶级长袍]</b></a>
-- title: 领主套装 (无腕甲腿甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Upper-Class+Robe"><b>上流阶级长袍</b></a>
+    - 可以在<b>[王城罗德尔]</b>找到，在通道的尽头，在那里你与一些流浪刀手战斗。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2872&lat=-103.61719&lng=119.32436&zoom=8&code=mapA">[地图链接]</a><br>可以在<b>[遁世商人的破屋]</b>的<b>[遁世商人]</b>处以2,400卢恩购买。
+  table:
+  - 名称
+  - 位置
+- title: 领主套装 (无腕部和腿部)
   link: https://eldenring.wiki.fextralife.com/Ruler's+Set
   items:
   - id: '155'
     icon: /img/icons/armor/14610.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ruler's+Mask"><b>[领主面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Ruler's+Mask"><b>领主面具</b></a>
+    - 可以在<b>[亚坛高原]</b>东北部<b>[弃置棺材]</b>西边一具尸体上找到，该尸体面朝下躺在一辆马车上。
   - id: '156'
     icon: /img/icons/armor/14611.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ruler's+Robe"><b>[领主长袍]</b></a>
-- title: 侧室套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Ruler's+Robe"><b>领主长袍</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 侧室套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Consort's+Set
   items:
   - id: '157'
     icon: /img/icons/armor/14590.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Consort's+Mask"><b>[侧室面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Consort's+Mask"><b>侧室面具</b></a>
+    - 击败莱卡德后，玩家返回<b>赐福[“亵渎君王”拉卡德]</b>，会发现<b>[“火山官邸之主”塔妮丝]</b>被安置在她前领主的头旁边。玩家可以攻击并杀死她，召唤她的<b>[熔炉骑士]</b>保镖来战斗。击败他后，可以从夫人<b>[“火山官邸之主”塔妮丝]</b>的尸体中掠夺伯爵的setsa。在埃尔登环地图上可以看到。<b>[侧室长裤]</b>可以从<b>[遁世商人]</b>购买。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5423&lat=-87.92&lng=107.11&zoom=8&code=mapA">[地图链接]</a>
   - id: '158'
     icon: /img/icons/armor/14591.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Consort's+Robe"><b>[侧室长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Consort's+Robe"><b>侧室长袍</b></a>
+    - ''
   - id: '159'
     icon: /img/icons/armor/14593.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Consort's+Trousers"><b>[侧室长裤]</b></a>
-- title: 玛雷家套装 (无腕甲腿甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Consort's+Trousers"><b>侧室长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 玛雷家套装 (无腕部和腿部)
   link: https://eldenring.wiki.fextralife.com/House+Marais+Set
   items:
   - id: '160'
     icon: /img/icons/armor/14600.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Marais+Mask"><b>[玛雷家面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Marais+Mask"><b>玛雷家面具</b></a>
+    - TheHouse Maraisset被<b>[“日荫城主”玛雷玛雷]</b>丢弃。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2202&lat=-80.71875&lng=76.65118&zoom=8&code=mapA">[地图链接]</a>
   - id: '161'
     icon: /img/icons/armor/14601.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Marais+Robe"><b>[玛雷家长袍]</b></a>
-- title: 大角套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Marais+Robe"><b>玛雷家长袍</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 大角套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Fur+Set
   items:
   - id: '162'
     icon: /img/icons/armor/13420.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Great+Horned+Headband"><b>[大角头带]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Great+Horned+Headband"><b>大角头带</b></a>
+    - 祖灵之民落物，幽灵和普通形态都掉落。在<b>[遗迹迷宫]</b>，<b>[群集灵庙]</b>和<b>[希芙拉河]</b>出现。
   - id: '163'
     icon: /img/icons/armor/13421.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fur+Raiment"><b>[毛皮上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fur+Raiment"><b>毛皮上衣</b></a>
+    - ''
   - id: '164'
     icon: /img/icons/armor/13423.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fur+Leggings"><b>[毛皮绑腿]</b></a>
-- title: 祭司套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Fur+Leggings"><b>毛皮绑腿</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 祭司套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Shaman+Set
   items:
   - id: '165'
     icon: /img/icons/armor/13425.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Shining+Horned+Headband"><b>[光角头带]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Shining+Horned+Headband"><b>光角头带</b></a>
+    - 在<b>[希芙拉河]</b><b>[祖灵森林]</b>，祖灵之民萨满掉落掠夺胸部和腿部。头部肯定是特定祖传之民萨满掉落的，你可以在<b>[希芙拉河]</b><b>[祖灵森林]</b>以北中<b>[角骸灵地]</b>以西较小的废墟中发现他们在唱歌。<b>[祖灵森林]</b>区域只有在进入<b>[“永恒之城”诺克隆恩]</b>之后才能到达。
   - id: '166'
     icon: /img/icons/armor/13426.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Shaman+Furs"><b>[祭司毛皮上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Shaman+Furs"><b>祭司毛皮上衣</b></a>
+    - ''
   - id: '167'
     icon: /img/icons/armor/13428.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Shaman+Leggings"><b>[祭司绑腿]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Shaman+Leggings"><b>祭司绑腿</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 神皮使徒套装
   link: https://eldenring.wiki.fextralife.com/Godskin+Apostle+Set
   items:
   - id: '168'
     icon: /img/icons/armor/13720.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Apostle+Hood"><b>[神皮使徒风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Apostle+Hood"><b>神皮使徒风帽</b></a>
+    - 位于<b>[盖利德神授塔]</b>底部的<b>[神皮使徒]</b>掉落。这座塔位于北部海岸，位于两块突出的陆地的中间。<a href="https://eldenring.wiki.fextralife.com/Interactive+map?id=3153&lat=-163.178125&lng=145.807398&zoom=8&code=mapA">[地图链接]</a>
   - id: '169'
     icon: /img/icons/armor/13721.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Apostle+Robe"><b>[神皮使徒长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Apostle+Robe"><b>神皮使徒长袍</b></a>
+    - ''
   - id: '170'
     icon: /img/icons/armor/13722.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Apostle+Bracelets"><b>[使徒手环]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Apostle+Bracelets"><b>使徒手环</b></a>
+    - ''
   - id: '171'
     icon: /img/icons/armor/13723.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Apostle+Trousers"><b>[使徒长裤]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Apostle+Trousers"><b>使徒长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 神皮贵族套装
   link: https://eldenring.wiki.fextralife.com/Godskin+Noble+Set
   items:
   - id: '172'
     icon: /img/icons/armor/13730.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Noble+Hood"><b>[神皮贵族风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Noble+Hood"><b>神皮贵族风帽</b></a>
+    - 在<b>[利耶尼亚神授塔]</b>连接桥上的<b>[神皮贵族]</b>掉落。
   - id: '173'
     icon: /img/icons/armor/13731.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Noble+Robe"><b>[神皮贵族长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Noble+Robe"><b>神皮贵族长袍</b></a>
+    - ''
   - id: '174'
     icon: /img/icons/armor/13732.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Noble+Bracelets"><b>[贵族手环]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Noble+Bracelets"><b>贵族手环</b></a>
+    - ''
   - id: '175'
     icon: /img/icons/armor/13733.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Noble+Trousers"><b>[贵族长裤]</b></a>
-- title: 恶兆妖鬼斗篷 (只有胸甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Godskin+Noble+Trousers"><b>贵族长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 恶兆妖鬼斗篷 (仅胸部)
   items:
   - id: '176'
     icon: /img/icons/armor/14791.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fell+Omen+Cloak"><b>[恶兆妖鬼斗篷]</b></a>
-- title: 鲜血贵族套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Fell+Omen+Cloak"><b>恶兆妖鬼斗篷</b></a>
+    - 击败<b>[“恶兆王”蒙葛特]</b>后，可以从<b>[圆桌厅堂]</b>的<b>[“解指”恩雅]</b>处购买。
+  table:
+  - 名称
+  - 位置
+- title: 鲜血贵族套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Sanguine+Noble+Set
   items:
   - id: '177'
     icon: /img/icons/armor/13450.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Sanguine+Noble+Hood"><b>[鲜血贵族风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Sanguine+Noble+Hood"><b>鲜血贵族风帽</b></a>
+    - <b>[化圣雪原]</b><b>[耶罗·亚尼斯废墟]</b>以北的NPC<b>[鲜血贵族]</b>入侵击杀后掉落。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2998&lat=-71.75&lng=132.6&zoom=8&code=mapA">[地图链接]</a>
   - id: '178'
     icon: /img/icons/armor/13451.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Sanguine+Noble+Robe"><b>[鲜血贵族长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Sanguine+Noble+Robe"><b>鲜血贵族长袍</b></a>
+    - ''
   - id: '179'
     icon: /img/icons/armor/13453.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Sanguine+Noble+Waistcloth"><b>[鲜血贵族腰巾]</b></a>
-- title: 鲜血君王上衣 (只有胸甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Sanguine+Noble+Waistcloth"><b>鲜血贵族腰巾</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 鲜血君王上衣 (仅胸部)
   items:
   - id: '180'
     icon: /img/icons/armor/13681.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lord+of+Blood's+Robe"><b>[鲜血君王上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Lord+of+Blood's+Robe"><b>鲜血君王上衣</b></a>
+    - 击败<b>[“鲜血君王”蒙格]</b>后，可以从<b>[“解指”恩雅]</b>处以20,000卢恩购买。
+  table:
+  - 名称
+  - 位置
 - title: 粪金龟套装
   items:
   - id: '182'
     icon: /img/icons/armor/15310.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Crimson+Tear+Scarab"><b>[红露滴粪金龟]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Crimson+Tear+Scarab"><b>红露滴粪金龟</b></a>
+    - '在<b>[亚坛高原]</b><b>[火山官邸]</b>的岩石边缘。从<b>赐福[艾格蕾教堂]</b>出发，路线A: 如果你启动了北边塔里的木制电梯，乘坐它到塔顶。电梯到达顶部后，由东北方向的门口离开房间。从栏杆往南看;下面有一具尸体。路线B:
+      搭乘石电梯到<b>赐福[艾格蕾教堂]</b>南边。走到阳台上，从东边的一块岩石上跳下来。沿着路径经过燃烧鼻涕虫到顶部。朝西北方向去最近的塔，那里有<b>[掳人少女人偶]</b>。跳进塔上敞开的窗户。从右边的门离开房间。就在挥舞着熔岩曲剑的蛇人之前，从栏杆上向南望去看到一具尸体。'
   - id: '183'
     icon: /img/icons/armor/15320.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Cerulean+Tear+Scarab"><b>[蓝露滴粪金龟]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Cerulean+Tear+Scarab"><b>蓝露滴粪金龟</b></a>
+    - 塞拉，魔法之城:在城镇东北部屋顶上的一具尸体上发现的。穿过屋顶就能到达。请参见<b>[魔法镇瑟利亚]</b>页面了解如何获得它的详细信息。<a href="https://eldenring.wiki.fextralife.com/Interactive+map?id=3240&lat=-175.635938&lng=148.4948&zoom=8&code=mapA">[地图链接]</a>
   - id: '184'
     icon: /img/icons/armor/15280.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash-of-War+Scarab"><b>[战灰粪金龟]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Ash-of-War+Scarab"><b>战灰粪金龟</b></a>
+    - '在<b>[史东薇尔城]</b>: <b>[宁姆格福神授塔（桥上）]</b>的导道门后面，它会把你带到断桥上的<b>[宁姆格福神授塔]</b>。不要在魔像之后进入传送门，而是在它后面下落来获取这个物品和<b>[柔软棉花]</b>。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=7558&lat=-175.46875&lng=97.558893&zoom=8&code=mapA">[地图链接]</a>'
   - id: '185'
     icon: /img/icons/armor/15300.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Glintstone+Scarab"><b>[辉石粪金龟]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Glintstone+Scarab"><b>辉石粪金龟</b></a>
+    - '<b>[魔法学院雷亚卢卡利亚]</b>: 最近的赐福点是<b>[雷亚卢卡利亚大书库]</b>。从你遇到敌对NPC卡利亚其实的花园位置，穿过大门向南进入小阳台区域，那里有辉石魔法师和流浪贵族，沿着东部的墙，越过阳台栏杆跳到露出地面的小窗台上。顺着小路进入附近的凹室，然后爬上梯子。箱子在梯子顶端的房间里，由3个辉石魔法师和一个较小的<b>[发狂南瓜头士兵]</b>守卫。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2302&lat=-134.851562&lng=58.318709&zoom=8&code=mapA">[地图链接]</a>'
   - id: '186'
     icon: /img/icons/armor/15290.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Incantation+Scarab"><b>[祷告粪金龟]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Incantation+Scarab"><b>祷告粪金龟</b></a>
+    - 解开<b>[绘画《归巢》]</b>的谜题，在<b>[宁姆格福]</b><b>[画家的破屋]</b>取得画后去<b>[龙息废墟]</b>西南墓地和画家灵魂互动后拾取
+  table:
+  - 名称
+  - 位置
 - title: 小恶魔套装
   items:
   - id: '187'
     icon: /img/icons/armor/14820.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Cat)"><b>[小恶魔头罩（猫）]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Cat)"><b>小恶魔头罩（猫）</b></a>
+    - '来自小恶魔的稀有掉落。刷的地点: 从<b>赐福[穿刺地下墓地]</b>出发跑到楼梯底部杀小恶魔，然后跑回来杀死接近顶部的一个。'
   - id: '188'
     icon: /img/icons/armor/14860.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Wolf)"><b>[小恶魔头罩（狼）]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Wolf)"><b>小恶魔头罩（狼）</b></a>
+    - '各墓地使用<b>[分岔大剑]</b>的狼头小恶魔掉落<br><b>[小黄金树地下墓地]</b>: 一个石棺的尸体上。快速到达它的方法是乘坐电梯把它送上去，然后再下降到下面的房间。从那里，沿着腐烂的走廊走，在第一个路口右转。直走，到隔壁房间，顺着右边的梯子爬上去。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5553&lat=-167.5625&lng=130.394503&zoom=8&code=mapA">[地图链接]</a>'
   - id: '189'
     icon: /img/icons/armor/14830.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Fanged)"><b>[小恶魔头罩（尖牙）]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Fanged)"><b>小恶魔头罩（尖牙）</b></a>
+    - 相同头盔的小恶魔稀有掉落。可以在<b>[断崖下的地下墓地]</b>和<b>[威达姆地下墓地]</b>找到。最适合刷的地方可能是<b>[威达姆地下墓地]</b>。出发下电梯，送电梯回去，去隔壁房间，杀死2个小恶魔，去下一房间，杀死2个小恶魔，传回赐福，重复。
   - id: '190'
     icon: /img/icons/armor/14840.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Long-Tongued)"><b>[小恶魔头罩（耸舌）]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Long-Tongued)"><b>小恶魔头罩（耸舌）</b></a>
+    - '在<b>[弃置恶兆的地底]</b>发现的小恶魔几率掉落: 从<b>赐福[地底大道旁]</b>通过捷径门向南走。这个房间有耸舌小恶魔。'
   - id: '191'
     icon: /img/icons/armor/14850.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Corpse)"><b>[小恶魔头罩（长生者）]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Corpse)"><b>小恶魔头罩（长生者）</b></a>
+    - '<b>[王城罗德尔]</b>: <b>赐福[王城东边城墙]</b>出发走楼梯到西部向南跳到金色屋顶，然后再下来，小心敌人，有两个黑暗的通道，向东走左边一个，跳下来的左边有一个尸体。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8293&lat=-101.6875&lng=118.988709&zoom=8&code=mapA">[地图链接]</a>或者，从<b>赐福[大道旁露台]</b>出发走楼梯到东南，进入贯穿城市的主要道路。沿着路向东北走，直到你到达城市东部边缘的大门，然后右转，然后沿着墙向南走，直到你到达这具尸体。'
   - id: '192'
     icon: /img/icons/armor/14870.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Elder)"><b>[小恶魔头罩（长老）]</b></a>
-- title: 诺克斯镜面盔 (只有头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Elder)"><b>小恶魔头罩（长老）</b></a>
+    - '在<b>[化圣雪原地下墓地]</b>中: 二楼的一个房间里，有一只小归树看门犬看守着。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2981&lat=-78.19&lng=149.38&zoom=8&code=mapA">[地图链接]</a>'
+  table:
+  - 名称
+  - 位置
+- title: 诺克斯镜面盔 (仅头部)
   items:
   - id: '193'
     icon: /img/icons/armor/14950.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nox+Mirrorhelm"><b>[诺克斯镜面盔]</b></a>
-- title: 伊吉镜面盔 (只有头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Nox+Mirrorhelm"><b>诺克斯镜面盔</b></a>
+    - '<b>[断崖下的地下墓地]</b>: 在密封的房间里，解除小恶魔像封印的雾门进入。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5653&lat=-161.984375&lng=85.356131&zoom=8&code=mapA">[地图链接]</a>'
+  table:
+  - 名称
+  - 位置
+- title: 伊吉镜面盔 (仅头部)
   items:
   - id: '194'
     icon: /img/icons/armor/14960.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Iji's+Mirrorhelm"><b>[伊吉镜面盔]</b></a>
-- title: 银色泪滴面具 (只有头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Iji's+Mirrorhelm"><b>伊吉镜面盔</b></a>
+    - 当玩家在<b>[魔女菈妮]</b>的任务线中遇到<b>[“半狼”布莱泽]</b>后，<b>[军师伊吉]</b>有新对话，逐步推进任务线到结束时再与他交谈后刷新，他的尸体会出现在铁砧旁，在他的铁砧上找到头盔。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5794&lat=-108.6875&lng=51.929589&zoom=8&code=mapA">[地图链接]</a>
+  table:
+  - 名称
+  - 位置
+- title: 银色泪滴面具 (仅头部)
   items:
   - id: '195'
     icon: /img/icons/armor/14880.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Silver+Tear+Mask"><b>[银色泪滴面具]</b></a>
-- title: 众使者大头冠 (只有头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Silver+Tear+Mask"><b>银色泪滴面具</b></a>
+    - <b>[“永恒之城”诺克隆恩]</b>的Boss<b>[仿身泪滴]</b>掉落。<a href="https://eldenring.wiki.fextralife.com/Interactive+map?id=1761&lat=-188.5&lng=128.61356&zoom=8&code=mapB">[地图链接]</a>
+  table:
+  - 名称
+  - 位置
+- title: 众使者大头冠 (仅头部)
   items:
   - id: '196'
     icon: /img/icons/armor/14300.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Envoy+Crown"><b>[众使者大头冠]</b></a>
-- title: 章鱼头罩 (只有头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Envoy+Crown"><b>众使者大头冠</b></a>
+    - <b>赐福[米凯拉的圣树]</b>东南方向。(在巨人蚂蚁巡逻的树枝顶端，在一具神谕众使者身后的尸体上。)<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=6067&lat=-50.014063&lng=148.463578&zoom=8&code=mapA">[地图链接]</a>
+  table:
+  - 名称
+  - 位置
+- title: 章鱼头罩 (仅头部)
   items:
   - id: '197'
     icon: /img/icons/armor/14920.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Octopus+Head"><b>[章鱼头罩]</b></a>
-- title: 壶头罩 (只有头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Octopus+Head"><b>章鱼头罩</b></a>
+    - 可以通过杀死陆地章鱼获得(不要与巨型陆地章鱼混淆)。在<b>赐福[圣人桥]</b>南边靠近<b>[“战士壶”亚历山大]</b>第一次相遇地点的小湖泊可以发现许多陆地章鱼。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=834&lat=-175.387501&lng=107.888276&zoom=8&code=mapA">[地图链接]</a>。<br>在<b>[湖之利耶尼亚]</b>的<b>赐福[教堂区]</b>的西南部可以发现一些陆地章鱼。<br>在<b>赐福[希芙拉河（岸边）]</b>的北面，地图上的大柱子附近，有几只巨大的陆地章鱼，以及许多较小的陆地章鱼。
+  table:
+  - 名称
+  - 位置
+- title: 壶头罩 (仅头部)
   items:
   - id: '198'
     icon: /img/icons/armor/14930.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Jar"><b>[壶头罩]</b></a>
-- title: 白金之子套装 (无腕甲腿甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Jar"><b>壶头罩</b></a>
+    - <b>[“战士壶”亚历山大]</b>给予。他的任务线进行到在<b>[格密尔火山]</b><b>[沸滚河终点]</b>附近的岩浆中找到他。完成对话获得。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8305&lat=-90.91&lng=58.31&zoom=8&code=mapA">[地图链接]</a>
+  table:
+  - 名称
+  - 位置
+- title: 白金之子套装 (无腕部和腿部)
   link: https://eldenring.wiki.fextralife.com/Albinauric+Set
   items:
   - id: '199'
     icon: /img/icons/armor/14800.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Albinauric+Mask"><b>[白金之子头罩]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Albinauric+Mask"><b>白金之子头罩</b></a>
+    - 位于<b>[火山官邸]</b><b>赐福[迎宾厅]</b>附近。从赐福点向左走，然后再向左走，走楼梯到下一层。走出去，用左手边的梯子上屋顶。去屋顶后面，从右边跳下去，来到一个有<b>[恶兆猎人]</b>，
+      <b>[白金杖]</b>和<b>[白金之子头罩]</b>的房间。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8289&lat=-90.734375&lng=59.996338&zoom=8&code=mapA">[地图链接]</a>
   - id: '571'
     icon: /img/icons/armor/14801.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Dirty+Chainmail"><b>[骯脏锁子铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Dirty+Chainmail"><b>骯脏锁子铠甲</b></a>
+    - 由装备胸甲的二代白金之子掉落。在<b>[湖之利耶尼亚]</b>的<b>赐福[学院门前镇]</b>附近有一个好刷的四人组。从赐福点向西北方向走，直到你到达一个拐角处有一个小塔的L型建筑。将有2个在左侧倾斜的屋顶，2个在塔附近。
+  table:
+  - 名称
+  - 位置
 - title: 黑布套装
   link: https://eldenring.wiki.fextralife.com/Leather+Set
   items:
   - id: '201'
     icon: /img/icons/armor/14970.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Black+Hood"><b>[黑布风帽]</b></a>
-      (和套装其他部分排序不同，游戏中显示在<b>[盗贼面具]</b>
-      and <b>[密使风帽]</b>之间)
+    - <a href="https://eldenring.wiki.fextralife.com/Black+Hood"><b>黑布风帽</b></a> (未按套装顺序排列，出现在<b>盗贼面具</b>和<b>密使风帽</b>之间)
+      in-game.)
+    - 在<b>[亚坛高原]</b>中<b>[贤者的洞窟]</b>虚幻的墙后面的一个箱子中发现的。
   - id: '202'
     icon: /img/icons/armor/14971.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Leather+Armor"><b>[皮革铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Leather+Armor"><b>皮革铠甲</b></a>
+    - 杀死<b>[帕奇]</b>掉落该套装的盔甲，手套和靴子。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8451&lat=-185.00&lng=109.91&zoom=8&code=mapA">[地图链接]</a>
   - id: '203'
     icon: /img/icons/armor/14972.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Leather+Gloves"><b>[皮革手套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Leather+Gloves"><b>皮革手套</b></a>
+    - ''
   - id: '204'
     icon: /img/icons/armor/14973.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Leather+Boots"><b>[皮革靴子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Leather+Boots"><b>皮革靴子</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 蓝布套装
   link: https://eldenring.wiki.fextralife.com/Blue+Cloth+Set
   items:
   - id: '205'
     icon: /img/icons/armor/14030.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blue+Cloth+Cowl"><b>[蓝布头巾]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blue+Cloth+Cowl"><b>蓝布头巾</b></a>
+    - 剑士职业初始自带，<b>[魔法学院雷亚卢卡利亚]</b>的<b>[隐居商人]</b>出售。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4671&lat=-137.03125&lng=59.964571&zoom=8&code=mapA">[地图链接]</a>
   - id: '206'
     icon: /img/icons/armor/14031.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blue+Cloth+Vest"><b>[蓝布上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blue+Cloth+Vest"><b>蓝布上衣</b></a>
+    - ''
   - id: '207'
     icon: /img/icons/armor/14032.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Warrior+Gauntlets"><b>[剑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Warrior+Gauntlets"><b>剑士臂甲</b></a>
+    - ''
   - id: '208'
     icon: /img/icons/armor/14033.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Warrior+Greaves"><b>[剑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Warrior+Greaves"><b>剑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 贵族套装
   link: https://eldenring.wiki.fextralife.com/Noble's+Set
   items:
   - id: '209'
     icon: /img/icons/armor/14130.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Crimson+Hood"><b>[暗红风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Crimson+Hood"><b>暗红风帽</b></a>
+    - 在<b>[亚坛高原]</b><b>[东边风车牧场]</b>中，在一圈庆典舞者中间的火中。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5840&lat=-75.078125&lng=90.836225&zoom=8&code=mapA">[地图链接]</a>
   - id: '210'
     icon: /img/icons/armor/14140.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Navy+Hood"><b>[深蓝风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Navy+Hood"><b>深蓝风帽</b></a>
+    - ''
   - id: '211'
     icon: /img/icons/armor/14131.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Noble's+Traveling+Garb"><b>[贵族旅行装]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Noble's+Traveling+Garb"><b>贵族旅行装</b></a>
+    - ''
   - id: '213'
     icon: /img/icons/armor/14132.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Noble's+Gloves"><b>[贵族手套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Noble's+Gloves"><b>贵族手套</b></a>
+    - ''
   - id: '212'
     icon: /img/icons/armor/14133.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Noble's+Trousers"><b>[贵族长裤]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Noble's+Trousers"><b>贵族长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 战场医师套装
   link: https://eldenring.wiki.fextralife.com/War+Surgeon+Set
   items:
   - id: '214'
     icon: /img/icons/armor/14040.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/White+Mask"><b>[白面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/White+Mask"><b>白面具</b></a>
+    - 在<b>[希芙拉河]</b>的<b>[蒙格温王朝庙]</b>区域内，在<b>赐福[通往王朝的崖上道路]</b>西边的血池里，三个NPC入侵者<b>[无名白面具]</b>之一掉落。到达那里最简单的方法是从赐福下山，走左边一路到达血池。需要的入侵者在巨鸦旁边的巨大石柱后面。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=6531&code=mapB">[地图链接]</a>
   - id: '215'
     icon: /img/icons/armor/14041.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/War+Surgeon+Gown"><b>[战场医师白上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/War+Surgeon+Gown"><b>战场医师白上衣</b></a>
+    - ''
   - id: '217'
     icon: /img/icons/armor/14042.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/War+Surgeon+Gloves"><b>[战场医师手套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/War+Surgeon+Gloves"><b>战场医师手套</b></a>
+    - ''
   - id: '218'
     icon: /img/icons/armor/14043.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/War+Surgeon+Trousers"><b>[战场医师长裤]</b></a>
-- title: 流浪商人套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/War+Surgeon+Trousers"><b>战场医师长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 流浪商人套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Nomadic+Merchant's+Set
   items:
   - id: '219'
     icon: /img/icons/armor/13320.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nomadic+Merchant's+Chapeau"><b>[流浪商人帽子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nomadic+Merchant's+Chapeau"><b>流浪商人帽子</b></a>
+    - 在<b>[王城罗德尔]</b>下面<b>[弃置恶兆的地底]</b>的<b>[“恶兆之子”蒙格]</b>的Boss房间<b>赐福[弃置恶兆的大教堂]</b>祭坛后面的隐藏隧道中。
   - id: '220'
     icon: /img/icons/armor/13321.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nomadic+Merchant's+Finery"><b>[流浪商人上衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nomadic+Merchant's+Finery"><b>流浪商人上衣</b></a>
+    - ''
   - id: '222'
     icon: /img/icons/armor/13323.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nomadic+Merchant's+Trousers"><b>[流浪商人长裤]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nomadic+Merchant's+Trousers"><b>流浪商人长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 盗贼套装
   link: https://eldenring.wiki.fextralife.com/Bandit+Set
   items:
   - id: '223'
     icon: /img/icons/armor/14980.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bandit+Mask"><b>[盗贼面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bandit+Mask"><b>盗贼面具</b></a>
+    - 强盗职业初始自带。<b>[宁姆格福]</b>北部的<b>[流浪民族的商人]</b>卖1,500卢恩。在击杀<b>[“接肢”葛瑞克]</b>前<b>[门卫葛托克]</b>处也能买到。或将<b>[葛托克的铃珠]</b>交给<b>[孪生老妪]</b>后可以购买。
   - id: '224'
     icon: /img/icons/armor/14541.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bandit+Garb"><b>[盗贼束腰衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bandit+Garb"><b>盗贼束腰衣</b></a>
+    - ''
   - id: '225'
     icon: /img/icons/armor/14532.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bandit+Manchettes"><b>[盗贼腕套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bandit+Manchettes"><b>盗贼腕套</b></a>
+    - ''
   - id: '226'
     icon: /img/icons/armor/14533.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bandit+Boots"><b>[盗贼靴子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bandit+Boots"><b>盗贼靴子</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 密使套装
   link: https://eldenring.wiki.fextralife.com/Confessor+Set
   items:
   - id: '227'
     icon: /img/icons/armor/14420.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Confessor+Hood"><b>[密使风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Confessor+Hood"><b>密使风帽</b></a>
+    - 密使职业初始自带。<b>[格密尔火山]</b>的<b>[流浪民族的商人]</b>出售。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1332&lat=-80.8125&lng=70.236035&zoom=8&code=mapA">[地图链接]</a>
   - id: '229'
     icon: /img/icons/armor/14421.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Confessor+Armor"><b>[密使铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Confessor+Armor"><b>密使铠甲</b></a>
+    - ''
   - id: '231'
     icon: /img/icons/armor/14422.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Confessor+Gloves"><b>[密使手套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Confessor+Gloves"><b>密使手套</b></a>
+    - ''
   - id: '232'
     icon: /img/icons/armor/14423.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Confessor+Boots"><b>[密使靴子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Confessor+Boots"><b>密使靴子</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 恶兆猎人套装
   link: https://eldenring.wiki.fextralife.com/Omenkiller+Set
   items:
   - id: '233'
     icon: /img/icons/armor/15270.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Omensmirk+Mask"><b>[恶兆笑脸面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Omensmirk+Mask"><b>恶兆笑脸面具</b></a>
+    - 在<b>[王城罗德尔]</b>的<b>赐福[王城底层教堂]</b>外挥舞双剑戴面具的人掉落。
   - id: '234'
     icon: /img/icons/armor/15271.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Omenkiller+Robe"><b>[恶兆猎人长袍]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Omenkiller+Robe"><b>恶兆猎人长袍</b></a>
+    - ''
   - id: '235'
     icon: /img/icons/armor/15272.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Omenkiller+Long+Gloves"><b>[恶兆猎人长手套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Omenkiller+Long+Gloves"><b>恶兆猎人长手套</b></a>
+    - ''
   - id: '236'
     icon: /img/icons/armor/15273.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Omenkiller+Boots"><b>[恶兆猎人靴子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Omenkiller+Boots"><b>恶兆猎人靴子</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 亡骨套装
   link: https://eldenring.wiki.fextralife.com/Raptor's+Set
   items:
   - id: '237'
     icon: /img/icons/armor/14530.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Skeletal+Mask"><b>[亡骨面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Skeletal+Mask"><b>亡骨面具</b></a>
+    - <b>[亡骨面具]</b>和<b>[猛禽黑羽]</b>可以在<b>[贤者的洞窟]</b>中找到，在一个幻影墙后面的宝箱里。它们并排放在不同的箱子里。
   - id: '238'
     icon: /img/icons/armor/14531.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Raptor's+Black+Feathers"><b>[猛禽黑羽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Raptor's+Black+Feathers"><b>猛禽黑羽</b></a>
+    - ''
   - id: '239'
     icon: /img/icons/armor/14532.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bandit+Manchettes"><b>[盗贼腕套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bandit+Manchettes"><b>盗贼腕套</b></a>
+    - 强盗职业初始自带<b>[盗贼腕套]</b>和<b>[盗贼靴子]</b>。也可以从<b>[史东薇尔城]</b>中的<b>[门卫葛托克]</b>处购买。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+map?id=6394&lat=-181.578125&lng=89.153153&zoom=8&code=mapA">[地图链接]</a>
   - id: '240'
     icon: /img/icons/armor/14533.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bandit+Boots"><b>[盗贼靴子]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bandit+Boots"><b>盗贼靴子</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 葛瑞克小兵套装
   link: https://eldenring.wiki.fextralife.com/Godrick+Foot+Soldier+Set
   items:
   - id: '245'
     icon: /img/icons/armor/15210.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Cap"><b>[小兵铁帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Cap"><b>小兵铁帽</b></a>
+    - 在<b>[宁姆格福]</b>的葛瑞克步兵掉落。<b>[小兵臂甲]</b>和<b>[小兵腿甲]</b>只有葛瑞克步兵掉落，即使葛瑞克士兵也穿着他们。在靠近<b>赐福[亚基尔湖北方]</b>桥西侧的营火旁可以找到两个，在<b>[黑夜骑兵]</b>出现的地方。
   - id: '246'
     icon: /img/icons/armor/15211.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Chain-Draped+Tabard"><b>[锁子披肩软铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Chain-Draped+Tabard"><b>锁子披肩软铠甲</b></a>
+    - ''
   - id: '252'
     icon: /img/icons/armor/15212.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Gauntlets"><b>[小兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Gauntlets"><b>小兵臂甲</b></a>
+    - ''
   - id: '253'
     icon: /img/icons/armor/15213.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>[小兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>小兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 雷亚卢卡利亚小兵套装
   link: https://eldenring.wiki.fextralife.com/Raya+Lucarian+Foot+Soldier+Set
   items:
   - id: '243'
     icon: /img/icons/armor/15220.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Helmet"><b>[小兵铁头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Helmet"><b>小兵铁头盔</b></a>
+    - 在<b>[湖之利耶尼亚]</b>道路上巡逻的雷亚卢卡利亚步兵掉落。
   - id: '244'
     icon: /img/icons/armor/15221.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Tabard"><b>[小兵软铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Tabard"><b>小兵软铠甲</b></a>
+    - ''
   - id: '573'
     icon: /img/icons/armor/15212.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Gauntlets"><b>[小兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Gauntlets"><b>小兵臂甲</b></a>
+    - <b>[小兵臂甲]</b>和<b>[小兵腿甲]</b>只有葛瑞克步兵掉落。
   - id: '574'
     icon: /img/icons/armor/15213.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>[小兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>小兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 拉塔恩小兵套装
   link: https://eldenring.wiki.fextralife.com/Radahn+Foot+Soldier+Set
   items:
   - id: '241'
     icon: /img/icons/armor/15240.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Helm"><b>[小兵头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Helm"><b>小兵头盔</b></a>
+    - 在<b>[盖利德]</b>许多设防地区和营地发现的拉塔恩步兵掉落。
   - id: '242'
     icon: /img/icons/armor/15241.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Scarlet+Tabard"><b>[猩红软铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Scarlet+Tabard"><b>猩红软铠甲</b></a>
+    - ''
   - id: '575'
     icon: /img/icons/armor/15212.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Gauntlets"><b>[小兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Gauntlets"><b>小兵臂甲</b></a>
+    - <b>[小兵臂甲]</b>和<b>[小兵腿甲]</b>只有葛瑞克步兵掉落。
   - id: '576'
     icon: /img/icons/armor/15213.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>[小兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>小兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 小兵金套装
   link: https://eldenring.wiki.fextralife.com/Leyndell+Foot+Soldier+Set
   items:
   - id: '247'
     icon: /img/icons/armor/15230.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Gilded+Foot+Soldier+Cap"><b>[小兵金帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Gilded+Foot+Soldier+Cap"><b>小兵金帽</b></a>
+    - 在<b>[亚坛高原]</b>道路上巡逻以及在<b>[格密尔火山]</b>中露营的罗德尔步兵掉落。
   - id: '248'
     icon: /img/icons/armor/15231.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Leather-Draped+Tabard"><b>[皮革披肩软铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Leather-Draped+Tabard"><b>皮革披肩软铠甲</b></a>
+    - ''
   - id: '577'
     icon: /img/icons/armor/15212.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Gauntlets"><b>[小兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Gauntlets"><b>小兵臂甲</b></a>
+    - <b>[小兵臂甲]</b>和<b>[小兵腿甲]</b>只有葛瑞克步兵掉落。
   - id: '578'
     icon: /img/icons/armor/15213.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>[小兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>小兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 圣冠套装
-  link: https://eldenring.wiki.fextralife.com/Haligtree+Foot+Soldier+Set
+  link: https://eldenring.wiki.fextralife.com/  +Foot+Soldier+Set
   items:
   - id: '249'
     icon: /img/icons/armor/15260.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Sacred+Crown+Helm"><b>[圣冠铁头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Sacred+Crown+Helm"><b>圣冠铁头盔</b></a>
+    - 在<b>[“圣树分枝”艾布雷菲尔]</b>中的圣树步兵掉落。
   - id: '250'
     icon: /img/icons/armor/15261.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ivory-Draped+Tabard"><b>[象牙披肩软铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Ivory-Draped+Tabard"><b>象牙披肩软铠甲</b></a>
+    - ''
   - id: '579'
     icon: /img/icons/armor/15212.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Gauntlets"><b>[小兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Gauntlets"><b>小兵臂甲</b></a>
+    - <b>[小兵臂甲]</b>和<b>[小兵腿甲]</b>只有葛瑞克步兵掉落。
   - id: '580'
     icon: /img/icons/armor/15213.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>[小兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>小兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 灵庙小兵套装
   link: https://eldenring.wiki.fextralife.com/Mausoleum+Foot+Soldier+Set
   items:
   - id: '251'
     icon: /img/icons/armor/15251.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bloodsoaked+Tabard"><b>[淌血软铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bloodsoaked+Tabard"><b>淌血软铠甲</b></a>
+    - <b>[淌血软铠甲]</b>从灵庙步兵掉落。他们可以在<b>[离教废屋]</b>南部漫步灵庙附近找到。他们与灵庙士兵和灵庙骑士同组，可以通过他们携带的角来识别。
   - id: '581'
     icon: /img/icons/armor/15212.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Gauntlets"><b>[小兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Gauntlets"><b>小兵臂甲</b></a>
+    - <b>[小兵臂甲]</b>和<b>[小兵腿甲]</b>只有葛瑞克步兵掉落。
   - id: '582'
     icon: /img/icons/armor/15213.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>[小兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>小兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 强盗套装
   link: https://eldenring.wiki.fextralife.com/Highwayman+Set
   items:
   - id: '254'
     icon: /img/icons/armor/15380.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Highwayman+Hood"><b>[强盗风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Highwayman+Hood"><b>强盗风帽</b></a>
+    - 在<b>[蒙流洞窟]</b>的拦路强盗掉落<b>[强盗风帽]</b>, <b>[强盗软铠甲]</b>和<b>[强盗臂甲]</b>被。如果你在<b>赐福[蒙流洞窟]</b>触发第一个房间的铃铛陷阱，多个拦路强盗将会来到你的路上，这可以提高刷的效率。
   - id: '255'
     icon: /img/icons/armor/15381.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Highwayman+Cloth+Armor"><b>[强盗软铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Highwayman+Cloth+Armor"><b>强盗软铠甲</b></a>
+    - ''
   - id: '256'
     icon: /img/icons/armor/15382.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Highwayman+Gauntlets"><b>[强盗臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Highwayman+Gauntlets"><b>强盗臂甲</b></a>
+    - ''
   - id: '257'
     icon: /img/icons/armor/15213.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>[小兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>小兵腿甲</b></a>
+    - <b>[小兵腿甲]</b>只有葛瑞克步兵掉落。
+  table:
+  - 名称
+  - 位置
 - title: 恶兵套装
   link: https://eldenring.wiki.fextralife.com/Vulgar+Militia+Set
   items:
   - id: '258'
     icon: /img/icons/armor/13600.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Vulgar+Militia+Helm"><b>[恶兵头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Vulgar+Militia+Helm"><b>恶兵头盔</b></a>
+    - <b>赐福[野兽神殿]</b>和<b>赐福[法姆大桥]</b>周围的恶兵掉落。
   - id: '259'
     icon: /img/icons/armor/13601.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Vulgar+Militia+Armor"><b>[恶兵铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Vulgar+Militia+Armor"><b>恶兵铠甲</b></a>
+    - ''
   - id: '260'
     icon: /img/icons/armor/13602.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Vulgar+Militia+Gauntlets"><b>[恶兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Vulgar+Militia+Gauntlets"><b>恶兵臂甲</b></a>
+    - ''
   - id: '261'
     icon: /img/icons/armor/13603.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Vulgar+Militia+Greaves"><b>[恶兵腿甲]</b></a>
-- title: 斗士套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Vulgar+Militia+Greaves"><b>恶兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 斗士套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Duelist+Set
   items:
   - id: '262'
     icon: /img/icons/armor/13430.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Duelist+Helm"><b>[斗士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Duelist+Helm"><b>斗士头盔</b></a>
+    - 从位于<b>[王城罗德尔]</b>的斗士类敌人身上掉落。在城市西南地区的一座小山上有一个明显的竞技场，里面有两个斗士，一个在路上巡逻，一个在山顶。这两个敌人都有机会掉落所有三个部件。从<b>[王城西边城墙]</b>出发，走右边的门(西南门)。继续沿着这条路，走向并越过前方的敌人，从大树枝下经过，然后上楼梯右转找到他们。击败<b>[“黑剑”玛利喀斯]</b>后不再刷新。
   - id: '263'
     icon: /img/icons/armor/13431.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Gravekeeper+Cloak"><b>[守墓斗篷]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Gravekeeper+Cloak"><b>守墓斗篷</b></a>
+    - ''
   - id: '265'
     icon: /img/icons/armor/13433.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Duelist+Greaves"><b>[斗士腿甲]</b></a>
-- title: 腐败斗士套装 (无腕甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Duelist+Greaves"><b>斗士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 腐败斗士套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Rotten+Duelist+Set
   items:
   - id: '266'
     icon: /img/icons/armor/15410.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Rotten+Duelist+Helm"><b>[腐败斗士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Rotten+Duelist+Helm"><b>腐败斗士头盔</b></a>
+    - 每个部件都是通过杀死不同的腐败斗士获得。每个敌人只需要杀死一次就可以获得装备。<b>[腐败斗士头盔]</b>通过杀死<b>赐福[化圣雪原]</b>西北的腐败斗士获得。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4672&lat=-82.265625&lng=140.229448&zoom=8&code=mapA">[地图链接]</a>
   - id: '267'
     icon: /img/icons/armor/15411.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Rotten+Gravekeeper+Cloak"><b>[腐败守墓斗篷]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Rotten+Gravekeeper+Cloak"><b>腐败守墓斗篷</b></a>
+    - <b>[腐败守墓斗篷]</b>通过杀死<b>[化圣雪原地下墓地]</b>的Boss<b>[腐败守墓斗士]</b>获得。
   - id: '269'
     icon: /img/icons/armor/15413.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Rotten+Duelist+Greaves"><b>[腐败斗士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Rotten+Duelist+Greaves"><b>腐败斗士腿甲</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2982&lat=-79.09&lng=148.63&zoom=8&code=mapA">[地图链接]</a><b>[腐败斗士腿甲]</b>通过杀死<b>[“仪典镇”奥缇那]</b>西北悬崖边的腐败斗士获得。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2983&lat=-61.8&lng=136.34&zoom=8&code=mapA">[地图链接]</a>
+  table:
+  - 名称
+  - 位置
 - title: 诺克斯修士套装
   link: https://eldenring.wiki.fextralife.com/Nox+Monk+Set
   items:
   - id: '270'
     icon: /img/icons/armor/13390.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Hood"><b>[诺克斯修士风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Hood"><b>诺克斯修士风帽</b></a>
+    - 手套和护具可以从<b>赐福[“永恒之城”诺克史黛拉]</b>的诺克斯剑士，诺克斯牧师和诺克斯教士掉落，因为他们有相同的护甲装备。头盔和胸甲只能由诺克斯教士掉落。两个可以在<b>赐福[“永恒之城”诺克史黛拉]</b>西北的废墟中找到。在连接建筑物的桥之前的楼梯上你可以找到两个。
   - id: '272'
     icon: /img/icons/armor/13391.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Armor"><b>[诺克斯修士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Armor"><b>诺克斯修士铠甲</b></a>
+    - ''
   - id: '274'
     icon: /img/icons/armor/13392.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Bracelets"><b>[诺克斯修士手环]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Bracelets"><b>诺克斯修士手环</b></a>
+    - ''
   - id: '275'
     icon: /img/icons/armor/13393.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Greaves"><b>[诺克斯修士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Greaves"><b>诺克斯修士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 诺克斯剑士套装
   link: https://eldenring.wiki.fextralife.com/Nox+Swordstress+Set
   items:
   - id: '276'
     icon: /img/icons/armor/13410.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nox+Swordstress+Crown"><b>[诺克斯剑士头冠]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nox+Swordstress+Crown"><b>诺克斯剑士头冠</b></a>
+    - <b>[“永恒之城”诺克隆恩]</b>和<b>[“永恒之城”诺克史黛拉]</b>的<b>[诺克斯剑士]</b>掉落。其中三个可以在<b>赐福[“永恒之城”诺克史黛拉]</b>附近找到。一个在侧房的楼梯上，另两个在河里骑着巨型蚂蚁。
   - id: '278'
     icon: /img/icons/armor/13411.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nox+Swordstress+Armor"><b>[诺克斯剑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nox+Swordstress+Armor"><b>诺克斯剑士铠甲</b></a>
+    - ''
   - id: '280'
     icon: /img/icons/armor/13392.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Bracelets"><b>[诺克斯修士手环]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Bracelets"><b>诺克斯修士手环</b></a>
+    - ''
   - id: '281'
     icon: /img/icons/armor/13393.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Greaves"><b>[诺克斯修士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Greaves"><b>诺克斯修士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 黑夜女巫套装
   link: https://eldenring.wiki.fextralife.com/Night+Maiden+Set
   items:
   - id: '282'
     icon: /img/icons/armor/15460.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Night+Maiden+Twin+Crown"><b>[黑夜女巫双生冠]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Night+Maiden+Twin+Crown"><b>黑夜女巫双生冠</b></a>
+    - <b>[“永恒之城”诺克隆恩]</b>和<b>[“永恒之城”诺克史黛拉]</b>的黑夜女巫掉落。在<b>赐福[黑夜神域]</b>的教堂区域可以找到两个。打开这个建筑的捷径后可以比较方便地反复刷。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1901&lat=-184.085937&lng=127.629371&zoom=8&code=mapB">[地图链接]</a>
   - id: '283'
     icon: /img/icons/armor/15461.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Night+Maiden+Armor"><b>[黑夜女巫铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Night+Maiden+Armor"><b>黑夜女巫铠甲</b></a>
+    - ''
   - id: '284'
     icon: /img/icons/armor/13392.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Bracelets"><b>[诺克斯修士手环]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Bracelets"><b>诺克斯修士手环</b></a>
+    - ''
   - id: '285'
     icon: /img/icons/armor/13393.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Greaves"><b>[诺克斯修士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Nox+Monk+Greaves"><b>诺克斯修士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 勇者套装
   link: https://eldenring.wiki.fextralife.com/Champion+Set
   items:
   - id: '286'
     icon: /img/icons/armor/14120.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Champion+Headband"><b>[勇者头带]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Champion+Headband"><b>勇者头带</b></a>
+    - 勇者职业初始自带。<b>[盖利德]</b>南部的<b>[流浪民族的商人]</b>出售。
   - id: '287'
     icon: /img/icons/armor/14121.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Champion+Pauldron"><b>[勇者肩甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Champion+Pauldron"><b>勇者肩甲</b></a>
+    - ''
   - id: '288'
     icon: /img/icons/armor/14122.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Champion+Bracers"><b>[勇者臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Champion+Bracers"><b>勇者臂甲</b></a>
+    - ''
   - id: '289'
     icon: /img/icons/armor/14123.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Champion+Gaiters"><b>[勇者绑腿]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Champion+Gaiters"><b>勇者绑腿</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 锁子套装
   link: https://eldenring.wiki.fextralife.com/Chain+Set
   items:
   - id: '290'
     icon: /img/icons/armor/14890.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Chain+Coif"><b>[锁子头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Chain+Coif"><b>锁子头盔</b></a>
+    - 可以从<b>[宁姆格福]</b><b>赐福[艾雷教堂]</b>的<b>[“流浪商人”咖列]</b>处购买。这套套装总共花费4,500卢恩(胸甲1,500，其余1,000)。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4&lat=-191.1875&lng=100.041878&zoom=8&code=mapA">[地图链接]</a>
   - id: '291'
     icon: /img/icons/armor/14891.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Chain+Armor"><b>[锁子铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Chain+Armor"><b>锁子铠甲</b></a>
+    - ''
   - id: '292'
     icon: /img/icons/armor/14911.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Tree+Surcoat"><b>[大树筒形外衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Tree+Surcoat"><b>大树筒形外衣</b></a>
+    - ''
   - id: '293'
     icon: /img/icons/armor/14901.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Eye+Surcoat"><b>[眼眸筒形外衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Eye+Surcoat"><b>眼眸筒形外衣</b></a>
+    - ''
   - id: '294'
     icon: /img/icons/armor/14892.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Chain+Gauntlets"><b>[护臂]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Chain+Gauntlets"><b>护臂</b></a>
+    - ''
   - id: '295'
     icon: /img/icons/armor/14893.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Chain+Leggings"><b>[锁子腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Chain+Leggings"><b>锁子腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 铁套装
   link: https://eldenring.wiki.fextralife.com/Iron+Set
   items:
   - id: '297'
     icon: /img/icons/armor/13000.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Iron+Helmet"><b>[铁头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Iron+Helmet"><b>铁头盔</b></a>
+    - 可以从<b>赐福[摩恩城（城墙前方）]</b>旁的<b>[流浪民族的商人]</b>处购买。头盔，手套和裤子1,500卢恩，盔甲2,400卢恩。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=475&lat=-215.457813&lng=115.302844&zoom=8&code=mapA">[地图链接]</a>
   - id: '298'
     icon: /img/icons/armor/13001.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Scale+Armor"><b>[鳞甲]</b></a>
-      (和套装其他部分排序不同，游戏中排在胸甲第七区域第一个)
+    - <a href="https://eldenring.wiki.fextralife.com/Scale+Armor"><b>鳞甲</b></a> (未按套装顺序排列，出现在胸甲第七区域第一格)
+    - ''
   - id: '299'
     icon: /img/icons/armor/13002.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Iron+Gauntlets"><b>[铁臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Iron+Gauntlets"><b>铁臂甲</b></a>
+    - ''
   - id: '300'
     icon: /img/icons/armor/13003.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Leather+Trousers"><b>[皮革长裤]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Leather+Trousers"><b>皮革长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 葛瑞克士兵套装
   link: https://eldenring.wiki.fextralife.com/Godrick+Soldier+Set
   items:
   - id: '301'
     icon: /img/icons/armor/15010.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Soldier+Helm"><b>[葛瑞克士兵头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Soldier+Helm"><b>葛瑞克士兵头盔</b></a>
+    - 葛瑞克士兵掉落所有四件套装，可以在<b>[关卡前废墟]</b>中轻松找到。
   - id: '302'
     icon: /img/icons/armor/15011.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Tree-and-Beast+Surcoat"><b>[大树与野兽筒形外衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Tree-and-Beast+Surcoat"><b>大树与野兽筒形外衣</b></a>
+    - ''
   - id: '303'
     icon: /img/icons/armor/15012.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Soldier+Gauntlets"><b>[葛瑞克士兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Soldier+Gauntlets"><b>葛瑞克士兵臂甲</b></a>
+    - ''
   - id: '304'
     icon: /img/icons/armor/15013.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Soldier+Greaves"><b>[葛瑞克士兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Soldier+Greaves"><b>葛瑞克士兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 雷亚卢卡利亚士兵套装
   link: https://eldenring.wiki.fextralife.com/Raya+Lucarian+Soldier+Set
   items:
   - id: '305'
     icon: /img/icons/armor/15020.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Raya+Lucarian+Helm"><b>[雷亚卢卡利亚士兵头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Raya+Lucarian+Helm"><b>雷亚卢卡利亚士兵头盔</b></a>
+    - <b>[魔法学院雷亚卢卡利亚]</b>的幻影雷亚卢卡利亚士兵掉落，学院附近的雷亚卢卡利亚士兵也掉落。
   - id: '306'
     icon: /img/icons/armor/15021.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Cuckoo+Surcoat"><b>[杜鹃筒形外衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Cuckoo+Surcoat"><b>杜鹃筒形外衣</b></a>
+    - ''
   - id: '307'
     icon: /img/icons/armor/15022.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Raya+Lucarian+Gauntlets"><b>[雷亚卢卡利亚士兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Raya+Lucarian+Gauntlets"><b>雷亚卢卡利亚士兵臂甲</b></a>
+    - ''
   - id: '308'
     icon: /img/icons/armor/15023.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Raya+Lucarian+Greaves"><b>[雷亚卢卡利亚士兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Raya+Lucarian+Greaves"><b>雷亚卢卡利亚士兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 拉塔恩士兵套装
   link: https://eldenring.wiki.fextralife.com/Radahn+Soldier+Set
   items:
   - id: '309'
     icon: /img/icons/armor/15040.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Radahn+Soldier+Helm"><b>[拉塔恩士兵头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Radahn+Soldier+Helm"><b>拉塔恩士兵头盔</b></a>
+    - 拉塔恩士兵掉落。<b>[盖尔要塞]</b>附近很多。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2936&lat=-182.03125&lng=129.113068&zoom=8&code=mapA">[地图链接]</a>
   - id: '310'
     icon: /img/icons/armor/15041.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Redmane+Surcoat"><b>[红狮子筒形外衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Redmane+Surcoat"><b>红狮子筒形外衣</b></a>
+    - ''
   - id: '311'
     icon: /img/icons/armor/15042.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Radahn+Soldier+Gauntlets"><b>[拉塔恩士兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Radahn+Soldier+Gauntlets"><b>拉塔恩士兵臂甲</b></a>
+    - ''
   - id: '312'
     icon: /img/icons/armor/15043.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Radahn+Soldier+Greaves"><b>[拉塔恩士兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Radahn+Soldier+Greaves"><b>拉塔恩士兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 罗德尔士兵套装
   link: https://eldenring.wiki.fextralife.com/Leyndell+Soldier+Set
   items:
   - id: '313'
     icon: /img/icons/armor/15030.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Soldier+Helm"><b>[罗德尔士兵头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Soldier+Helm"><b>罗德尔士兵头盔</b></a>
+    - 散落在<b>[王城罗德尔]</b>的罗德尔士兵掉落。
   - id: '314'
     icon: /img/icons/armor/15031.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Erdtree+Surcoat"><b>[黄金树筒形外衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Erdtree+Surcoat"><b>黄金树筒形外衣</b></a>
+    - ''
   - id: '315'
     icon: /img/icons/armor/15032.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Soldier+Gauntlets"><b>[罗德尔士兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Soldier+Gauntlets"><b>罗德尔士兵臂甲</b></a>
+    - ''
   - id: '316'
     icon: /img/icons/armor/15033.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Soldier+Greaves"><b>[罗德尔士兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Soldier+Greaves"><b>罗德尔士兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 圣树士兵套装
   link: https://eldenring.wiki.fextralife.com/Haligtree+Soldier+Set
   items:
   - id: '317'
     icon: /img/icons/armor/15060.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Helm"><b>[圣树士兵头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Helm"><b>圣树士兵头盔</b></a>
+    - 遍布<b>[“圣树分枝”艾布雷菲尔]</b>的圣树士兵掉落。从<b>赐福[祈祷室]</b>径直向北走有很多。
   - id: '318'
     icon: /img/icons/armor/15061.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Crest+Surcoat"><b>[圣树图腾筒形外衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Crest+Surcoat"><b>圣树图腾筒形外衣</b></a>
+    - ''
   - id: '319'
     icon: /img/icons/armor/15062.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Gauntlets"><b>[圣树士兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Gauntlets"><b>圣树士兵臂甲</b></a>
+    - ''
   - id: '320'
     icon: /img/icons/armor/15063.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Greaves"><b>[圣树士兵腿甲]</b></a>
-- title: 灵庙士兵套装 (无头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Greaves"><b>圣树士兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 灵庙士兵套装 (无头部)
   link: https://eldenring.wiki.fextralife.com/Mausoleum+Soldier+Set
   items:
   - id: '321'
     icon: /img/icons/armor/15051.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Mausoleum+Surcoat"><b>[灵庙筒形外衣]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Mausoleum+Surcoat"><b>灵庙筒形外衣</b></a>
+    - 灵庙士兵掉落。他们在一些漫步灵庙周围巡逻。在<b>[湖之利耶尼亚]</b>的<b>赐福[东门桥的桥柱]</b>东部是一个比较容易刷的地点。几组3或4名灵庙士兵在这个漫步灵庙周围巡逻。
   - id: '322'
     icon: /img/icons/armor/15052.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Mausoleum+Gauntlets"><b>[灵庙士兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Mausoleum+Gauntlets"><b>灵庙士兵臂甲</b></a>
+    - ''
   - id: '323'
     icon: /img/icons/armor/15053.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Mausoleum+Greaves"><b>[灵庙士兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Mausoleum+Greaves"><b>灵庙士兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 流刑士兵套装
   link: https://eldenring.wiki.fextralife.com/Exile+Set
   items:
   - id: '324'
     icon: /img/icons/armor/13210.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Exile+Hood"><b>[流刑士兵风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Exile+Hood"><b>流刑士兵风帽</b></a>
+    - 流刑士兵掉落。
   - id: '325'
     icon: /img/icons/armor/13211.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Exile+Armor"><b>[流刑士兵铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Exile+Armor"><b>流刑士兵铠甲</b></a>
+    - ''
   - id: '326'
     icon: /img/icons/armor/13212.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Exile+Gauntlets"><b>[流刑士兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Exile+Gauntlets"><b>流刑士兵臂甲</b></a>
+    - ''
   - id: '327'
     icon: /img/icons/armor/13213.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Exile+Greaves"><b>[流刑士兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Exile+Greaves"><b>流刑士兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 凯丹套装
   link: https://eldenring.wiki.fextralife.com/Kaiden+Set
   items:
   - id: '328'
     icon: /img/icons/armor/13010.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Kaiden+Helm"><b>[凯丹头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Kaiden+Helm"><b>凯丹头盔</b></a>
+    - 凯丹佣兵掉落。<b>[宁姆格福]</b><b>赐福[亚基尔湖北方]</b>和<b>[蒙流岸边]</b>之间的营地有4-5名佣兵
   - id: '329'
     icon: /img/icons/armor/13011.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Kaiden+Armor"><b>[凯丹铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Kaiden+Armor"><b>凯丹铠甲</b></a>
+    - ''
   - id: '330'
     icon: /img/icons/armor/13012.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Kaiden+Gauntlets"><b>[凯丹臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Kaiden+Gauntlets"><b>凯丹臂甲</b></a>
+    - ''
   - id: '331'
     icon: /img/icons/armor/13013.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Kaiden+Trousers"><b>[凯丹长裤]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Kaiden+Trousers"><b>凯丹长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 芦苇之地套装
   link: https://eldenring.wiki.fextralife.com/Land+of+Reeds+Set
   items:
   - id: '332'
     icon: /img/icons/armor/14390.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Land+of+Reeds+Helm"><b>[芦苇之地头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Land+of+Reeds+Helm"><b>芦苇之地头盔</b></a>
+    - 武士职业初始自带。可以在<b>[盖利德]</b>北部<b>[桂奥尔龙墓]</b>的<b>[隐居商人的破屋]</b>找到。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2353&lat=-164.625&lng=135.948082&zoom=8&code=mapA">[地图链接]</a>
   - id: '333'
     icon: /img/icons/armor/14391.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Land+of+Reeds+Armor"><b>[芦苇之地铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Land+of+Reeds+Armor"><b>芦苇之地铠甲</b></a>
+    - ''
   - id: '335'
     icon: /img/icons/armor/14392.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Land+of+Reeds+Gauntlets"><b>[芦苇之地臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Land+of+Reeds+Gauntlets"><b>芦苇之地臂甲</b></a>
+    - ''
   - id: '336'
     icon: /img/icons/armor/14393.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Land+of+Reeds+Greaves"><b>[芦苇之地腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Land+of+Reeds+Greaves"><b>芦苇之地腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 老翁套装
   link: https://eldenring.wiki.fextralife.com/White+Reed+Set
   items:
   - id: '337'
     icon: /img/icons/armor/14410.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Okina+Mask"><b>[老翁面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Okina+Mask"><b>老翁面具</b></a>
+    - 面具在<b>[巨人山顶]</b>击败<b>[“血指”老翁]</b>后获得。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3545&lat=-89.114063&lng=157.233969&zoom=8&code=mapA">[地图链接]</a>
   - id: '338'
     icon: /img/icons/armor/14411.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/White+Reed+Armor"><b>[待殓铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/White+Reed+Armor"><b>待殓铠甲</b></a>
+    - <b>[待殓铠甲]</b>, <b>[待殓臂甲]</b>和<b>[待殓腿甲]</b>可以在<b>[巨人山顶]</b>的<b>[唤灵洞窟]</b>中找到。在充满了灵狼的长洞内一具尸体上。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+map?id=3554&lat=-66.55625&lng=169.291786&zoom=8&code=mapA">[地图链接]</a>
   - id: '339'
     icon: /img/icons/armor/14412.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/White+Reed+Gauntlets"><b>[待殓臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/White+Reed+Gauntlets"><b>待殓臂甲</b></a>
+    - ''
   - id: '340'
     icon: /img/icons/armor/14413.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/White+Reed+Greaves"><b>[待殓腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/White+Reed+Greaves"><b>待殓腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 浪人套装
   link: https://eldenring.wiki.fextralife.com/Ronin's+Set
   items:
   - id: '341'
     icon: /img/icons/armor/13140.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Iron+Kasa"><b>[铁笠帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Iron+Kasa"><b>铁笠帽</b></a>
+    - 玩家必须完成<b>[“血指猎人”尤拉]</b>的任务线才能获得他的护甲。或者，如果<b>[“血指猎人”尤拉]</b>被Shabiri占有，他们将站在<b>[巨人山顶]</b>的<b>[萨米尔废墟]</b>附近。杀死他们或推进故事后刷新回到此处可以获取。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8304&lat=-85.648437&lng=145.894764&zoom=8&code=mapA">[地图链接]</a>在接受三指狂乱之焰后，同样可以在相同的位置获得护甲注意:在早期阶段杀死<b>[“血指猎人”尤拉]</b>不会提供护甲，但也不会阻止<b>[夏玻利利]</b>占有他。
   - id: '342'
     icon: /img/icons/armor/13141.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ronin's+Armor"><b>[浪人铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Ronin's+Armor"><b>浪人铠甲</b></a>
+    - ''
   - id: '344'
     icon: /img/icons/armor/13142.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ronin's+Gauntlets"><b>[浪人臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Ronin's+Gauntlets"><b>浪人臂甲</b></a>
+    - ''
   - id: '345'
     icon: /img/icons/armor/13143.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ronin's+Greaves"><b>[浪人腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Ronin's+Greaves"><b>浪人腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 奇异骑士套装
   link: https://eldenring.wiki.fextralife.com/Eccentric+Set
   items:
   - id: '346'
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Eccentric's+Hood"><b>[奇异骑士风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Eccentric's+Hood"><b>奇异骑士风帽</b></a>
+    - 击败<b>[“魔女猎人”杰廉]</b>后获得(<b>[魔法师瑟濂]</b>任务线)<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8292&lat=-134.34375&lng=55.449547&zoom=8&code=mapA">[地图链接]</a>
     icon: /img/icons/armor/14550.png
   - id: '348'
     icon: /img/icons/armor/14551.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Eccentric's+Armor"><b>[奇异骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Eccentric's+Armor"><b>奇异骑士铠甲</b></a>
+    - ''
   - id: '349'
     icon: /img/icons/armor/14552.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Eccentric's+Manchettes"><b>[奇异骑士腕套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Eccentric's+Manchettes"><b>奇异骑士腕套</b></a>
+    - ''
   - id: '350'
     icon: /img/icons/armor/14553.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Eccentric's+Breeches"><b>[奇异骑士长裤]</b></a>
-- title: 人偶兵套装 (无腕甲腿甲)
+    - <a href="https://eldenring.wiki.fextralife.com/Eccentric's+Breeches"><b>奇异骑士长裤</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 人偶兵套装 (无腕部和腿部)
   link: https://eldenring.wiki.fextralife.com/Marionette+Soldier+Set
   items:
   - id: '351'
     icon: /img/icons/armor/14350.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Marionette+Soldier+Helm"><b>[人偶兵头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Marionette+Soldier+Helm"><b>人偶兵头盔</b></a>
+    - 人偶士兵掉落。大多数地图都有，但在<b>[魔法学院雷亚卢卡利亚]</b>和<b>[湖之利耶尼亚]</b>数量较多。
   - id: '352'
     icon: /img/icons/armor/14360.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Marionette+Soldier+Birdhelm"><b>[人偶兵鸟笼盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Marionette+Soldier+Birdhelm"><b>人偶兵鸟笼盔</b></a>
+    - ''
   - id: '353'
     icon: /img/icons/armor/14351.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Marionette+Soldier+Armor"><b>[人偶兵铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Marionette+Soldier+Armor"><b>人偶兵铠甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 苍银套装
   link: https://eldenring.wiki.fextralife.com/Blue+Silver+Set
   items:
   - id: '354'
     icon: /img/icons/armor/13300.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blue+Silver+Mail+Hood"><b>[苍银风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blue+Silver+Mail+Hood"><b>苍银风帽</b></a>
+    - <b>[化圣雪原]</b>以及<b>赐福[“仪典镇”奥缇那]</b>的白金狼背弓箭手掉落。在<b>赐福[化圣雪原]</b>向北不久就可以找到一个容易刷的。在<b>赐福[“仪典镇”奥缇那]</b>的西南方向的悬崖和岩石上有三个未上马的弓箭手。他们用箭火互相掩护，但容易受到雾状法术影响。<br>如果在<b>[眠狼的破屋]</b>击杀<b>[白金之子勒缇娜]</b>可以获得完整套装。
   - id: '355'
     icon: /img/icons/armor/13301.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blue+Silver+Mail+Armor"><b>[苍银铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blue+Silver+Mail+Armor"><b>苍银铠甲</b></a>
+    - ''
   - id: '357'
     icon: /img/icons/armor/13302.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blue+Silver+Bracelets"><b>[苍银手环]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blue+Silver+Bracelets"><b>苍银手环</b></a>
+    - ''
   - id: '358'
     icon: /img/icons/armor/13303.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blue+Silver+Mail+Skirt"><b>[苍银长裙]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blue+Silver+Mail+Skirt"><b>苍银长裙</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 火焰习武修士套装
   link: https://eldenring.wiki.fextralife.com/Fire+Monk+Set
   items:
   - id: '359'
     icon: /img/icons/armor/13500.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fire+Monk+Hood"><b>[火焰习武修士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fire+Monk+Hood"><b>火焰习武修士头盔</b></a>
+    - 在<b>[湖之利耶尼亚]</b>东部，<b>[格密尔火山]</b>附近，<b>[莱多要塞]</b>和<b>[巨人山顶]</b><b>[监视者要塞]</b>附近的火焰教士掉落。
   - id: '360'
     icon: /img/icons/armor/13501.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fire+Monk+Armor"><b>[火焰习武修士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fire+Monk+Armor"><b>火焰习武修士铠甲</b></a>
+    - ''
   - id: '361'
     icon: /img/icons/armor/13502.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fire+Monk+Gauntlets"><b>[火焰习武修士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fire+Monk+Gauntlets"><b>火焰习武修士臂甲</b></a>
+    - ''
   - id: '362'
     icon: /img/icons/armor/13503.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fire+Monk+Greaves"><b>[火焰习武修士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fire+Monk+Greaves"><b>火焰习武修士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 黑焰习武修士套装
   link: https://eldenring.wiki.fextralife.com/Blackflame+Monk+Set
   items:
   - id: '363'
     icon: /img/icons/armor/13510.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blackflame+Monk+Hood"><b>[黑焰习武修士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blackflame+Monk+Hood"><b>黑焰习武修士头盔</b></a>
+    - 黑焰习武修士掉落全部四件套。<br>1. 走下<b>赐福[盖利德神授塔（地底）]</b>旁的楼梯有一个，可以单独击杀且容易刷新。<br>2. 从<b>赐福[艾格蕾教堂]</b>向西北方向走，走到外面下神庙的楼梯有一个，你可以偷偷接近并从背后捅一刀。
   - id: '364'
     icon: /img/icons/armor/13511.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blackflame+Monk+Armor"><b>[黑焰习武修士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blackflame+Monk+Armor"><b>黑焰习武修士铠甲</b></a>
+    - ''
   - id: '365'
     icon: /img/icons/armor/13512.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blackflame+Monk+Gauntlets"><b>[黑焰习武修士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blackflame+Monk+Gauntlets"><b>黑焰习武修士臂甲</b></a>
+    - ''
   - id: '366'
     icon: /img/icons/armor/13513.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blackflame+Monk+Greaves"><b>[黑焰习武修士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blackflame+Monk+Greaves"><b>黑焰习武修士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 萨米尔套装
   link: https://eldenring.wiki.fextralife.com/Zamor+Set
   items:
   - id: '367'
     icon: /img/icons/armor/14810.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Zamor+Mask"><b>[萨米尔面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Zamor+Mask"><b>萨米尔面具</b></a>
+    - <b>[巨人战争的英雄墓地]</b>的Boss<b>[萨米尔的古英雄]</b>掉落。<a href="https://eldenring.wiki.fextralife.com/Interactive+map?id=3880&lat=-86.376563&lng=148.188599&zoom=8&code=mapA">[地图链接]</a>
   - id: '368'
     icon: /img/icons/armor/14811.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Zamor+Armor"><b>[萨米尔铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Zamor+Armor"><b>萨米尔铠甲</b></a>
+    - ''
   - id: '369'
     icon: /img/icons/armor/14812.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Zamor+Bracelets"><b>[萨米尔腕套]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Zamor+Bracelets"><b>萨米尔腕套</b></a>
+    - ''
   - id: '370'
     icon: /img/icons/armor/14813.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Zamor+Legwraps"><b>[萨米尔绑腿]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Zamor+Legwraps"><b>萨米尔绑腿</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 黑刀套装
   link: https://eldenring.wiki.fextralife.com/Black+Knife+Set
   items:
   - id: '371'
     icon: /img/icons/armor/13190.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Black+Knife+Hood"><b>[黑刀风帽]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Black+Knife+Hood"><b>黑刀风帽</b></a>
+    - 在<b>[化圣雪原]</b><b>[“仪典镇”奥缇那]</b>后面拱门下的一具尸体上。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2979&lat=-62.54&lng=140.14&zoom=8&code=mapA">[地图链接]</a>
   - id: '372'
     icon: /img/icons/armor/13191.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Black+Knife+Armor"><b>[黑刀铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Black+Knife+Armor"><b>黑刀铠甲</b></a>
+    - ''
   - id: '374'
     icon: /img/icons/armor/13192.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Black+Knife+Gauntlets"><b>[黑刀臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Black+Knife+Gauntlets"><b>黑刀臂甲</b></a>
+    - ''
   - id: '375'
     icon: /img/icons/armor/13193.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Black+Knife+Greaves"><b>[黑刀腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Black+Knife+Greaves"><b>黑刀腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 玛莲妮亚套装
   link: https://eldenring.wiki.fextralife.com/Malenia's+Set
   items:
   - id: '376'
     icon: /img/icons/armor/14170.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Malenia's+Winged+Helm"><b>[玛莲妮亚飞翼头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Malenia's+Winged+Helm"><b>玛莲妮亚飞翼头盔</b></a>
+    - 击败<b>[“米凯拉的锋刃”玛莲妮亚]</b>后，从<b>[“解指”恩雅]</b>以总价56,000卢恩购买。
   - id: '377'
     icon: /img/icons/armor/14171.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Malenia's+Armor"><b>[玛莲妮亚铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Malenia's+Armor"><b>玛莲妮亚铠甲</b></a>
+    - ''
   - id: '379'
     icon: /img/icons/armor/14172.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Malenia's+Gauntlet"><b>[玛莲妮亚臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Malenia's+Gauntlet"><b>玛莲妮亚臂甲</b></a>
+    - ''
   - id: '380'
     icon: /img/icons/armor/14173.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Malenia's+Greaves"><b>[玛莲妮亚腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Malenia's+Greaves"><b>玛莲妮亚腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 艾尔登之王套装
   link: https://eldenring.wiki.fextralife.com/Elden+Lord+Set
   items:
   - id: '381'
     icon: /img/icons/armor/13650.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Elden+Lord+Crown"><b>[艾尔登之王头冠]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Elden+Lord+Crown"><b>艾尔登之王头冠</b></a>
+    - 击败<b>[“初始之王”葛孚雷]</b>和<b>[战士荷莱·露]</b>后，从<b>[圆桌厅堂]</b>的<b>[“解指”恩雅]</b>处购买
   - id: '382'
     icon: /img/icons/armor/13651.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Elden+Lord+Armor"><b>[艾尔登之王铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Elden+Lord+Armor"><b>艾尔登之王铠甲</b></a>
+    - ''
   - id: '384'
     icon: /img/icons/armor/13652.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Elden+Lord+Bracers"><b>[艾尔登之王臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Elden+Lord+Bracers"><b>艾尔登之王臂甲</b></a>
+    - ''
   - id: '385'
     icon: /img/icons/armor/13653.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Elden+Lord+Greaves"><b>[艾尔登之王腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Elden+Lord+Greaves"><b>艾尔登之王腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 骑士套装
   link: https://eldenring.wiki.fextralife.com/Knight+Set
   items:
   - id: '386'
     icon: /img/icons/armor/14990.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Knight+Helm"><b>[骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Knight+Helm"><b>骑士头盔</b></a>
+    - 从<b>[圆桌厅堂]</b>中的<b>[孪生老妪]</b>处购买。
   - id: '387'
     icon: /img/icons/armor/14991.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Knight+Armor"><b>[骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Knight+Armor"><b>骑士铠甲</b></a>
+    - ''
   - id: '388'
     icon: /img/icons/armor/14992.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Knight+Gauntlets"><b>[骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Knight+Gauntlets"><b>骑士臂甲</b></a>
+    - ''
   - id: '389'
     icon: /img/icons/armor/14993.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Knight+Greaves"><b>[骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Knight+Greaves"><b>骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 流浪骑士套装
   link: https://eldenring.wiki.fextralife.com/Vagabond+Knight+Set
   items:
   - id: '390'
     icon: /img/icons/armor/14010.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Vagabond+Knight+Helm"><b>[流浪骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Vagabond+Knight+Helm"><b>流浪骑士头盔</b></a>
+    - 流浪骑士初始自带。整套可以在<b>[巨人山顶]</b>东部的<b>[流浪民族的商人]</b>处以总价4,500卢恩购买<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3504&lat=-71.385938&lng=155.706062&zoom=8&code=mapA">[地图链接]</a>
   - id: '391'
     icon: /img/icons/armor/14011.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Vagabond+Knight+Armor"><b>[流浪骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Vagabond+Knight+Armor"><b>流浪骑士铠甲</b></a>
+    - ''
   - id: '393'
     icon: /img/icons/armor/14012.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Vagabond+Knight+Gauntlets"><b>[流浪骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Vagabond+Knight+Gauntlets"><b>流浪骑士臂甲</b></a>
+    - ''
   - id: '394'
     icon: /img/icons/armor/14013.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Vagabond+Knight+Greaves"><b>[流浪骑士腿甲]</b></a>
-- title: 巨盔 (只有头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Vagabond+Knight+Greaves"><b>流浪骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 巨盔 (仅头部)
   items:
   - id: '395'
     icon: /img/icons/armor/14900.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Greathelm"><b>[巨盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Greathelm"><b>巨盔</b></a>
+    - 可以从<b>[盖利德]</b>南部的<b>[流浪民族的商人]</b>以1,800卢恩购买。
+  table:
+  - 名称
+  - 位置
 - title: 卡利亚骑士套装
   link: https://eldenring.wiki.fextralife.com/Carian+Knight+Set
   items:
   - id: '396'
     icon: /img/icons/armor/14640.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Carian+Knight+Helm"><b>[卡利亚骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Carian+Knight+Helm"><b>卡利亚骑士头盔</b></a>
+    - 在<b>[魔法学院雷亚卢卡利亚]</b>找到。从<b>赐福[杜鹃教堂]</b>触发并前往墓地区域，在大型旋转升降机所在的建筑大门入口的右侧，沿着墙往下看时，可以找到一个可以跳落的平台。在狭窄的小路上看到一群辉石僵尸正在膜拜一个雕像，雕像旁就是。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2308&lat=-136.484375&lng=56.395704&zoom=8&code=mapA">[地图链接]</a>
   - id: '397'
     icon: /img/icons/armor/14641.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Carian+Knight+Armor"><b>[卡利亚骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Carian+Knight+Armor"><b>卡利亚骑士铠甲</b></a>
+    - ''
   - id: '399'
     icon: /img/icons/armor/14642.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Carian+Knight+Gauntlets"><b>[卡利亚骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Carian+Knight+Gauntlets"><b>卡利亚骑士臂甲</b></a>
+    - ''
   - id: '400'
     icon: /img/icons/armor/14643.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Carian+Knight+Greaves"><b>[卡利亚骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Carian+Knight+Greaves"><b>卡利亚骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 葛瑞克骑士套装
   link: https://eldenring.wiki.fextralife.com/Godrick+Knight+Set
   items:
   - id: '401'
     icon: /img/icons/armor/15090.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Knight+Helm"><b>[葛瑞克骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Knight+Helm"><b>葛瑞克骑士头盔</b></a>
+    - '葛瑞克骑士掉落。<br><b>[关卡前废墟]</b>: 由前哨巡逻的葛瑞克骑士掉落。<br><b>[海德要塞]</b>: 从城墙上的葛瑞克骑士几率掉落。'
   - id: '402'
     icon: /img/icons/armor/15091.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Knight+Armor"><b>[葛瑞克骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Knight+Armor"><b>葛瑞克骑士铠甲</b></a>
+    - ''
   - id: '404'
     icon: /img/icons/armor/15092.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Knight+Gauntlets"><b>[葛瑞克骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Knight+Gauntlets"><b>葛瑞克骑士臂甲</b></a>
+    - ''
   - id: '405'
     icon: /img/icons/armor/15093.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Knight+Greaves"><b>[葛瑞克骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Godrick+Knight+Greaves"><b>葛瑞克骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 杜鹃骑士套装
   link: https://eldenring.wiki.fextralife.com/Cuckoo+Knight+Set
   items:
   - id: '406'
     icon: /img/icons/armor/15110.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Cuckoo+Knight+Helm"><b>[杜鹃骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Cuckoo+Knight+Helm"><b>杜鹃骑士头盔</b></a>
+    - <b>[湖之利耶尼亚]</b>的杜鹃骑士掉落。<b>赐福[雷亚卢卡利亚（东门）]</b>东北有四个。北边有四个，三个骑马，一个坐在巨大的废墟旁。路上的骑士只在白天刷出，因为它会在晚上被<b>[黑夜骑兵]</b>取代。即使击败了<b>[黑夜骑兵]</b>，骑士仍然不会在夜间出现。
   - id: '407'
     icon: /img/icons/armor/15111.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Cuckoo+Knight+Armor"><b>[杜鹃骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Cuckoo+Knight+Armor"><b>杜鹃骑士铠甲</b></a>
+    - ''
   - id: '409'
     icon: /img/icons/armor/15112.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Cuckoo+Knight+Gauntlets"><b>[杜鹃骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Cuckoo+Knight+Gauntlets"><b>杜鹃骑士臂甲</b></a>
+    - ''
   - id: '410'
     icon: /img/icons/armor/15113.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Cuckoo+Knight+Greaves"><b>[杜鹃骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Cuckoo+Knight+Greaves"><b>杜鹃骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 红狮子骑士套装
   link: https://eldenring.wiki.fextralife.com/Redmane+Knight+Set
   items:
   - id: '411'
     icon: /img/icons/armor/15150.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Redmane+Knight+Helm"><b>[红狮子骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Redmane+Knight+Helm"><b>红狮子骑士头盔</b></a>
+    - <b>[盖利德]</b>的红狮子骑士掉落。<br>在<b>赐福[熏烧火墙]</b>西南的一个小营地中可以找到一个骑士和一些红狮子士兵。<br>在<b>[盖尔要塞]</b>可以找到两个，其中一个有一把巨大的弓，当你接近堡垒时，它会射出一连串的魔法箭，另一个可以在堡垒的顶部附近找到。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2936&lat=-182.03125&lng=129.113068&zoom=8&code=mapA">[地图链接]</a><br>在<b>[盖利德地下墓地]</b>和<b>赐福[不破大桥]</b>之间可以找到一个。<br>在<b>[红狮子城]</b>中可以找到三个。一个位于城外的木制攻城塔底部，里面装有弩炮。一个在与南部城墙相连的建筑顶部。在广场入口顶部的建筑物上还有，<b>[掳人少女人偶]</b>出发进入塔内抵达。
   - id: '412'
     icon: /img/icons/armor/15151.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Redmane+Knight+Armor"><b>[红狮子骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Redmane+Knight+Armor"><b>红狮子骑士铠甲</b></a>
+    - ''
   - id: '414'
     icon: /img/icons/armor/15152.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Redmane+Knight+Gauntlets"><b>[红狮子骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Redmane+Knight+Gauntlets"><b>红狮子骑士臂甲</b></a>
+    - ''
   - id: '415'
     icon: /img/icons/armor/15153.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Redmane+Knight+Greaves"><b>[红狮子骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Redmane+Knight+Greaves"><b>红狮子骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 格密尔骑士套装
   link: https://eldenring.wiki.fextralife.com/Gelmir+Knight+Set
   items:
   - id: '416'
     icon: /img/icons/armor/15070.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Gelmir+Knight+Helm"><b>[格密尔骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Gelmir+Knight+Helm"><b>格密尔骑士头盔</b></a>
+    - 可以从<b>[格密尔英雄墓地]</b>的格密尔骑士尸体上获取全套。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5838&lat=-87.15625&lng=70.93252&zoom=8&code=mapA">[地图链接]</a>。沿着第一个战车走廊前进直到你看到走道两边不再有熔岩而是可以下落的空洞。掉落到左边，在木梁上沿着墙壁寻找一个小窗户。穿过这个窗口下梯子找到<b>[猎犬骑士]</b>守卫的尸体。
   - id: '417'
     icon: /img/icons/armor/15071.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Gelmir+Knight+Armor"><b>[格密尔骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Gelmir+Knight+Armor"><b>格密尔骑士铠甲</b></a>
+    - ''
   - id: '419'
     icon: /img/icons/armor/15072.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Gelmir+Knight+Gauntlets"><b>[格密尔骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Gelmir+Knight+Gauntlets"><b>格密尔骑士臂甲</b></a>
+    - ''
   - id: '420'
     icon: /img/icons/armor/15073.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Gelmir+Knight+Greaves"><b>[格密尔骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Gelmir+Knight+Greaves"><b>格密尔骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 罗德尔骑士套装
   link: https://eldenring.wiki.fextralife.com/Leyndell+Knight+Set
   items:
   - id: '421'
     icon: /img/icons/armor/15130.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Knight+Helm"><b>[罗德尔骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Knight+Helm"><b>罗德尔骑士头盔</b></a>
+    - 罗德尔骑士掉落。<br>在<b>[湖之利耶尼亚]</b>的<b>[画家的破屋]</b>的南面可以找到一个。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1360&lat=-140.773437&lng=78.372289&zoom=8&code=mapA">[地图链接]</a><br>在<b>[亚坛高原]</b>的<b>赐福[亚坛大道的三叉口]</b>附近可以找到两个，东面的平台上有一个持大弓的，另一个骑马在往西南的路上巡逻。<br>在<b>[王城罗德尔]</b>里可以找到很多。(变成灰城后不再刷新)
   - id: '422'
     icon: /img/icons/armor/15131.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Knight+Armor"><b>[罗德尔骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Knight+Armor"><b>罗德尔骑士铠甲</b></a>
+    - ''
   - id: '424'
     icon: /img/icons/armor/15132.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Knight+Gauntlets"><b>[罗德尔骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Knight+Gauntlets"><b>罗德尔骑士臂甲</b></a>
+    - ''
   - id: '425'
     icon: /img/icons/armor/15133.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Knight+Greaves"><b>[罗德尔骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Knight+Greaves"><b>罗德尔骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 圣树骑士套装
   link: https://eldenring.wiki.fextralife.com/Haligtree+Knight+Set
   items:
   - id: '426'
     icon: /img/icons/armor/15190.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Knight+Helm"><b>[圣树骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Knight+Helm"><b>圣树骑士头盔</b></a>
+    - 可以从<b>赐福[艾布雷菲尔城墙内部]</b>附近的尸体上获取。它在可以俯瞰赐福点的平台上，可以通过爬梯子抵达赐福点。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5352&lat=-35.040625&lng=146.721478&zoom=8&code=mapA">[地图链接]</a>
   - id: '427'
     icon: /img/icons/armor/15191.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Knight+Armor"><b>[圣树骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Knight+Armor"><b>圣树骑士铠甲</b></a>
+    - 套装部件有机会从任何圣树骑士身上掉落，在<b>赐福[艾布雷菲尔城墙内部]</b>房间外就有两个，站在入口通道的两侧。站在它们之间的<b>[黄金树的化身]</b>不会重生。
   - id: '429'
     icon: /img/icons/armor/15192.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Knight+Gauntlets"><b>[圣树骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Knight+Gauntlets"><b>圣树骑士臂甲</b></a>
+    - ''
   - id: '430'
     icon: /img/icons/armor/15193.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Knight+Greaves"><b>[圣树骑士腿甲]</b></a>
-- title: 灵庙骑士套装 (无头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Knight+Greaves"><b>圣树骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 灵庙骑士套装 (无头部)
   link: https://eldenring.wiki.fextralife.com/Mausoleum+Knight+Set
   items:
   - id: '431'
     icon: /img/icons/armor/15171.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Mausoleum+Knight+Armor"><b>[灵庙骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Mausoleum+Knight+Armor"><b>灵庙骑士铠甲</b></a>
+    - '灵庙骑士掉落。一般在<b>[湖之利耶尼亚]</b>中刷。最容易刷的地方是直接在<b>[黑刀地下墓地]</b>入口外，可以快速回到赐福点刷新。其他可能的地点包括:
+      <b>[啜泣半岛]</b>的漫步灵庙。'
   - id: '433'
     icon: /img/icons/armor/15172.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Mausoleum+Knight+Gauntlets"><b>[灵庙骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Mausoleum+Knight+Gauntlets"><b>灵庙骑士臂甲</b></a>
+    - ''
   - id: '434'
     icon: /img/icons/armor/15173.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Mausoleum+Knight+Greaves"><b>[灵庙骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Mausoleum+Knight+Greaves"><b>灵庙骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 猎犬骑士套装
   link: https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Set
   items:
   - id: '435'
     icon: /img/icons/armor/14210.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Helm"><b>[猎犬骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Helm"><b>猎犬骑士头盔</b></a>
+    - <b>[格密尔火山]</b><b>[格密尔英雄墓地]</b>内的猎犬骑士掉落。从可以乘坐第二辆战车的横梁上下来跳到旁边的窗户上，顺着梯子下去找到骑士。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2311&lat=-87.728125&lng=72.018504&zoom=8">[地图链接]</a>
   - id: '436'
     icon: /img/icons/armor/14211.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Armor"><b>[猎犬骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Armor"><b>猎犬骑士铠甲</b></a>
+    - ''
   - id: '438'
     icon: /img/icons/armor/14212.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Gauntlets"><b>[猎犬骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Gauntlets"><b>猎犬骑士臂甲</b></a>
+    - ''
   - id: '439'
     icon: /img/icons/armor/14213.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Greaves"><b>[猎犬骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Greaves"><b>猎犬骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 尊腐骑士套装
   link: https://eldenring.wiki.fextralife.com/Cleanrot+Set
   items:
   - id: '440'
     icon: /img/icons/armor/13480.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Cleanrot+Helm"><b>[尊腐骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Cleanrot+Helm"><b>尊腐骑士头盔</b></a>
+    - 在<b>[盖利德]</b>的尊腐骑士掉落。常见于艾奥尼亚沼泽，<b>[英灵地下墓地]</b>。在<b>[艾奥尼亚沼泽（深处）]</b>附近比较好刷。(大多数骑士需要一段时间从沼泽中重生)
   - id: '441'
     icon: /img/icons/armor/13481.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Cleanrot+Armor"><b>[尊腐骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Cleanrot+Armor"><b>尊腐骑士铠甲</b></a>
+    - ''
   - id: '443'
     icon: /img/icons/armor/13482.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Cleanrot+Gauntlets"><b>[尊腐骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Cleanrot+Gauntlets"><b>尊腐骑士臂甲</b></a>
+    - ''
   - id: '444'
     icon: /img/icons/armor/13483.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Cleanrot+Greaves"><b>[尊腐骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Cleanrot+Greaves"><b>尊腐骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 战鬼套装
   link: https://eldenring.wiki.fextralife.com/Raging+Wolf+Set
   items:
   - id: '445'
     icon: /img/icons/armor/14370.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Raging+Wolf+Helm"><b>[战鬼头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Raging+Wolf+Helm"><b>战鬼头盔</b></a>
+    - <b>[王城罗德尔]</b>。在获得<b>[火山官邸]</b>的倒数第二封信后，你将被派去协助<b>[骑士贝纳尔]</b>暗杀<b>[“白狼战鬼”巴格莱姆]</b>和<b>[“离群魔法师”维赫勒]</b>。成功入侵后，你会获得完整的套装。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4108&lat=-104.35&lng=113.45679&zoom=8&code=mapA">[地图链接]</a>
   - id: '446'
     icon: /img/icons/armor/14371.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Raging+Wolf+Armor"><b>[战鬼铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Raging+Wolf+Armor"><b>战鬼铠甲</b></a>
+    - ''
   - id: '448'
     icon: /img/icons/armor/14372.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Raging+Wolf+Gauntlets"><b>[战鬼臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Raging+Wolf+Gauntlets"><b>战鬼臂甲</b></a>
+    - ''
   - id: '449'
     icon: /img/icons/armor/14373.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Raging+Wolf+Greaves"><b>[战鬼腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Raging+Wolf+Greaves"><b>战鬼腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 霍斯劳套装
   link: https://eldenring.wiki.fextralife.com/Hoslow's+Set
   items:
   - id: '450'
     icon: /img/icons/armor/13990.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Hoslow's+Helm"><b>[霍斯劳头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Hoslow's+Helm"><b>霍斯劳头盔</b></a>
+    - 作为<b>[火山官邸]</b>任务线的最终任务，与<b>[霍斯劳花瓣鞭]</b>一起被<b>[“血言骑士”尤诺·霍斯劳]</b>掉落。他入侵的标记在<b>[巨人山顶]</b>的北部，<b>[离群独行者的破屋]</b>东边。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+map?id=4004&lat=-67.85625&lng=152.680643&zoom=8&code=mapA">[地图链接]</a><br>完成<b>[骑士狄亚罗斯]</b>的任务线可以获得<b>[狄亚罗斯头盔]</b>，一个没有双尾的替代头饰。或者可以在<b>[湖之利耶尼亚]</b>中看到他时就杀死他获得。
   - id: '451'
     icon: /img/icons/armor/14000.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Diallos's+Mask"><b>[狄亚罗斯头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Diallos's+Mask"><b>狄亚罗斯头盔</b></a>
+    - ''
   - id: '452'
     icon: /img/icons/armor/13991.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Hoslow's+Armor"><b>[霍斯劳铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Hoslow's+Armor"><b>霍斯劳铠甲</b></a>
+    - ''
   - id: '454'
     icon: /img/icons/armor/13992.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Hoslow's+Gauntlets"><b>[霍斯劳臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Hoslow's+Gauntlets"><b>霍斯劳臂甲</b></a>
+    - ''
   - id: '455'
     icon: /img/icons/armor/13993.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Hoslow's+Greaves"><b>[霍斯劳腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Hoslow's+Greaves"><b>霍斯劳腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 孪生套装
   link: https://eldenring.wiki.fextralife.com/Twinned+Set
   items:
   - id: '456'
     icon: /img/icons/armor/13880.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Twinned+Helm"><b>[孪生头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Twinned+Helm"><b>孪生头盔</b></a>
+    - '<b>[“狩猎死亡”Ｄ]</b>的任务线最后拾取。最早可以获得的位置: <b>[宁姆格福]</b>东部杀死<b>[“狩猎死亡”Ｄ]</b>。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8298&lat=-175.203125&lng=112.887116&zoom=8&code=mapA">[地图链接]</a>在d结束时获得，亡灵猎人的任务线。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=9025&code=mapB">[地图链接]</a>'
   - id: '457'
     icon: /img/icons/armor/13881.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Twinned+Armor"><b>[孪生铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Twinned+Armor"><b>孪生铠甲</b></a>
+    - ''
   - id: '459'
     icon: /img/icons/armor/13882.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Twinned+Gauntlets"><b>[孪生臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Twinned+Gauntlets"><b>孪生臂甲</b></a>
+    - ''
   - id: '460'
     icon: /img/icons/armor/13883.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Twinned+Greaves"><b>[孪生腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Twinned+Greaves"><b>孪生腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 龙骑士套装
   link: https://eldenring.wiki.fextralife.com/Drake+Knight+Set
   items:
   - id: '461'
     icon: /img/icons/armor/13020.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Drake+Knight+Helm"><b>[龙骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Drake+Knight+Helm"><b>龙骑士头盔</b></a>
+    - 你可以在<b>[逐渐崩毁的法姆·亚兹拉]</b>中找到龙骑士。从<b>赐福[龙教堂（屋顶）]</b>出去从电梯井下落，爬下附近的梯子后左转，然后面向北。从这里下落到一块漂浮的岩石上，然后再次下落到一个平台，在那里你会看到之前的电梯井。在乘电梯平台上去之前，一直走到电梯外的环形路径的尽头，你会发现一个宝箱，里面装着全套套装。
   - id: '463'
     icon: /img/icons/armor/13021.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Drake+Knight+Armor"><b>[龙骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Drake+Knight+Armor"><b>龙骑士铠甲</b></a>
+    - ''
   - id: '465'
     icon: /img/icons/armor/13022.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Drake+Knight+Gauntlets"><b>[龙骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Drake+Knight+Gauntlets"><b>龙骑士臂甲</b></a>
+    - ''
   - id: '466'
     icon: /img/icons/armor/13023.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Drake+Knight+Greaves"><b>[龙骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Drake+Knight+Greaves"><b>龙骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 布莱泽套装
-  link: ''
+  link: https://eldenring.wiki.fextralife.com/Blaidd's+Set
   items:
   - id: '467'
     icon: /img/icons/armor/13170.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Black+Wolf+Mask"><b>[黑狼面具]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Black+Wolf+Mask"><b>黑狼面具</b></a>
+    - 获取另外三个部件后才会出现。在<b>[赛尔维斯魔法师塔]</b>后墙上的一具尸体上找到。爬上靠近塔楼入口的那部分破墙抵达。
   - id: '468'
     icon: /img/icons/armor/13171.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blaidd's+Armor"><b>[布莱泽铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blaidd's+Armor"><b>布莱泽铠甲</b></a>
+    - 可以在<b>[魔女菈妮]</b>的任务线中得到。在给她戴上<b>[暗月戒指]</b>后，回到<b>[菈妮魔法师塔]</b>，你将听到<b>[“半狼”布莱泽]</b>在塔前自言自语。当他结束他的对话时变成敌对，击败他将获取<b>[布莱泽铠甲]</b>，<b>[布莱泽臂甲]</b>和<b>[布莱泽腿甲]</b>(以及<b>[王室巨剑]</b>)。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+map?id=8401&lat=-105.640625&lng=49.730845&zoom=8&code=mapA">[地图链接]</a>
   - id: '470'
     icon: /img/icons/armor/13172.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blaidd's+Gauntlets"><b>[布莱泽臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blaidd's+Gauntlets"><b>布莱泽臂甲</b></a>
+    - ''
   - id: '471'
     icon: /img/icons/armor/13173.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Blaidd's+Greaves"><b>[布莱泽腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Blaidd's+Greaves"><b>布莱泽腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 铁棘套装
   link: https://eldenring.wiki.fextralife.com/Briar+Set
   items:
   - id: '472'
     icon: /img/icons/armor/13240.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Briar+Helm"><b>[铁棘头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Briar+Helm"><b>铁棘头盔</b></a>
+    - 击败<b>[日荫城]</b>的<b>[“铁棘”艾隆梅尔]</b>后，从<b>[圆桌厅堂]</b>中的<b>[“解指”恩雅]</b>处购买。
   - id: '473'
     icon: /img/icons/armor/13241.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Briar+Armor"><b>[铁棘铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Briar+Armor"><b>铁棘铠甲</b></a>
+    - ''
   - id: '475'
     icon: /img/icons/armor/13242.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Briar+Gauntlets"><b>[铁棘臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Briar+Gauntlets"><b>铁棘臂甲</b></a>
+    - ''
   - id: '476'
     icon: /img/icons/armor/13243.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Briar+Greaves"><b>[铁棘腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Briar+Greaves"><b>铁棘腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 指痕套装
   link: https://eldenring.wiki.fextralife.com/Fingerprint+Set
   items:
   - id: '477'
     icon: /img/icons/armor/14570.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fingerprint+Helm"><b>[指痕头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fingerprint+Helm"><b>指痕头盔</b></a>
+    - 击败<b>[巨人山顶]</b><b>[准王者的封印监牢]</b>的<b>[“圆桌骑士”维克]</b>获得。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3876&lat=-72.3&lng=168.62&zoom=8&code=mapA">[地图链接]</a>
   - id: '478'
     icon: /img/icons/armor/14571.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fingerprint+Armor"><b>[指痕铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fingerprint+Armor"><b>指痕铠甲</b></a>
+    - ''
   - id: '480'
     icon: /img/icons/armor/14572.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fingerprint+Gauntlets"><b>[指痕臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fingerprint+Gauntlets"><b>指痕臂甲</b></a>
+    - ''
   - id: '481'
     icon: /img/icons/armor/14573.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fingerprint+Greaves"><b>[指痕腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fingerprint+Greaves"><b>指痕腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 王骸套装
   link: https://eldenring.wiki.fextralife.com/Royal+Remains+Set
   items:
   - id: '482'
     icon: /img/icons/armor/14060.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Royal+Remains+Helm"><b>[王骸头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Royal+Remains+Helm"><b>王骸头盔</b></a>
+    - 在<b>[圆桌厅堂]</b>击败入侵NPC<b>[“王骸”恩夏]</b>后，可以在<b>[“百智爵士”基甸·奥夫尼尔]</b>的房间外他原来站立的地方找到。
   - id: '483'
     icon: /img/icons/armor/14061.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Royal+Remains+Armor"><b>[王骸铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Royal+Remains+Armor"><b>王骸铠甲</b></a>
+    - ''
   - id: '484'
     icon: /img/icons/armor/14062.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Royal+Remains+Gauntlets"><b>[王骸臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Royal+Remains+Gauntlets"><b>王骸臂甲</b></a>
+    - ''
   - id: '485'
     icon: /img/icons/armor/14063.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Royal+Remains+Greaves"><b>[王骸腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Royal+Remains+Greaves"><b>王骸腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 百智套装
   link: https://eldenring.wiki.fextralife.com/All-Knowing+Set
   items:
   - id: '486'
     icon: /img/icons/armor/13860.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/All-Knowing+Helm"><b>[百智头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/All-Knowing+Helm"><b>百智头盔</b></a>
+    - 在<b>[“灰烬王城”罗德尔]</b>中击败<b>[“百智爵士”基甸·奥夫尼尔]</b>后获得。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=7718&lat=-106.625&lng=116.425507&zoom=8&code=mapC">[地图链接]</a>
   - id: '487'
     icon: /img/icons/armor/13861.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/All-Knowing+Armor"><b>[百智铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/All-Knowing+Armor"><b>百智铠甲</b></a>
+    - ''
   - id: '489'
     icon: /img/icons/armor/13862.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/All-Knowing+Gauntlets"><b>[百智臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/All-Knowing+Gauntlets"><b>百智臂甲</b></a>
+    - ''
   - id: '490'
     icon: /img/icons/armor/13863.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/All-Knowing+Greaves"><b>[百智腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/All-Knowing+Greaves"><b>百智腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 禁卫骑士套装
   link: https://eldenring.wiki.fextralife.com/Royal+Knight+Set
   items:
   - id: '491'
     icon: /img/icons/armor/13370.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Royal+Knight+Helm"><b>[禁卫骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Royal+Knight+Helm"><b>禁卫骑士头盔</b></a>
+    - 击败<b>[“圣树骑士”罗蕾塔]</b>后，可以在<b>[圆桌厅堂]</b>从<b>[“解指”恩雅]</b>购买。
   - id: '492'
     icon: /img/icons/armor/13371.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Royal+Knight+Armor"><b>[禁卫骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Royal+Knight+Armor"><b>禁卫骑士铠甲</b></a>
+    - ''
   - id: '494'
     icon: /img/icons/armor/13372.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Royal+Knight+Gauntlets"><b>[禁卫骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Royal+Knight+Gauntlets"><b>禁卫骑士臂甲</b></a>
+    - ''
   - id: '495'
     icon: /img/icons/armor/13373.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Royal+Knight+Greaves"><b>[禁卫骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Royal+Knight+Greaves"><b>禁卫骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 玛利喀斯套装
   link: https://eldenring.wiki.fextralife.com/Maliketh's+Set
   items:
   - id: '496'
     icon: /img/icons/armor/14150.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Maliketh's+Helm"><b>[玛利喀斯头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Maliketh's+Helm"><b>玛利喀斯头盔</b></a>
+    - 击败<b>[“黑剑”玛利喀斯]</b>后从<b>[圆桌厅堂]</b>的<b>[“解指”恩雅]</b>处购买的。
   - id: '497'
     icon: /img/icons/armor/14151.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Maliketh's+Armor"><b>[玛利喀斯铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Maliketh's+Armor"><b>玛利喀斯铠甲</b></a>
+    - ''
   - id: '499'
     icon: /img/icons/armor/14152.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Maliketh's+Gauntlets"><b>[玛利喀斯臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Maliketh's+Gauntlets"><b>玛利喀斯臂甲</b></a>
+    - ''
   - id: '500'
     icon: /img/icons/armor/14153.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Maliketh's+Greaves"><b>[玛利喀斯腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Maliketh's+Greaves"><b>玛利喀斯腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 失乡骑士套装
   link: https://eldenring.wiki.fextralife.com/Banished+Knight+Set
   items:
   - id: '501'
     icon: /img/icons/armor/13220.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight+Helm"><b>[失乡骑士头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight+Helm"><b>失乡骑士头盔</b></a>
+    - '失乡骑士掉落，腕甲和腿甲都会掉，头盔和胸甲以及他们的轻装形态只有装备对应护甲的骑士会掉。<br><b>[史东薇尔城]</b>: (轻装头盔，轻装胸甲，腕甲和腿甲)<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4402&lat=-177.953125&lng=85.821487&zoom=8&code=mapA">[地图链接]</a><br><b>[大龙飨教堂]</b>:
+      (头盔，轻装胸甲，腕甲和腿甲)<br><b>[索尔城]</b>: (轻装头盔，轻装胸甲，胸甲，腕甲和腿甲)，只有两个特定的骑士会掉落原版的胸甲。'
   - id: '502'
     icon: /img/icons/armor/13230.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight+Helm+(Altered)"><b>[失乡骑士头盔（轻装）]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight+Helm+(Altered)"><b>失乡骑士头盔（轻装）</b></a>
+    - ''
   - id: '503'
     icon: /img/icons/armor/13221.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight+Armor"><b>[失乡骑士铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight+Armor"><b>失乡骑士铠甲</b></a>
+    - ''
   - id: '504'
     icon: /img/icons/armor/13231.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight+Armor+(Altered)"><b>[失乡骑士铠甲（轻装）]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight+Armor+(Altered)"><b>失乡骑士铠甲（轻装）</b></a>
+    - ''
   - id: '505'
     icon: /img/icons/armor/13222.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight+Gauntlets"><b>[失乡骑士臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight+Gauntlets"><b>失乡骑士臂甲</b></a>
+    - ''
   - id: '506'
     icon: /img/icons/armor/13223.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight+Greaves"><b>[失乡骑士腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight+Greaves"><b>失乡骑士腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 黑夜骑兵套装
   link: https://eldenring.wiki.fextralife.com/Night's+Cavalry+Set
   items:
   - id: '507'
     icon: /img/icons/armor/13280.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Night's+Cavalry+Helm"><b>[黑夜骑兵头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Night's+Cavalry+Helm"><b>黑夜骑兵头盔</b></a>
+    - '在<b>[化圣雪原]</b>中的<b>[黑夜骑兵]</b>掉落: 晚上从<b>赐福[化圣雪原（深处）]</b>向西南方向看，会有两个山妖拉着一辆车，两个<b>[黑夜骑兵]</b>护送。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4412&lat=-75.7&lng=139.1&zoom=8&code=mapA">[地图链接]</a>'
   - id: '509'
     icon: /img/icons/armor/13281.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Night's+Cavalry+Armor"><b>[黑夜骑兵铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Night's+Cavalry+Armor"><b>黑夜骑兵铠甲</b></a>
+    - ''
   - id: '511'
     icon: /img/icons/armor/13282.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Night's+Cavalry+Gauntlets"><b>[黑夜骑兵臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Night's+Cavalry+Gauntlets"><b>黑夜骑兵臂甲</b></a>
+    - ''
   - id: '512'
     icon: /img/icons/armor/13283.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Night's+Cavalry+Greaves"><b>[黑夜骑兵腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Night's+Cavalry+Greaves"><b>黑夜骑兵腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 老将套装
   link: https://eldenring.wiki.fextralife.com/Veteran's+Set
   items:
   - id: '513'
     icon: /img/icons/armor/14190.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Veteran's+Helm"><b>[老将头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Veteran's+Helm"><b>老将头盔</b></a>
+    - 在<b>[索尔城（屋顶）]</b>击杀<b>[老将尼奥]</b>后，可以从<b>[“解指”恩雅]</b>处以总价18,000卢恩购买。
   - id: '514'
     icon: /img/icons/armor/14191.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Veteran's+Armor"><b>[老将铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Veteran's+Armor"><b>老将铠甲</b></a>
+    - ''
   - id: '516'
     icon: /img/icons/armor/14192.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Veteran's+Gauntlets"><b>[老将臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Veteran's+Gauntlets"><b>老将臂甲</b></a>
+    - ''
   - id: '517'
     icon: /img/icons/armor/14193.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Veteran's+Greaves"><b>[老将腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Veteran's+Greaves"><b>老将腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 鳞片套装
   link: https://eldenring.wiki.fextralife.com/Scaled+Set
   items:
   - id: '518'
     icon: /img/icons/armor/13040.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Scaled+Helm"><b>[鳞片头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Scaled+Helm"><b>鳞片头盔</b></a>
+    - 在<b>[火山官邸]</b>任务线中杀死三个入侵目标中的第一个NPC<b>[“古老骑士”伊修托邦]</b>获取<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3411&lat=-174.32188&lng=98.39523&zoom=8&code=mapA">[地图链接]</a>
   - id: '519'
     icon: /img/icons/armor/13041.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Scaled+Armor"><b>[鳞片铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Scaled+Armor"><b>鳞片铠甲</b></a>
+    - ''
   - id: '521'
     icon: /img/icons/armor/13042.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Scaled+Gauntlets"><b>[鳞片臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Scaled+Gauntlets"><b>鳞片臂甲</b></a>
+    - ''
   - id: '522'
     icon: /img/icons/armor/13043.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Scaled+Greaves"><b>[鳞片腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Scaled+Greaves"><b>鳞片腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 聚兽套装
   link: https://eldenring.wiki.fextralife.com/Beast+Champion+Set
   items:
   - id: '523'
     icon: /img/icons/armor/14100.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Beast+Champion+Helm"><b>[聚兽头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Beast+Champion+Helm"><b>聚兽头盔</b></a>
+    - 杀死<b>[骑士贝纳尔]</b>掉落，如果没有在他初始的位置杀死他，你需要完成<b>[火山官邸]</b>任务线，他将最终在<b>[逐渐崩毁的法姆·亚兹拉]</b>入侵你，掉落整套套装和轻装胸甲。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4508&lat=-120.984375&lng=218.353221&zoom=8&code=mapA">[地图链接]</a>
   - id: '524'
     icon: /img/icons/armor/14101.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Beast+Champion+Armor"><b>[聚兽铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Beast+Champion+Armor"><b>聚兽铠甲</b></a>
+    - ''
   - id: '525'
     icon: /img/icons/armor/14111.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Beast+Champion+Armor+(Altered)"><b>[聚兽铠甲（轻装）]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Beast+Champion+Armor+(Altered)"><b>聚兽铠甲（轻装）</b></a>
+    - ''
   - id: '526'
     icon: /img/icons/armor/14102.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Beast+Champion+Gauntlets"><b>[聚兽臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Beast+Champion+Gauntlets"><b>聚兽臂甲</b></a>
+    - ''
   - id: '527'
     icon: /img/icons/armor/14103.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Beast+Champion+Greaves"><b>[聚兽腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Beast+Champion+Greaves"><b>聚兽腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 大树守卫套装
   link: https://eldenring.wiki.fextralife.com/Tree+Sentinel+Set
   items:
   - id: '528'
     icon: /img/icons/armor/13350.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Tree+Sentinel+Helm"><b>[大树守卫头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Tree+Sentinel+Helm"><b>大树守卫头盔</b></a>
+    - 在<b>[亚雷萨英雄墓地]</b>获取，你需要摧毁三辆特定的战车。需要几个步骤:<br>1. 从第一个战车大厅触发沿着第二个坡道前两侧的开口向下。<br>2.
+      在下面的房间里，往西走上台阶，然后在下一个走廊右转。沿着这条路走下去，你会来到一个很大的战车大厅，两辆战车几乎是并排行驶的，它们之间的距离很短。这些是你需要摧毁的战车。<br>3.
+      沿着走廊一直走到尽头，在一些柱子后面有一个大坑。往下看，你会发现几根木梁，你可以掉到上面。<br>4. 抵达最低的横梁，你可以下落然后向南走向一个拱门，爬上后面的梯子到达另一个战车大厅。<br>5.
+      等待战车向下，然后跑上斜坡，进入右边的房间，在那里你会发现一个火焰喷射器柱。击中柱子会激活双战车大厅中间的圆形金印，将战车从第三个大厅传送过来并与双战车相撞。<br>6.
+      回到大厅，见证碰撞事件，并拾取物品。最简单的方法就是自杀或者使用<b>[赐福记忆]</b>(如果你不在乎卢恩掉落)。或者从火焰喷射器柱室返回第三个战车大厅，一路走下坡道，然后左转进入走廊。再向左走，你就可以找到电梯，电梯会带你到一个房间，通过火焰喷射器柱，穿过北面的走廊抵达。
   - id: '529'
     icon: /img/icons/armor/13351.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Tree+Sentinel+Armor"><b>[大树守卫铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Tree+Sentinel+Armor"><b>大树守卫铠甲</b></a>
+    - ''
   - id: '531'
     icon: /img/icons/armor/13352.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Tree+Sentinel+Gauntlets"><b>[大树守卫臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Tree+Sentinel+Gauntlets"><b>大树守卫臂甲</b></a>
+    - ''
   - id: '532'
     icon: /img/icons/armor/13353.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Tree+Sentinel+Greaves"><b>[大树守卫腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Tree+Sentinel+Greaves"><b>大树守卫腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 异形龙套装
   link: https://eldenring.wiki.fextralife.com/Malformed+Dragon+Set
   items:
   - id: '533'
     icon: /img/icons/armor/13340.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Malformed+Dragon+Helm"><b>[异形龙盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Malformed+Dragon+Helm"><b>异形龙盔</b></a>
+    - <b>[逐渐崩毁的法姆·亚兹拉]</b>的<b>[龙装大树守卫]</b>丢弃。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=7652&lat=-124.98594&lng=219.01837&zoom=8&code=mapA">[地图链接]</a>
   - id: '534'
     icon: /img/icons/armor/13341.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Malformed+Dragon+Armor"><b>[异形龙铠]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Malformed+Dragon+Armor"><b>异形龙铠</b></a>
+    - ''
   - id: '535'
     icon: /img/icons/armor/13342.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Malformed+Dragon+Gauntlets"><b>[异形龙臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Malformed+Dragon+Gauntlets"><b>异形龙臂甲</b></a>
+    - ''
   - id: '536'
     icon: /img/icons/armor/13343.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Malformed+Dragon+Greaves"><b>[异形龙腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Malformed+Dragon+Greaves"><b>异形龙腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 熔炉斧形套装
   link: https://eldenring.wiki.fextralife.com/Crucible+Axe+Set
   items:
   - id: '537'
     icon: /img/icons/armor/13800.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Axe+Helm"><b>[熔炉斧形盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Axe+Helm"><b>熔炉斧形盔</b></a>
+    - Boss<b>[“熔炉骑士”奥陶琵斯]</b>掉落。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2652&lat=-96.55&lng=120.926&zoom=8&code=mapA">[地图链接]</a>
   - id: '538'
     icon: /img/icons/armor/13801.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Axe+Armor"><b>[熔炉斧形铠]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Axe+Armor"><b>熔炉斧形铠</b></a>
+    - ''
   - id: '540'
     icon: /img/icons/armor/13802.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Gauntlets"><b>[熔炉臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Gauntlets"><b>熔炉臂甲</b></a>
+    - ''
   - id: '541'
     icon: /img/icons/armor/13803.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Greaves"><b>[熔炉腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Greaves"><b>熔炉腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 熔炉树形套装
   link: https://eldenring.wiki.fextralife.com/Crucible+Tree+Set
   items:
   - id: '542'
     icon: /img/icons/armor/13810.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Tree+Helm"><b>[熔炉树形盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Tree+Helm"><b>熔炉树形盔</b></a>
+    - 在<b>[深根底层]</b>Boss<b>[“熔炉骑士”志留亚]</b>后面塔内宝箱里。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5357&lat=-95.62&lng=105.72&zoom=8&code=mapB">[地图链接]</a>
   - id: '543'
     icon: /img/icons/armor/13811.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Tree+Armor"><b>[熔炉树形铠]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Tree+Armor"><b>熔炉树形铠</b></a>
+    - ''
   - id: '545'
     icon: /img/icons/armor/13802.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Gauntlets"><b>[熔炉臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Gauntlets"><b>熔炉臂甲</b></a>
+    - ''
   - id: '546'
     icon: /img/icons/armor/13803.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Greaves"><b>[熔炉腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Crucible+Greaves"><b>熔炉腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 拉塔恩红发套装
   link: https://eldenring.wiki.fextralife.com/General+Radahn+Set
   items:
   - id: '547'
     icon: /img/icons/armor/13670.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Radahn's+Redmane+Helm"><b>[拉塔恩红发头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Radahn's+Redmane+Helm"><b>拉塔恩红发头盔</b></a>
+    - 击败<b>[“碎星”拉塔恩]</b>后从<b>[圆桌厅堂]</b>的<b>[“解指”恩雅]</b>处以36,000卢恩购买
   - id: '548'
     icon: /img/icons/armor/13671.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Radahn's+Lion+Armor"><b>[拉塔恩狮子铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Radahn's+Lion+Armor"><b>拉塔恩狮子铠甲</b></a>
+    - ''
   - id: '550'
     icon: /img/icons/armor/13672.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Radahn's+Gauntlets"><b>[拉塔恩臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Radahn's+Gauntlets"><b>拉塔恩臂甲</b></a>
+    - ''
   - id: '551'
     icon: /img/icons/armor/13673.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Radahn's+Greaves"><b>[拉塔恩腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Radahn's+Greaves"><b>拉塔恩腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 莱恩尼尔套装
   link: https://eldenring.wiki.fextralife.com/Lionel's+Set
   items:
   - id: '552'
     icon: /img/icons/armor/13970.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lionel's+Helm"><b>[莱恩尼尔头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Lionel's+Helm"><b>莱恩尼尔头盔</b></a>
+    - 在<b>[王城罗德尔]</b>中<b>赐福[王城底层教堂]</b>所在建筑的床上。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8294&lat=-103.48&lng=114.01&zoom=8&code=mapA">[地图链接]</a>
   - id: '553'
     icon: /img/icons/armor/13971.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lionel's+Armor"><b>[莱恩尼尔铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Lionel's+Armor"><b>莱恩尼尔铠甲</b></a>
+    - ''
   - id: '555'
     icon: /img/icons/armor/13972.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lionel's+Gauntlets"><b>[莱恩尼尔臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Lionel's+Gauntlets"><b>莱恩尼尔臂甲</b></a>
+    - ''
   - id: '556'
     icon: /img/icons/armor/13973.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lionel's+Greaves"><b>[莱恩尼尔腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Lionel's+Greaves"><b>莱恩尼尔腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 大山羊套装
   link: https://eldenring.wiki.fextralife.com/Bull-Goat+Set
   items:
   - id: '557'
     icon: /img/icons/armor/13130.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bull-Goat+Helm"><b>[大山羊头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bull-Goat+Helm"><b>大山羊头盔</b></a>
+    - <b>[帕奇]</b>在存活的情况下，在<b>[火山官邸]</b>任务线拿到第二封任务信后会给你一封信入侵杀死NPC<b>[“大角”忒拉格斯]</b>后获取。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3551&lat=-104.078125&lng=69.665502&zoom=8&code=mapA">[地图链接]</a>
   - id: '558'
     icon: /img/icons/armor/13131.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bull-Goat+Armor"><b>[大山羊铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bull-Goat+Armor"><b>大山羊铠甲</b></a>
+    - ''
   - id: '559'
     icon: /img/icons/armor/13132.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bull-Goat+Gauntlets"><b>[大山羊臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bull-Goat+Gauntlets"><b>大山羊臂甲</b></a>
+    - ''
   - id: '560'
     icon: /img/icons/armor/13133.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Bull-Goat+Greaves"><b>[大山羊腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Bull-Goat+Greaves"><b>大山羊腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 忌讳套装
   link: https://eldenring.wiki.fextralife.com/Omen+Set
   items:
   - id: '561'
     icon: /img/icons/armor/14630.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Omen+Helm"><b>[忌讳头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Omen+Helm"><b>忌讳头盔</b></a>
+    - 在<b>[王城罗德尔]</b>的<b>[弃置恶兆的地底]</b>杀死<b>[食粪者]</b>后获得。或者完成他的任务线后，刷新会出现在他的尸体上。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+map?id=8501&lat=-99.992187&lng=114.738615&zoom=8&code=mapA">[地图链接]</a>
   - id: '562'
     icon: /img/icons/armor/14631.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Omen+Armor"><b>[忌讳铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Omen+Armor"><b>忌讳铠甲</b></a>
+    - ''
   - id: '563'
     icon: /img/icons/armor/14632.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Omen+Gauntlets"><b>[忌讳臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Omen+Gauntlets"><b>忌讳臂甲</b></a>
+    - ''
   - id: '564'
     icon: /img/icons/armor/14633.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Omen+Greaves"><b>[忌讳腿甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Omen+Greaves"><b>忌讳腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
 - title: 火焰主教套装
   link: https://eldenring.wiki.fextralife.com/Fire+Prelate+Set
   items:
   - id: '565'
     icon: /img/icons/armor/13520.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fire+Prelate+Helm"><b>[火焰主教头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fire+Prelate+Helm"><b>火焰主教头盔</b></a>
+    - 主教类的敌人掉落。在<b>[巨人山顶]</b><b>[监视者要塞]</b>门前的主教掉落全套原版护甲。轻装胸甲由<b>[格密尔火山]</b>的<b>[莱多要塞]</b>主教掉落。
   - id: '566'
     icon: /img/icons/armor/13521.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fire+Prelate+Armor"><b>[火焰主教铠甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fire+Prelate+Armor"><b>火焰主教铠甲</b></a>
+    - ''
   - id: '567'
     icon: /img/icons/armor/13531.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fire+Prelate+Armor+(Altered)"><b>[火焰主教铠甲（轻装）]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fire+Prelate+Armor+(Altered)"><b>火焰主教铠甲（轻装）</b></a>
+    - ''
   - id: '568'
     icon: /img/icons/armor/13522.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fire+Prelate+Gauntlets"><b>[火焰主教臂甲]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Fire+Prelate+Gauntlets"><b>火焰主教臂甲</b></a>
+    - ''
   - id: '569'
     icon: /img/icons/armor/13523.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Fire+Prelate+Greaves"><b>[火焰主教腿甲]</b></a>
-- title: 南瓜头盔 (只有头盔)
+    - <a href="https://eldenring.wiki.fextralife.com/Fire+Prelate+Greaves"><b>火焰主教腿甲</b></a>
+    - ''
+  table:
+  - 名称
+  - 位置
+- title: 南瓜头盔 (仅头部)
   items:
   - id: '570'
     icon: /img/icons/armor/13620.png
     data:
-    - <a href="https://eldenring.wiki.fextralife.com/Pumpkin+Helm"><b>[南瓜头盔]</b></a>
+    - <a href="https://eldenring.wiki.fextralife.com/Pumpkin+Helm"><b>南瓜头盔</b></a>
+    - '普通疯狂南瓜头士兵掉落。在以下地点可以找到:<br><b>[宁姆格福]</b><b>[圣人桥]</b> <a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5552&lat=-175.328125&lng=109.293437&zoom=8&code=mapA">[地图链接]</a><br><b>[海德要塞]</b><a
+      href="https://eldenring.wiki.fextralife.com/interactive+map?id=770&lat=-194.304687&lng=125.418491&zoom=8&code=mapA">[地图链接]</a><br><b>[摩恩城]</b><a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=478&lat=-227.195312&lng=108.309046&zoom=8">[地图链接]</a><br><b>[魔法学院雷亚卢卡利亚]</b><br><b>[红狮子城]</b><br><b>[亚坛高原]</b>:
+      在<b>[罪人桥]</b>附近俯瞰东北悬崖的墓碑旁。<br><b>[格密尔火山]</b>: 位于<b>[格密尔火山（第１休息站）]</b>以东和<b>[飘尸臭的破屋]</b>以南。'
+  table:
+  - 名称
+  - 位置
