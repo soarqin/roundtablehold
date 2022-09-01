@@ -1,5 +1,4 @@
-
-(function($) {
+(function ($) {
     'use strict';
 
 
@@ -14,8 +13,9 @@
 
     function do_search(query) {
         spinner.removeClass('d-none');
-        $.getJSON('search_index.json', function(json_index) {
+        $.getJSON('search_index.json', function (json_index) {
             var idx = lunr(function () {
+                this.use(lunr.cn);
                 this.b(1);
                 this.ref('id');
                 this.field('text');
@@ -26,7 +26,7 @@
                 }, this);
             });
 
-            var db = json_index.reduce(function(acc, document) {
+            var db = json_index.reduce(function (acc, document) {
                 acc[document.id] = document.text
                 return acc
             }, {});
@@ -44,7 +44,7 @@
             spinner.addClass('d-none');
         });
     }
-    
+
     if (query) {
         $('#page_search').attr('value', query);
         do_search(query);
@@ -56,4 +56,4 @@
     // })
 
 
-})( jQuery );
+})(jQuery);

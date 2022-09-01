@@ -625,6 +625,9 @@ def make_search():
                                             f(subitem)
         make_footer()
         script(src='js/lunr.js')
+        script(src='js/lunr.stemmer.support.js')
+        script(src='js/tinyseg.js')
+        script(src='js/lunr.cn.js')
         script(src='js/search.js')
     with open(os.path.join('docs', 'search.html'), 'w', encoding='utf_8') as out:
         out.write(doc.render())
@@ -762,8 +765,8 @@ def make_search_index():
                         #     'text': re.sub(r'(<([^>]+)>)', '', ' '.join(subitem['data'])),
                         # })
 
-    with open(os.path.join('docs', 'search_index.json'), 'w') as s_idx:
-        json.dump(search_idx, s_idx, indent=2, sort_keys=True)
+    with open(os.path.join('docs', 'search_index.json'), 'w', encoding='utf-8') as s_idx:
+        json.dump(search_idx, s_idx, indent=2, sort_keys=True, ensure_ascii=False)
 
 def get_icon(page, section, item):
     icon = ''
