@@ -75,6 +75,8 @@ def make_doc(title, description):
     doc = dominate.document(title=title)
     doc.set_attribute('lang', 'en')
     with doc.head:
+        # setting html static resource base location
+        base(href="please fill with your custom domain|ip|path")
         meta(charset="UTF-8")
         meta(name="viewport", content="width=device-width, initial-scale=1.0")
         link(rel="apple-touch-icon", sizes="180x180", href="/img/apple-touch-icon.png")
@@ -399,7 +401,7 @@ def add_icon(icon, classes):
         img(data_src=icon, loading='lazy', cls=classes, style="height: 70px; width: {}px".format(int(width * (70 / height))))
 
 def make_checklist(page):
-    page['num_ids'] = 0 
+    page['num_ids'] = 0
     doc = make_doc(page['title'] + " | 圆桌指引", '艾尔登法环指引和进度追踪')
     with doc:
         make_nav(to_snake_case(page['id']))
@@ -411,7 +413,7 @@ def make_checklist(page):
                 h = h1(cls='mt-4')
                 h += page['title']
                 h += span(id=page['id'] + "_overall_total", cls='d-print-none')
-            
+
             hide_completed_button()
 
             if 'description' in page:
@@ -508,7 +510,7 @@ def make_checklist(page):
                                                             if item['data'][pos]:
                                                                 raw(item['data'][pos])
                                                                 br()
-                                                        
+
                         else:
                             with div(id=page['id'] + '_' + str(s_idx) + "Col", cls="collapse show", aria_expanded="true"):
                                 items = peekable(section['items'])
@@ -687,7 +689,7 @@ def make_item_links():
     with open(os.path.join('docs', 'js', 'item_links.js'), 'w', encoding='UTF-8') as links_f:
         links_f.write('const item_links = ')
         json.dump(links_json, links_f, indent=2, sort_keys=True)
-    
+
 def make_progress_js():
     with open(os.path.join('docs', 'js', 'progress.js'), 'w', encoding='utf_8') as f:
         f.write('window.progress = {\n')
@@ -783,7 +785,7 @@ def get_icon(page, section, item):
         if 'map_icon_size' in item:
             icon_size = item['map_icon_size']
     elif 'icon' in section:
-        icon = section['icon'] 
+        icon = section['icon']
         if 'map_icon_size' in section:
             icon_size = section['map_icon_size']
     elif 'icon' in page:
