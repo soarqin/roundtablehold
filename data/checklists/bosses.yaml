@@ -5,7 +5,7 @@ table_widths:
 - 2
 - 4
 - 4
-map_icon: /map/icons/MENU_MAP_memo_20.png
+map_icon: map/icons/MENU_MAP_memo_20.png
 sections:
 - title: 宁姆格福
   table:
@@ -285,7 +285,7 @@ sections:
     - 3277
     - 6826
   - id: '2_29'
-    map_icon: /map/icons/shadows/tools/remembrances/00163.png
+    map_icon: map/icons/shadows/tools/remembrances/00163.png
     data:
     - <b>“接肢”葛瑞克</b>
     - <b>史东薇尔城</b>
@@ -794,7 +794,7 @@ sections:
     - 1928
     - 4853
   - id: '4_36'
-    map_icon: /map/icons/shadows/tools/remembrances/00172.png
+    map_icon: map/icons/shadows/tools/remembrances/00172.png
     data:
     - <b>“满月女王”蕾娜菈</b>
     - <b>魔法学院雷亚卢卡利亚</b>
@@ -1114,7 +1114,7 @@ sections:
     - 6095
     - 7263
   - id: '5_27'
-    map_icon: /map/icons/shadows/tools/remembrances/00164.png
+    map_icon: map/icons/shadows/tools/remembrances/00164.png
     data:
     - <b>“碎星”拉塔恩</b>
     - <b>恸哭沙丘</b> (<b>红狮子城</b>上方)
@@ -1433,7 +1433,7 @@ sections:
     - ''
     - 第一阶段<b>“亵渎君王”拉卡德</b>。
   - id: '7_26'
-    map_icon: /map/icons/shadows/tools/remembrances/00166.png
+    map_icon: map/icons/shadows/tools/remembrances/00166.png
     data:
     - <b>“亵渎君王”拉卡德</b>
     - <b>火山官邸</b>
@@ -1570,7 +1570,7 @@ sections:
     - 80,000 卢恩, <b>护符皮袋</b>
     - 金色的阴影。到达<b>“恶兆王”蒙葛特</b>必经。授予成就/奖杯:<b>“初始之王”葛孚雷</b>
   - id: '8_18'
-    map_icon: /map/icons/shadows/tools/remembrances/00165.png
+    map_icon: map/icons/shadows/tools/remembrances/00165.png
     data:
     - <b>“恶兆王”蒙葛特</b>
     - <b>艾尔登宝座</b>
@@ -1677,7 +1677,7 @@ sections:
     - 70,000 卢恩, 护符<b>神皮襁褓</b>, 祷告<b>黑焰仪式</b>
     - 避开幽灵召唤的敌人并杀死透明蜗牛。
   - id: '9_15'
-    map_icon: /map/icons/shadows/tools/remembrances/00174.png
+    map_icon: map/icons/shadows/tools/remembrances/00174.png
     data:
     - <b>火焰巨人</b>
     - <b>火焰之巅</b>
@@ -1775,7 +1775,7 @@ sections:
     - 200,000 卢恩, <b>罗蕾塔的绝招</b>, <b>罗蕾塔的战镰</b>
     - 授予成就/奖杯:<b>“圣树骑士”罗蕾塔</b>。
   - id: '10_11'
-    map_icon: /map/icons/shadows/tools/remembrances/00167.png
+    map_icon: map/icons/shadows/tools/remembrances/00167.png
     data:
     - <b>“米凯拉的锋刃”玛莲妮亚</b>
     - <b>“圣树分枝”艾布雷菲尔</b>
@@ -1816,14 +1816,14 @@ sections:
     - 50,000 卢恩, 异形龙套装
     - 一个讨厌的混蛋，但更讨厌。
   - id: '11_5'
-    map_icon: /map/icons/shadows/tools/remembrances/00171.png
+    map_icon: map/icons/shadows/tools/remembrances/00171.png
     data:
     - <b>“龙王”普拉顿桑克斯</b>
     - <b>龙教堂</b>
     - 280,000 卢恩, <b>龙王的追忆</b>
     - 授予成就/奖杯:<b>“龙王”普拉顿桑克斯</b>。
   - id: '11_6'
-    map_icon: /map/icons/shadows/tools/remembrances/00169.png
+    map_icon: map/icons/shadows/tools/remembrances/00169.png
     data:
     - <b>“黑剑”玛利喀斯</b>
     - <b>逐渐崩毁的法姆·亚兹拉</b>
@@ -1843,7 +1843,7 @@ sections:
     - 180,000 卢恩, <b>百智权杖</b>, 百智套装
     - 必需。
   - id: '12_2'
-    map_icon: /map/icons/shadows/tools/remembrances/00170.png
+    map_icon: map/icons/shadows/tools/remembrances/00170.png
     data:
     - <b>“初始之王”葛孚雷</b> (<b>战士荷莱·露</b>)
     - <b>艾尔登宝座</b>
@@ -1856,7 +1856,7 @@ sections:
     - 0 卢恩
     - 必需。
   - id: '12_4'
-    map_icon: /map/icons/shadows/tools/remembrances/00176.png
+    map_icon: map/icons/shadows/tools/remembrances/00176.png
     data:
     - <b>艾尔登之兽</b>
     - <b>濒毁玛莉卡</b>
@@ -1901,7 +1901,7 @@ sections:
     - ''
     - 被狼包围。
   - id: '14_2'
-    map_icon: /map/icons/shadows/tools/remembrances/00175.png
+    map_icon: map/icons/shadows/tools/remembrances/00175.png
     data:
     - <b>祖灵之王</b>
     - <b>角骸灵地</b>
@@ -1949,7 +1949,7 @@ sections:
       500 卢恩, <b>溃烂血指</b> (x6).'
     - 使用<b>赐福[王朝庙（中段）]</b>附近的入侵标志来入侵他的世界
   - id: '15_3'
-    map_icon: /map/icons/shadows/tools/remembrances/00168.png
+    map_icon: map/icons/shadows/tools/remembrances/00168.png
     data:
     - <b>“鲜血君王”蒙格</b>
     - <b>蒙格温王朝庙</b>
@@ -2006,7 +2006,7 @@ sections:
     - 3156
     - 12607
   - id: '17_2'
-    map_icon: /map/icons/shadows/tools/remembrances/00177.png
+    map_icon: map/icons/shadows/tools/remembrances/00177.png
     data:
     - <b>“黑暗弃子”艾丝缇</b>
     - <b>大回廊</b>
@@ -2044,7 +2044,7 @@ sections:
     - 5586
     - 10782
   - id: '18_4'
-    map_icon: /map/icons/shadows/tools/remembrances/00173.png
+    map_icon: map/icons/shadows/tools/remembrances/00173.png
     data:
     - <b>“死龙”弗尔桑克斯</b>
     - <b>深根底层</b>

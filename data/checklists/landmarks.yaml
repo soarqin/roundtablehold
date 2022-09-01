@@ -1,6 +1,6 @@
 title: 地标和位置
 id: caves
-icon: /map/icons/MENU_MAP_30.png
+icon: map/icons/MENU_MAP_30.png
 table_widths:
 - 4
 - 2
@@ -20,7 +20,7 @@ sections:
     - 洞窟
     - <b>葛瑞克的士兵</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 3766
     - 7373
@@ -30,7 +30,7 @@ sections:
     - 洞窟
     - <b>法姆·亚兹拉的兽人</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 3664
     - 7065
@@ -40,7 +40,7 @@ sections:
     - 洞窟
     - <b>亚人首领</b> (x2)
     - 与<b>亚人柏克</b>的任务线相关。
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 3497
     - 7347
@@ -50,7 +50,7 @@ sections:
     - 洞窟
     - <b>帕奇</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 4060
     - 6975
@@ -60,7 +60,7 @@ sections:
     - 洞窟
     - <b>魔像守卫</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 4048
     - 6437
@@ -70,7 +70,7 @@ sections:
     - 地下墓地
     - <b>黑刀刺客</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 3897
     - 6502
@@ -80,7 +80,7 @@ sections:
     - 地下墓地
     - <b>归树看门犬</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 3509
     - 7060
@@ -90,7 +90,7 @@ sections:
     - 地下墓地
     - <b>守墓斗士</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 4067
     - 6704
@@ -100,7 +100,7 @@ sections:
     - 坑道
     - <b>挖石山妖</b>
     - ''
-    icon: /map/icons/MENU_MAP_14.png
+    icon: map/icons/MENU_MAP_14.png
     cords:
     - 3839
     - 7051
@@ -110,8 +110,8 @@ sections:
     - 英雄墓地
     - <b>腐烂树灵</b><br><b>“接肢”贵族后裔</b> (x2)
     - 需要2个<b>石剑钥匙</b>
-    icon: /map/icons/MENU_MAP_16.png
-    map_icon: /map/icons/edited/MENU_MAP_16.png
+    icon: map/icons/MENU_MAP_16.png
+    map_icon: map/icons/edited/MENU_MAP_16.png
     cords:
     - 3755
     - 7319
@@ -124,7 +124,7 @@ sections:
     cords:
     - 4207
     - 7666
-    icon: /map/icons/edited/MENU_MAP_09.png
+    icon: map/icons/edited/MENU_MAP_09.png
   - id: e2
     data:
     - <b>风暴山丘的封印监牢</b>
@@ -134,14 +134,14 @@ sections:
     cords:
     - 3646
     - 6998
-    icon: /map/icons/edited/MENU_MAP_09.png
+    icon: map/icons/edited/MENU_MAP_09.png
   - id: l1
     data:
     - <b>小黄金树</b>
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_30.png
+    icon: map/icons/MENU_MAP_30.png
     cords:
     - 4561
     - 7088
@@ -152,7 +152,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_23.png
+    icon: map/icons/MENU_MAP_23.png
     cords:
     - 4239
     - 6218
@@ -163,7 +163,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 3965
     - 7373
@@ -173,7 +173,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 3785
     - 6961
@@ -183,7 +183,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 4419
     - 7152
@@ -193,7 +193,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 4234
     - 7222
@@ -203,7 +203,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 4462
     - 6491
@@ -213,7 +213,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 3491
     - 6775
@@ -223,7 +223,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 3720
     - 6696
@@ -233,7 +233,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 4214
     - 6789
@@ -243,7 +243,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 3659
     - 7225
@@ -254,7 +254,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 3382
     - 7601
@@ -265,7 +265,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 4624
     - 6710
@@ -276,7 +276,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_10.png
+    icon: map/icons/MENU_MAP_10.png
     cords:
     - 3677
     - 6915
@@ -286,7 +286,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Ungro.png
+    icon: map/icons/MENU_MAP_Ungro.png
     cords:
     - 4581
     - 7032
@@ -296,7 +296,7 @@ sections:
     - 地标
     - ''
     - 与<b>“领主的嫡长子”肯尼斯·海德</b>的任务线有关。
-    icon: /map/icons/MENU_MAP_18.png
+    icon: map/icons/MENU_MAP_18.png
     cords:
     - 4707
     - 7314
@@ -307,7 +307,7 @@ sections:
     - 传说遗迹 (主要)
     - <b>“恶兆妖鬼”玛尔基特</b><br><b>“接肢”葛瑞克</b>
     - 主线半必要
-    icon: /map/icons/MENU_MAP_50.png
+    icon: map/icons/MENU_MAP_50.png
     cords:
     - 3216
     - 6775
@@ -325,7 +325,7 @@ sections:
     - 洞窟
     - <b>卢恩熊</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 4136
     - 7836
@@ -335,7 +335,7 @@ sections:
     - 洞窟
     - <b>“病花”米兰达</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 3616
     - 8023
@@ -345,7 +345,7 @@ sections:
     - 地下墓地
     - <b>归树看门犬</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 4472
     - 7848
@@ -355,7 +355,7 @@ sections:
     - 地下墓地
     - Cemetary Shade
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 3851
     - 7951
@@ -365,7 +365,7 @@ sections:
     - 坑道
     - <b>片鳞混种</b>
     - ''
-    icon: /map/icons/MENU_MAP_14.png
+    icon: map/icons/MENU_MAP_14.png
     cords:
     - 4005
     - 8113
@@ -378,14 +378,14 @@ sections:
     cords:
     - 3599
     - 7958
-    icon: /map/icons/edited/MENU_MAP_09.png
+    icon: map/icons/edited/MENU_MAP_09.png
   - id: l17
     data:
     - <b>小黄金树</b>
     - 地标
     - <b>黄金树的化身</b>
     - ''
-    icon: /map/icons/MENU_MAP_30.png
+    icon: map/icons/MENU_MAP_30.png
     cords:
     - 3912
     - 8109
@@ -396,7 +396,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_17.png
+    icon: map/icons/MENU_MAP_17.png
     cords:
     - 4415
     - 8121
@@ -407,7 +407,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 3994
     - 7867
@@ -417,7 +417,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 3704
     - 7918
@@ -427,7 +427,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 3510
     - 8063
@@ -437,7 +437,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 3468
     - 8225
@@ -447,7 +447,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 3858
     - 7679
@@ -458,7 +458,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 4137
     - 8122
@@ -469,7 +469,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 3538
     - 7993
@@ -480,7 +480,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_11.png
+    icon: map/icons/MENU_MAP_11.png
     cords:
     - 4350
     - 7771
@@ -490,7 +490,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_37.png
+    icon: map/icons/MENU_MAP_37.png
     cords:
     - 4119
     - 8090
@@ -500,7 +500,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_08.png
+    icon: map/icons/MENU_MAP_08.png
     cords:
     - 4227
     - 7868
@@ -510,7 +510,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_08.png
+    icon: map/icons/MENU_MAP_08.png
     cords:
     - 3659
     - 8364
@@ -520,7 +520,7 @@ sections:
     - 传说遗迹 (次要)
     - <b>狮子混种</b>
     - 与<b>摩恩的伊蕾娜</b>的任务线相关。
-    icon: /map/icons/MENU_MAP_25.png
+    icon: map/icons/MENU_MAP_25.png
     cords:
     - 4097
     - 8554
@@ -538,7 +538,7 @@ sections:
     - 洞窟
     - <b>结晶人</b> (x2)
     - 需要2个<b>石剑钥匙</b>
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 1724
     - 4870
@@ -548,7 +548,7 @@ sections:
     - 洞窟
     - <b>猎犬骑士</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 2335
     - 5968
@@ -558,7 +558,7 @@ sections:
     - 洞窟
     - <b>玛莲妮亚的尊腐骑士</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 2940
     - 6303
@@ -568,7 +568,7 @@ sections:
     - 地下墓地
     - <b>黑刀刺客</b><br><b>墓地影子</b>
     - 里面有一个小恶魔雕像。
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 2870
     - 4122
@@ -578,7 +578,7 @@ sections:
     - 地下墓地
     - <b>归树看门犬</b>
     - 里面有一个小恶魔雕像。
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 3037
     - 5944
@@ -588,7 +588,7 @@ sections:
     - 地下墓地
     - <b>唤灵蜗牛</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 1381
     - 5526
@@ -598,7 +598,7 @@ sections:
     - 坑道
     - <b>结晶人（圆刃刀）</b>
     - ''
-    icon: /map/icons/MENU_MAP_14.png
+    icon: map/icons/MENU_MAP_14.png
     cords:
     - 2304
     - 4457
@@ -611,7 +611,7 @@ sections:
     cords:
     - 2684
     - 6120
-    icon: /map/icons/edited/MENU_MAP_09.png
+    icon: map/icons/edited/MENU_MAP_09.png
   - id: e5
     data:
     - <b>杜鹃的封印监牢</b>
@@ -621,7 +621,7 @@ sections:
     cords:
     - 1377
     - 5030
-    icon: /map/icons/edited/MENU_MAP_09.png
+    icon: map/icons/edited/MENU_MAP_09.png
   - id: e6
     data:
     - <b>王室墓地的封印监牢</b>
@@ -631,7 +631,7 @@ sections:
     cords:
     - 2276
     - 3697
-    icon: /map/icons/edited/MENU_MAP_09.png
+    icon: map/icons/edited/MENU_MAP_09.png
   - id: e7
     data:
     - <b>刀之首的封印监牢</b>
@@ -641,14 +641,14 @@ sections:
     cords:
     - 1377
     - 5693
-    icon: /map/icons/edited/MENU_MAP_09.png
+    icon: map/icons/edited/MENU_MAP_09.png
   - id: l30
     data:
     - <b>小黄金树</b> (西南)
     - 地标
     - <b>黄金树的化身</b>
     - ''
-    icon: /map/icons/MENU_MAP_30.png
+    icon: map/icons/MENU_MAP_30.png
     cords:
     - 1440
     - 5437
@@ -659,7 +659,7 @@ sections:
     - 地标
     - <b>黄金树的化身</b>
     - ''
-    icon: /map/icons/MENU_MAP_30.png
+    icon: map/icons/MENU_MAP_30.png
     cords:
     - 2673
     - 4345
@@ -670,7 +670,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_23.png
+    icon: map/icons/MENU_MAP_23.png
     cords:
     - 3345
     - 5135
@@ -681,7 +681,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_17.png
+    icon: map/icons/MENU_MAP_17.png
     cords:
     - 1577
     - 5578
@@ -692,7 +692,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_17.png
+    icon: map/icons/MENU_MAP_17.png
     cords:
     - 1833
     - 4405
@@ -703,7 +703,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_17.png
+    icon: map/icons/MENU_MAP_17.png
     cords:
     - 2919
     - 4172
@@ -714,7 +714,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_17.png
+    icon: map/icons/MENU_MAP_17.png
     cords:
     - 1596
     - 3690
@@ -725,7 +725,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_17.png
+    icon: map/icons/MENU_MAP_17.png
     cords:
     - 1732
     - 3803
@@ -736,7 +736,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_17.png
+    icon: map/icons/MENU_MAP_17.png
     cords:
     - 1755
     - 3517
@@ -747,7 +747,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_17.png
+    icon: map/icons/MENU_MAP_17.png
     cords:
     - 1406
     - 6245
@@ -758,7 +758,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 2543
     - 5875
@@ -768,7 +768,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 2861
     - 5927
@@ -778,7 +778,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 1722
     - 4123
@@ -788,7 +788,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 1950
     - 5937
@@ -798,7 +798,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 1675
     - 5781
@@ -808,7 +808,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 2302
     - 6064
@@ -818,7 +818,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 2277
     - 5562
@@ -828,7 +828,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 2768
     - 5102
@@ -838,7 +838,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 1430
     - 5208
@@ -848,7 +848,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 2911
     - 6414
@@ -859,7 +859,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 1829
     - 5363
@@ -870,7 +870,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 2405
     - 4720
@@ -881,7 +881,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 2180
     - 4048
@@ -892,7 +892,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 2499
     - 4013
@@ -903,7 +903,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_20.png
+    icon: map/icons/MENU_MAP_20.png
     cords:
     - 1883
     - 5784
@@ -914,7 +914,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_08.png
+    icon: map/icons/MENU_MAP_08.png
     cords:
     - 2793
     - 5638
@@ -924,7 +924,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_66.png
+    icon: map/icons/MENU_MAP_66.png
     cords:
     - 2917
     - 5209
@@ -935,7 +935,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_38.png
+    icon: map/icons/MENU_MAP_38.png
     cords:
     - 2993
     - 5259
@@ -945,7 +945,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_32.png
+    icon: map/icons/MENU_MAP_32.png
     cords:
     - 2345
     - 5207
@@ -955,7 +955,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_32.png
+    icon: map/icons/MENU_MAP_32.png
     cords:
     - 1714
     - 5178
@@ -965,7 +965,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_39.png
+    icon: map/icons/MENU_MAP_39.png
     cords:
     - 1727
     - 5852
@@ -975,7 +975,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_52.png
+    icon: map/icons/MENU_MAP_52.png
     cords:
     - 1475
     - 4565
@@ -986,7 +986,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_35.png
+    icon: map/icons/MENU_MAP_35.png
     cords:
     - 2650
     - 4245
@@ -996,7 +996,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_08.png
+    icon: map/icons/MENU_MAP_08.png
     cords:
     - 2679
     - 4054
@@ -1006,7 +1006,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Ungro.png
+    icon: map/icons/MENU_MAP_Ungro.png
     cords:
     - 2777
     - 4661
@@ -1016,7 +1016,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Ungro.png
+    icon: map/icons/MENU_MAP_Ungro.png
     cords:
     - 1643
     - 5990
@@ -1026,7 +1026,7 @@ sections:
     - 传说遗迹 (主要)
     - <b>拉达冈的红狼</b><br><b>“满月女王”蕾娜菈</b>
     - 主线半必要，需要学院钥匙才能进入。
-    icon: /map/icons/MENU_MAP_51.png
+    icon: map/icons/MENU_MAP_51.png
     cords:
     - 1800
     - 4807
@@ -1037,7 +1037,7 @@ sections:
     - 传说遗迹 (次要)
     - <b>禁卫骑士罗蕾塔</b>
     - 与<b>魔女菈妮</b>的任务线相关。
-    icon: /map/icons/MENU_MAP_26.png
+    icon: map/icons/MENU_MAP_26.png
     cords:
     - 1927
     - 3730
@@ -1048,7 +1048,7 @@ sections:
     - 传说遗迹 (次要)
     - <b>“熔岩土龙”马卡尔</b>
     - 非必要，除非你不想走<b>亚坛高原</b>。
-    icon: /map/icons/MENU_MAP_53.png
+    icon: map/icons/MENU_MAP_53.png
     cords:
     - 2580
     - 3625
@@ -1066,7 +1066,7 @@ sections:
     - 洞窟
     - <b>玛莲妮亚的尊腐骑士</b> (x2)
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 5363
     - 6479
@@ -1076,7 +1076,7 @@ sections:
     - 洞窟
     - <b>发狂斗士</b>
     - 需要2个<b>石剑钥匙</b>
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 4936
     - 6771
@@ -1086,7 +1086,7 @@ sections:
     - 洞窟
     - <b>法姆·亚兹拉的兽人</b> (x2)
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 6011
     - 6173
@@ -1096,7 +1096,7 @@ sections:
     - 洞窟
     - <b>结晶人</b> (x3)
     - <b>魔法师瑟濂</b>任务线的一部分。位于一个悬崖下的幻影墙后面。
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 5873
     - 6481
@@ -1106,7 +1106,7 @@ sections:
     - 地下墓地
     - <b>墓地影子</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 5362
     - 7238
@@ -1116,7 +1116,7 @@ sections:
     - 地下墓地
     - <b>归树看门犬</b> (x2)
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 4930
     - 6172
@@ -1126,7 +1126,7 @@ sections:
     - 地下墓地
     - <b>腐败树灵</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 6310
     - 6173
@@ -1136,7 +1136,7 @@ sections:
     - 坑道
     - <b>熔岩土龙</b>
     - ''
-    icon: /map/icons/MENU_MAP_14.png
+    icon: map/icons/MENU_MAP_14.png
     cords:
     - 4796
     - 6512
@@ -1146,7 +1146,7 @@ sections:
     - 坑道
     - <b>坠星兽物</b>
     - ''
-    icon: /map/icons/MENU_MAP_14.png
+    icon: map/icons/MENU_MAP_14.png
     cords:
     - 5520
     - 6433
@@ -1159,14 +1159,14 @@ sections:
     cords:
     - 5413
     - 6515
-    icon: /map/icons/edited/MENU_MAP_09.png
+    icon: map/icons/edited/MENU_MAP_09.png
   - id: l67
     data:
     - <b>小黄金树</b> (西)
     - 地标
     - <b>黄金树的化身</b>
     - ''
-    icon: /map/icons/MENU_MAP_30.png
+    icon: map/icons/MENU_MAP_30.png
     cords:
     - 4911
     - 6164
@@ -1177,7 +1177,7 @@ sections:
     - 地标
     - <b>腐败化身</b>
     - ''
-    icon: /map/icons/MENU_MAP_30.png
+    icon: map/icons/MENU_MAP_30.png
     cords:
     - 6037
     - 6244
@@ -1188,7 +1188,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_23.png
+    icon: map/icons/MENU_MAP_23.png
     cords:
     - 5581
     - 6055
@@ -1199,7 +1199,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_23.png
+    icon: map/icons/MENU_MAP_23.png
     cords:
     - 5990
     - 4819
@@ -1210,7 +1210,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_17.png
+    icon: map/icons/MENU_MAP_17.png
     cords:
     - 6338
     - 6042
@@ -1221,7 +1221,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 4894
     - 6375
@@ -1231,7 +1231,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 5114
     - 6372
@@ -1241,7 +1241,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 5043
     - 6879
@@ -1251,7 +1251,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 5286
     - 6664
@@ -1261,7 +1261,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 4819
     - 6362
@@ -1271,7 +1271,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 5171
     - 6098
@@ -1281,7 +1281,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 5672
     - 6738
@@ -1291,7 +1291,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 4668
     - 6258
@@ -1302,7 +1302,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 5267
     - 7189
@@ -1313,7 +1313,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 5773
     - 6662
@@ -1324,7 +1324,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_33.png
+    icon: map/icons/MENU_MAP_33.png
     cords:
     - 5638
     - 6579
@@ -1335,7 +1335,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_10.png
+    icon: map/icons/MENU_MAP_10.png
     cords:
     - 5629
     - 6836
@@ -1345,7 +1345,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_54.png
+    icon: map/icons/MENU_MAP_54.png
     cords:
     - 5983
     - 5504
@@ -1356,7 +1356,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Ungro.png
+    icon: map/icons/MENU_MAP_Ungro.png
     cords:
     - 5390
     - 6283
@@ -1366,7 +1366,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_18.png
+    icon: map/icons/MENU_MAP_18.png
     cords:
     - 4885
     - 6793
@@ -1377,7 +1377,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_18.png
+    icon: map/icons/MENU_MAP_18.png
     cords:
     - 5957
     - 6429
@@ -1388,7 +1388,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_08.png
+    icon: map/icons/MENU_MAP_08.png
     cords:
     - 5558
     - 6732
@@ -1398,7 +1398,7 @@ sections:
     - 传说遗迹 (次要)
     - <b>混种战士</b> & <b>熔炉骑士</b><br><b>“碎星”拉塔恩</b>
     - 主线半必要。
-    icon: /map/icons/MENU_MAP_28.png
+    icon: map/icons/MENU_MAP_28.png
     cords:
     - 6060
     - 7357
@@ -1416,7 +1416,7 @@ sections:
     - 洞窟
     - <b>恶兆猎人</b> & <b>“病花”米兰达</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 3506
     - 3448
@@ -1426,7 +1426,7 @@ sections:
     - 洞窟
     - <b>死术师哥瑞斯</b><br><b>黑刀刺客</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 2511
     - 3264
@@ -1436,7 +1436,7 @@ sections:
     - 地下墓地
     - <b>调香师托莉夏</b> & <b>混种战士</b>
     - 需要2个<b>石剑钥匙</b>
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 2126
     - 3369
@@ -1446,7 +1446,7 @@ sections:
     - 坑道
     - <b>挖石山妖</b>
     - ''
-    icon: /map/icons/MENU_MAP_14.png
+    icon: map/icons/MENU_MAP_14.png
     cords:
     - 2794
     - 3058
@@ -1456,7 +1456,7 @@ sections:
     - 坑道
     - <b>结晶人</b> (x2)
     - ''
-    icon: /map/icons/MENU_MAP_14.png
+    icon: map/icons/MENU_MAP_14.png
     cords:
     - 3408
     - 3137
@@ -1466,8 +1466,8 @@ sections:
     - 英雄墓地
     - <b>萨米尔的古英雄</b><br><b>黑刀刺客</b>
     - 需要2个<b>石剑钥匙</b>
-    icon: /map/icons/MENU_MAP_16.png
-    map_icon: /map/icons/edited/MENU_MAP_16.png
+    icon: map/icons/MENU_MAP_16.png
+    map_icon: map/icons/edited/MENU_MAP_16.png
     cords:
     - 3225
     - 3190
@@ -1480,14 +1480,14 @@ sections:
     cords:
     - 2880
     - 3791
-    icon: /map/icons/edited/MENU_MAP_09.png
+    icon: map/icons/edited/MENU_MAP_09.png
   - id: l89
     data:
     - <b>小黄金树</b>
     - 地标
     - <b>蚯蚓脸</b>
     - ''
-    icon: /map/icons/MENU_MAP_30.png
+    icon: map/icons/MENU_MAP_30.png
     cords:
     - 3384
     - 2925
@@ -1498,7 +1498,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_17.png
+    icon: map/icons/MENU_MAP_17.png
     cords:
     - 3035
     - 3019
@@ -1509,7 +1509,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 2165
     - 3317
@@ -1519,7 +1519,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 2663
     - 3448
@@ -1529,7 +1529,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 2637
     - 3187
@@ -1539,7 +1539,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 3140
     - 2866
@@ -1549,7 +1549,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 3481
     - 2918
@@ -1559,7 +1559,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 3227
     - 3351
@@ -1570,7 +1570,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 2989
     - 3151
@@ -1581,7 +1581,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_21.png
+    icon: map/icons/MENU_MAP_21.png
     cords:
     - 2745
     - 3733
@@ -1592,7 +1592,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_19.png
+    icon: map/icons/MENU_MAP_19.png
     cords:
     - 3126
     - 2512
@@ -1602,7 +1602,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_19.png
+    icon: map/icons/MENU_MAP_19.png
     cords:
     - 3348
     - 2391
@@ -1612,7 +1612,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_19.png
+    icon: map/icons/MENU_MAP_19.png
     cords:
     - 3504
     - 2528
@@ -1622,7 +1622,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_36.png
+    icon: map/icons/MENU_MAP_36.png
     cords:
     - 3633
     - 2586
@@ -1633,7 +1633,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_08.png
+    icon: map/icons/MENU_MAP_08.png
     cords:
     - 3739
     - 2723
@@ -1643,7 +1643,7 @@ sections:
     - 传说遗迹 (次要)
     - <b>“铁棘”艾隆梅尔</b>
     - 与<b>米莉森</b>的任务线有关。
-    icon: /map/icons/MENU_MAP_27.png
+    icon: map/icons/MENU_MAP_27.png
     cords:
     - 2921
     - 2682
@@ -1661,7 +1661,7 @@ sections:
     - 洞窟
     - <b>腐败眷属</b>
     - 需要2个<b>石剑钥匙</b>
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 2433
     - 2813
@@ -1671,7 +1671,7 @@ sections:
     - 洞窟
     - <b>“亚人女王”玛格</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 2378
     - 2485
@@ -1681,7 +1681,7 @@ sections:
     - 地下墓地
     - <b>归树看门犬</b>
     - 里面有一个小恶魔雕像。
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 2560
     - 3090
@@ -1691,8 +1691,8 @@ sections:
     - 英雄墓地
     - <b>英雄的红狼</b>
     - ''
-    icon: /map/icons/MENU_MAP_16.png
-    map_icon: /map/icons/edited/MENU_MAP_16.png
+    icon: map/icons/MENU_MAP_16.png
+    map_icon: map/icons/edited/MENU_MAP_16.png
     cords:
     - 2521
     - 2928
@@ -1702,7 +1702,7 @@ sections:
     - 地标
     - <b>腐烂树灵</b>
     - ''
-    icon: /map/icons/MENU_MAP_30.png
+    icon: map/icons/MENU_MAP_30.png
     cords:
     - 2427
     - 2772
@@ -1713,7 +1713,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 2587
     - 2688
@@ -1723,7 +1723,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 2265
     - 3214
@@ -1733,7 +1733,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 2057
     - 3173
@@ -1743,7 +1743,7 @@ sections:
     - 地标
     - <b>黄金树的化身</b>
     - ''
-    icon: /map/icons/MENU_MAP_40.png
+    icon: map/icons/MENU_MAP_40.png
     cords:
     - 2435
     - 3108
@@ -1753,7 +1753,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_18.png
+    icon: map/icons/MENU_MAP_18.png
     cords:
     - 1908
     - 2820
@@ -1764,7 +1764,7 @@ sections:
     - 传说遗迹 (主要)
     - <b>噬神大蛇</b> / <b>“亵渎君王”拉卡德</b>
     - 主线半必要。
-    icon: /map/icons/MENU_MAP_58.png
+    icon: map/icons/MENU_MAP_58.png
     cords:
     - 2190
     - 2837
@@ -1782,7 +1782,7 @@ sections:
     - 地下墓地
     - <b>守墓斗士</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 4591
     - 3186
@@ -1792,7 +1792,7 @@ sections:
     - 地下墓地
     - <b>“鲜血祭司”艾斯加</b>
     - 因为某些原因在游戏中没有地图图标!
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 4381
     - 3571
@@ -1802,7 +1802,7 @@ sections:
     - 坑道
     - <b>石肤黑王</b>
     - ''
-    icon: /map/icons/MENU_MAP_14.png
+    icon: map/icons/MENU_MAP_14.png
     cords:
     - 3909
     - 3653
@@ -1812,8 +1812,8 @@ sections:
     - 英雄墓地
     - <b>熔炉骑士</b> & <b>“熔炉骑士”奥陶琵斯</b>
     - 需要1个<b>石剑钥匙</b>。
-    icon: /map/icons/MENU_MAP_16.png
-    map_icon: /map/icons/edited/MENU_MAP_16.png
+    icon: map/icons/MENU_MAP_16.png
+    map_icon: map/icons/edited/MENU_MAP_16.png
     cords:
     - 4542
     - 3302
@@ -1823,7 +1823,7 @@ sections:
     - 地标
     - <b>黄金树的化身</b>
     - ''
-    icon: /map/icons/MENU_MAP_30.png
+    icon: map/icons/MENU_MAP_30.png
     cords:
     - 4286
     - 2869
@@ -1834,7 +1834,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_23.png
+    icon: map/icons/MENU_MAP_23.png
     cords:
     - 3919
     - 4009
@@ -1845,7 +1845,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 3946
     - 2944
@@ -1855,7 +1855,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 3849
     - 3752
@@ -1866,7 +1866,7 @@ sections:
     - 传说遗迹 (主要)
     - <b>“恶兆王”蒙葛特</b><br><b>“初始之王”葛孚雷</b> (Golden Shade)
     - 必要。
-    icon: /map/icons/MENU_MAP_60.png
+    icon: map/icons/MENU_MAP_60.png
     cords:
     - 4271
     - 3531
@@ -1877,7 +1877,7 @@ sections:
     - 传说遗迹 (次要)
     - <b>“恶兆之子”蒙格</b>
     - 与<b>食粪者</b>的任务线相关。
-    icon: /map/icons/MENU_MAP_61.png
+    icon: map/icons/MENU_MAP_61.png
     cords:
     - 4338
     - 3513
@@ -1894,7 +1894,7 @@ sections:
     - 洞窟
     - <b>唤灵蜗牛</b>
     - 需要2个<b>石剑钥匙</b>
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 6494
     - 2050
@@ -1904,7 +1904,7 @@ sections:
     - 地下墓地
     - <b>腐烂树灵</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 5786
     - 2808
@@ -1914,8 +1914,8 @@ sections:
     - 英雄墓地
     - <b>萨米尔的古英雄</b>
     - ''
-    icon: /map/icons/MENU_MAP_16.png
-    map_icon: /map/icons/edited/MENU_MAP_16.png
+    icon: map/icons/MENU_MAP_16.png
+    map_icon: map/icons/edited/MENU_MAP_16.png
     cords:
     - 5686
     - 2823
@@ -1928,14 +1928,14 @@ sections:
     cords:
     - 6478
     - 2280
-    icon: /map/icons/edited/MENU_MAP_09.png
+    icon: map/icons/edited/MENU_MAP_09.png
   - id: l114
     data:
     - <b>小黄金树</b>
     - 地标
     - <b>黄金树的化身</b> (x2)
     - ''
-    icon: /map/icons/MENU_MAP_30.png
+    icon: map/icons/MENU_MAP_30.png
     cords:
     - 6229
     - 2108
@@ -1946,7 +1946,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_23.png
+    icon: map/icons/MENU_MAP_23.png
     cords:
     - 5144
     - 3854
@@ -1957,7 +1957,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_17.png
+    icon: map/icons/MENU_MAP_17.png
     cords:
     - 6382
     - 1985
@@ -1968,7 +1968,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 5605
     - 3005
@@ -1978,7 +1978,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 5967
     - 2141
@@ -1988,7 +1988,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_06.png
+    icon: map/icons/MENU_MAP_06.png
     cords:
     - 5796
     - 2094
@@ -1998,7 +1998,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 6754
     - 2338
@@ -2009,7 +2009,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 5981
     - 2999
@@ -2020,7 +2020,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_21.png
+    icon: map/icons/MENU_MAP_21.png
     cords:
     - 5483
     - 2972
@@ -2031,7 +2031,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_18.png
+    icon: map/icons/MENU_MAP_18.png
     cords:
     - 6220
     - 2352
@@ -2042,7 +2042,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_57.png
+    icon: map/icons/MENU_MAP_57.png
     cords:
     - 6700
     - 2983
@@ -2053,7 +2053,7 @@ sections:
     - 传说遗迹 (次要)
     - <b>老将尼奥</b>
     - 与<b>白金之子勒缇娜</b>的任务线相关。
-    icon: /map/icons/MENU_MAP_29.png
+    icon: map/icons/MENU_MAP_29.png
     cords:
     - 6030
     - 1849
@@ -2071,7 +2071,7 @@ sections:
     - 洞窟
     - <b>混种圣骑士</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_13.png
+    icon: map/icons/edited/MENU_MAP_13.png
     cords:
     - 5692
     - 2146
@@ -2081,7 +2081,7 @@ sections:
     - 地下墓地
     - <b>离群仿身泪滴</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 5427
     - 2869
@@ -2091,7 +2091,7 @@ sections:
     - 地下墓地
     - <b>腐败守墓斗士</b>
     - ''
-    icon: /map/icons/edited/MENU_MAP_04.png
+    icon: map/icons/edited/MENU_MAP_04.png
     cords:
     - 5666
     - 2509
@@ -2101,7 +2101,7 @@ sections:
     - 坑道
     - <b>“黑暗繁星”艾丝缇</b>
     - ''
-    icon: /map/icons/MENU_MAP_14.png
+    icon: map/icons/MENU_MAP_14.png
     cords:
     - 5044
     - 2512
@@ -2111,7 +2111,7 @@ sections:
     - 地标
     - <b>腐败化身</b>
     - ''
-    icon: /map/icons/MENU_MAP_30.png
+    icon: map/icons/MENU_MAP_30.png
     cords:
     - 5633
     - 2054
@@ -2122,7 +2122,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_17.png
+    icon: map/icons/MENU_MAP_17.png
     cords:
     - 5648
     - 2262
@@ -2133,7 +2133,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_05.png
+    icon: map/icons/MENU_MAP_05.png
     cords:
     - 5061
     - 2411
@@ -2143,7 +2143,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_Church.png
+    icon: map/icons/MENU_MAP_Church.png
     cords:
     - 5056
     - 1707
@@ -2154,7 +2154,7 @@ sections:
     - 地标
     - ''
     - ''
-    icon: /map/icons/MENU_MAP_34.png
+    icon: map/icons/MENU_MAP_34.png
     cords:
     - 5312
     - 1923
@@ -2165,7 +2165,7 @@ sections:
     - 传说遗迹 (次要)
     - N/A
     - 需要到达<b>“圣树分枝”艾布雷菲尔</b>。
-    icon: /map/icons/MENU_MAP_55.png
+    icon: map/icons/MENU_MAP_55.png
     cords:
     - 5664
     - 1200
@@ -2176,7 +2176,7 @@ sections:
     - 传说遗迹 (主要)
     - <b>“米凯拉的锋刃”玛莲妮亚</b>
     - :')
-    icon: /map/icons/MENU_MAP_56.png
+    icon: map/icons/MENU_MAP_56.png
     cords:
     - 5610
     - 876
@@ -2194,7 +2194,7 @@ sections:
     - 传说遗迹 (主要)
     - <b>神皮双人组</b><br><b>“黑剑”玛利喀斯</b>
     - 必要。
-    icon: /map/icons/MENU_MAP_59.png
+    icon: map/icons/MENU_MAP_59.png
     cords:
     - 8570
     - 4553
@@ -2213,7 +2213,7 @@ sections:
     - <b>“百智爵士”基甸·奥夫尼尔</b><br><b>“初始之王”葛孚雷</b> (<b>战士荷莱·露</b>)<br><b>“黄金律法”拉达冈</b>
       / <b>艾尔登之兽</b>
     - 必要。地形变换后的<b>王城罗德尔</b>。
-    icon: /map/icons/MENU_MAP_62.png
+    icon: map/icons/MENU_MAP_62.png
     map_link:
     - 4271
     - 3531

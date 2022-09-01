@@ -1,6 +1,6 @@
 title: 大卢恩
 id: great_runes
-icon: /img/icons/keys/great_runes/03201.png
+icon: img/icons/keys/great_runes/03201.png
 sections:
 - title: 大卢恩
   table:
@@ -13,8 +13,8 @@ sections:
   - 4
   items:
   - id: '1_1'
-    icon: /img/icons/keys/great_runes/03078.png
-    map_icon: /map/icons/shadows/keys/great_runes/03078.png
+    icon: img/icons/keys/great_runes/03078.png
+    map_icon: map/icons/shadows/keys/great_runes/03078.png
     data:
     - <b>“接肢”葛瑞克</b>
     - <b>[宁姆格福]</b> - <b>[史东薇尔城]</b>
@@ -24,8 +24,8 @@ sections:
     - 6437
     map_title: 葛瑞克的大卢恩 (未激活的)
   - id: '1_2'
-    icon: /img/icons/keys/great_runes/03202.png
-    map_icon: /map/icons/shadows/keys/great_runes/03202.png
+    icon: img/icons/keys/great_runes/03202.png
+    map_icon: map/icons/shadows/keys/great_runes/03202.png
     map_icon_size: 45
     data:
     - <b>“满月女王”蕾娜菈</b>
@@ -36,8 +36,8 @@ sections:
     - 4810
     map_title: 无缘诞生者的大卢恩
   - id: '1_3'
-    icon: /img/icons/keys/great_runes/03079.png
-    map_icon: /map/icons/shadows/keys/great_runes/03079.png
+    icon: img/icons/keys/great_runes/03079.png
+    map_icon: map/icons/shadows/keys/great_runes/03079.png
     data:
     - <b>“碎星”拉塔恩</b>
     - <b>[盖利德]</b> - <b>[红狮子城]</b>
@@ -47,8 +47,8 @@ sections:
     - 6758
     map_title: 拉塔恩的大卢恩 (未激活的)
   - id: '1_4'
-    icon: /img/icons/keys/great_runes/03080.png
-    map_icon: /map/icons/shadows/keys/great_runes/03080.png
+    icon: img/icons/keys/great_runes/03080.png
+    map_icon: map/icons/shadows/keys/great_runes/03080.png
     data:
     - <b>“恶兆王”蒙葛特</b>
     - <b>[亚坛高原]</b> - <b>[王城罗德尔]</b>
@@ -58,8 +58,8 @@ sections:
     - 3722
     map_title: 蒙葛特的大卢恩 (未激活的)
   - id: '1_5'
-    icon: /img/icons/keys/great_runes/03081.png
-    map_icon: /map/icons/shadows/keys/great_runes/03081.png
+    icon: img/icons/keys/great_runes/03081.png
+    map_icon: map/icons/shadows/keys/great_runes/03081.png
     data:
     - <b>“亵渎君王”拉卡德</b>
     - <b>[格密尔火山]</b> - <b>[火山官邸]</b>
@@ -69,8 +69,8 @@ sections:
     - 2962
     map_title: 拉卡德的大卢恩 (未激活的)
   - id: '1_7'
-    icon: /img/icons/keys/great_runes/03082.png
-    map_icon: /map/icons/shadows/keys/great_runes/03082.png
+    icon: img/icons/keys/great_runes/03082.png
+    map_icon: map/icons/shadows/keys/great_runes/03082.png
     data:
     - <b>“鲜血君王”蒙格</b>
     - <b>[蒙格温王朝]</b> - <b>[蒙格温王朝庙]</b>
@@ -80,8 +80,8 @@ sections:
     - 14390
     map_title: 蒙格的大卢恩 (未激活的)
   - id: '1_6'
-    icon: /img/icons/keys/great_runes/03083.png
-    map_icon: /map/icons/shadows/keys/great_runes/03083.png
+    icon: img/icons/keys/great_runes/03083.png
+    map_icon: map/icons/shadows/keys/great_runes/03083.png
     data:
     - <b>“米凯拉的锋刃”玛莲妮亚</b>
     - <b>[米凯拉的圣树]</b>
@@ -101,8 +101,8 @@ sections:
   - 6
   items:
   - id: 1_1r
-    icon: /img/icons/keys/great_runes/03201.png
-    map_icon: /map/icons/shadows/keys/great_runes/03201.png
+    icon: img/icons/keys/great_runes/03201.png
+    map_icon: map/icons/shadows/keys/great_runes/03201.png
     data:
     - <b>葛瑞克的大卢恩</b>
     - <b>[宁姆格福神授塔]</b>
@@ -112,8 +112,8 @@ sections:
     - 6222
     map_title: 葛瑞克的大卢恩 修复
   - id: 1_3r
-    icon: /img/icons/keys/great_runes/03204.png
-    map_icon: /map/icons/shadows/keys/great_runes/03204.png
+    icon: img/icons/keys/great_runes/03204.png
+    map_icon: map/icons/shadows/keys/great_runes/03204.png
     data:
     - <b>拉塔恩的大卢恩</b>
     - <b>[盖利德神授塔]</b>
@@ -123,8 +123,8 @@ sections:
     - 6056
     map_title: 拉塔恩的大卢恩 修复
   - id: 1_5r
-    icon: /img/icons/keys/great_runes/03203.png
-    map_icon: /map/icons/shadows/keys/great_runes/03203.png
+    icon: img/icons/keys/great_runes/03203.png
+    map_icon: map/icons/shadows/keys/great_runes/03203.png
     data:
     - <b>拉卡德的大卢恩</b>
     - <b>[西亚坛神授塔]</b>
@@ -134,8 +134,8 @@ sections:
     - 4037
     map_title: 拉卡德的大卢恩 修复
   - id: 1_6r
-    icon: /img/icons/keys/great_runes/03206.png
-    map_icon: /map/icons/shadows/keys/great_runes/03206.png
+    icon: img/icons/keys/great_runes/03206.png
+    map_icon: map/icons/shadows/keys/great_runes/03206.png
     data:
     - <b>玛莲妮亚的大卢恩</b>
     - <b>[孤立神授塔]</b>
@@ -145,8 +145,8 @@ sections:
     - 4817
     map_title: 玛莲妮亚的大卢恩 修复
   - id: 1_4r
-    icon: /img/icons/keys/great_runes/03200.png
-    map_icon: /map/icons/shadows/keys/great_runes/03200.png
+    icon: img/icons/keys/great_runes/03200.png
+    map_icon: map/icons/shadows/keys/great_runes/03200.png
     data:
     - <b>蒙葛特的大卢恩</b>
     - <b>[东亚坛神授塔]</b>
@@ -156,8 +156,8 @@ sections:
     - 3872
     map_title: 蒙葛特的大卢恩 修复
   - id: 1_7r
-    icon: /img/icons/keys/great_runes/03205.png
-    map_icon: /map/icons/shadows/keys/great_runes/03205.png
+    icon: img/icons/keys/great_runes/03205.png
+    map_icon: map/icons/shadows/keys/great_runes/03205.png
     data:
     - <b>蒙格的大卢恩</b>
     - <b>[东亚坛神授塔]</b>
@@ -177,14 +177,14 @@ sections:
   - 5
   items:
   - id: '2_1'
-    icon: /img/icons/tools/online/00626.png
+    icon: img/icons/tools/online/00626.png
     data:
     - <b>大卢恩幻影</b>
     - 自动获得和移除
     - 在线游戏内容。在入侵另一个世界并激活<b>[蒙格的大卢恩]</b>时获得，赋予被入侵世界的敌人鲜血赐福。
   - id: '2_2'
-    icon: /img/icons/keys/great_runes/03117.png
-    map_icon: /map/icons/shadows/keys/great_runes/03117.png
+    icon: img/icons/keys/great_runes/03117.png
+    map_icon: map/icons/shadows/keys/great_runes/03117.png
     map_icon_size: 45
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Mending+Rune+of+the+Death-Prince"><b>死王子的修复卢恩</b></a>
@@ -195,8 +195,8 @@ sections:
     - 10698
     map_title: 死王子的修复卢恩
   - id: '2_3'
-    icon: /img/icons/keys/great_runes/edited/03118.png
-    map_icon: /map/icons/shadows/keys/great_runes/03118.png
+    icon: img/icons/keys/great_runes/edited/03118.png
+    map_icon: map/icons/shadows/keys/great_runes/03118.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Mending+Rune+of+the+Fell+Curse"><b>忌讳诅咒的修复卢恩</b></a>
     - 完成<b>[食粪者]</b>任务线后获得
@@ -206,7 +206,7 @@ sections:
     - 3452
     map_title: 忌讳诅咒的修复卢恩
   - id: '2_4'
-    icon: /img/icons/keys/great_runes/edited/03116.png
+    icon: img/icons/keys/great_runes/edited/03116.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Mending+Rune+of+Perfect+Order"><b>完美律法的修复卢恩</b></a>
     - 在完成<b>[金面具]</b>和<b>[圣职人员柯林]</b>的任务线后从<b>[金面具]</b>处获得

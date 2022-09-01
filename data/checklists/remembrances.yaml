@@ -1,12 +1,12 @@
 title: 追忆&灵庙
 id: remembrances_mausoleums
 description: 追忆是<i>艾尔登法环</i>最重要的Boss们掉落的。它们的基本功能是作为可消耗的卢恩物品，但更实用的是可以从“解指”恩雅处兑换奖励，从与Boss相关的两件奖励中选择一件。<br><br>灵庙是巨大的石龟背上的墓穴，它们经常在一些路上漫步。他们身上或脚上都覆盖着许多骨状的黑暗魔法残留物。为了与灵庙互动，你必须攻击清除这些残留物，直到它最终崩溃并变倒下，让你能够爬进去。在这里你可以复制一个追忆，即使你已经使用过它，也就是说你可以同时兑换这两个奖励。每个灵庙只能重复一次。没有大钟的灵庙只能复制非碎片君王的追忆。
-icon: /img/icons/tools/remembrances/00163.png
+icon: img/icons/tools/remembrances/00163.png
 sections:
 - title: 追忆
   items:
   - id: '1_1'
-    icon: /img/icons/tools/remembrances/00163.png
+    icon: img/icons/tools/remembrances/00163.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Grafted"><b>接肢的追忆</b></a>(20000卢恩)
     map_link:
@@ -14,15 +14,15 @@ sections:
     - 6447
     map_title: 接肢的追忆
   - - id: '1_1_1'
-      icon: /img/icons/weapons/greataxes/10564.png
+      icon: img/icons/weapons/greataxes/10564.png
       data:
       - 武器 - <b>葛瑞克的王斧</b>
     - id: '1_1_2'
-      icon: /img/icons/weapons/fists/10806.png
+      icon: img/icons/weapons/fists/10806.png
       data:
       - 武器 - <b>接肢飞龙</b>
   - id: '1_2'
-    icon: /img/icons/tools/remembrances/00172.png
+    icon: img/icons/tools/remembrances/00172.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Full+Moon+Queen"><b>满月女王的追忆</b></a>(20000卢恩)
     map_link:
@@ -30,15 +30,15 @@ sections:
     - 4823
     map_title: 满月女王的追忆
   - - id: '1_2_1'
-      icon: /img/icons/sorceries/06007.png
+      icon: img/icons/sorceries/06007.png
       data:
       - 魔法 - <b>蕾娜菈的满月</b>
     - id: '1_2_2'
-      icon: /img/icons/weapons/glintstonestaffs/11204.png
+      icon: img/icons/weapons/glintstonestaffs/11204.png
       data:
       - 武器 - <b>卡利亚权杖</b>
   - id: '1_3'
-    icon: /img/icons/tools/remembrances/00164.png
+    icon: img/icons/tools/remembrances/00164.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Starscourge"><b>碎星的追忆</b></a>(40000卢恩)
     map_link:
@@ -46,15 +46,15 @@ sections:
     - 6758
     map_title: Remembrance of the Scarscourge
   - - id: '1_3_1'
-      icon: /img/icons/weapons/colossalswords/10125.png
+      icon: img/icons/weapons/colossalswords/10125.png
       data:
       - 武器 - <b>碎星大剑</b>
     - id: '1_3_2'
-      icon: /img/icons/weapons/greatbows/11080.png
+      icon: img/icons/weapons/greatbows/11080.png
       data:
       - 武器 - <b>狮子大弓</b>
   - id: '1_8'
-    icon: /img/icons/tools/remembrances/00166.png
+    icon: img/icons/tools/remembrances/00166.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Blasphemous"><b>亵渎君王的追忆</b></a>(50000卢恩)
     map_link:
@@ -62,15 +62,15 @@ sections:
     - 2960
     map_title: 亵渎君王的追忆
   - - id: '1_8_1'
-      icon: /img/icons/sorceries/06045.png
+      icon: img/icons/sorceries/06045.png
       data:
       - 魔法咒语 - <b>拉卡德的怨魂</b>
     - id: '1_8_2'
-      icon: /img/icons/weapons/greatswords/10094.png
+      icon: img/icons/weapons/greatswords/10094.png
       data:
       - 武器 - <b>亵渎圣剑</b>
   - id: '1_10'
-    icon: /img/icons/tools/remembrances/00165.png
+    icon: img/icons/tools/remembrances/00165.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Omen+King"><b>恶兆王的追忆</b></a>(30000卢恩)
     map_link:
@@ -78,15 +78,15 @@ sections:
     - 3727
     map_title: 恶兆王的追忆
   - - id: '1_10_1'
-      icon: /img/icons/weapons/curvedgreatswords/10288.png
+      icon: img/icons/weapons/curvedgreatswords/10288.png
       data:
       - 武器 - <b>蒙葛特咒剑</b>
     - id: '1_10_2'
-      icon: /img/icons/tools/00677.png
+      icon: img/icons/tools/00677.png
       data:
       - 可重复使用工具 - <b>王室恶兆幼子像</b>
   - id: '1_9'
-    icon: /img/icons/tools/remembrances/00174.png
+    icon: img/icons/tools/remembrances/00174.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Fire+Giant"><b>火焰巨人的追忆</b></a>(30000卢恩)
     map_link:
@@ -94,15 +94,15 @@ sections:
     - 3160
     map_title: 火焰巨人的追忆
   - - id: '1_9_1'
-      icon: /img/icons/weapons/whips/10766.png
+      icon: img/icons/weapons/whips/10766.png
       data:
       - 武器 - <b>巨人红发鞭</b>
     - id: '1_9_2'
-      icon: /img/icons/incantations/06211.png
+      icon: img/icons/incantations/06211.png
       data:
       - 祷告 - <b>火焰啊，吞噬一切！</b>
   - id: '1_14'
-    icon: /img/icons/tools/remembrances/00167.png
+    icon: img/icons/tools/remembrances/00167.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Rot+Goddess"><b>腐败女神的追忆</b></a>(50000卢恩)
     map_link:
@@ -110,67 +110,67 @@ sections:
     - 885
     map_title: 腐败女神的追忆
   - - id: '1_14_1'
-      icon: /img/icons/weapons/katanas/10322.png
+      icon: img/icons/weapons/katanas/10322.png
       data:
       - 武器-手<b>“米凯拉的锋刃”玛莲妮亚</b>
     - id: '1_14_2'
-      icon: /img/icons/incantations/06713.png
+      icon: img/icons/incantations/06713.png
       data:
       - 祷告 - <b>猩红艾奥尼亚</b>
   - id: '1_11'
-    icon: /img/icons/tools/remembrances/00171.png
+    icon: img/icons/tools/remembrances/00171.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Dragonlord"><b>龙王的追忆</b></a>(30000卢恩)
     map_title: 龙王的追忆
   - - id: '1_11_1'
-      icon: /img/icons/weapons/heavythrustingswords/10204.png
+      icon: img/icons/weapons/heavythrustingswords/10204.png
       data:
       - 武器 - <b>龙王岩剑</b>
     - id: '1_11_2'
-      icon: /img/icons/incantations/06089.png
+      icon: img/icons/incantations/06089.png
       data:
       - 祷告 - <b>普拉顿桑克斯的凋亡</b>
   - id: '1_7'
-    icon: /img/icons/tools/remembrances/00169.png
+    icon: img/icons/tools/remembrances/00169.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Black+Blade"><b>黑剑的追忆</b></a>(30000卢恩)
     map_title: 黑剑的追忆
   - - id: '1_7_1'
-      icon: /img/icons/weapons/colossalswords/10122.png
+      icon: img/icons/weapons/colossalswords/10122.png
       data:
       - 武器 - <b>玛利喀斯的黑剑</b>
     - id: '1_7_2'
-      icon: /img/icons/incantations/06712.png
+      icon: img/icons/incantations/06712.png
       data:
       - 祷告 - <b>黑剑</b>
   - id: '1_6'
-    icon: /img/icons/tools/remembrances/00170.png
+    icon: img/icons/tools/remembrances/00170.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+Hoarah+Loux"><b>荷莱·露的追忆</b></a>(30000卢恩)
     map_title: 荷莱·露的追忆
   - - id: '1_6_1'
-      icon: /img/icons/weapons/colossalweapons/10885.png
+      icon: img/icons/weapons/colossalweapons/10885.png
       data:
       - 武器 - <b>“初始之王”葛孚雷</b>
     - id: '1_6_2'
-      icon: /img/icons/ashes_of_war/08408.png
+      icon: img/icons/ashes_of_war/08408.png
       data:
       - 战灰 - <b>荷莱·露的撼地</b>
   - id: '1_13'
-    icon: /img/icons/tools/remembrances/00176.png
+    icon: img/icons/tools/remembrances/00176.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Elden+Remembrance"><b>艾尔登的追忆</b></a>(50000卢恩)
     map_title: 艾尔登的追忆
   - - id: '1_13_1'
-      icon: /img/icons/weapons/hammers/10414.png
+      icon: img/icons/weapons/hammers/10414.png
       data:
       - 武器 - <b>玛莉卡的石槌</b>
     - id: '1_13_2'
-      icon: /img/icons/weapons/greatswords/10090.png
+      icon: img/icons/weapons/greatswords/10090.png
       data:
       - 武器 - <b>神躯化剑</b>
   - id: '1_4'
-    icon: /img/icons/tools/remembrances/00175.png
+    icon: img/icons/tools/remembrances/00175.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Regal+Ancestor"><b>祖灵之王的追忆</b></a>(30000卢恩)
     map_link:
@@ -178,15 +178,15 @@ sections:
     - 14147
     map_title: 祖灵之王的追忆
   - - id: '1_4_1'
-      icon: /img/icons/weapons/greataxes/10571.png
+      icon: img/icons/weapons/greataxes/10571.png
       data:
       - 武器 - <b>展翼大角</b>
     - id: '1_4_2'
-      icon: /img/icons/talismans/18880.png
+      icon: img/icons/talismans/18880.png
       data:
       - 护符 - <b>祖灵角</b>
   - id: '1_15'
-    icon: /img/icons/tools/remembrances/00168.png
+    icon: img/icons/tools/remembrances/00168.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Blood+Lord"><b>鲜血君王的追忆</b></a>(30000卢恩)
     map_link:
@@ -194,15 +194,15 @@ sections:
     - 14396
     map_title: 鲜血君王的追忆
   - - id: '1_15_1'
-      icon: /img/icons/incantations/06254.png
+      icon: img/icons/incantations/06254.png
       data:
       - 祷告 - <b>授血</b>
     - id: '1_15_2'
-      icon: /img/icons/weapons/greatspears/10641.png
+      icon: img/icons/weapons/greatspears/10641.png
       data:
       - 武器 - <b>蒙格温圣矛</b>
   - id: '1_5'
-    icon: /img/icons/tools/remembrances/00177.png
+    icon: img/icons/tools/remembrances/00177.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Naturalborn"><b>黑暗弃子的追忆</b></a>(30000卢恩)
     map_link:
@@ -210,15 +210,15 @@ sections:
     - 13744
     map_title: 黑暗弃子的追忆
   - - id: '1_5_1'
-      icon: /img/icons/weapons/flails/10483.png
+      icon: img/icons/weapons/flails/10483.png
       data:
       - 武器 - <b>弃子的繁星</b>
     - id: '1_5_2'
-      icon: /img/icons/ashes_of_war/08407.png
+      icon: img/icons/ashes_of_war/08407.png
       data:
       - 战灰 - <b>黑暗波动</b>
   - id: '1_12'
-    icon: /img/icons/tools/remembrances/00173.png
+    icon: img/icons/tools/remembrances/00173.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Lichdragon"><b>死龙的追忆</b></a>(30000卢恩)
     map_link:
@@ -226,15 +226,15 @@ sections:
     - 10740
     map_title: 死龙的追忆
   - - id: '1_12_1'
-      icon: /img/icons/incantations/06075.png
+      icon: img/icons/incantations/06075.png
       data:
       - 祷告 - <b>弗尔桑克斯的雷枪</b>
     - id: '1_12_2'
-      icon: /img/icons/incantations/06104.png
+      icon: img/icons/incantations/06104.png
       data:
       - 魔法 - <b>死亡雷击</b>
 - title: 灵庙
-  map_icon: /map/icons/shadows/mausoleum.png
+  map_icon: map/icons/shadows/mausoleum.png
   items:
   - id: '2_1'
     data:

@@ -1,10 +1,10 @@
 title: 铃珠
 id: bell_bearings
-map_icon: /map/icons/MENU_MAP_80.png
+map_icon: map/icons/MENU_MAP_80.png
 description: 铃珠需要交给圆桌厅堂的孪生老妪。每个都会增加新的出售内容，要么添加到基础商店出售列表中，要么在“铃珠商店”中创建一个新的独立选项。有些是在探索中拾取或者敌人掉落。此外，每个商店NPC在死亡时会掉落一个铃珠，借此你仍然可以购买他们所出售的道具。有些铃珠，包括所有无名商人，只能通过谋杀来获取，唯一好处是他们的商品可以在圆桌厅堂中直接购买。商人和NPC的铃珠在新周目会重置，但其他铃珠不会。
 sections:
 - title: 锻造石矿工的铃珠
-  icon: /img/icons/keys/edited/03142.png
+  icon: img/icons/keys/edited/03142.png
   table:
   - ''
   - 解锁
@@ -35,7 +35,7 @@ sections:
     - <b>[锻造石【７】]</b><br><b>[锻造石【８】]</b>
     - <b>[逐渐崩毁的法姆·亚兹拉]</b>的Boss<a href="bosses.html#item_11_2"><b>[神皮双人组]</b></a>掉落。
 - title: 失色石矿工的铃珠
-  icon: /img/icons/keys/edited/03142.png
+  icon: img/icons/keys/edited/03142.png
   table:
   - ''
   - 解锁
@@ -71,7 +71,7 @@ sections:
     - <b>[失色锻造石【９】]</b>
     - <b>[逐渐崩毁的法姆·亚兹拉]</b>。从<b>赐福[龙教堂（屋顶）]</b>，跳到一堆讨厌的鸟那里。往前是一条龙，经过龙的右边是一群亚人，过去是一片废墟，倒塌后变成了一座桥。往前在右边的建筑里有一具带着铃珠的尸体。
 - title: 铃兰摘采工的铃珠
-  icon: /img/icons/keys/edited/03142.png
+  icon: img/icons/keys/edited/03142.png
   table:
   - ''
   - 解锁
@@ -97,7 +97,7 @@ sections:
     - <b>[墓地铃兰【７】]</b><br><b>[墓地铃兰【８】]</b><br><b>[墓地铃兰【９】]</b>
     - 从<b>赐福[渐毁野兽墓（深处）]</b>西北方向的房间乘坐西南方向的电梯下去。沿着小路你会看到一个湖，铃珠就在那里。
 - title: 灵依摘采工的铃珠
-  icon: /img/icons/keys/edited/03142.png
+  icon: img/icons/keys/edited/03142.png
   table:
   - ''
   - 解锁
@@ -123,7 +123,7 @@ sections:
     - <b>[灵依墓地铃兰【７】]</b><br><b>[灵依墓地铃兰【８】]</b><br><b>[灵依墓地铃兰【９】]</b>
     - 需要圣树秘密符节。<b>[米凯拉的圣树]</b>从<b>赐福[圣树底层]</b>出发上电梯，走出教堂。左转走到一堆虾人那里，它就在一个坟墓旁边。
 - title: 贩子的铃珠
-  icon: /img/icons/keys/edited/03142.png
+  icon: img/icons/keys/edited/03142.png
   table:
   - 名称
   - 解锁
@@ -164,93 +164,93 @@ sections:
   - 7
   items:
   - id: '6_1'
-    icon: /img/icons/keys/edited/03145.png
+    icon: img/icons/keys/edited/03145.png
     data:
     - <a href="npc_questlines.html#item_36_5"><b>骑士贝纳尔</b></a>
     - 否
     - 获得<b>[贝纳尔的铃珠]</b>的唯一机会是在<b>[宁姆格福]</b>的<b>[习战者的破屋]</b>的初始位置谋杀他。才外能看到他的另一个地方是禁止战斗区域<b>[火山官邸]</b>;
       当他从那里离开时，他会留下他的剑，这就是他的商店，在任务线的最后，他不会掉落铃珠。当你在<b>[火山官邸]</b>遇到他时，他的商店也会添加新的商品，所以强制得到他的铃珠会失去购买这些独家战灰的机会。
   - id: '6_2'
-    icon: /img/icons/keys/edited/03142.png
+    icon: img/icons/keys/edited/03142.png
     data:
     - <a href="npc_questlines.html#item_11_4"><b>流氓</b></a>
     - 看情况
     - 如果你同时跟随他和<b>[食粪者]</b>的任务线，你可以在<b>[王城外围]</b>中他死后拾取他的铃珠。他的商店(以及他的铃珠商店)会随着任务线增加道具，所以不要过早地杀死他。
   - id: '6_3'
-    icon: /img/icons/keys/edited/03144.png
+    icon: img/icons/keys/edited/03144.png
     data:
     - <a href="npc_questlines.html#item_7_8"><b>圣职人员柯林</b></a>
     - 是
     - 如果你跟随他的任务线，在<b>[“灰烬王城”罗德尔]</b>或<b>[巨人山顶]</b>的结尾，在最后一次找到他后刷新，你会捡到他的铃珠。他的商店(以及他的铃珠商店)会随着任务线增加除了祈祷书外的其他道具，所以不要过早杀死他。
   - id: '6_4'
-    icon: /img/icons/keys/edited/03144.png
+    icon: img/icons/keys/edited/03144.png
     data:
     - <a href="npc_questlines.html#item_23_5"><b>“狩猎死亡”Ｄ</b></a>
     - 是
     - 在<b>[圆桌厅堂]</b>的任务线结束时可以获得
   - id: '6_5'
-    icon: /img/icons/keys/edited/03142.png
+    icon: img/icons/keys/edited/03142.png
     data:
     - <a href="npc_questlines.html#npc_quests_section_15"><b>门卫葛托克</b></a>
     - 否
     - <b>[门卫葛托克]</b>永远不会变成敌对状态。为了得到他的铃珠，你必须在某个时候杀了他。他的商品(以及他的铃珠商店)在任务线的最后会增加一个非常稀有的道具，所以如果你想要的话就不要过早地杀死他。
   - id: '6_6'
-    icon: /img/icons/keys/edited/03143.png
+    icon: img/icons/keys/edited/03143.png
     data:
     - <a href="npc_questlines.html#item_31_20"><b>贤者格威</b></a>
     - 看情况
     - 在<b>[贤者格威]</b>和<b>[米莉森]</b>交错的任务线结束时，如果你站在<b>[米莉森]</b>一边，他会自然死亡。如果你帮助她，就必须亲手杀死他，在这种情况下，他不会像往常一样重生，你将获得他的道具和铃珠。
   - id: '6_7'
-    icon: /img/icons/keys/edited/03145.png
+    icon: img/icons/keys/edited/03145.png
     data:
     - <a href="npc_questlines.html#item_41_5"><b>铁匠伊吉</b></a>
     - 是
     - 在<b>[湖之利耶尼亚]</b>他的任务线最后他尸体上拾取。你无法提前杀死他。跟随<b>[“半狼”布莱泽]</b>的任务会增加一个额外的道具到他的商店和铃珠商店。
   - id: '6_8'
-    icon: /img/icons/keys/edited/03144.png
+    icon: img/icons/keys/edited/03144.png
     data:
     - <a href="npc_questlines.html#npc_quests_section_28"><b>“结缘牧师”米利耶</b></a>
     - 否
     - <b>[“结缘牧师”米利耶]</b>永远不会变成敌对状态。如果你杀了他，你就会得到他的铃珠。你这个禽兽。
   - id: '6_9'
-    icon: /img/icons/keys/edited/03142.png
+    icon: img/icons/keys/edited/03142.png
     data:
     - <a href="npc_questlines.html#npc_quests_section_30"><b>帕奇</b></a>
     - 否
     - <b>[帕奇]</b>永远不会变成敌对状态。为了得到他的铃珠，你必须在某个时候杀了他。
   - id: '6_10'
-    icon: /img/icons/keys/edited/03142.png
+    icon: img/icons/keys/edited/03142.png
     data:
     - <a href="npc_questlines.html#item_18_2"><b>仆人毕迪</b></a>
     - 是
     - 在<b>[卡利亚城寨]</b>他的任务线结束时从他的尸体拾取。
   - id: '6_11'
-    icon: /img/icons/keys/edited/03145.png
+    icon: img/icons/keys/edited/03145.png
     data:
     - <a href="npc_questlines.html#item_21_7"><b>魔法师罗杰尔</b></a>
     - 是
     - 在<b>[圆桌厅堂]</b>他的任务线结束时从他的尸体拾取。
   - id: '6_12'
-    icon: /img/icons/keys/edited/03143.png
+    icon: img/icons/keys/edited/03143.png
     data:
     - <a href="npc_questlines.html#item_10_8"><b>魔法师瑟濂</b></a>
     - 看情况
     - 在她的任务线的最后，你可以选择是否在她与<b>[城主杰廉]</b>的决斗中站在她一边。杀死她可以获得她的铃铛，而帮助她则不能，并且你将无法获得它，因为她在<b>[“满月女王”蕾娜菈]</b>的禁止战斗区域中。
   - id: '6_13'
-    icon: /img/icons/keys/edited/03146.png
+    icon: img/icons/keys/edited/03146.png
     data:
     - <a href="npc_questlines.html#item_19_7"><b>魔法教授赛尔维斯</b></a>
     - 是
     - 在他的任务线结束时从他在<b>[赛尔维斯魔法师塔]</b>的尸体拾取。他的商店(以及他的铃珠商店)会随着任务线增加道具，所以不要过早地杀死他。
   - id: '6_14'
-    icon: /img/icons/keys/edited/03143.png
+    icon: img/icons/keys/edited/03143.png
     data:
     - <a href="npc_questlines.html#item_4_3"><b>魔法师托普斯</b></a>
     - 是
     - 在他的任务线结束时，在<b>[魔法学院雷亚卢卡利亚]</b>从他的尸体拾取。
 - title: Merchants' Bell Bearings
-  icon: /img/icons/keys/edited/03142.png
-  map_icon: /map/icons/MENU_MAP_80.png
+  icon: img/icons/keys/edited/03142.png
+  map_icon: map/icons/MENU_MAP_80.png
   table:
   - 商人
   - 位置

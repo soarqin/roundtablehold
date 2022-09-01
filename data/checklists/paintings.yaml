@@ -1,6 +1,6 @@
 title: 绘画
 id: paintings
-icon: /img/icons/info/paintings/edited/03066.png
+icon: img/icons/info/paintings/edited/03066.png
 table_widths:
 - 3
 - 2
@@ -13,8 +13,8 @@ sections:
   - 位置
   items:
   - id: '1_1'
-    icon: /img/icons/info/paintings/edited/03210.png
-    map_icon: /map/icons/shadows/info/paintings/03210.png
+    icon: img/icons/info/paintings/edited/03210.png
+    map_icon: map/icons/shadows/info/paintings/03210.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Prophecy+Painting"><b>绘画《预言》</b></a>
     - <b>[宁姆格福]</b>
@@ -23,8 +23,8 @@ sections:
     - 3060
     - 6606
   - id: '1_2'
-    icon: /img/icons/info/paintings/edited/03066.png
-    map_icon: /map/icons/shadows/info/paintings/03066.png
+    icon: img/icons/info/paintings/edited/03066.png
+    map_icon: map/icons/shadows/info/paintings/03066.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Homing+Instinct+Painting"><b>绘画《归巢》</b></a>
     - <b>[宁姆格福]</b>
@@ -33,8 +33,8 @@ sections:
     - 4226
     - 6800
   - id: '2_1'
-    icon: /img/icons/info/paintings/edited/03207.png
-    map_icon: /map/icons/shadows/info/paintings/03207.png
+    icon: img/icons/info/paintings/edited/03207.png
+    map_icon: map/icons/shadows/info/paintings/03207.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Resurrection+Painting"><b>绘画《再世》</b></a>
     - <b>[湖之利耶尼亚]</b>
@@ -43,8 +43,8 @@ sections:
     - 2782
     - 5092
   - id: '3_1'
-    icon: /img/icons/info/paintings/edited/03212.png
-    map_icon: /map/icons/shadows/info/paintings/03212.png
+    icon: img/icons/info/paintings/edited/03212.png
+    map_icon: map/icons/shadows/info/paintings/03212.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Redmane+Painting"><b>绘画《红狮子》</b></a>
     - <b>[盖利德]</b>
@@ -53,8 +53,8 @@ sections:
     - 5642
     - 6603
   - id: '4_1'
-    icon: /img/icons/info/paintings/edited/03208.png
-    map_icon: /map/icons/shadows/info/paintings/03208.png
+    icon: img/icons/info/paintings/edited/03208.png
+    map_icon: map/icons/shadows/info/paintings/03208.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Champion's+Song+Painting"><b>绘画《英雄之歌》</b></a>
     - <b>[亚坛高原]</b>
@@ -63,8 +63,8 @@ sections:
     - 2980
     - 2668
   - id: '5_1'
-    icon: /img/icons/info/paintings/edited/03211.png
-    map_icon: /map/icons/shadows/info/paintings/03211.png
+    icon: img/icons/info/paintings/edited/03211.png
+    map_icon: map/icons/shadows/info/paintings/03211.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Flightless+Bird+Painting"><b>绘画《不飞之鸟》</b></a>
     - <b>[王城罗德尔]</b>
@@ -73,8 +73,8 @@ sections:
     - 4188
     - 3582
   - id: '6_1'
-    icon: /img/icons/info/paintings/edited/03209.png
-    map_icon: /map/icons/shadows/info/paintings/03209.png
+    icon: img/icons/info/paintings/edited/03209.png
+    map_icon: map/icons/shadows/info/paintings/03209.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Sorcerer+Painting"><b>绘画《魔法师》</b></a>
     - Mountaintop of the Giants
@@ -89,8 +89,8 @@ sections:
   - 位置
   items:
   - id: '1'
-    icon: /img/icons/spirit_ashes/00456.png
-    map_icon: /map/icons/shadows/spirit_ashes/00456.png
+    icon: img/icons/spirit_ashes/00456.png
+    map_icon: map/icons/shadows/spirit_ashes/00456.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Prophecy+Painting"><b>绘画《预言》</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Warhawk+Ashes"><b>[战鹰的骨灰]</b></a>
@@ -100,8 +100,8 @@ sections:
     - 7638
     map_title: 绘画《预言》 解答
   - id: '2'
-    icon: /img/icons/armor/15290.png
-    map_icon: /map/icons/shadows/armor/15290.png
+    icon: img/icons/armor/15290.png
+    map_icon: map/icons/shadows/armor/15290.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Homing+Instinct+Painting"><b>绘画《归巢》</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Incantation+Scarab"><b>[祷告粪金龟]</b></a>
@@ -111,8 +111,8 @@ sections:
     - 7397
     map_title: 绘画《归巢》 解答
   - id: '3'
-    icon: /img/icons/armor/14770.png
-    map_icon: /map/icons/shadows/armor/14770.png
+    icon: img/icons/armor/14770.png
+    map_icon: map/icons/shadows/armor/14770.png
     map_icon_size: 20
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Resurrection+Painting"><b>绘画《再世》</b></a>
@@ -125,8 +125,8 @@ sections:
     - 3783
     map_title: 绘画《再世》 解答
   - id: '4'
-    icon: /img/icons/ashes_of_war/08385.png
-    map_icon: /map/icons/shadows/ashes_of_war/08385.png
+    icon: img/icons/ashes_of_war/08385.png
+    map_icon: map/icons/shadows/ashes_of_war/08385.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Redmane+Painting"><b>绘画《红狮子》</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Rain+of+Arrows"><b>[战灰：箭雨]</b></a>
@@ -136,8 +136,8 @@ sections:
     - 6323
     map_title: 绘画《红狮子》 解答
   - id: '5'
-    icon: /img/icons/weapons/lightbows/11003.png
-    map_icon: /map/icons/shadows/weapons/lightbows/11003.png
+    icon: img/icons/weapons/lightbows/11003.png
+    map_icon: map/icons/shadows/weapons/lightbows/11003.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Champion's+Song+Painting"><b>绘画《英雄之歌》</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Harp+Bow"><b>[竖琴弓]</b></a>
@@ -147,8 +147,8 @@ sections:
     - 3203
     map_title: 绘画《英雄之歌》 解答
   - id: '6'
-    icon: /img/icons/incantations/06060.png
-    map_icon: /map/icons/shadows/incantations/06060.png
+    icon: img/icons/incantations/06060.png
+    map_icon: map/icons/shadows/incantations/06060.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Flightless+Bird+Painting"><b>绘画《不飞之鸟》</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Fire's+Deadly+Sin"><b>[火焰重罪]</b></a>
@@ -158,8 +158,8 @@ sections:
     - 2615
     map_title: 绘画《不飞之鸟》 解答
   - id: '7'
-    icon: /img/icons/armor/15000.png
-    map_icon: /map/icons/shadows/armor/15000.png
+    icon: img/icons/armor/15000.png
+    map_icon: map/icons/shadows/armor/15000.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Sorcerer+Painting"><b>绘画《魔法师》</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Greathood"><b>[大风帽]</b></a>

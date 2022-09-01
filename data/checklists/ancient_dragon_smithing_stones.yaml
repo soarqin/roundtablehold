@@ -3,7 +3,7 @@ id: ancient_dragon_smithing_stones
 sections:
 - title: 古龙岩锻造石
   link: https://eldenring.wiki.fextralife.com/Ancient+Dragon+Smithing+Stone
-  icon: /img/icons/bolstering/edited/02008.png
+  icon: img/icons/bolstering/edited/02008.png
   items:
   - <a href="https://eldenring.wiki.fextralife.com/Caelid">盖利德</a>
   - id: '1'
@@ -74,7 +74,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Seluvis's+Potion"><b>[赛尔维斯的药水]</b></a>给了<b>[战士涅斐丽·露]</b>则无法获得。
 - title: 古龙岩失色锻造石
   link: https://eldenring.wiki.fextralife.com/Somber+Ancient+Dragon+Smithing+Stone
-  icon: /img/icons/bolstering/edited/02018.png
+  icon: img/icons/bolstering/edited/02018.png
   items:
   - <a href="https://eldenring.wiki.fextralife.com/Mohgwyn+Palace">蒙格温王朝</a>
   - id: '14'

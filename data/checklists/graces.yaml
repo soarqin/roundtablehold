@@ -1,6 +1,6 @@
 title: 赐福点
 id: graces
-map_icon: /map/icons/MENU_MAP_01_Bonfire.png
+map_icon: map/icons/MENU_MAP_01_Bonfire.png
 map_icon_size: 45
 sections:
 - title: 圆桌厅堂
@@ -11,7 +11,7 @@ sections:
     cords:
     - 584
     - 8454
-    map_icon: /map/icons/MENU_MAP_48.png
+    map_icon: map/icons/MENU_MAP_48.png
     map_icon_size: 60
 - title: 宁姆格福
   items:

@@ -14,7 +14,7 @@
 
     function do_search(query) {
         spinner.removeClass('d-none');
-        $.getJSON('/search_index.json', function(json_index) {
+        $.getJSON('search_index.json', function(json_index) {
             var idx = lunr(function () {
                 this.b(1);
                 this.ref('id');

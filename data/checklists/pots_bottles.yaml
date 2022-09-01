@@ -1,10 +1,10 @@
 title: 壶&调香瓶
 id: pots_bottles
-icon: /img/icons/keys/edited/00504.png
+icon: img/icons/keys/edited/00504.png
 sections:
 - title: 龟裂壶
-  icon: /img/icons/keys/edited/00504.png
-  map_icon: /map/icons/shadows/keys/00504.png
+  icon: img/icons/keys/edited/00504.png
+  map_icon: map/icons/shadows/keys/00504.png
   items:
   - 宁姆格福
   - id: '1_1'
@@ -155,8 +155,8 @@ sections:
     - 3480
     map_title: 龟裂壶
 - title: 仪式壶
-  icon: /img/icons/keys/edited/03010.png
-  map_icon: /map/icons/shadows/keys/03010.png
+  icon: img/icons/keys/edited/03010.png
+  map_icon: map/icons/shadows/keys/03010.png
   items:
   - 湖之利耶尼亚
   - id: '2_1'
@@ -235,8 +235,8 @@ sections:
     - 2822
     map_title: 仪式壶
 - title: 调香瓶
-  icon: /img/icons/keys/edited/00443.png
-  map_icon: /map/icons/shadows/keys/00443.png
+  icon: img/icons/keys/edited/00443.png
+  map_icon: map/icons/shadows/keys/00443.png
   items:
   - 盖利德
   - id: '3_1'

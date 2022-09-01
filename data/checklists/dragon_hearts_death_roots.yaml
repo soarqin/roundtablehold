@@ -1,10 +1,10 @@
 title: 龙心脏&死根
 id: dragon_hearts_death_roots
-map_icon: /img/icons/keys/edited/03230.png
+map_icon: img/icons/keys/edited/03230.png
 sections:
 - title: 龙心脏
-  icon: /img/icons/keys/edited/03230.png
-  map_icon: /map/icons/shadows/keys/03230.png
+  icon: img/icons/keys/edited/03230.png
+  map_icon: map/icons/shadows/keys/03230.png
   items:
   - 宁姆格福
   - id: '0_1'
@@ -104,8 +104,8 @@ sections:
     - 2171
     map_title: 龙心脏 x3
 - title: 死根
-  icon: /img/icons/keys/edited/00557.png
-  map_icon: /map/icons/shadows/keys/00557.png
+  icon: img/icons/keys/edited/00557.png
+  map_icon: map/icons/shadows/keys/00557.png
   map_icon_size: 45
   items:
   - 宁姆格福

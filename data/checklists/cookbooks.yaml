@@ -1,10 +1,10 @@
 title: 制作笔记
 id: cookbooks
-icon: /img/icons/keys/cookbooks/edited/03119.png
+icon: img/icons/keys/cookbooks/edited/03119.png
 sections:
 - title: 流浪战士的制作笔记
-  icon: /img/icons/keys/cookbooks/edited/03119.png
-  map_icon: /map/icons/shadows/keys/cookbooks/03119.png
+  icon: img/icons/keys/cookbooks/edited/03119.png
+  map_icon: map/icons/shadows/keys/cookbooks/03119.png
   items:
   - id: '1_1'
     data:
@@ -175,8 +175,8 @@ sections:
     - 14470
     map_title: 流浪战士的制作笔记【２４】
 - title: 武器工匠的制作笔记
-  icon: /img/icons/keys/cookbooks/edited/03120.png
-  map_icon: /map/icons/shadows/keys/cookbooks/03120.png
+  icon: img/icons/keys/cookbooks/edited/03120.png
+  map_icon: map/icons/shadows/keys/cookbooks/03120.png
   items:
   - id: '3_1'
     data:
@@ -228,8 +228,8 @@ sections:
     - 2872
     map_title: 武器工匠的制作笔记【７】
 - title: 辉石工匠的制作笔记
-  icon: /img/icons/keys/cookbooks/edited/03121.png
-  map_icon: /map/icons/shadows/keys/cookbooks/03121.png
+  icon: img/icons/keys/cookbooks/edited/03121.png
+  map_icon: map/icons/shadows/keys/cookbooks/03121.png
   items:
   - id: '5_1'
     data:
@@ -288,8 +288,8 @@ sections:
     - 2293
     map_title: 辉石工匠的制作笔记【８】
 - title: 传道士的制作笔记
-  icon: /img/icons/keys/cookbooks/edited/03122.png
-  map_icon: /map/icons/shadows/keys/cookbooks/03122.png
+  icon: img/icons/keys/cookbooks/edited/03122.png
+  map_icon: map/icons/shadows/keys/cookbooks/03122.png
   items:
   - id: '2_1'
     data:
@@ -341,8 +341,8 @@ sections:
     - 2239
     map_title: 传道士的制作笔记【７】
 - title: 古龙信徒的制作笔记
-  icon: /img/icons/keys/cookbooks/edited/03124.png
-  map_icon: /map/icons/shadows/keys/cookbooks/03124.png
+  icon: img/icons/keys/cookbooks/edited/03124.png
+  map_icon: map/icons/shadows/keys/cookbooks/03124.png
   items:
   - id: '8_1'
     data:
@@ -373,8 +373,8 @@ sections:
     - 4527
     map_title: 古龙信徒的制作笔记【４】
 - title: 调香师的制作笔记
-  icon: /img/icons/keys/cookbooks/edited/03123.png
-  map_icon: /map/icons/shadows/keys/cookbooks/03123.png
+  icon: img/icons/keys/cookbooks/edited/03123.png
+  map_icon: map/icons/shadows/keys/cookbooks/03123.png
   items:
   - id: '7_1'
     data:
@@ -405,8 +405,8 @@ sections:
     - 12157
     map_title: 调香师的制作笔记【４】
 - title: 法力斯的制作笔记
-  icon: /img/icons/keys/cookbooks/edited/03125.png
-  map_icon: /map/icons/shadows/keys/cookbooks/03125.png
+  icon: img/icons/keys/cookbooks/edited/03125.png
+  map_icon: map/icons/shadows/keys/cookbooks/03125.png
   items:
   - id: '4_1'
     data:
@@ -430,8 +430,8 @@ sections:
     - 8340
     map_title: 法力斯的制作笔记【３】
 - title: 罹病者的制作笔记
-  icon: /img/icons/keys/cookbooks/edited/03126.png
-  map_icon: /map/icons/shadows/keys/cookbooks/03126.png
+  icon: img/icons/keys/cookbooks/edited/03126.png
+  map_icon: map/icons/shadows/keys/cookbooks/03126.png
   items:
   - id: '6_1'
     data:

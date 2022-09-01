@@ -2,7 +2,7 @@ title: 泪滴幼体&星星泪滴
 id: tears_dews
 sections:
 - title: 泪滴幼体
-  icon: /img/icons/keys/edited/03075.png
+  icon: img/icons/keys/edited/03075.png
   items:
   - 宁姆格福
   - id: '1_1'
@@ -68,7 +68,7 @@ sections:
     data:
     - 从<b>赐福[化圣雪原（深处）]</b>往东南方向走，很快就会发现三名流浪的朝圣者被困在雪地。其中一只被卡住了，几乎埋在腋下，傻乎乎地摇摇摆摆地走着。击杀他。
 - title: 星星泪滴
-  icon: /img/icons/keys/edited/00624.png
+  icon: img/icons/keys/edited/00624.png
   items:
   - 湖之利耶尼亚
   - id: '2_1'

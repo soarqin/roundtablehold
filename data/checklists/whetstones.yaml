@@ -1,6 +1,6 @@
 title: 砥石刀
 id: whetstones
-icon: /img/icons/keys/edited/03090.png
+icon: img/icons/keys/edited/03090.png
 table_widths:
 - 3
 - 2
@@ -15,8 +15,8 @@ sections:
   - 效果
   items:
   - id: '0_1'
-    icon: /img/icons/keys/edited/03090.png
-    map_icon: /map/icons/shadows/keys/03090.png
+    icon: img/icons/keys/edited/03090.png
+    map_icon: map/icons/shadows/keys/03090.png
     data:
     - <b>砥石小刀</b>
     - <b>宁姆格福</b>
@@ -26,8 +26,8 @@ sections:
     - 3786
     - 6989
   - id: '0_2'
-    icon: /img/icons/keys/edited/03020.png
-    map_icon: /map/icons/shadows/keys/03020.png
+    icon: img/icons/keys/edited/03020.png
+    map_icon: map/icons/shadows/keys/03020.png
     data:
     - <b>铁制砥石刀</b>
     - <b>宁姆格福</b>
@@ -37,8 +37,8 @@ sections:
     - 3084
     - 6689
   - id: '0_3'
-    icon: /img/icons/keys/edited/03023.png
-    map_icon: /map/icons/shadows/keys/03023.png
+    icon: img/icons/keys/edited/03023.png
+    map_icon: map/icons/shadows/keys/03023.png
     data:
     - <b>辉石砥石刀</b>
     - <b>湖之利耶尼亚</b>
@@ -48,8 +48,8 @@ sections:
     - 1928
     - 4942
   - id: '0_4'
-    icon: /img/icons/keys/edited/03021.png
-    map_icon: /map/icons/shadows/keys/03021.png
+    icon: img/icons/keys/edited/03021.png
+    map_icon: map/icons/shadows/keys/03021.png
     data:
     - <b>灼热砥石刀</b>
     - <b>盖利德</b>
@@ -59,8 +59,8 @@ sections:
     - 6024
     - 7307
   - id: '0_5'
-    icon: /img/icons/keys/edited/03024.png
-    map_icon: /map/icons/shadows/keys/03024.png
+    icon: img/icons/keys/edited/03024.png
+    map_icon: map/icons/shadows/keys/03024.png
     data:
     - <b>漆黑砥石刀</b>
     - <b>“永恒之城”诺克隆恩</b>
@@ -70,8 +70,8 @@ sections:
     - 6068
     - 14426
   - id: '0_6'
-    icon: /img/icons/keys/edited/03022.png
-    map_icon: /map/icons/shadows/keys/03022.png
+    icon: img/icons/keys/edited/03022.png
+    map_icon: map/icons/shadows/keys/03022.png
     data:
     - <b>神圣砥石刀</b>
     - <b>王城罗德尔</b>

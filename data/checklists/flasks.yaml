@@ -1,10 +1,10 @@
 title: 黄金种子&圣杯滴露
-icon: /img/icons/bolstering/edited/00383.png
+icon: img/icons/bolstering/edited/00383.png
 id: flasks
 sections:
 - title: 黄金种子
-  icon: /img/icons/bolstering/edited/00383.png
-  map_icon: /map/icons/shadows/bolstering/00383.png
+  icon: img/icons/bolstering/edited/00383.png
+  map_icon: map/icons/shadows/bolstering/00383.png
   items:
   - 宁姆格福
   - id: '1_2'
@@ -318,8 +318,8 @@ sections:
     - 12592
     map_title: 黄金种子
 - title: 圣杯滴露
-  icon: /img/icons/bolstering/edited/00384.png
-  map_icon: /map/icons/shadows/bolstering/00384.png
+  icon: img/icons/bolstering/edited/00384.png
+  map_icon: map/icons/shadows/bolstering/00384.png
   items:
   - 宁姆格福
   - id: '2_4'

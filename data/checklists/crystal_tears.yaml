@@ -1,6 +1,6 @@
 title: 灵药圣杯瓶
 id: crystal_tears
-icon: /img/icons/keys/crystal_tears/00416.png
+icon: img/icons/keys/crystal_tears/00416.png
 table_widths:
 - 3
 - 5
@@ -13,8 +13,8 @@ sections:
   - 效果
   items:
   - id: '1_1'
-    icon: /img/icons/keys/crystal_tears/00421.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00421.png
+    icon: img/icons/keys/crystal_tears/00421.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00421.png
     data:
     - <b>力气瘤结晶露滴</b>
     - 在西北方向的一个石盆里，由山妖守卫着
@@ -23,8 +23,8 @@ sections:
     - 3628
     - 6618
   - id: '1_2'
-    icon: /img/icons/keys/crystal_tears/00414.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00414.png
+    icon: img/icons/keys/crystal_tears/00414.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00414.png
     data:
     - <b>大刺破露滴</b>
     - 在<b>[雾林]</b>中的<b>[小黄金树]</b>下
@@ -33,8 +33,8 @@ sections:
     - 4529
     - 7097
   - id: '1_3'
-    icon: /img/icons/keys/crystal_tears/00401.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00401.png
+    icon: img/icons/keys/crystal_tears/00401.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00401.png
     data:
     - <b>漫绿结晶露滴</b>
     - 在<b>[雾林]</b>中的<b>[小黄金树]</b>下
@@ -43,8 +43,8 @@ sections:
     - 4546
     - 7095
   - id: '1_4'
-    icon: /img/icons/keys/crystal_tears/00402.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00402.png
+    icon: img/icons/keys/crystal_tears/00402.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00402.png
     data:
     - <b>红结晶露滴</b> [1]
     - 在<b>[玛莉卡第三教堂]</b>
@@ -59,8 +59,8 @@ sections:
   - 效果
   items:
   - id: '0_1'
-    icon: /img/icons/keys/crystal_tears/00424.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00424.png
+    icon: img/icons/keys/crystal_tears/00424.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00424.png
     data:
     - <b>信仰瘤结晶露滴</b>
     - 在<b>[亚人森林的废墟]</b>的北部，在一棵被毒花包围的树下石盆里
@@ -69,8 +69,8 @@ sections:
     - 3976
     - 7730
   - id: '0_2'
-    icon: /img/icons/keys/crystal_tears/00409.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00409.png
+    icon: img/icons/keys/crystal_tears/00409.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00409.png
     data:
     - <b>涌红结晶露滴</b>
     - 在<b>[啜泣半岛]</b>击败<b>[黄金树的化身]</b>的奖励
@@ -79,8 +79,8 @@ sections:
     - 3900
     - 8095
   - id: '0_3'
-    icon: /img/icons/keys/crystal_tears/00408.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00408.png
+    icon: img/icons/keys/crystal_tears/00408.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00408.png
     data:
     - <b>珍珠泡状露滴</b>
     - 在<b>[啜泣半岛]</b>击败<b>[黄金树的化身]</b>的奖励
@@ -95,8 +95,8 @@ sections:
   - 效果
   items:
   - id: '2_1'
-    icon: /img/icons/keys/crystal_tears/00422.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00422.png
+    icon: img/icons/keys/crystal_tears/00422.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00422.png
     data:
     - <b>灵巧瘤结晶露滴</b>
     - 在西南方的一个小岛顶部的石盆里
@@ -105,8 +105,8 @@ sections:
     - 2171
     - 5659
   - id: '2_2'
-    icon: /img/icons/keys/crystal_tears/00416.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00416.png
+    icon: img/icons/keys/crystal_tears/00416.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00416.png
     data:
     - <b>爆裂结晶露滴</b> [1]
     - 击败<b>赐福[改宗塔]</b>西北方向<b>[黄金树的化身]</b>的奖励
@@ -115,8 +115,8 @@ sections:
     - 1432
     - 5469
   - id: '2_3'
-    icon: /img/icons/keys/crystal_tears/00404.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00404.png
+    icon: img/icons/keys/crystal_tears/00404.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00404.png
     data:
     - <b>蓝结晶露滴</b> [1]
     - 击败<b>赐福[改宗塔]</b>西北方向<b>[黄金树的化身]</b>的奖励
@@ -125,8 +125,8 @@ sections:
     - 1451
     - 5466
   - id: '2_4'
-    icon: /img/icons/keys/crystal_tears/00430.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00430.png
+    icon: img/icons/keys/crystal_tears/00430.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00430.png
     data:
     - <b>带雷破露滴</b>
     - 击败<b>赐福[癫火村外]</b>南边的<b>[黄金树的化身]</b>的奖励
@@ -135,8 +135,8 @@ sections:
     - 2683
     - 4328
   - id: '2_5'
-    icon: /img/icons/keys/crystal_tears/00431.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00431.png
+    icon: img/icons/keys/crystal_tears/00431.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00431.png
     data:
     - <b>带圣破露滴</b>
     - 击败<b>赐福[癫火村外]</b>南边的<b>[黄金树的化身]</b>的奖励
@@ -145,8 +145,8 @@ sections:
     - 2699
     - 4335
   - id: '2_6'
-    icon: /img/icons/keys/crystal_tears/00429.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00429.png
+    icon: img/icons/keys/crystal_tears/00429.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00429.png
     data:
     - <b>带魔力破露滴</b>
     - 击败<b>赐福[癫火村外]</b>南边的<b>[黄金树的化身]</b>的奖励
@@ -155,8 +155,8 @@ sections:
     - 2717
     - 4328
   - id: '2_7'
-    icon: /img/icons/keys/crystal_tears/00423.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00423.png
+    icon: img/icons/keys/crystal_tears/00423.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00423.png
     data:
     - <b>智力瘤结晶露滴</b>
     - 在<b>赐福[卡利亚城寨（正门）]</b>西南方向被爬行手指包围的石盆里，在陡峭的悬崖底部(要到达那里，从<b>[王室领地废墟]</b>的东边下来，然后向北走，或者从<b>[谷底]</b>向西走)
@@ -171,8 +171,8 @@ sections:
   - 效果
   items:
   - id: '3_1'
-    icon: /img/icons/keys/crystal_tears/00428.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00428.png
+    icon: img/icons/keys/crystal_tears/00428.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00428.png
     data:
     - <b>带火破露滴</b>
     - 击败<b>赐福[熏火教堂]</b>东北方向<b>[黄金树的化身]</b>的奖励
@@ -181,8 +181,8 @@ sections:
     - 6031
     - 6200
   - id: '3_2'
-    icon: /img/icons/keys/crystal_tears/00410.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00410.png
+    icon: img/icons/keys/crystal_tears/00410.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00410.png
     data:
     - <b>涌绿结晶露滴</b>
     - 击败<b>赐福[熏火教堂]</b>东北方向<b>[黄金树的化身]</b>的奖励
@@ -191,8 +191,8 @@ sections:
     - 6050
     - 6199
   - id: '3_3'
-    icon: /img/icons/keys/crystal_tears/00411.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00411.png
+    icon: img/icons/keys/crystal_tears/00411.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00411.png
     data:
     - <b>珍珠硬露滴</b>
     - 击败<b>赐福[龙墓的岔路]</b>以东的<b>[腐败化身]</b>奖励
@@ -201,8 +201,8 @@ sections:
     - 4893
     - 6141
   - id: '3_4'
-    icon: /img/icons/keys/crystal_tears/00426.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00426.png
+    icon: img/icons/keys/crystal_tears/00426.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00426.png
     data:
     - <b>岩刺破露滴</b>
     - 击败<b>赐福[龙墓的岔路]</b>以东的<b>[腐败化身]</b>奖励
@@ -211,8 +211,8 @@ sections:
     - 4912
     - 6141
   - id: '3_5'
-    icon: /img/icons/keys/crystal_tears/00415.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00415.png
+    icon: img/icons/keys/crystal_tears/00415.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00415.png
     data:
     - <b>风结晶露滴</b>
     - 在南边的一个石盆里，由巨鸦在悬崖上守卫
@@ -227,8 +227,8 @@ sections:
   - 效果
   items:
   - id: '4_1'
-    icon: /img/icons/keys/crystal_tears/00427.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00427.png
+    icon: img/icons/keys/crystal_tears/00427.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00427.png
     data:
     - <b>净血结晶露滴</b>
     - 在<b>[玛莉卡第二教堂]</b>击败<b>[“纯紫血指”艾琉诺拉]</b>的奖励，开新周目时移除
@@ -237,8 +237,8 @@ sections:
     - 2978
     - 3135
   - id: '4_2'
-    icon: /img/icons/keys/crystal_tears/00406.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00406.png
+    icon: img/icons/keys/crystal_tears/00406.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00406.png
     data:
     - <b>斑斓硬露滴</b>
     - 击败<b>赐福[丰饶森林]</b>东北方向<b>[蚯蚓脸]</b>的奖励
@@ -247,8 +247,8 @@ sections:
     - 3373
     - 2886
   - id: '4_3'
-    icon: /img/icons/keys/crystal_tears/00400.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00400.png
+    icon: img/icons/keys/crystal_tears/00400.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00400.png
     data:
     - <b>漫红结晶露滴</b>
     - 击败<b>赐福[丰饶森林]</b>东北方向<b>[蚯蚓脸]</b>的奖励
@@ -263,8 +263,8 @@ sections:
   - 效果
   items:
   - id: '5_1'
-    icon: /img/icons/keys/crystal_tears/00418.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00418.png
+    icon: img/icons/keys/crystal_tears/00418.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00418.png
     data:
     - <b>铅化硬露滴</b>
     - 击败<b>[腐烂树灵]</b>的奖励，掉落在烧毁的黄金树周围
@@ -273,8 +273,8 @@ sections:
     - 2390
     - 2720
   - id: '5_2'
-    icon: /img/icons/keys/crystal_tears/00425.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00425.png
+    icon: img/icons/keys/crystal_tears/00425.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00425.png
     data:
     - <b>蓝秘密露滴</b>
     - 击败<b>[腐烂树灵]</b>的奖励，掉落在烧毁的黄金树周围
@@ -289,8 +289,8 @@ sections:
   - 效果
   items:
   - id: '6_1'
-    icon: /img/icons/keys/crystal_tears/00412.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00412.png
+    icon: img/icons/keys/crystal_tears/00412.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00412.png
     data:
     - <b>羽毛结晶露滴</b>
     - 在<b>[遁世商人的破屋]</b>东北的一个石盆里，靠近俯瞰<b>[小黄金树]</b>的悬崖边，周围环绕着骷髅蜗牛
@@ -299,8 +299,8 @@ sections:
     - 4211
     - 2851
   - id: '6_2'
-    icon: /img/icons/keys/crystal_tears/00419.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00419.png
+    icon: img/icons/keys/crystal_tears/00419.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00419.png
     data:
     - <b>细枝破露滴</b>
     - 发现于<b>[王城外围]</b>中<b>[小黄金树]</b>底部的一个石盆，由一个死兆兵守卫
@@ -309,8 +309,8 @@ sections:
     - 4283
     - 2895
   - id: '6_3'
-    icon: /img/icons/keys/crystal_tears/00403.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00403.png
+    icon: img/icons/keys/crystal_tears/00403.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00403.png
     data:
     - <b>红结晶露滴</b> [2]
     - 发现于<b>[王城外围]</b>中<b>[小黄金树]</b>底部的一个石盆，由一个死兆兵守卫
@@ -325,8 +325,8 @@ sections:
   - 效果
   items:
   - id: '7_1'
-    icon: /img/icons/keys/crystal_tears/00420.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00420.png
+    icon: img/icons/keys/crystal_tears/00420.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00420.png
     data:
     - <b>红漩泡状露滴</b>
     - 在悬崖峭壁上的石盆里，可以俯瞰<b>赐福[巨人墓碑]</b>(必须向南绕才能到达那里)
@@ -335,8 +335,8 @@ sections:
     - 6263
     - 2646
   - id: '8_1'
-    icon: /img/icons/keys/crystal_tears/00405.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00405.png
+    icon: img/icons/keys/crystal_tears/00405.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00405.png
     data:
     - <b>蓝结晶露滴</b> [2]
     - 击败<b>[小黄金树]</b>东部附近的<b>[黄金树的化身]</b>奖励
@@ -345,8 +345,8 @@ sections:
     - 6210
     - 2141
   - id: '8_2'
-    icon: /img/icons/keys/crystal_tears/00407.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00407.png
+    icon: img/icons/keys/crystal_tears/00407.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00407.png
     data:
     - <b>红泡状露滴</b>
     - 击败<b>[小黄金树]</b>东部附近的<b>[黄金树的化身]</b>奖励
@@ -361,8 +361,8 @@ sections:
   - 效果
   items:
   - id: '8_3'
-    icon: /img/icons/keys/crystal_tears/00413.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00413.png
+    icon: img/icons/keys/crystal_tears/00413.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00413.png
     data:
     - <b>连刺破露滴</b>
     - 击败<b>赐福[安身洞窟]</b>北部<b>[腐败化身]</b>的奖励
@@ -371,8 +371,8 @@ sections:
     - 5649
     - 2046
   - id: '8_4'
-    icon: /img/icons/keys/crystal_tears/00417.png
-    map_icon: /map/icons/shadows/keys/crystal_tears/00417.png
+    icon: img/icons/keys/crystal_tears/00417.png
+    map_icon: map/icons/shadows/keys/crystal_tears/00417.png
     data:
     - <b>爆裂结晶露滴</b> [2]
     - 击败<b>赐福[安身洞窟]</b>北部<b>[腐败化身]</b>的奖励

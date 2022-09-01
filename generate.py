@@ -79,19 +79,19 @@ def make_doc(title, description):
         base(href="http://gh-pages.shuang-se.fun/roundtablehold/")
         meta(charset="UTF-8")
         meta(name="viewport", content="width=device-width, initial-scale=1.0")
-        link(rel="apple-touch-icon", sizes="180x180", href="/img/apple-touch-icon.png")
-        link(rel="icon", type="image/png", sizes="32x32", href="/img/favicon-32x32.png")
-        link(rel="icon", type="image/png", sizes="16x16", href="/img/favicon-16x16.png")
-        link(rel="manifest", href="/img/site.webmanifest")
+        link(rel="apple-touch-icon", sizes="180x180", href="img/apple-touch-icon.png")
+        link(rel="icon", type="image/png", sizes="32x32", href="img/favicon-32x32.png")
+        link(rel="icon", type="image/png", sizes="16x16", href="img/favicon-16x16.png")
+        link(rel="manifest", href="img/site.webmanifest")
         meta(name="theme-color", content="#ffffff")
         meta(name="apple-mobile-web-app-capable", content="yes")
         meta(name="mobile-web-app-capable", content="yes")
         meta(name="description", content="Cheat sheet for Elden Ring. Checklist of things to do, items to get etc.")
         meta(name="author", content="Ben Lambeth")
         meta(name="mobile-web-app-capable", content="yes")
-        link(href="/css/bootstrap.min.css", rel="stylesheet", id="bootstrap")
+        link(href="css/bootstrap.min.css", rel="stylesheet", id="bootstrap")
         link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css")
-        link(href="/css/main.css", rel="stylesheet")
+        link(href="css/main.css", rel="stylesheet")
     return doc
 
 def title_row():
@@ -120,12 +120,12 @@ def make_nav(page, is_map = False):
             # with div(cls='order-sm-last d-none d-sm-block ms-auto'):
             with button(type="button", cls="navbar-toggler", data_bs_toggle="collapse", data_bs_target="#nav-collapse", aria_expanded="false", aria_controls="nav-collapse", aria_label="Toggle navigation"):
                 span(cls="navbar-toggler-icon")
-            a('圆桌指引', cls="navbar-brand me-auto ms-2" + (' active' if page == 'index' else ''), href="/index.html")
+            a('圆桌指引', cls="navbar-brand me-auto ms-2" + (' active' if page == 'index' else ''), href="index.html")
             with form(cls="d-none d-sm-flex order-2 order-xl-3"):
                 input_(cls='form-control me-2', type='search', placeholder='搜索', aria_label='search', name='search')
-                button(type='submit', cls='btn', formaction='/search.html', formmethod='get', formnovalidate='true').add(i(cls='bi bi-search'))
+                button(type='submit', cls='btn', formaction='search.html', formmethod='get', formnovalidate='true').add(i(cls='bi bi-search'))
             with div(cls='d-sm-none order-2'):
-                a(href='/search.html', cls='nav-link me-0').add(i(cls='bi bi-search sb-icon-search'))
+                a(href='search.html', cls='nav-link me-0').add(i(cls='bi bi-search sb-icon-search'))
             with div(cls="collapse navbar-collapse order-3 order-xl-2 ms-xl-2", id="nav-collapse"):
                 with ul(cls="nav navbar-nav navbar-nav-scroll mr-auto"):
                     # with li(cls="nav-item"):
@@ -136,11 +136,11 @@ def make_nav(page, is_map = False):
                             a(name, cls="nav-link dropdown-toggle" + (' active' if page_in_dropdown else ''), href="#", data_bs_toggle="dropdown", aria_haspopup="true", aria_expanded="false").add(span(cls="caret"))
                             with ul(cls="dropdown-menu"):
                                 for guide in l:
-                                    li(cls='tab-li').add(a(guide[0], cls="dropdown-item show-buttons"  + (' active' if page == to_snake_case(guide[1]) else ''), href='/checklists/' + to_snake_case(guide[1]) + '.html'))
+                                    li(cls='tab-li').add(a(guide[0], cls="dropdown-item show-buttons"  + (' active' if page == to_snake_case(guide[1]) else ''), href='checklists/' + to_snake_case(guide[1]) + '.html'))
                     with li(cls='nav-item tab-li'):
-                        a(href="/map.html", cls="nav-link hide-buttons" + (' active' if page == 'map' else '')).add(i(cls="bi bi-map"), " 地图")
+                        a(href="map.html", cls="nav-link hide-buttons" + (' active' if page == 'map' else '')).add(i(cls="bi bi-map"), " 地图")
                     with li(cls="nav-item tab-li"):
-                        a(href="/options.html", cls="nav-link hide-buttons" + (' active' if page == 'options' else '')).add(i(cls="bi bi-gear-fill"), " 选项")
+                        a(href="options.html", cls="nav-link hide-buttons" + (' active' if page == 'options' else '')).add(i(cls="bi bi-gear-fill"), " 选项")
 
 # def make_sidebar_nav(page):
 #     with aside(cls="bd-sidebar"):
@@ -164,14 +164,14 @@ def make_nav(page, is_map = False):
 #                     link += " Options"
 
 def make_footer(page=None):
-    script(src="/js/jquery.min.js")
-    script(src="/js/jstorage.min.js")
-    script(src='/js/progress.js')
-    script(src='/js/item_links.js')
-    script(src='/js/common.js')
-    script(src="/js/bootstrap.bundle.min.js")
-    script(src="/js/jets.min.js")
-    script(src="/js/jquery.highlight.js")
+    script(src="js/jquery.min.js")
+    script(src="js/jstorage.min.js")
+    script(src='js/progress.js')
+    script(src='js/item_links.js')
+    script(src='js/common.js')
+    script(src="js/bootstrap.bundle.min.js")
+    script(src="js/jets.min.js")
+    script(src="js/jquery.highlight.js")
     raw("""
         <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-B7FMWDCTF5"></script>
@@ -232,7 +232,7 @@ def make_index():
                                     hr()
                                     for name, l in dropdowns:
                                         for guide in l:
-                                            li(cls='tab-li').add(a(guide[0], href="/checklists/" + to_snake_case(guide[1]) + '.html')).add(span(id=guide[1] + "_progress_total", cls='d-print-none'))
+                                            li(cls='tab-li').add(a(guide[0], href="checklists/" + to_snake_case(guide[1]) + '.html')).add(span(id=guide[1] + "_progress_total", cls='d-print-none'))
                                         hr()
                     with div(cls='col-md-8 col-12'):
                         with div(cls='row row-cols-1 row-cols-md-2 gy-3'):
@@ -280,7 +280,7 @@ def make_index():
                                         h5('列表追踪状态是怎么保存的？', cls='card-title text-center')
                                         p("列表追踪状态数据保存在浏览器本地存储里。小心！清除浏览器缓存也会清空你的数据。", cls='card-text')
             make_footer()
-            script(src="/js/index.js")
+            script(src="js/index.js")
     with open(os.path.join('docs', 'index.html'), 'w', encoding='utf_8') as index:
         index.write(doc.render())
 
@@ -385,14 +385,14 @@ def make_options():
 
         div(cls="hiddenfile").add(input_(name="upload", type="file", id="fileInput"))
         make_footer()
-        script(src="/js/options.js")
+        script(src="js/options.js")
     with open(os.path.join('docs', 'options.html'), 'w', encoding='utf_8') as index:
         index.write(doc.render())
 
 img_size = '70'
 
 def add_icon(icon, classes):
-    p = os.path.join('docs', icon[1:])
+    p = os.path.join('docs', icon)
     im = Image.open(p)
     width, height = im.size
     if width > height:
@@ -483,12 +483,12 @@ def make_checklist(page):
                                                     page['num_ids'] += 1
                                                     section['num_ids'] += 1
                                                 with div(cls='col-auto d-flex align-items-center order-last'):
-                                                    href = '/map.html?'
+                                                    href = 'map.html?'
                                                     if 'map_link' in item:
                                                         href += 'x={}&y={}'.format(item['map_link'][0], item['map_link'][1])
                                                     else:
                                                         href += 'target={}_{}'.format(page['id'], item['id'])
-                                                    href += '&id={}&link={}&title={}'.format(page['id'] + '_' + id, '/checklists/' + to_snake_case(page['id']) + '.html%23item_' + id, item['map_title'] if 'map_title' in item else item['data'][0])
+                                                    href += '&id={}&link={}&title={}'.format(page['id'] + '_' + id, 'checklists/' + to_snake_case(page['id']) + '.html%23item_' + id, item['map_title'] if 'map_title' in item else item['data'][0])
                                                     a(href=href, cls=('invisible' if (('cords' not in item) and ('map_link' not in item)) else '')).add(i(cls='bi bi-geo-alt'))
                                                 with div(cls="col d-flex align-items-center d-md-block d-none").add(div(cls="row")):
                                                     for pos in range(table_cols):
@@ -533,12 +533,12 @@ def make_checklist(page):
                                                         add_icon(item['icon'], 'float-md-none float-end me-md-1')
                                                     raw(item['data'][0])
                                                 if 'cords' in item or 'map_link' in item:
-                                                    href = '/map.html?'
+                                                    href = 'map.html?'
                                                     if 'map_link' in item:
                                                         href += 'x={}&y={}'.format(item['map_link'][0], item['map_link'][1])
                                                     else:
                                                         href += 'target={}_{}'.format(page['id'], id)
-                                                    href += '&id={}&link={}&title={}'.format(page['id'] + '_' + id, '/checklists/' + to_snake_case(page['id']) + '.html%23item_' + id, item['map_title'] if 'map_title' in item else item['data'][0])
+                                                    href += '&id={}&link={}&title={}'.format(page['id'] + '_' + id, 'checklists/' + to_snake_case(page['id']) + '.html%23item_' + id, item['map_title'] if 'map_title' in item else item['data'][0])
                                                     a(href=href, cls='ms-2').add(i(cls='bi bi-geo-alt'))
                                                 page['num_ids'] += 1
                                                 section['num_ids'] += 1
@@ -553,7 +553,7 @@ def make_checklist(page):
         a(cls="btn btn-primary btn-sm fadingbutton back-to-top d-print-none").add(raw("Back to Top&thinsp;"), span(cls="bi bi-arrow-up"))
         script(raw("window.current_page_id = \"{}\";\n".format(page['id'])))
         make_footer(page)
-        script(src="/js/checklists.js")
+        script(src="js/checklists.js")
     with open(os.path.join('docs', 'checklists', to_snake_case(page['id']) + '.html'), 'w', encoding='utf_8') as index:
         index.write(doc.render())
 
@@ -586,7 +586,7 @@ def make_search():
                                     size = floor(12 / table_cols)
                                 table_widths = section['table_widths'] if 'table_widths' in section else page['table_widths']
                                 for item in items:
-                                    with a(cls='d-none list-group-item list-group-item-action searchable', href='/checklists/' + to_snake_case(page['id']) + '.html#item_' + str(item['id']), id='/checklists/' + to_snake_case(page['id']) + '.html#item_' + str(item['id'])):
+                                    with a(cls='d-none list-group-item list-group-item-action searchable', href='checklists/' + to_snake_case(page['id']) + '.html#item_' + str(item['id']), id='checklists/' + to_snake_case(page['id']) + '.html#item_' + str(item['id'])):
                                         if isinstance(item,str):
                                             continue
                                         with div(cls='row d-md-flex d-none'):
@@ -612,7 +612,7 @@ def make_search():
                                     if isinstance(item, str):
                                         continue
                                     def f(item):
-                                        with a(cls='d-none list-group-item list-group-item-action searchable', href='/checklists/' + to_snake_case(page['id']) + '.html#item_' + str(item['id']), id='/checklists/' + to_snake_case(page['id']) + '.html#item_' + str(item['id'])):
+                                        with a(cls='d-none list-group-item list-group-item-action searchable', href='checklists/' + to_snake_case(page['id']) + '.html#item_' + str(item['id']), id='checklists/' + to_snake_case(page['id']) + '.html#item_' + str(item['id'])):
                                             with div(cls='d-flex align-items-center'):
                                                 if 'icon' in item:
                                                     add_icon(item['icon'], 'float-md-none float-end me-md-1')
@@ -624,8 +624,8 @@ def make_search():
                                         for subitem in item:
                                             f(subitem)
         make_footer()
-        script(src='/js/lunr.js')
-        script(src='/js/search.js')
+        script(src='js/lunr.js')
+        script(src='js/search.js')
     with open(os.path.join('docs', 'search.html'), 'w', encoding='utf_8') as out:
         out.write(doc.render())
 
@@ -748,7 +748,7 @@ def make_search_index():
                     continue
                 def f(item):
                     search_idx.append({
-                        'id': '/checklists/{page_href}#item_{id}'.format(page_href=to_snake_case(page['id']) + '.html', id=item['id']),
+                        'id': 'checklists/{page_href}#item_{id}'.format(page_href=to_snake_case(page['id']) + '.html', id=item['id']),
                         'text': re.sub(r'(<([^>]+)>)', '', ' '.join(item['data'])),
                     })
                 f(item)
@@ -811,7 +811,7 @@ def make_feature(page, section, item):
             'group': page['id'],
             'icon': icon,
             'icon_size': icon_size,
-            'link': '/checklists/' + to_snake_case(page['id']) + '.html#item_' + item['id']
+            'link': 'checklists/' + to_snake_case(page['id']) + '.html#item_' + item['id']
         }
     }
 
@@ -855,8 +855,8 @@ def make_geojson():
 def make_map():
     doc = make_doc('Map | Roundtable Guides', 'Elden Ring Guides and Progress Tracker')
     with doc.head:
-        link(rel='stylesheet', href='/map/src/css/ol.css')
-        link(rel='stylesheet', href='/map/src/css/map.css')
+        link(rel='stylesheet', href='map/src/css/ol.css')
+        link(rel='stylesheet', href='map/src/css/map.css')
     with doc:
         with div(cls='container-fluid h-100 d-flex flex-column p-0 m-0 g-0'):
             with div(cls='row m-0 p-0 g-0'):
@@ -923,9 +923,9 @@ def make_map():
                     with div(cls='d-none', id='dev-mode-copy'):
                         a('map_link', type='button', cls='btn btn-primary btn-sm', id='dev-mode-copy-button')
         make_footer()
-        script(src='/map/src/js/ol.js')
-        script(src='/map/src/js/features.js')
-        script(src='/map/src/js/map.js')
+        script(src='map/src/js/ol.js')
+        script(src='map/src/js/features.js')
+        script(src='map/src/js/map.js')
     with open(os.path.join('docs', 'map.html'), 'w', encoding='utf_8') as f:
         f.write(doc.render())
 

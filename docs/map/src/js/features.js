@@ -12,10 +12,10 @@ const feature_data = [
         "id": "bosses_2_1",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_1",
-          "link": "/checklists/bosses.html#item_2_1",
+          "link": "checklists/bosses.html#item_2_1",
           "title": "\u845b\u745e\u514b\u7684\u58eb\u5175 (\u65b0\u624b\u6559\u7a0b)"
         },
         "type": "Feature"
@@ -31,10 +31,10 @@ const feature_data = [
         "id": "bosses_2_14",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_14",
-          "link": "/checklists/bosses.html#item_2_14",
+          "link": "checklists/bosses.html#item_2_14",
           "title": "<b>\u5927\u6811\u5b88\u536b</b>"
         },
         "type": "Feature"
@@ -50,10 +50,10 @@ const feature_data = [
         "id": "bosses_2_2",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_2",
-          "link": "/checklists/bosses.html#item_2_2",
+          "link": "checklists/bosses.html#item_2_2",
           "title": "<b>\u4e9a\u4eba\u9996\u9886</b> (x2)"
         },
         "type": "Feature"
@@ -69,10 +69,10 @@ const feature_data = [
         "id": "bosses_2_3",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_3",
-          "link": "/checklists/bosses.html#item_2_3",
+          "link": "checklists/bosses.html#item_2_3",
           "title": "<b>\u5f52\u6811\u770b\u95e8\u72ac</b>"
         },
         "type": "Feature"
@@ -88,10 +88,10 @@ const feature_data = [
         "id": "bosses_2_4",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_4",
-          "link": "/checklists/bosses.html#item_2_4",
+          "link": "checklists/bosses.html#item_2_4",
           "title": "<b>\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9\u7684\u517d\u4eba</b>"
         },
         "type": "Feature"
@@ -107,10 +107,10 @@ const feature_data = [
         "id": "bosses_2_5",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_5",
-          "link": "/checklists/bosses.html#item_2_5",
+          "link": "checklists/bosses.html#item_2_5",
           "title": "<b>\u6316\u77f3\u5c71\u5996</b>"
         },
         "type": "Feature"
@@ -126,10 +126,10 @@ const feature_data = [
         "id": "bosses_2_13",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_13",
-          "link": "/checklists/bosses.html#item_2_13",
+          "link": "checklists/bosses.html#item_2_13",
           "title": "\u9ed1\u591c\u9a91\u5175 (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -145,10 +145,10 @@ const feature_data = [
         "id": "bosses_2_12",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_12",
-          "link": "/checklists/bosses.html#item_2_12",
+          "link": "checklists/bosses.html#item_2_12",
           "title": "<b>\u53d1\u72c2\u5357\u74dc\u5934\u58eb\u5175</b>"
         },
         "type": "Feature"
@@ -164,10 +164,10 @@ const feature_data = [
         "id": "bosses_2_18",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_18",
-          "link": "/checklists/bosses.html#item_2_18",
+          "link": "checklists/bosses.html#item_2_18",
           "title": "<b>\u201c\u730e\u72ac\u9a91\u58eb\u201d\u8fbe\u745e\u5a01\u5c14</b>"
         },
         "type": "Feature"
@@ -183,10 +183,10 @@ const feature_data = [
         "id": "bosses_2_7",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_7",
-          "link": "/checklists/bosses.html#item_2_7",
+          "link": "checklists/bosses.html#item_2_7",
           "title": "\u201c\u8840\u6307\u201d\u6d85\u5229\u4e4c\u65af (NPC\u5165\u4fb5)"
         },
         "type": "Feature"
@@ -202,10 +202,10 @@ const feature_data = [
         "id": "bosses_2_8",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_8",
-          "link": "/checklists/bosses.html#item_2_8",
+          "link": "checklists/bosses.html#item_2_8",
           "title": "<b>\u5e15\u5947</b>"
         },
         "type": "Feature"
@@ -221,10 +221,10 @@ const feature_data = [
         "id": "bosses_2_6",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_6",
-          "link": "/checklists/bosses.html#item_2_6",
+          "link": "checklists/bosses.html#item_2_6",
           "title": "<b>\u5b88\u5893\u6597\u58eb</b>"
         },
         "type": "Feature"
@@ -240,10 +240,10 @@ const feature_data = [
         "id": "bosses_2_9",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_9",
-          "link": "/checklists/bosses.html#item_2_9",
+          "link": "checklists/bosses.html#item_2_9",
           "title": "<b>\u9b54\u50cf\u5b88\u536b</b>"
         },
         "type": "Feature"
@@ -259,10 +259,10 @@ const feature_data = [
         "id": "bosses_2_10",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_10",
-          "link": "/checklists/bosses.html#item_2_10",
+          "link": "checklists/bosses.html#item_2_10",
           "title": "<b>\u9ed1\u5200\u523a\u5ba2</b>"
         },
         "type": "Feature"
@@ -278,10 +278,10 @@ const feature_data = [
         "id": "bosses_2_15",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_15",
-          "link": "/checklists/bosses.html#item_2_15",
+          "link": "checklists/bosses.html#item_2_15",
           "title": "<b>\u201c\u98de\u9f99\u201d\u4e9a\u57fa\u5c14</b>"
         },
         "type": "Feature"
@@ -297,10 +297,10 @@ const feature_data = [
         "id": "bosses_2_16",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_16",
-          "link": "/checklists/bosses.html#item_2_16",
+          "link": "checklists/bosses.html#item_2_16",
           "title": "<b>\u63d0\u6bd4\u4e9a\u7684\u5524\u58f0\u8239</b>"
         },
         "type": "Feature"
@@ -316,10 +316,10 @@ const feature_data = [
         "id": "bosses_2_32",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_32",
-          "link": "/checklists/bosses.html#item_2_32",
+          "link": "checklists/bosses.html#item_2_32",
           "title": "\u845b\u745e\u514b\u9a91\u58eb (\u201c\u9886\u4e3b\u7684\u5ae1\u957f\u5b50\u201d\u80af\u5c3c\u65af\u00b7\u6d77\u5fb7\u4efb\u52a1\u7ebf)"
         },
         "type": "Feature"
@@ -335,10 +335,10 @@ const feature_data = [
         "id": "bosses_2_17",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_17",
-          "link": "/checklists/bosses.html#item_2_17",
+          "link": "checklists/bosses.html#item_2_17",
           "title": "\u201c\u541e\u566c\u892a\u8272\u8005\u201d\u5b89\u5a1c\u5854\u897f\u4e9a (NPC\u5165\u4fb5)"
         },
         "type": "Feature"
@@ -354,10 +354,10 @@ const feature_data = [
         "id": "bosses_2_19",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_19",
-          "link": "/checklists/bosses.html#item_2_19",
+          "link": "checklists/bosses.html#item_2_19",
           "title": "<b>\u7194\u7089\u9a91\u58eb</b>"
         },
         "type": "Feature"
@@ -373,10 +373,10 @@ const feature_data = [
         "id": "bosses_2_20",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_20",
-          "link": "/checklists/bosses.html#item_2_20",
+          "link": "checklists/bosses.html#item_2_20",
           "title": "\u94c3\u73e0\u730e\u4eba (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -392,10 +392,10 @@ const feature_data = [
         "id": "bosses_2_21",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_21",
-          "link": "/checklists/bosses.html#item_2_21",
+          "link": "checklists/bosses.html#item_2_21",
           "title": "\u6b7b\u4e4b\u9e1f (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -411,10 +411,10 @@ const feature_data = [
         "id": "bosses_2_11",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_11",
-          "link": "/checklists/bosses.html#item_2_11",
+          "link": "checklists/bosses.html#item_2_11",
           "title": "\u201c\u53db\u5f8b\u8005\u201d\u4ea8\u5229\u514b\u65af (NPC\u5165\u4fb5)"
         },
         "type": "Feature"
@@ -430,10 +430,10 @@ const feature_data = [
         "id": "bosses_2_30",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_30",
-          "link": "/checklists/bosses.html#item_2_30",
+          "link": "checklists/bosses.html#item_2_30",
           "title": "<b>\u201c\u63a5\u80a2\u201d\u8d35\u65cf\u540e\u88d4</b> (x2)"
         },
         "type": "Feature"
@@ -449,10 +449,10 @@ const feature_data = [
         "id": "bosses_2_23",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_23",
-          "link": "/checklists/bosses.html#item_2_23",
+          "link": "checklists/bosses.html#item_2_23",
           "title": "<b>\u8150\u70c2\u6811\u7075</b>"
         },
         "type": "Feature"
@@ -468,10 +468,10 @@ const feature_data = [
         "id": "bosses_2_24",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_24",
-          "link": "/checklists/bosses.html#item_2_24",
+          "link": "checklists/bosses.html#item_2_24",
           "title": "<b>\u8150\u70c2\u6811\u7075</b>"
         },
         "type": "Feature"
@@ -487,10 +487,10 @@ const feature_data = [
         "id": "bosses_2_25",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_25",
-          "link": "/checklists/bosses.html#item_2_25",
+          "link": "checklists/bosses.html#item_2_25",
           "title": "<b>\u7194\u7089\u9a91\u58eb</b>"
         },
         "type": "Feature"
@@ -506,10 +506,10 @@ const feature_data = [
         "id": "bosses_2_26",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_26",
-          "link": "/checklists/bosses.html#item_2_26",
+          "link": "checklists/bosses.html#item_2_26",
           "title": "<b>\u201c\u63a5\u80a2\u201d\u8d35\u65cf\u540e\u88d4</b>"
         },
         "type": "Feature"
@@ -525,10 +525,10 @@ const feature_data = [
         "id": "bosses_2_27",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_27",
-          "link": "/checklists/bosses.html#item_2_27",
+          "link": "checklists/bosses.html#item_2_27",
           "title": "\u72ee\u5b50\u5b88\u536b"
         },
         "type": "Feature"
@@ -544,10 +544,10 @@ const feature_data = [
         "id": "bosses_2_28",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_28",
-          "link": "/checklists/bosses.html#item_2_28",
+          "link": "checklists/bosses.html#item_2_28",
           "title": "<b>\u201c\u6076\u5146\u5996\u9b3c\u201d\u739b\u5c14\u57fa\u7279</b>"
         },
         "type": "Feature"
@@ -563,10 +563,10 @@ const feature_data = [
         "id": "bosses_2_29",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/shadows/tools/remembrances/00163.png",
+          "icon": "map/icons/shadows/tools/remembrances/00163.png",
           "icon_size": 35,
           "id": "bosses_2_29",
-          "link": "/checklists/bosses.html#item_2_29",
+          "link": "checklists/bosses.html#item_2_29",
           "title": "<b>\u201c\u63a5\u80a2\u201d\u845b\u745e\u514b</b>"
         },
         "type": "Feature"
@@ -582,10 +582,10 @@ const feature_data = [
         "id": "bosses_2_22",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_2_22",
-          "link": "/checklists/bosses.html#item_2_22",
+          "link": "checklists/bosses.html#item_2_22",
           "title": "\u201c\u53e4\u8001\u9a91\u58eb\u201d\u4f0a\u4fee\u6258\u90a6 (\u706b\u5c71\u5b98\u90b8\u4efb\u52a1\u7ebf)"
         },
         "type": "Feature"
@@ -601,10 +601,10 @@ const feature_data = [
         "id": "bosses_1_2",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_1_2",
-          "link": "/checklists/bosses.html#item_1_2",
+          "link": "checklists/bosses.html#item_1_2",
           "title": "<b>\u5362\u6069\u718a</b>"
         },
         "type": "Feature"
@@ -620,10 +620,10 @@ const feature_data = [
         "id": "bosses_1_3",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_1_3",
-          "link": "/checklists/bosses.html#item_1_3",
+          "link": "checklists/bosses.html#item_1_3",
           "title": "\u4e9a\u4eba\u5973\u738b"
         },
         "type": "Feature"
@@ -639,10 +639,10 @@ const feature_data = [
         "id": "bosses_1_8",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_1_8",
-          "link": "/checklists/bosses.html#item_1_8",
+          "link": "checklists/bosses.html#item_1_8",
           "title": "<b>\u7247\u9cde\u6df7\u79cd</b>"
         },
         "type": "Feature"
@@ -658,10 +658,10 @@ const feature_data = [
         "id": "bosses_1_4",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_1_4",
-          "link": "/checklists/bosses.html#item_1_4",
+          "link": "checklists/bosses.html#item_1_4",
           "title": "\u9ed1\u591c\u9a91\u5175 (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -677,10 +677,10 @@ const feature_data = [
         "id": "bosses_1_1",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_1_1",
-          "link": "/checklists/bosses.html#item_1_1",
+          "link": "checklists/bosses.html#item_1_1",
           "title": "<b>\u5f52\u6811\u770b\u95e8\u72ac</b>"
         },
         "type": "Feature"
@@ -696,10 +696,10 @@ const feature_data = [
         "id": "bosses_1_7",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_1_7",
-          "link": "/checklists/bosses.html#item_1_7",
+          "link": "checklists/bosses.html#item_1_7",
           "title": "<b>\u9ec4\u91d1\u6811\u7684\u5316\u8eab</b>"
         },
         "type": "Feature"
@@ -715,10 +715,10 @@ const feature_data = [
         "id": "bosses_1_6",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_1_6",
-          "link": "/checklists/bosses.html#item_1_6",
+          "link": "checklists/bosses.html#item_1_6",
           "title": "<b>\u5893\u5730\u5f71\u5b50</b>"
         },
         "type": "Feature"
@@ -734,10 +734,10 @@ const feature_data = [
         "id": "bosses_1_9",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_1_9",
-          "link": "/checklists/bosses.html#item_1_9",
+          "link": "checklists/bosses.html#item_1_9",
           "title": "<b>\u201c\u75c5\u82b1\u201d\u7c73\u5170\u8fbe</b>"
         },
         "type": "Feature"
@@ -753,10 +753,10 @@ const feature_data = [
         "id": "bosses_1_10",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_1_10",
-          "link": "/checklists/bosses.html#item_1_10",
+          "link": "checklists/bosses.html#item_1_10",
           "title": "<b>\u8428\u7c73\u5c14\u7684\u53e4\u82f1\u96c4</b>"
         },
         "type": "Feature"
@@ -772,10 +772,10 @@ const feature_data = [
         "id": "bosses_1_5",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_1_5",
-          "link": "/checklists/bosses.html#item_1_5",
+          "link": "checklists/bosses.html#item_1_5",
           "title": "\u6b7b\u4e4b\u9e1f (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -791,10 +791,10 @@ const feature_data = [
         "id": "bosses_1_11",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_1_11",
-          "link": "/checklists/bosses.html#item_1_11",
+          "link": "checklists/bosses.html#item_1_11",
           "title": "<b>\u72ee\u5b50\u6df7\u79cd</b>"
         },
         "type": "Feature"
@@ -810,10 +810,10 @@ const feature_data = [
         "id": "bosses_4_1",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_1",
-          "link": "/checklists/bosses.html#item_4_1",
+          "link": "checklists/bosses.html#item_4_1",
           "title": "<b>\u739b\u83b2\u59ae\u4e9a\u7684\u5c0a\u8150\u9a91\u58eb</b>"
         },
         "type": "Feature"
@@ -829,10 +829,10 @@ const feature_data = [
         "id": "bosses_4_37",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_37",
-          "link": "/checklists/bosses.html#item_4_37",
+          "link": "checklists/bosses.html#item_4_37",
           "title": "<b>\u730e\u72ac\u9a91\u58eb</b>"
         },
         "type": "Feature"
@@ -848,10 +848,10 @@ const feature_data = [
         "id": "bosses_4_2",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_2",
-          "link": "/checklists/bosses.html#item_4_2",
+          "link": "checklists/bosses.html#item_4_2",
           "title": "<b>\u201c\u76d7\u706b\u201d\u4e9a\u5f53</b>"
         },
         "type": "Feature"
@@ -867,10 +867,10 @@ const feature_data = [
         "id": "bosses_4_3",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_3",
-          "link": "/checklists/bosses.html#item_4_3",
+          "link": "checklists/bosses.html#item_4_3",
           "title": "<b>\u5f52\u6811\u770b\u95e8\u72ac</b>"
         },
         "type": "Feature"
@@ -886,10 +886,10 @@ const feature_data = [
         "id": "bosses_4_4",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_4",
-          "link": "/checklists/bosses.html#item_4_4",
+          "link": "checklists/bosses.html#item_4_4",
           "title": "<b>\u63d0\u6bd4\u4e9a\u7684\u5524\u58f0\u8239</b>"
         },
         "type": "Feature"
@@ -905,10 +905,10 @@ const feature_data = [
         "id": "bosses_4_6",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_6",
-          "link": "/checklists/bosses.html#item_4_6",
+          "link": "checklists/bosses.html#item_4_6",
           "title": "\u9b54\u6cd5\u6559\u6388\u7c73\u4e3d\u5b89 (NPC\u5165\u4fb5)"
         },
         "type": "Feature"
@@ -924,10 +924,10 @@ const feature_data = [
         "id": "bosses_4_39",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_39",
-          "link": "/checklists/bosses.html#item_4_39",
+          "link": "checklists/bosses.html#item_4_39",
           "title": "\u9b54\u6cd5\u6559\u6388\u7c73\u4e3d\u5b89 (NPC\u5165\u4fb5)"
         },
         "type": "Feature"
@@ -943,10 +943,10 @@ const feature_data = [
         "id": "bosses_4_7",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_7",
-          "link": "/checklists/bosses.html#item_4_7",
+          "link": "checklists/bosses.html#item_4_7",
           "title": "<b>\u795e\u76ae\u8d35\u65cf</b>"
         },
         "type": "Feature"
@@ -962,10 +962,10 @@ const feature_data = [
         "id": "bosses_4_5",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_5",
-          "link": "/checklists/bosses.html#item_4_5",
+          "link": "checklists/bosses.html#item_4_5",
           "title": "\u9ed1\u591c\u9a91\u5175 (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -981,10 +981,10 @@ const feature_data = [
         "id": "bosses_4_8",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_8",
-          "link": "/checklists/bosses.html#item_4_8",
+          "link": "checklists/bosses.html#item_4_8",
           "title": "\u6b7b\u4e4b\u9e1f (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -1000,10 +1000,10 @@ const feature_data = [
         "id": "bosses_4_9",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_9",
-          "link": "/checklists/bosses.html#item_4_9",
+          "link": "checklists/bosses.html#item_4_9",
           "title": "\u201c\u63a5\u80a2\u201d\u8d35\u65cf\u540e\u88d4 (\u5148\u6740\u6b7b\u9f99\u867e)"
         },
         "type": "Feature"
@@ -1019,10 +1019,10 @@ const feature_data = [
         "id": "bosses_4_10",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_10",
-          "link": "/checklists/bosses.html#item_4_10",
+          "link": "checklists/bosses.html#item_4_10",
           "title": "<b>\u201c\u8f89\u77f3\u9f99\u201d\u53f2\u739b\u62c9\u683c</b>"
         },
         "type": "Feature"
@@ -1038,10 +1038,10 @@ const feature_data = [
         "id": "bosses_4_11",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_11",
-          "link": "/checklists/bosses.html#item_4_11",
+          "link": "checklists/bosses.html#item_4_11",
           "title": "<b>\u7ed3\u6676\u4eba\uff08\u77db\uff09</b> & <b>\u7ed3\u6676\u4eba\uff08\u624b\u6756\uff09</b>"
         },
         "type": "Feature"
@@ -1057,10 +1057,10 @@ const feature_data = [
         "id": "bosses_4_12",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_12",
-          "link": "/checklists/bosses.html#item_4_12",
+          "link": "checklists/bosses.html#item_4_12",
           "title": "\u6b7b\u4ea1\u4eea\u5f0f\u9e1f (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -1076,10 +1076,10 @@ const feature_data = [
         "id": "bosses_4_13",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_13",
-          "link": "/checklists/bosses.html#item_4_13",
+          "link": "checklists/bosses.html#item_4_13",
           "title": "<b>\u7ed3\u6676\u4eba\uff08\u5706\u5203\u5200\uff09</b>"
         },
         "type": "Feature"
@@ -1095,10 +1095,10 @@ const feature_data = [
         "id": "bosses_4_14",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_14",
-          "link": "/checklists/bosses.html#item_4_14",
+          "link": "checklists/bosses.html#item_4_14",
           "title": "\u94c3\u73e0\u730e\u4eba (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -1114,10 +1114,10 @@ const feature_data = [
         "id": "bosses_4_16",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_16",
-          "link": "/checklists/bosses.html#item_4_16",
+          "link": "checklists/bosses.html#item_4_16",
           "title": "<b>\u5893\u5730\u5f71\u5b50</b>"
         },
         "type": "Feature"
@@ -1133,10 +1133,10 @@ const feature_data = [
         "id": "bosses_4_17",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_17",
-          "link": "/checklists/bosses.html#item_4_17",
+          "link": "checklists/bosses.html#item_4_17",
           "title": "<b>\u9ed1\u5200\u523a\u5ba2</b>"
         },
         "type": "Feature"
@@ -1152,10 +1152,10 @@ const feature_data = [
         "id": "bosses_4_18",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_18",
-          "link": "/checklists/bosses.html#item_4_18",
+          "link": "checklists/bosses.html#item_4_18",
           "title": "\u201c\u70e7\u707c\u6307\u75d5\u201d\u7ef4\u514b (NPC\u5165\u4fb5)"
         },
         "type": "Feature"
@@ -1171,10 +1171,10 @@ const feature_data = [
         "id": "bosses_4_15",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_15",
-          "link": "/checklists/bosses.html#item_4_15",
+          "link": "checklists/bosses.html#item_4_15",
           "title": "<b>\u9ec4\u91d1\u6811\u7684\u5316\u8eab</b>"
         },
         "type": "Feature"
@@ -1190,10 +1190,10 @@ const feature_data = [
         "id": "bosses_4_19",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_19",
-          "link": "/checklists/bosses.html#item_4_19",
+          "link": "checklists/bosses.html#item_4_19",
           "title": "\u9ed1\u591c\u9a91\u5175 (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -1209,10 +1209,10 @@ const feature_data = [
         "id": "bosses_4_26",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_26",
-          "link": "/checklists/bosses.html#item_4_26",
+          "link": "checklists/bosses.html#item_4_26",
           "title": "\u6076\u5146\u730e\u4eba (\u767d\u91d1\u6751\u5730\u4e0b)"
         },
         "type": "Feature"
@@ -1228,10 +1228,10 @@ const feature_data = [
         "id": "bosses_4_24",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_24",
-          "link": "/checklists/bosses.html#item_4_24",
+          "link": "checklists/bosses.html#item_4_24",
           "title": "<b>\u9ec4\u91d1\u6811\u7684\u5316\u8eab</b>"
         },
         "type": "Feature"
@@ -1247,10 +1247,10 @@ const feature_data = [
         "id": "bosses_4_25",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_25",
-          "link": "/checklists/bosses.html#item_4_25",
+          "link": "checklists/bosses.html#item_4_25",
           "title": "<b>\u5524\u7075\u8717\u725b</b>"
         },
         "type": "Feature"
@@ -1266,10 +1266,10 @@ const feature_data = [
         "id": "bosses_4_23",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_23",
-          "link": "/checklists/bosses.html#item_4_23",
+          "link": "checklists/bosses.html#item_4_23",
           "title": "\u201c\u590d\u4ec7\u8005\u201d\u827e\u5fb7\u683c (NPC\u5165\u4fb5)"
         },
         "type": "Feature"
@@ -1285,10 +1285,10 @@ const feature_data = [
         "id": "bosses_4_22",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_22",
-          "link": "/checklists/bosses.html#item_4_22",
+          "link": "checklists/bosses.html#item_4_22",
           "title": "<b>\u201c\u5361\u5229\u4e9a\u9a91\u58eb\u201d\u6ce2\u5c14\u65af</b>"
         },
         "type": "Feature"
@@ -1304,10 +1304,10 @@ const feature_data = [
         "id": "bosses_4_21",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_21",
-          "link": "/checklists/bosses.html#item_4_21",
+          "link": "checklists/bosses.html#item_4_21",
           "title": "\u201c\u63a5\u80a2\u201d\u8d35\u65cf\u540e\u88d4 (\u901a\u8fc7\u6e56\u4e4b\u5229\u8036\u5c3c\u4e9a\u897f\u8fb9\u7684\u56db\u949f\u697c)"
         },
         "type": "Feature"
@@ -1323,10 +1323,10 @@ const feature_data = [
         "id": "bosses_4_20",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_20",
-          "link": "/checklists/bosses.html#item_4_20",
+          "link": "checklists/bosses.html#item_4_20",
           "title": "<b>\u738b\u5ba4\u5e7d\u9b42</b>"
         },
         "type": "Feature"
@@ -1342,10 +1342,10 @@ const feature_data = [
         "id": "bosses_4_27",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_27",
-          "link": "/checklists/bosses.html#item_4_27",
+          "link": "checklists/bosses.html#item_4_27",
           "title": "<b>\u7981\u536b\u9a91\u58eb\u7f57\u857e\u5854</b>"
         },
         "type": "Feature"
@@ -1361,10 +1361,10 @@ const feature_data = [
         "id": "bosses_4_28",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_28",
-          "link": "/checklists/bosses.html#item_4_28",
+          "link": "checklists/bosses.html#item_4_28",
           "title": "\u7ea2\u72fc"
         },
         "type": "Feature"
@@ -1380,10 +1380,10 @@ const feature_data = [
         "id": "bosses_4_29",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_29",
-          "link": "/checklists/bosses.html#item_4_29",
+          "link": "checklists/bosses.html#item_4_29",
           "title": "\u767d\u91d1\u4e4b\u5b50 (<b>\u77f3\u80a4\u9ed1\u738b</b>)"
         },
         "type": "Feature"
@@ -1399,10 +1399,10 @@ const feature_data = [
         "id": "bosses_4_30",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_30",
-          "link": "/checklists/bosses.html#item_4_30",
+          "link": "checklists/bosses.html#item_4_30",
           "title": "<b>\u201c\u8f89\u77f3\u9f99\u201d\u4e9a\u675c\u62c9</b>"
         },
         "type": "Feature"
@@ -1418,10 +1418,10 @@ const feature_data = [
         "id": "bosses_4_40",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_40",
-          "link": "/checklists/bosses.html#item_4_40",
+          "link": "checklists/bosses.html#item_4_40",
           "title": "<b>\u201c\u8f89\u77f3\u9f99\u201d\u4e9a\u675c\u62c9</b>"
         },
         "type": "Feature"
@@ -1437,10 +1437,10 @@ const feature_data = [
         "id": "bosses_4_31",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_31",
-          "link": "/checklists/bosses.html#item_4_31",
+          "link": "checklists/bosses.html#item_4_31",
           "title": "\u7ea2\u72fc"
         },
         "type": "Feature"
@@ -1456,10 +1456,10 @@ const feature_data = [
         "id": "bosses_4_32",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_32",
-          "link": "/checklists/bosses.html#item_4_32",
+          "link": "checklists/bosses.html#item_4_32",
           "title": "<b>\u201c\u9ed1\u5200\u4e4b\u9996\u201d\u4e9a\u52d2\u6258</b>"
         },
         "type": "Feature"
@@ -1475,10 +1475,10 @@ const feature_data = [
         "id": "bosses_4_34",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_34",
-          "link": "/checklists/bosses.html#item_4_34",
+          "link": "checklists/bosses.html#item_4_34",
           "title": "<b>\u201c\u8840\u6307\u201d\u9e26\u5c71\u7684\u6740\u624b</b>"
         },
         "type": "Feature"
@@ -1494,10 +1494,10 @@ const feature_data = [
         "id": "bosses_4_35",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_35",
-          "link": "/checklists/bosses.html#item_4_35",
+          "link": "checklists/bosses.html#item_4_35",
           "title": "<b>\u62c9\u8fbe\u5188\u7684\u7ea2\u72fc</b>"
         },
         "type": "Feature"
@@ -1513,10 +1513,10 @@ const feature_data = [
         "id": "bosses_4_38",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_38",
-          "link": "/checklists/bosses.html#item_4_38",
+          "link": "checklists/bosses.html#item_4_38",
           "title": "<b>\u201c\u5361\u5229\u4e9a\u9a91\u58eb\u201d\u7a46\u683c\u62c9\u59c6</b>"
         },
         "type": "Feature"
@@ -1532,10 +1532,10 @@ const feature_data = [
         "id": "bosses_4_36",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/shadows/tools/remembrances/00172.png",
+          "icon": "map/icons/shadows/tools/remembrances/00172.png",
           "icon_size": 35,
           "id": "bosses_4_36",
-          "link": "/checklists/bosses.html#item_4_36",
+          "link": "checklists/bosses.html#item_4_36",
           "title": "<b>\u201c\u6ee1\u6708\u5973\u738b\u201d\u857e\u5a1c\u83c8</b>"
         },
         "type": "Feature"
@@ -1551,10 +1551,10 @@ const feature_data = [
         "id": "bosses_4_33",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_4_33",
-          "link": "/checklists/bosses.html#item_4_33",
+          "link": "checklists/bosses.html#item_4_33",
           "title": "<b>\u201c\u7194\u5ca9\u571f\u9f99\u201d\u9a6c\u5361\u5c14</b>"
         },
         "type": "Feature"
@@ -1570,10 +1570,10 @@ const feature_data = [
         "id": "bosses_5_1",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_1",
-          "link": "/checklists/bosses.html#item_5_1",
+          "link": "checklists/bosses.html#item_5_1",
           "title": "<b>\u7194\u5ca9\u571f\u9f99</b>"
         },
         "type": "Feature"
@@ -1589,10 +1589,10 @@ const feature_data = [
         "id": "bosses_5_2",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_2",
-          "link": "/checklists/bosses.html#item_5_2",
+          "link": "checklists/bosses.html#item_5_2",
           "title": "<b>\u8150\u8d25\u5316\u8eab</b>"
         },
         "type": "Feature"
@@ -1608,10 +1608,10 @@ const feature_data = [
         "id": "bosses_5_3",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_3",
-          "link": "/checklists/bosses.html#item_5_3",
+          "link": "checklists/bosses.html#item_5_3",
           "title": "<b>\u5f52\u6811\u770b\u95e8\u72ac\uff08\u5251\uff09</b> & <b>\u5f52\u6811\u770b\u95e8\u72ac\uff08\u6756\uff09</b>"
         },
         "type": "Feature"
@@ -1627,10 +1627,10 @@ const feature_data = [
         "id": "bosses_5_4",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_4",
-          "link": "/checklists/bosses.html#item_5_4",
+          "link": "checklists/bosses.html#item_5_4",
           "title": "<b>\u53d1\u72c2\u5357\u74dc\u5934\u58eb\u5175\uff08\u69cc\uff09</b> & <b>\u53d1\u72c2\u5357\u74dc\u5934\u58eb\u5175\uff08\u8fde\u67b7\uff09</b>"
         },
         "type": "Feature"
@@ -1646,10 +1646,10 @@ const feature_data = [
         "id": "bosses_5_5",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_5",
-          "link": "/checklists/bosses.html#item_5_5",
+          "link": "checklists/bosses.html#item_5_5",
           "title": "\u5927\u58f6\u9a91\u58eb (x3) (NPC\u5165\u4fb5)"
         },
         "type": "Feature"
@@ -1665,10 +1665,10 @@ const feature_data = [
         "id": "bosses_5_30",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_30",
-          "link": "/checklists/bosses.html#item_5_30",
+          "link": "checklists/bosses.html#item_5_30",
           "title": "\u72ee\u5b50\u5b88\u536b"
         },
         "type": "Feature"
@@ -1684,10 +1684,10 @@ const feature_data = [
         "id": "bosses_5_6",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_6",
-          "link": "/checklists/bosses.html#item_5_6",
+          "link": "checklists/bosses.html#item_5_6",
           "title": "<b>\u53d1\u72c2\u6597\u58eb</b>"
         },
         "type": "Feature"
@@ -1703,10 +1703,10 @@ const feature_data = [
         "id": "bosses_5_7",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_7",
-          "link": "/checklists/bosses.html#item_5_7",
+          "link": "checklists/bosses.html#item_5_7",
           "title": "<b>\u201c\u6b65\u5165\u8150\u8d25\u201d\u827e\u683c\u57fa\u65af</b>"
         },
         "type": "Feature"
@@ -1722,10 +1722,10 @@ const feature_data = [
         "id": "bosses_5_28",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_28",
-          "link": "/checklists/bosses.html#item_5_28",
+          "link": "checklists/bosses.html#item_5_28",
           "title": "<b>\u5893\u5730\u5f71\u5b50</b>"
         },
         "type": "Feature"
@@ -1741,10 +1741,10 @@ const feature_data = [
         "id": "bosses_5_8",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_8",
-          "link": "/checklists/bosses.html#item_5_8",
+          "link": "checklists/bosses.html#item_5_8",
           "title": "\u9ed1\u591c\u9a91\u5175 (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -1760,10 +1760,10 @@ const feature_data = [
         "id": "bosses_5_31",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_31",
-          "link": "/checklists/bosses.html#item_5_31",
+          "link": "checklists/bosses.html#item_5_31",
           "title": "\u72ee\u5b50\u5b88\u536b"
         },
         "type": "Feature"
@@ -1779,10 +1779,10 @@ const feature_data = [
         "id": "bosses_5_9",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_9",
-          "link": "/checklists/bosses.html#item_5_9",
+          "link": "checklists/bosses.html#item_5_9",
           "title": "\u6b7b\u4ea1\u4eea\u5f0f\u9e1f (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -1798,10 +1798,10 @@ const feature_data = [
         "id": "bosses_5_10",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_10",
-          "link": "/checklists/bosses.html#item_5_10",
+          "link": "checklists/bosses.html#item_5_10",
           "title": "<b>\u8001\u5c06\u6b27\u5c3c\u5c14</b>"
         },
         "type": "Feature"
@@ -1817,10 +1817,10 @@ const feature_data = [
         "id": "bosses_5_11",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_11",
-          "link": "/checklists/bosses.html#item_5_11",
+          "link": "checklists/bosses.html#item_5_11",
           "title": "\u7c73\u8389\u68ee (NPC\u5165\u4fb5)"
         },
         "type": "Feature"
@@ -1836,10 +1836,10 @@ const feature_data = [
         "id": "bosses_5_12",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_12",
-          "link": "/checklists/bosses.html#item_5_12",
+          "link": "checklists/bosses.html#item_5_12",
           "title": "<b>\u8bfa\u514b\u65af\u4fee\u58eb</b> & <b>\u8bfa\u514b\u65af\u5251\u58eb</b>"
         },
         "type": "Feature"
@@ -1855,10 +1855,10 @@ const feature_data = [
         "id": "bosses_5_13",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_13",
-          "link": "/checklists/bosses.html#item_5_13",
+          "link": "checklists/bosses.html#item_5_13",
           "title": "<b>\u5760\u661f\u517d\u7269</b>"
         },
         "type": "Feature"
@@ -1874,10 +1874,10 @@ const feature_data = [
         "id": "bosses_5_14",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_14",
-          "link": "/checklists/bosses.html#item_5_14",
+          "link": "checklists/bosses.html#item_5_14",
           "title": "<b>\u739b\u83b2\u59ae\u4e9a\u7684\u5c0a\u8150\u9a91\u58eb\uff08\u9570\u5200\uff09</b> & <b>\u739b\u83b2\u59ae\u4e9a\u7684\u5c0a\u8150\u9a91\u58eb\uff08\u77db\uff09</b>"
         },
         "type": "Feature"
@@ -1893,10 +1893,10 @@ const feature_data = [
         "id": "bosses_5_15",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_15",
-          "link": "/checklists/bosses.html#item_5_15",
+          "link": "checklists/bosses.html#item_5_15",
           "title": "<b>\u6218\u573a\u9b54\u6cd5\u5e08\u72b9\u683c</b>"
         },
         "type": "Feature"
@@ -1912,10 +1912,10 @@ const feature_data = [
         "id": "bosses_5_16",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_16",
-          "link": "/checklists/bosses.html#item_5_16",
+          "link": "checklists/bosses.html#item_5_16",
           "title": "\u8001\u9f99\u6842\u5965\u5c14"
         },
         "type": "Feature"
@@ -1931,10 +1931,10 @@ const feature_data = [
         "id": "bosses_5_17",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_17",
-          "link": "/checklists/bosses.html#item_5_17",
+          "link": "checklists/bosses.html#item_5_17",
           "title": "\u8150\u8d25\u7ed3\u6676\u4eba (\u5706\u5203\u5200,\u77db,\u624b\u6756)"
         },
         "type": "Feature"
@@ -1950,10 +1950,10 @@ const feature_data = [
         "id": "bosses_5_18",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_18",
-          "link": "/checklists/bosses.html#item_5_18",
+          "link": "checklists/bosses.html#item_5_18",
           "title": "<b>\u795e\u76ae\u4f7f\u5f92</b>"
         },
         "type": "Feature"
@@ -1969,10 +1969,10 @@ const feature_data = [
         "id": "bosses_5_20",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_20",
-          "link": "/checklists/bosses.html#item_5_20",
+          "link": "checklists/bosses.html#item_5_20",
           "title": "<b>\u8150\u8d25\u5316\u8eab</b>"
         },
         "type": "Feature"
@@ -1988,10 +1988,10 @@ const feature_data = [
         "id": "bosses_5_19",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_19",
-          "link": "/checklists/bosses.html#item_5_19",
+          "link": "checklists/bosses.html#item_5_19",
           "title": "\u94c3\u73e0\u730e\u4eba (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -2007,10 +2007,10 @@ const feature_data = [
         "id": "bosses_5_21",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_21",
-          "link": "/checklists/bosses.html#item_5_21",
+          "link": "checklists/bosses.html#item_5_21",
           "title": "\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9\u7684\u517d\u4eba (\u5927\u5200,\u6295\u63b7\u5200)"
         },
         "type": "Feature"
@@ -2026,10 +2026,10 @@ const feature_data = [
         "id": "bosses_5_23",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_23",
-          "link": "/checklists/bosses.html#item_5_23",
+          "link": "checklists/bosses.html#item_5_23",
           "title": "<b>\u201c\u98de\u9f99\u201d\u6842\u96f7\u5c14</b>"
         },
         "type": "Feature"
@@ -2045,10 +2045,10 @@ const feature_data = [
         "id": "bosses_5_24",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_24",
-          "link": "/checklists/bosses.html#item_5_24",
+          "link": "checklists/bosses.html#item_5_24",
           "title": "<b>\u9ed1\u5251\u7737\u5c5e</b>"
         },
         "type": "Feature"
@@ -2064,10 +2064,10 @@ const feature_data = [
         "id": "bosses_5_25",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_25",
-          "link": "/checklists/bosses.html#item_5_25",
+          "link": "checklists/bosses.html#item_5_25",
           "title": "<b>\u201c\u91ce\u517d\u796d\u53f8\u201d\u53e4\u5170\u683c</b>"
         },
         "type": "Feature"
@@ -2083,10 +2083,10 @@ const feature_data = [
         "id": "bosses_5_22",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_22",
-          "link": "/checklists/bosses.html#item_5_22",
+          "link": "checklists/bosses.html#item_5_22",
           "title": "\u9ed1\u591c\u9a91\u5175 (\u4ec5\u591c\u95f4)"
         },
         "type": "Feature"
@@ -2102,10 +2102,10 @@ const feature_data = [
         "id": "bosses_5_26",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_26",
-          "link": "/checklists/bosses.html#item_5_26",
+          "link": "checklists/bosses.html#item_5_26",
           "title": "<b>\u6df7\u79cd\u6218\u58eb</b> & <b>\u7194\u7089\u9a91\u58eb</b>"
         },
         "type": "Feature"
@@ -2121,10 +2121,10 @@ const feature_data = [
         "id": "bosses_5_27",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/shadows/tools/remembrances/00164.png",
+          "icon": "map/icons/shadows/tools/remembrances/00164.png",
           "icon_size": 35,
           "id": "bosses_5_27",
-          "link": "/checklists/bosses.html#item_5_27",
+          "link": "checklists/bosses.html#item_5_27",
           "title": "<b>\u201c\u788e\u661f\u201d\u62c9\u5854\u6069</b>"
         },
         "type": "Feature"
@@ -2140,10 +2140,10 @@ const feature_data = [
         "id": "bosses_5_29",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_5_29",
-          "link": "/checklists/bosses.html#item_5_29",
+          "link": "checklists/bosses.html#item_5_29",
           "title": "<b>\u8150\u8d25\u6811\u7075</b>"
         },
         "type": "Feature"
@@ -2159,10 +2159,10 @@ const feature_data = [
         "id": "bosses_6_4",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_6_4",
-          "link": "/checklists/bosses.html#item_6_4",
+          "link": "checklists/bosses.html#item_6_4",
           "title": "\u201c\u7eaf\u7d2b\u8840\u6307\u201d\u827e\u7409\u8bfa\u62c9 (NPC\u5165\u4fb5)"
         },
         "type": "Feature"
@@ -2178,10 +2178,10 @@ const feature_data = [
         "id": "bosses_6_7",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_6_7",
-          "link": "/checklists/bosses.html#item_6_7",
+          "link": "checklists/bosses.html#item_6_7",
           "title": "<b>\u86af\u8693\u8138</b>"
         },
         "type": "Feature"
@@ -2197,10 +2197,10 @@ const feature_data = [
         "id": "bosses_7_3",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_7_3",
-          "link": "/checklists/bosses.html#item_7_3",
+          "link": "checklists/bosses.html#item_7_3",
           "title": "<b>\u63d0\u6bd4\u4e9a\u7684\u5524\u58f0\u8239</b>"
         },
         "type": "Feature"
@@ -2216,10 +2216,10 @@ const feature_data = [
         "id": "bosses_7_12",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_7_12",
-          "link": "/checklists/bosses.html#item_7_12",
+          "link": "checklists/bosses.html#item_7_12",
           "title": "<b>\u8150\u70c2\u6811\u7075</b>"
         },
         "type": "Feature"
@@ -2235,10 +2235,10 @@ const feature_data = [
         "id": "bosses_7_14",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_7_14",
-          "link": "/checklists/bosses.html#item_7_14",
+          "link": "checklists/bosses.html#item_7_14",
           "title": "<b>\u82f1\u96c4\u7684\u7ea2\u72fc</b>"
         },
         "type": "Feature"
@@ -2254,10 +2254,10 @@ const feature_data = [
         "id": "bosses_7_18",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_7_18",
-          "link": "/checklists/bosses.html#item_7_18",
+          "link": "checklists/bosses.html#item_7_18",
           "title": "<b>\u7194\u5ca9\u571f\u9f99</b>"
         },
         "type": "Feature"
@@ -2273,10 +2273,10 @@ const feature_data = [
         "id": "bosses_7_22",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_7_22",
-          "link": "/checklists/bosses.html#item_7_22",
+          "link": "checklists/bosses.html#item_7_22",
           "title": "<b>\u7194\u5ca9\u571f\u9f99</b>"
         },
         "type": "Feature"
@@ -2292,10 +2292,10 @@ const feature_data = [
         "id": "bosses_7_26",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/shadows/tools/remembrances/00166.png",
+          "icon": "map/icons/shadows/tools/remembrances/00166.png",
           "icon_size": 35,
           "id": "bosses_7_26",
-          "link": "/checklists/bosses.html#item_7_26",
+          "link": "checklists/bosses.html#item_7_26",
           "title": "<b>\u201c\u4eb5\u6e0e\u541b\u738b\u201d\u62c9\u5361\u5fb7</b>"
         },
         "type": "Feature"
@@ -2311,10 +2311,10 @@ const feature_data = [
         "id": "bosses_8_1",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_8_1",
-          "link": "/checklists/bosses.html#item_8_1",
+          "link": "checklists/bosses.html#item_8_1",
           "title": "<b>\u8150\u70c2\u6811\u7075</b>"
         },
         "type": "Feature"
@@ -2330,10 +2330,10 @@ const feature_data = [
         "id": "bosses_8_11",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_8_11",
-          "link": "/checklists/bosses.html#item_8_11",
+          "link": "checklists/bosses.html#item_8_11",
           "title": "<b>\u8150\u70c2\u6811\u7075</b>"
         },
         "type": "Feature"
@@ -2349,10 +2349,10 @@ const feature_data = [
         "id": "bosses_8_18",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/shadows/tools/remembrances/00165.png",
+          "icon": "map/icons/shadows/tools/remembrances/00165.png",
           "icon_size": 35,
           "id": "bosses_8_18",
-          "link": "/checklists/bosses.html#item_8_18",
+          "link": "checklists/bosses.html#item_8_18",
           "title": "<b>\u201c\u6076\u5146\u738b\u201d\u8499\u845b\u7279</b>"
         },
         "type": "Feature"
@@ -2368,10 +2368,10 @@ const feature_data = [
         "id": "bosses_9_4",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_9_4",
-          "link": "/checklists/bosses.html#item_9_4",
+          "link": "checklists/bosses.html#item_9_4",
           "title": "<b>\u8150\u70c2\u6811\u7075</b>"
         },
         "type": "Feature"
@@ -2387,10 +2387,10 @@ const feature_data = [
         "id": "bosses_9_5",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_9_5",
-          "link": "/checklists/bosses.html#item_9_5",
+          "link": "checklists/bosses.html#item_9_5",
           "title": "<b>\u9ec4\u91d1\u6811\u7684\u5316\u8eab</b>"
         },
         "type": "Feature"
@@ -2406,10 +2406,10 @@ const feature_data = [
         "id": "bosses_9_8",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_9_8",
-          "link": "/checklists/bosses.html#item_9_8",
+          "link": "checklists/bosses.html#item_9_8",
           "title": "<b>\u63d0\u6bd4\u4e9a\u7684\u5524\u58f0\u8239</b>"
         },
         "type": "Feature"
@@ -2425,10 +2425,10 @@ const feature_data = [
         "id": "bosses_9_11",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_9_11",
-          "link": "/checklists/bosses.html#item_9_11",
+          "link": "checklists/bosses.html#item_9_11",
           "title": "<b>\u201c\u51bb\u7ed3\u51b0\u96fe\u201d\u73bb\u5217\u7409\u65af</b>"
         },
         "type": "Feature"
@@ -2444,10 +2444,10 @@ const feature_data = [
         "id": "bosses_9_15",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/shadows/tools/remembrances/00174.png",
+          "icon": "map/icons/shadows/tools/remembrances/00174.png",
           "icon_size": 35,
           "id": "bosses_9_15",
-          "link": "/checklists/bosses.html#item_9_15",
+          "link": "checklists/bosses.html#item_9_15",
           "title": "<b>\u706b\u7130\u5de8\u4eba</b>"
         },
         "type": "Feature"
@@ -2463,10 +2463,10 @@ const feature_data = [
         "id": "bosses_10_13",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_10_13",
-          "link": "/checklists/bosses.html#item_10_13",
+          "link": "checklists/bosses.html#item_10_13",
           "title": "<b>\u79bb\u7fa4\u4eff\u8eab\u6cea\u6ef4</b>"
         },
         "type": "Feature"
@@ -2482,10 +2482,10 @@ const feature_data = [
         "id": "bosses_10_5",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_10_5",
-          "link": "/checklists/bosses.html#item_10_5",
+          "link": "checklists/bosses.html#item_10_5",
           "title": "<b>\u201c\u5927\u571f\u9f99\u201d\u5e2d\u6b27\u6735\u5229\u514b</b>"
         },
         "type": "Feature"
@@ -2501,10 +2501,10 @@ const feature_data = [
         "id": "bosses_10_7",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_10_7",
-          "link": "/checklists/bosses.html#item_10_7",
+          "link": "checklists/bosses.html#item_10_7",
           "title": "<b>\u8150\u8d25\u5316\u8eab</b>"
         },
         "type": "Feature"
@@ -2520,10 +2520,10 @@ const feature_data = [
         "id": "bosses_10_11",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/shadows/tools/remembrances/00167.png",
+          "icon": "map/icons/shadows/tools/remembrances/00167.png",
           "icon_size": 35,
           "id": "bosses_10_11",
-          "link": "/checklists/bosses.html#item_10_11",
+          "link": "checklists/bosses.html#item_10_11",
           "title": "<b>\u201c\u7c73\u51ef\u62c9\u7684\u950b\u5203\u201d\u739b\u83b2\u59ae\u4e9a</b>"
         },
         "type": "Feature"
@@ -2539,10 +2539,10 @@ const feature_data = [
         "id": "bosses_14_2",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/shadows/tools/remembrances/00175.png",
+          "icon": "map/icons/shadows/tools/remembrances/00175.png",
           "icon_size": 35,
           "id": "bosses_14_2",
-          "link": "/checklists/bosses.html#item_14_2",
+          "link": "checklists/bosses.html#item_14_2",
           "title": "<b>\u7956\u7075\u4e4b\u738b</b>"
         },
         "type": "Feature"
@@ -2558,10 +2558,10 @@ const feature_data = [
         "id": "bosses_15_3",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/shadows/tools/remembrances/00168.png",
+          "icon": "map/icons/shadows/tools/remembrances/00168.png",
           "icon_size": 35,
           "id": "bosses_15_3",
-          "link": "/checklists/bosses.html#item_15_3",
+          "link": "checklists/bosses.html#item_15_3",
           "title": "<b>\u201c\u9c9c\u8840\u541b\u738b\u201d\u8499\u683c</b>"
         },
         "type": "Feature"
@@ -2577,10 +2577,10 @@ const feature_data = [
         "id": "bosses_17_3",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_17_3",
-          "link": "/checklists/bosses.html#item_17_3",
+          "link": "checklists/bosses.html#item_17_3",
           "title": "\u5c0f<b>\u8150\u8d25\u6811\u7075</b>"
         },
         "type": "Feature"
@@ -2596,10 +2596,10 @@ const feature_data = [
         "id": "bosses_17_2",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/shadows/tools/remembrances/00177.png",
+          "icon": "map/icons/shadows/tools/remembrances/00177.png",
           "icon_size": 35,
           "id": "bosses_17_2",
-          "link": "/checklists/bosses.html#item_17_2",
+          "link": "checklists/bosses.html#item_17_2",
           "title": "<b>\u201c\u9ed1\u6697\u5f03\u5b50\u201d\u827e\u4e1d\u7f07</b>"
         },
         "type": "Feature"
@@ -2615,10 +2615,10 @@ const feature_data = [
         "id": "bosses_18_3",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon": "map/icons/MENU_MAP_memo_20.png",
           "icon_size": 35,
           "id": "bosses_18_3",
-          "link": "/checklists/bosses.html#item_18_3",
+          "link": "checklists/bosses.html#item_18_3",
           "title": "<b>\u83f2\u96c5\u7684\u82f1\u96c4</b>"
         },
         "type": "Feature"
@@ -2634,10 +2634,10 @@ const feature_data = [
         "id": "bosses_18_4",
         "properties": {
           "group": "bosses",
-          "icon": "/map/icons/shadows/tools/remembrances/00173.png",
+          "icon": "map/icons/shadows/tools/remembrances/00173.png",
           "icon_size": 35,
           "id": "bosses_18_4",
-          "link": "/checklists/bosses.html#item_18_4",
+          "link": "checklists/bosses.html#item_18_4",
           "title": "<b>\u201c\u6b7b\u9f99\u201d\u5f17\u5c14\u6851\u514b\u65af</b>"
         },
         "type": "Feature"
@@ -2659,10 +2659,10 @@ const feature_data = [
         "id": "caves_1_1",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_1_1",
-          "link": "/checklists/caves.html#item_1_1",
+          "link": "checklists/caves.html#item_1_1",
           "title": "<b>\u6f02\u6d41\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -2678,10 +2678,10 @@ const feature_data = [
         "id": "caves_1_5",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_1_5",
-          "link": "/checklists/caves.html#item_1_5",
+          "link": "checklists/caves.html#item_1_5",
           "title": "<b>\u8fd1\u6797\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -2697,10 +2697,10 @@ const feature_data = [
         "id": "caves_1_3",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_1_3",
-          "link": "/checklists/caves.html#item_1_3",
+          "link": "checklists/caves.html#item_1_3",
           "title": "<b>\u6d77\u5cb8\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -2716,10 +2716,10 @@ const feature_data = [
         "id": "caves_1_9",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_1_9",
-          "link": "/checklists/caves.html#item_1_9",
+          "link": "checklists/caves.html#item_1_9",
           "title": "<b>\u8499\u6d41\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -2735,10 +2735,10 @@ const feature_data = [
         "id": "caves_1_6",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_1_6",
-          "link": "/checklists/caves.html#item_1_6",
+          "link": "checklists/caves.html#item_1_6",
           "title": "<b>\u5927\u9053\u4e0b\u7684\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -2754,10 +2754,10 @@ const feature_data = [
         "id": "caves_1_4",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_1_4",
-          "link": "/checklists/caves.html#item_1_4",
+          "link": "checklists/caves.html#item_1_4",
           "title": "<b>\u6b7b\u4ea1\u964d\u4e34\u7684\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -2773,10 +2773,10 @@ const feature_data = [
         "id": "caves_1_10",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_1_10",
-          "link": "/checklists/caves.html#item_1_10",
+          "link": "checklists/caves.html#item_1_10",
           "title": "<b>\u98ce\u66b4\u6839\u811a\u7684\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -2792,10 +2792,10 @@ const feature_data = [
         "id": "caves_1_8",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_1_8",
-          "link": "/checklists/caves.html#item_1_8",
+          "link": "checklists/caves.html#item_1_8",
           "title": "<b>\u8499\u6d41\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -2811,10 +2811,10 @@ const feature_data = [
         "id": "caves_1_7",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_14.png",
+          "icon": "map/icons/MENU_MAP_14.png",
           "icon_size": 35,
           "id": "caves_1_7",
-          "link": "/checklists/caves.html#item_1_7",
+          "link": "checklists/caves.html#item_1_7",
           "title": "<b>\u5b81\u59c6\u683c\u798f\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -2830,10 +2830,10 @@ const feature_data = [
         "id": "caves_1_2",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_16.png",
+          "icon": "map/icons/edited/MENU_MAP_16.png",
           "icon_size": 35,
           "id": "caves_1_2",
-          "link": "/checklists/caves.html#item_1_2",
+          "link": "checklists/caves.html#item_1_2",
           "title": "<b>\u8fb9\u5883\u82f1\u96c4\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -2849,10 +2849,10 @@ const feature_data = [
         "id": "caves_e1",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_09.png",
+          "icon": "map/icons/edited/MENU_MAP_09.png",
           "icon_size": 35,
           "id": "caves_e1",
-          "link": "/checklists/caves.html#item_e1",
+          "link": "checklists/caves.html#item_e1",
           "title": "<b>\u65e0\u4e3b\u730e\u72ac\u7684\u5c01\u5370\u76d1\u7262</b>"
         },
         "type": "Feature"
@@ -2868,10 +2868,10 @@ const feature_data = [
         "id": "caves_e2",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_09.png",
+          "icon": "map/icons/edited/MENU_MAP_09.png",
           "icon_size": 35,
           "id": "caves_e2",
-          "link": "/checklists/caves.html#item_e2",
+          "link": "checklists/caves.html#item_e2",
           "title": "<b>\u98ce\u66b4\u5c71\u4e18\u7684\u5c01\u5370\u76d1\u7262</b>"
         },
         "type": "Feature"
@@ -2887,10 +2887,10 @@ const feature_data = [
         "id": "caves_l1",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_30.png",
+          "icon": "map/icons/MENU_MAP_30.png",
           "icon_size": 45,
           "id": "caves_l1",
-          "link": "/checklists/caves.html#item_l1",
+          "link": "checklists/caves.html#item_l1",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811</b>"
         },
         "type": "Feature"
@@ -2906,10 +2906,10 @@ const feature_data = [
         "id": "caves_l2",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_23.png",
+          "icon": "map/icons/MENU_MAP_23.png",
           "icon_size": 45,
           "id": "caves_l2",
-          "link": "/checklists/caves.html#item_l2",
+          "link": "checklists/caves.html#item_l2",
           "title": "<b>\u5b81\u59c6\u683c\u798f\u795e\u6388\u5854</b>"
         },
         "type": "Feature"
@@ -2925,10 +2925,10 @@ const feature_data = [
         "id": "caves_l3",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l3",
-          "link": "/checklists/caves.html#item_l3",
+          "link": "checklists/caves.html#item_l3",
           "title": "<b>\u9f99\u606f\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -2944,10 +2944,10 @@ const feature_data = [
         "id": "caves_l4",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l4",
-          "link": "/checklists/caves.html#item_l4",
+          "link": "checklists/caves.html#item_l4",
           "title": "<b>\u5173\u5361\u524d\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -2963,10 +2963,10 @@ const feature_data = [
         "id": "caves_l5",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l5",
-          "link": "/checklists/caves.html#item_l5",
+          "link": "checklists/caves.html#item_l5",
           "title": "<b>\u96fe\u6797\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -2982,10 +2982,10 @@ const feature_data = [
         "id": "caves_l6",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l6",
-          "link": "/checklists/caves.html#item_l6",
+          "link": "checklists/caves.html#item_l6",
           "title": "<b>\u9a7f\u7ad9\u8857\u9057\u8ff9</b>"
         },
         "type": "Feature"
@@ -3001,10 +3001,10 @@ const feature_data = [
         "id": "caves_l7",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l7",
-          "link": "/checklists/caves.html#item_l7",
+          "link": "checklists/caves.html#item_l7",
           "title": "<b>\u6c34\u5524\u6751</b>"
         },
         "type": "Feature"
@@ -3020,10 +3020,10 @@ const feature_data = [
         "id": "caves_l8",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l8",
-          "link": "/checklists/caves.html#item_l8",
+          "link": "checklists/caves.html#item_l8",
           "title": "<b>\u98ce\u66b4\u5c71\u4e18\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -3039,10 +3039,10 @@ const feature_data = [
         "id": "caves_l9",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l9",
-          "link": "/checklists/caves.html#item_l9",
+          "link": "checklists/caves.html#item_l9",
           "title": "<b>\u4e60\u6218\u8005\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -3058,10 +3058,10 @@ const feature_data = [
         "id": "caves_l10",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l10",
-          "link": "/checklists/caves.html#item_l10",
+          "link": "checklists/caves.html#item_l10",
           "title": "<b>\u753b\u5bb6\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -3077,10 +3077,10 @@ const feature_data = [
         "id": "caves_l11",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l11",
-          "link": "/checklists/caves.html#item_l11",
+          "link": "checklists/caves.html#item_l11",
           "title": "<b>\u827e\u96f7\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -3096,10 +3096,10 @@ const feature_data = [
         "id": "caves_l12",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l12",
-          "link": "/checklists/caves.html#item_l12",
+          "link": "checklists/caves.html#item_l12",
           "title": "<b>\u9f99\u98e8\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -3115,10 +3115,10 @@ const feature_data = [
         "id": "caves_l13",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l13",
-          "link": "/checklists/caves.html#item_l13",
+          "link": "checklists/caves.html#item_l13",
           "title": "<b>\u739b\u8389\u5361\u7b2c\u4e09\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -3134,10 +3134,10 @@ const feature_data = [
         "id": "caves_l14",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_10.png",
+          "icon": "map/icons/MENU_MAP_10.png",
           "icon_size": 35,
           "id": "caves_l14",
-          "link": "/checklists/caves.html#item_l14",
+          "link": "checklists/caves.html#item_l14",
           "title": "<b>\u98ce\u66b4\u5173\u5361</b>"
         },
         "type": "Feature"
@@ -3153,10 +3153,10 @@ const feature_data = [
         "id": "caves_l15",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Ungro.png",
+          "icon": "map/icons/MENU_MAP_Ungro.png",
           "icon_size": 35,
           "id": "caves_l15",
-          "link": "/checklists/caves.html#item_l15",
+          "link": "checklists/caves.html#item_l15",
           "title": "<b>\u5e0c\u8299\u62c9\u6cb3\u7684\u5165\u53e3\u4e95</b>"
         },
         "type": "Feature"
@@ -3172,10 +3172,10 @@ const feature_data = [
         "id": "caves_l16",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_18.png",
+          "icon": "map/icons/MENU_MAP_18.png",
           "icon_size": 40,
           "id": "caves_l16",
-          "link": "/checklists/caves.html#item_l16",
+          "link": "checklists/caves.html#item_l16",
           "title": "<b>\u6d77\u5fb7\u8981\u585e</b>"
         },
         "type": "Feature"
@@ -3191,10 +3191,10 @@ const feature_data = [
         "id": "caves_ld1",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_50.png",
+          "icon": "map/icons/MENU_MAP_50.png",
           "icon_size": 45,
           "id": "caves_ld1",
-          "link": "/checklists/caves.html#item_ld1",
+          "link": "checklists/caves.html#item_ld1",
           "title": "<b>\u53f2\u4e1c\u8587\u5c14\u57ce</b>"
         },
         "type": "Feature"
@@ -3210,10 +3210,10 @@ const feature_data = [
         "id": "caves_0_1",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_0_1",
-          "link": "/checklists/caves.html#item_0_1",
+          "link": "checklists/caves.html#item_0_1",
           "title": "<b>\u5782\u7a74\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -3229,10 +3229,10 @@ const feature_data = [
         "id": "caves_0_5",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_0_5",
-          "link": "/checklists/caves.html#item_0_5",
+          "link": "checklists/caves.html#item_0_5",
           "title": "<b>\u7075\u5e99\u539f\u91ce\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -3248,10 +3248,10 @@ const feature_data = [
         "id": "caves_0_2",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_0_2",
-          "link": "/checklists/caves.html#item_0_2",
+          "link": "checklists/caves.html#item_0_2",
           "title": "<b>\u7a7f\u523a\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -3267,10 +3267,10 @@ const feature_data = [
         "id": "caves_0_4",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_0_4",
-          "link": "/checklists/caves.html#item_0_4",
+          "link": "checklists/caves.html#item_0_4",
           "title": "<b>\u7075\u5e99\u539f\u91ce\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -3286,10 +3286,10 @@ const feature_data = [
         "id": "caves_0_3",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_14.png",
+          "icon": "map/icons/MENU_MAP_14.png",
           "icon_size": 35,
           "id": "caves_0_3",
-          "link": "/checklists/caves.html#item_0_3",
+          "link": "checklists/caves.html#item_0_3",
           "title": "<b>\u6469\u6069\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -3305,10 +3305,10 @@ const feature_data = [
         "id": "caves_e3",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_09.png",
+          "icon": "map/icons/edited/MENU_MAP_09.png",
           "icon_size": 35,
           "id": "caves_e3",
-          "link": "/checklists/caves.html#item_e3",
+          "link": "checklists/caves.html#item_e3",
           "title": "<b>\u555c\u6ce3\u7684\u5c01\u5370\u76d1\u7262</b>"
         },
         "type": "Feature"
@@ -3324,10 +3324,10 @@ const feature_data = [
         "id": "caves_l17",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_30.png",
+          "icon": "map/icons/MENU_MAP_30.png",
           "icon_size": 45,
           "id": "caves_l17",
-          "link": "/checklists/caves.html#item_l17",
+          "link": "checklists/caves.html#item_l17",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811</b>"
         },
         "type": "Feature"
@@ -3343,10 +3343,10 @@ const feature_data = [
         "id": "caves_l18",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_17.png",
+          "icon": "map/icons/MENU_MAP_17.png",
           "icon_size": 45,
           "id": "caves_l18",
-          "link": "/checklists/caves.html#item_l18",
+          "link": "checklists/caves.html#item_l18",
           "title": "<b>\u5965\u5229\u7f07\u65af\u9b54\u6cd5\u5e08\u5854</b>"
         },
         "type": "Feature"
@@ -3362,10 +3362,10 @@ const feature_data = [
         "id": "caves_l19",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l19",
-          "link": "/checklists/caves.html#item_l19",
+          "link": "checklists/caves.html#item_l19",
           "title": "<b>\u4e9a\u4eba\u68ee\u6797\u7684\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -3381,10 +3381,10 @@ const feature_data = [
         "id": "caves_l20",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l20",
-          "link": "/checklists/caves.html#item_l20",
+          "link": "checklists/caves.html#item_l20",
           "title": "<b>\u7075\u5e99\u539f\u91ce\u7684\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -3400,10 +3400,10 @@ const feature_data = [
         "id": "caves_l21",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l21",
-          "link": "/checklists/caves.html#item_l21",
+          "link": "checklists/caves.html#item_l21",
           "title": "<b>\u5c01\u5370\u9b54\u5973\u7684\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -3419,10 +3419,10 @@ const feature_data = [
         "id": "caves_l22",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l22",
-          "link": "/checklists/caves.html#item_l22",
+          "link": "checklists/caves.html#item_l22",
           "title": "<b>\u9690\u5c45\u5546\u4eba\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -3438,10 +3438,10 @@ const feature_data = [
         "id": "caves_l23",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l23",
-          "link": "/checklists/caves.html#item_l23",
+          "link": "checklists/caves.html#item_l23",
           "title": "<b>\u5de1\u793c\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -3457,10 +3457,10 @@ const feature_data = [
         "id": "caves_l24",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l24",
-          "link": "/checklists/caves.html#item_l24",
+          "link": "checklists/caves.html#item_l24",
           "title": "<b>\u5361\u5c14\u6d17\u793c\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -3476,10 +3476,10 @@ const feature_data = [
         "id": "caves_l25",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l25",
-          "link": "/checklists/caves.html#item_l25",
+          "link": "checklists/caves.html#item_l25",
           "title": "<b>\u739b\u8389\u5361\u7b2c\u56db\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -3495,10 +3495,10 @@ const feature_data = [
         "id": "caves_l26",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_11.png",
+          "icon": "map/icons/MENU_MAP_11.png",
           "icon_size": 35,
           "id": "caves_l26",
-          "link": "/checklists/caves.html#item_l26",
+          "link": "checklists/caves.html#item_l26",
           "title": "<b>\u732e\u796d\u5927\u6865</b>"
         },
         "type": "Feature"
@@ -3514,10 +3514,10 @@ const feature_data = [
         "id": "caves_l27",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_37.png",
+          "icon": "map/icons/MENU_MAP_37.png",
           "icon_size": 35,
           "id": "caves_l27",
-          "link": "/checklists/caves.html#item_l27",
+          "link": "checklists/caves.html#item_l27",
           "title": "<b>\u75c5\u6751</b>"
         },
         "type": "Feature"
@@ -3533,10 +3533,10 @@ const feature_data = [
         "id": "caves_l28",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_08.png",
+          "icon": "map/icons/MENU_MAP_08.png",
           "icon_size": 35,
           "id": "caves_l28",
-          "link": "/checklists/caves.html#item_l28",
+          "link": "checklists/caves.html#item_l28",
           "title": "<b>\u68ee\u6797\u76d1\u89c6\u5854</b>"
         },
         "type": "Feature"
@@ -3552,10 +3552,10 @@ const feature_data = [
         "id": "caves_l29",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_08.png",
+          "icon": "map/icons/MENU_MAP_08.png",
           "icon_size": 35,
           "id": "caves_l29",
-          "link": "/checklists/caves.html#item_l29",
+          "link": "checklists/caves.html#item_l29",
           "title": "<b>\u5f52\u8fd8\u5854</b>"
         },
         "type": "Feature"
@@ -3571,10 +3571,10 @@ const feature_data = [
         "id": "caves_ld2",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_25.png",
+          "icon": "map/icons/MENU_MAP_25.png",
           "icon_size": 45,
           "id": "caves_ld2",
-          "link": "/checklists/caves.html#item_ld2",
+          "link": "checklists/caves.html#item_ld2",
           "title": "<b>\u6469\u6069\u57ce</b>"
         },
         "type": "Feature"
@@ -3590,10 +3590,10 @@ const feature_data = [
         "id": "caves_2_1",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_2_1",
-          "link": "/checklists/caves.html#item_2_1",
+          "link": "checklists/caves.html#item_2_1",
           "title": "<b>\u5b66\u9662\u7ed3\u6676\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -3609,10 +3609,10 @@ const feature_data = [
         "id": "caves_2_4",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_2_4",
-          "link": "/checklists/caves.html#item_2_4",
+          "link": "checklists/caves.html#item_2_4",
           "title": "<b>\u6e56\u65c1\u7ed3\u6676\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -3628,10 +3628,10 @@ const feature_data = [
         "id": "caves_2_8",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_2_8",
-          "link": "/checklists/caves.html#item_2_8",
+          "link": "checklists/caves.html#item_2_8",
           "title": "<b>\u7559\u6c34\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -3647,10 +3647,10 @@ const feature_data = [
         "id": "caves_2_2",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_2_2",
-          "link": "/checklists/caves.html#item_2_2",
+          "link": "checklists/caves.html#item_2_2",
           "title": "<b>\u9ed1\u5200\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -3666,10 +3666,10 @@ const feature_data = [
         "id": "caves_2_3",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_2_3",
-          "link": "/checklists/caves.html#item_2_3",
+          "link": "checklists/caves.html#item_2_3",
           "title": "<b>\u65ad\u5d16\u4e0b\u7684\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -3685,10 +3685,10 @@ const feature_data = [
         "id": "caves_2_6",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_2_6",
-          "link": "/checklists/caves.html#item_2_6",
+          "link": "checklists/caves.html#item_2_6",
           "title": "<b>\u7edd\u8def\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -3704,10 +3704,10 @@ const feature_data = [
         "id": "caves_2_5",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_14.png",
+          "icon": "map/icons/MENU_MAP_14.png",
           "icon_size": 35,
           "id": "caves_2_5",
-          "link": "/checklists/caves.html#item_2_5",
+          "link": "checklists/caves.html#item_2_5",
           "title": "<b>\u96f7\u4e9a\u5362\u5361\u5229\u4e9a\u7ed3\u6676\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -3723,10 +3723,10 @@ const feature_data = [
         "id": "caves_e4",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_09.png",
+          "icon": "map/icons/edited/MENU_MAP_09.png",
           "icon_size": 35,
           "id": "caves_e4",
-          "link": "/checklists/caves.html#item_e4",
+          "link": "checklists/caves.html#item_e4",
           "title": "<b>\u5c0f\u5077\u7684\u5c01\u5370\u76d1\u7262</b>"
         },
         "type": "Feature"
@@ -3742,10 +3742,10 @@ const feature_data = [
         "id": "caves_e5",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_09.png",
+          "icon": "map/icons/edited/MENU_MAP_09.png",
           "icon_size": 35,
           "id": "caves_e5",
-          "link": "/checklists/caves.html#item_e5",
+          "link": "checklists/caves.html#item_e5",
           "title": "<b>\u675c\u9e43\u7684\u5c01\u5370\u76d1\u7262</b>"
         },
         "type": "Feature"
@@ -3761,10 +3761,10 @@ const feature_data = [
         "id": "caves_e6",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_09.png",
+          "icon": "map/icons/edited/MENU_MAP_09.png",
           "icon_size": 35,
           "id": "caves_e6",
-          "link": "/checklists/caves.html#item_e6",
+          "link": "checklists/caves.html#item_e6",
           "title": "<b>\u738b\u5ba4\u5893\u5730\u7684\u5c01\u5370\u76d1\u7262</b>"
         },
         "type": "Feature"
@@ -3780,10 +3780,10 @@ const feature_data = [
         "id": "caves_e7",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_09.png",
+          "icon": "map/icons/edited/MENU_MAP_09.png",
           "icon_size": 35,
           "id": "caves_e7",
-          "link": "/checklists/caves.html#item_e7",
+          "link": "checklists/caves.html#item_e7",
           "title": "<b>\u5200\u4e4b\u9996\u7684\u5c01\u5370\u76d1\u7262</b>"
         },
         "type": "Feature"
@@ -3799,10 +3799,10 @@ const feature_data = [
         "id": "caves_l30",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_30.png",
+          "icon": "map/icons/MENU_MAP_30.png",
           "icon_size": 45,
           "id": "caves_l30",
-          "link": "/checklists/caves.html#item_l30",
+          "link": "checklists/caves.html#item_l30",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811</b> (\u897f\u5357)"
         },
         "type": "Feature"
@@ -3818,10 +3818,10 @@ const feature_data = [
         "id": "caves_l31",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_30.png",
+          "icon": "map/icons/MENU_MAP_30.png",
           "icon_size": 45,
           "id": "caves_l31",
-          "link": "/checklists/caves.html#item_l31",
+          "link": "checklists/caves.html#item_l31",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811</b> (\u4e1c\u5317)"
         },
         "type": "Feature"
@@ -3837,10 +3837,10 @@ const feature_data = [
         "id": "caves_l32",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_23.png",
+          "icon": "map/icons/MENU_MAP_23.png",
           "icon_size": 45,
           "id": "caves_l32",
-          "link": "/checklists/caves.html#item_l32",
+          "link": "checklists/caves.html#item_l32",
           "title": "<b>\u5229\u8036\u5c3c\u4e9a\u795e\u6388\u5854</b>"
         },
         "type": "Feature"
@@ -3856,10 +3856,10 @@ const feature_data = [
         "id": "caves_l33",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_17.png",
+          "icon": "map/icons/MENU_MAP_17.png",
           "icon_size": 45,
           "id": "caves_l33",
-          "link": "/checklists/caves.html#item_l33",
+          "link": "checklists/caves.html#item_l33",
           "title": "<b>\u6539\u5b97\u5854</b>"
         },
         "type": "Feature"
@@ -3875,10 +3875,10 @@ const feature_data = [
         "id": "caves_l34",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_17.png",
+          "icon": "map/icons/MENU_MAP_17.png",
           "icon_size": 45,
           "id": "caves_l34",
-          "link": "/checklists/caves.html#item_l34",
+          "link": "checklists/caves.html#item_l34",
           "title": "<b>\u63d0\u65af\u9b54\u6cd5\u5e08\u5854</b>"
         },
         "type": "Feature"
@@ -3894,10 +3894,10 @@ const feature_data = [
         "id": "caves_l35",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_17.png",
+          "icon": "map/icons/MENU_MAP_17.png",
           "icon_size": 45,
           "id": "caves_l35",
-          "link": "/checklists/caves.html#item_l35",
+          "link": "checklists/caves.html#item_l35",
           "title": "<b>\u6539\u5b97\u8fb9\u5883\u5854</b>"
         },
         "type": "Feature"
@@ -3913,10 +3913,10 @@ const feature_data = [
         "id": "caves_l36",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_17.png",
+          "icon": "map/icons/MENU_MAP_17.png",
           "icon_size": 45,
           "id": "caves_l36",
-          "link": "/checklists/caves.html#item_l36",
+          "link": "checklists/caves.html#item_l36",
           "title": "<b>\u83c8\u59ae\u9b54\u6cd5\u5e08\u5854</b>"
         },
         "type": "Feature"
@@ -3932,10 +3932,10 @@ const feature_data = [
         "id": "caves_l38",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_17.png",
+          "icon": "map/icons/MENU_MAP_17.png",
           "icon_size": 45,
           "id": "caves_l38",
-          "link": "/checklists/caves.html#item_l38",
+          "link": "checklists/caves.html#item_l38",
           "title": "<b>\u8d5b\u5c14\u7ef4\u65af\u9b54\u6cd5\u5e08\u5854</b>"
         },
         "type": "Feature"
@@ -3951,10 +3951,10 @@ const feature_data = [
         "id": "caves_l39",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_17.png",
+          "icon": "map/icons/MENU_MAP_17.png",
           "icon_size": 45,
           "id": "caves_l39",
-          "link": "/checklists/caves.html#item_l39",
+          "link": "checklists/caves.html#item_l39",
           "title": "<b>\u857e\u5a1c\u9b54\u6cd5\u5e08\u5854</b>"
         },
         "type": "Feature"
@@ -3970,10 +3970,10 @@ const feature_data = [
         "id": "caves_l50",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_17.png",
+          "icon": "map/icons/MENU_MAP_17.png",
           "icon_size": 45,
           "id": "caves_l50",
-          "link": "/checklists/caves.html#item_l50",
+          "link": "checklists/caves.html#item_l50",
           "title": "<b>\u5e0c\u8036\u7f57\u90a3\u9b54\u6cd5\u5e08\u5854</b>"
         },
         "type": "Feature"
@@ -3989,10 +3989,10 @@ const feature_data = [
         "id": "caves_l40",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l40",
-          "link": "/checklists/caves.html#item_l40",
+          "link": "checklists/caves.html#item_l40",
           "title": "<b>\u62c9\u65af\u5361\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -4008,10 +4008,10 @@ const feature_data = [
         "id": "caves_l41",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l41",
-          "link": "/checklists/caves.html#item_l41",
+          "link": "checklists/caves.html#item_l41",
           "title": "<b>\u53d7\u51c0\u5316\u7684\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -4027,10 +4027,10 @@ const feature_data = [
         "id": "caves_l42",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l42",
-          "link": "/checklists/caves.html#item_l42",
+          "link": "checklists/caves.html#item_l42",
           "title": "<b>\u738b\u5ba4\u9886\u5730\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -4046,10 +4046,10 @@ const feature_data = [
         "id": "caves_l43",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l43",
-          "link": "/checklists/caves.html#item_l43",
+          "link": "checklists/caves.html#item_l43",
           "title": "<b>\u6708\u4e4b\u8d35\u65cf\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -4065,10 +4065,10 @@ const feature_data = [
         "id": "caves_l44",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l44",
-          "link": "/checklists/caves.html#item_l44",
+          "link": "checklists/caves.html#item_l44",
           "title": "<b>\u6708\u4e4b\u6c11\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -4084,10 +4084,10 @@ const feature_data = [
         "id": "caves_l45",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l45",
-          "link": "/checklists/caves.html#item_l45",
+          "link": "checklists/caves.html#item_l45",
           "title": "<b>\u7720\u72fc\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -4103,10 +4103,10 @@ const feature_data = [
         "id": "caves_l46",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l46",
-          "link": "/checklists/caves.html#item_l46",
+          "link": "checklists/caves.html#item_l46",
           "title": "<b>\u716e\u867e\u5b50\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -4122,10 +4122,10 @@ const feature_data = [
         "id": "caves_l47",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l47",
-          "link": "/checklists/caves.html#item_l47",
+          "link": "checklists/caves.html#item_l47",
           "title": "<b>\u753b\u5bb6\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -4141,10 +4141,10 @@ const feature_data = [
         "id": "caves_l48",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l48",
-          "link": "/checklists/caves.html#item_l48",
+          "link": "checklists/caves.html#item_l48",
           "title": "<b>\u590d\u4ec7\u8005\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -4160,10 +4160,10 @@ const feature_data = [
         "id": "caves_l131",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l131",
-          "link": "/checklists/caves.html#item_l131",
+          "link": "checklists/caves.html#item_l131",
           "title": "<b>\u4f0a\u5229\u65af\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -4179,10 +4179,10 @@ const feature_data = [
         "id": "caves_l51",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l51",
-          "link": "/checklists/caves.html#item_l51",
+          "link": "checklists/caves.html#item_l51",
           "title": "<b>\u8537\u8587\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -4198,10 +4198,10 @@ const feature_data = [
         "id": "caves_l52",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l52",
-          "link": "/checklists/caves.html#item_l52",
+          "link": "checklists/caves.html#item_l52",
           "title": "<b>\u7ed3\u7f18\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -4217,10 +4217,10 @@ const feature_data = [
         "id": "caves_l53",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l53",
-          "link": "/checklists/caves.html#item_l53",
+          "link": "checklists/caves.html#item_l53",
           "title": "<b>\u5f7c\u9c81\u59c6\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -4236,10 +4236,10 @@ const feature_data = [
         "id": "caves_l54",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l54",
-          "link": "/checklists/caves.html#item_l54",
+          "link": "checklists/caves.html#item_l54",
           "title": "<b>\u9547\u9759\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -4255,10 +4255,10 @@ const feature_data = [
         "id": "caves_l55",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_20.png",
+          "icon": "map/icons/MENU_MAP_20.png",
           "icon_size": 40,
           "id": "caves_l55",
-          "link": "/checklists/caves.html#item_l55",
+          "link": "checklists/caves.html#item_l55",
           "title": "<b>\u739b\u52aa\u65af\u00b7\u745f\u5229\u65af\u5927\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -4274,10 +4274,10 @@ const feature_data = [
         "id": "caves_l56",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_08.png",
+          "icon": "map/icons/MENU_MAP_08.png",
           "icon_size": 35,
           "id": "caves_l56",
-          "link": "/checklists/caves.html#item_l56",
+          "link": "checklists/caves.html#item_l56",
           "title": "<b>\u5927\u9053\u76d1\u89c6\u5854</b>"
         },
         "type": "Feature"
@@ -4293,10 +4293,10 @@ const feature_data = [
         "id": "caves_l57",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_66.png",
+          "icon": "map/icons/MENU_MAP_66.png",
           "icon_size": 45,
           "id": "caves_l57",
-          "link": "/checklists/caves.html#item_l57",
+          "link": "checklists/caves.html#item_l57",
           "title": "<b>\u5361\u5229\u4e9a\u4e66\u658b</b>"
         },
         "type": "Feature"
@@ -4312,10 +4312,10 @@ const feature_data = [
         "id": "caves_l58",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_38.png",
+          "icon": "map/icons/MENU_MAP_38.png",
           "icon_size": 35,
           "id": "caves_l58",
-          "link": "/checklists/caves.html#item_l58",
+          "link": "checklists/caves.html#item_l58",
           "title": "<b>\u58f6\u6751</b>"
         },
         "type": "Feature"
@@ -4331,10 +4331,10 @@ const feature_data = [
         "id": "caves_l59",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_32.png",
+          "icon": "map/icons/MENU_MAP_32.png",
           "icon_size": 35,
           "id": "caves_l59",
-          "link": "/checklists/caves.html#item_l59",
+          "link": "checklists/caves.html#item_l59",
           "title": "<b>\u5b66\u9662\u95e8\u524d\u9547</b>"
         },
         "type": "Feature"
@@ -4350,10 +4350,10 @@ const feature_data = [
         "id": "caves_l60",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_32.png",
+          "icon": "map/icons/MENU_MAP_32.png",
           "icon_size": 35,
           "id": "caves_l60",
-          "link": "/checklists/caves.html#item_l60",
+          "link": "checklists/caves.html#item_l60",
           "title": "<b>\u6559\u5802\u533a</b>"
         },
         "type": "Feature"
@@ -4369,10 +4369,10 @@ const feature_data = [
         "id": "caves_l61",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_39.png",
+          "icon": "map/icons/MENU_MAP_39.png",
           "icon_size": 35,
           "id": "caves_l61",
-          "link": "/checklists/caves.html#item_l61",
+          "link": "checklists/caves.html#item_l61",
           "title": "<b>\u767d\u91d1\u6751</b>"
         },
         "type": "Feature"
@@ -4388,10 +4388,10 @@ const feature_data = [
         "id": "caves_l62",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_52.png",
+          "icon": "map/icons/MENU_MAP_52.png",
           "icon_size": 40,
           "id": "caves_l62",
-          "link": "/checklists/caves.html#item_l62",
+          "link": "checklists/caves.html#item_l62",
           "title": "<b>\u56db\u949f\u697c</b>"
         },
         "type": "Feature"
@@ -4407,10 +4407,10 @@ const feature_data = [
         "id": "caves_l63",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_35.png",
+          "icon": "map/icons/MENU_MAP_35.png",
           "icon_size": 35,
           "id": "caves_l63",
-          "link": "/checklists/caves.html#item_l63",
+          "link": "checklists/caves.html#item_l63",
           "title": "<b>\u766b\u706b\u6751</b>"
         },
         "type": "Feature"
@@ -4426,10 +4426,10 @@ const feature_data = [
         "id": "caves_l64",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_08.png",
+          "icon": "map/icons/MENU_MAP_08.png",
           "icon_size": 35,
           "id": "caves_l64",
-          "link": "/checklists/caves.html#item_l64",
+          "link": "checklists/caves.html#item_l64",
           "title": "<b>\u766b\u706b\u706f\u5854</b>"
         },
         "type": "Feature"
@@ -4445,10 +4445,10 @@ const feature_data = [
         "id": "caves_l65",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Ungro.png",
+          "icon": "map/icons/MENU_MAP_Ungro.png",
           "icon_size": 35,
           "id": "caves_l65",
-          "link": "/checklists/caves.html#item_l65",
+          "link": "checklists/caves.html#item_l65",
           "title": "<b>\u5b89\u745f\u5c14\u6cb3\u7684\u5165\u53e3\u4e95</b>"
         },
         "type": "Feature"
@@ -4464,10 +4464,10 @@ const feature_data = [
         "id": "caves_l66",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Ungro.png",
+          "icon": "map/icons/MENU_MAP_Ungro.png",
           "icon_size": 35,
           "id": "caves_l66",
-          "link": "/checklists/caves.html#item_l66",
+          "link": "checklists/caves.html#item_l66",
           "title": "<b>\u5b89\u745f\u5c14\u6cb3\u7684\u51fa\u53e3\u4e95</b>"
         },
         "type": "Feature"
@@ -4483,10 +4483,10 @@ const feature_data = [
         "id": "caves_ld3",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_51.png",
+          "icon": "map/icons/MENU_MAP_51.png",
           "icon_size": 45,
           "id": "caves_ld3",
-          "link": "/checklists/caves.html#item_ld3",
+          "link": "checklists/caves.html#item_ld3",
           "title": "<b>\u9b54\u6cd5\u5b66\u9662\u96f7\u4e9a\u5362\u5361\u5229\u4e9a</b>"
         },
         "type": "Feature"
@@ -4502,10 +4502,10 @@ const feature_data = [
         "id": "caves_ld4",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_26.png",
+          "icon": "map/icons/MENU_MAP_26.png",
           "icon_size": 45,
           "id": "caves_ld4",
-          "link": "/checklists/caves.html#item_ld4",
+          "link": "checklists/caves.html#item_ld4",
           "title": "<b>\u5361\u5229\u4e9a\u57ce\u5be8</b>"
         },
         "type": "Feature"
@@ -4521,10 +4521,10 @@ const feature_data = [
         "id": "caves_2_7",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_53.png",
+          "icon": "map/icons/MENU_MAP_53.png",
           "icon_size": 45,
           "id": "caves_2_7",
-          "link": "/checklists/caves.html#item_2_7",
+          "link": "checklists/caves.html#item_2_7",
           "title": "<b>\u53e4\u9057\u8ff9\u65ad\u5d16</b>"
         },
         "type": "Feature"
@@ -4540,10 +4540,10 @@ const feature_data = [
         "id": "caves_3_1",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_3_1",
-          "link": "/checklists/caves.html#item_3_1",
+          "link": "checklists/caves.html#item_3_1",
           "title": "<b>\u5e9f\u5f03\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -4559,10 +4559,10 @@ const feature_data = [
         "id": "caves_3_4",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_3_4",
-          "link": "/checklists/caves.html#item_3_4",
+          "link": "checklists/caves.html#item_3_4",
           "title": "<b>\u7262\u72f1\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -4578,10 +4578,10 @@ const feature_data = [
         "id": "caves_3_7",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_3_7",
-          "link": "/checklists/caves.html#item_3_7",
+          "link": "checklists/caves.html#item_3_7",
           "title": "<b>\u9f99\u5893\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -4597,10 +4597,10 @@ const feature_data = [
         "id": "caves_3_9",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_3_9",
-          "link": "/checklists/caves.html#item_3_9",
+          "link": "checklists/caves.html#item_3_9",
           "title": "<b>\u745f\u5229\u4e9a\u9690\u85cf\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -4616,10 +4616,10 @@ const feature_data = [
         "id": "caves_3_2",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_3_2",
-          "link": "/checklists/caves.html#item_3_2",
+          "link": "checklists/caves.html#item_3_2",
           "title": "<b>\u76d6\u5229\u5fb7\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -4635,10 +4635,10 @@ const feature_data = [
         "id": "caves_3_5",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_3_5",
-          "link": "/checklists/caves.html#item_3_5",
+          "link": "checklists/caves.html#item_3_5",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -4654,10 +4654,10 @@ const feature_data = [
         "id": "caves_3_8",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_3_8",
-          "link": "/checklists/caves.html#item_3_8",
+          "link": "checklists/caves.html#item_3_8",
           "title": "<b>\u82f1\u7075\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -4673,10 +4673,10 @@ const feature_data = [
         "id": "caves_3_3",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_14.png",
+          "icon": "map/icons/MENU_MAP_14.png",
           "icon_size": 35,
           "id": "caves_3_3",
-          "link": "/checklists/caves.html#item_3_3",
+          "link": "checklists/caves.html#item_3_3",
           "title": "<b>\u76d6\u5c14\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -4692,10 +4692,10 @@ const feature_data = [
         "id": "caves_3_6",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_14.png",
+          "icon": "map/icons/MENU_MAP_14.png",
           "icon_size": 35,
           "id": "caves_3_6",
-          "link": "/checklists/caves.html#item_3_6",
+          "link": "checklists/caves.html#item_3_6",
           "title": "<b>\u745f\u5229\u4e9a\u7ed3\u6676\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -4711,10 +4711,10 @@ const feature_data = [
         "id": "caves_e8",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_09.png",
+          "icon": "map/icons/edited/MENU_MAP_09.png",
           "icon_size": 35,
           "id": "caves_e8",
-          "link": "/checklists/caves.html#item_e8",
+          "link": "checklists/caves.html#item_e8",
           "title": "<b>\u745f\u5229\u4e9a\u7684\u5c01\u5370\u76d1\u7262</b>"
         },
         "type": "Feature"
@@ -4730,10 +4730,10 @@ const feature_data = [
         "id": "caves_l67",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_30.png",
+          "icon": "map/icons/MENU_MAP_30.png",
           "icon_size": 45,
           "id": "caves_l67",
-          "link": "/checklists/caves.html#item_l67",
+          "link": "checklists/caves.html#item_l67",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811</b> (\u897f)"
         },
         "type": "Feature"
@@ -4749,10 +4749,10 @@ const feature_data = [
         "id": "caves_l68",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_30.png",
+          "icon": "map/icons/MENU_MAP_30.png",
           "icon_size": 45,
           "id": "caves_l68",
-          "link": "/checklists/caves.html#item_l68",
+          "link": "checklists/caves.html#item_l68",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811</b> (\u4e1c)"
         },
         "type": "Feature"
@@ -4768,10 +4768,10 @@ const feature_data = [
         "id": "caves_l69",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_23.png",
+          "icon": "map/icons/MENU_MAP_23.png",
           "icon_size": 45,
           "id": "caves_l69",
-          "link": "/checklists/caves.html#item_l69",
+          "link": "checklists/caves.html#item_l69",
           "title": "<b>\u76d6\u5229\u5fb7\u795e\u6388\u5854</b>"
         },
         "type": "Feature"
@@ -4787,10 +4787,10 @@ const feature_data = [
         "id": "caves_l70",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_23.png",
+          "icon": "map/icons/MENU_MAP_23.png",
           "icon_size": 45,
           "id": "caves_l70",
-          "link": "/checklists/caves.html#item_l70",
+          "link": "checklists/caves.html#item_l70",
           "title": "<b>\u5b64\u7acb\u795e\u6388\u5854</b>"
         },
         "type": "Feature"
@@ -4806,10 +4806,10 @@ const feature_data = [
         "id": "caves_l71",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_17.png",
+          "icon": "map/icons/MENU_MAP_17.png",
           "icon_size": 45,
           "id": "caves_l71",
-          "link": "/checklists/caves.html#item_l71",
+          "link": "checklists/caves.html#item_l71",
           "title": "<b>\u96f7\u6069\u9b54\u6cd5\u5e08\u5854</b>"
         },
         "type": "Feature"
@@ -4825,10 +4825,10 @@ const feature_data = [
         "id": "caves_l72",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l72",
-          "link": "/checklists/caves.html#item_l72",
+          "link": "checklists/caves.html#item_l72",
           "title": "<b>\u8352\u5e9f\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -4844,10 +4844,10 @@ const feature_data = [
         "id": "caves_l73",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l73",
-          "link": "/checklists/caves.html#item_l73",
+          "link": "checklists/caves.html#item_l73",
           "title": "<b>\u5947\u5217\u59c6\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -4863,10 +4863,10 @@ const feature_data = [
         "id": "caves_l74",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l74",
-          "link": "/checklists/caves.html#item_l74",
+          "link": "checklists/caves.html#item_l74",
           "title": "<b>\u76d6\u5229\u5fb7\u7684\u9a7f\u7ad9\u8857\u9057\u8ff9</b>"
         },
         "type": "Feature"
@@ -4882,10 +4882,10 @@ const feature_data = [
         "id": "caves_l75",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l75",
-          "link": "/checklists/caves.html#item_l75",
+          "link": "checklists/caves.html#item_l75",
           "title": "<b>\u8d24\u8005\u9547\u7684\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -4901,10 +4901,10 @@ const feature_data = [
         "id": "caves_l76",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l76",
-          "link": "/checklists/caves.html#item_l76",
+          "link": "checklists/caves.html#item_l76",
           "title": "<b>\u6b65\u5165\u8150\u8d25\u8005\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -4920,10 +4920,10 @@ const feature_data = [
         "id": "caves_l77",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l77",
-          "link": "/checklists/caves.html#item_l77",
+          "link": "checklists/caves.html#item_l77",
           "title": "<b>\u9690\u5c45\u5546\u4eba\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -4939,10 +4939,10 @@ const feature_data = [
         "id": "caves_l78",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l78",
-          "link": "/checklists/caves.html#item_l78",
+          "link": "checklists/caves.html#item_l78",
           "title": "<b>\u683c\u5a01\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -4958,10 +4958,10 @@ const feature_data = [
         "id": "caves_l79",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l79",
-          "link": "/checklists/caves.html#item_l79",
+          "link": "checklists/caves.html#item_l79",
           "title": "<b>\u718f\u706b\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -4977,10 +4977,10 @@ const feature_data = [
         "id": "caves_l80",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l80",
-          "link": "/checklists/caves.html#item_l80",
+          "link": "checklists/caves.html#item_l80",
           "title": "<b>\u5927\u9f99\u98e8\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -4996,10 +4996,10 @@ const feature_data = [
         "id": "caves_l81",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l81",
-          "link": "/checklists/caves.html#item_l81",
+          "link": "checklists/caves.html#item_l81",
           "title": "<b>\u8150\u8d25\u75c5\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -5015,10 +5015,10 @@ const feature_data = [
         "id": "caves_l82",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_33.png",
+          "icon": "map/icons/MENU_MAP_33.png",
           "icon_size": 40,
           "id": "caves_l82",
-          "link": "/checklists/caves.html#item_l82",
+          "link": "checklists/caves.html#item_l82",
           "title": "<b>\u9b54\u6cd5\u9547\u745f\u5229\u4e9a</b>"
         },
         "type": "Feature"
@@ -5034,10 +5034,10 @@ const feature_data = [
         "id": "caves_l83",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_10.png",
+          "icon": "map/icons/MENU_MAP_10.png",
           "icon_size": 35,
           "id": "caves_l83",
-          "link": "/checklists/caves.html#item_l83",
+          "link": "checklists/caves.html#item_l83",
           "title": "<b>\u745f\u5229\u4e9a\u5173\u5361</b>"
         },
         "type": "Feature"
@@ -5053,10 +5053,10 @@ const feature_data = [
         "id": "caves_l84",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_54.png",
+          "icon": "map/icons/MENU_MAP_54.png",
           "icon_size": 40,
           "id": "caves_l84",
-          "link": "/checklists/caves.html#item_l84",
+          "link": "checklists/caves.html#item_l84",
           "title": "<b>\u91ce\u517d\u795e\u6bbf</b>"
         },
         "type": "Feature"
@@ -5072,10 +5072,10 @@ const feature_data = [
         "id": "caves_l85",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Ungro.png",
+          "icon": "map/icons/MENU_MAP_Ungro.png",
           "icon_size": 35,
           "id": "caves_l85",
-          "link": "/checklists/caves.html#item_l85",
+          "link": "checklists/caves.html#item_l85",
           "title": "<b>\u5e0c\u8299\u62c9\u6cb3\u7684\u51fa\u53e3\u4e95</b>"
         },
         "type": "Feature"
@@ -5091,10 +5091,10 @@ const feature_data = [
         "id": "caves_l86",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_18.png",
+          "icon": "map/icons/MENU_MAP_18.png",
           "icon_size": 40,
           "id": "caves_l86",
-          "link": "/checklists/caves.html#item_l86",
+          "link": "checklists/caves.html#item_l86",
           "title": "<b>\u76d6\u5c14\u8981\u585e</b>"
         },
         "type": "Feature"
@@ -5110,10 +5110,10 @@ const feature_data = [
         "id": "caves_l87",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_18.png",
+          "icon": "map/icons/MENU_MAP_18.png",
           "icon_size": 40,
           "id": "caves_l87",
-          "link": "/checklists/caves.html#item_l87",
+          "link": "checklists/caves.html#item_l87",
           "title": "<b>\u6cd5\u6d1b\u65af\u8981\u585e</b>"
         },
         "type": "Feature"
@@ -5129,10 +5129,10 @@ const feature_data = [
         "id": "caves_l88",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_08.png",
+          "icon": "map/icons/MENU_MAP_08.png",
           "icon_size": 35,
           "id": "caves_l88",
-          "link": "/checklists/caves.html#item_l88",
+          "link": "checklists/caves.html#item_l88",
           "title": "<b>\u6cbc\u6cfd\u76d1\u89c6\u5854</b>"
         },
         "type": "Feature"
@@ -5148,10 +5148,10 @@ const feature_data = [
         "id": "caves_ld5",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_28.png",
+          "icon": "map/icons/MENU_MAP_28.png",
           "icon_size": 45,
           "id": "caves_ld5",
-          "link": "/checklists/caves.html#item_ld5",
+          "link": "checklists/caves.html#item_ld5",
           "title": "<b>\u7ea2\u72ee\u5b50\u57ce</b>"
         },
         "type": "Feature"
@@ -5167,10 +5167,10 @@ const feature_data = [
         "id": "caves_4_3",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_4_3",
-          "link": "/checklists/caves.html#item_4_3",
+          "link": "checklists/caves.html#item_4_3",
           "title": "<b>\u8c03\u9999\u5e08\u7684\u9690\u85cf\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -5186,10 +5186,10 @@ const feature_data = [
         "id": "caves_5_2",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_5_2",
-          "link": "/checklists/caves.html#item_5_2",
+          "link": "checklists/caves.html#item_5_2",
           "title": "<b>\u8d24\u8005\u7684\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -5205,10 +5205,10 @@ const feature_data = [
         "id": "caves_5_4",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_5_4",
-          "link": "/checklists/caves.html#item_5_4",
+          "link": "checklists/caves.html#item_5_4",
           "title": "<b>\u4e11\u6076\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -5224,10 +5224,10 @@ const feature_data = [
         "id": "caves_4_1",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_14.png",
+          "icon": "map/icons/MENU_MAP_14.png",
           "icon_size": 35,
           "id": "caves_4_1",
-          "link": "/checklists/caves.html#item_4_1",
+          "link": "checklists/caves.html#item_4_1",
           "title": "<b>\u65e7\u4e9a\u575b\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -5243,10 +5243,10 @@ const feature_data = [
         "id": "caves_4_2",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_14.png",
+          "icon": "map/icons/MENU_MAP_14.png",
           "icon_size": 35,
           "id": "caves_4_2",
-          "link": "/checklists/caves.html#item_4_2",
+          "link": "checklists/caves.html#item_4_2",
           "title": "<b>\u4e9a\u575b\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -5262,10 +5262,10 @@ const feature_data = [
         "id": "caves_4_4",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_16.png",
+          "icon": "map/icons/edited/MENU_MAP_16.png",
           "icon_size": 35,
           "id": "caves_4_4",
-          "link": "/checklists/caves.html#item_4_4",
+          "link": "checklists/caves.html#item_4_4",
           "title": "<b>\u5c0a\u8d35\u8005\u7684\u82f1\u96c4\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -5281,10 +5281,10 @@ const feature_data = [
         "id": "caves_e9",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_09.png",
+          "icon": "map/icons/edited/MENU_MAP_09.png",
           "icon_size": 35,
           "id": "caves_e9",
-          "link": "/checklists/caves.html#item_e9",
+          "link": "checklists/caves.html#item_e9",
           "title": "<b>\u9ec4\u91d1\u4e00\u65cf\u7684\u5c01\u5370\u76d1\u7262</b>"
         },
         "type": "Feature"
@@ -5300,10 +5300,10 @@ const feature_data = [
         "id": "caves_l89",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_30.png",
+          "icon": "map/icons/MENU_MAP_30.png",
           "icon_size": 45,
           "id": "caves_l89",
-          "link": "/checklists/caves.html#item_l89",
+          "link": "checklists/caves.html#item_l89",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811</b>"
         },
         "type": "Feature"
@@ -5319,10 +5319,10 @@ const feature_data = [
         "id": "caves_l90",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_17.png",
+          "icon": "map/icons/MENU_MAP_17.png",
           "icon_size": 45,
           "id": "caves_l90",
-          "link": "/checklists/caves.html#item_l90",
+          "link": "checklists/caves.html#item_l90",
           "title": "<b>\u6d77\u5e02\u8703\u697c\u9b54\u6cd5\u5e08\u5854</b>"
         },
         "type": "Feature"
@@ -5338,10 +5338,10 @@ const feature_data = [
         "id": "caves_l91",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l91",
-          "link": "/checklists/caves.html#item_l91",
+          "link": "checklists/caves.html#item_l91",
           "title": "<b>\u8c03\u9999\u5e08\u7684\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -5357,10 +5357,10 @@ const feature_data = [
         "id": "caves_l92",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l92",
-          "link": "/checklists/caves.html#item_l92",
+          "link": "checklists/caves.html#item_l92",
           "title": "<b>\u5362\u514b\u65af\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -5376,10 +5376,10 @@ const feature_data = [
         "id": "caves_l93",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l93",
-          "link": "/checklists/caves.html#item_l93",
+          "link": "checklists/caves.html#item_l93",
           "title": "<b>\u5a01\u8fbe\u59c6\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -5395,10 +5395,10 @@ const feature_data = [
         "id": "caves_l94",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l94",
-          "link": "/checklists/caves.html#item_l94",
+          "link": "checklists/caves.html#item_l94",
           "title": "<b>\u8815\u8840\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -5414,10 +5414,10 @@ const feature_data = [
         "id": "caves_l95",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l95",
-          "link": "/checklists/caves.html#item_l95",
+          "link": "checklists/caves.html#item_l95",
           "title": "<b>\u68ee\u6797\u4e4b\u6c11\u7684\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -5433,10 +5433,10 @@ const feature_data = [
         "id": "caves_l96",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l96",
-          "link": "/checklists/caves.html#item_l96",
+          "link": "checklists/caves.html#item_l96",
           "title": "<b>\u5524\u96f7\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -5452,10 +5452,10 @@ const feature_data = [
         "id": "caves_l97",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l97",
-          "link": "/checklists/caves.html#item_l97",
+          "link": "checklists/caves.html#item_l97",
           "title": "<b>\u739b\u8389\u5361\u7b2c\u4e8c\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -5471,10 +5471,10 @@ const feature_data = [
         "id": "caves_l98",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_21.png",
+          "icon": "map/icons/MENU_MAP_21.png",
           "icon_size": 50,
           "id": "caves_l98",
-          "link": "/checklists/caves.html#item_l98",
+          "link": "checklists/caves.html#item_l98",
           "title": "<b>\u8fea\u53ef\u8fbe\u65af\u5927\u5347\u964d\u673a</b>"
         },
         "type": "Feature"
@@ -5490,10 +5490,10 @@ const feature_data = [
         "id": "caves_l99",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_19.png",
+          "icon": "map/icons/MENU_MAP_19.png",
           "icon_size": 35,
           "id": "caves_l99",
-          "link": "/checklists/caves.html#item_l99",
+          "link": "checklists/caves.html#item_l99",
           "title": "<b>\u897f\u8fb9\u98ce\u8f66\u7267\u573a</b>"
         },
         "type": "Feature"
@@ -5509,10 +5509,10 @@ const feature_data = [
         "id": "caves_l100",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_19.png",
+          "icon": "map/icons/MENU_MAP_19.png",
           "icon_size": 35,
           "id": "caves_l100",
-          "link": "/checklists/caves.html#item_l100",
+          "link": "checklists/caves.html#item_l100",
           "title": "<b>\u4e1c\u8fb9\u98ce\u8f66\u7267\u573a</b>"
         },
         "type": "Feature"
@@ -5528,10 +5528,10 @@ const feature_data = [
         "id": "caves_l101",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_19.png",
+          "icon": "map/icons/MENU_MAP_19.png",
           "icon_size": 35,
           "id": "caves_l101",
-          "link": "/checklists/caves.html#item_l101",
+          "link": "checklists/caves.html#item_l101",
           "title": "<b>\u6751\u5185\u98ce\u8f66\u7267\u573a</b>"
         },
         "type": "Feature"
@@ -5547,10 +5547,10 @@ const feature_data = [
         "id": "caves_l102",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_36.png",
+          "icon": "map/icons/MENU_MAP_36.png",
           "icon_size": 40,
           "id": "caves_l102",
-          "link": "/checklists/caves.html#item_l102",
+          "link": "checklists/caves.html#item_l102",
           "title": "<b>\u98ce\u8f66\u6751\u591a\u660e\u52aa\u62c9</b>"
         },
         "type": "Feature"
@@ -5566,10 +5566,10 @@ const feature_data = [
         "id": "caves_l103",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_08.png",
+          "icon": "map/icons/MENU_MAP_08.png",
           "icon_size": 35,
           "id": "caves_l103",
-          "link": "/checklists/caves.html#item_l103",
+          "link": "checklists/caves.html#item_l103",
           "title": "<b>\u5927\u9053\u76d1\u89c6\u5854</b>"
         },
         "type": "Feature"
@@ -5585,10 +5585,10 @@ const feature_data = [
         "id": "caves_ld6",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_27.png",
+          "icon": "map/icons/MENU_MAP_27.png",
           "icon_size": 45,
           "id": "caves_ld6",
-          "link": "/checklists/caves.html#item_ld6",
+          "link": "checklists/caves.html#item_ld6",
           "title": "<b>\u65e5\u836b\u57ce</b>"
         },
         "type": "Feature"
@@ -5604,10 +5604,10 @@ const feature_data = [
         "id": "caves_5_3",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_5_3",
-          "link": "/checklists/caves.html#item_5_3",
+          "link": "checklists/caves.html#item_5_3",
           "title": "<b>\u6cb8\u6eda\u6cb3\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -5623,10 +5623,10 @@ const feature_data = [
         "id": "caves_5_5",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_5_5",
-          "link": "/checklists/caves.html#item_5_5",
+          "link": "checklists/caves.html#item_5_5",
           "title": "<b>\u706b\u5c71\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -5642,10 +5642,10 @@ const feature_data = [
         "id": "caves_5_6",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_5_6",
-          "link": "/checklists/caves.html#item_5_6",
+          "link": "checklists/caves.html#item_5_6",
           "title": "<b>\u5a01\u8fbe\u59c6\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -5661,10 +5661,10 @@ const feature_data = [
         "id": "caves_5_1",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_16.png",
+          "icon": "map/icons/edited/MENU_MAP_16.png",
           "icon_size": 35,
           "id": "caves_5_1",
-          "link": "/checklists/caves.html#item_5_1",
+          "link": "checklists/caves.html#item_5_1",
           "title": "<b>\u683c\u5bc6\u5c14\u82f1\u96c4\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -5680,10 +5680,10 @@ const feature_data = [
         "id": "caves_l104",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_30.png",
+          "icon": "map/icons/MENU_MAP_30.png",
           "icon_size": 45,
           "id": "caves_l104",
-          "link": "/checklists/caves.html#item_l104",
+          "link": "checklists/caves.html#item_l104",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811</b>"
         },
         "type": "Feature"
@@ -5699,10 +5699,10 @@ const feature_data = [
         "id": "caves_l105",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l105",
-          "link": "/checklists/caves.html#item_l105",
+          "link": "checklists/caves.html#item_l105",
           "title": "<b>\u98d8\u5c38\u81ed\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -5718,10 +5718,10 @@ const feature_data = [
         "id": "caves_l106",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l106",
-          "link": "/checklists/caves.html#item_l106",
+          "link": "checklists/caves.html#item_l106",
           "title": "<b>\u5320\u4eba\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -5737,10 +5737,10 @@ const feature_data = [
         "id": "caves_l107",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l107",
-          "link": "/checklists/caves.html#item_l107",
+          "link": "checklists/caves.html#item_l107",
           "title": "<b>\u9041\u4e16\u8005\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -5756,10 +5756,10 @@ const feature_data = [
         "id": "caves_l108",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_40.png",
+          "icon": "map/icons/MENU_MAP_40.png",
           "icon_size": 35,
           "id": "caves_l108",
-          "link": "/checklists/caves.html#item_l108",
+          "link": "checklists/caves.html#item_l108",
           "title": "<b>\u9041\u4e16\u8005\u6751</b>"
         },
         "type": "Feature"
@@ -5775,10 +5775,10 @@ const feature_data = [
         "id": "caves_l109",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_18.png",
+          "icon": "map/icons/MENU_MAP_18.png",
           "icon_size": 40,
           "id": "caves_l109",
-          "link": "/checklists/caves.html#item_l109",
+          "link": "checklists/caves.html#item_l109",
           "title": "<b>\u83b1\u591a\u8981\u585e</b>"
         },
         "type": "Feature"
@@ -5794,10 +5794,10 @@ const feature_data = [
         "id": "caves_ld7",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_58.png",
+          "icon": "map/icons/MENU_MAP_58.png",
           "icon_size": 45,
           "id": "caves_ld7",
-          "link": "/checklists/caves.html#item_ld7",
+          "link": "checklists/caves.html#item_ld7",
           "title": "<b>\u706b\u5c71\u5b98\u90b8</b>"
         },
         "type": "Feature"
@@ -5813,10 +5813,10 @@ const feature_data = [
         "id": "caves_6_4",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_6_4",
-          "link": "/checklists/caves.html#item_6_4",
+          "link": "checklists/caves.html#item_6_4",
           "title": "<b>\u4e9a\u96f7\u8428\u526f\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -5832,10 +5832,10 @@ const feature_data = [
         "id": "caves_6_3",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_6_3",
-          "link": "/checklists/caves.html#item_6_3",
+          "link": "checklists/caves.html#item_6_3",
           "title": "<b>\u7f57\u5fb7\u5c14\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -5851,10 +5851,10 @@ const feature_data = [
         "id": "caves_6_1",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_14.png",
+          "icon": "map/icons/MENU_MAP_14.png",
           "icon_size": 35,
           "id": "caves_6_1",
-          "link": "/checklists/caves.html#item_6_1",
+          "link": "checklists/caves.html#item_6_1",
           "title": "<b>\u5c01\u5370\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -5870,10 +5870,10 @@ const feature_data = [
         "id": "caves_6_2",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_16.png",
+          "icon": "map/icons/edited/MENU_MAP_16.png",
           "icon_size": 35,
           "id": "caves_6_2",
-          "link": "/checklists/caves.html#item_6_2",
+          "link": "checklists/caves.html#item_6_2",
           "title": "<b>\u4e9a\u96f7\u8428\u82f1\u96c4\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -5889,10 +5889,10 @@ const feature_data = [
         "id": "caves_l110",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_30.png",
+          "icon": "map/icons/MENU_MAP_30.png",
           "icon_size": 45,
           "id": "caves_l110",
-          "link": "/checklists/caves.html#item_l110",
+          "link": "checklists/caves.html#item_l110",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811</b>"
         },
         "type": "Feature"
@@ -5908,10 +5908,10 @@ const feature_data = [
         "id": "caves_l111",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_23.png",
+          "icon": "map/icons/MENU_MAP_23.png",
           "icon_size": 45,
           "id": "caves_l111",
-          "link": "/checklists/caves.html#item_l111",
+          "link": "checklists/caves.html#item_l111",
           "title": "<b>\u897f\u4e9a\u575b\u795e\u6388\u5854</b>"
         },
         "type": "Feature"
@@ -5927,10 +5927,10 @@ const feature_data = [
         "id": "caves_l112",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l112",
-          "link": "/checklists/caves.html#item_l112",
+          "link": "checklists/caves.html#item_l112",
           "title": "<b>\u9041\u4e16\u5546\u4eba\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -5946,10 +5946,10 @@ const feature_data = [
         "id": "caves_l113",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l113",
-          "link": "/checklists/caves.html#item_l113",
+          "link": "checklists/caves.html#item_l113",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -5965,10 +5965,10 @@ const feature_data = [
         "id": "caves_ld8",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_60.png",
+          "icon": "map/icons/MENU_MAP_60.png",
           "icon_size": 45,
           "id": "caves_ld8",
-          "link": "/checklists/caves.html#item_ld8",
+          "link": "checklists/caves.html#item_ld8",
           "title": "<b>\u738b\u57ce\u7f57\u5fb7\u5c14</b>"
         },
         "type": "Feature"
@@ -5984,10 +5984,10 @@ const feature_data = [
         "id": "caves_ld9",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_61.png",
+          "icon": "map/icons/MENU_MAP_61.png",
           "icon_size": 35,
           "id": "caves_ld9",
-          "link": "/checklists/caves.html#item_ld9",
+          "link": "checklists/caves.html#item_ld9",
           "title": "<b>\u5f03\u7f6e\u6076\u5146\u7684\u5730\u5e95</b>"
         },
         "type": "Feature"
@@ -6003,10 +6003,10 @@ const feature_data = [
         "id": "caves_7_3",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_7_3",
-          "link": "/checklists/caves.html#item_7_3",
+          "link": "checklists/caves.html#item_7_3",
           "title": "<b>\u5524\u7075\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -6022,10 +6022,10 @@ const feature_data = [
         "id": "caves_7_2",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_7_2",
-          "link": "/checklists/caves.html#item_7_2",
+          "link": "checklists/caves.html#item_7_2",
           "title": "<b>\u5de8\u4eba\u5c71\u9876\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -6041,10 +6041,10 @@ const feature_data = [
         "id": "caves_7_1",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_16.png",
+          "icon": "map/icons/edited/MENU_MAP_16.png",
           "icon_size": 35,
           "id": "caves_7_1",
-          "link": "/checklists/caves.html#item_7_1",
+          "link": "checklists/caves.html#item_7_1",
           "title": "<b>\u5de8\u4eba\u6218\u4e89\u7684\u82f1\u96c4\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -6060,10 +6060,10 @@ const feature_data = [
         "id": "caves_e10",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_09.png",
+          "icon": "map/icons/edited/MENU_MAP_09.png",
           "icon_size": 35,
           "id": "caves_e10",
-          "link": "/checklists/caves.html#item_e10",
+          "link": "checklists/caves.html#item_e10",
           "title": "<b>\u51c6\u738b\u8005\u7684\u5c01\u5370\u76d1\u7262</b>"
         },
         "type": "Feature"
@@ -6079,10 +6079,10 @@ const feature_data = [
         "id": "caves_l114",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_30.png",
+          "icon": "map/icons/MENU_MAP_30.png",
           "icon_size": 45,
           "id": "caves_l114",
-          "link": "/checklists/caves.html#item_l114",
+          "link": "checklists/caves.html#item_l114",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811</b>"
         },
         "type": "Feature"
@@ -6098,10 +6098,10 @@ const feature_data = [
         "id": "caves_l115",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_23.png",
+          "icon": "map/icons/MENU_MAP_23.png",
           "icon_size": 45,
           "id": "caves_l115",
-          "link": "/checklists/caves.html#item_l115",
+          "link": "checklists/caves.html#item_l115",
           "title": "<b>\u4e1c\u4e9a\u575b\u795e\u6388\u5854</b>"
         },
         "type": "Feature"
@@ -6117,10 +6117,10 @@ const feature_data = [
         "id": "caves_l116",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_17.png",
+          "icon": "map/icons/MENU_MAP_17.png",
           "icon_size": 45,
           "id": "caves_l116",
-          "link": "/checklists/caves.html#item_l116",
+          "link": "checklists/caves.html#item_l116",
           "title": "<b>\u5f02\u7aef\u9b54\u6cd5\u5e08\u5854</b>"
         },
         "type": "Feature"
@@ -6136,10 +6136,10 @@ const feature_data = [
         "id": "caves_l117",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l117",
-          "link": "/checklists/caves.html#item_l117",
+          "link": "checklists/caves.html#item_l117",
           "title": "<b>\u8428\u7c73\u5c14\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -6155,10 +6155,10 @@ const feature_data = [
         "id": "caves_l118",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l118",
-          "link": "/checklists/caves.html#item_l118",
+          "link": "checklists/caves.html#item_l118",
           "title": "<b>\u89c2\u661f\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -6174,10 +6174,10 @@ const feature_data = [
         "id": "caves_l119",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_06.png",
+          "icon": "map/icons/MENU_MAP_06.png",
           "icon_size": 35,
           "id": "caves_l119",
-          "link": "/checklists/caves.html#item_l119",
+          "link": "checklists/caves.html#item_l119",
           "title": "<b>\u79bb\u7fa4\u72ec\u884c\u8005\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -6193,10 +6193,10 @@ const feature_data = [
         "id": "caves_l120",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l120",
-          "link": "/checklists/caves.html#item_l120",
+          "link": "checklists/caves.html#item_l120",
           "title": "<b>\u739b\u8389\u5361\u7b2c\u4e00\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -6212,10 +6212,10 @@ const feature_data = [
         "id": "caves_l121",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l121",
-          "link": "/checklists/caves.html#item_l121",
+          "link": "checklists/caves.html#item_l121",
           "title": "<b>\u5b89\u6b47\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -6231,10 +6231,10 @@ const feature_data = [
         "id": "caves_l122",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_21.png",
+          "icon": "map/icons/MENU_MAP_21.png",
           "icon_size": 50,
           "id": "caves_l122",
-          "link": "/checklists/caves.html#item_l122",
+          "link": "checklists/caves.html#item_l122",
           "title": "<b>\u6d1b\u5fb7\u5927\u5347\u964d\u673a</b>"
         },
         "type": "Feature"
@@ -6250,10 +6250,10 @@ const feature_data = [
         "id": "caves_l123",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_18.png",
+          "icon": "map/icons/MENU_MAP_18.png",
           "icon_size": 40,
           "id": "caves_l123",
-          "link": "/checklists/caves.html#item_l123",
+          "link": "checklists/caves.html#item_l123",
           "title": "<b>\u76d1\u89c6\u8005\u8981\u585e</b>"
         },
         "type": "Feature"
@@ -6269,10 +6269,10 @@ const feature_data = [
         "id": "caves_l125",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_57.png",
+          "icon": "map/icons/MENU_MAP_57.png",
           "icon_size": 45,
           "id": "caves_l125",
-          "link": "/checklists/caves.html#item_l125",
+          "link": "checklists/caves.html#item_l125",
           "title": "<b>\u5de8\u4eba\u706b\u7130\u5927\u9505</b>"
         },
         "type": "Feature"
@@ -6288,10 +6288,10 @@ const feature_data = [
         "id": "caves_ld10",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_29.png",
+          "icon": "map/icons/MENU_MAP_29.png",
           "icon_size": 45,
           "id": "caves_ld10",
-          "link": "/checklists/caves.html#item_ld10",
+          "link": "checklists/caves.html#item_ld10",
           "title": "<b>\u7d22\u5c14\u57ce</b>"
         },
         "type": "Feature"
@@ -6307,10 +6307,10 @@ const feature_data = [
         "id": "caves_8_4",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_13.png",
+          "icon": "map/icons/edited/MENU_MAP_13.png",
           "icon_size": 35,
           "id": "caves_8_4",
-          "link": "/checklists/caves.html#item_8_4",
+          "link": "checklists/caves.html#item_8_4",
           "title": "<b>\u5b89\u8eab\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -6326,10 +6326,10 @@ const feature_data = [
         "id": "caves_8_2",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_8_2",
-          "link": "/checklists/caves.html#item_8_2",
+          "link": "checklists/caves.html#item_8_2",
           "title": "<b>\u901a\u5f80\u5723\u6811\u7684\u5bc6\u9053</b>"
         },
         "type": "Feature"
@@ -6345,10 +6345,10 @@ const feature_data = [
         "id": "caves_8_1",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/edited/MENU_MAP_04.png",
+          "icon": "map/icons/edited/MENU_MAP_04.png",
           "icon_size": 35,
           "id": "caves_8_1",
-          "link": "/checklists/caves.html#item_8_1",
+          "link": "checklists/caves.html#item_8_1",
           "title": "<b>\u5316\u5723\u96ea\u539f\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -6364,10 +6364,10 @@ const feature_data = [
         "id": "caves_8_3",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_14.png",
+          "icon": "map/icons/MENU_MAP_14.png",
           "icon_size": 35,
           "id": "caves_8_3",
-          "link": "/checklists/caves.html#item_8_3",
+          "link": "checklists/caves.html#item_8_3",
           "title": "<b>\u8036\u7f57\u00b7\u4e9a\u5c3c\u65af\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -6383,10 +6383,10 @@ const feature_data = [
         "id": "caves_l126",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_30.png",
+          "icon": "map/icons/MENU_MAP_30.png",
           "icon_size": 45,
           "id": "caves_l126",
-          "link": "/checklists/caves.html#item_l126",
+          "link": "checklists/caves.html#item_l126",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811</b>"
         },
         "type": "Feature"
@@ -6402,10 +6402,10 @@ const feature_data = [
         "id": "caves_l127",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_17.png",
+          "icon": "map/icons/MENU_MAP_17.png",
           "icon_size": 45,
           "id": "caves_l127",
-          "link": "/checklists/caves.html#item_l127",
+          "link": "checklists/caves.html#item_l127",
           "title": "<b>\u767d\u91d1\u9b54\u6cd5\u5e08\u5854</b>"
         },
         "type": "Feature"
@@ -6421,10 +6421,10 @@ const feature_data = [
         "id": "caves_l128",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_05.png",
+          "icon": "map/icons/MENU_MAP_05.png",
           "icon_size": 35,
           "id": "caves_l128",
-          "link": "/checklists/caves.html#item_l128",
+          "link": "checklists/caves.html#item_l128",
           "title": "<b>\u8036\u7f57\u00b7\u4e9a\u5c3c\u65af\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -6440,10 +6440,10 @@ const feature_data = [
         "id": "caves_l129",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_Church.png",
+          "icon": "map/icons/MENU_MAP_Church.png",
           "icon_size": 40,
           "id": "caves_l129",
-          "link": "/checklists/caves.html#item_l129",
+          "link": "checklists/caves.html#item_l129",
           "title": "<b>\u79bb\u6559\u5e9f\u5c4b</b>"
         },
         "type": "Feature"
@@ -6459,10 +6459,10 @@ const feature_data = [
         "id": "caves_l130",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_34.png",
+          "icon": "map/icons/MENU_MAP_34.png",
           "icon_size": 40,
           "id": "caves_l130",
-          "link": "/checklists/caves.html#item_l130",
+          "link": "checklists/caves.html#item_l130",
           "title": "<b>\u201c\u4eea\u5178\u9547\u201d\u5965\u7f07\u90a3</b>"
         },
         "type": "Feature"
@@ -6478,10 +6478,10 @@ const feature_data = [
         "id": "caves_ld11",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_55.png",
+          "icon": "map/icons/MENU_MAP_55.png",
           "icon_size": 50,
           "id": "caves_ld11",
-          "link": "/checklists/caves.html#item_ld11",
+          "link": "checklists/caves.html#item_ld11",
           "title": "<b>\u7c73\u51ef\u62c9\u7684\u5723\u6811</b>"
         },
         "type": "Feature"
@@ -6497,10 +6497,10 @@ const feature_data = [
         "id": "caves_ld12",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_56.png",
+          "icon": "map/icons/MENU_MAP_56.png",
           "icon_size": 45,
           "id": "caves_ld12",
-          "link": "/checklists/caves.html#item_ld12",
+          "link": "checklists/caves.html#item_ld12",
           "title": "<b>\u201c\u5723\u6811\u5206\u679d\u201d\u827e\u5e03\u96f7\u83f2\u5c14</b>"
         },
         "type": "Feature"
@@ -6516,10 +6516,10 @@ const feature_data = [
         "id": "caves_ld13",
         "properties": {
           "group": "caves",
-          "icon": "/map/icons/MENU_MAP_59.png",
+          "icon": "map/icons/MENU_MAP_59.png",
           "icon_size": 50,
           "id": "caves_ld13",
-          "link": "/checklists/caves.html#item_ld13",
+          "link": "checklists/caves.html#item_ld13",
           "title": "<b>\u9010\u6e10\u5d29\u6bc1\u7684\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9</b>"
         },
         "type": "Feature"
@@ -6541,10 +6541,10 @@ const feature_data = [
         "id": "graces_313",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_48.png",
+          "icon": "map/icons/MENU_MAP_48.png",
           "icon_size": 60,
           "id": "graces_313",
-          "link": "/checklists/graces.html#item_313",
+          "link": "checklists/graces.html#item_313",
           "title": "<b>\u5927\u8d50\u798f</b>"
         },
         "type": "Feature"
@@ -6560,10 +6560,10 @@ const feature_data = [
         "id": "graces_0",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_0",
-          "link": "/checklists/graces.html#item_0",
+          "link": "checklists/graces.html#item_0",
           "title": "<b>\u5f15\u5bfc\u4e4b\u59cb</b>"
         },
         "type": "Feature"
@@ -6579,10 +6579,10 @@ const feature_data = [
         "id": "graces_1",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_1",
-          "link": "/checklists/graces.html#item_1",
+          "link": "checklists/graces.html#item_1",
           "title": "<b>\u827e\u96f7\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -6598,10 +6598,10 @@ const feature_data = [
         "id": "graces_2",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_2",
-          "link": "/checklists/graces.html#item_2",
+          "link": "checklists/graces.html#item_2",
           "title": "<b>\u5173\u5361\u524d\u65b9</b>"
         },
         "type": "Feature"
@@ -6617,10 +6617,10 @@ const feature_data = [
         "id": "graces_3",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_3",
-          "link": "/checklists/graces.html#item_3",
+          "link": "checklists/graces.html#item_3",
           "title": "<b>\u9a7f\u7ad9\u8857\u9057\u8ff9\u7684\u5730\u4e0b\u5ba4</b>"
         },
         "type": "Feature"
@@ -6636,10 +6636,10 @@ const feature_data = [
         "id": "graces_4",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_4",
-          "link": "/checklists/graces.html#item_4",
+          "link": "checklists/graces.html#item_4",
           "title": "<b>\u753b\u5bb6\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -6655,10 +6655,10 @@ const feature_data = [
         "id": "graces_5",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_5",
-          "link": "/checklists/graces.html#item_5",
+          "link": "checklists/graces.html#item_5",
           "title": "<b>\u739b\u8389\u5361\u7b2c\u4e09\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -6674,10 +6674,10 @@ const feature_data = [
         "id": "graces_6",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_6",
-          "link": "/checklists/graces.html#item_6",
+          "link": "checklists/graces.html#item_6",
           "title": "<b>\u6d77\u5fb7\u8981\u585e\u897f\u65b9</b>"
         },
         "type": "Feature"
@@ -6693,10 +6693,10 @@ const feature_data = [
         "id": "graces_7",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_7",
-          "link": "/checklists/graces.html#item_7",
+          "link": "checklists/graces.html#item_7",
           "title": "<b>\u4e9a\u57fa\u5c14\u6e56\u5357\u65b9</b>"
         },
         "type": "Feature"
@@ -6712,10 +6712,10 @@ const feature_data = [
         "id": "graces_8",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_8",
-          "link": "/checklists/graces.html#item_8",
+          "link": "checklists/graces.html#item_8",
           "title": "<b>\u4e9a\u57fa\u5c14\u6e56\u5317\u65b9</b>"
         },
         "type": "Feature"
@@ -6731,10 +6731,10 @@ const feature_data = [
         "id": "graces_9",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_9",
-          "link": "/checklists/graces.html#item_9",
+          "link": "checklists/graces.html#item_9",
           "title": "<b>\u9f99\u98e8\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -6750,10 +6750,10 @@ const feature_data = [
         "id": "graces_10",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_10",
-          "link": "/checklists/graces.html#item_10",
+          "link": "checklists/graces.html#item_10",
           "title": "<b>\u508d\u6d77\u53e4\u9057\u8ff9</b>"
         },
         "type": "Feature"
@@ -6769,10 +6769,10 @@ const feature_data = [
         "id": "graces_11",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_11",
-          "link": "/checklists/graces.html#item_11",
+          "link": "checklists/graces.html#item_11",
           "title": "<b>\u96fe\u6797\u8fb9\u7f18</b>"
         },
         "type": "Feature"
@@ -6788,10 +6788,10 @@ const feature_data = [
         "id": "graces_12",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_12",
-          "link": "/checklists/graces.html#item_12",
+          "link": "checklists/graces.html#item_12",
           "title": "<b>\u8499\u6d41\u5cb8\u8fb9</b>"
         },
         "type": "Feature"
@@ -6807,10 +6807,10 @@ const feature_data = [
         "id": "graces_13",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_13",
-          "link": "/checklists/graces.html#item_13",
+          "link": "checklists/graces.html#item_13",
           "title": "<b>\u6c34\u5524\u6751\u5916</b>"
         },
         "type": "Feature"
@@ -6826,10 +6826,10 @@ const feature_data = [
         "id": "graces_14",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_14",
-          "link": "/checklists/graces.html#item_14",
+          "link": "checklists/graces.html#item_14",
           "title": "<b>\u98ce\u66b4\u6839\u811a\u7684\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -6845,10 +6845,10 @@ const feature_data = [
         "id": "graces_15",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_15",
-          "link": "/checklists/graces.html#item_15",
+          "link": "checklists/graces.html#item_15",
           "title": "<b>\u8499\u6d41\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -6864,10 +6864,10 @@ const feature_data = [
         "id": "graces_16",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_16",
-          "link": "/checklists/graces.html#item_16",
+          "link": "checklists/graces.html#item_16",
           "title": "<b>\u8fd1\u6797\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -6883,10 +6883,10 @@ const feature_data = [
         "id": "graces_17",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_17",
-          "link": "/checklists/graces.html#item_17",
+          "link": "checklists/graces.html#item_17",
           "title": "<b>\u6d77\u5cb8\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -6902,10 +6902,10 @@ const feature_data = [
         "id": "graces_18",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_18",
-          "link": "/checklists/graces.html#item_18",
+          "link": "checklists/graces.html#item_18",
           "title": "<b>\u8499\u6d41\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -6921,10 +6921,10 @@ const feature_data = [
         "id": "graces_19",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_19",
-          "link": "/checklists/graces.html#item_19",
+          "link": "checklists/graces.html#item_19",
           "title": "<b>\u5927\u9053\u4e0b\u7684\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -6940,10 +6940,10 @@ const feature_data = [
         "id": "graces_20",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_20",
-          "link": "/checklists/graces.html#item_20",
+          "link": "checklists/graces.html#item_20",
           "title": "<b>\u5b81\u59c6\u683c\u798f\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -6959,10 +6959,10 @@ const feature_data = [
         "id": "graces_21",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_21",
-          "link": "/checklists/graces.html#item_21",
+          "link": "checklists/graces.html#item_21",
           "title": "<b>\u6c42\u5b66\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -6978,10 +6978,10 @@ const feature_data = [
         "id": "graces_22",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_22",
-          "link": "/checklists/graces.html#item_22",
+          "link": "checklists/graces.html#item_22",
           "title": "<b>\u6f02\u6d41\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -6997,10 +6997,10 @@ const feature_data = [
         "id": "graces_23",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_23",
-          "link": "/checklists/graces.html#item_23",
+          "link": "checklists/graces.html#item_23",
           "title": "<b>\u98ce\u66b4\u5c71\u4e18\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -7016,10 +7016,10 @@ const feature_data = [
         "id": "graces_24",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_24",
-          "link": "/checklists/graces.html#item_24",
+          "link": "checklists/graces.html#item_24",
           "title": "<b>\u901a\u57ce\u96a7\u9053</b>"
         },
         "type": "Feature"
@@ -7035,10 +7035,10 @@ const feature_data = [
         "id": "graces_25",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_25",
-          "link": "/checklists/graces.html#item_25",
+          "link": "checklists/graces.html#item_25",
           "title": "<b>\u201c\u6076\u5146\u5996\u9b3c\u201d\u739b\u5c14\u57fa\u7279</b>"
         },
         "type": "Feature"
@@ -7054,10 +7054,10 @@ const feature_data = [
         "id": "graces_26",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_26",
-          "link": "/checklists/graces.html#item_26",
+          "link": "checklists/graces.html#item_26",
           "title": "<b>\u4e60\u6218\u8005\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -7073,10 +7073,10 @@ const feature_data = [
         "id": "graces_27",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_27",
-          "link": "/checklists/graces.html#item_27",
+          "link": "checklists/graces.html#item_27",
           "title": "<b>\u5723\u4eba\u6865</b>"
         },
         "type": "Feature"
@@ -7092,10 +7092,10 @@ const feature_data = [
         "id": "graces_28",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_28",
-          "link": "/checklists/graces.html#item_28",
+          "link": "checklists/graces.html#item_28",
           "title": "<b>\u6b7b\u4ea1\u964d\u4e34\u7684\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -7111,10 +7111,10 @@ const feature_data = [
         "id": "graces_29",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_29",
-          "link": "/checklists/graces.html#item_29",
+          "link": "checklists/graces.html#item_29",
           "title": "<b>\u5b81\u59c6\u683c\u798f\u795e\u6388\u5854\uff08\u6865\u4e0a\uff09</b>"
         },
         "type": "Feature"
@@ -7130,10 +7130,10 @@ const feature_data = [
         "id": "graces_30",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_30",
-          "link": "/checklists/graces.html#item_30",
+          "link": "checklists/graces.html#item_30",
           "title": "<b>\u5b81\u59c6\u683c\u798f\u795e\u6388\u5854</b>"
         },
         "type": "Feature"
@@ -7149,10 +7149,10 @@ const feature_data = [
         "id": "graces_31",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_31",
-          "link": "/checklists/graces.html#item_31",
+          "link": "checklists/graces.html#item_31",
           "title": "<b>\u5de1\u793c\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -7168,10 +7168,10 @@ const feature_data = [
         "id": "graces_32",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_32",
-          "link": "/checklists/graces.html#item_32",
+          "link": "checklists/graces.html#item_32",
           "title": "<b>\u6469\u6069\u57ce\uff08\u57ce\u5899\u524d\u65b9\uff09</b>"
         },
         "type": "Feature"
@@ -7187,10 +7187,10 @@ const feature_data = [
         "id": "graces_33",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_33",
-          "link": "/checklists/graces.html#item_33",
+          "link": "checklists/graces.html#item_33",
           "title": "<b>\u7075\u5e99\u539f\u91ce</b>"
         },
         "type": "Feature"
@@ -7206,10 +7206,10 @@ const feature_data = [
         "id": "graces_34",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_34",
-          "link": "/checklists/graces.html#item_34",
+          "link": "checklists/graces.html#item_34",
           "title": "<b>\u76d1\u89c6\u5854\u7684\u5357\u65b9</b>"
         },
         "type": "Feature"
@@ -7225,10 +7225,10 @@ const feature_data = [
         "id": "graces_35",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_35",
-          "link": "/checklists/graces.html#item_35",
+          "link": "checklists/graces.html#item_35",
           "title": "<b>\u75c5\u6751\u5916</b>"
         },
         "type": "Feature"
@@ -7244,10 +7244,10 @@ const feature_data = [
         "id": "graces_36",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_36",
-          "link": "/checklists/graces.html#item_36",
+          "link": "checklists/graces.html#item_36",
           "title": "<b>\u5730\u5751\u65c1</b>"
         },
         "type": "Feature"
@@ -7263,10 +7263,10 @@ const feature_data = [
         "id": "graces_37",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_37",
-          "link": "/checklists/graces.html#item_37",
+          "link": "checklists/graces.html#item_37",
           "title": "<b>\u9690\u5c45\u5546\u4eba\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -7282,10 +7282,10 @@ const feature_data = [
         "id": "graces_38",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_38",
-          "link": "/checklists/graces.html#item_38",
+          "link": "checklists/graces.html#item_38",
           "title": "<b>\u739b\u8389\u5361\u7b2c\u56db\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -7301,10 +7301,10 @@ const feature_data = [
         "id": "graces_39",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_39",
-          "link": "/checklists/graces.html#item_39",
+          "link": "checklists/graces.html#item_39",
           "title": "<b>\u732e\u796d\u5927\u6865</b>"
         },
         "type": "Feature"
@@ -7320,10 +7320,10 @@ const feature_data = [
         "id": "graces_40",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_40",
-          "link": "/checklists/graces.html#item_40",
+          "link": "checklists/graces.html#item_40",
           "title": "<b>\u6469\u6069\u57ce\uff08\u5347\u964d\u673a\u524d\u65b9\uff09</b>"
         },
         "type": "Feature"
@@ -7339,10 +7339,10 @@ const feature_data = [
         "id": "graces_41",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_41",
-          "link": "/checklists/graces.html#item_41",
+          "link": "checklists/graces.html#item_41",
           "title": "<b>\u57ce\u5821\u540e\u65b9</b>"
         },
         "type": "Feature"
@@ -7358,10 +7358,10 @@ const feature_data = [
         "id": "graces_42",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_42",
-          "link": "/checklists/graces.html#item_42",
+          "link": "checklists/graces.html#item_42",
           "title": "<b>\u57ce\u5899\u76d1\u7262\u65c1</b>"
         },
         "type": "Feature"
@@ -7377,10 +7377,10 @@ const feature_data = [
         "id": "graces_43",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_43",
-          "link": "/checklists/graces.html#item_43",
+          "link": "checklists/graces.html#item_43",
           "title": "<b>\u6469\u6069\u60b2\u53f9\u5893</b>"
         },
         "type": "Feature"
@@ -7396,10 +7396,10 @@ const feature_data = [
         "id": "graces_44",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_44",
-          "link": "/checklists/graces.html#item_44",
+          "link": "checklists/graces.html#item_44",
           "title": "<b>\u7a7f\u523a\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -7415,10 +7415,10 @@ const feature_data = [
         "id": "graces_45",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_45",
-          "link": "/checklists/graces.html#item_45",
+          "link": "checklists/graces.html#item_45",
           "title": "<b>\u7075\u5e99\u539f\u91ce\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -7434,10 +7434,10 @@ const feature_data = [
         "id": "graces_46",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_46",
-          "link": "/checklists/graces.html#item_46",
+          "link": "checklists/graces.html#item_46",
           "title": "<b>\u5782\u7a74\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -7453,10 +7453,10 @@ const feature_data = [
         "id": "graces_47",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_47",
-          "link": "/checklists/graces.html#item_47",
+          "link": "checklists/graces.html#item_47",
           "title": "<b>\u7075\u5e99\u539f\u91ce\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -7472,10 +7472,10 @@ const feature_data = [
         "id": "graces_48",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_48",
-          "link": "/checklists/graces.html#item_48",
+          "link": "checklists/graces.html#item_48",
           "title": "<b>\u6469\u6069\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -7491,10 +7491,10 @@ const feature_data = [
         "id": "graces_49",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_49",
-          "link": "/checklists/graces.html#item_49",
+          "link": "checklists/graces.html#item_49",
           "title": "<b>\u53f2\u4e1c\u8587\u5c14\u6b63\u95e8</b>"
         },
         "type": "Feature"
@@ -7510,10 +7510,10 @@ const feature_data = [
         "id": "graces_50",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_50",
-          "link": "/checklists/graces.html#item_50",
+          "link": "checklists/graces.html#item_50",
           "title": "<b>\u95e8\u65c1\u5c0f\u5c4b</b>"
         },
         "type": "Feature"
@@ -7529,10 +7529,10 @@ const feature_data = [
         "id": "graces_51",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_51",
-          "link": "/checklists/graces.html#item_51",
+          "link": "checklists/graces.html#item_51",
           "title": "<b>\u53f2\u4e1c\u8587\u5c14\u65ad\u5d16</b>"
         },
         "type": "Feature"
@@ -7548,10 +7548,10 @@ const feature_data = [
         "id": "graces_52",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_52",
-          "link": "/checklists/graces.html#item_52",
+          "link": "checklists/graces.html#item_52",
           "title": "<b>\u57ce\u5899\u5854</b>"
         },
         "type": "Feature"
@@ -7567,10 +7567,10 @@ const feature_data = [
         "id": "graces_53",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_53",
-          "link": "/checklists/graces.html#item_53",
+          "link": "checklists/graces.html#item_53",
           "title": "<b>\u5347\u964d\u673a\u65c1\u623f\u95f4</b>"
         },
         "type": "Feature"
@@ -7586,10 +7586,10 @@ const feature_data = [
         "id": "graces_54",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_54",
-          "link": "/checklists/graces.html#item_54",
+          "link": "checklists/graces.html#item_54",
           "title": "<b>\u6df1\u5904\u5c0f\u623f\u95f4</b>"
         },
         "type": "Feature"
@@ -7605,10 +7605,10 @@ const feature_data = [
         "id": "graces_55",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_55",
-          "link": "/checklists/graces.html#item_55",
+          "link": "checklists/graces.html#item_55",
           "title": "<b>\u201c\u63a5\u80a2\u201d\u845b\u745e\u514b</b>"
         },
         "type": "Feature"
@@ -7624,10 +7624,10 @@ const feature_data = [
         "id": "graces_56",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_56",
-          "link": "/checklists/graces.html#item_56",
+          "link": "checklists/graces.html#item_56",
           "title": "<b>\u508d\u6e56\u65ad\u5d16</b>"
         },
         "type": "Feature"
@@ -7643,10 +7643,10 @@ const feature_data = [
         "id": "graces_57",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_57",
-          "link": "/checklists/graces.html#item_57",
+          "link": "checklists/graces.html#item_57",
           "title": "<b>\u5229\u8036\u5c3c\u4e9a\u6e56\uff08\u6e56\u8fb9\uff09</b>"
         },
         "type": "Feature"
@@ -7662,10 +7662,10 @@ const feature_data = [
         "id": "graces_58",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_58",
-          "link": "/checklists/graces.html#item_58",
+          "link": "checklists/graces.html#item_58",
           "title": "<b>\u62c9\u65af\u5361\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -7681,10 +7681,10 @@ const feature_data = [
         "id": "graces_59",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_59",
-          "link": "/checklists/graces.html#item_59",
+          "link": "checklists/graces.html#item_59",
           "title": "<b>\u8fdc\u773a\u5c9b</b>"
         },
         "type": "Feature"
@@ -7700,10 +7700,10 @@ const feature_data = [
         "id": "graces_60",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_60",
-          "link": "/checklists/graces.html#item_60",
+          "link": "checklists/graces.html#item_60",
           "title": "<b>\u5b66\u9662\u95e8\u524d\u9547</b>"
         },
         "type": "Feature"
@@ -7719,10 +7719,10 @@ const feature_data = [
         "id": "graces_61",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_61",
-          "link": "/checklists/graces.html#item_61",
+          "link": "checklists/graces.html#item_61",
           "title": "<b>\u96f7\u4e9a\u5362\u5361\u5229\u4e9a\uff08\u5357\u95e8\uff09</b>"
         },
         "type": "Feature"
@@ -7738,10 +7738,10 @@ const feature_data = [
         "id": "graces_62",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_62",
-          "link": "/checklists/graces.html#item_62",
+          "link": "checklists/graces.html#item_62",
           "title": "<b>\u5b66\u9662\u6b63\u95e8\u53e3</b>"
         },
         "type": "Feature"
@@ -7757,10 +7757,10 @@ const feature_data = [
         "id": "graces_63",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_63",
-          "link": "/checklists/graces.html#item_63",
+          "link": "checklists/graces.html#item_63",
           "title": "<b>\u5229\u8036\u5c3c\u4e9a\u5927\u9053\uff08\u5357\u65b9\uff09</b>"
         },
         "type": "Feature"
@@ -7776,10 +7776,10 @@ const feature_data = [
         "id": "graces_64",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_64",
-          "link": "/checklists/graces.html#item_64",
+          "link": "checklists/graces.html#item_64",
           "title": "<b>\u5229\u8036\u5c3c\u4e9a\u5927\u9053\uff08\u5317\u65b9\uff09</b>"
         },
         "type": "Feature"
@@ -7795,10 +7795,10 @@ const feature_data = [
         "id": "graces_65",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_65",
-          "link": "/checklists/graces.html#item_65",
+          "link": "checklists/graces.html#item_65",
           "title": "<b>\u95e8\u524d\u9547\u5927\u6865</b>"
         },
         "type": "Feature"
@@ -7814,10 +7814,10 @@ const feature_data = [
         "id": "graces_66",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_66",
-          "link": "/checklists/graces.html#item_66",
+          "link": "checklists/graces.html#item_66",
           "title": "<b>\u753b\u5bb6\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -7833,10 +7833,10 @@ const feature_data = [
         "id": "graces_67",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_67",
-          "link": "/checklists/graces.html#item_67",
+          "link": "checklists/graces.html#item_67",
           "title": "<b>\u5229\u8036\u5c3c\u4e9a\u6e56\uff08\u4e1c\u5cb8\uff09</b>"
         },
         "type": "Feature"
@@ -7852,10 +7852,10 @@ const feature_data = [
         "id": "graces_68",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_68",
-          "link": "/checklists/graces.html#item_68",
+          "link": "checklists/graces.html#item_68",
           "title": "<b>\u58f6\u6751</b>"
         },
         "type": "Feature"
@@ -7871,10 +7871,10 @@ const feature_data = [
         "id": "graces_69",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_69",
-          "link": "/checklists/graces.html#item_69",
+          "link": "checklists/graces.html#item_69",
           "title": "<b>\u83c8\u59ae\u7684\u623f\u95f4</b>"
         },
         "type": "Feature"
@@ -7890,10 +7890,10 @@ const feature_data = [
         "id": "graces_70",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_70",
-          "link": "/checklists/graces.html#item_70",
+          "link": "checklists/graces.html#item_70",
           "title": "<b>\u4e1c\u8fb9\u53f0\u5730</b>"
         },
         "type": "Feature"
@@ -7909,10 +7909,10 @@ const feature_data = [
         "id": "graces_71",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_71",
-          "link": "/checklists/graces.html#item_71",
+          "link": "checklists/graces.html#item_71",
           "title": "<b>\u7ed3\u7f18\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -7928,10 +7928,10 @@ const feature_data = [
         "id": "graces_72",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_72",
-          "link": "/checklists/graces.html#item_72",
+          "link": "checklists/graces.html#item_72",
           "title": "<b>\u9057\u8ff9\u8ff7\u5bab</b>"
         },
         "type": "Feature"
@@ -7947,10 +7947,10 @@ const feature_data = [
         "id": "graces_73",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_73",
-          "link": "/checklists/graces.html#item_73",
+          "link": "checklists/graces.html#item_73",
           "title": "<b>\u7fa4\u96c6\u7075\u5e99</b>"
         },
         "type": "Feature"
@@ -7966,10 +7966,10 @@ const feature_data = [
         "id": "graces_74",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_74",
-          "link": "/checklists/graces.html#item_74",
+          "link": "checklists/graces.html#item_74",
           "title": "<b>\u7720\u72fc\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -7985,10 +7985,10 @@ const feature_data = [
         "id": "graces_75",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_75",
-          "link": "/checklists/graces.html#item_75",
+          "link": "checklists/graces.html#item_75",
           "title": "<b>\u716e\u867e\u5b50\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -8004,10 +8004,10 @@ const feature_data = [
         "id": "graces_76",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_76",
-          "link": "/checklists/graces.html#item_76",
+          "link": "checklists/graces.html#item_76",
           "title": "<b>\u6e56\u4e2d\u5760\u843d\u9057\u8ff9</b>"
         },
         "type": "Feature"
@@ -8023,10 +8023,10 @@ const feature_data = [
         "id": "graces_77",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_77",
-          "link": "/checklists/graces.html#item_77",
+          "link": "checklists/graces.html#item_77",
           "title": "<b>\u6e56\u7554\u51c9\u4ead</b>"
         },
         "type": "Feature"
@@ -8042,10 +8042,10 @@ const feature_data = [
         "id": "graces_78",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_78",
-          "link": "/checklists/graces.html#item_78",
+          "link": "checklists/graces.html#item_78",
           "title": "<b>\u767d\u91d1\u6751</b>"
         },
         "type": "Feature"
@@ -8061,10 +8061,10 @@ const feature_data = [
         "id": "graces_79",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_79",
-          "link": "/checklists/graces.html#item_79",
+          "link": "checklists/graces.html#item_79",
           "title": "<b>\u6539\u5b97\u5854</b>"
         },
         "type": "Feature"
@@ -8080,10 +8080,10 @@ const feature_data = [
         "id": "graces_80",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_80",
-          "link": "/checklists/graces.html#item_80",
+          "link": "checklists/graces.html#item_80",
           "title": "<b>\u590d\u4ec7\u8005\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -8099,10 +8099,10 @@ const feature_data = [
         "id": "graces_81",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_81",
-          "link": "/checklists/graces.html#item_81",
+          "link": "checklists/graces.html#item_81",
           "title": "<b>\u6559\u5802\u533a</b>"
         },
         "type": "Feature"
@@ -8118,10 +8118,10 @@ const feature_data = [
         "id": "graces_82",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_82",
-          "link": "/checklists/graces.html#item_82",
+          "link": "checklists/graces.html#item_82",
           "title": "<b>\u7ed3\u6676\u68ee\u6797</b>"
         },
         "type": "Feature"
@@ -8137,10 +8137,10 @@ const feature_data = [
         "id": "graces_83",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_83",
-          "link": "/checklists/graces.html#item_83",
+          "link": "checklists/graces.html#item_83",
           "title": "<b>\u56db\u949f\u697c\u5c71\u811a</b>"
         },
         "type": "Feature"
@@ -8156,10 +8156,10 @@ const feature_data = [
         "id": "graces_84",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_84",
-          "link": "/checklists/graces.html#item_84",
+          "link": "checklists/graces.html#item_84",
           "title": "<b>\u56db\u949f\u697c</b>"
         },
         "type": "Feature"
@@ -8175,10 +8175,10 @@ const feature_data = [
         "id": "graces_85",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_85",
-          "link": "/checklists/graces.html#item_85",
+          "link": "checklists/graces.html#item_85",
           "title": "<b>\u9b54\u6cd5\u5e08\u5854\u7684\u5c0f\u5c9b</b>"
         },
         "type": "Feature"
@@ -8194,10 +8194,10 @@ const feature_data = [
         "id": "graces_86",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_86",
-          "link": "/checklists/graces.html#item_86",
+          "link": "checklists/graces.html#item_86",
           "title": "<b>\u4e1c\u95e8\u6865\u7684\u6865\u67f1</b>"
         },
         "type": "Feature"
@@ -8213,10 +8213,10 @@ const feature_data = [
         "id": "graces_87",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_87",
-          "link": "/checklists/graces.html#item_87",
+          "link": "checklists/graces.html#item_87",
           "title": "<b>\u95e8\u524d\u9547\u7684\u5317\u65b9</b>"
         },
         "type": "Feature"
@@ -8232,10 +8232,10 @@ const feature_data = [
         "id": "graces_88",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_88",
-          "link": "/checklists/graces.html#item_88",
+          "link": "checklists/graces.html#item_88",
           "title": "<b>\u5229\u8036\u5c3c\u4e9a\u6e56\uff08\u5317\u5cb8\uff09</b>"
         },
         "type": "Feature"
@@ -8251,10 +8251,10 @@ const feature_data = [
         "id": "graces_89",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_89",
-          "link": "/checklists/graces.html#item_89",
+          "link": "checklists/graces.html#item_89",
           "title": "<b>\u901a\u5f80\u57ce\u5be8\u7684\u9053\u8def</b>"
         },
         "type": "Feature"
@@ -8270,10 +8270,10 @@ const feature_data = [
         "id": "graces_90",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_90",
-          "link": "/checklists/graces.html#item_90",
+          "link": "checklists/graces.html#item_90",
           "title": "<b>\u5361\u5229\u4e9a\u57ce\u5be8\uff08\u6b63\u95e8\uff09</b>"
         },
         "type": "Feature"
@@ -8289,10 +8289,10 @@ const feature_data = [
         "id": "graces_91",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_91",
-          "link": "/checklists/graces.html#item_91",
+          "link": "checklists/graces.html#item_91",
           "title": "<b>\u57ce\u5be8\u4e0a\u90e8</b>"
         },
         "type": "Feature"
@@ -8308,10 +8308,10 @@ const feature_data = [
         "id": "graces_92",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_92",
-          "link": "/checklists/graces.html#item_92",
+          "link": "checklists/graces.html#item_92",
           "title": "<b>\u57ce\u5be8\u4e0b\u90e8</b>"
         },
         "type": "Feature"
@@ -8327,10 +8327,10 @@ const feature_data = [
         "id": "graces_93",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_93",
-          "link": "/checklists/graces.html#item_93",
+          "link": "checklists/graces.html#item_93",
           "title": "<b>\u738b\u5ba4\u8d4f\u6708\u5730</b>"
         },
         "type": "Feature"
@@ -8346,10 +8346,10 @@ const feature_data = [
         "id": "graces_94",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_94",
-          "link": "/checklists/graces.html#item_94",
+          "link": "checklists/graces.html#item_94",
           "title": "<b>\u83c8\u59ae\u9b54\u6cd5\u5e08\u5854</b>"
         },
         "type": "Feature"
@@ -8365,10 +8365,10 @@ const feature_data = [
         "id": "graces_95",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_95",
-          "link": "/checklists/graces.html#item_95",
+          "link": "checklists/graces.html#item_95",
           "title": "<b>\u5361\u5229\u4e9a\u57ce\u5be8\uff08\u540e\u65b9\uff09</b>"
         },
         "type": "Feature"
@@ -8384,10 +8384,10 @@ const feature_data = [
         "id": "graces_96",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_96",
-          "link": "/checklists/graces.html#item_96",
+          "link": "checklists/graces.html#item_96",
           "title": "<b>\u8c37\u5e95</b>"
         },
         "type": "Feature"
@@ -8403,10 +8403,10 @@ const feature_data = [
         "id": "graces_97",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_97",
-          "link": "/checklists/graces.html#item_97",
+          "link": "checklists/graces.html#item_97",
           "title": "<b>\u8c37\u5e95\u79d8\u6751</b>"
         },
         "type": "Feature"
@@ -8422,10 +8422,10 @@ const feature_data = [
         "id": "graces_98",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_98",
-          "link": "/checklists/graces.html#item_98",
+          "link": "checklists/graces.html#item_98",
           "title": "<b>\u65ad\u5d16\u4e0b\u7684\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -8441,10 +8441,10 @@ const feature_data = [
         "id": "graces_99",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_99",
-          "link": "/checklists/graces.html#item_99",
+          "link": "checklists/graces.html#item_99",
           "title": "<b>\u7edd\u8def\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -8460,10 +8460,10 @@ const feature_data = [
         "id": "graces_100",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_100",
-          "link": "/checklists/graces.html#item_100",
+          "link": "checklists/graces.html#item_100",
           "title": "<b>\u9ed1\u5200\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -8479,10 +8479,10 @@ const feature_data = [
         "id": "graces_101",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_101",
-          "link": "/checklists/graces.html#item_101",
+          "link": "checklists/graces.html#item_101",
           "title": "<b>\u7559\u6c34\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -8498,10 +8498,10 @@ const feature_data = [
         "id": "graces_102",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_102",
-          "link": "/checklists/graces.html#item_102",
+          "link": "checklists/graces.html#item_102",
           "title": "<b>\u6e56\u65c1\u7ed3\u6676\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -8517,10 +8517,10 @@ const feature_data = [
         "id": "graces_103",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_103",
-          "link": "/checklists/graces.html#item_103",
+          "link": "checklists/graces.html#item_103",
           "title": "<b>\u5b66\u9662\u7ed3\u6676\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -8536,10 +8536,10 @@ const feature_data = [
         "id": "graces_104",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_104",
-          "link": "/checklists/graces.html#item_104",
+          "link": "checklists/graces.html#item_104",
           "title": "<b>\u96f7\u4e9a\u5362\u5361\u5229\u4e9a\u7ed3\u6676\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -8555,10 +8555,10 @@ const feature_data = [
         "id": "graces_105",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_105",
-          "link": "/checklists/graces.html#item_105",
+          "link": "checklists/graces.html#item_105",
           "title": "<b>\u4e66\u658b\u5165\u53e3</b>"
         },
         "type": "Feature"
@@ -8574,10 +8574,10 @@ const feature_data = [
         "id": "graces_106",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_106",
-          "link": "/checklists/graces.html#item_106",
+          "link": "checklists/graces.html#item_106",
           "title": "<b>\u5229\u8036\u5c3c\u4e9a\u795e\u6388\u5854\uff08\u6865\u4e0a\uff09</b>"
         },
         "type": "Feature"
@@ -8593,10 +8593,10 @@ const feature_data = [
         "id": "graces_107",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_107",
-          "link": "/checklists/graces.html#item_107",
+          "link": "checklists/graces.html#item_107",
           "title": "<b>\u5229\u8036\u5c3c\u4e9a\u795e\u6388\u5854</b>"
         },
         "type": "Feature"
@@ -8612,10 +8612,10 @@ const feature_data = [
         "id": "graces_108",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_108",
-          "link": "/checklists/graces.html#item_108",
+          "link": "checklists/graces.html#item_108",
           "title": "<b>\u96f7\u4e9a\u5362\u5361\u5229\u4e9a\uff08\u4e1c\u95e8\uff09</b>"
         },
         "type": "Feature"
@@ -8631,10 +8631,10 @@ const feature_data = [
         "id": "graces_109",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_109",
-          "link": "/checklists/graces.html#item_109",
+          "link": "checklists/graces.html#item_109",
           "title": "<b>\u5f7c\u9c81\u59c6\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -8650,10 +8650,10 @@ const feature_data = [
         "id": "graces_110",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_110",
-          "link": "/checklists/graces.html#item_110",
+          "link": "checklists/graces.html#item_110",
           "title": "<b>\u8fea\u53ef\u8fbe\u65af\u5927\u5347\u964d\u673a</b>"
         },
         "type": "Feature"
@@ -8669,10 +8669,10 @@ const feature_data = [
         "id": "graces_111",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_111",
-          "link": "/checklists/graces.html#item_111",
+          "link": "checklists/graces.html#item_111",
           "title": "<b>\u766b\u706b\u6751\u5916</b>"
         },
         "type": "Feature"
@@ -8688,10 +8688,10 @@ const feature_data = [
         "id": "graces_112",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_112",
-          "link": "/checklists/graces.html#item_112",
+          "link": "checklists/graces.html#item_112",
           "title": "<b>\u9547\u9759\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -8707,10 +8707,10 @@ const feature_data = [
         "id": "graces_113",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_113",
-          "link": "/checklists/graces.html#item_113",
+          "link": "checklists/graces.html#item_113",
           "title": "<b>\u53e4\u9057\u8ff9\u65ad\u5d16</b>"
         },
         "type": "Feature"
@@ -8726,10 +8726,10 @@ const feature_data = [
         "id": "graces_114",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_114",
-          "link": "/checklists/graces.html#item_114",
+          "link": "checklists/graces.html#item_114",
           "title": "<b>\u53e4\u9057\u8ff9\u65ad\u5d16\uff08\u5bf9\u5cb8\uff09</b>"
         },
         "type": "Feature"
@@ -8745,10 +8745,10 @@ const feature_data = [
         "id": "graces_115",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_115",
-          "link": "/checklists/graces.html#item_115",
+          "link": "checklists/graces.html#item_115",
           "title": "<b>\u201c\u7194\u5ca9\u571f\u9f99\u201d\u9a6c\u5361\u5c14</b>"
         },
         "type": "Feature"
@@ -8764,10 +8764,10 @@ const feature_data = [
         "id": "graces_116",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_116",
-          "link": "/checklists/graces.html#item_116",
+          "link": "checklists/graces.html#item_116",
           "title": "<b>\u6708\u5149\u796d\u575b</b>"
         },
         "type": "Feature"
@@ -8783,10 +8783,10 @@ const feature_data = [
         "id": "graces_117",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_117",
-          "link": "/checklists/graces.html#item_117",
+          "link": "checklists/graces.html#item_117",
           "title": "<b>\u739b\u52aa\u65af\u00b7\u745f\u5229\u65af\u5927\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -8802,10 +8802,10 @@ const feature_data = [
         "id": "graces_118",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_118",
-          "link": "/checklists/graces.html#item_118",
+          "link": "checklists/graces.html#item_118",
           "title": "<b>\u796d\u575b\u5357\u65b9</b>"
         },
         "type": "Feature"
@@ -8821,10 +8821,10 @@ const feature_data = [
         "id": "graces_119",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_119",
-          "link": "/checklists/graces.html#item_119",
+          "link": "checklists/graces.html#item_119",
           "title": "<b>\u675c\u9e43\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -8840,10 +8840,10 @@ const feature_data = [
         "id": "graces_120",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_120",
-          "link": "/checklists/graces.html#item_120",
+          "link": "checklists/graces.html#item_120",
           "title": "<b>\u6821\u820d\u5185\u7684\u6559\u5ba4</b>"
         },
         "type": "Feature"
@@ -8859,10 +8859,10 @@ const feature_data = [
         "id": "graces_121",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_121",
-          "link": "/checklists/graces.html#item_121",
+          "link": "checklists/graces.html#item_121",
           "title": "<b>\u8ba8\u8bba\u5ba4</b>"
         },
         "type": "Feature"
@@ -8878,10 +8878,10 @@ const feature_data = [
         "id": "graces_122",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_122",
-          "link": "/checklists/graces.html#item_122",
+          "link": "checklists/graces.html#item_122",
           "title": "<b>\u96f7\u4e9a\u5362\u5361\u5229\u4e9a\u5927\u4e66\u5e93</b>"
         },
         "type": "Feature"
@@ -8897,10 +8897,10 @@ const feature_data = [
         "id": "graces_123",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_123",
-          "link": "/checklists/graces.html#item_123",
+          "link": "checklists/graces.html#item_123",
           "title": "<b>\u5f03\u7f6e\u68fa\u6750</b>"
         },
         "type": "Feature"
@@ -8916,10 +8916,10 @@ const feature_data = [
         "id": "graces_124",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_124",
-          "link": "/checklists/graces.html#item_124",
+          "link": "checklists/graces.html#item_124",
           "title": "<b>\u8fd1\u9ec4\u91d1\u6811\u7684\u5c71\u4e18</b>"
         },
         "type": "Feature"
@@ -8935,10 +8935,10 @@ const feature_data = [
         "id": "graces_125",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_125",
-          "link": "/checklists/graces.html#item_125",
+          "link": "checklists/graces.html#item_125",
           "title": "<b>\u4e9a\u575b\u9ad8\u539f</b>"
         },
         "type": "Feature"
@@ -8954,10 +8954,10 @@ const feature_data = [
         "id": "graces_126",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_126",
-          "link": "/checklists/graces.html#item_126",
+          "link": "checklists/graces.html#item_126",
           "title": "<b>\u4e9a\u575b\u5927\u9053\u7684\u4e09\u53c9\u53e3</b>"
         },
         "type": "Feature"
@@ -8973,10 +8973,10 @@ const feature_data = [
         "id": "graces_127",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_127",
-          "link": "/checklists/graces.html#item_127",
+          "link": "checklists/graces.html#item_127",
           "title": "<b>\u7a7f\u6797\u5927\u6865</b>"
         },
         "type": "Feature"
@@ -8992,10 +8992,10 @@ const feature_data = [
         "id": "graces_128",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_128",
-          "link": "/checklists/graces.html#item_128",
+          "link": "checklists/graces.html#item_128",
           "title": "<b>\u4e30\u9976\u68ee\u6797</b>"
         },
         "type": "Feature"
@@ -9011,10 +9011,10 @@ const feature_data = [
         "id": "graces_129",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_129",
-          "link": "/checklists/graces.html#item_129",
+          "link": "checklists/graces.html#item_129",
           "title": "<b>\u98ce\u8f66\u6751</b>"
         },
         "type": "Feature"
@@ -9030,10 +9030,10 @@ const feature_data = [
         "id": "graces_130",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_130",
-          "link": "/checklists/graces.html#item_130",
+          "link": "checklists/graces.html#item_130",
           "title": "<b>\u98ce\u8f66\u6751\u9ad8\u53f0</b>"
         },
         "type": "Feature"
@@ -9049,10 +9049,10 @@ const feature_data = [
         "id": "graces_131",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_131",
-          "link": "/checklists/graces.html#item_131",
+          "link": "checklists/graces.html#item_131",
           "title": "<b>\u79fb\u9001\u7f6a\u4eba\u4e4b\u8def\uff08\u8def\u65c1\uff09</b>"
         },
         "type": "Feature"
@@ -9068,10 +9068,10 @@ const feature_data = [
         "id": "graces_132",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_132",
-          "link": "/checklists/graces.html#item_132",
+          "link": "checklists/graces.html#item_132",
           "title": "<b>\u57ce\u5899\u65c1\u5c0f\u5f84</b>"
         },
         "type": "Feature"
@@ -9087,10 +9087,10 @@ const feature_data = [
         "id": "graces_133",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_133",
-          "link": "/checklists/graces.html#item_133",
+          "link": "checklists/graces.html#item_133",
           "title": "<b>\u65e5\u836b\u57ce\uff08\u57ce\u5899\uff09</b>"
         },
         "type": "Feature"
@@ -9106,10 +9106,10 @@ const feature_data = [
         "id": "graces_134",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_134",
-          "link": "/checklists/graces.html#item_134",
+          "link": "checklists/graces.html#item_134",
           "title": "<b>\u65e5\u836b\u57ce\uff08\u5185\u95e8\uff09</b>"
         },
         "type": "Feature"
@@ -9125,10 +9125,10 @@ const feature_data = [
         "id": "graces_135",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_135",
-          "link": "/checklists/graces.html#item_135",
+          "link": "checklists/graces.html#item_135",
           "title": "<b>\u57ce\u4e3b\u5927\u5385</b>"
         },
         "type": "Feature"
@@ -9144,10 +9144,10 @@ const feature_data = [
         "id": "graces_136",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_136",
-          "link": "/checklists/graces.html#item_136",
+          "link": "checklists/graces.html#item_136",
           "title": "<b>\u4e11\u6076\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -9163,10 +9163,10 @@ const feature_data = [
         "id": "graces_137",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_137",
-          "link": "/checklists/graces.html#item_137",
+          "link": "checklists/graces.html#item_137",
           "title": "<b>\u5c0a\u8d35\u8005\u7684\u82f1\u96c4\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -9182,10 +9182,10 @@ const feature_data = [
         "id": "graces_138",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_138",
-          "link": "/checklists/graces.html#item_138",
+          "link": "checklists/graces.html#item_138",
           "title": "<b>\u8d24\u8005\u7684\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -9201,10 +9201,10 @@ const feature_data = [
         "id": "graces_139",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_139",
-          "link": "/checklists/graces.html#item_139",
+          "link": "checklists/graces.html#item_139",
           "title": "<b>\u8c03\u9999\u5e08\u7684\u9690\u85cf\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -9220,10 +9220,10 @@ const feature_data = [
         "id": "graces_140",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_140",
-          "link": "/checklists/graces.html#item_140",
+          "link": "checklists/graces.html#item_140",
           "title": "<b>\u65e7\u4e9a\u575b\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -9239,10 +9239,10 @@ const feature_data = [
         "id": "graces_141",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_141",
-          "link": "/checklists/graces.html#item_141",
+          "link": "checklists/graces.html#item_141",
           "title": "<b>\u4e9a\u575b\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -9258,10 +9258,10 @@ const feature_data = [
         "id": "graces_142",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_142",
-          "link": "/checklists/graces.html#item_142",
+          "link": "checklists/graces.html#item_142",
           "title": "<b>\u7f6a\u4eba\u6865</b>"
         },
         "type": "Feature"
@@ -9277,10 +9277,10 @@ const feature_data = [
         "id": "graces_143",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_143",
-          "link": "/checklists/graces.html#item_143",
+          "link": "checklists/graces.html#item_143",
           "title": "<b>\u683c\u5bc6\u5c14\u706b\u5c71\uff08\u7b2c\uff11\u4f11\u606f\u7ad9\uff09</b>"
         },
         "type": "Feature"
@@ -9296,10 +9296,10 @@ const feature_data = [
         "id": "graces_144",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_144",
-          "link": "/checklists/graces.html#item_144",
+          "link": "checklists/graces.html#item_144",
           "title": "<b>\u683c\u5bc6\u5c14\u706b\u5c71\uff08\u7b2c\uff19\u4f11\u606f\u7ad9\uff09</b>"
         },
         "type": "Feature"
@@ -9315,10 +9315,10 @@ const feature_data = [
         "id": "graces_145",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_145",
-          "link": "/checklists/graces.html#item_145",
+          "link": "checklists/graces.html#item_145",
           "title": "<b>\u79fb\u9001\u7f6a\u4eba\u4e4b\u8def</b>"
         },
         "type": "Feature"
@@ -9334,10 +9334,10 @@ const feature_data = [
         "id": "graces_146",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_146",
-          "link": "/checklists/graces.html#item_146",
+          "link": "checklists/graces.html#item_146",
           "title": "<b>\u6cb8\u6eda\u6cb3</b>"
         },
         "type": "Feature"
@@ -9353,10 +9353,10 @@ const feature_data = [
         "id": "graces_147",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_147",
-          "link": "/checklists/graces.html#item_147",
+          "link": "checklists/graces.html#item_147",
           "title": "<b>\u6cb8\u6eda\u6cb3\u7ec8\u70b9</b>"
         },
         "type": "Feature"
@@ -9372,10 +9372,10 @@ const feature_data = [
         "id": "graces_148",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_148",
-          "link": "/checklists/graces.html#item_148",
+          "link": "checklists/graces.html#item_148",
           "title": "<b>\u5320\u4eba\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -9391,10 +9391,10 @@ const feature_data = [
         "id": "graces_149",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_149",
-          "link": "/checklists/graces.html#item_149",
+          "link": "checklists/graces.html#item_149",
           "title": "<b>\u201c\u8d77\u6e90\u9b54\u6cd5\u5e08\u201d\u4e9a\u5179\u52d2</b>"
         },
         "type": "Feature"
@@ -9410,10 +9410,10 @@ const feature_data = [
         "id": "graces_150",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_150",
-          "link": "/checklists/graces.html#item_150",
+          "link": "checklists/graces.html#item_150",
           "title": "<b>\u5a01\u8fbe\u59c6\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -9429,10 +9429,10 @@ const feature_data = [
         "id": "graces_151",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_151",
-          "link": "/checklists/graces.html#item_151",
+          "link": "checklists/graces.html#item_151",
           "title": "<b>\u683c\u5bc6\u5c14\u82f1\u96c4\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -9448,10 +9448,10 @@ const feature_data = [
         "id": "graces_152",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_152",
-          "link": "/checklists/graces.html#item_152",
+          "link": "checklists/graces.html#item_152",
           "title": "<b>\u6cb8\u6eda\u6cb3\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -9467,10 +9467,10 @@ const feature_data = [
         "id": "graces_153",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_153",
-          "link": "/checklists/graces.html#item_153",
+          "link": "checklists/graces.html#item_153",
           "title": "<b>\u706b\u5c71\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -9486,10 +9486,10 @@ const feature_data = [
         "id": "graces_154",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_154",
-          "link": "/checklists/graces.html#item_154",
+          "link": "checklists/graces.html#item_154",
           "title": "<b>\u57ce\u5916\u5e7b\u5f71\u6811</b>"
         },
         "type": "Feature"
@@ -9505,10 +9505,10 @@ const feature_data = [
         "id": "graces_155",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_155",
-          "link": "/checklists/graces.html#item_155",
+          "link": "checklists/graces.html#item_155",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -9524,10 +9524,10 @@ const feature_data = [
         "id": "graces_156",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_156",
-          "link": "/checklists/graces.html#item_156",
+          "link": "checklists/graces.html#item_156",
           "title": "<b>\u57ce\u5916\u6218\u573a\u9057\u8ff9</b>"
         },
         "type": "Feature"
@@ -9543,10 +9543,10 @@ const feature_data = [
         "id": "graces_157",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_157",
-          "link": "/checklists/graces.html#item_157",
+          "link": "checklists/graces.html#item_157",
           "title": "<b>\u9041\u4e16\u5546\u4eba\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -9562,10 +9562,10 @@ const feature_data = [
         "id": "graces_158",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_158",
-          "link": "/checklists/graces.html#item_158",
+          "link": "checklists/graces.html#item_158",
           "title": "<b>\u738b\u57ce\u57ce\u5899\u524d\u65b9</b>"
         },
         "type": "Feature"
@@ -9581,10 +9581,10 @@ const feature_data = [
         "id": "graces_159",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_159",
-          "link": "/checklists/graces.html#item_159",
+          "link": "checklists/graces.html#item_159",
           "title": "<b>\u4e9a\u96f7\u8428\u526f\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -9600,10 +9600,10 @@ const feature_data = [
         "id": "graces_160",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_160",
-          "link": "/checklists/graces.html#item_160",
+          "link": "checklists/graces.html#item_160",
           "title": "<b>\u4e9a\u96f7\u8428\u82f1\u96c4\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -9619,10 +9619,10 @@ const feature_data = [
         "id": "graces_161",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_161",
-          "link": "/checklists/graces.html#item_161",
+          "link": "checklists/graces.html#item_161",
           "title": "<b>\u5c01\u5370\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -9638,10 +9638,10 @@ const feature_data = [
         "id": "graces_162",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_162",
-          "link": "/checklists/graces.html#item_162",
+          "link": "checklists/graces.html#item_162",
           "title": "<b>\u897f\u4e9a\u575b\u795e\u6388\u5854\uff08\u95e8\u53e3\uff09</b>"
         },
         "type": "Feature"
@@ -9657,10 +9657,10 @@ const feature_data = [
         "id": "graces_163",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_163",
-          "link": "/checklists/graces.html#item_163",
+          "link": "checklists/graces.html#item_163",
           "title": "<b>\u897f\u4e9a\u575b\u795e\u6388\u5854</b>"
         },
         "type": "Feature"
@@ -9676,10 +9676,10 @@ const feature_data = [
         "id": "graces_164",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_164",
-          "link": "/checklists/graces.html#item_164",
+          "link": "checklists/graces.html#item_164",
           "title": "<b>\u706b\u5c71\u5b98\u90b8</b>"
         },
         "type": "Feature"
@@ -9695,10 +9695,10 @@ const feature_data = [
         "id": "graces_165",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_165",
-          "link": "/checklists/graces.html#item_165",
+          "link": "checklists/graces.html#item_165",
           "title": "<b>\u7262\u9547\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -9714,10 +9714,10 @@ const feature_data = [
         "id": "graces_166",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_166",
-          "link": "/checklists/graces.html#item_166",
+          "link": "checklists/graces.html#item_166",
           "title": "<b>\u827e\u683c\u857e\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -9733,10 +9733,10 @@ const feature_data = [
         "id": "graces_167",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_167",
-          "link": "/checklists/graces.html#item_167",
+          "link": "checklists/graces.html#item_167",
           "title": "<b>\u8fce\u5bbe\u5385</b>"
         },
         "type": "Feature"
@@ -9752,10 +9752,10 @@ const feature_data = [
         "id": "graces_168",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_168",
-          "link": "/checklists/graces.html#item_168",
+          "link": "checklists/graces.html#item_168",
           "title": "<b>\u8c12\u89c1\u4e4b\u8def</b>"
         },
         "type": "Feature"
@@ -9771,10 +9771,10 @@ const feature_data = [
         "id": "graces_169",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_169",
-          "link": "/checklists/graces.html#item_169",
+          "link": "checklists/graces.html#item_169",
           "title": "<b>\u63b3\u4eba\u5c11\u5973\u4eba\u5076</b>"
         },
         "type": "Feature"
@@ -9790,10 +9790,10 @@ const feature_data = [
         "id": "graces_170",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_170",
-          "link": "/checklists/graces.html#item_170",
+          "link": "checklists/graces.html#item_170",
           "title": "<b>\u5730\u5e95\u62f7\u95ee\u6240</b>"
         },
         "type": "Feature"
@@ -9809,10 +9809,10 @@ const feature_data = [
         "id": "graces_171",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_171",
-          "link": "/checklists/graces.html#item_171",
+          "link": "checklists/graces.html#item_171",
           "title": "<b>\u201c\u4eb5\u6e0e\u541b\u738b\u201d\u62c9\u5361\u5fb7</b>"
         },
         "type": "Feature"
@@ -9828,10 +9828,10 @@ const feature_data = [
         "id": "graces_172",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_172",
-          "link": "/checklists/graces.html#item_172",
+          "link": "checklists/graces.html#item_172",
           "title": "<b>\u9ec4\u91d1\u6811\u5927\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -9847,10 +9847,10 @@ const feature_data = [
         "id": "graces_173",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_173",
-          "link": "/checklists/graces.html#item_173",
+          "link": "checklists/graces.html#item_173",
           "title": "<b>\u738b\u57ce\u4e1c\u8fb9\u57ce\u5899</b>"
         },
         "type": "Feature"
@@ -9866,10 +9866,10 @@ const feature_data = [
         "id": "graces_174",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_174",
-          "link": "/checklists/graces.html#item_174",
+          "link": "checklists/graces.html#item_174",
           "title": "<b>\u738b\u57ce\u5e95\u5c42\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -9885,10 +9885,10 @@ const feature_data = [
         "id": "graces_175",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_175",
-          "link": "/checklists/graces.html#item_175",
+          "link": "checklists/graces.html#item_175",
           "title": "<b>\u5927\u9053\u65c1\u9732\u53f0</b>"
         },
         "type": "Feature"
@@ -9904,10 +9904,10 @@ const feature_data = [
         "id": "graces_176",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_176",
-          "link": "/checklists/graces.html#item_176",
+          "link": "checklists/graces.html#item_176",
           "title": "<b>\u738b\u57ce\u897f\u8fb9\u57ce\u5899</b>"
         },
         "type": "Feature"
@@ -9923,10 +9923,10 @@ const feature_data = [
         "id": "graces_177",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_177",
-          "link": "/checklists/graces.html#item_177",
+          "link": "checklists/graces.html#item_177",
           "title": "<b>\u5973\u738b\u95fa\u9601</b>"
         },
         "type": "Feature"
@@ -9942,10 +9942,10 @@ const feature_data = [
         "id": "graces_178",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_178",
-          "link": "/checklists/graces.html#item_178",
+          "link": "checklists/graces.html#item_178",
           "title": "<b>\u57ce\u5be8\u4e00\u697c</b>"
         },
         "type": "Feature"
@@ -9961,10 +9961,10 @@ const feature_data = [
         "id": "graces_179",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_179",
-          "link": "/checklists/graces.html#item_179",
+          "link": "checklists/graces.html#item_179",
           "title": "<b>\u795e\u6388\u6865</b>"
         },
         "type": "Feature"
@@ -9980,10 +9980,10 @@ const feature_data = [
         "id": "graces_180",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_180",
-          "link": "/checklists/graces.html#item_180",
+          "link": "checklists/graces.html#item_180",
           "title": "<b>\u827e\u5c14\u767b\u5b9d\u5ea7</b>"
         },
         "type": "Feature"
@@ -9999,10 +9999,10 @@ const feature_data = [
         "id": "graces_181",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_181",
-          "link": "/checklists/graces.html#item_181",
+          "link": "checklists/graces.html#item_181",
           "title": "<b>\u5730\u5e95\u5927\u9053\u65c1</b>"
         },
         "type": "Feature"
@@ -10018,10 +10018,10 @@ const feature_data = [
         "id": "graces_182",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_182",
-          "link": "/checklists/graces.html#item_182",
+          "link": "checklists/graces.html#item_182",
           "title": "<b>\u5f03\u7f6e\u6076\u5146\u7684\u5e95\u5c42</b>"
         },
         "type": "Feature"
@@ -10037,10 +10037,10 @@ const feature_data = [
         "id": "graces_183",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_183",
-          "link": "/checklists/graces.html#item_183",
+          "link": "checklists/graces.html#item_183",
           "title": "<b>\u7f57\u5fb7\u5c14\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -10056,10 +10056,10 @@ const feature_data = [
         "id": "graces_184",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_184",
-          "link": "/checklists/graces.html#item_184",
+          "link": "checklists/graces.html#item_184",
           "title": "<b>\u766b\u706b\u5c01\u5370</b>"
         },
         "type": "Feature"
@@ -10075,10 +10075,10 @@ const feature_data = [
         "id": "graces_185",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_185",
-          "link": "/checklists/graces.html#item_185",
+          "link": "checklists/graces.html#item_185",
           "title": "<b>\u5f03\u7f6e\u6076\u5146\u7684\u5927\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -10094,10 +10094,10 @@ const feature_data = [
         "id": "graces_186",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_186",
-          "link": "/checklists/graces.html#item_186",
+          "link": "checklists/graces.html#item_186",
           "title": "<b>\u738b\u57ce\u4e1c\u8fb9\u57ce\u5899</b>"
         },
         "type": "Feature"
@@ -10113,10 +10113,10 @@ const feature_data = [
         "id": "graces_187",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_187",
-          "link": "/checklists/graces.html#item_187",
+          "link": "checklists/graces.html#item_187",
           "title": "<b>\u201c\u7070\u70ec\u738b\u57ce\u201d\u7f57\u5fb7\u5c14</b>"
         },
         "type": "Feature"
@@ -10132,10 +10132,10 @@ const feature_data = [
         "id": "graces_188",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_188",
-          "link": "/checklists/graces.html#item_188",
+          "link": "checklists/graces.html#item_188",
           "title": "<b>\u9ec4\u91d1\u6811\u5927\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -10151,10 +10151,10 @@ const feature_data = [
         "id": "graces_189",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_189",
-          "link": "/checklists/graces.html#item_189",
+          "link": "checklists/graces.html#item_189",
           "title": "<b>\u5973\u738b\u95fa\u9601</b>"
         },
         "type": "Feature"
@@ -10170,10 +10170,10 @@ const feature_data = [
         "id": "graces_190",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_190",
-          "link": "/checklists/graces.html#item_190",
+          "link": "checklists/graces.html#item_190",
           "title": "<b>\u795e\u6388\u6865</b>"
         },
         "type": "Feature"
@@ -10189,10 +10189,10 @@ const feature_data = [
         "id": "graces_191",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_191",
-          "link": "/checklists/graces.html#item_191",
+          "link": "checklists/graces.html#item_191",
           "title": "<b>\u827e\u5c14\u767b\u5b9d\u5ea7</b>"
         },
         "type": "Feature"
@@ -10208,10 +10208,10 @@ const feature_data = [
         "id": "graces_192",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_192",
-          "link": "/checklists/graces.html#item_192",
+          "link": "checklists/graces.html#item_192",
           "title": "<b>\u6fd2\u6bc1\u739b\u8389\u5361</b>"
         },
         "type": "Feature"
@@ -10227,10 +10227,10 @@ const feature_data = [
         "id": "graces_193",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_193",
-          "link": "/checklists/graces.html#item_193",
+          "link": "checklists/graces.html#item_193",
           "title": "<b>\u718f\u706b\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -10246,10 +10246,10 @@ const feature_data = [
         "id": "graces_194",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_194",
-          "link": "/checklists/graces.html#item_194",
+          "link": "checklists/graces.html#item_194",
           "title": "<b>\u8150\u8d25\u65c1\u9732\u53f0</b>"
         },
         "type": "Feature"
@@ -10265,10 +10265,10 @@ const feature_data = [
         "id": "graces_195",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_195",
-          "link": "/checklists/graces.html#item_195",
+          "link": "checklists/graces.html#item_195",
           "title": "<b>\u5947\u5217\u59c6\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -10284,10 +10284,10 @@ const feature_data = [
         "id": "graces_196",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_196",
-          "link": "/checklists/graces.html#item_196",
+          "link": "checklists/graces.html#item_196",
           "title": "<b>\u76d6\u5c14\u8981\u585e\u5317\u65b9</b>"
         },
         "type": "Feature"
@@ -10303,10 +10303,10 @@ const feature_data = [
         "id": "graces_197",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_197",
-          "link": "/checklists/graces.html#item_197",
+          "link": "checklists/graces.html#item_197",
           "title": "<b>\u718f\u70e7\u706b\u5899</b>"
         },
         "type": "Feature"
@@ -10322,10 +10322,10 @@ const feature_data = [
         "id": "graces_198",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_198",
-          "link": "/checklists/graces.html#item_198",
+          "link": "checklists/graces.html#item_198",
           "title": "<b>\u76d6\u5229\u5fb7\u5927\u9053\u5357\u65b9</b>"
         },
         "type": "Feature"
@@ -10341,10 +10341,10 @@ const feature_data = [
         "id": "graces_199",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_199",
-          "link": "/checklists/graces.html#item_199",
+          "link": "checklists/graces.html#item_199",
           "title": "<b>\u5927\u9f99\u98e8\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -10360,10 +10360,10 @@ const feature_data = [
         "id": "graces_200",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_200",
-          "link": "/checklists/graces.html#item_200",
+          "link": "checklists/graces.html#item_200",
           "title": "<b>\u827e\u5965\u5c3c\u4e9a\u6cbc\u6cfd\uff08\u5357\u5cb8\uff09</b>"
         },
         "type": "Feature"
@@ -10379,10 +10379,10 @@ const feature_data = [
         "id": "graces_201",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_201",
-          "link": "/checklists/graces.html#item_201",
+          "link": "checklists/graces.html#item_201",
           "title": "<b>\u745f\u5229\u4e9a\u9547\u540e\u4fa7</b>"
         },
         "type": "Feature"
@@ -10398,10 +10398,10 @@ const feature_data = [
         "id": "graces_202",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_202",
-          "link": "/checklists/graces.html#item_202",
+          "link": "checklists/graces.html#item_202",
           "title": "<b>\u745f\u5229\u4e9a\u9547\uff08\u697c\u68af\u4e0b\u65b9\uff09</b>"
         },
         "type": "Feature"
@@ -10417,10 +10417,10 @@ const feature_data = [
         "id": "graces_203",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_203",
-          "link": "/checklists/graces.html#item_203",
+          "link": "checklists/graces.html#item_203",
           "title": "<b>\u745f\u5229\u4e9a\u6905\u5b50\u5e99</b>"
         },
         "type": "Feature"
@@ -10436,10 +10436,10 @@ const feature_data = [
         "id": "graces_204",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_204",
-          "link": "/checklists/graces.html#item_204",
+          "link": "checklists/graces.html#item_204",
           "title": "<b>\u8150\u8d25\u75c5\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -10455,10 +10455,10 @@ const feature_data = [
         "id": "graces_205",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_205",
-          "link": "/checklists/graces.html#item_205",
+          "link": "checklists/graces.html#item_205",
           "title": "<b>\u5e0c\u8299\u62c9\u6cb3\u7684\u51fa\u53e3\u4e95</b>"
         },
         "type": "Feature"
@@ -10474,10 +10474,10 @@ const feature_data = [
         "id": "graces_206",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_206",
-          "link": "/checklists/graces.html#item_206",
+          "link": "checklists/graces.html#item_206",
           "title": "<b>\u4e0d\u7834\u5927\u6865</b>"
         },
         "type": "Feature"
@@ -10493,10 +10493,10 @@ const feature_data = [
         "id": "graces_207",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_207",
-          "link": "/checklists/graces.html#item_207",
+          "link": "checklists/graces.html#item_207",
           "title": "<b>\u5e7f\u573a\u524d\u623f\u95f4</b>"
         },
         "type": "Feature"
@@ -10512,10 +10512,10 @@ const feature_data = [
         "id": "graces_208",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_208",
-          "link": "/checklists/graces.html#item_208",
+          "link": "checklists/graces.html#item_208",
           "title": "<b>\u7ea2\u72ee\u5b50\u57ce\uff08\u5e7f\u573a\uff09</b>"
         },
         "type": "Feature"
@@ -10531,10 +10531,10 @@ const feature_data = [
         "id": "graces_209",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_209",
-          "link": "/checklists/graces.html#item_209",
+          "link": "checklists/graces.html#item_209",
           "title": "<b>\u201c\u788e\u661f\u201d\u62c9\u5854\u6069</b>"
         },
         "type": "Feature"
@@ -10550,10 +10550,10 @@ const feature_data = [
         "id": "graces_210",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_210",
-          "link": "/checklists/graces.html#item_210",
+          "link": "checklists/graces.html#item_210",
           "title": "<b>\u5c0f\u9ec4\u91d1\u6811\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -10569,10 +10569,10 @@ const feature_data = [
         "id": "graces_211",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_211",
-          "link": "/checklists/graces.html#item_211",
+          "link": "checklists/graces.html#item_211",
           "title": "<b>\u76d6\u5229\u5fb7\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -10588,10 +10588,10 @@ const feature_data = [
         "id": "graces_212",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_212",
-          "link": "/checklists/graces.html#item_212",
+          "link": "checklists/graces.html#item_212",
           "title": "<b>\u82f1\u7075\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -10607,10 +10607,10 @@ const feature_data = [
         "id": "graces_213",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_213",
-          "link": "/checklists/graces.html#item_213",
+          "link": "checklists/graces.html#item_213",
           "title": "<b>\u5e9f\u5f03\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -10626,10 +10626,10 @@ const feature_data = [
         "id": "graces_214",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_214",
-          "link": "/checklists/graces.html#item_214",
+          "link": "checklists/graces.html#item_214",
           "title": "<b>\u7262\u72f1\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -10645,10 +10645,10 @@ const feature_data = [
         "id": "graces_215",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_215",
-          "link": "/checklists/graces.html#item_215",
+          "link": "checklists/graces.html#item_215",
           "title": "<b>\u76d6\u5c14\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -10664,10 +10664,10 @@ const feature_data = [
         "id": "graces_216",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_216",
-          "link": "/checklists/graces.html#item_216",
+          "link": "checklists/graces.html#item_216",
           "title": "<b>\u76d6\u5c14\u5751\u9053\uff08\u4fa7\u95e8\u53e3\uff09</b>"
         },
         "type": "Feature"
@@ -10683,10 +10683,10 @@ const feature_data = [
         "id": "graces_217",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_217",
-          "link": "/checklists/graces.html#item_217",
+          "link": "checklists/graces.html#item_217",
           "title": "<b>\u745f\u5229\u4e9a\u7ed3\u6676\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -10702,10 +10702,10 @@ const feature_data = [
         "id": "graces_218",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_218",
-          "link": "/checklists/graces.html#item_218",
+          "link": "checklists/graces.html#item_218",
           "title": "<b>\u827e\u5965\u5c3c\u4e9a\u6cbc\u6cfd\uff08\u5cb8\u8fb9\uff09</b>"
         },
         "type": "Feature"
@@ -10721,10 +10721,10 @@ const feature_data = [
         "id": "graces_219",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_219",
-          "link": "/checklists/graces.html#item_219",
+          "link": "checklists/graces.html#item_219",
           "title": "<b>\u76d6\u5229\u5fb7\u5927\u9053\u5317\u65b9\uff08\u504f\u79bb\u5927\u9053\u540e\uff09</b>"
         },
         "type": "Feature"
@@ -10740,10 +10740,10 @@ const feature_data = [
         "id": "graces_220",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_220",
-          "link": "/checklists/graces.html#item_220",
+          "link": "checklists/graces.html#item_220",
           "title": "<b>\u827e\u5965\u5c3c\u4e9a\u4e2d\u5fc3\u5730</b>"
         },
         "type": "Feature"
@@ -10759,10 +10759,10 @@ const feature_data = [
         "id": "graces_221",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_221",
-          "link": "/checklists/graces.html#item_221",
+          "link": "checklists/graces.html#item_221",
           "title": "<b>\u827e\u5965\u5c3c\u4e9a\u6cbc\u6cfd\uff08\u6df1\u5904\uff09</b>"
         },
         "type": "Feature"
@@ -10778,10 +10778,10 @@ const feature_data = [
         "id": "graces_222",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_222",
-          "link": "/checklists/graces.html#item_222",
+          "link": "checklists/graces.html#item_222",
           "title": "<b>\u9f99\u5893\u897f\u65b9</b>"
         },
         "type": "Feature"
@@ -10797,10 +10797,10 @@ const feature_data = [
         "id": "graces_223",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_223",
-          "link": "/checklists/graces.html#item_223",
+          "link": "checklists/graces.html#item_223",
           "title": "<b>\u9690\u5c45\u5546\u4eba\u7684\u7834\u5c4b</b>"
         },
         "type": "Feature"
@@ -10816,10 +10816,10 @@ const feature_data = [
         "id": "graces_224",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_224",
-          "link": "/checklists/graces.html#item_224",
+          "link": "checklists/graces.html#item_224",
           "title": "<b>\u6cd5\u6d1b\u65af\u8981\u585e</b>"
         },
         "type": "Feature"
@@ -10835,10 +10835,10 @@ const feature_data = [
         "id": "graces_225",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_225",
-          "link": "/checklists/graces.html#item_225",
+          "link": "checklists/graces.html#item_225",
           "title": "<b>\u9f99\u5893\u7684\u5c94\u8def</b>"
         },
         "type": "Feature"
@@ -10854,10 +10854,10 @@ const feature_data = [
         "id": "graces_226",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_226",
-          "link": "/checklists/graces.html#item_226",
+          "link": "checklists/graces.html#item_226",
           "title": "<b>\u96f7\u6069\u9b54\u6cd5\u5e08\u5854</b>"
         },
         "type": "Feature"
@@ -10873,10 +10873,10 @@ const feature_data = [
         "id": "graces_227",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_227",
-          "link": "/checklists/graces.html#item_227",
+          "link": "checklists/graces.html#item_227",
           "title": "<b>\u6cd5\u59c6\u5927\u6865</b>"
         },
         "type": "Feature"
@@ -10892,10 +10892,10 @@ const feature_data = [
         "id": "graces_228",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_228",
-          "link": "/checklists/graces.html#item_228",
+          "link": "checklists/graces.html#item_228",
           "title": "<b>\u91ce\u517d\u795e\u6bbf</b>"
         },
         "type": "Feature"
@@ -10911,10 +10911,10 @@ const feature_data = [
         "id": "graces_229",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_229",
-          "link": "/checklists/graces.html#item_229",
+          "link": "checklists/graces.html#item_229",
           "title": "<b>\u745f\u5229\u4e9a\u9690\u85cf\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -10930,10 +10930,10 @@ const feature_data = [
         "id": "graces_230",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_230",
-          "link": "/checklists/graces.html#item_230",
+          "link": "checklists/graces.html#item_230",
           "title": "<b>\u9f99\u5893\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -10949,10 +10949,10 @@ const feature_data = [
         "id": "graces_231",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_231",
-          "link": "/checklists/graces.html#item_231",
+          "link": "checklists/graces.html#item_231",
           "title": "<b>\u76d6\u5229\u5fb7\u795e\u6388\u5854\uff08\u4e2d\u6bb5\uff09</b>"
         },
         "type": "Feature"
@@ -10968,10 +10968,10 @@ const feature_data = [
         "id": "graces_232",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_232",
-          "link": "/checklists/graces.html#item_232",
+          "link": "checklists/graces.html#item_232",
           "title": "<b>\u76d6\u5229\u5fb7\u795e\u6388\u5854\uff08\u5730\u5e95\uff09</b>"
         },
         "type": "Feature"
@@ -10987,10 +10987,10 @@ const feature_data = [
         "id": "graces_233",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_233",
-          "link": "/checklists/graces.html#item_233",
+          "link": "checklists/graces.html#item_233",
           "title": "<b>\u5b64\u7acb\u795e\u6388\u5854</b>"
         },
         "type": "Feature"
@@ -11006,10 +11006,10 @@ const feature_data = [
         "id": "graces_234",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_234",
-          "link": "/checklists/graces.html#item_234",
+          "link": "checklists/graces.html#item_234",
           "title": "<b>\u7981\u57df</b>"
         },
         "type": "Feature"
@@ -11025,10 +11025,10 @@ const feature_data = [
         "id": "graces_235",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_235",
-          "link": "/checklists/graces.html#item_235",
+          "link": "checklists/graces.html#item_235",
           "title": "<b>\u6d1b\u5fb7\u5927\u5347\u964d\u673a</b>"
         },
         "type": "Feature"
@@ -11044,10 +11044,10 @@ const feature_data = [
         "id": "graces_236",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_236",
-          "link": "/checklists/graces.html#item_236",
+          "link": "checklists/graces.html#item_236",
           "title": "<b>\u901a\u5f80\u5723\u6811\u7684\u5bc6\u9053</b>"
         },
         "type": "Feature"
@@ -11063,10 +11063,10 @@ const feature_data = [
         "id": "graces_237",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_237",
-          "link": "/checklists/graces.html#item_237",
+          "link": "checklists/graces.html#item_237",
           "title": "<b>\u4e1c\u4e9a\u575b\u795e\u6388\u5854\uff08\u95e8\u53e3\uff09</b>"
         },
         "type": "Feature"
@@ -11082,10 +11082,10 @@ const feature_data = [
         "id": "graces_238",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_238",
-          "link": "/checklists/graces.html#item_238",
+          "link": "checklists/graces.html#item_238",
           "title": "<b>\u4e1c\u4e9a\u575b\u795e\u6388\u5854</b>"
         },
         "type": "Feature"
@@ -11101,10 +11101,10 @@ const feature_data = [
         "id": "graces_239",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_239",
-          "link": "/checklists/graces.html#item_239",
+          "link": "checklists/graces.html#item_239",
           "title": "<b>\u8428\u7c73\u5c14\u5e9f\u589f</b>"
         },
         "type": "Feature"
@@ -11120,10 +11120,10 @@ const feature_data = [
         "id": "graces_240",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_240",
-          "link": "/checklists/graces.html#item_240",
+          "link": "checklists/graces.html#item_240",
           "title": "<b>\u53e4\u9057\u8ff9\u964d\u96ea\u8c37</b>"
         },
         "type": "Feature"
@@ -11139,10 +11139,10 @@ const feature_data = [
         "id": "graces_241",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_241",
-          "link": "/checklists/graces.html#item_241",
+          "link": "checklists/graces.html#item_241",
           "title": "<b>\u7ed3\u51b0\u6e56</b>"
         },
         "type": "Feature"
@@ -11158,10 +11158,10 @@ const feature_data = [
         "id": "graces_242",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_242",
-          "link": "/checklists/graces.html#item_242",
+          "link": "checklists/graces.html#item_242",
           "title": "<b>\u739b\u8389\u5361\u7b2c\u4e00\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -11177,10 +11177,10 @@ const feature_data = [
         "id": "graces_243",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_243",
-          "link": "/checklists/graces.html#item_243",
+          "link": "checklists/graces.html#item_243",
           "title": "<b>\u964d\u96ea\u68f1\u7ebf\u8def</b>"
         },
         "type": "Feature"
@@ -11196,10 +11196,10 @@ const feature_data = [
         "id": "graces_244",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_244",
-          "link": "/checklists/graces.html#item_244",
+          "link": "checklists/graces.html#item_244",
           "title": "<b>\u53e4\u9057\u8ff9\u5c71\u8c37\u7684\u5c71\u5d16\u4e0a</b>"
         },
         "type": "Feature"
@@ -11215,10 +11215,10 @@ const feature_data = [
         "id": "graces_245",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_245",
-          "link": "/checklists/graces.html#item_245",
+          "link": "checklists/graces.html#item_245",
           "title": "<b>\u7d22\u5c14\u57ce\uff08\u6b63\u95e8\uff09</b>"
         },
         "type": "Feature"
@@ -11234,10 +11234,10 @@ const feature_data = [
         "id": "graces_246",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_246",
-          "link": "/checklists/graces.html#item_246",
+          "link": "checklists/graces.html#item_246",
           "title": "<b>\u65e5\u8680\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -11253,10 +11253,10 @@ const feature_data = [
         "id": "graces_247",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_247",
-          "link": "/checklists/graces.html#item_247",
+          "link": "checklists/graces.html#item_247",
           "title": "<b>\u7d22\u5c14\u57ce\uff08\u5c4b\u9876\uff09</b>"
         },
         "type": "Feature"
@@ -11272,10 +11272,10 @@ const feature_data = [
         "id": "graces_248",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_248",
-          "link": "/checklists/graces.html#item_248",
+          "link": "checklists/graces.html#item_248",
           "title": "<b>\u5524\u7075\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -11291,10 +11291,10 @@ const feature_data = [
         "id": "graces_249",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_249",
-          "link": "/checklists/graces.html#item_249",
+          "link": "checklists/graces.html#item_249",
           "title": "<b>\u5de8\u4eba\u5893\u7891</b>"
         },
         "type": "Feature"
@@ -11310,10 +11310,10 @@ const feature_data = [
         "id": "graces_250",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_250",
-          "link": "/checklists/graces.html#item_250",
+          "link": "checklists/graces.html#item_250",
           "title": "<b>\u5b89\u6b47\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -11329,10 +11329,10 @@ const feature_data = [
         "id": "graces_251",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_251",
-          "link": "/checklists/graces.html#item_251",
+          "link": "checklists/graces.html#item_251",
           "title": "<b>\u706b\u7130\u5927\u9505\u4e0b\u65b9</b>"
         },
         "type": "Feature"
@@ -11348,10 +11348,10 @@ const feature_data = [
         "id": "graces_252",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_252",
-          "link": "/checklists/graces.html#item_252",
+          "link": "checklists/graces.html#item_252",
           "title": "<b>\u706b\u7130\u5de8\u4eba</b>"
         },
         "type": "Feature"
@@ -11367,10 +11367,10 @@ const feature_data = [
         "id": "graces_253",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_253",
-          "link": "/checklists/graces.html#item_253",
+          "link": "checklists/graces.html#item_253",
           "title": "<b>\u5de8\u4eba\u706b\u7130\u5927\u9505</b>"
         },
         "type": "Feature"
@@ -11386,10 +11386,10 @@ const feature_data = [
         "id": "graces_254",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_254",
-          "link": "/checklists/graces.html#item_254",
+          "link": "checklists/graces.html#item_254",
           "title": "<b>\u5de8\u4eba\u5c71\u9876\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -11405,10 +11405,10 @@ const feature_data = [
         "id": "graces_255",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_255",
-          "link": "/checklists/graces.html#item_255",
+          "link": "checklists/graces.html#item_255",
           "title": "<b>\u5de8\u4eba\u6218\u4e89\u7684\u82f1\u96c4\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -11424,10 +11424,10 @@ const feature_data = [
         "id": "graces_256",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_256",
-          "link": "/checklists/graces.html#item_256",
+          "link": "checklists/graces.html#item_256",
           "title": "<b>\u5316\u5723\u96ea\u539f</b>"
         },
         "type": "Feature"
@@ -11443,10 +11443,10 @@ const feature_data = [
         "id": "graces_257",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_257",
-          "link": "/checklists/graces.html#item_257",
+          "link": "checklists/graces.html#item_257",
           "title": "<b>\u5316\u5723\u96ea\u539f\uff08\u6df1\u5904\uff09</b>"
         },
         "type": "Feature"
@@ -11462,10 +11462,10 @@ const feature_data = [
         "id": "graces_258",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_258",
-          "link": "/checklists/graces.html#item_258",
+          "link": "checklists/graces.html#item_258",
           "title": "<b>\u201c\u4eea\u5178\u9547\u201d\u5965\u7f07\u90a3</b>"
         },
         "type": "Feature"
@@ -11481,10 +11481,10 @@ const feature_data = [
         "id": "graces_259",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_259",
-          "link": "/checklists/graces.html#item_259",
+          "link": "checklists/graces.html#item_259",
           "title": "<b>\u79bb\u6559\u5e9f\u5c4b</b>"
         },
         "type": "Feature"
@@ -11500,10 +11500,10 @@ const feature_data = [
         "id": "graces_260",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_260",
-          "link": "/checklists/graces.html#item_260",
+          "link": "checklists/graces.html#item_260",
           "title": "<b>\u5316\u5723\u96ea\u539f\u5730\u4e0b\u5893\u5730</b>"
         },
         "type": "Feature"
@@ -11519,10 +11519,10 @@ const feature_data = [
         "id": "graces_261",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_261",
-          "link": "/checklists/graces.html#item_261",
+          "link": "checklists/graces.html#item_261",
           "title": "<b>\u5b89\u8eab\u6d1e\u7a9f</b>"
         },
         "type": "Feature"
@@ -11538,10 +11538,10 @@ const feature_data = [
         "id": "graces_262",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_262",
-          "link": "/checklists/graces.html#item_262",
+          "link": "checklists/graces.html#item_262",
           "title": "<b>\u8036\u7f57\u00b7\u4e9a\u5c3c\u65af\u5751\u9053</b>"
         },
         "type": "Feature"
@@ -11557,10 +11557,10 @@ const feature_data = [
         "id": "graces_263",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_263",
-          "link": "/checklists/graces.html#item_263",
+          "link": "checklists/graces.html#item_263",
           "title": "<b>\u5723\u6811\u6811\u51a0</b>"
         },
         "type": "Feature"
@@ -11576,10 +11576,10 @@ const feature_data = [
         "id": "graces_264",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_264",
-          "link": "/checklists/graces.html#item_264",
+          "link": "checklists/graces.html#item_264",
           "title": "<b>\u5723\u6811\u9547</b>"
         },
         "type": "Feature"
@@ -11595,10 +11595,10 @@ const feature_data = [
         "id": "graces_265",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_265",
-          "link": "/checklists/graces.html#item_265",
+          "link": "checklists/graces.html#item_265",
           "title": "<b>\u5723\u6811\u9547\uff08\u5e7f\u573a\uff09</b>"
         },
         "type": "Feature"
@@ -11614,10 +11614,10 @@ const feature_data = [
         "id": "graces_266",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_266",
-          "link": "/checklists/graces.html#item_266",
+          "link": "checklists/graces.html#item_266",
           "title": "<b>\u5723\u6811\u5927\u821e\u53f0</b>"
         },
         "type": "Feature"
@@ -11633,10 +11633,10 @@ const feature_data = [
         "id": "graces_267",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_267",
-          "link": "/checklists/graces.html#item_267",
+          "link": "checklists/graces.html#item_267",
           "title": "<b>\u7948\u7977\u5ba4</b>"
         },
         "type": "Feature"
@@ -11652,10 +11652,10 @@ const feature_data = [
         "id": "graces_268",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_268",
-          "link": "/checklists/graces.html#item_268",
+          "link": "checklists/graces.html#item_268",
           "title": "<b>\u827e\u5e03\u96f7\u83f2\u5c14\u57ce\u5899\u5185\u90e8</b>"
         },
         "type": "Feature"
@@ -11671,10 +11671,10 @@ const feature_data = [
         "id": "graces_269",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_269",
-          "link": "/checklists/graces.html#item_269",
+          "link": "checklists/graces.html#item_269",
           "title": "<b>\u6392\u6c34\u901a\u9053</b>"
         },
         "type": "Feature"
@@ -11690,10 +11690,10 @@ const feature_data = [
         "id": "graces_270",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_270",
-          "link": "/checklists/graces.html#item_270",
+          "link": "checklists/graces.html#item_270",
           "title": "<b>\u5723\u6811\u5e95\u5c42</b>"
         },
         "type": "Feature"
@@ -11709,10 +11709,10 @@ const feature_data = [
         "id": "graces_271",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_271",
-          "link": "/checklists/graces.html#item_271",
+          "link": "checklists/graces.html#item_271",
           "title": "<b>\u201c\u8150\u8d25\u5973\u795e\u201d\u739b\u83b2\u59ae\u4e9a</b>"
         },
         "type": "Feature"
@@ -11728,10 +11728,10 @@ const feature_data = [
         "id": "graces_272",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_272",
-          "link": "/checklists/graces.html#item_272",
+          "link": "checklists/graces.html#item_272",
           "title": "<b>\u5b89\u745f\u5c14\u6cb3\uff08\u4e95\u5e95\uff09</b>"
         },
         "type": "Feature"
@@ -11747,10 +11747,10 @@ const feature_data = [
         "id": "graces_273",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_273",
-          "link": "/checklists/graces.html#item_273",
+          "link": "checklists/graces.html#item_273",
           "title": "<b>\u5b89\u745f\u5c14\u6cb3\uff08\u6c34\u95e8\uff09</b>"
         },
         "type": "Feature"
@@ -11766,10 +11766,10 @@ const feature_data = [
         "id": "graces_274",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_274",
-          "link": "/checklists/graces.html#item_274",
+          "link": "checklists/graces.html#item_274",
           "title": "<b>\u5b89\u745f\u5c14\u6cb3\uff08\u4e0b\u6e38\uff09</b>"
         },
         "type": "Feature"
@@ -11785,10 +11785,10 @@ const feature_data = [
         "id": "graces_275",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_275",
-          "link": "/checklists/graces.html#item_275",
+          "link": "checklists/graces.html#item_275",
           "title": "<b>\u8bfa\u514b\u53f2\u9edb\u62c9\u7684\u9f99\u4eba\u58eb\u5175</b>"
         },
         "type": "Feature"
@@ -11804,10 +11804,10 @@ const feature_data = [
         "id": "graces_276",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_276",
-          "link": "/checklists/graces.html#item_276",
+          "link": "checklists/graces.html#item_276",
           "title": "<b>\u201c\u9ed1\u6697\u5f03\u5b50\u201d\u827e\u4e1d\u7f07</b>"
         },
         "type": "Feature"
@@ -11823,10 +11823,10 @@ const feature_data = [
         "id": "graces_277",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_277",
-          "link": "/checklists/graces.html#item_277",
+          "link": "checklists/graces.html#item_277",
           "title": "<b>\u5b89\u745f\u5c14\u6cb3\u4e3b\u6d41</b>"
         },
         "type": "Feature"
@@ -11842,10 +11842,10 @@ const feature_data = [
         "id": "graces_278",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_278",
-          "link": "/checklists/graces.html#item_278",
+          "link": "checklists/graces.html#item_278",
           "title": "<b>\u201c\u6c38\u6052\u4e4b\u57ce\u201d\u8bfa\u514b\u53f2\u9edb\u62c9</b>"
         },
         "type": "Feature"
@@ -11861,10 +11861,10 @@ const feature_data = [
         "id": "graces_279",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_279",
-          "link": "/checklists/graces.html#item_279",
+          "link": "checklists/graces.html#item_279",
           "title": "<b>\u8bfa\u514b\u53f2\u9edb\u62c9\u6c34\u6f6d</b>"
         },
         "type": "Feature"
@@ -11880,10 +11880,10 @@ const feature_data = [
         "id": "graces_280",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_280",
-          "link": "/checklists/graces.html#item_280",
+          "link": "checklists/graces.html#item_280",
           "title": "<b>\u8150\u8d25\u6e56\u7554</b>"
         },
         "type": "Feature"
@@ -11899,10 +11899,10 @@ const feature_data = [
         "id": "graces_281",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_281",
-          "link": "/checklists/graces.html#item_281",
+          "link": "checklists/graces.html#item_281",
           "title": "<b>\u5927\u56de\u5eca</b>"
         },
         "type": "Feature"
@@ -11918,10 +11918,10 @@ const feature_data = [
         "id": "graces_282",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_282",
-          "link": "/checklists/graces.html#item_282",
+          "link": "checklists/graces.html#item_282",
           "title": "<b>\u201c\u6c38\u6052\u4e4b\u57ce\u201d\u8bfa\u514b\u9686\u6069</b>"
         },
         "type": "Feature"
@@ -11937,10 +11937,10 @@ const feature_data = [
         "id": "graces_283",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_283",
-          "link": "/checklists/graces.html#item_283",
+          "link": "checklists/graces.html#item_283",
           "title": "<b>\u4eff\u8eab\u6cea\u6ef4</b>"
         },
         "type": "Feature"
@@ -11956,10 +11956,10 @@ const feature_data = [
         "id": "graces_284",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_284",
-          "link": "/checklists/graces.html#item_284",
+          "link": "checklists/graces.html#item_284",
           "title": "<b>\u7956\u7075\u68ee\u6797</b>"
         },
         "type": "Feature"
@@ -11975,10 +11975,10 @@ const feature_data = [
         "id": "graces_285",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_285",
-          "link": "/checklists/graces.html#item_285",
+          "link": "checklists/graces.html#item_285",
           "title": "<b>\u9ed1\u591c\u795e\u57df</b>"
         },
         "type": "Feature"
@@ -11994,10 +11994,10 @@ const feature_data = [
         "id": "graces_286",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_286",
-          "link": "/checklists/graces.html#item_286",
+          "link": "checklists/graces.html#item_286",
           "title": "<b>\u5bfc\u6c34\u6865\u65c1\u65ad\u5d16</b>"
         },
         "type": "Feature"
@@ -12013,10 +12013,10 @@ const feature_data = [
         "id": "graces_287",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_287",
-          "link": "/checklists/graces.html#item_287",
+          "link": "checklists/graces.html#item_287",
           "title": "<b>\u5927\u7011\u5e03\u6c34\u6f6d</b>"
         },
         "type": "Feature"
@@ -12032,10 +12032,10 @@ const feature_data = [
         "id": "graces_288",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_288",
-          "link": "/checklists/graces.html#item_288",
+          "link": "checklists/graces.html#item_288",
           "title": "<b>\u5e0c\u8299\u62c9\u6cb3\uff08\u4e95\u5e95\uff09</b>"
         },
         "type": "Feature"
@@ -12051,10 +12051,10 @@ const feature_data = [
         "id": "graces_289",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_289",
-          "link": "/checklists/graces.html#item_289",
+          "link": "checklists/graces.html#item_289",
           "title": "<b>\u5e0c\u8299\u62c9\u6cb3\uff08\u5cb8\u8fb9\uff09</b>"
         },
         "type": "Feature"
@@ -12070,10 +12070,10 @@ const feature_data = [
         "id": "graces_290",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_290",
-          "link": "/checklists/graces.html#item_290",
+          "link": "checklists/graces.html#item_290",
           "title": "<b>\u4fe1\u4ef0\u8005\u68ee\u6797</b>"
         },
         "type": "Feature"
@@ -12089,10 +12089,10 @@ const feature_data = [
         "id": "graces_291",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_291",
-          "link": "/checklists/graces.html#item_291",
+          "link": "checklists/graces.html#item_291",
           "title": "<b>\u51fa\u53e3\u4e95\u7684\u4e0b\u65b9</b>"
         },
         "type": "Feature"
@@ -12108,10 +12108,10 @@ const feature_data = [
         "id": "graces_292",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_292",
-          "link": "/checklists/graces.html#item_292",
+          "link": "checklists/graces.html#item_292",
           "title": "<b>\u901a\u5f80\u738b\u671d\u7684\u5d16\u4e0a\u9053\u8def</b>"
         },
         "type": "Feature"
@@ -12127,10 +12127,10 @@ const feature_data = [
         "id": "graces_293",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_293",
-          "link": "/checklists/graces.html#item_293",
+          "link": "checklists/graces.html#item_293",
           "title": "<b>\u738b\u671d\u5e99\uff08\u5165\u53e3\uff09</b>"
         },
         "type": "Feature"
@@ -12146,10 +12146,10 @@ const feature_data = [
         "id": "graces_294",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_294",
-          "link": "/checklists/graces.html#item_294",
+          "link": "checklists/graces.html#item_294",
           "title": "<b>\u738b\u671d\u5e99\uff08\u4e2d\u6bb5\uff09</b>"
         },
         "type": "Feature"
@@ -12165,10 +12165,10 @@ const feature_data = [
         "id": "graces_295",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_295",
-          "link": "/checklists/graces.html#item_295",
+          "link": "checklists/graces.html#item_295",
           "title": "<b>\u795e\u4eba\u5760\u7720\u4e4b\u8327</b>"
         },
         "type": "Feature"
@@ -12184,10 +12184,10 @@ const feature_data = [
         "id": "graces_296",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_296",
-          "link": "/checklists/graces.html#item_296",
+          "link": "checklists/graces.html#item_296",
           "title": "<b>\u6811\u6839\u65c1\u65ad\u5d16</b>"
         },
         "type": "Feature"
@@ -12203,10 +12203,10 @@ const feature_data = [
         "id": "graces_297",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_297",
-          "link": "/checklists/graces.html#item_297",
+          "link": "checklists/graces.html#item_297",
           "title": "<b>\u5927\u7011\u5e03\u9876\u7aef</b>"
         },
         "type": "Feature"
@@ -12222,10 +12222,10 @@ const feature_data = [
         "id": "graces_298",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_298",
-          "link": "/checklists/graces.html#item_298",
+          "link": "checklists/graces.html#item_298",
           "title": "<b>\u6df1\u6839\u5e95\u5c42</b>"
         },
         "type": "Feature"
@@ -12241,10 +12241,10 @@ const feature_data = [
         "id": "graces_299",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_299",
-          "link": "/checklists/graces.html#item_299",
+          "link": "checklists/graces.html#item_299",
           "title": "<b>\u65e0\u540d\u6c38\u6052\u4e4b\u57ce</b>"
         },
         "type": "Feature"
@@ -12260,10 +12260,10 @@ const feature_data = [
         "id": "graces_300",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_300",
-          "link": "/checklists/graces.html#item_300",
+          "link": "checklists/graces.html#item_300",
           "title": "<b>\u6811\u6839\u524d\u8def</b>"
         },
         "type": "Feature"
@@ -12279,10 +12279,10 @@ const feature_data = [
         "id": "graces_301",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_301",
-          "link": "/checklists/graces.html#item_301",
+          "link": "checklists/graces.html#item_301",
           "title": "<b>\u6b7b\u738b\u5b50\u5b9d\u5ea7</b>"
         },
         "type": "Feature"
@@ -12298,10 +12298,10 @@ const feature_data = [
         "id": "graces_302",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_302",
-          "link": "/checklists/graces.html#item_302",
+          "link": "checklists/graces.html#item_302",
           "title": "<b>\u6e10\u6bc1\u91ce\u517d\u5893</b>"
         },
         "type": "Feature"
@@ -12317,10 +12317,10 @@ const feature_data = [
         "id": "graces_303",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_303",
-          "link": "/checklists/graces.html#item_303",
+          "link": "checklists/graces.html#item_303",
           "title": "<b>\u6e10\u6bc1\u91ce\u517d\u5893\uff08\u6df1\u5904\uff09</b>"
         },
         "type": "Feature"
@@ -12336,10 +12336,10 @@ const feature_data = [
         "id": "graces_304",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_304",
-          "link": "/checklists/graces.html#item_304",
+          "link": "checklists/graces.html#item_304",
           "title": "<b>\u9f99\u5377\u65c1\u9732\u53f0</b>"
         },
         "type": "Feature"
@@ -12355,10 +12355,10 @@ const feature_data = [
         "id": "graces_305",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_305",
-          "link": "/checklists/graces.html#item_305",
+          "link": "checklists/graces.html#item_305",
           "title": "<b>\u9f99\u6559\u5802</b>"
         },
         "type": "Feature"
@@ -12374,10 +12374,10 @@ const feature_data = [
         "id": "graces_306",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_306",
-          "link": "/checklists/graces.html#item_306",
+          "link": "checklists/graces.html#item_306",
           "title": "<b>\u9f99\u6559\u5802\uff08\u8033\u5802\uff09</b>"
         },
         "type": "Feature"
@@ -12393,10 +12393,10 @@ const feature_data = [
         "id": "graces_307",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_307",
-          "link": "/checklists/graces.html#item_307",
+          "link": "checklists/graces.html#item_307",
           "title": "<b>\u9f99\u6559\u5802\u796d\u575b</b>"
         },
         "type": "Feature"
@@ -12412,10 +12412,10 @@ const feature_data = [
         "id": "graces_308",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_308",
-          "link": "/checklists/graces.html#item_308",
+          "link": "checklists/graces.html#item_308",
           "title": "<b>\u9f99\u6559\u5802\uff08\u5347\u964d\u673a\u524d\uff09</b>"
         },
         "type": "Feature"
@@ -12431,10 +12431,10 @@ const feature_data = [
         "id": "graces_309",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_309",
-          "link": "/checklists/graces.html#item_309",
+          "link": "checklists/graces.html#item_309",
           "title": "<b>\u9f99\u6559\u5802\uff08\u5c4b\u9876\uff09</b>"
         },
         "type": "Feature"
@@ -12450,10 +12450,10 @@ const feature_data = [
         "id": "graces_310",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_310",
-          "link": "/checklists/graces.html#item_310",
+          "link": "checklists/graces.html#item_310",
           "title": "<b>\u5927\u6865\u4fa7\u8fb9</b>"
         },
         "type": "Feature"
@@ -12469,10 +12469,10 @@ const feature_data = [
         "id": "graces_311",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_311",
-          "link": "/checklists/graces.html#item_311",
+          "link": "checklists/graces.html#item_311",
           "title": "<b>\u201c\u9f99\u738b\u201d\u666e\u62c9\u987f\u6851\u514b\u65af</b>"
         },
         "type": "Feature"
@@ -12488,10 +12488,10 @@ const feature_data = [
         "id": "graces_312",
         "properties": {
           "group": "graces",
-          "icon": "/map/icons/MENU_MAP_01_Bonfire.png",
+          "icon": "map/icons/MENU_MAP_01_Bonfire.png",
           "icon_size": 45,
           "id": "graces_312",
-          "link": "/checklists/graces.html#item_312",
+          "link": "checklists/graces.html#item_312",
           "title": "<b>\u201c\u9ed1\u5251\u201d\u739b\u5229\u5580\u65af</b>"
         },
         "type": "Feature"
@@ -12513,10 +12513,10 @@ const feature_data = [
         "id": "flasks_1_3",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_3",
-          "link": "/checklists/flasks.html#item_1_3",
+          "link": "checklists/flasks.html#item_1_3",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12532,10 +12532,10 @@ const feature_data = [
         "id": "flasks_1_4",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_4",
-          "link": "/checklists/flasks.html#item_1_4",
+          "link": "checklists/flasks.html#item_1_4",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12551,10 +12551,10 @@ const feature_data = [
         "id": "flasks_1_5",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_5",
-          "link": "/checklists/flasks.html#item_1_5",
+          "link": "checklists/flasks.html#item_1_5",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12570,10 +12570,10 @@ const feature_data = [
         "id": "flasks_1_6",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_6",
-          "link": "/checklists/flasks.html#item_1_6",
+          "link": "checklists/flasks.html#item_1_6",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12589,10 +12589,10 @@ const feature_data = [
         "id": "flasks_1_7",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_7",
-          "link": "/checklists/flasks.html#item_1_7",
+          "link": "checklists/flasks.html#item_1_7",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12608,10 +12608,10 @@ const feature_data = [
         "id": "flasks_1_43",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_43",
-          "link": "/checklists/flasks.html#item_1_43",
+          "link": "checklists/flasks.html#item_1_43",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12627,10 +12627,10 @@ const feature_data = [
         "id": "flasks_1_8",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_8",
-          "link": "/checklists/flasks.html#item_1_8",
+          "link": "checklists/flasks.html#item_1_8",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12646,10 +12646,10 @@ const feature_data = [
         "id": "flasks_1_1",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_1",
-          "link": "/checklists/flasks.html#item_1_1",
+          "link": "checklists/flasks.html#item_1_1",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12665,10 +12665,10 @@ const feature_data = [
         "id": "flasks_1_9",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_9",
-          "link": "/checklists/flasks.html#item_1_9",
+          "link": "checklists/flasks.html#item_1_9",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12684,10 +12684,10 @@ const feature_data = [
         "id": "flasks_1_10",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_10",
-          "link": "/checklists/flasks.html#item_1_10",
+          "link": "checklists/flasks.html#item_1_10",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12703,10 +12703,10 @@ const feature_data = [
         "id": "flasks_1_11",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_11",
-          "link": "/checklists/flasks.html#item_1_11",
+          "link": "checklists/flasks.html#item_1_11",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12722,10 +12722,10 @@ const feature_data = [
         "id": "flasks_1_12",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_12",
-          "link": "/checklists/flasks.html#item_1_12",
+          "link": "checklists/flasks.html#item_1_12",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12741,10 +12741,10 @@ const feature_data = [
         "id": "flasks_1_13",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_13",
-          "link": "/checklists/flasks.html#item_1_13",
+          "link": "checklists/flasks.html#item_1_13",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12760,10 +12760,10 @@ const feature_data = [
         "id": "flasks_1_14",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_14",
-          "link": "/checklists/flasks.html#item_1_14",
+          "link": "checklists/flasks.html#item_1_14",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12779,10 +12779,10 @@ const feature_data = [
         "id": "flasks_1_15",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_15",
-          "link": "/checklists/flasks.html#item_1_15",
+          "link": "checklists/flasks.html#item_1_15",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12798,10 +12798,10 @@ const feature_data = [
         "id": "flasks_1_16",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_16",
-          "link": "/checklists/flasks.html#item_1_16",
+          "link": "checklists/flasks.html#item_1_16",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12817,10 +12817,10 @@ const feature_data = [
         "id": "flasks_1_17",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_17",
-          "link": "/checklists/flasks.html#item_1_17",
+          "link": "checklists/flasks.html#item_1_17",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12836,10 +12836,10 @@ const feature_data = [
         "id": "flasks_1_18",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_18",
-          "link": "/checklists/flasks.html#item_1_18",
+          "link": "checklists/flasks.html#item_1_18",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12855,10 +12855,10 @@ const feature_data = [
         "id": "flasks_1_19",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_19",
-          "link": "/checklists/flasks.html#item_1_19",
+          "link": "checklists/flasks.html#item_1_19",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12874,10 +12874,10 @@ const feature_data = [
         "id": "flasks_1_20",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_20",
-          "link": "/checklists/flasks.html#item_1_20",
+          "link": "checklists/flasks.html#item_1_20",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12893,10 +12893,10 @@ const feature_data = [
         "id": "flasks_1_21",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_21",
-          "link": "/checklists/flasks.html#item_1_21",
+          "link": "checklists/flasks.html#item_1_21",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12912,10 +12912,10 @@ const feature_data = [
         "id": "flasks_1_29",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_29",
-          "link": "/checklists/flasks.html#item_1_29",
+          "link": "checklists/flasks.html#item_1_29",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12931,10 +12931,10 @@ const feature_data = [
         "id": "flasks_1_30",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_30",
-          "link": "/checklists/flasks.html#item_1_30",
+          "link": "checklists/flasks.html#item_1_30",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -12950,10 +12950,10 @@ const feature_data = [
         "id": "flasks_1_22",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_22",
-          "link": "/checklists/flasks.html#item_1_22",
+          "link": "checklists/flasks.html#item_1_22",
           "title": "\u9ec4\u91d1\u79cd\u5b50 x2"
         },
         "type": "Feature"
@@ -12969,10 +12969,10 @@ const feature_data = [
         "id": "flasks_1_24",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_24",
-          "link": "/checklists/flasks.html#item_1_24",
+          "link": "checklists/flasks.html#item_1_24",
           "title": "\u9ec4\u91d1\u79cd\u5b50 x2"
         },
         "type": "Feature"
@@ -12988,10 +12988,10 @@ const feature_data = [
         "id": "flasks_1_26",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_26",
-          "link": "/checklists/flasks.html#item_1_26",
+          "link": "checklists/flasks.html#item_1_26",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13007,10 +13007,10 @@ const feature_data = [
         "id": "flasks_1_27",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_27",
-          "link": "/checklists/flasks.html#item_1_27",
+          "link": "checklists/flasks.html#item_1_27",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13026,10 +13026,10 @@ const feature_data = [
         "id": "flasks_1_28",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_28",
-          "link": "/checklists/flasks.html#item_1_28",
+          "link": "checklists/flasks.html#item_1_28",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13045,10 +13045,10 @@ const feature_data = [
         "id": "flasks_1_31",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_31",
-          "link": "/checklists/flasks.html#item_1_31",
+          "link": "checklists/flasks.html#item_1_31",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13064,10 +13064,10 @@ const feature_data = [
         "id": "flasks_1_32",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_32",
-          "link": "/checklists/flasks.html#item_1_32",
+          "link": "checklists/flasks.html#item_1_32",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13083,10 +13083,10 @@ const feature_data = [
         "id": "flasks_1_33",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_33",
-          "link": "/checklists/flasks.html#item_1_33",
+          "link": "checklists/flasks.html#item_1_33",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13102,10 +13102,10 @@ const feature_data = [
         "id": "flasks_1_34",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_34",
-          "link": "/checklists/flasks.html#item_1_34",
+          "link": "checklists/flasks.html#item_1_34",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13121,10 +13121,10 @@ const feature_data = [
         "id": "flasks_1_35",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_35",
-          "link": "/checklists/flasks.html#item_1_35",
+          "link": "checklists/flasks.html#item_1_35",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13140,10 +13140,10 @@ const feature_data = [
         "id": "flasks_1_36",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_36",
-          "link": "/checklists/flasks.html#item_1_36",
+          "link": "checklists/flasks.html#item_1_36",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13159,10 +13159,10 @@ const feature_data = [
         "id": "flasks_1_37",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_37",
-          "link": "/checklists/flasks.html#item_1_37",
+          "link": "checklists/flasks.html#item_1_37",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13178,10 +13178,10 @@ const feature_data = [
         "id": "flasks_1_38",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_38",
-          "link": "/checklists/flasks.html#item_1_38",
+          "link": "checklists/flasks.html#item_1_38",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13197,10 +13197,10 @@ const feature_data = [
         "id": "flasks_1_39",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_39",
-          "link": "/checklists/flasks.html#item_1_39",
+          "link": "checklists/flasks.html#item_1_39",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13216,10 +13216,10 @@ const feature_data = [
         "id": "flasks_1_40",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_40",
-          "link": "/checklists/flasks.html#item_1_40",
+          "link": "checklists/flasks.html#item_1_40",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13235,10 +13235,10 @@ const feature_data = [
         "id": "flasks_1_41",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_41",
-          "link": "/checklists/flasks.html#item_1_41",
+          "link": "checklists/flasks.html#item_1_41",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13254,10 +13254,10 @@ const feature_data = [
         "id": "flasks_1_42",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon": "map/icons/shadows/bolstering/00383.png",
           "icon_size": 35,
           "id": "flasks_1_42",
-          "link": "/checklists/flasks.html#item_1_42",
+          "link": "checklists/flasks.html#item_1_42",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"
@@ -13273,10 +13273,10 @@ const feature_data = [
         "id": "flasks_2_4",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00384.png",
+          "icon": "map/icons/shadows/bolstering/00384.png",
           "icon_size": 35,
           "id": "flasks_2_4",
-          "link": "/checklists/flasks.html#item_2_4",
+          "link": "checklists/flasks.html#item_2_4",
           "title": "\u5723\u676f\u9732\u6ef4"
         },
         "type": "Feature"
@@ -13292,10 +13292,10 @@ const feature_data = [
         "id": "flasks_2_1",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00384.png",
+          "icon": "map/icons/shadows/bolstering/00384.png",
           "icon_size": 35,
           "id": "flasks_2_1",
-          "link": "/checklists/flasks.html#item_2_1",
+          "link": "checklists/flasks.html#item_2_1",
           "title": "\u5723\u676f\u9732\u6ef4"
         },
         "type": "Feature"
@@ -13311,10 +13311,10 @@ const feature_data = [
         "id": "flasks_2_2",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00384.png",
+          "icon": "map/icons/shadows/bolstering/00384.png",
           "icon_size": 35,
           "id": "flasks_2_2",
-          "link": "/checklists/flasks.html#item_2_2",
+          "link": "checklists/flasks.html#item_2_2",
           "title": "\u5723\u676f\u9732\u6ef4"
         },
         "type": "Feature"
@@ -13330,10 +13330,10 @@ const feature_data = [
         "id": "flasks_2_3",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00384.png",
+          "icon": "map/icons/shadows/bolstering/00384.png",
           "icon_size": 35,
           "id": "flasks_2_3",
-          "link": "/checklists/flasks.html#item_2_3",
+          "link": "checklists/flasks.html#item_2_3",
           "title": "\u5723\u676f\u9732\u6ef4"
         },
         "type": "Feature"
@@ -13349,10 +13349,10 @@ const feature_data = [
         "id": "flasks_2_5",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00384.png",
+          "icon": "map/icons/shadows/bolstering/00384.png",
           "icon_size": 35,
           "id": "flasks_2_5",
-          "link": "/checklists/flasks.html#item_2_5",
+          "link": "checklists/flasks.html#item_2_5",
           "title": "\u5723\u676f\u9732\u6ef4"
         },
         "type": "Feature"
@@ -13368,10 +13368,10 @@ const feature_data = [
         "id": "flasks_2_6",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00384.png",
+          "icon": "map/icons/shadows/bolstering/00384.png",
           "icon_size": 35,
           "id": "flasks_2_6",
-          "link": "/checklists/flasks.html#item_2_6",
+          "link": "checklists/flasks.html#item_2_6",
           "title": "\u5723\u676f\u9732\u6ef4"
         },
         "type": "Feature"
@@ -13387,10 +13387,10 @@ const feature_data = [
         "id": "flasks_2_7",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00384.png",
+          "icon": "map/icons/shadows/bolstering/00384.png",
           "icon_size": 35,
           "id": "flasks_2_7",
-          "link": "/checklists/flasks.html#item_2_7",
+          "link": "checklists/flasks.html#item_2_7",
           "title": "\u5723\u676f\u9732\u6ef4"
         },
         "type": "Feature"
@@ -13406,10 +13406,10 @@ const feature_data = [
         "id": "flasks_2_8",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00384.png",
+          "icon": "map/icons/shadows/bolstering/00384.png",
           "icon_size": 35,
           "id": "flasks_2_8",
-          "link": "/checklists/flasks.html#item_2_8",
+          "link": "checklists/flasks.html#item_2_8",
           "title": "\u5723\u676f\u9732\u6ef4"
         },
         "type": "Feature"
@@ -13425,10 +13425,10 @@ const feature_data = [
         "id": "flasks_2_9",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00384.png",
+          "icon": "map/icons/shadows/bolstering/00384.png",
           "icon_size": 35,
           "id": "flasks_2_9",
-          "link": "/checklists/flasks.html#item_2_9",
+          "link": "checklists/flasks.html#item_2_9",
           "title": "\u5723\u676f\u9732\u6ef4"
         },
         "type": "Feature"
@@ -13444,10 +13444,10 @@ const feature_data = [
         "id": "flasks_2_10",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00384.png",
+          "icon": "map/icons/shadows/bolstering/00384.png",
           "icon_size": 35,
           "id": "flasks_2_10",
-          "link": "/checklists/flasks.html#item_2_10",
+          "link": "checklists/flasks.html#item_2_10",
           "title": "\u5723\u676f\u9732\u6ef4"
         },
         "type": "Feature"
@@ -13463,10 +13463,10 @@ const feature_data = [
         "id": "flasks_2_11",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00384.png",
+          "icon": "map/icons/shadows/bolstering/00384.png",
           "icon_size": 35,
           "id": "flasks_2_11",
-          "link": "/checklists/flasks.html#item_2_11",
+          "link": "checklists/flasks.html#item_2_11",
           "title": "\u5723\u676f\u9732\u6ef4"
         },
         "type": "Feature"
@@ -13482,10 +13482,10 @@ const feature_data = [
         "id": "flasks_2_12",
         "properties": {
           "group": "flasks",
-          "icon": "/map/icons/shadows/bolstering/00384.png",
+          "icon": "map/icons/shadows/bolstering/00384.png",
           "icon_size": 35,
           "id": "flasks_2_12",
-          "link": "/checklists/flasks.html#item_2_12",
+          "link": "checklists/flasks.html#item_2_12",
           "title": "\u5723\u676f\u9732\u6ef4"
         },
         "type": "Feature"
@@ -13507,10 +13507,10 @@ const feature_data = [
         "id": "crystal_tears_1_1",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00421.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00421.png",
           "icon_size": 35,
           "id": "crystal_tears_1_1",
-          "link": "/checklists/crystal_tears.html#item_1_1",
+          "link": "checklists/crystal_tears.html#item_1_1",
           "title": "<b>\u529b\u6c14\u7624\u7ed3\u6676\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13526,10 +13526,10 @@ const feature_data = [
         "id": "crystal_tears_1_2",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00414.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00414.png",
           "icon_size": 35,
           "id": "crystal_tears_1_2",
-          "link": "/checklists/crystal_tears.html#item_1_2",
+          "link": "checklists/crystal_tears.html#item_1_2",
           "title": "<b>\u5927\u523a\u7834\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13545,10 +13545,10 @@ const feature_data = [
         "id": "crystal_tears_1_3",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00401.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00401.png",
           "icon_size": 35,
           "id": "crystal_tears_1_3",
-          "link": "/checklists/crystal_tears.html#item_1_3",
+          "link": "checklists/crystal_tears.html#item_1_3",
           "title": "<b>\u6f2b\u7eff\u7ed3\u6676\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13564,10 +13564,10 @@ const feature_data = [
         "id": "crystal_tears_1_4",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00402.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00402.png",
           "icon_size": 35,
           "id": "crystal_tears_1_4",
-          "link": "/checklists/crystal_tears.html#item_1_4",
+          "link": "checklists/crystal_tears.html#item_1_4",
           "title": "<b>\u7ea2\u7ed3\u6676\u9732\u6ef4</b> [1]"
         },
         "type": "Feature"
@@ -13583,10 +13583,10 @@ const feature_data = [
         "id": "crystal_tears_0_1",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00424.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00424.png",
           "icon_size": 35,
           "id": "crystal_tears_0_1",
-          "link": "/checklists/crystal_tears.html#item_0_1",
+          "link": "checklists/crystal_tears.html#item_0_1",
           "title": "<b>\u4fe1\u4ef0\u7624\u7ed3\u6676\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13602,10 +13602,10 @@ const feature_data = [
         "id": "crystal_tears_0_2",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00409.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00409.png",
           "icon_size": 35,
           "id": "crystal_tears_0_2",
-          "link": "/checklists/crystal_tears.html#item_0_2",
+          "link": "checklists/crystal_tears.html#item_0_2",
           "title": "<b>\u6d8c\u7ea2\u7ed3\u6676\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13621,10 +13621,10 @@ const feature_data = [
         "id": "crystal_tears_0_3",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00408.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00408.png",
           "icon_size": 35,
           "id": "crystal_tears_0_3",
-          "link": "/checklists/crystal_tears.html#item_0_3",
+          "link": "checklists/crystal_tears.html#item_0_3",
           "title": "<b>\u73cd\u73e0\u6ce1\u72b6\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13640,10 +13640,10 @@ const feature_data = [
         "id": "crystal_tears_2_1",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00422.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00422.png",
           "icon_size": 35,
           "id": "crystal_tears_2_1",
-          "link": "/checklists/crystal_tears.html#item_2_1",
+          "link": "checklists/crystal_tears.html#item_2_1",
           "title": "<b>\u7075\u5de7\u7624\u7ed3\u6676\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13659,10 +13659,10 @@ const feature_data = [
         "id": "crystal_tears_2_2",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00416.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00416.png",
           "icon_size": 35,
           "id": "crystal_tears_2_2",
-          "link": "/checklists/crystal_tears.html#item_2_2",
+          "link": "checklists/crystal_tears.html#item_2_2",
           "title": "<b>\u7206\u88c2\u7ed3\u6676\u9732\u6ef4</b> [1]"
         },
         "type": "Feature"
@@ -13678,10 +13678,10 @@ const feature_data = [
         "id": "crystal_tears_2_3",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00404.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00404.png",
           "icon_size": 35,
           "id": "crystal_tears_2_3",
-          "link": "/checklists/crystal_tears.html#item_2_3",
+          "link": "checklists/crystal_tears.html#item_2_3",
           "title": "<b>\u84dd\u7ed3\u6676\u9732\u6ef4</b> [1]"
         },
         "type": "Feature"
@@ -13697,10 +13697,10 @@ const feature_data = [
         "id": "crystal_tears_2_4",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00430.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00430.png",
           "icon_size": 35,
           "id": "crystal_tears_2_4",
-          "link": "/checklists/crystal_tears.html#item_2_4",
+          "link": "checklists/crystal_tears.html#item_2_4",
           "title": "<b>\u5e26\u96f7\u7834\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13716,10 +13716,10 @@ const feature_data = [
         "id": "crystal_tears_2_5",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00431.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00431.png",
           "icon_size": 35,
           "id": "crystal_tears_2_5",
-          "link": "/checklists/crystal_tears.html#item_2_5",
+          "link": "checklists/crystal_tears.html#item_2_5",
           "title": "<b>\u5e26\u5723\u7834\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13735,10 +13735,10 @@ const feature_data = [
         "id": "crystal_tears_2_6",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00429.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00429.png",
           "icon_size": 35,
           "id": "crystal_tears_2_6",
-          "link": "/checklists/crystal_tears.html#item_2_6",
+          "link": "checklists/crystal_tears.html#item_2_6",
           "title": "<b>\u5e26\u9b54\u529b\u7834\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13754,10 +13754,10 @@ const feature_data = [
         "id": "crystal_tears_2_7",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00423.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00423.png",
           "icon_size": 35,
           "id": "crystal_tears_2_7",
-          "link": "/checklists/crystal_tears.html#item_2_7",
+          "link": "checklists/crystal_tears.html#item_2_7",
           "title": "<b>\u667a\u529b\u7624\u7ed3\u6676\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13773,10 +13773,10 @@ const feature_data = [
         "id": "crystal_tears_3_1",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00428.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00428.png",
           "icon_size": 35,
           "id": "crystal_tears_3_1",
-          "link": "/checklists/crystal_tears.html#item_3_1",
+          "link": "checklists/crystal_tears.html#item_3_1",
           "title": "<b>\u5e26\u706b\u7834\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13792,10 +13792,10 @@ const feature_data = [
         "id": "crystal_tears_3_2",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00410.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00410.png",
           "icon_size": 35,
           "id": "crystal_tears_3_2",
-          "link": "/checklists/crystal_tears.html#item_3_2",
+          "link": "checklists/crystal_tears.html#item_3_2",
           "title": "<b>\u6d8c\u7eff\u7ed3\u6676\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13811,10 +13811,10 @@ const feature_data = [
         "id": "crystal_tears_3_3",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00411.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00411.png",
           "icon_size": 35,
           "id": "crystal_tears_3_3",
-          "link": "/checklists/crystal_tears.html#item_3_3",
+          "link": "checklists/crystal_tears.html#item_3_3",
           "title": "<b>\u73cd\u73e0\u786c\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13830,10 +13830,10 @@ const feature_data = [
         "id": "crystal_tears_3_4",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00426.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00426.png",
           "icon_size": 35,
           "id": "crystal_tears_3_4",
-          "link": "/checklists/crystal_tears.html#item_3_4",
+          "link": "checklists/crystal_tears.html#item_3_4",
           "title": "<b>\u5ca9\u523a\u7834\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13849,10 +13849,10 @@ const feature_data = [
         "id": "crystal_tears_3_5",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00415.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00415.png",
           "icon_size": 35,
           "id": "crystal_tears_3_5",
-          "link": "/checklists/crystal_tears.html#item_3_5",
+          "link": "checklists/crystal_tears.html#item_3_5",
           "title": "<b>\u98ce\u7ed3\u6676\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13868,10 +13868,10 @@ const feature_data = [
         "id": "crystal_tears_4_1",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00427.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00427.png",
           "icon_size": 35,
           "id": "crystal_tears_4_1",
-          "link": "/checklists/crystal_tears.html#item_4_1",
+          "link": "checklists/crystal_tears.html#item_4_1",
           "title": "<b>\u51c0\u8840\u7ed3\u6676\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13887,10 +13887,10 @@ const feature_data = [
         "id": "crystal_tears_4_2",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00406.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00406.png",
           "icon_size": 35,
           "id": "crystal_tears_4_2",
-          "link": "/checklists/crystal_tears.html#item_4_2",
+          "link": "checklists/crystal_tears.html#item_4_2",
           "title": "<b>\u6591\u6593\u786c\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13906,10 +13906,10 @@ const feature_data = [
         "id": "crystal_tears_4_3",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00400.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00400.png",
           "icon_size": 35,
           "id": "crystal_tears_4_3",
-          "link": "/checklists/crystal_tears.html#item_4_3",
+          "link": "checklists/crystal_tears.html#item_4_3",
           "title": "<b>\u6f2b\u7ea2\u7ed3\u6676\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13925,10 +13925,10 @@ const feature_data = [
         "id": "crystal_tears_5_1",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00418.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00418.png",
           "icon_size": 35,
           "id": "crystal_tears_5_1",
-          "link": "/checklists/crystal_tears.html#item_5_1",
+          "link": "checklists/crystal_tears.html#item_5_1",
           "title": "<b>\u94c5\u5316\u786c\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13944,10 +13944,10 @@ const feature_data = [
         "id": "crystal_tears_5_2",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00425.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00425.png",
           "icon_size": 35,
           "id": "crystal_tears_5_2",
-          "link": "/checklists/crystal_tears.html#item_5_2",
+          "link": "checklists/crystal_tears.html#item_5_2",
           "title": "<b>\u84dd\u79d8\u5bc6\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13963,10 +13963,10 @@ const feature_data = [
         "id": "crystal_tears_6_1",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00412.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00412.png",
           "icon_size": 35,
           "id": "crystal_tears_6_1",
-          "link": "/checklists/crystal_tears.html#item_6_1",
+          "link": "checklists/crystal_tears.html#item_6_1",
           "title": "<b>\u7fbd\u6bdb\u7ed3\u6676\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -13982,10 +13982,10 @@ const feature_data = [
         "id": "crystal_tears_6_2",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00419.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00419.png",
           "icon_size": 35,
           "id": "crystal_tears_6_2",
-          "link": "/checklists/crystal_tears.html#item_6_2",
+          "link": "checklists/crystal_tears.html#item_6_2",
           "title": "<b>\u7ec6\u679d\u7834\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -14001,10 +14001,10 @@ const feature_data = [
         "id": "crystal_tears_6_3",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00403.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00403.png",
           "icon_size": 35,
           "id": "crystal_tears_6_3",
-          "link": "/checklists/crystal_tears.html#item_6_3",
+          "link": "checklists/crystal_tears.html#item_6_3",
           "title": "<b>\u7ea2\u7ed3\u6676\u9732\u6ef4</b> [2]"
         },
         "type": "Feature"
@@ -14020,10 +14020,10 @@ const feature_data = [
         "id": "crystal_tears_7_1",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00420.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00420.png",
           "icon_size": 35,
           "id": "crystal_tears_7_1",
-          "link": "/checklists/crystal_tears.html#item_7_1",
+          "link": "checklists/crystal_tears.html#item_7_1",
           "title": "<b>\u7ea2\u6f29\u6ce1\u72b6\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -14039,10 +14039,10 @@ const feature_data = [
         "id": "crystal_tears_8_1",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00405.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00405.png",
           "icon_size": 35,
           "id": "crystal_tears_8_1",
-          "link": "/checklists/crystal_tears.html#item_8_1",
+          "link": "checklists/crystal_tears.html#item_8_1",
           "title": "<b>\u84dd\u7ed3\u6676\u9732\u6ef4</b> [2]"
         },
         "type": "Feature"
@@ -14058,10 +14058,10 @@ const feature_data = [
         "id": "crystal_tears_8_2",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00407.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00407.png",
           "icon_size": 35,
           "id": "crystal_tears_8_2",
-          "link": "/checklists/crystal_tears.html#item_8_2",
+          "link": "checklists/crystal_tears.html#item_8_2",
           "title": "<b>\u7ea2\u6ce1\u72b6\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -14077,10 +14077,10 @@ const feature_data = [
         "id": "crystal_tears_8_3",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00413.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00413.png",
           "icon_size": 35,
           "id": "crystal_tears_8_3",
-          "link": "/checklists/crystal_tears.html#item_8_3",
+          "link": "checklists/crystal_tears.html#item_8_3",
           "title": "<b>\u8fde\u523a\u7834\u9732\u6ef4</b>"
         },
         "type": "Feature"
@@ -14096,10 +14096,10 @@ const feature_data = [
         "id": "crystal_tears_8_4",
         "properties": {
           "group": "crystal_tears",
-          "icon": "/map/icons/shadows/keys/crystal_tears/00417.png",
+          "icon": "map/icons/shadows/keys/crystal_tears/00417.png",
           "icon_size": 35,
           "id": "crystal_tears_8_4",
-          "link": "/checklists/crystal_tears.html#item_8_4",
+          "link": "checklists/crystal_tears.html#item_8_4",
           "title": "<b>\u7206\u88c2\u7ed3\u6676\u9732\u6ef4</b> [2]"
         },
         "type": "Feature"
@@ -14121,10 +14121,10 @@ const feature_data = [
         "id": "memory_stones_talisman_pouches_0_1",
         "properties": {
           "group": "memory_stones_talisman_pouches",
-          "icon": "/map/icons/shadows/keys/00553.png",
+          "icon": "map/icons/shadows/keys/00553.png",
           "icon_size": 35,
           "id": "memory_stones_talisman_pouches_0_1",
-          "link": "/checklists/memory_stones_talisman_pouches.html#item_0_1",
+          "link": "checklists/memory_stones_talisman_pouches.html#item_0_1",
           "title": "\u8bb0\u5fc6\u77f3"
         },
         "type": "Feature"
@@ -14140,10 +14140,10 @@ const feature_data = [
         "id": "memory_stones_talisman_pouches_0_2",
         "properties": {
           "group": "memory_stones_talisman_pouches",
-          "icon": "/map/icons/shadows/keys/00553.png",
+          "icon": "map/icons/shadows/keys/00553.png",
           "icon_size": 35,
           "id": "memory_stones_talisman_pouches_0_2",
-          "link": "/checklists/memory_stones_talisman_pouches.html#item_0_2",
+          "link": "checklists/memory_stones_talisman_pouches.html#item_0_2",
           "title": "\u8bb0\u5fc6\u77f3"
         },
         "type": "Feature"
@@ -14159,10 +14159,10 @@ const feature_data = [
         "id": "memory_stones_talisman_pouches_0_3",
         "properties": {
           "group": "memory_stones_talisman_pouches",
-          "icon": "/map/icons/shadows/keys/00553.png",
+          "icon": "map/icons/shadows/keys/00553.png",
           "icon_size": 35,
           "id": "memory_stones_talisman_pouches_0_3",
-          "link": "/checklists/memory_stones_talisman_pouches.html#item_0_3",
+          "link": "checklists/memory_stones_talisman_pouches.html#item_0_3",
           "title": "\u8bb0\u5fc6\u77f3"
         },
         "type": "Feature"
@@ -14178,10 +14178,10 @@ const feature_data = [
         "id": "memory_stones_talisman_pouches_0_4",
         "properties": {
           "group": "memory_stones_talisman_pouches",
-          "icon": "/map/icons/shadows/keys/00553.png",
+          "icon": "map/icons/shadows/keys/00553.png",
           "icon_size": 35,
           "id": "memory_stones_talisman_pouches_0_4",
-          "link": "/checklists/memory_stones_talisman_pouches.html#item_0_4",
+          "link": "checklists/memory_stones_talisman_pouches.html#item_0_4",
           "title": "\u8bb0\u5fc6\u77f3"
         },
         "type": "Feature"
@@ -14197,10 +14197,10 @@ const feature_data = [
         "id": "memory_stones_talisman_pouches_0_5",
         "properties": {
           "group": "memory_stones_talisman_pouches",
-          "icon": "/map/icons/shadows/keys/00553.png",
+          "icon": "map/icons/shadows/keys/00553.png",
           "icon_size": 35,
           "id": "memory_stones_talisman_pouches_0_5",
-          "link": "/checklists/memory_stones_talisman_pouches.html#item_0_5",
+          "link": "checklists/memory_stones_talisman_pouches.html#item_0_5",
           "title": "\u8bb0\u5fc6\u77f3"
         },
         "type": "Feature"
@@ -14216,10 +14216,10 @@ const feature_data = [
         "id": "memory_stones_talisman_pouches_0_6",
         "properties": {
           "group": "memory_stones_talisman_pouches",
-          "icon": "/map/icons/shadows/keys/00553.png",
+          "icon": "map/icons/shadows/keys/00553.png",
           "icon_size": 35,
           "id": "memory_stones_talisman_pouches_0_6",
-          "link": "/checklists/memory_stones_talisman_pouches.html#item_0_6",
+          "link": "checklists/memory_stones_talisman_pouches.html#item_0_6",
           "title": "\u8bb0\u5fc6\u77f3"
         },
         "type": "Feature"
@@ -14235,10 +14235,10 @@ const feature_data = [
         "id": "memory_stones_talisman_pouches_0_7",
         "properties": {
           "group": "memory_stones_talisman_pouches",
-          "icon": "/map/icons/shadows/keys/00553.png",
+          "icon": "map/icons/shadows/keys/00553.png",
           "icon_size": 35,
           "id": "memory_stones_talisman_pouches_0_7",
-          "link": "/checklists/memory_stones_talisman_pouches.html#item_0_7",
+          "link": "checklists/memory_stones_talisman_pouches.html#item_0_7",
           "title": "\u8bb0\u5fc6\u77f3"
         },
         "type": "Feature"
@@ -14254,10 +14254,10 @@ const feature_data = [
         "id": "memory_stones_talisman_pouches_0_8",
         "properties": {
           "group": "memory_stones_talisman_pouches",
-          "icon": "/map/icons/shadows/keys/00553.png",
+          "icon": "map/icons/shadows/keys/00553.png",
           "icon_size": 35,
           "id": "memory_stones_talisman_pouches_0_8",
-          "link": "/checklists/memory_stones_talisman_pouches.html#item_0_8",
+          "link": "checklists/memory_stones_talisman_pouches.html#item_0_8",
           "title": "\u8bb0\u5fc6\u77f3"
         },
         "type": "Feature"
@@ -14273,10 +14273,10 @@ const feature_data = [
         "id": "memory_stones_talisman_pouches_1_2",
         "properties": {
           "group": "memory_stones_talisman_pouches",
-          "icon": "/map/icons/shadows/keys/00554.png",
+          "icon": "map/icons/shadows/keys/00554.png",
           "icon_size": 35,
           "id": "memory_stones_talisman_pouches_1_2",
-          "link": "/checklists/memory_stones_talisman_pouches.html#item_1_2",
+          "link": "checklists/memory_stones_talisman_pouches.html#item_1_2",
           "title": "\u62a4\u7b26\u76ae\u888b"
         },
         "type": "Feature"
@@ -14292,10 +14292,10 @@ const feature_data = [
         "id": "memory_stones_talisman_pouches_1_3",
         "properties": {
           "group": "memory_stones_talisman_pouches",
-          "icon": "/map/icons/shadows/keys/00554.png",
+          "icon": "map/icons/shadows/keys/00554.png",
           "icon_size": 35,
           "id": "memory_stones_talisman_pouches_1_3",
-          "link": "/checklists/memory_stones_talisman_pouches.html#item_1_3",
+          "link": "checklists/memory_stones_talisman_pouches.html#item_1_3",
           "title": "\u62a4\u7b26\u76ae\u888b"
         },
         "type": "Feature"
@@ -14311,10 +14311,10 @@ const feature_data = [
         "id": "memory_stones_talisman_pouches_1_4",
         "properties": {
           "group": "memory_stones_talisman_pouches",
-          "icon": "/map/icons/shadows/keys/00554.png",
+          "icon": "map/icons/shadows/keys/00554.png",
           "icon_size": 35,
           "id": "memory_stones_talisman_pouches_1_4",
-          "link": "/checklists/memory_stones_talisman_pouches.html#item_1_4",
+          "link": "checklists/memory_stones_talisman_pouches.html#item_1_4",
           "title": "\u62a4\u7b26\u76ae\u888b"
         },
         "type": "Feature"
@@ -14336,10 +14336,10 @@ const feature_data = [
         "id": "scrolls_prayerbooks_0_1",
         "properties": {
           "group": "scrolls_prayerbooks",
-          "icon": "/map/icons/shadows/keys/00311.png",
+          "icon": "map/icons/shadows/keys/00311.png",
           "icon_size": 35,
           "id": "scrolls_prayerbooks_0_1",
-          "link": "/checklists/scrolls_prayerbooks.html#item_0_1",
+          "link": "checklists/scrolls_prayerbooks.html#item_0_1",
           "title": "\u738b\u5ba4\u5377\u8f74"
         },
         "type": "Feature"
@@ -14355,10 +14355,10 @@ const feature_data = [
         "id": "scrolls_prayerbooks_0_2",
         "properties": {
           "group": "scrolls_prayerbooks",
-          "icon": "/map/icons/shadows/keys/00310.png",
+          "icon": "map/icons/shadows/keys/00310.png",
           "icon_size": 35,
           "id": "scrolls_prayerbooks_0_2",
-          "link": "/checklists/scrolls_prayerbooks.html#item_0_2",
+          "link": "checklists/scrolls_prayerbooks.html#item_0_2",
           "title": "\u5b66\u9662\u5377\u8f74"
         },
         "type": "Feature"
@@ -14374,10 +14374,10 @@ const feature_data = [
         "id": "scrolls_prayerbooks_0_3",
         "properties": {
           "group": "scrolls_prayerbooks",
-          "icon": "/map/icons/shadows/keys/00310.png",
+          "icon": "map/icons/shadows/keys/00310.png",
           "icon_size": 35,
           "id": "scrolls_prayerbooks_0_3",
-          "link": "/checklists/scrolls_prayerbooks.html#item_0_3",
+          "link": "checklists/scrolls_prayerbooks.html#item_0_3",
           "title": "\u6559\u5ba4\u5377\u8f74"
         },
         "type": "Feature"
@@ -14393,10 +14393,10 @@ const feature_data = [
         "id": "scrolls_prayerbooks_1_1",
         "properties": {
           "group": "scrolls_prayerbooks",
-          "icon": "/map/icons/shadows/keys/00319.png",
+          "icon": "map/icons/shadows/keys/00319.png",
           "icon_size": 35,
           "id": "scrolls_prayerbooks_1_1",
-          "link": "/checklists/scrolls_prayerbooks.html#item_1_1",
+          "link": "checklists/scrolls_prayerbooks.html#item_1_1",
           "title": "\u523a\u5ba2\u7977\u544a\u4e66"
         },
         "type": "Feature"
@@ -14412,10 +14412,10 @@ const feature_data = [
         "id": "scrolls_prayerbooks_1_2",
         "properties": {
           "group": "scrolls_prayerbooks",
-          "icon": "/map/icons/shadows/keys/00317.png",
+          "icon": "map/icons/shadows/keys/00317.png",
           "icon_size": 35,
           "id": "scrolls_prayerbooks_1_2",
-          "link": "/checklists/scrolls_prayerbooks.html#item_1_2",
+          "link": "checklists/scrolls_prayerbooks.html#item_1_2",
           "title": "\u795e\u76ae\u7977\u544a\u4e66"
         },
         "type": "Feature"
@@ -14431,10 +14431,10 @@ const feature_data = [
         "id": "scrolls_prayerbooks_1_3",
         "properties": {
           "group": "scrolls_prayerbooks",
-          "icon": "/map/icons/shadows/keys/00315.png",
+          "icon": "map/icons/shadows/keys/00315.png",
           "icon_size": 35,
           "id": "scrolls_prayerbooks_1_3",
-          "link": "/checklists/scrolls_prayerbooks.html#item_1_3",
+          "link": "checklists/scrolls_prayerbooks.html#item_1_3",
           "title": "\u706b\u7130\u4e60\u6b66\u4fee\u58eb\u7977\u544a\u4e66"
         },
         "type": "Feature"
@@ -14450,10 +14450,10 @@ const feature_data = [
         "id": "scrolls_prayerbooks_1_4",
         "properties": {
           "group": "scrolls_prayerbooks",
-          "icon": "/map/icons/shadows/keys/00324.png",
+          "icon": "map/icons/shadows/keys/00324.png",
           "icon_size": 35,
           "id": "scrolls_prayerbooks_1_4",
-          "link": "/checklists/scrolls_prayerbooks.html#item_1_4",
+          "link": "checklists/scrolls_prayerbooks.html#item_1_4",
           "title": "\u9f99\u4fe1\u4ef0\u7977\u544a\u4e66"
         },
         "type": "Feature"
@@ -14469,10 +14469,10 @@ const feature_data = [
         "id": "scrolls_prayerbooks_1_5",
         "properties": {
           "group": "scrolls_prayerbooks",
-          "icon": "/map/icons/shadows/keys/00318.png",
+          "icon": "map/icons/shadows/keys/00318.png",
           "icon_size": 35,
           "id": "scrolls_prayerbooks_1_5",
-          "link": "/checklists/scrolls_prayerbooks.html#item_1_5",
+          "link": "checklists/scrolls_prayerbooks.html#item_1_5",
           "title": "\u53cc\u6307\u7977\u544a\u4e66"
         },
         "type": "Feature"
@@ -14488,10 +14488,10 @@ const feature_data = [
         "id": "scrolls_prayerbooks_1_8",
         "properties": {
           "group": "scrolls_prayerbooks",
-          "icon": "/map/icons/shadows/keys/00322.png",
+          "icon": "map/icons/shadows/keys/00322.png",
           "icon_size": 35,
           "id": "scrolls_prayerbooks_1_8",
-          "link": "/checklists/scrolls_prayerbooks.html#item_1_8",
+          "link": "checklists/scrolls_prayerbooks.html#item_1_8",
           "title": "\u9ec4\u91d1\u5f8b\u6cd5\u539f\u672c"
         },
         "type": "Feature"
@@ -14507,10 +14507,10 @@ const feature_data = [
         "id": "scrolls_prayerbooks_1_6",
         "properties": {
           "group": "scrolls_prayerbooks",
-          "icon": "/map/icons/shadows/keys/00316.png",
+          "icon": "map/icons/shadows/keys/00316.png",
           "icon_size": 35,
           "id": "scrolls_prayerbooks_1_6",
-          "link": "/checklists/scrolls_prayerbooks.html#item_1_6",
+          "link": "checklists/scrolls_prayerbooks.html#item_1_6",
           "title": "\u5de8\u4eba\u7977\u544a\u4e66"
         },
         "type": "Feature"
@@ -14526,10 +14526,10 @@ const feature_data = [
         "id": "scrolls_prayerbooks_1_7",
         "properties": {
           "group": "scrolls_prayerbooks",
-          "icon": "/map/icons/shadows/keys/00325.png",
+          "icon": "map/icons/shadows/keys/00325.png",
           "icon_size": 35,
           "id": "scrolls_prayerbooks_1_7",
-          "link": "/checklists/scrolls_prayerbooks.html#item_1_7",
+          "link": "checklists/scrolls_prayerbooks.html#item_1_7",
           "title": "\u53e4\u9f99\u7977\u544a\u4e66"
         },
         "type": "Feature"
@@ -14551,10 +14551,10 @@ const feature_data = [
         "id": "whetstones_0_1",
         "properties": {
           "group": "whetstones",
-          "icon": "/map/icons/shadows/keys/03090.png",
+          "icon": "map/icons/shadows/keys/03090.png",
           "icon_size": 35,
           "id": "whetstones_0_1",
-          "link": "/checklists/whetstones.html#item_0_1",
+          "link": "checklists/whetstones.html#item_0_1",
           "title": "<b>\u7825\u77f3\u5c0f\u5200</b>"
         },
         "type": "Feature"
@@ -14570,10 +14570,10 @@ const feature_data = [
         "id": "whetstones_0_2",
         "properties": {
           "group": "whetstones",
-          "icon": "/map/icons/shadows/keys/03020.png",
+          "icon": "map/icons/shadows/keys/03020.png",
           "icon_size": 35,
           "id": "whetstones_0_2",
-          "link": "/checklists/whetstones.html#item_0_2",
+          "link": "checklists/whetstones.html#item_0_2",
           "title": "<b>\u94c1\u5236\u7825\u77f3\u5200</b>"
         },
         "type": "Feature"
@@ -14589,10 +14589,10 @@ const feature_data = [
         "id": "whetstones_0_3",
         "properties": {
           "group": "whetstones",
-          "icon": "/map/icons/shadows/keys/03023.png",
+          "icon": "map/icons/shadows/keys/03023.png",
           "icon_size": 35,
           "id": "whetstones_0_3",
-          "link": "/checklists/whetstones.html#item_0_3",
+          "link": "checklists/whetstones.html#item_0_3",
           "title": "<b>\u8f89\u77f3\u7825\u77f3\u5200</b>"
         },
         "type": "Feature"
@@ -14608,10 +14608,10 @@ const feature_data = [
         "id": "whetstones_0_4",
         "properties": {
           "group": "whetstones",
-          "icon": "/map/icons/shadows/keys/03021.png",
+          "icon": "map/icons/shadows/keys/03021.png",
           "icon_size": 35,
           "id": "whetstones_0_4",
-          "link": "/checklists/whetstones.html#item_0_4",
+          "link": "checklists/whetstones.html#item_0_4",
           "title": "<b>\u707c\u70ed\u7825\u77f3\u5200</b>"
         },
         "type": "Feature"
@@ -14627,10 +14627,10 @@ const feature_data = [
         "id": "whetstones_0_5",
         "properties": {
           "group": "whetstones",
-          "icon": "/map/icons/shadows/keys/03024.png",
+          "icon": "map/icons/shadows/keys/03024.png",
           "icon_size": 35,
           "id": "whetstones_0_5",
-          "link": "/checklists/whetstones.html#item_0_5",
+          "link": "checklists/whetstones.html#item_0_5",
           "title": "<b>\u6f06\u9ed1\u7825\u77f3\u5200</b>"
         },
         "type": "Feature"
@@ -14646,10 +14646,10 @@ const feature_data = [
         "id": "whetstones_0_6",
         "properties": {
           "group": "whetstones",
-          "icon": "/map/icons/shadows/keys/03022.png",
+          "icon": "map/icons/shadows/keys/03022.png",
           "icon_size": 35,
           "id": "whetstones_0_6",
-          "link": "/checklists/whetstones.html#item_0_6",
+          "link": "checklists/whetstones.html#item_0_6",
           "title": "<b>\u795e\u5723\u7825\u77f3\u5200</b>"
         },
         "type": "Feature"
@@ -14671,10 +14671,10 @@ const feature_data = [
         "id": "bell_bearings_7_1",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_1",
-          "link": "/checklists/bell_bearings.html#item_7_1",
+          "link": "checklists/bell_bearings.html#item_7_1",
           "title": "<b>\u201c\u6d41\u6d6a\u5546\u4eba\u201d\u5496\u5217</b>"
         },
         "type": "Feature"
@@ -14690,10 +14690,10 @@ const feature_data = [
         "id": "bell_bearings_7_2",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_2",
-          "link": "/checklists/bell_bearings.html#item_7_2",
+          "link": "checklists/bell_bearings.html#item_7_2",
           "title": "\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba (1)"
         },
         "type": "Feature"
@@ -14709,10 +14709,10 @@ const feature_data = [
         "id": "bell_bearings_7_3",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_3",
-          "link": "/checklists/bell_bearings.html#item_7_3",
+          "link": "checklists/bell_bearings.html#item_7_3",
           "title": "\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba (2)"
         },
         "type": "Feature"
@@ -14728,10 +14728,10 @@ const feature_data = [
         "id": "bell_bearings_7_4",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_4",
-          "link": "/checklists/bell_bearings.html#item_7_4",
+          "link": "checklists/bell_bearings.html#item_7_4",
           "title": "\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba (3)"
         },
         "type": "Feature"
@@ -14747,10 +14747,10 @@ const feature_data = [
         "id": "bell_bearings_7_5",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_5",
-          "link": "/checklists/bell_bearings.html#item_7_5",
+          "link": "checklists/bell_bearings.html#item_7_5",
           "title": "\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba (4)"
         },
         "type": "Feature"
@@ -14766,10 +14766,10 @@ const feature_data = [
         "id": "bell_bearings_7_6",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_6",
-          "link": "/checklists/bell_bearings.html#item_7_6",
+          "link": "checklists/bell_bearings.html#item_7_6",
           "title": "\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba (5)"
         },
         "type": "Feature"
@@ -14785,10 +14785,10 @@ const feature_data = [
         "id": "bell_bearings_7_7",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_7",
-          "link": "/checklists/bell_bearings.html#item_7_7",
+          "link": "checklists/bell_bearings.html#item_7_7",
           "title": "\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba (6)"
         },
         "type": "Feature"
@@ -14804,10 +14804,10 @@ const feature_data = [
         "id": "bell_bearings_7_8",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_8",
-          "link": "/checklists/bell_bearings.html#item_7_8",
+          "link": "checklists/bell_bearings.html#item_7_8",
           "title": "\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba (7)"
         },
         "type": "Feature"
@@ -14823,10 +14823,10 @@ const feature_data = [
         "id": "bell_bearings_7_9",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_9",
-          "link": "/checklists/bell_bearings.html#item_7_9",
+          "link": "checklists/bell_bearings.html#item_7_9",
           "title": "\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba (8)"
         },
         "type": "Feature"
@@ -14842,10 +14842,10 @@ const feature_data = [
         "id": "bell_bearings_7_10",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_10",
-          "link": "/checklists/bell_bearings.html#item_7_10",
+          "link": "checklists/bell_bearings.html#item_7_10",
           "title": "\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba (9)"
         },
         "type": "Feature"
@@ -14861,10 +14861,10 @@ const feature_data = [
         "id": "bell_bearings_7_11",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_11",
-          "link": "/checklists/bell_bearings.html#item_7_11",
+          "link": "checklists/bell_bearings.html#item_7_11",
           "title": "\u6d41\u6d6a\u6c11\u65cf\u7684\u5546\u4eba (10)"
         },
         "type": "Feature"
@@ -14880,10 +14880,10 @@ const feature_data = [
         "id": "bell_bearings_7_12",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_12",
-          "link": "/checklists/bell_bearings.html#item_7_12",
+          "link": "checklists/bell_bearings.html#item_7_12",
           "title": "\u9690\u5c45\u5546\u4eba (1)"
         },
         "type": "Feature"
@@ -14899,10 +14899,10 @@ const feature_data = [
         "id": "bell_bearings_7_13",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_13",
-          "link": "/checklists/bell_bearings.html#item_7_13",
+          "link": "checklists/bell_bearings.html#item_7_13",
           "title": "\u9690\u5c45\u5546\u4eba (2)"
         },
         "type": "Feature"
@@ -14918,10 +14918,10 @@ const feature_data = [
         "id": "bell_bearings_7_14",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_14",
-          "link": "/checklists/bell_bearings.html#item_7_14",
+          "link": "checklists/bell_bearings.html#item_7_14",
           "title": "\u9690\u5c45\u5546\u4eba (3)"
         },
         "type": "Feature"
@@ -14937,10 +14937,10 @@ const feature_data = [
         "id": "bell_bearings_7_15",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_15",
-          "link": "/checklists/bell_bearings.html#item_7_15",
+          "link": "checklists/bell_bearings.html#item_7_15",
           "title": "\u9041\u4e16\u5546\u4eba (1)"
         },
         "type": "Feature"
@@ -14956,10 +14956,10 @@ const feature_data = [
         "id": "bell_bearings_7_16",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_16",
-          "link": "/checklists/bell_bearings.html#item_7_16",
+          "link": "checklists/bell_bearings.html#item_7_16",
           "title": "\u9041\u4e16\u5546\u4eba (2)"
         },
         "type": "Feature"
@@ -14975,10 +14975,10 @@ const feature_data = [
         "id": "bell_bearings_7_17",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_17",
-          "link": "/checklists/bell_bearings.html#item_7_17",
+          "link": "checklists/bell_bearings.html#item_7_17",
           "title": "\u9041\u4e16\u5546\u4eba (3)"
         },
         "type": "Feature"
@@ -14994,10 +14994,10 @@ const feature_data = [
         "id": "bell_bearings_7_18",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_18",
-          "link": "/checklists/bell_bearings.html#item_7_18",
+          "link": "checklists/bell_bearings.html#item_7_18",
           "title": "\u89c1\u5f03\u5546\u4eba"
         },
         "type": "Feature"
@@ -15013,10 +15013,10 @@ const feature_data = [
         "id": "bell_bearings_7_19",
         "properties": {
           "group": "bell_bearings",
-          "icon": "/map/icons/MENU_MAP_80.png",
+          "icon": "map/icons/MENU_MAP_80.png",
           "icon_size": 35,
           "id": "bell_bearings_7_19",
-          "link": "/checklists/bell_bearings.html#item_7_19",
+          "link": "checklists/bell_bearings.html#item_7_19",
           "title": "\u53d7\u56da\u5546\u4eba"
         },
         "type": "Feature"
@@ -15038,10 +15038,10 @@ const feature_data = [
         "id": "cookbooks_1_1",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_1",
-          "link": "/checklists/cookbooks.html#item_1_1",
+          "link": "checklists/cookbooks.html#item_1_1",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\u3011"
         },
         "type": "Feature"
@@ -15057,10 +15057,10 @@ const feature_data = [
         "id": "cookbooks_1_2",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_2",
-          "link": "/checklists/cookbooks.html#item_1_2",
+          "link": "checklists/cookbooks.html#item_1_2",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\u3011"
         },
         "type": "Feature"
@@ -15076,10 +15076,10 @@ const feature_data = [
         "id": "cookbooks_1_3",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_3",
-          "link": "/checklists/cookbooks.html#item_1_3",
+          "link": "checklists/cookbooks.html#item_1_3",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff13\u3011"
         },
         "type": "Feature"
@@ -15095,10 +15095,10 @@ const feature_data = [
         "id": "cookbooks_1_4",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_4",
-          "link": "/checklists/cookbooks.html#item_1_4",
+          "link": "checklists/cookbooks.html#item_1_4",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff14\u3011"
         },
         "type": "Feature"
@@ -15114,10 +15114,10 @@ const feature_data = [
         "id": "cookbooks_1_5",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_5",
-          "link": "/checklists/cookbooks.html#item_1_5",
+          "link": "checklists/cookbooks.html#item_1_5",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff15\u3011"
         },
         "type": "Feature"
@@ -15133,10 +15133,10 @@ const feature_data = [
         "id": "cookbooks_1_6",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_6",
-          "link": "/checklists/cookbooks.html#item_1_6",
+          "link": "checklists/cookbooks.html#item_1_6",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff16\u3011"
         },
         "type": "Feature"
@@ -15152,10 +15152,10 @@ const feature_data = [
         "id": "cookbooks_1_7",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_7",
-          "link": "/checklists/cookbooks.html#item_1_7",
+          "link": "checklists/cookbooks.html#item_1_7",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff17\u3011"
         },
         "type": "Feature"
@@ -15171,10 +15171,10 @@ const feature_data = [
         "id": "cookbooks_1_8",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_8",
-          "link": "/checklists/cookbooks.html#item_1_8",
+          "link": "checklists/cookbooks.html#item_1_8",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff18\u3011"
         },
         "type": "Feature"
@@ -15190,10 +15190,10 @@ const feature_data = [
         "id": "cookbooks_1_9",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_9",
-          "link": "/checklists/cookbooks.html#item_1_9",
+          "link": "checklists/cookbooks.html#item_1_9",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff19\u3011"
         },
         "type": "Feature"
@@ -15209,10 +15209,10 @@ const feature_data = [
         "id": "cookbooks_1_10",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_10",
-          "link": "/checklists/cookbooks.html#item_1_10",
+          "link": "checklists/cookbooks.html#item_1_10",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\uff10\u3011"
         },
         "type": "Feature"
@@ -15228,10 +15228,10 @@ const feature_data = [
         "id": "cookbooks_1_11",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_11",
-          "link": "/checklists/cookbooks.html#item_1_11",
+          "link": "checklists/cookbooks.html#item_1_11",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\uff11\u3011"
         },
         "type": "Feature"
@@ -15247,10 +15247,10 @@ const feature_data = [
         "id": "cookbooks_1_12",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_12",
-          "link": "/checklists/cookbooks.html#item_1_12",
+          "link": "checklists/cookbooks.html#item_1_12",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\uff12\u3011"
         },
         "type": "Feature"
@@ -15266,10 +15266,10 @@ const feature_data = [
         "id": "cookbooks_1_13",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_13",
-          "link": "/checklists/cookbooks.html#item_1_13",
+          "link": "checklists/cookbooks.html#item_1_13",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\uff13\u3011"
         },
         "type": "Feature"
@@ -15285,10 +15285,10 @@ const feature_data = [
         "id": "cookbooks_1_14",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_14",
-          "link": "/checklists/cookbooks.html#item_1_14",
+          "link": "checklists/cookbooks.html#item_1_14",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\uff14\u3011"
         },
         "type": "Feature"
@@ -15304,10 +15304,10 @@ const feature_data = [
         "id": "cookbooks_1_15",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_15",
-          "link": "/checklists/cookbooks.html#item_1_15",
+          "link": "checklists/cookbooks.html#item_1_15",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\uff15\u3011"
         },
         "type": "Feature"
@@ -15323,10 +15323,10 @@ const feature_data = [
         "id": "cookbooks_1_16",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_16",
-          "link": "/checklists/cookbooks.html#item_1_16",
+          "link": "checklists/cookbooks.html#item_1_16",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\uff16\u3011"
         },
         "type": "Feature"
@@ -15342,10 +15342,10 @@ const feature_data = [
         "id": "cookbooks_1_17",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_17",
-          "link": "/checklists/cookbooks.html#item_1_17",
+          "link": "checklists/cookbooks.html#item_1_17",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\uff17\u3011"
         },
         "type": "Feature"
@@ -15361,10 +15361,10 @@ const feature_data = [
         "id": "cookbooks_1_18",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_18",
-          "link": "/checklists/cookbooks.html#item_1_18",
+          "link": "checklists/cookbooks.html#item_1_18",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\uff18\u3011"
         },
         "type": "Feature"
@@ -15380,10 +15380,10 @@ const feature_data = [
         "id": "cookbooks_1_19",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_19",
-          "link": "/checklists/cookbooks.html#item_1_19",
+          "link": "checklists/cookbooks.html#item_1_19",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\uff19\u3011"
         },
         "type": "Feature"
@@ -15399,10 +15399,10 @@ const feature_data = [
         "id": "cookbooks_1_20",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_20",
-          "link": "/checklists/cookbooks.html#item_1_20",
+          "link": "checklists/cookbooks.html#item_1_20",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\uff10\u3011"
         },
         "type": "Feature"
@@ -15418,10 +15418,10 @@ const feature_data = [
         "id": "cookbooks_1_21",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_21",
-          "link": "/checklists/cookbooks.html#item_1_21",
+          "link": "checklists/cookbooks.html#item_1_21",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\uff11\u3011"
         },
         "type": "Feature"
@@ -15437,10 +15437,10 @@ const feature_data = [
         "id": "cookbooks_1_22",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_22",
-          "link": "/checklists/cookbooks.html#item_1_22",
+          "link": "checklists/cookbooks.html#item_1_22",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\uff12\u3011"
         },
         "type": "Feature"
@@ -15456,10 +15456,10 @@ const feature_data = [
         "id": "cookbooks_1_23",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_23",
-          "link": "/checklists/cookbooks.html#item_1_23",
+          "link": "checklists/cookbooks.html#item_1_23",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\uff13\u3011"
         },
         "type": "Feature"
@@ -15475,10 +15475,10 @@ const feature_data = [
         "id": "cookbooks_1_24",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03119.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03119.png",
           "icon_size": 35,
           "id": "cookbooks_1_24",
-          "link": "/checklists/cookbooks.html#item_1_24",
+          "link": "checklists/cookbooks.html#item_1_24",
           "title": "\u6d41\u6d6a\u6218\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\uff14\u3011"
         },
         "type": "Feature"
@@ -15494,10 +15494,10 @@ const feature_data = [
         "id": "cookbooks_3_1",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03120.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03120.png",
           "icon_size": 35,
           "id": "cookbooks_3_1",
-          "link": "/checklists/cookbooks.html#item_3_1",
+          "link": "checklists/cookbooks.html#item_3_1",
           "title": "\u6b66\u5668\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\u3011"
         },
         "type": "Feature"
@@ -15513,10 +15513,10 @@ const feature_data = [
         "id": "cookbooks_3_2",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03120.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03120.png",
           "icon_size": 35,
           "id": "cookbooks_3_2",
-          "link": "/checklists/cookbooks.html#item_3_2",
+          "link": "checklists/cookbooks.html#item_3_2",
           "title": "\u6b66\u5668\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\u3011"
         },
         "type": "Feature"
@@ -15532,10 +15532,10 @@ const feature_data = [
         "id": "cookbooks_3_3",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03120.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03120.png",
           "icon_size": 35,
           "id": "cookbooks_3_3",
-          "link": "/checklists/cookbooks.html#item_3_3",
+          "link": "checklists/cookbooks.html#item_3_3",
           "title": "\u6b66\u5668\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff13\u3011"
         },
         "type": "Feature"
@@ -15551,10 +15551,10 @@ const feature_data = [
         "id": "cookbooks_3_4",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03120.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03120.png",
           "icon_size": 35,
           "id": "cookbooks_3_4",
-          "link": "/checklists/cookbooks.html#item_3_4",
+          "link": "checklists/cookbooks.html#item_3_4",
           "title": "\u6b66\u5668\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff14\u3011"
         },
         "type": "Feature"
@@ -15570,10 +15570,10 @@ const feature_data = [
         "id": "cookbooks_3_5",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03120.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03120.png",
           "icon_size": 35,
           "id": "cookbooks_3_5",
-          "link": "/checklists/cookbooks.html#item_3_5",
+          "link": "checklists/cookbooks.html#item_3_5",
           "title": "\u6b66\u5668\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff15\u3011"
         },
         "type": "Feature"
@@ -15589,10 +15589,10 @@ const feature_data = [
         "id": "cookbooks_3_6",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03120.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03120.png",
           "icon_size": 35,
           "id": "cookbooks_3_6",
-          "link": "/checklists/cookbooks.html#item_3_6",
+          "link": "checklists/cookbooks.html#item_3_6",
           "title": "\u6b66\u5668\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff16\u3011"
         },
         "type": "Feature"
@@ -15608,10 +15608,10 @@ const feature_data = [
         "id": "cookbooks_3_7",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03120.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03120.png",
           "icon_size": 35,
           "id": "cookbooks_3_7",
-          "link": "/checklists/cookbooks.html#item_3_7",
+          "link": "checklists/cookbooks.html#item_3_7",
           "title": "\u6b66\u5668\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff17\u3011"
         },
         "type": "Feature"
@@ -15627,10 +15627,10 @@ const feature_data = [
         "id": "cookbooks_5_1",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03121.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03121.png",
           "icon_size": 35,
           "id": "cookbooks_5_1",
-          "link": "/checklists/cookbooks.html#item_5_1",
+          "link": "checklists/cookbooks.html#item_5_1",
           "title": "\u8f89\u77f3\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\u3011"
         },
         "type": "Feature"
@@ -15646,10 +15646,10 @@ const feature_data = [
         "id": "cookbooks_5_2",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03121.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03121.png",
           "icon_size": 35,
           "id": "cookbooks_5_2",
-          "link": "/checklists/cookbooks.html#item_5_2",
+          "link": "checklists/cookbooks.html#item_5_2",
           "title": "\u8f89\u77f3\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\u3011"
         },
         "type": "Feature"
@@ -15665,10 +15665,10 @@ const feature_data = [
         "id": "cookbooks_5_3",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03121.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03121.png",
           "icon_size": 35,
           "id": "cookbooks_5_3",
-          "link": "/checklists/cookbooks.html#item_5_3",
+          "link": "checklists/cookbooks.html#item_5_3",
           "title": "\u8f89\u77f3\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff13\u3011"
         },
         "type": "Feature"
@@ -15684,10 +15684,10 @@ const feature_data = [
         "id": "cookbooks_5_4",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03121.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03121.png",
           "icon_size": 35,
           "id": "cookbooks_5_4",
-          "link": "/checklists/cookbooks.html#item_5_4",
+          "link": "checklists/cookbooks.html#item_5_4",
           "title": "\u8f89\u77f3\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff14\u3011"
         },
         "type": "Feature"
@@ -15703,10 +15703,10 @@ const feature_data = [
         "id": "cookbooks_5_5",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03121.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03121.png",
           "icon_size": 35,
           "id": "cookbooks_5_5",
-          "link": "/checklists/cookbooks.html#item_5_5",
+          "link": "checklists/cookbooks.html#item_5_5",
           "title": "\u8f89\u77f3\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff15\u3011"
         },
         "type": "Feature"
@@ -15722,10 +15722,10 @@ const feature_data = [
         "id": "cookbooks_5_6",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03121.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03121.png",
           "icon_size": 35,
           "id": "cookbooks_5_6",
-          "link": "/checklists/cookbooks.html#item_5_6",
+          "link": "checklists/cookbooks.html#item_5_6",
           "title": "\u8f89\u77f3\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff16\u3011"
         },
         "type": "Feature"
@@ -15741,10 +15741,10 @@ const feature_data = [
         "id": "cookbooks_5_7",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03121.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03121.png",
           "icon_size": 35,
           "id": "cookbooks_5_7",
-          "link": "/checklists/cookbooks.html#item_5_7",
+          "link": "checklists/cookbooks.html#item_5_7",
           "title": "\u8f89\u77f3\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff17\u3011"
         },
         "type": "Feature"
@@ -15760,10 +15760,10 @@ const feature_data = [
         "id": "cookbooks_5_8",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03121.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03121.png",
           "icon_size": 35,
           "id": "cookbooks_5_8",
-          "link": "/checklists/cookbooks.html#item_5_8",
+          "link": "checklists/cookbooks.html#item_5_8",
           "title": "\u8f89\u77f3\u5de5\u5320\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff18\u3011"
         },
         "type": "Feature"
@@ -15779,10 +15779,10 @@ const feature_data = [
         "id": "cookbooks_2_1",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03122.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03122.png",
           "icon_size": 35,
           "id": "cookbooks_2_1",
-          "link": "/checklists/cookbooks.html#item_2_1",
+          "link": "checklists/cookbooks.html#item_2_1",
           "title": "\u4f20\u9053\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\u3011"
         },
         "type": "Feature"
@@ -15798,10 +15798,10 @@ const feature_data = [
         "id": "cookbooks_2_2",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03122.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03122.png",
           "icon_size": 35,
           "id": "cookbooks_2_2",
-          "link": "/checklists/cookbooks.html#item_2_2",
+          "link": "checklists/cookbooks.html#item_2_2",
           "title": "\u4f20\u9053\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\u3011"
         },
         "type": "Feature"
@@ -15817,10 +15817,10 @@ const feature_data = [
         "id": "cookbooks_2_3",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03122.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03122.png",
           "icon_size": 35,
           "id": "cookbooks_2_3",
-          "link": "/checklists/cookbooks.html#item_2_3",
+          "link": "checklists/cookbooks.html#item_2_3",
           "title": "\u4f20\u9053\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff13\u3011"
         },
         "type": "Feature"
@@ -15836,10 +15836,10 @@ const feature_data = [
         "id": "cookbooks_2_4",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03122.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03122.png",
           "icon_size": 35,
           "id": "cookbooks_2_4",
-          "link": "/checklists/cookbooks.html#item_2_4",
+          "link": "checklists/cookbooks.html#item_2_4",
           "title": "\u4f20\u9053\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff14\u3011"
         },
         "type": "Feature"
@@ -15855,10 +15855,10 @@ const feature_data = [
         "id": "cookbooks_2_5",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03122.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03122.png",
           "icon_size": 35,
           "id": "cookbooks_2_5",
-          "link": "/checklists/cookbooks.html#item_2_5",
+          "link": "checklists/cookbooks.html#item_2_5",
           "title": "\u4f20\u9053\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff15\u3011"
         },
         "type": "Feature"
@@ -15874,10 +15874,10 @@ const feature_data = [
         "id": "cookbooks_2_6",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03122.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03122.png",
           "icon_size": 35,
           "id": "cookbooks_2_6",
-          "link": "/checklists/cookbooks.html#item_2_6",
+          "link": "checklists/cookbooks.html#item_2_6",
           "title": "\u4f20\u9053\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff16\u3011"
         },
         "type": "Feature"
@@ -15893,10 +15893,10 @@ const feature_data = [
         "id": "cookbooks_2_7",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03122.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03122.png",
           "icon_size": 35,
           "id": "cookbooks_2_7",
-          "link": "/checklists/cookbooks.html#item_2_7",
+          "link": "checklists/cookbooks.html#item_2_7",
           "title": "\u4f20\u9053\u58eb\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff17\u3011"
         },
         "type": "Feature"
@@ -15912,10 +15912,10 @@ const feature_data = [
         "id": "cookbooks_8_1",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03124.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03124.png",
           "icon_size": 35,
           "id": "cookbooks_8_1",
-          "link": "/checklists/cookbooks.html#item_8_1",
+          "link": "checklists/cookbooks.html#item_8_1",
           "title": "\u53e4\u9f99\u4fe1\u5f92\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\u3011"
         },
         "type": "Feature"
@@ -15931,10 +15931,10 @@ const feature_data = [
         "id": "cookbooks_8_2",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03124.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03124.png",
           "icon_size": 35,
           "id": "cookbooks_8_2",
-          "link": "/checklists/cookbooks.html#item_8_2",
+          "link": "checklists/cookbooks.html#item_8_2",
           "title": "\u53e4\u9f99\u4fe1\u5f92\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\u3011"
         },
         "type": "Feature"
@@ -15950,10 +15950,10 @@ const feature_data = [
         "id": "cookbooks_8_3",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03124.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03124.png",
           "icon_size": 35,
           "id": "cookbooks_8_3",
-          "link": "/checklists/cookbooks.html#item_8_3",
+          "link": "checklists/cookbooks.html#item_8_3",
           "title": "\u53e4\u9f99\u4fe1\u5f92\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff13\u3011"
         },
         "type": "Feature"
@@ -15969,10 +15969,10 @@ const feature_data = [
         "id": "cookbooks_8_4",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03124.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03124.png",
           "icon_size": 35,
           "id": "cookbooks_8_4",
-          "link": "/checklists/cookbooks.html#item_8_4",
+          "link": "checklists/cookbooks.html#item_8_4",
           "title": "\u53e4\u9f99\u4fe1\u5f92\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff14\u3011"
         },
         "type": "Feature"
@@ -15988,10 +15988,10 @@ const feature_data = [
         "id": "cookbooks_7_1",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03123.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03123.png",
           "icon_size": 35,
           "id": "cookbooks_7_1",
-          "link": "/checklists/cookbooks.html#item_7_1",
+          "link": "checklists/cookbooks.html#item_7_1",
           "title": "\u8c03\u9999\u5e08\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\u3011"
         },
         "type": "Feature"
@@ -16007,10 +16007,10 @@ const feature_data = [
         "id": "cookbooks_7_2",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03123.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03123.png",
           "icon_size": 35,
           "id": "cookbooks_7_2",
-          "link": "/checklists/cookbooks.html#item_7_2",
+          "link": "checklists/cookbooks.html#item_7_2",
           "title": "\u8c03\u9999\u5e08\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\u3011"
         },
         "type": "Feature"
@@ -16026,10 +16026,10 @@ const feature_data = [
         "id": "cookbooks_7_3",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03123.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03123.png",
           "icon_size": 35,
           "id": "cookbooks_7_3",
-          "link": "/checklists/cookbooks.html#item_7_3",
+          "link": "checklists/cookbooks.html#item_7_3",
           "title": "\u8c03\u9999\u5e08\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff13\u3011"
         },
         "type": "Feature"
@@ -16045,10 +16045,10 @@ const feature_data = [
         "id": "cookbooks_7_4",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03123.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03123.png",
           "icon_size": 35,
           "id": "cookbooks_7_4",
-          "link": "/checklists/cookbooks.html#item_7_4",
+          "link": "checklists/cookbooks.html#item_7_4",
           "title": "\u8c03\u9999\u5e08\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff14\u3011"
         },
         "type": "Feature"
@@ -16064,10 +16064,10 @@ const feature_data = [
         "id": "cookbooks_4_1",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03125.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03125.png",
           "icon_size": 35,
           "id": "cookbooks_4_1",
-          "link": "/checklists/cookbooks.html#item_4_1",
+          "link": "checklists/cookbooks.html#item_4_1",
           "title": "\u6cd5\u529b\u65af\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\u3011"
         },
         "type": "Feature"
@@ -16083,10 +16083,10 @@ const feature_data = [
         "id": "cookbooks_4_2",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03125.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03125.png",
           "icon_size": 35,
           "id": "cookbooks_4_2",
-          "link": "/checklists/cookbooks.html#item_4_2",
+          "link": "checklists/cookbooks.html#item_4_2",
           "title": "\u6cd5\u529b\u65af\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\u3011"
         },
         "type": "Feature"
@@ -16102,10 +16102,10 @@ const feature_data = [
         "id": "cookbooks_4_3",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03125.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03125.png",
           "icon_size": 35,
           "id": "cookbooks_4_3",
-          "link": "/checklists/cookbooks.html#item_4_3",
+          "link": "checklists/cookbooks.html#item_4_3",
           "title": "\u6cd5\u529b\u65af\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff13\u3011"
         },
         "type": "Feature"
@@ -16121,10 +16121,10 @@ const feature_data = [
         "id": "cookbooks_6_1",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03126.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03126.png",
           "icon_size": 35,
           "id": "cookbooks_6_1",
-          "link": "/checklists/cookbooks.html#item_6_1",
+          "link": "checklists/cookbooks.html#item_6_1",
           "title": "\u7f79\u75c5\u8005\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff11\u3011"
         },
         "type": "Feature"
@@ -16140,10 +16140,10 @@ const feature_data = [
         "id": "cookbooks_6_2",
         "properties": {
           "group": "cookbooks",
-          "icon": "/map/icons/shadows/keys/cookbooks/03126.png",
+          "icon": "map/icons/shadows/keys/cookbooks/03126.png",
           "icon_size": 35,
           "id": "cookbooks_6_2",
-          "link": "/checklists/cookbooks.html#item_6_2",
+          "link": "checklists/cookbooks.html#item_6_2",
           "title": "\u7f79\u75c5\u8005\u7684\u5236\u4f5c\u7b14\u8bb0\u3010\uff12\u3011"
         },
         "type": "Feature"
@@ -16165,10 +16165,10 @@ const feature_data = [
         "id": "remembrances_mausoleums_2_1",
         "properties": {
           "group": "remembrances_mausoleums",
-          "icon": "/map/icons/shadows/mausoleum.png",
+          "icon": "map/icons/shadows/mausoleum.png",
           "icon_size": 35,
           "id": "remembrances_mausoleums_2_1",
-          "link": "/checklists/remembrances_mausoleums.html#item_2_1",
+          "link": "checklists/remembrances_mausoleums.html#item_2_1",
           "title": "\u6f2b\u6b65\u7075\u5e99"
         },
         "type": "Feature"
@@ -16184,10 +16184,10 @@ const feature_data = [
         "id": "remembrances_mausoleums_2_2",
         "properties": {
           "group": "remembrances_mausoleums",
-          "icon": "/map/icons/shadows/mausoleum.png",
+          "icon": "map/icons/shadows/mausoleum.png",
           "icon_size": 35,
           "id": "remembrances_mausoleums_2_2",
-          "link": "/checklists/remembrances_mausoleums.html#item_2_2",
+          "link": "checklists/remembrances_mausoleums.html#item_2_2",
           "title": "\u6f2b\u6b65\u7075\u5e99"
         },
         "type": "Feature"
@@ -16203,10 +16203,10 @@ const feature_data = [
         "id": "remembrances_mausoleums_2_3",
         "properties": {
           "group": "remembrances_mausoleums",
-          "icon": "/map/icons/shadows/mausoleum.png",
+          "icon": "map/icons/shadows/mausoleum.png",
           "icon_size": 35,
           "id": "remembrances_mausoleums_2_3",
-          "link": "/checklists/remembrances_mausoleums.html#item_2_3",
+          "link": "checklists/remembrances_mausoleums.html#item_2_3",
           "title": "\u6f2b\u6b65\u7075\u5e99(\u6ca1\u6709\u949f)"
         },
         "type": "Feature"
@@ -16222,10 +16222,10 @@ const feature_data = [
         "id": "remembrances_mausoleums_2_7",
         "properties": {
           "group": "remembrances_mausoleums",
-          "icon": "/map/icons/shadows/mausoleum.png",
+          "icon": "map/icons/shadows/mausoleum.png",
           "icon_size": 35,
           "id": "remembrances_mausoleums_2_7",
-          "link": "/checklists/remembrances_mausoleums.html#item_2_7",
+          "link": "checklists/remembrances_mausoleums.html#item_2_7",
           "title": "\u6f2b\u6b65\u7075\u5e99(\u6ca1\u6709\u949f)"
         },
         "type": "Feature"
@@ -16241,10 +16241,10 @@ const feature_data = [
         "id": "remembrances_mausoleums_2_4",
         "properties": {
           "group": "remembrances_mausoleums",
-          "icon": "/map/icons/shadows/mausoleum.png",
+          "icon": "map/icons/shadows/mausoleum.png",
           "icon_size": 35,
           "id": "remembrances_mausoleums_2_4",
-          "link": "/checklists/remembrances_mausoleums.html#item_2_4",
+          "link": "checklists/remembrances_mausoleums.html#item_2_4",
           "title": "\u6f2b\u6b65\u7075\u5e99"
         },
         "type": "Feature"
@@ -16260,10 +16260,10 @@ const feature_data = [
         "id": "remembrances_mausoleums_2_5",
         "properties": {
           "group": "remembrances_mausoleums",
-          "icon": "/map/icons/shadows/mausoleum.png",
+          "icon": "map/icons/shadows/mausoleum.png",
           "icon_size": 35,
           "id": "remembrances_mausoleums_2_5",
-          "link": "/checklists/remembrances_mausoleums.html#item_2_5",
+          "link": "checklists/remembrances_mausoleums.html#item_2_5",
           "title": "\u6f2b\u6b65\u7075\u5e99"
         },
         "type": "Feature"
@@ -16279,10 +16279,10 @@ const feature_data = [
         "id": "remembrances_mausoleums_2_6",
         "properties": {
           "group": "remembrances_mausoleums",
-          "icon": "/map/icons/shadows/mausoleum.png",
+          "icon": "map/icons/shadows/mausoleum.png",
           "icon_size": 35,
           "id": "remembrances_mausoleums_2_6",
-          "link": "/checklists/remembrances_mausoleums.html#item_2_6",
+          "link": "checklists/remembrances_mausoleums.html#item_2_6",
           "title": "\u6f2b\u6b65\u7075\u5e99"
         },
         "type": "Feature"
@@ -16304,10 +16304,10 @@ const feature_data = [
         "id": "great_runes_1_1",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03078.png",
+          "icon": "map/icons/shadows/keys/great_runes/03078.png",
           "icon_size": 35,
           "id": "great_runes_1_1",
-          "link": "/checklists/great_runes.html#item_1_1",
+          "link": "checklists/great_runes.html#item_1_1",
           "title": "\u845b\u745e\u514b\u7684\u5927\u5362\u6069 (\u672a\u6fc0\u6d3b\u7684)"
         },
         "type": "Feature"
@@ -16323,10 +16323,10 @@ const feature_data = [
         "id": "great_runes_1_2",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03202.png",
+          "icon": "map/icons/shadows/keys/great_runes/03202.png",
           "icon_size": 45,
           "id": "great_runes_1_2",
-          "link": "/checklists/great_runes.html#item_1_2",
+          "link": "checklists/great_runes.html#item_1_2",
           "title": "\u65e0\u7f18\u8bde\u751f\u8005\u7684\u5927\u5362\u6069"
         },
         "type": "Feature"
@@ -16342,10 +16342,10 @@ const feature_data = [
         "id": "great_runes_1_3",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03079.png",
+          "icon": "map/icons/shadows/keys/great_runes/03079.png",
           "icon_size": 35,
           "id": "great_runes_1_3",
-          "link": "/checklists/great_runes.html#item_1_3",
+          "link": "checklists/great_runes.html#item_1_3",
           "title": "\u62c9\u5854\u6069\u7684\u5927\u5362\u6069 (\u672a\u6fc0\u6d3b\u7684)"
         },
         "type": "Feature"
@@ -16361,10 +16361,10 @@ const feature_data = [
         "id": "great_runes_1_4",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03080.png",
+          "icon": "map/icons/shadows/keys/great_runes/03080.png",
           "icon_size": 35,
           "id": "great_runes_1_4",
-          "link": "/checklists/great_runes.html#item_1_4",
+          "link": "checklists/great_runes.html#item_1_4",
           "title": "\u8499\u845b\u7279\u7684\u5927\u5362\u6069 (\u672a\u6fc0\u6d3b\u7684)"
         },
         "type": "Feature"
@@ -16380,10 +16380,10 @@ const feature_data = [
         "id": "great_runes_1_5",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03081.png",
+          "icon": "map/icons/shadows/keys/great_runes/03081.png",
           "icon_size": 35,
           "id": "great_runes_1_5",
-          "link": "/checklists/great_runes.html#item_1_5",
+          "link": "checklists/great_runes.html#item_1_5",
           "title": "\u62c9\u5361\u5fb7\u7684\u5927\u5362\u6069 (\u672a\u6fc0\u6d3b\u7684)"
         },
         "type": "Feature"
@@ -16399,10 +16399,10 @@ const feature_data = [
         "id": "great_runes_1_7",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03082.png",
+          "icon": "map/icons/shadows/keys/great_runes/03082.png",
           "icon_size": 35,
           "id": "great_runes_1_7",
-          "link": "/checklists/great_runes.html#item_1_7",
+          "link": "checklists/great_runes.html#item_1_7",
           "title": "\u8499\u683c\u7684\u5927\u5362\u6069 (\u672a\u6fc0\u6d3b\u7684)"
         },
         "type": "Feature"
@@ -16418,10 +16418,10 @@ const feature_data = [
         "id": "great_runes_1_6",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03083.png",
+          "icon": "map/icons/shadows/keys/great_runes/03083.png",
           "icon_size": 35,
           "id": "great_runes_1_6",
-          "link": "/checklists/great_runes.html#item_1_6",
+          "link": "checklists/great_runes.html#item_1_6",
           "title": "\u739b\u83b2\u59ae\u4e9a\u7684\u5927\u5362\u6069 (\u672a\u6fc0\u6d3b\u7684)"
         },
         "type": "Feature"
@@ -16437,10 +16437,10 @@ const feature_data = [
         "id": "great_runes_1_1r",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03201.png",
+          "icon": "map/icons/shadows/keys/great_runes/03201.png",
           "icon_size": 35,
           "id": "great_runes_1_1r",
-          "link": "/checklists/great_runes.html#item_1_1r",
+          "link": "checklists/great_runes.html#item_1_1r",
           "title": "\u845b\u745e\u514b\u7684\u5927\u5362\u6069 \u4fee\u590d"
         },
         "type": "Feature"
@@ -16456,10 +16456,10 @@ const feature_data = [
         "id": "great_runes_1_3r",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03204.png",
+          "icon": "map/icons/shadows/keys/great_runes/03204.png",
           "icon_size": 35,
           "id": "great_runes_1_3r",
-          "link": "/checklists/great_runes.html#item_1_3r",
+          "link": "checklists/great_runes.html#item_1_3r",
           "title": "\u62c9\u5854\u6069\u7684\u5927\u5362\u6069 \u4fee\u590d"
         },
         "type": "Feature"
@@ -16475,10 +16475,10 @@ const feature_data = [
         "id": "great_runes_1_5r",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03203.png",
+          "icon": "map/icons/shadows/keys/great_runes/03203.png",
           "icon_size": 35,
           "id": "great_runes_1_5r",
-          "link": "/checklists/great_runes.html#item_1_5r",
+          "link": "checklists/great_runes.html#item_1_5r",
           "title": "\u62c9\u5361\u5fb7\u7684\u5927\u5362\u6069 \u4fee\u590d"
         },
         "type": "Feature"
@@ -16494,10 +16494,10 @@ const feature_data = [
         "id": "great_runes_1_6r",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03206.png",
+          "icon": "map/icons/shadows/keys/great_runes/03206.png",
           "icon_size": 35,
           "id": "great_runes_1_6r",
-          "link": "/checklists/great_runes.html#item_1_6r",
+          "link": "checklists/great_runes.html#item_1_6r",
           "title": "\u739b\u83b2\u59ae\u4e9a\u7684\u5927\u5362\u6069 \u4fee\u590d"
         },
         "type": "Feature"
@@ -16513,10 +16513,10 @@ const feature_data = [
         "id": "great_runes_1_4r",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03200.png",
+          "icon": "map/icons/shadows/keys/great_runes/03200.png",
           "icon_size": 35,
           "id": "great_runes_1_4r",
-          "link": "/checklists/great_runes.html#item_1_4r",
+          "link": "checklists/great_runes.html#item_1_4r",
           "title": "\u8499\u845b\u7279\u7684\u5927\u5362\u6069 \u4fee\u590d"
         },
         "type": "Feature"
@@ -16532,10 +16532,10 @@ const feature_data = [
         "id": "great_runes_1_7r",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03205.png",
+          "icon": "map/icons/shadows/keys/great_runes/03205.png",
           "icon_size": 35,
           "id": "great_runes_1_7r",
-          "link": "/checklists/great_runes.html#item_1_7r",
+          "link": "checklists/great_runes.html#item_1_7r",
           "title": "\u8499\u683c\u7684\u5927\u5362\u6069 \u4fee\u590d"
         },
         "type": "Feature"
@@ -16551,10 +16551,10 @@ const feature_data = [
         "id": "great_runes_2_2",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03117.png",
+          "icon": "map/icons/shadows/keys/great_runes/03117.png",
           "icon_size": 45,
           "id": "great_runes_2_2",
-          "link": "/checklists/great_runes.html#item_2_2",
+          "link": "checklists/great_runes.html#item_2_2",
           "title": "\u6b7b\u738b\u5b50\u7684\u4fee\u590d\u5362\u6069"
         },
         "type": "Feature"
@@ -16570,10 +16570,10 @@ const feature_data = [
         "id": "great_runes_2_3",
         "properties": {
           "group": "great_runes",
-          "icon": "/map/icons/shadows/keys/great_runes/03118.png",
+          "icon": "map/icons/shadows/keys/great_runes/03118.png",
           "icon_size": 35,
           "id": "great_runes_2_3",
-          "link": "/checklists/great_runes.html#item_2_3",
+          "link": "checklists/great_runes.html#item_2_3",
           "title": "\u5fcc\u8bb3\u8bc5\u5492\u7684\u4fee\u590d\u5362\u6069"
         },
         "type": "Feature"
@@ -16595,10 +16595,10 @@ const feature_data = [
         "id": "stonesword_k3",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k3",
-          "link": "/checklists/stonesword.html#item_k3",
+          "link": "checklists/stonesword.html#item_k3",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16614,10 +16614,10 @@ const feature_data = [
         "id": "stonesword_k4",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k4",
-          "link": "/checklists/stonesword.html#item_k4",
+          "link": "checklists/stonesword.html#item_k4",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16633,10 +16633,10 @@ const feature_data = [
         "id": "stonesword_k5",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k5",
-          "link": "/checklists/stonesword.html#item_k5",
+          "link": "checklists/stonesword.html#item_k5",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16652,10 +16652,10 @@ const feature_data = [
         "id": "stonesword_k6",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k6",
-          "link": "/checklists/stonesword.html#item_k6",
+          "link": "checklists/stonesword.html#item_k6",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16671,10 +16671,10 @@ const feature_data = [
         "id": "stonesword_k7",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k7",
-          "link": "/checklists/stonesword.html#item_k7",
+          "link": "checklists/stonesword.html#item_k7",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16690,10 +16690,10 @@ const feature_data = [
         "id": "stonesword_k10",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k10",
-          "link": "/checklists/stonesword.html#item_k10",
+          "link": "checklists/stonesword.html#item_k10",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16709,10 +16709,10 @@ const feature_data = [
         "id": "stonesword_k11",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k11",
-          "link": "/checklists/stonesword.html#item_k11",
+          "link": "checklists/stonesword.html#item_k11",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16728,10 +16728,10 @@ const feature_data = [
         "id": "stonesword_k12",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k12",
-          "link": "/checklists/stonesword.html#item_k12",
+          "link": "checklists/stonesword.html#item_k12",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16747,10 +16747,10 @@ const feature_data = [
         "id": "stonesword_k13",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k13",
-          "link": "/checklists/stonesword.html#item_k13",
+          "link": "checklists/stonesword.html#item_k13",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16766,10 +16766,10 @@ const feature_data = [
         "id": "stonesword_k16",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k16",
-          "link": "/checklists/stonesword.html#item_k16",
+          "link": "checklists/stonesword.html#item_k16",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16785,10 +16785,10 @@ const feature_data = [
         "id": "stonesword_k17",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k17",
-          "link": "/checklists/stonesword.html#item_k17",
+          "link": "checklists/stonesword.html#item_k17",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16804,10 +16804,10 @@ const feature_data = [
         "id": "stonesword_k18",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k18",
-          "link": "/checklists/stonesword.html#item_k18",
+          "link": "checklists/stonesword.html#item_k18",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16823,10 +16823,10 @@ const feature_data = [
         "id": "stonesword_k19",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k19",
-          "link": "/checklists/stonesword.html#item_k19",
+          "link": "checklists/stonesword.html#item_k19",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16842,10 +16842,10 @@ const feature_data = [
         "id": "stonesword_k20",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k20",
-          "link": "/checklists/stonesword.html#item_k20",
+          "link": "checklists/stonesword.html#item_k20",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16861,10 +16861,10 @@ const feature_data = [
         "id": "stonesword_k21",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k21",
-          "link": "/checklists/stonesword.html#item_k21",
+          "link": "checklists/stonesword.html#item_k21",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16880,10 +16880,10 @@ const feature_data = [
         "id": "stonesword_k22",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k22",
-          "link": "/checklists/stonesword.html#item_k22",
+          "link": "checklists/stonesword.html#item_k22",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16899,10 +16899,10 @@ const feature_data = [
         "id": "stonesword_k23",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k23",
-          "link": "/checklists/stonesword.html#item_k23",
+          "link": "checklists/stonesword.html#item_k23",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16918,10 +16918,10 @@ const feature_data = [
         "id": "stonesword_k26",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k26",
-          "link": "/checklists/stonesword.html#item_k26",
+          "link": "checklists/stonesword.html#item_k26",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16937,10 +16937,10 @@ const feature_data = [
         "id": "stonesword_k27",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k27",
-          "link": "/checklists/stonesword.html#item_k27",
+          "link": "checklists/stonesword.html#item_k27",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16956,10 +16956,10 @@ const feature_data = [
         "id": "stonesword_k28",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k28",
-          "link": "/checklists/stonesword.html#item_k28",
+          "link": "checklists/stonesword.html#item_k28",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16975,10 +16975,10 @@ const feature_data = [
         "id": "stonesword_k29",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k29",
-          "link": "/checklists/stonesword.html#item_k29",
+          "link": "checklists/stonesword.html#item_k29",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -16994,10 +16994,10 @@ const feature_data = [
         "id": "stonesword_k30",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k30",
-          "link": "/checklists/stonesword.html#item_k30",
+          "link": "checklists/stonesword.html#item_k30",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17013,10 +17013,10 @@ const feature_data = [
         "id": "stonesword_k31",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k31",
-          "link": "/checklists/stonesword.html#item_k31",
+          "link": "checklists/stonesword.html#item_k31",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17032,10 +17032,10 @@ const feature_data = [
         "id": "stonesword_k32",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k32",
-          "link": "/checklists/stonesword.html#item_k32",
+          "link": "checklists/stonesword.html#item_k32",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17051,10 +17051,10 @@ const feature_data = [
         "id": "stonesword_k33",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k33",
-          "link": "/checklists/stonesword.html#item_k33",
+          "link": "checklists/stonesword.html#item_k33",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17070,10 +17070,10 @@ const feature_data = [
         "id": "stonesword_k34",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k34",
-          "link": "/checklists/stonesword.html#item_k34",
+          "link": "checklists/stonesword.html#item_k34",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17089,10 +17089,10 @@ const feature_data = [
         "id": "stonesword_k35",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k35",
-          "link": "/checklists/stonesword.html#item_k35",
+          "link": "checklists/stonesword.html#item_k35",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17108,10 +17108,10 @@ const feature_data = [
         "id": "stonesword_k36",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k36",
-          "link": "/checklists/stonesword.html#item_k36",
+          "link": "checklists/stonesword.html#item_k36",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17127,10 +17127,10 @@ const feature_data = [
         "id": "stonesword_k37",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k37",
-          "link": "/checklists/stonesword.html#item_k37",
+          "link": "checklists/stonesword.html#item_k37",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17146,10 +17146,10 @@ const feature_data = [
         "id": "stonesword_k38",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k38",
-          "link": "/checklists/stonesword.html#item_k38",
+          "link": "checklists/stonesword.html#item_k38",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17165,10 +17165,10 @@ const feature_data = [
         "id": "stonesword_k39",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k39",
-          "link": "/checklists/stonesword.html#item_k39",
+          "link": "checklists/stonesword.html#item_k39",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17184,10 +17184,10 @@ const feature_data = [
         "id": "stonesword_k42",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k42",
-          "link": "/checklists/stonesword.html#item_k42",
+          "link": "checklists/stonesword.html#item_k42",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17203,10 +17203,10 @@ const feature_data = [
         "id": "stonesword_k43",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k43",
-          "link": "/checklists/stonesword.html#item_k43",
+          "link": "checklists/stonesword.html#item_k43",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17222,10 +17222,10 @@ const feature_data = [
         "id": "stonesword_k44",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k44",
-          "link": "/checklists/stonesword.html#item_k44",
+          "link": "checklists/stonesword.html#item_k44",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17241,10 +17241,10 @@ const feature_data = [
         "id": "stonesword_k45",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k45",
-          "link": "/checklists/stonesword.html#item_k45",
+          "link": "checklists/stonesword.html#item_k45",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17260,10 +17260,10 @@ const feature_data = [
         "id": "stonesword_k46",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k46",
-          "link": "/checklists/stonesword.html#item_k46",
+          "link": "checklists/stonesword.html#item_k46",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17279,10 +17279,10 @@ const feature_data = [
         "id": "stonesword_k47",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k47",
-          "link": "/checklists/stonesword.html#item_k47",
+          "link": "checklists/stonesword.html#item_k47",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17298,10 +17298,10 @@ const feature_data = [
         "id": "stonesword_k48",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k48",
-          "link": "/checklists/stonesword.html#item_k48",
+          "link": "checklists/stonesword.html#item_k48",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17317,10 +17317,10 @@ const feature_data = [
         "id": "stonesword_k49",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k49",
-          "link": "/checklists/stonesword.html#item_k49",
+          "link": "checklists/stonesword.html#item_k49",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17336,10 +17336,10 @@ const feature_data = [
         "id": "stonesword_k50",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k50",
-          "link": "/checklists/stonesword.html#item_k50",
+          "link": "checklists/stonesword.html#item_k50",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17355,10 +17355,10 @@ const feature_data = [
         "id": "stonesword_k51",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k51",
-          "link": "/checklists/stonesword.html#item_k51",
+          "link": "checklists/stonesword.html#item_k51",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17374,10 +17374,10 @@ const feature_data = [
         "id": "stonesword_k52",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k52",
-          "link": "/checklists/stonesword.html#item_k52",
+          "link": "checklists/stonesword.html#item_k52",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17393,10 +17393,10 @@ const feature_data = [
         "id": "stonesword_k53",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k53",
-          "link": "/checklists/stonesword.html#item_k53",
+          "link": "checklists/stonesword.html#item_k53",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17412,10 +17412,10 @@ const feature_data = [
         "id": "stonesword_k54",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k54",
-          "link": "/checklists/stonesword.html#item_k54",
+          "link": "checklists/stonesword.html#item_k54",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17431,10 +17431,10 @@ const feature_data = [
         "id": "stonesword_k55",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k55",
-          "link": "/checklists/stonesword.html#item_k55",
+          "link": "checklists/stonesword.html#item_k55",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17450,10 +17450,10 @@ const feature_data = [
         "id": "stonesword_k56",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k56",
-          "link": "/checklists/stonesword.html#item_k56",
+          "link": "checklists/stonesword.html#item_k56",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17469,10 +17469,10 @@ const feature_data = [
         "id": "stonesword_k57",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k57",
-          "link": "/checklists/stonesword.html#item_k57",
+          "link": "checklists/stonesword.html#item_k57",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17488,10 +17488,10 @@ const feature_data = [
         "id": "stonesword_k58",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k58",
-          "link": "/checklists/stonesword.html#item_k58",
+          "link": "checklists/stonesword.html#item_k58",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17507,10 +17507,10 @@ const feature_data = [
         "id": "stonesword_k61",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k61",
-          "link": "/checklists/stonesword.html#item_k61",
+          "link": "checklists/stonesword.html#item_k61",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17526,10 +17526,10 @@ const feature_data = [
         "id": "stonesword_k62",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k62",
-          "link": "/checklists/stonesword.html#item_k62",
+          "link": "checklists/stonesword.html#item_k62",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17545,10 +17545,10 @@ const feature_data = [
         "id": "stonesword_k63",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k63",
-          "link": "/checklists/stonesword.html#item_k63",
+          "link": "checklists/stonesword.html#item_k63",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17564,10 +17564,10 @@ const feature_data = [
         "id": "stonesword_k64",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k64",
-          "link": "/checklists/stonesword.html#item_k64",
+          "link": "checklists/stonesword.html#item_k64",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17583,10 +17583,10 @@ const feature_data = [
         "id": "stonesword_k65",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k65",
-          "link": "/checklists/stonesword.html#item_k65",
+          "link": "checklists/stonesword.html#item_k65",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17602,10 +17602,10 @@ const feature_data = [
         "id": "stonesword_k66",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k66",
-          "link": "/checklists/stonesword.html#item_k66",
+          "link": "checklists/stonesword.html#item_k66",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17621,10 +17621,10 @@ const feature_data = [
         "id": "stonesword_k67",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k67",
-          "link": "/checklists/stonesword.html#item_k67",
+          "link": "checklists/stonesword.html#item_k67",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17640,10 +17640,10 @@ const feature_data = [
         "id": "stonesword_k68",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k68",
-          "link": "/checklists/stonesword.html#item_k68",
+          "link": "checklists/stonesword.html#item_k68",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17659,10 +17659,10 @@ const feature_data = [
         "id": "stonesword_k71",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k71",
-          "link": "/checklists/stonesword.html#item_k71",
+          "link": "checklists/stonesword.html#item_k71",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17678,10 +17678,10 @@ const feature_data = [
         "id": "stonesword_k72",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k72",
-          "link": "/checklists/stonesword.html#item_k72",
+          "link": "checklists/stonesword.html#item_k72",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17697,10 +17697,10 @@ const feature_data = [
         "id": "stonesword_k73",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k73",
-          "link": "/checklists/stonesword.html#item_k73",
+          "link": "checklists/stonesword.html#item_k73",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17716,10 +17716,10 @@ const feature_data = [
         "id": "stonesword_k74",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k74",
-          "link": "/checklists/stonesword.html#item_k74",
+          "link": "checklists/stonesword.html#item_k74",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17735,10 +17735,10 @@ const feature_data = [
         "id": "stonesword_k75",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k75",
-          "link": "/checklists/stonesword.html#item_k75",
+          "link": "checklists/stonesword.html#item_k75",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17754,10 +17754,10 @@ const feature_data = [
         "id": "stonesword_k76",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k76",
-          "link": "/checklists/stonesword.html#item_k76",
+          "link": "checklists/stonesword.html#item_k76",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17773,10 +17773,10 @@ const feature_data = [
         "id": "stonesword_k77",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k77",
-          "link": "/checklists/stonesword.html#item_k77",
+          "link": "checklists/stonesword.html#item_k77",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17792,10 +17792,10 @@ const feature_data = [
         "id": "stonesword_k78",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k78",
-          "link": "/checklists/stonesword.html#item_k78",
+          "link": "checklists/stonesword.html#item_k78",
           "title": "\u77f3\u5251\u94a5\u5319"
         },
         "type": "Feature"
@@ -17811,10 +17811,10 @@ const feature_data = [
         "id": "stonesword_k79",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/keys/00228.png",
+          "icon": "map/icons/shadows/keys/00228.png",
           "icon_size": 35,
           "id": "stonesword_k79",
-          "link": "/checklists/stonesword.html#item_k79",
+          "link": "checklists/stonesword.html#item_k79",
           "title": "\u77f3\u5251\u94a5\u5319 x5"
         },
         "type": "Feature"
@@ -17830,10 +17830,10 @@ const feature_data = [
         "id": "stonesword_s1",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s1",
-          "link": "/checklists/stonesword.html#item_s1",
+          "link": "checklists/stonesword.html#item_s1",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (2\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -17849,10 +17849,10 @@ const feature_data = [
         "id": "stonesword_s2",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s2",
-          "link": "/checklists/stonesword.html#item_s2",
+          "link": "checklists/stonesword.html#item_s2",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -17868,10 +17868,10 @@ const feature_data = [
         "id": "stonesword_s3",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s3",
-          "link": "/checklists/stonesword.html#item_s3",
+          "link": "checklists/stonesword.html#item_s3",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -17887,10 +17887,10 @@ const feature_data = [
         "id": "stonesword_s4",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s4",
-          "link": "/checklists/stonesword.html#item_s4",
+          "link": "checklists/stonesword.html#item_s4",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (2\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -17906,10 +17906,10 @@ const feature_data = [
         "id": "stonesword_s5",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s5",
-          "link": "/checklists/stonesword.html#item_s5",
+          "link": "checklists/stonesword.html#item_s5",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -17925,10 +17925,10 @@ const feature_data = [
         "id": "stonesword_s6",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s6",
-          "link": "/checklists/stonesword.html#item_s6",
+          "link": "checklists/stonesword.html#item_s6",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -17944,10 +17944,10 @@ const feature_data = [
         "id": "stonesword_s7",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s7",
-          "link": "/checklists/stonesword.html#item_s7",
+          "link": "checklists/stonesword.html#item_s7",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -17963,10 +17963,10 @@ const feature_data = [
         "id": "stonesword_s8",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s8",
-          "link": "/checklists/stonesword.html#item_s8",
+          "link": "checklists/stonesword.html#item_s8",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -17982,10 +17982,10 @@ const feature_data = [
         "id": "stonesword_s9",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s9",
-          "link": "/checklists/stonesword.html#item_s9",
+          "link": "checklists/stonesword.html#item_s9",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18001,10 +18001,10 @@ const feature_data = [
         "id": "stonesword_s10",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s10",
-          "link": "/checklists/stonesword.html#item_s10",
+          "link": "checklists/stonesword.html#item_s10",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (2\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18020,10 +18020,10 @@ const feature_data = [
         "id": "stonesword_s11",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s11",
-          "link": "/checklists/stonesword.html#item_s11",
+          "link": "checklists/stonesword.html#item_s11",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18039,10 +18039,10 @@ const feature_data = [
         "id": "stonesword_s12",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s12",
-          "link": "/checklists/stonesword.html#item_s12",
+          "link": "checklists/stonesword.html#item_s12",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18058,10 +18058,10 @@ const feature_data = [
         "id": "stonesword_s13",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s13",
-          "link": "/checklists/stonesword.html#item_s13",
+          "link": "checklists/stonesword.html#item_s13",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (2\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18077,10 +18077,10 @@ const feature_data = [
         "id": "stonesword_s14",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s14",
-          "link": "/checklists/stonesword.html#item_s14",
+          "link": "checklists/stonesword.html#item_s14",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18096,10 +18096,10 @@ const feature_data = [
         "id": "stonesword_s15",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s15",
-          "link": "/checklists/stonesword.html#item_s15",
+          "link": "checklists/stonesword.html#item_s15",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18115,10 +18115,10 @@ const feature_data = [
         "id": "stonesword_s16",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s16",
-          "link": "/checklists/stonesword.html#item_s16",
+          "link": "checklists/stonesword.html#item_s16",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (2\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18134,10 +18134,10 @@ const feature_data = [
         "id": "stonesword_s21",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s21",
-          "link": "/checklists/stonesword.html#item_s21",
+          "link": "checklists/stonesword.html#item_s21",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18153,10 +18153,10 @@ const feature_data = [
         "id": "stonesword_s17",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s17",
-          "link": "/checklists/stonesword.html#item_s17",
+          "link": "checklists/stonesword.html#item_s17",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18172,10 +18172,10 @@ const feature_data = [
         "id": "stonesword_s18",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s18",
-          "link": "/checklists/stonesword.html#item_s18",
+          "link": "checklists/stonesword.html#item_s18",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18191,10 +18191,10 @@ const feature_data = [
         "id": "stonesword_s19",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s19",
-          "link": "/checklists/stonesword.html#item_s19",
+          "link": "checklists/stonesword.html#item_s19",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (2\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18210,10 +18210,10 @@ const feature_data = [
         "id": "stonesword_s20",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s20",
-          "link": "/checklists/stonesword.html#item_s20",
+          "link": "checklists/stonesword.html#item_s20",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (2\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18229,10 +18229,10 @@ const feature_data = [
         "id": "stonesword_s22",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s22",
-          "link": "/checklists/stonesword.html#item_s22",
+          "link": "checklists/stonesword.html#item_s22",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18248,10 +18248,10 @@ const feature_data = [
         "id": "stonesword_s23",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s23",
-          "link": "/checklists/stonesword.html#item_s23",
+          "link": "checklists/stonesword.html#item_s23",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18267,10 +18267,10 @@ const feature_data = [
         "id": "stonesword_s24",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s24",
-          "link": "/checklists/stonesword.html#item_s24",
+          "link": "checklists/stonesword.html#item_s24",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (2\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18286,10 +18286,10 @@ const feature_data = [
         "id": "stonesword_s25",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s25",
-          "link": "/checklists/stonesword.html#item_s25",
+          "link": "checklists/stonesword.html#item_s25",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18305,10 +18305,10 @@ const feature_data = [
         "id": "stonesword_s26",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s26",
-          "link": "/checklists/stonesword.html#item_s26",
+          "link": "checklists/stonesword.html#item_s26",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (2\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18324,10 +18324,10 @@ const feature_data = [
         "id": "stonesword_s27",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s27",
-          "link": "/checklists/stonesword.html#item_s27",
+          "link": "checklists/stonesword.html#item_s27",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18343,10 +18343,10 @@ const feature_data = [
         "id": "stonesword_s28",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s28",
-          "link": "/checklists/stonesword.html#item_s28",
+          "link": "checklists/stonesword.html#item_s28",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (2\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18362,10 +18362,10 @@ const feature_data = [
         "id": "stonesword_s29",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s29",
-          "link": "/checklists/stonesword.html#item_s29",
+          "link": "checklists/stonesword.html#item_s29",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18381,10 +18381,10 @@ const feature_data = [
         "id": "stonesword_s30",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s30",
-          "link": "/checklists/stonesword.html#item_s30",
+          "link": "checklists/stonesword.html#item_s30",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18400,10 +18400,10 @@ const feature_data = [
         "id": "stonesword_s31",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s31",
-          "link": "/checklists/stonesword.html#item_s31",
+          "link": "checklists/stonesword.html#item_s31",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (2\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18419,10 +18419,10 @@ const feature_data = [
         "id": "stonesword_s32",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s32",
-          "link": "/checklists/stonesword.html#item_s32",
+          "link": "checklists/stonesword.html#item_s32",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (2\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18438,10 +18438,10 @@ const feature_data = [
         "id": "stonesword_s33",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s33",
-          "link": "/checklists/stonesword.html#item_s33",
+          "link": "checklists/stonesword.html#item_s33",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18457,10 +18457,10 @@ const feature_data = [
         "id": "stonesword_s34",
         "properties": {
           "group": "stonesword",
-          "icon": "/map/icons/shadows/imp.png",
+          "icon": "map/icons/shadows/imp.png",
           "icon_size": 35,
           "id": "stonesword_s34",
-          "link": "/checklists/stonesword.html#item_s34",
+          "link": "checklists/stonesword.html#item_s34",
           "title": "\u5c0f\u6076\u9b54\u50cf\u7684\u5c01\u5370 (1\u628a\u94a5\u5319)"
         },
         "type": "Feature"
@@ -18482,10 +18482,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_1",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_1",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_1",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_1",
           "title": "\u9f99\u5fc3\u810f"
         },
         "type": "Feature"
@@ -18501,10 +18501,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_3",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_3",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_3",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_3",
           "title": "\u9f99\u5fc3\u810f"
         },
         "type": "Feature"
@@ -18520,10 +18520,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_4",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_4",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_4",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_4",
           "title": "\u9f99\u5fc3\u810f"
         },
         "type": "Feature"
@@ -18539,10 +18539,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_5",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_5",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_5",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_5",
           "title": "\u9f99\u5fc3\u810f x3"
         },
         "type": "Feature"
@@ -18558,10 +18558,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_2",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_2",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_2",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_2",
           "title": "\u9f99\u5fc3\u810f x3"
         },
         "type": "Feature"
@@ -18577,10 +18577,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_6",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_6",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_6",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_6",
           "title": "\u9f99\u5fc3\u810f"
         },
         "type": "Feature"
@@ -18596,10 +18596,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_7",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_7",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_7",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_7",
           "title": "\u9f99\u5fc3\u810f"
         },
         "type": "Feature"
@@ -18615,10 +18615,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_8",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_8",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_8",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_8",
           "title": "\u9f99\u5fc3\u810f x5"
         },
         "type": "Feature"
@@ -18634,10 +18634,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_9",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_9",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_9",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_9",
           "title": "\u9f99\u5fc3\u810f"
         },
         "type": "Feature"
@@ -18653,10 +18653,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_10",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_10",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_10",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_10",
           "title": "\u9f99\u5fc3\u810f"
         },
         "type": "Feature"
@@ -18672,10 +18672,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_11",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_11",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_11",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_11",
           "title": "\u9f99\u5fc3\u810f"
         },
         "type": "Feature"
@@ -18691,10 +18691,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_12",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_12",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_12",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_12",
           "title": "\u9f99\u5fc3\u810f"
         },
         "type": "Feature"
@@ -18710,10 +18710,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_0_13",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/03230.png",
+          "icon": "map/icons/shadows/keys/03230.png",
           "icon_size": 35,
           "id": "dragon_hearts_death_roots_0_13",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_0_13",
+          "link": "checklists/dragon_hearts_death_roots.html#item_0_13",
           "title": "\u9f99\u5fc3\u810f x3"
         },
         "type": "Feature"
@@ -18729,10 +18729,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_1_1",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/00557.png",
+          "icon": "map/icons/shadows/keys/00557.png",
           "icon_size": 45,
           "id": "dragon_hearts_death_roots_1_1",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_1_1",
+          "link": "checklists/dragon_hearts_death_roots.html#item_1_1",
           "title": "\u6b7b\u6839"
         },
         "type": "Feature"
@@ -18748,10 +18748,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_1_2",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/00557.png",
+          "icon": "map/icons/shadows/keys/00557.png",
           "icon_size": 45,
           "id": "dragon_hearts_death_roots_1_2",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_1_2",
+          "link": "checklists/dragon_hearts_death_roots.html#item_1_2",
           "title": "\u6b7b\u6839"
         },
         "type": "Feature"
@@ -18767,10 +18767,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_1_3",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/00557.png",
+          "icon": "map/icons/shadows/keys/00557.png",
           "icon_size": 45,
           "id": "dragon_hearts_death_roots_1_3",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_1_3",
+          "link": "checklists/dragon_hearts_death_roots.html#item_1_3",
           "title": "\u6b7b\u6839"
         },
         "type": "Feature"
@@ -18786,10 +18786,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_1_4",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/00557.png",
+          "icon": "map/icons/shadows/keys/00557.png",
           "icon_size": 45,
           "id": "dragon_hearts_death_roots_1_4",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_1_4",
+          "link": "checklists/dragon_hearts_death_roots.html#item_1_4",
           "title": "\u6b7b\u6839"
         },
         "type": "Feature"
@@ -18805,10 +18805,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_1_5",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/00557.png",
+          "icon": "map/icons/shadows/keys/00557.png",
           "icon_size": 45,
           "id": "dragon_hearts_death_roots_1_5",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_1_5",
+          "link": "checklists/dragon_hearts_death_roots.html#item_1_5",
           "title": "\u6b7b\u6839"
         },
         "type": "Feature"
@@ -18824,10 +18824,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_1_6",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/00557.png",
+          "icon": "map/icons/shadows/keys/00557.png",
           "icon_size": 45,
           "id": "dragon_hearts_death_roots_1_6",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_1_6",
+          "link": "checklists/dragon_hearts_death_roots.html#item_1_6",
           "title": "\u6b7b\u6839"
         },
         "type": "Feature"
@@ -18843,10 +18843,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_1_7",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/00557.png",
+          "icon": "map/icons/shadows/keys/00557.png",
           "icon_size": 45,
           "id": "dragon_hearts_death_roots_1_7",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_1_7",
+          "link": "checklists/dragon_hearts_death_roots.html#item_1_7",
           "title": "\u6b7b\u6839"
         },
         "type": "Feature"
@@ -18862,10 +18862,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_1_8",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/00557.png",
+          "icon": "map/icons/shadows/keys/00557.png",
           "icon_size": 45,
           "id": "dragon_hearts_death_roots_1_8",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_1_8",
+          "link": "checklists/dragon_hearts_death_roots.html#item_1_8",
           "title": "\u6b7b\u6839"
         },
         "type": "Feature"
@@ -18881,10 +18881,10 @@ const feature_data = [
         "id": "dragon_hearts_death_roots_1_9",
         "properties": {
           "group": "dragon_hearts_death_roots",
-          "icon": "/map/icons/shadows/keys/00557.png",
+          "icon": "map/icons/shadows/keys/00557.png",
           "icon_size": 45,
           "id": "dragon_hearts_death_roots_1_9",
-          "link": "/checklists/dragon_hearts_death_roots.html#item_1_9",
+          "link": "checklists/dragon_hearts_death_roots.html#item_1_9",
           "title": "\u6b7b\u6839"
         },
         "type": "Feature"
@@ -18906,10 +18906,10 @@ const feature_data = [
         "id": "paintings_1_1",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/info/paintings/03210.png",
+          "icon": "map/icons/shadows/info/paintings/03210.png",
           "icon_size": 35,
           "id": "paintings_1_1",
-          "link": "/checklists/paintings.html#item_1_1",
+          "link": "checklists/paintings.html#item_1_1",
           "title": "<a href=\"https://eldenring.wiki.fextralife.com/Prophecy+Painting\"><b>\u7ed8\u753b\u300a\u9884\u8a00\u300b</b></a>"
         },
         "type": "Feature"
@@ -18925,10 +18925,10 @@ const feature_data = [
         "id": "paintings_1_2",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/info/paintings/03066.png",
+          "icon": "map/icons/shadows/info/paintings/03066.png",
           "icon_size": 35,
           "id": "paintings_1_2",
-          "link": "/checklists/paintings.html#item_1_2",
+          "link": "checklists/paintings.html#item_1_2",
           "title": "<a href=\"https://eldenring.wiki.fextralife.com/Homing+Instinct+Painting\"><b>\u7ed8\u753b\u300a\u5f52\u5de2\u300b</b></a>"
         },
         "type": "Feature"
@@ -18944,10 +18944,10 @@ const feature_data = [
         "id": "paintings_2_1",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/info/paintings/03207.png",
+          "icon": "map/icons/shadows/info/paintings/03207.png",
           "icon_size": 35,
           "id": "paintings_2_1",
-          "link": "/checklists/paintings.html#item_2_1",
+          "link": "checklists/paintings.html#item_2_1",
           "title": "<a href=\"https://eldenring.wiki.fextralife.com/Resurrection+Painting\"><b>\u7ed8\u753b\u300a\u518d\u4e16\u300b</b></a>"
         },
         "type": "Feature"
@@ -18963,10 +18963,10 @@ const feature_data = [
         "id": "paintings_3_1",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/info/paintings/03212.png",
+          "icon": "map/icons/shadows/info/paintings/03212.png",
           "icon_size": 35,
           "id": "paintings_3_1",
-          "link": "/checklists/paintings.html#item_3_1",
+          "link": "checklists/paintings.html#item_3_1",
           "title": "<a href=\"https://eldenring.wiki.fextralife.com/Redmane+Painting\"><b>\u7ed8\u753b\u300a\u7ea2\u72ee\u5b50\u300b</b></a>"
         },
         "type": "Feature"
@@ -18982,10 +18982,10 @@ const feature_data = [
         "id": "paintings_4_1",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/info/paintings/03208.png",
+          "icon": "map/icons/shadows/info/paintings/03208.png",
           "icon_size": 35,
           "id": "paintings_4_1",
-          "link": "/checklists/paintings.html#item_4_1",
+          "link": "checklists/paintings.html#item_4_1",
           "title": "<a href=\"https://eldenring.wiki.fextralife.com/Champion's+Song+Painting\"><b>\u7ed8\u753b\u300a\u82f1\u96c4\u4e4b\u6b4c\u300b</b></a>"
         },
         "type": "Feature"
@@ -19001,10 +19001,10 @@ const feature_data = [
         "id": "paintings_5_1",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/info/paintings/03211.png",
+          "icon": "map/icons/shadows/info/paintings/03211.png",
           "icon_size": 35,
           "id": "paintings_5_1",
-          "link": "/checklists/paintings.html#item_5_1",
+          "link": "checklists/paintings.html#item_5_1",
           "title": "<a href=\"https://eldenring.wiki.fextralife.com/Flightless+Bird+Painting\"><b>\u7ed8\u753b\u300a\u4e0d\u98de\u4e4b\u9e1f\u300b</b></a>"
         },
         "type": "Feature"
@@ -19020,10 +19020,10 @@ const feature_data = [
         "id": "paintings_6_1",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/info/paintings/03209.png",
+          "icon": "map/icons/shadows/info/paintings/03209.png",
           "icon_size": 35,
           "id": "paintings_6_1",
-          "link": "/checklists/paintings.html#item_6_1",
+          "link": "checklists/paintings.html#item_6_1",
           "title": "<a href=\"https://eldenring.wiki.fextralife.com/Sorcerer+Painting\"><b>\u7ed8\u753b\u300a\u9b54\u6cd5\u5e08\u300b</b></a>"
         },
         "type": "Feature"
@@ -19039,10 +19039,10 @@ const feature_data = [
         "id": "paintings_1",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/spirit_ashes/00456.png",
+          "icon": "map/icons/shadows/spirit_ashes/00456.png",
           "icon_size": 35,
           "id": "paintings_1",
-          "link": "/checklists/paintings.html#item_1",
+          "link": "checklists/paintings.html#item_1",
           "title": "\u7ed8\u753b\u300a\u9884\u8a00\u300b \u89e3\u7b54"
         },
         "type": "Feature"
@@ -19058,10 +19058,10 @@ const feature_data = [
         "id": "paintings_2",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/armor/15290.png",
+          "icon": "map/icons/shadows/armor/15290.png",
           "icon_size": 35,
           "id": "paintings_2",
-          "link": "/checklists/paintings.html#item_2",
+          "link": "checklists/paintings.html#item_2",
           "title": "\u7ed8\u753b\u300a\u5f52\u5de2\u300b \u89e3\u7b54"
         },
         "type": "Feature"
@@ -19077,10 +19077,10 @@ const feature_data = [
         "id": "paintings_3",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/armor/14770.png",
+          "icon": "map/icons/shadows/armor/14770.png",
           "icon_size": 20,
           "id": "paintings_3",
-          "link": "/checklists/paintings.html#item_3",
+          "link": "checklists/paintings.html#item_3",
           "title": "\u7ed8\u753b\u300a\u518d\u4e16\u300b \u89e3\u7b54"
         },
         "type": "Feature"
@@ -19096,10 +19096,10 @@ const feature_data = [
         "id": "paintings_4",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/ashes_of_war/08385.png",
+          "icon": "map/icons/shadows/ashes_of_war/08385.png",
           "icon_size": 35,
           "id": "paintings_4",
-          "link": "/checklists/paintings.html#item_4",
+          "link": "checklists/paintings.html#item_4",
           "title": "\u7ed8\u753b\u300a\u7ea2\u72ee\u5b50\u300b \u89e3\u7b54"
         },
         "type": "Feature"
@@ -19115,10 +19115,10 @@ const feature_data = [
         "id": "paintings_5",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/weapons/lightbows/11003.png",
+          "icon": "map/icons/shadows/weapons/lightbows/11003.png",
           "icon_size": 35,
           "id": "paintings_5",
-          "link": "/checklists/paintings.html#item_5",
+          "link": "checklists/paintings.html#item_5",
           "title": "\u7ed8\u753b\u300a\u82f1\u96c4\u4e4b\u6b4c\u300b \u89e3\u7b54"
         },
         "type": "Feature"
@@ -19134,10 +19134,10 @@ const feature_data = [
         "id": "paintings_6",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/incantations/06060.png",
+          "icon": "map/icons/shadows/incantations/06060.png",
           "icon_size": 35,
           "id": "paintings_6",
-          "link": "/checklists/paintings.html#item_6",
+          "link": "checklists/paintings.html#item_6",
           "title": "\u7ed8\u753b\u300a\u4e0d\u98de\u4e4b\u9e1f\u300b \u89e3\u7b54"
         },
         "type": "Feature"
@@ -19153,10 +19153,10 @@ const feature_data = [
         "id": "paintings_7",
         "properties": {
           "group": "paintings",
-          "icon": "/map/icons/shadows/armor/15000.png",
+          "icon": "map/icons/shadows/armor/15000.png",
           "icon_size": 35,
           "id": "paintings_7",
-          "link": "/checklists/paintings.html#item_7",
+          "link": "checklists/paintings.html#item_7",
           "title": "\u7ed8\u753b\u300a\u9b54\u6cd5\u5e08\u300b \u89e3\u7b54"
         },
         "type": "Feature"
@@ -19178,10 +19178,10 @@ const feature_data = [
         "id": "pots_bottles_1_1",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_1",
-          "link": "/checklists/pots_bottles.html#item_1_1",
+          "link": "checklists/pots_bottles.html#item_1_1",
           "title": "\u9f9f\u88c2\u58f6 x3"
         },
         "type": "Feature"
@@ -19197,10 +19197,10 @@ const feature_data = [
         "id": "pots_bottles_1_5",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_5",
-          "link": "/checklists/pots_bottles.html#item_1_5",
+          "link": "checklists/pots_bottles.html#item_1_5",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19216,10 +19216,10 @@ const feature_data = [
         "id": "pots_bottles_1_4",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_4",
-          "link": "/checklists/pots_bottles.html#item_1_4",
+          "link": "checklists/pots_bottles.html#item_1_4",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19235,10 +19235,10 @@ const feature_data = [
         "id": "pots_bottles_1_6",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_6",
-          "link": "/checklists/pots_bottles.html#item_1_6",
+          "link": "checklists/pots_bottles.html#item_1_6",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19254,10 +19254,10 @@ const feature_data = [
         "id": "pots_bottles_1_7",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_7",
-          "link": "/checklists/pots_bottles.html#item_1_7",
+          "link": "checklists/pots_bottles.html#item_1_7",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19273,10 +19273,10 @@ const feature_data = [
         "id": "pots_bottles_1_8",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_8",
-          "link": "/checklists/pots_bottles.html#item_1_8",
+          "link": "checklists/pots_bottles.html#item_1_8",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19292,10 +19292,10 @@ const feature_data = [
         "id": "pots_bottles_1_9",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_9",
-          "link": "/checklists/pots_bottles.html#item_1_9",
+          "link": "checklists/pots_bottles.html#item_1_9",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19311,10 +19311,10 @@ const feature_data = [
         "id": "pots_bottles_1_10",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_10",
-          "link": "/checklists/pots_bottles.html#item_1_10",
+          "link": "checklists/pots_bottles.html#item_1_10",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19330,10 +19330,10 @@ const feature_data = [
         "id": "pots_bottles_1_11",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_11",
-          "link": "/checklists/pots_bottles.html#item_1_11",
+          "link": "checklists/pots_bottles.html#item_1_11",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19349,10 +19349,10 @@ const feature_data = [
         "id": "pots_bottles_1_13",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_13",
-          "link": "/checklists/pots_bottles.html#item_1_13",
+          "link": "checklists/pots_bottles.html#item_1_13",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19368,10 +19368,10 @@ const feature_data = [
         "id": "pots_bottles_1_12",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_12",
-          "link": "/checklists/pots_bottles.html#item_1_12",
+          "link": "checklists/pots_bottles.html#item_1_12",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19387,10 +19387,10 @@ const feature_data = [
         "id": "pots_bottles_1_15",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_15",
-          "link": "/checklists/pots_bottles.html#item_1_15",
+          "link": "checklists/pots_bottles.html#item_1_15",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19406,10 +19406,10 @@ const feature_data = [
         "id": "pots_bottles_1_14",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_14",
-          "link": "/checklists/pots_bottles.html#item_1_14",
+          "link": "checklists/pots_bottles.html#item_1_14",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19425,10 +19425,10 @@ const feature_data = [
         "id": "pots_bottles_1_16",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_16",
-          "link": "/checklists/pots_bottles.html#item_1_16",
+          "link": "checklists/pots_bottles.html#item_1_16",
           "title": "\u9f9f\u88c2\u58f6 x4"
         },
         "type": "Feature"
@@ -19444,10 +19444,10 @@ const feature_data = [
         "id": "pots_bottles_1_20",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon": "map/icons/shadows/keys/00504.png",
           "icon_size": 35,
           "id": "pots_bottles_1_20",
-          "link": "/checklists/pots_bottles.html#item_1_20",
+          "link": "checklists/pots_bottles.html#item_1_20",
           "title": "\u9f9f\u88c2\u58f6"
         },
         "type": "Feature"
@@ -19463,10 +19463,10 @@ const feature_data = [
         "id": "pots_bottles_2_1",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/03010.png",
+          "icon": "map/icons/shadows/keys/03010.png",
           "icon_size": 35,
           "id": "pots_bottles_2_1",
-          "link": "/checklists/pots_bottles.html#item_2_1",
+          "link": "checklists/pots_bottles.html#item_2_1",
           "title": "\u4eea\u5f0f\u58f6"
         },
         "type": "Feature"
@@ -19482,10 +19482,10 @@ const feature_data = [
         "id": "pots_bottles_2_2",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/03010.png",
+          "icon": "map/icons/shadows/keys/03010.png",
           "icon_size": 35,
           "id": "pots_bottles_2_2",
-          "link": "/checklists/pots_bottles.html#item_2_2",
+          "link": "checklists/pots_bottles.html#item_2_2",
           "title": "\u4eea\u5f0f\u58f6"
         },
         "type": "Feature"
@@ -19501,10 +19501,10 @@ const feature_data = [
         "id": "pots_bottles_2_3",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/03010.png",
+          "icon": "map/icons/shadows/keys/03010.png",
           "icon_size": 35,
           "id": "pots_bottles_2_3",
-          "link": "/checklists/pots_bottles.html#item_2_3",
+          "link": "checklists/pots_bottles.html#item_2_3",
           "title": "\u4eea\u5f0f\u58f6"
         },
         "type": "Feature"
@@ -19520,10 +19520,10 @@ const feature_data = [
         "id": "pots_bottles_2_5",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/03010.png",
+          "icon": "map/icons/shadows/keys/03010.png",
           "icon_size": 35,
           "id": "pots_bottles_2_5",
-          "link": "/checklists/pots_bottles.html#item_2_5",
+          "link": "checklists/pots_bottles.html#item_2_5",
           "title": "\u4eea\u5f0f\u58f6"
         },
         "type": "Feature"
@@ -19539,10 +19539,10 @@ const feature_data = [
         "id": "pots_bottles_2_4",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/03010.png",
+          "icon": "map/icons/shadows/keys/03010.png",
           "icon_size": 35,
           "id": "pots_bottles_2_4",
-          "link": "/checklists/pots_bottles.html#item_2_4",
+          "link": "checklists/pots_bottles.html#item_2_4",
           "title": "\u4eea\u5f0f\u58f6"
         },
         "type": "Feature"
@@ -19558,10 +19558,10 @@ const feature_data = [
         "id": "pots_bottles_2_6",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/03010.png",
+          "icon": "map/icons/shadows/keys/03010.png",
           "icon_size": 35,
           "id": "pots_bottles_2_6",
-          "link": "/checklists/pots_bottles.html#item_2_6",
+          "link": "checklists/pots_bottles.html#item_2_6",
           "title": "\u4eea\u5f0f\u58f6"
         },
         "type": "Feature"
@@ -19577,10 +19577,10 @@ const feature_data = [
         "id": "pots_bottles_2_7",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/03010.png",
+          "icon": "map/icons/shadows/keys/03010.png",
           "icon_size": 35,
           "id": "pots_bottles_2_7",
-          "link": "/checklists/pots_bottles.html#item_2_7",
+          "link": "checklists/pots_bottles.html#item_2_7",
           "title": "\u4eea\u5f0f\u58f6 x2"
         },
         "type": "Feature"
@@ -19596,10 +19596,10 @@ const feature_data = [
         "id": "pots_bottles_2_9",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/03010.png",
+          "icon": "map/icons/shadows/keys/03010.png",
           "icon_size": 35,
           "id": "pots_bottles_2_9",
-          "link": "/checklists/pots_bottles.html#item_2_9",
+          "link": "checklists/pots_bottles.html#item_2_9",
           "title": "\u4eea\u5f0f\u58f6"
         },
         "type": "Feature"
@@ -19615,10 +19615,10 @@ const feature_data = [
         "id": "pots_bottles_2_10",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/03010.png",
+          "icon": "map/icons/shadows/keys/03010.png",
           "icon_size": 35,
           "id": "pots_bottles_2_10",
-          "link": "/checklists/pots_bottles.html#item_2_10",
+          "link": "checklists/pots_bottles.html#item_2_10",
           "title": "\u4eea\u5f0f\u58f6"
         },
         "type": "Feature"
@@ -19634,10 +19634,10 @@ const feature_data = [
         "id": "pots_bottles_3_1",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00443.png",
+          "icon": "map/icons/shadows/keys/00443.png",
           "icon_size": 35,
           "id": "pots_bottles_3_1",
-          "link": "/checklists/pots_bottles.html#item_3_1",
+          "link": "checklists/pots_bottles.html#item_3_1",
           "title": "\u8c03\u9999\u74f6"
         },
         "type": "Feature"
@@ -19653,10 +19653,10 @@ const feature_data = [
         "id": "pots_bottles_3_2",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00443.png",
+          "icon": "map/icons/shadows/keys/00443.png",
           "icon_size": 35,
           "id": "pots_bottles_3_2",
-          "link": "/checklists/pots_bottles.html#item_3_2",
+          "link": "checklists/pots_bottles.html#item_3_2",
           "title": "\u8c03\u9999\u74f6"
         },
         "type": "Feature"
@@ -19672,10 +19672,10 @@ const feature_data = [
         "id": "pots_bottles_3_5",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00443.png",
+          "icon": "map/icons/shadows/keys/00443.png",
           "icon_size": 35,
           "id": "pots_bottles_3_5",
-          "link": "/checklists/pots_bottles.html#item_3_5",
+          "link": "checklists/pots_bottles.html#item_3_5",
           "title": "\u8c03\u9999\u74f6"
         },
         "type": "Feature"
@@ -19691,10 +19691,10 @@ const feature_data = [
         "id": "pots_bottles_3_3",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00443.png",
+          "icon": "map/icons/shadows/keys/00443.png",
           "icon_size": 35,
           "id": "pots_bottles_3_3",
-          "link": "/checklists/pots_bottles.html#item_3_3",
+          "link": "checklists/pots_bottles.html#item_3_3",
           "title": "\u8c03\u9999\u74f6"
         },
         "type": "Feature"
@@ -19710,10 +19710,10 @@ const feature_data = [
         "id": "pots_bottles_3_4",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00443.png",
+          "icon": "map/icons/shadows/keys/00443.png",
           "icon_size": 35,
           "id": "pots_bottles_3_4",
-          "link": "/checklists/pots_bottles.html#item_3_4",
+          "link": "checklists/pots_bottles.html#item_3_4",
           "title": "\u8c03\u9999\u74f6"
         },
         "type": "Feature"
@@ -19729,10 +19729,10 @@ const feature_data = [
         "id": "pots_bottles_3_6",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00443.png",
+          "icon": "map/icons/shadows/keys/00443.png",
           "icon_size": 35,
           "id": "pots_bottles_3_6",
-          "link": "/checklists/pots_bottles.html#item_3_6",
+          "link": "checklists/pots_bottles.html#item_3_6",
           "title": "\u8c03\u9999\u74f6"
         },
         "type": "Feature"
@@ -19748,10 +19748,10 @@ const feature_data = [
         "id": "pots_bottles_3_7",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00443.png",
+          "icon": "map/icons/shadows/keys/00443.png",
           "icon_size": 35,
           "id": "pots_bottles_3_7",
-          "link": "/checklists/pots_bottles.html#item_3_7",
+          "link": "checklists/pots_bottles.html#item_3_7",
           "title": "\u8c03\u9999\u74f6"
         },
         "type": "Feature"
@@ -19767,10 +19767,10 @@ const feature_data = [
         "id": "pots_bottles_3_8",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00443.png",
+          "icon": "map/icons/shadows/keys/00443.png",
           "icon_size": 35,
           "id": "pots_bottles_3_8",
-          "link": "/checklists/pots_bottles.html#item_3_8",
+          "link": "checklists/pots_bottles.html#item_3_8",
           "title": "\u8c03\u9999\u74f6"
         },
         "type": "Feature"
@@ -19786,10 +19786,10 @@ const feature_data = [
         "id": "pots_bottles_3_9",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00443.png",
+          "icon": "map/icons/shadows/keys/00443.png",
           "icon_size": 35,
           "id": "pots_bottles_3_9",
-          "link": "/checklists/pots_bottles.html#item_3_9",
+          "link": "checklists/pots_bottles.html#item_3_9",
           "title": "\u8c03\u9999\u74f6"
         },
         "type": "Feature"
@@ -19805,10 +19805,10 @@ const feature_data = [
         "id": "pots_bottles_3_10",
         "properties": {
           "group": "pots_bottles",
-          "icon": "/map/icons/shadows/keys/00443.png",
+          "icon": "map/icons/shadows/keys/00443.png",
           "icon_size": 35,
           "id": "pots_bottles_3_10",
-          "link": "/checklists/pots_bottles.html#item_3_10",
+          "link": "checklists/pots_bottles.html#item_3_10",
           "title": "\u8c03\u9999\u74f6"
         },
         "type": "Feature"
@@ -19830,10 +19830,10 @@ const feature_data = [
         "id": "tools_1_2",
         "properties": {
           "group": "tools",
-          "icon": "/map/icons/shadows/tools/00092.png",
+          "icon": "map/icons/shadows/tools/00092.png",
           "icon_size": 35,
           "id": "tools_1_2",
-          "link": "/checklists/tools.html#item_1_2",
+          "link": "checklists/tools.html#item_1_2",
           "title": "<b>\u671b\u8fdc\u955c</b>"
         },
         "type": "Feature"
@@ -19849,10 +19849,10 @@ const feature_data = [
         "id": "tools_1_7",
         "properties": {
           "group": "tools",
-          "icon": "/map/icons/shadows/tools/flasks/00024.png",
+          "icon": "map/icons/shadows/tools/flasks/00024.png",
           "icon_size": 35,
           "id": "tools_1_7",
-          "link": "/checklists/tools.html#item_1_7",
+          "link": "checklists/tools.html#item_1_7",
           "title": "<b>\u7075\u836f\u5723\u676f\u74f6</b>"
         },
         "type": "Feature"
@@ -19868,10 +19868,10 @@ const feature_data = [
         "id": "tools_1_4",
         "properties": {
           "group": "tools",
-          "icon": "/map/icons/shadows/tools/03068.png",
+          "icon": "map/icons/shadows/tools/03068.png",
           "icon_size": 25,
           "id": "tools_1_4",
-          "link": "/checklists/tools.html#item_1_4",
+          "link": "checklists/tools.html#item_1_4",
           "title": "<b>\u62df\u6001\u9762\u7eb1</b>"
         },
         "type": "Feature"
@@ -19887,10 +19887,10 @@ const feature_data = [
         "id": "tools_1_5",
         "properties": {
           "group": "tools",
-          "icon": "/map/icons/shadows/tools/00093.png",
+          "icon": "map/icons/shadows/tools/00093.png",
           "icon_size": 35,
           "id": "tools_1_5",
-          "link": "/checklists/tools.html#item_1_5",
+          "link": "checklists/tools.html#item_1_5",
           "title": "<b>\u643a\u5e26\u7167\u660e\u706f</b>"
         },
         "type": "Feature"
@@ -19906,10 +19906,10 @@ const feature_data = [
         "id": "tools_1_6",
         "properties": {
           "group": "tools",
-          "icon": "/map/icons/shadows/tools/00625.png",
+          "icon": "map/icons/shadows/tools/00625.png",
           "icon_size": 35,
           "id": "tools_1_6",
-          "link": "/checklists/tools.html#item_1_6",
+          "link": "checklists/tools.html#item_1_6",
           "title": "<b>\u7eaf\u8840\u9a91\u58eb\u52cb\u7ae0</b>"
         },
         "type": "Feature"
@@ -19931,10 +19931,10 @@ const feature_data = [
         "id": "gestures_1_1",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07009.png",
+          "icon": "map/icons/shadows/gestures/07009.png",
           "icon_size": 40,
           "id": "gestures_1_1",
-          "link": "/checklists/gestures.html#item_1_1",
+          "link": "checklists/gestures.html#item_1_1",
           "title": "<b>\u7528\u529b\u63e1\u62f3</b>"
         },
         "type": "Feature"
@@ -19950,10 +19950,10 @@ const feature_data = [
         "id": "gestures_1_3",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07017.png",
+          "icon": "map/icons/shadows/gestures/07017.png",
           "icon_size": 40,
           "id": "gestures_1_3",
-          "link": "/checklists/gestures.html#item_1_3",
+          "link": "checklists/gestures.html#item_1_3",
           "title": "<b>\u70b9\u5934\u79f0\u662f</b>"
         },
         "type": "Feature"
@@ -19969,10 +19969,10 @@ const feature_data = [
         "id": "gestures_1_4",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07019.png",
+          "icon": "map/icons/shadows/gestures/07019.png",
           "icon_size": 35,
           "id": "gestures_1_4",
-          "link": "/checklists/gestures.html#item_1_4",
+          "link": "checklists/gestures.html#item_1_4",
           "title": "<b>\u6c42\u9976</b>"
         },
         "type": "Feature"
@@ -19988,10 +19988,10 @@ const feature_data = [
         "id": "gestures_1_5",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07018.png",
+          "icon": "map/icons/shadows/gestures/07018.png",
           "icon_size": 30,
           "id": "gestures_1_5",
-          "link": "/checklists/gestures.html#item_1_5",
+          "link": "checklists/gestures.html#item_1_5",
           "title": "<b>\u4e0b\u8dea</b>"
         },
         "type": "Feature"
@@ -20007,10 +20007,10 @@ const feature_data = [
         "id": "gestures_1_6",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07016.png",
+          "icon": "map/icons/shadows/gestures/07016.png",
           "icon_size": 40,
           "id": "gestures_1_6",
-          "link": "/checklists/gestures.html#item_1_6",
+          "link": "checklists/gestures.html#item_1_6",
           "title": "<b>\u51b7\u9759\u70b9</b>"
         },
         "type": "Feature"
@@ -20026,10 +20026,10 @@ const feature_data = [
         "id": "gestures_1_7",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07030.png",
+          "icon": "map/icons/shadows/gestures/07030.png",
           "icon_size": 40,
           "id": "gestures_1_7",
-          "link": "/checklists/gestures.html#item_1_7",
+          "link": "checklists/gestures.html#item_1_7",
           "title": "<b>\u5f39\u6307</b>"
         },
         "type": "Feature"
@@ -20045,10 +20045,10 @@ const feature_data = [
         "id": "gestures_1_8",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07028.png",
+          "icon": "map/icons/shadows/gestures/07028.png",
           "icon_size": 40,
           "id": "gestures_1_8",
-          "link": "/checklists/gestures.html#item_1_8",
+          "link": "checklists/gestures.html#item_1_8",
           "title": "<b>\u4e3e\u624b\u6b22\u547c</b>"
         },
         "type": "Feature"
@@ -20064,10 +20064,10 @@ const feature_data = [
         "id": "gestures_1_9",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07033.png",
+          "icon": "map/icons/shadows/gestures/07033.png",
           "icon_size": 35,
           "id": "gestures_1_9",
-          "link": "/checklists/gestures.html#item_1_9",
+          "link": "checklists/gestures.html#item_1_9",
           "title": "<b>\u76d8\u817f\u5750</b>"
         },
         "type": "Feature"
@@ -20083,10 +20083,10 @@ const feature_data = [
         "id": "gestures_1_10",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07035.png",
+          "icon": "map/icons/shadows/gestures/07035.png",
           "icon_size": 35,
           "id": "gestures_1_10",
-          "link": "/checklists/gestures.html#item_1_10",
+          "link": "checklists/gestures.html#item_1_10",
           "title": "<b>\u6536\u62e2\u53cc\u817f\u800c\u5750</b>"
         },
         "type": "Feature"
@@ -20102,10 +20102,10 @@ const feature_data = [
         "id": "gestures_1_11",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07036.png",
+          "icon": "map/icons/shadows/gestures/07036.png",
           "icon_size": 30,
           "id": "gestures_1_11",
-          "link": "/checklists/gestures.html#item_1_11",
+          "link": "checklists/gestures.html#item_1_11",
           "title": "<b>\u76d8\u817f\u719f\u7761</b>"
         },
         "type": "Feature"
@@ -20121,10 +20121,10 @@ const feature_data = [
         "id": "gestures_1_12",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07026.png",
+          "icon": "map/icons/shadows/gestures/07026.png",
           "icon_size": 40,
           "id": "gestures_1_12",
-          "link": "/checklists/gestures.html#item_1_12",
+          "link": "checklists/gestures.html#item_1_12",
           "title": "<b>\u62cd\u624b</b>"
         },
         "type": "Feature"
@@ -20140,10 +20140,10 @@ const feature_data = [
         "id": "gestures_1_13",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07032.png",
+          "icon": "map/icons/shadows/gestures/07032.png",
           "icon_size": 35,
           "id": "gestures_1_13",
-          "link": "/checklists/gestures.html#item_1_13",
+          "link": "checklists/gestures.html#item_1_13",
           "title": "<b>\u5e15\u5947\u5750\u59ff</b>"
         },
         "type": "Feature"
@@ -20159,10 +20159,10 @@ const feature_data = [
         "id": "gestures_2_1",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07041.png",
+          "icon": "map/icons/shadows/gestures/07041.png",
           "icon_size": 35,
           "id": "gestures_2_1",
-          "link": "/checklists/gestures.html#item_2_1",
+          "link": "checklists/gestures.html#item_2_1",
           "title": "<b>\u7948\u7977</b>"
         },
         "type": "Feature"
@@ -20178,10 +20178,10 @@ const feature_data = [
         "id": "gestures_2_2",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07040.png",
+          "icon": "map/icons/shadows/gestures/07040.png",
           "icon_size": 40,
           "id": "gestures_2_2",
-          "link": "/checklists/gestures.html#item_2_2",
+          "link": "checklists/gestures.html#item_2_2",
           "title": "<b>\u6709\u4f55\u8d35\u5e72\uff1f</b>"
         },
         "type": "Feature"
@@ -20197,10 +20197,10 @@ const feature_data = [
         "id": "gestures_2_3",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07004.png",
+          "icon": "map/icons/shadows/gestures/07004.png",
           "icon_size": 35,
           "id": "gestures_2_3",
-          "link": "/checklists/gestures.html#item_2_3",
+          "link": "checklists/gestures.html#item_2_3",
           "title": "<b>\u606d\u656c\u656c\u793c</b>"
         },
         "type": "Feature"
@@ -20216,10 +20216,10 @@ const feature_data = [
         "id": "gestures_2_4",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07003.png",
+          "icon": "map/icons/shadows/gestures/07003.png",
           "icon_size": 40,
           "id": "gestures_2_4",
-          "link": "/checklists/gestures.html#item_2_4",
+          "link": "checklists/gestures.html#item_2_4",
           "title": "<b>\u5c48\u819d\u793c</b>"
         },
         "type": "Feature"
@@ -20235,10 +20235,10 @@ const feature_data = [
         "id": "gestures_2_5",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07043.png",
+          "icon": "map/icons/shadows/gestures/07043.png",
           "icon_size": 40,
           "id": "gestures_2_5",
-          "link": "/checklists/gestures.html#item_2_5",
+          "link": "checklists/gestures.html#item_2_5",
           "title": "<b>\u604d\u60da</b>"
         },
         "type": "Feature"
@@ -20254,10 +20254,10 @@ const feature_data = [
         "id": "gestures_3_1",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07010.png",
+          "icon": "map/icons/shadows/gestures/07010.png",
           "icon_size": 40,
           "id": "gestures_3_1",
-          "link": "/checklists/gestures.html#item_3_1",
+          "link": "checklists/gestures.html#item_3_1",
           "title": "<b>\u5c31\u7167\u4f60\u7684\u610f\u601d</b>"
         },
         "type": "Feature"
@@ -20273,10 +20273,10 @@ const feature_data = [
         "id": "gestures_3_2",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07024.png",
+          "icon": "map/icons/shadows/gestures/07024.png",
           "icon_size": 40,
           "id": "gestures_3_2",
-          "link": "/checklists/gestures.html#item_3_2",
+          "link": "checklists/gestures.html#item_3_2",
           "title": "<b>\u613f\u706b\u7130\u5e38\u5728\u6211\u5fc3</b>"
         },
         "type": "Feature"
@@ -20292,10 +20292,10 @@ const feature_data = [
         "id": "gestures_3_3",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07037.png",
+          "icon": "map/icons/shadows/gestures/07037.png",
           "icon_size": 25,
           "id": "gestures_3_3",
-          "link": "/checklists/gestures.html#item_3_3",
+          "link": "checklists/gestures.html#item_3_3",
           "title": "<b>\u5927\u5b57\u8eba</b>"
         },
         "type": "Feature"
@@ -20311,10 +20311,10 @@ const feature_data = [
         "id": "gestures_3_4",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07046.png",
+          "icon": "map/icons/shadows/gestures/07046.png",
           "icon_size": 40,
           "id": "gestures_3_4",
-          "link": "/checklists/gestures.html#item_3_4",
+          "link": "checklists/gestures.html#item_3_4",
           "title": "<b>\u6df1\u5177\u777f\u667a</b>"
         },
         "type": "Feature"
@@ -20330,10 +20330,10 @@ const feature_data = [
         "id": "gestures_3_5",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07039.png",
+          "icon": "map/icons/shadows/gestures/07039.png",
           "icon_size": 25,
           "id": "gestures_3_5",
-          "link": "/checklists/gestures.html#item_3_5",
+          "link": "checklists/gestures.html#item_3_5",
           "title": "<b>\u7f29\u6210\u4e00\u56e2</b>"
         },
         "type": "Feature"
@@ -20349,10 +20349,10 @@ const feature_data = [
         "id": "gestures_3_6",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07008.png",
+          "icon": "map/icons/shadows/gestures/07008.png",
           "icon_size": 40,
           "id": "gestures_3_6",
-          "link": "/checklists/gestures.html#item_3_6",
+          "link": "checklists/gestures.html#item_3_6",
           "title": "<b>\u6253\u62db\u547c</b>(\u65b9\u6cd51)"
         },
         "type": "Feature"
@@ -20368,10 +20368,10 @@ const feature_data = [
         "id": "gestures_4_1",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07042.png",
+          "icon": "map/icons/shadows/gestures/07042.png",
           "icon_size": 35,
           "id": "gestures_4_1",
-          "link": "/checklists/gestures.html#item_4_1",
+          "link": "checklists/gestures.html#item_4_1",
           "title": "<b>\u4e13\u6ce8\u7684\u7948\u7977</b>"
         },
         "type": "Feature"
@@ -20387,10 +20387,10 @@ const feature_data = [
         "id": "gestures_4_2",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07021.png",
+          "icon": "map/icons/shadows/gestures/07021.png",
           "icon_size": 40,
           "id": "gestures_4_2",
-          "link": "/checklists/gestures.html#item_4_2",
+          "link": "checklists/gestures.html#item_4_2",
           "title": "<b>\u5174\u594b\u5927\u543c</b>"
         },
         "type": "Feature"
@@ -20406,10 +20406,10 @@ const feature_data = [
         "id": "gestures_4_3",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07001.png",
+          "icon": "map/icons/shadows/gestures/07001.png",
           "icon_size": 35,
           "id": "gestures_4_3",
-          "link": "/checklists/gestures.html#item_4_3",
+          "link": "checklists/gestures.html#item_4_3",
           "title": "<b>\u90d1\u91cd\u656c\u793c</b>"
         },
         "type": "Feature"
@@ -20425,10 +20425,10 @@ const feature_data = [
         "id": "gestures_4_4",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07008.png",
+          "icon": "map/icons/shadows/gestures/07008.png",
           "icon_size": 40,
           "id": "gestures_4_4",
-          "link": "/checklists/gestures.html#item_4_4",
+          "link": "checklists/gestures.html#item_4_4",
           "title": "<b>\u6253\u62db\u547c</b>(\u65b9\u6cd52)"
         },
         "type": "Feature"
@@ -20444,10 +20444,10 @@ const feature_data = [
         "id": "gestures_5_1",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07002.png",
+          "icon": "map/icons/shadows/gestures/07002.png",
           "icon_size": 40,
           "id": "gestures_5_1",
-          "link": "/checklists/gestures.html#item_5_1",
+          "link": "checklists/gestures.html#item_5_1",
           "title": "<b>\u81f4\u8c22</b>"
         },
         "type": "Feature"
@@ -20463,10 +20463,10 @@ const feature_data = [
         "id": "gestures_6_1",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07047.png",
+          "icon": "map/icons/shadows/gestures/07047.png",
           "icon_size": 40,
           "id": "gestures_6_1",
-          "link": "/checklists/gestures.html#item_6_1",
+          "link": "checklists/gestures.html#item_6_1",
           "title": "<b>\u5916\u5728\u5f8b\u6cd5</b>"
         },
         "type": "Feature"
@@ -20482,10 +20482,10 @@ const feature_data = [
         "id": "gestures_6_2",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07022.png",
+          "icon": "map/icons/shadows/gestures/07022.png",
           "icon_size": 40,
           "id": "gestures_6_2",
-          "link": "/checklists/gestures.html#item_6_2",
+          "link": "checklists/gestures.html#item_6_2",
           "title": "<b>\u4ee5\u5251\u7acb\u8a93</b>"
         },
         "type": "Feature"
@@ -20501,10 +20501,10 @@ const feature_data = [
         "id": "gestures_6_3",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07005.png",
+          "icon": "map/icons/shadows/gestures/07005.png",
           "icon_size": 35,
           "id": "gestures_6_3",
-          "link": "/checklists/gestures.html#item_6_3",
+          "link": "checklists/gestures.html#item_6_3",
           "title": "<b>\u543e\u738b\u554a</b>"
         },
         "type": "Feature"
@@ -20520,10 +20520,10 @@ const feature_data = [
         "id": "gestures_6_4",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07049.png",
+          "icon": "map/icons/shadows/gestures/07049.png",
           "icon_size": 40,
           "id": "gestures_6_4",
-          "link": "/checklists/gestures.html#item_6_4",
+          "link": "checklists/gestures.html#item_6_4",
           "title": "<b>\u9ec4\u91d1\u5f8b\u6cd5\u5168\u8c8c</b>"
         },
         "type": "Feature"
@@ -20539,10 +20539,10 @@ const feature_data = [
         "id": "gestures_7_1",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07029.png",
+          "icon": "map/icons/shadows/gestures/07029.png",
           "icon_size": 40,
           "id": "gestures_7_1",
-          "link": "/checklists/gestures.html#item_7_1",
+          "link": "checklists/gestures.html#item_7_1",
           "title": "<b>\u8f6c\u5708</b>"
         },
         "type": "Feature"
@@ -20558,10 +20558,10 @@ const feature_data = [
         "id": "gestures_7_2",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07023.png",
+          "icon": "map/icons/shadows/gestures/07023.png",
           "icon_size": 40,
           "id": "gestures_7_2",
-          "link": "/checklists/gestures.html#item_7_2",
+          "link": "checklists/gestures.html#item_7_2",
           "title": "<b>\u970d\u65af\u52b3\u7acb\u8a93</b>"
         },
         "type": "Feature"
@@ -20577,10 +20577,10 @@ const feature_data = [
         "id": "gestures_8_1",
         "properties": {
           "group": "gestures",
-          "icon": "/map/icons/shadows/gestures/07048.png",
+          "icon": "map/icons/shadows/gestures/07048.png",
           "icon_size": 40,
           "id": "gestures_8_1",
-          "link": "/checklists/gestures.html#item_8_1",
+          "link": "checklists/gestures.html#item_8_1",
           "title": "<b>\u5185\u5728\u5f8b\u6cd5</b>"
         },
         "type": "Feature"
@@ -20591,201 +20591,201 @@ const feature_data = [
   }
 ];
 const icon_urls = [
-  "/map/icons/MENU_MAP_01_Bonfire.png",
-  "/map/icons/MENU_MAP_05.png",
-  "/map/icons/MENU_MAP_06.png",
-  "/map/icons/MENU_MAP_08.png",
-  "/map/icons/MENU_MAP_10.png",
-  "/map/icons/MENU_MAP_11.png",
-  "/map/icons/MENU_MAP_14.png",
-  "/map/icons/MENU_MAP_17.png",
-  "/map/icons/MENU_MAP_18.png",
-  "/map/icons/MENU_MAP_19.png",
-  "/map/icons/MENU_MAP_20.png",
-  "/map/icons/MENU_MAP_21.png",
-  "/map/icons/MENU_MAP_23.png",
-  "/map/icons/MENU_MAP_25.png",
-  "/map/icons/MENU_MAP_26.png",
-  "/map/icons/MENU_MAP_27.png",
-  "/map/icons/MENU_MAP_28.png",
-  "/map/icons/MENU_MAP_29.png",
-  "/map/icons/MENU_MAP_30.png",
-  "/map/icons/MENU_MAP_32.png",
-  "/map/icons/MENU_MAP_33.png",
-  "/map/icons/MENU_MAP_34.png",
-  "/map/icons/MENU_MAP_35.png",
-  "/map/icons/MENU_MAP_36.png",
-  "/map/icons/MENU_MAP_37.png",
-  "/map/icons/MENU_MAP_38.png",
-  "/map/icons/MENU_MAP_39.png",
-  "/map/icons/MENU_MAP_40.png",
-  "/map/icons/MENU_MAP_48.png",
-  "/map/icons/MENU_MAP_50.png",
-  "/map/icons/MENU_MAP_51.png",
-  "/map/icons/MENU_MAP_52.png",
-  "/map/icons/MENU_MAP_53.png",
-  "/map/icons/MENU_MAP_54.png",
-  "/map/icons/MENU_MAP_55.png",
-  "/map/icons/MENU_MAP_56.png",
-  "/map/icons/MENU_MAP_57.png",
-  "/map/icons/MENU_MAP_58.png",
-  "/map/icons/MENU_MAP_59.png",
-  "/map/icons/MENU_MAP_60.png",
-  "/map/icons/MENU_MAP_61.png",
-  "/map/icons/MENU_MAP_66.png",
-  "/map/icons/MENU_MAP_80.png",
-  "/map/icons/MENU_MAP_Church.png",
-  "/map/icons/MENU_MAP_Ungro.png",
-  "/map/icons/MENU_MAP_memo_20.png",
-  "/map/icons/edited/MENU_MAP_04.png",
-  "/map/icons/edited/MENU_MAP_09.png",
-  "/map/icons/edited/MENU_MAP_13.png",
-  "/map/icons/edited/MENU_MAP_16.png",
-  "/map/icons/shadows/armor/14770.png",
-  "/map/icons/shadows/armor/15000.png",
-  "/map/icons/shadows/armor/15290.png",
-  "/map/icons/shadows/ashes_of_war/08385.png",
-  "/map/icons/shadows/bolstering/00383.png",
-  "/map/icons/shadows/bolstering/00384.png",
-  "/map/icons/shadows/gestures/07001.png",
-  "/map/icons/shadows/gestures/07002.png",
-  "/map/icons/shadows/gestures/07003.png",
-  "/map/icons/shadows/gestures/07004.png",
-  "/map/icons/shadows/gestures/07005.png",
-  "/map/icons/shadows/gestures/07008.png",
-  "/map/icons/shadows/gestures/07009.png",
-  "/map/icons/shadows/gestures/07010.png",
-  "/map/icons/shadows/gestures/07016.png",
-  "/map/icons/shadows/gestures/07017.png",
-  "/map/icons/shadows/gestures/07018.png",
-  "/map/icons/shadows/gestures/07019.png",
-  "/map/icons/shadows/gestures/07021.png",
-  "/map/icons/shadows/gestures/07022.png",
-  "/map/icons/shadows/gestures/07023.png",
-  "/map/icons/shadows/gestures/07024.png",
-  "/map/icons/shadows/gestures/07026.png",
-  "/map/icons/shadows/gestures/07028.png",
-  "/map/icons/shadows/gestures/07029.png",
-  "/map/icons/shadows/gestures/07030.png",
-  "/map/icons/shadows/gestures/07032.png",
-  "/map/icons/shadows/gestures/07033.png",
-  "/map/icons/shadows/gestures/07035.png",
-  "/map/icons/shadows/gestures/07036.png",
-  "/map/icons/shadows/gestures/07037.png",
-  "/map/icons/shadows/gestures/07039.png",
-  "/map/icons/shadows/gestures/07040.png",
-  "/map/icons/shadows/gestures/07041.png",
-  "/map/icons/shadows/gestures/07042.png",
-  "/map/icons/shadows/gestures/07043.png",
-  "/map/icons/shadows/gestures/07046.png",
-  "/map/icons/shadows/gestures/07047.png",
-  "/map/icons/shadows/gestures/07048.png",
-  "/map/icons/shadows/gestures/07049.png",
-  "/map/icons/shadows/imp.png",
-  "/map/icons/shadows/incantations/06060.png",
-  "/map/icons/shadows/info/paintings/03066.png",
-  "/map/icons/shadows/info/paintings/03207.png",
-  "/map/icons/shadows/info/paintings/03208.png",
-  "/map/icons/shadows/info/paintings/03209.png",
-  "/map/icons/shadows/info/paintings/03210.png",
-  "/map/icons/shadows/info/paintings/03211.png",
-  "/map/icons/shadows/info/paintings/03212.png",
-  "/map/icons/shadows/keys/00228.png",
-  "/map/icons/shadows/keys/00310.png",
-  "/map/icons/shadows/keys/00311.png",
-  "/map/icons/shadows/keys/00315.png",
-  "/map/icons/shadows/keys/00316.png",
-  "/map/icons/shadows/keys/00317.png",
-  "/map/icons/shadows/keys/00318.png",
-  "/map/icons/shadows/keys/00319.png",
-  "/map/icons/shadows/keys/00322.png",
-  "/map/icons/shadows/keys/00324.png",
-  "/map/icons/shadows/keys/00325.png",
-  "/map/icons/shadows/keys/00443.png",
-  "/map/icons/shadows/keys/00504.png",
-  "/map/icons/shadows/keys/00553.png",
-  "/map/icons/shadows/keys/00554.png",
-  "/map/icons/shadows/keys/00557.png",
-  "/map/icons/shadows/keys/03010.png",
-  "/map/icons/shadows/keys/03020.png",
-  "/map/icons/shadows/keys/03021.png",
-  "/map/icons/shadows/keys/03022.png",
-  "/map/icons/shadows/keys/03023.png",
-  "/map/icons/shadows/keys/03024.png",
-  "/map/icons/shadows/keys/03090.png",
-  "/map/icons/shadows/keys/03230.png",
-  "/map/icons/shadows/keys/cookbooks/03119.png",
-  "/map/icons/shadows/keys/cookbooks/03120.png",
-  "/map/icons/shadows/keys/cookbooks/03121.png",
-  "/map/icons/shadows/keys/cookbooks/03122.png",
-  "/map/icons/shadows/keys/cookbooks/03123.png",
-  "/map/icons/shadows/keys/cookbooks/03124.png",
-  "/map/icons/shadows/keys/cookbooks/03125.png",
-  "/map/icons/shadows/keys/cookbooks/03126.png",
-  "/map/icons/shadows/keys/crystal_tears/00400.png",
-  "/map/icons/shadows/keys/crystal_tears/00401.png",
-  "/map/icons/shadows/keys/crystal_tears/00402.png",
-  "/map/icons/shadows/keys/crystal_tears/00403.png",
-  "/map/icons/shadows/keys/crystal_tears/00404.png",
-  "/map/icons/shadows/keys/crystal_tears/00405.png",
-  "/map/icons/shadows/keys/crystal_tears/00406.png",
-  "/map/icons/shadows/keys/crystal_tears/00407.png",
-  "/map/icons/shadows/keys/crystal_tears/00408.png",
-  "/map/icons/shadows/keys/crystal_tears/00409.png",
-  "/map/icons/shadows/keys/crystal_tears/00410.png",
-  "/map/icons/shadows/keys/crystal_tears/00411.png",
-  "/map/icons/shadows/keys/crystal_tears/00412.png",
-  "/map/icons/shadows/keys/crystal_tears/00413.png",
-  "/map/icons/shadows/keys/crystal_tears/00414.png",
-  "/map/icons/shadows/keys/crystal_tears/00415.png",
-  "/map/icons/shadows/keys/crystal_tears/00416.png",
-  "/map/icons/shadows/keys/crystal_tears/00417.png",
-  "/map/icons/shadows/keys/crystal_tears/00418.png",
-  "/map/icons/shadows/keys/crystal_tears/00419.png",
-  "/map/icons/shadows/keys/crystal_tears/00420.png",
-  "/map/icons/shadows/keys/crystal_tears/00421.png",
-  "/map/icons/shadows/keys/crystal_tears/00422.png",
-  "/map/icons/shadows/keys/crystal_tears/00423.png",
-  "/map/icons/shadows/keys/crystal_tears/00424.png",
-  "/map/icons/shadows/keys/crystal_tears/00425.png",
-  "/map/icons/shadows/keys/crystal_tears/00426.png",
-  "/map/icons/shadows/keys/crystal_tears/00427.png",
-  "/map/icons/shadows/keys/crystal_tears/00428.png",
-  "/map/icons/shadows/keys/crystal_tears/00429.png",
-  "/map/icons/shadows/keys/crystal_tears/00430.png",
-  "/map/icons/shadows/keys/crystal_tears/00431.png",
-  "/map/icons/shadows/keys/great_runes/03078.png",
-  "/map/icons/shadows/keys/great_runes/03079.png",
-  "/map/icons/shadows/keys/great_runes/03080.png",
-  "/map/icons/shadows/keys/great_runes/03081.png",
-  "/map/icons/shadows/keys/great_runes/03082.png",
-  "/map/icons/shadows/keys/great_runes/03083.png",
-  "/map/icons/shadows/keys/great_runes/03117.png",
-  "/map/icons/shadows/keys/great_runes/03118.png",
-  "/map/icons/shadows/keys/great_runes/03200.png",
-  "/map/icons/shadows/keys/great_runes/03201.png",
-  "/map/icons/shadows/keys/great_runes/03202.png",
-  "/map/icons/shadows/keys/great_runes/03203.png",
-  "/map/icons/shadows/keys/great_runes/03204.png",
-  "/map/icons/shadows/keys/great_runes/03205.png",
-  "/map/icons/shadows/keys/great_runes/03206.png",
-  "/map/icons/shadows/mausoleum.png",
-  "/map/icons/shadows/spirit_ashes/00456.png",
-  "/map/icons/shadows/tools/00092.png",
-  "/map/icons/shadows/tools/00093.png",
-  "/map/icons/shadows/tools/00625.png",
-  "/map/icons/shadows/tools/03068.png",
-  "/map/icons/shadows/tools/flasks/00024.png",
-  "/map/icons/shadows/tools/remembrances/00163.png",
-  "/map/icons/shadows/tools/remembrances/00164.png",
-  "/map/icons/shadows/tools/remembrances/00165.png",
-  "/map/icons/shadows/tools/remembrances/00166.png",
-  "/map/icons/shadows/tools/remembrances/00167.png",
-  "/map/icons/shadows/tools/remembrances/00168.png",
-  "/map/icons/shadows/tools/remembrances/00172.png",
-  "/map/icons/shadows/tools/remembrances/00173.png",
-  "/map/icons/shadows/tools/remembrances/00174.png",
-  "/map/icons/shadows/tools/remembrances/00175.png",
-  "/map/icons/shadows/tools/remembrances/00177.png",
-  "/map/icons/shadows/weapons/lightbows/11003.png"
+  "map/icons/MENU_MAP_01_Bonfire.png",
+  "map/icons/MENU_MAP_05.png",
+  "map/icons/MENU_MAP_06.png",
+  "map/icons/MENU_MAP_08.png",
+  "map/icons/MENU_MAP_10.png",
+  "map/icons/MENU_MAP_11.png",
+  "map/icons/MENU_MAP_14.png",
+  "map/icons/MENU_MAP_17.png",
+  "map/icons/MENU_MAP_18.png",
+  "map/icons/MENU_MAP_19.png",
+  "map/icons/MENU_MAP_20.png",
+  "map/icons/MENU_MAP_21.png",
+  "map/icons/MENU_MAP_23.png",
+  "map/icons/MENU_MAP_25.png",
+  "map/icons/MENU_MAP_26.png",
+  "map/icons/MENU_MAP_27.png",
+  "map/icons/MENU_MAP_28.png",
+  "map/icons/MENU_MAP_29.png",
+  "map/icons/MENU_MAP_30.png",
+  "map/icons/MENU_MAP_32.png",
+  "map/icons/MENU_MAP_33.png",
+  "map/icons/MENU_MAP_34.png",
+  "map/icons/MENU_MAP_35.png",
+  "map/icons/MENU_MAP_36.png",
+  "map/icons/MENU_MAP_37.png",
+  "map/icons/MENU_MAP_38.png",
+  "map/icons/MENU_MAP_39.png",
+  "map/icons/MENU_MAP_40.png",
+  "map/icons/MENU_MAP_48.png",
+  "map/icons/MENU_MAP_50.png",
+  "map/icons/MENU_MAP_51.png",
+  "map/icons/MENU_MAP_52.png",
+  "map/icons/MENU_MAP_53.png",
+  "map/icons/MENU_MAP_54.png",
+  "map/icons/MENU_MAP_55.png",
+  "map/icons/MENU_MAP_56.png",
+  "map/icons/MENU_MAP_57.png",
+  "map/icons/MENU_MAP_58.png",
+  "map/icons/MENU_MAP_59.png",
+  "map/icons/MENU_MAP_60.png",
+  "map/icons/MENU_MAP_61.png",
+  "map/icons/MENU_MAP_66.png",
+  "map/icons/MENU_MAP_80.png",
+  "map/icons/MENU_MAP_Church.png",
+  "map/icons/MENU_MAP_Ungro.png",
+  "map/icons/MENU_MAP_memo_20.png",
+  "map/icons/edited/MENU_MAP_04.png",
+  "map/icons/edited/MENU_MAP_09.png",
+  "map/icons/edited/MENU_MAP_13.png",
+  "map/icons/edited/MENU_MAP_16.png",
+  "map/icons/shadows/armor/14770.png",
+  "map/icons/shadows/armor/15000.png",
+  "map/icons/shadows/armor/15290.png",
+  "map/icons/shadows/ashes_of_war/08385.png",
+  "map/icons/shadows/bolstering/00383.png",
+  "map/icons/shadows/bolstering/00384.png",
+  "map/icons/shadows/gestures/07001.png",
+  "map/icons/shadows/gestures/07002.png",
+  "map/icons/shadows/gestures/07003.png",
+  "map/icons/shadows/gestures/07004.png",
+  "map/icons/shadows/gestures/07005.png",
+  "map/icons/shadows/gestures/07008.png",
+  "map/icons/shadows/gestures/07009.png",
+  "map/icons/shadows/gestures/07010.png",
+  "map/icons/shadows/gestures/07016.png",
+  "map/icons/shadows/gestures/07017.png",
+  "map/icons/shadows/gestures/07018.png",
+  "map/icons/shadows/gestures/07019.png",
+  "map/icons/shadows/gestures/07021.png",
+  "map/icons/shadows/gestures/07022.png",
+  "map/icons/shadows/gestures/07023.png",
+  "map/icons/shadows/gestures/07024.png",
+  "map/icons/shadows/gestures/07026.png",
+  "map/icons/shadows/gestures/07028.png",
+  "map/icons/shadows/gestures/07029.png",
+  "map/icons/shadows/gestures/07030.png",
+  "map/icons/shadows/gestures/07032.png",
+  "map/icons/shadows/gestures/07033.png",
+  "map/icons/shadows/gestures/07035.png",
+  "map/icons/shadows/gestures/07036.png",
+  "map/icons/shadows/gestures/07037.png",
+  "map/icons/shadows/gestures/07039.png",
+  "map/icons/shadows/gestures/07040.png",
+  "map/icons/shadows/gestures/07041.png",
+  "map/icons/shadows/gestures/07042.png",
+  "map/icons/shadows/gestures/07043.png",
+  "map/icons/shadows/gestures/07046.png",
+  "map/icons/shadows/gestures/07047.png",
+  "map/icons/shadows/gestures/07048.png",
+  "map/icons/shadows/gestures/07049.png",
+  "map/icons/shadows/imp.png",
+  "map/icons/shadows/incantations/06060.png",
+  "map/icons/shadows/info/paintings/03066.png",
+  "map/icons/shadows/info/paintings/03207.png",
+  "map/icons/shadows/info/paintings/03208.png",
+  "map/icons/shadows/info/paintings/03209.png",
+  "map/icons/shadows/info/paintings/03210.png",
+  "map/icons/shadows/info/paintings/03211.png",
+  "map/icons/shadows/info/paintings/03212.png",
+  "map/icons/shadows/keys/00228.png",
+  "map/icons/shadows/keys/00310.png",
+  "map/icons/shadows/keys/00311.png",
+  "map/icons/shadows/keys/00315.png",
+  "map/icons/shadows/keys/00316.png",
+  "map/icons/shadows/keys/00317.png",
+  "map/icons/shadows/keys/00318.png",
+  "map/icons/shadows/keys/00319.png",
+  "map/icons/shadows/keys/00322.png",
+  "map/icons/shadows/keys/00324.png",
+  "map/icons/shadows/keys/00325.png",
+  "map/icons/shadows/keys/00443.png",
+  "map/icons/shadows/keys/00504.png",
+  "map/icons/shadows/keys/00553.png",
+  "map/icons/shadows/keys/00554.png",
+  "map/icons/shadows/keys/00557.png",
+  "map/icons/shadows/keys/03010.png",
+  "map/icons/shadows/keys/03020.png",
+  "map/icons/shadows/keys/03021.png",
+  "map/icons/shadows/keys/03022.png",
+  "map/icons/shadows/keys/03023.png",
+  "map/icons/shadows/keys/03024.png",
+  "map/icons/shadows/keys/03090.png",
+  "map/icons/shadows/keys/03230.png",
+  "map/icons/shadows/keys/cookbooks/03119.png",
+  "map/icons/shadows/keys/cookbooks/03120.png",
+  "map/icons/shadows/keys/cookbooks/03121.png",
+  "map/icons/shadows/keys/cookbooks/03122.png",
+  "map/icons/shadows/keys/cookbooks/03123.png",
+  "map/icons/shadows/keys/cookbooks/03124.png",
+  "map/icons/shadows/keys/cookbooks/03125.png",
+  "map/icons/shadows/keys/cookbooks/03126.png",
+  "map/icons/shadows/keys/crystal_tears/00400.png",
+  "map/icons/shadows/keys/crystal_tears/00401.png",
+  "map/icons/shadows/keys/crystal_tears/00402.png",
+  "map/icons/shadows/keys/crystal_tears/00403.png",
+  "map/icons/shadows/keys/crystal_tears/00404.png",
+  "map/icons/shadows/keys/crystal_tears/00405.png",
+  "map/icons/shadows/keys/crystal_tears/00406.png",
+  "map/icons/shadows/keys/crystal_tears/00407.png",
+  "map/icons/shadows/keys/crystal_tears/00408.png",
+  "map/icons/shadows/keys/crystal_tears/00409.png",
+  "map/icons/shadows/keys/crystal_tears/00410.png",
+  "map/icons/shadows/keys/crystal_tears/00411.png",
+  "map/icons/shadows/keys/crystal_tears/00412.png",
+  "map/icons/shadows/keys/crystal_tears/00413.png",
+  "map/icons/shadows/keys/crystal_tears/00414.png",
+  "map/icons/shadows/keys/crystal_tears/00415.png",
+  "map/icons/shadows/keys/crystal_tears/00416.png",
+  "map/icons/shadows/keys/crystal_tears/00417.png",
+  "map/icons/shadows/keys/crystal_tears/00418.png",
+  "map/icons/shadows/keys/crystal_tears/00419.png",
+  "map/icons/shadows/keys/crystal_tears/00420.png",
+  "map/icons/shadows/keys/crystal_tears/00421.png",
+  "map/icons/shadows/keys/crystal_tears/00422.png",
+  "map/icons/shadows/keys/crystal_tears/00423.png",
+  "map/icons/shadows/keys/crystal_tears/00424.png",
+  "map/icons/shadows/keys/crystal_tears/00425.png",
+  "map/icons/shadows/keys/crystal_tears/00426.png",
+  "map/icons/shadows/keys/crystal_tears/00427.png",
+  "map/icons/shadows/keys/crystal_tears/00428.png",
+  "map/icons/shadows/keys/crystal_tears/00429.png",
+  "map/icons/shadows/keys/crystal_tears/00430.png",
+  "map/icons/shadows/keys/crystal_tears/00431.png",
+  "map/icons/shadows/keys/great_runes/03078.png",
+  "map/icons/shadows/keys/great_runes/03079.png",
+  "map/icons/shadows/keys/great_runes/03080.png",
+  "map/icons/shadows/keys/great_runes/03081.png",
+  "map/icons/shadows/keys/great_runes/03082.png",
+  "map/icons/shadows/keys/great_runes/03083.png",
+  "map/icons/shadows/keys/great_runes/03117.png",
+  "map/icons/shadows/keys/great_runes/03118.png",
+  "map/icons/shadows/keys/great_runes/03200.png",
+  "map/icons/shadows/keys/great_runes/03201.png",
+  "map/icons/shadows/keys/great_runes/03202.png",
+  "map/icons/shadows/keys/great_runes/03203.png",
+  "map/icons/shadows/keys/great_runes/03204.png",
+  "map/icons/shadows/keys/great_runes/03205.png",
+  "map/icons/shadows/keys/great_runes/03206.png",
+  "map/icons/shadows/mausoleum.png",
+  "map/icons/shadows/spirit_ashes/00456.png",
+  "map/icons/shadows/tools/00092.png",
+  "map/icons/shadows/tools/00093.png",
+  "map/icons/shadows/tools/00625.png",
+  "map/icons/shadows/tools/03068.png",
+  "map/icons/shadows/tools/flasks/00024.png",
+  "map/icons/shadows/tools/remembrances/00163.png",
+  "map/icons/shadows/tools/remembrances/00164.png",
+  "map/icons/shadows/tools/remembrances/00165.png",
+  "map/icons/shadows/tools/remembrances/00166.png",
+  "map/icons/shadows/tools/remembrances/00167.png",
+  "map/icons/shadows/tools/remembrances/00168.png",
+  "map/icons/shadows/tools/remembrances/00172.png",
+  "map/icons/shadows/tools/remembrances/00173.png",
+  "map/icons/shadows/tools/remembrances/00174.png",
+  "map/icons/shadows/tools/remembrances/00175.png",
+  "map/icons/shadows/tools/remembrances/00177.png",
+  "map/icons/shadows/weapons/lightbows/11003.png"
 ]

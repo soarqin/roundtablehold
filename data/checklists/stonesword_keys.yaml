@@ -1,12 +1,12 @@
 title: 石剑钥匙&小恶魔封印
 id: stonesword
-icon: /img/icons/keys/00228.png
+icon: img/icons/keys/00228.png
 description: '石剑钥匙是一种消耗性的关键道具，能够打开小恶魔像的封印，通常封印着战利品、地下城或可选路径。在游戏中最多可以找到81把石剑钥匙，如果选择作为遗物再多2把。然而，打开所有小恶魔像的封印只需要46个。每个小恶魔像都需要1到2把钥匙，唯一的区别就是通过外形确认:
   大多数小恶魔像上已经插有一把钥匙了，这意味着你只需要消耗一把。'
 sections:
 - title: 石剑钥匙
-  icon: /img/icons/keys/00228.png
-  map_icon: /map/icons/shadows/keys/00228.png
+  icon: img/icons/keys/00228.png
+  map_icon: map/icons/shadows/keys/00228.png
   items:
   - id: k1
     data:
@@ -606,7 +606,7 @@ sections:
     - 14474
     map_title: 石剑钥匙
 - title: 小恶魔像的封印
-  map_icon: /map/icons/shadows/imp.png
+  map_icon: map/icons/shadows/imp.png
   items:
   - 宁姆格福
   - id: s1

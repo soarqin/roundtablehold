@@ -1,6 +1,6 @@
 title: 肢体动作
 id: gestures
-icon: /img/icons/gestures/07050.png
+icon: img/icons/gestures/07050.png
 table_widths:
 - 3
 - 2
@@ -10,63 +10,63 @@ sections:
 - title: 初始肢体动作
   items:
   - id: '0_1'
-    icon: /img/icons/gestures/07006.png
-    map_icon: /map/icons/shadows/gestures/07006.png
+    icon: img/icons/gestures/07006.png
+    map_icon: map/icons/shadows/gestures/07006.png
     data:
     - <b>欢迎</b>
   - id: '0_2'
-    icon: /img/icons/gestures/07031.png
-    map_icon: /map/icons/shadows/gestures/07031.png
+    icon: img/icons/gestures/07031.png
+    map_icon: map/icons/shadows/gestures/07031.png
     data:
     - <b>沮丧</b>
   - id: '0_3'
-    icon: /img/icons/gestures/07007.png
-    map_icon: /map/icons/shadows/gestures/07007.png
+    icon: img/icons/gestures/07007.png
+    map_icon: map/icons/shadows/gestures/07007.png
     data:
     - <b>挥手</b>
   - id: '0_4'
-    icon: /img/icons/gestures/07020.png
-    map_icon: /map/icons/shadows/gestures/07020.png
+    icon: img/icons/gestures/07020.png
+    map_icon: map/icons/shadows/gestures/07020.png
     data:
     - <b>欢呼</b>
   - id: '0_5'
-    icon: /img/icons/gestures/07034.png
-    map_icon: /map/icons/shadows/gestures/07034.png
+    icon: img/icons/gestures/07034.png
+    map_icon: map/icons/shadows/gestures/07034.png
     data:
     - <b>立单膝而坐</b>
   - id: '0_6'
-    icon: /img/icons/gestures/07011.png
-    map_icon: /map/icons/shadows/gestures/07011.png
+    icon: img/icons/gestures/07011.png
+    map_icon: map/icons/shadows/gestures/07011.png
     data:
     - <b>向前指</b>
   - id: '0_7'
-    icon: /img/icons/gestures/07000.png
-    map_icon: /map/icons/shadows/gestures/07000.png
+    icon: img/icons/gestures/07000.png
+    map_icon: map/icons/shadows/gestures/07000.png
     data:
     - <b>敬礼</b>
   - id: 0_8
-    icon: /img/icons/gestures/07012.png
-    map_icon: /map/icons/shadows/gestures/07012.png
+    icon: img/icons/gestures/07012.png
+    map_icon: map/icons/shadows/gestures/07012.png
     data:
     - <b>向上指</b>
   - id: 0_9
-    icon: /img/icons/gestures/07013.png
-    map_icon: /map/icons/shadows/gestures/07013.png
+    icon: img/icons/gestures/07013.png
+    map_icon: map/icons/shadows/gestures/07013.png
     data:
     - <b>向下指</b>
   - id: '0_10'
-    icon: /img/icons/gestures/07014.png
-    map_icon: /map/icons/shadows/gestures/07014.png
+    icon: img/icons/gestures/07014.png
+    map_icon: map/icons/shadows/gestures/07014.png
     data:
     - <b>过来</b>
   - id: '0_11'
-    icon: /img/icons/gestures/07027.png
-    map_icon: /map/icons/shadows/gestures/07027.png
+    icon: img/icons/gestures/07027.png
+    map_icon: map/icons/shadows/gestures/07027.png
     data:
     - <b>开心到跳起来</b>
   - id: '0_12'
-    icon: /img/icons/gestures/07015.png
-    map_icon: /map/icons/shadows/gestures/07015.png
+    icon: img/icons/gestures/07015.png
+    map_icon: map/icons/shadows/gestures/07015.png
     data:
     - <b>等一下</b>
 - title: 宁姆格福
@@ -77,8 +77,8 @@ sections:
   - 描述
   items:
   - id: '1_1'
-    icon: /img/icons/gestures/07009.png
-    map_icon: /map/icons/shadows/gestures/07009.png
+    icon: img/icons/gestures/07009.png
+    map_icon: map/icons/shadows/gestures/07009.png
     map_icon_size: 40
     data:
     - <b>用力握拳</b>
@@ -89,16 +89,16 @@ sections:
     - 3789
     - 7363
   - id: '1_2'
-    icon: /img/icons/gestures/07050.png
-    map_icon: /map/icons/shadows/gestures/07050.png
+    icon: img/icons/gestures/07050.png
+    map_icon: map/icons/shadows/gestures/07050.png
     data:
     - <b>法环之姿</b>
     - 在任何地方
     - ''
     - 以黄色幻影形态帮助任何人打败一个Boss。他们可能需要通过做出这个动作来传递给你。需要在线游玩。(同时也是数字预购奖励)
   - id: '1_3'
-    icon: /img/icons/gestures/07017.png
-    map_icon: /map/icons/shadows/gestures/07017.png
+    icon: img/icons/gestures/07017.png
+    map_icon: map/icons/shadows/gestures/07017.png
     map_icon_size: 40
     data:
     - <b>点头称是</b>
@@ -109,8 +109,8 @@ sections:
     - 4246
     - 7274
   - id: '1_4'
-    icon: /img/icons/gestures/07019.png
-    map_icon: /map/icons/shadows/gestures/07019.png
+    icon: img/icons/gestures/07019.png
+    map_icon: map/icons/shadows/gestures/07019.png
     data:
     - <b>求饶</b>
     - <b>蒙流洞窟</b>
@@ -120,8 +120,8 @@ sections:
     - 4015
     - 6948
   - id: '1_5'
-    icon: /img/icons/gestures/07018.png
-    map_icon: /map/icons/shadows/gestures/07018.png
+    icon: img/icons/gestures/07018.png
+    map_icon: map/icons/shadows/gestures/07018.png
     map_icon_size: 30
     data:
     - <b>下跪</b>
@@ -133,8 +133,8 @@ sections:
     - 4031
     - 6945
   - id: '1_6'
-    icon: /img/icons/gestures/07016.png
-    map_icon: /map/icons/shadows/gestures/07016.png
+    icon: img/icons/gestures/07016.png
+    map_icon: map/icons/shadows/gestures/07016.png
     map_icon_size: 40
     data:
     - <b>冷静点</b>
@@ -145,8 +145,8 @@ sections:
     - 4040
     - 6960
   - id: '1_7'
-    icon: /img/icons/gestures/07030.png
-    map_icon: /map/icons/shadows/gestures/07030.png
+    icon: img/icons/gestures/07030.png
+    map_icon: map/icons/shadows/gestures/07030.png
     map_icon_size: 40
     data:
     - <b>弹指</b>
@@ -157,8 +157,8 @@ sections:
     - 3648
     - 7223
   - id: '1_8'
-    icon: /img/icons/gestures/07028.png
-    map_icon: /map/icons/shadows/gestures/07028.png
+    icon: img/icons/gestures/07028.png
+    map_icon: map/icons/shadows/gestures/07028.png
     map_icon_size: 40
     data:
     - <b>举手欢呼</b>
@@ -169,8 +169,8 @@ sections:
     - 3951
     - 6542
   - id: '1_9'
-    icon: /img/icons/gestures/07033.png
-    map_icon: /map/icons/shadows/gestures/07033.png
+    icon: img/icons/gestures/07033.png
+    map_icon: map/icons/shadows/gestures/07033.png
     data:
     - <b>盘腿坐</b>
     - <b>风暴山丘</b>
@@ -180,8 +180,8 @@ sections:
     - 3508
     - 7029
   - id: '1_10'
-    icon: /img/icons/gestures/07035.png
-    map_icon: /map/icons/shadows/gestures/07035.png
+    icon: img/icons/gestures/07035.png
+    map_icon: map/icons/shadows/gestures/07035.png
     data:
     - <b>收拢双腿而坐</b>
     - <b>风暴山丘的破屋</b>
@@ -191,8 +191,8 @@ sections:
     - 3473
     - 6777
   - id: '1_11'
-    icon: /img/icons/gestures/07036.png
-    map_icon: /map/icons/shadows/gestures/07036.png
+    icon: img/icons/gestures/07036.png
+    map_icon: map/icons/shadows/gestures/07036.png
     map_icon_size: 30
     data:
     - <b>盘腿熟睡</b>
@@ -203,8 +203,8 @@ sections:
     - 3131
     - 6686
   - id: '1_12'
-    icon: /img/icons/gestures/07026.png
-    map_icon: /map/icons/shadows/gestures/07026.png
+    icon: img/icons/gestures/07026.png
+    map_icon: map/icons/shadows/gestures/07026.png
     map_icon_size: 40
     data:
     - <b>拍手</b>
@@ -215,8 +215,8 @@ sections:
     - 3695
     - 7325
   - id: '1_13'
-    icon: /img/icons/gestures/07032.png
-    map_icon: /map/icons/shadows/gestures/07032.png
+    icon: img/icons/gestures/07032.png
+    map_icon: map/icons/shadows/gestures/07032.png
     data:
     - <b>帕奇坐姿</b>
     - <b>蒙流洞窟</b>
@@ -233,8 +233,8 @@ sections:
   - 描述
   items:
   - id: '2_1'
-    icon: /img/icons/gestures/07041.png
-    map_icon: /map/icons/shadows/gestures/07041.png
+    icon: img/icons/gestures/07041.png
+    map_icon: map/icons/shadows/gestures/07041.png
     data:
     - <b>祈祷</b>
     - ''
@@ -244,8 +244,8 @@ sections:
     - 432
     - 8475
   - id: '2_2'
-    icon: /img/icons/gestures/07040.png
-    map_icon: /map/icons/shadows/gestures/07040.png
+    icon: img/icons/gestures/07040.png
+    map_icon: map/icons/shadows/gestures/07040.png
     map_icon_size: 40
     data:
     - <b>有何贵干？</b>
@@ -256,8 +256,8 @@ sections:
     - 502
     - 8332
   - id: '2_3'
-    icon: /img/icons/gestures/07004.png
-    map_icon: /map/icons/shadows/gestures/07004.png
+    icon: img/icons/gestures/07004.png
+    map_icon: map/icons/shadows/gestures/07004.png
     data:
     - <b>恭敬敬礼</b>
     - ''
@@ -267,8 +267,8 @@ sections:
     - 582
     - 8307
   - id: '2_4'
-    icon: /img/icons/gestures/07003.png
-    map_icon: /map/icons/shadows/gestures/07003.png
+    icon: img/icons/gestures/07003.png
+    map_icon: map/icons/shadows/gestures/07003.png
     map_icon_size: 40
     data:
     - <b>屈膝礼</b>
@@ -279,8 +279,8 @@ sections:
     - 679
     - 8347
   - id: '2_5'
-    icon: /img/icons/gestures/07043.png
-    map_icon: /map/icons/shadows/gestures/07043.png
+    icon: img/icons/gestures/07043.png
+    map_icon: map/icons/shadows/gestures/07043.png
     map_icon_size: 40
     data:
     - <b>恍惚</b>
@@ -298,8 +298,8 @@ sections:
   - 描述
   items:
   - id: '3_1'
-    icon: /img/icons/gestures/07010.png
-    map_icon: /map/icons/shadows/gestures/07010.png
+    icon: img/icons/gestures/07010.png
+    map_icon: map/icons/shadows/gestures/07010.png
     map_icon_size: 40
     data:
     - <b>就照你的意思</b>
@@ -310,8 +310,8 @@ sections:
     - 2951
     - 6331
   - id: '3_2'
-    icon: /img/icons/gestures/07024.png
-    map_icon: /map/icons/shadows/gestures/07024.png
+    icon: img/icons/gestures/07024.png
+    map_icon: map/icons/shadows/gestures/07024.png
     map_icon_size: 40
     data:
     - <b>愿火焰常在我心</b>
@@ -322,8 +322,8 @@ sections:
     - 2246
     - 5961
   - id: '3_3'
-    icon: /img/icons/gestures/07037.png
-    map_icon: /map/icons/shadows/gestures/07037.png
+    icon: img/icons/gestures/07037.png
+    map_icon: map/icons/shadows/gestures/07037.png
     map_icon_size: 25
     data:
     - <b>大字躺</b>
@@ -334,8 +334,8 @@ sections:
     - 2265
     - 5548
   - id: '3_4'
-    icon: /img/icons/gestures/07046.png
-    map_icon: /map/icons/shadows/gestures/07046.png
+    icon: img/icons/gestures/07046.png
+    map_icon: map/icons/shadows/gestures/07046.png
     map_icon_size: 40
     data:
     - <b>深具睿智</b>
@@ -346,8 +346,8 @@ sections:
     - 2903
     - 6428
   - id: '3_5'
-    icon: /img/icons/gestures/07039.png
-    map_icon: /map/icons/shadows/gestures/07039.png
+    icon: img/icons/gestures/07039.png
+    map_icon: map/icons/shadows/gestures/07039.png
     map_icon_size: 25
     data:
     - <b>缩成一团</b>
@@ -358,8 +358,8 @@ sections:
     - 1861
     - 4836
   - id: '3_6'
-    icon: /img/icons/gestures/07008.png
-    map_icon: /map/icons/shadows/gestures/07008.png
+    icon: img/icons/gestures/07008.png
+    map_icon: map/icons/shadows/gestures/07008.png
     map_icon_size: 40
     data:
     - <b>打招呼</b>(方法1)
@@ -377,8 +377,8 @@ sections:
   - 描述
   items:
   - id: '4_1'
-    icon: /img/icons/gestures/07042.png
-    map_icon: /map/icons/shadows/gestures/07042.png
+    icon: img/icons/gestures/07042.png
+    map_icon: map/icons/shadows/gestures/07042.png
     data:
     - <b>专注的祈祷</b>
     - <b>格威的破屋</b>
@@ -388,8 +388,8 @@ sections:
     - 5674
     - 6751
   - id: '4_2'
-    icon: /img/icons/gestures/07021.png
-    map_icon: /map/icons/shadows/gestures/07021.png
+    icon: img/icons/gestures/07021.png
+    map_icon: map/icons/shadows/gestures/07021.png
     map_icon_size: 40
     data:
     - <b>兴奋大吼</b>
@@ -400,8 +400,8 @@ sections:
     - 6090
     - 7245
   - id: '4_3'
-    icon: /img/icons/gestures/07001.png
-    map_icon: /map/icons/shadows/gestures/07001.png
+    icon: img/icons/gestures/07001.png
+    map_icon: map/icons/shadows/gestures/07001.png
     data:
     - <b>郑重敬礼</b>
     - <b>红狮子城</b>
@@ -411,8 +411,8 @@ sections:
     - 6083
     - 7271
   - id: '4_4'
-    icon: /img/icons/gestures/07008.png
-    map_icon: /map/icons/shadows/gestures/07008.png
+    icon: img/icons/gestures/07008.png
+    map_icon: map/icons/shadows/gestures/07008.png
     map_icon_size: 40
     data:
     - <b>打招呼</b>(方法2)
@@ -430,8 +430,8 @@ sections:
   - 描述
   items:
   - id: '5_1'
-    icon: /img/icons/gestures/07002.png
-    map_icon: /map/icons/shadows/gestures/07002.png
+    icon: img/icons/gestures/07002.png
+    map_icon: map/icons/shadows/gestures/07002.png
     map_icon_size: 40
     data:
     - <b>致谢</b>
@@ -449,8 +449,8 @@ sections:
   - 描述
   items:
   - id: '6_1'
-    icon: /img/icons/gestures/07047.png
-    map_icon: /map/icons/shadows/gestures/07047.png
+    icon: img/icons/gestures/07047.png
+    map_icon: map/icons/shadows/gestures/07047.png
     map_icon_size: 40
     data:
     - <b>外在律法</b>
@@ -461,8 +461,8 @@ sections:
     - 3858
     - 3775
   - id: '6_2'
-    icon: /img/icons/gestures/07022.png
-    map_icon: /map/icons/shadows/gestures/07022.png
+    icon: img/icons/gestures/07022.png
+    map_icon: map/icons/shadows/gestures/07022.png
     map_icon_size: 40
     data:
     - <b>以剑立誓</b>
@@ -473,8 +473,8 @@ sections:
     - 4208
     - 3647
   - id: '6_3'
-    icon: /img/icons/gestures/07005.png
-    map_icon: /map/icons/shadows/gestures/07005.png
+    icon: img/icons/gestures/07005.png
+    map_icon: map/icons/shadows/gestures/07005.png
     data:
     - <b>吾王啊</b>
     - <b>王城东边城墙</b>
@@ -484,8 +484,8 @@ sections:
     - 4455
     - 3410
   - id: '6_4'
-    icon: /img/icons/gestures/07049.png
-    map_icon: /map/icons/shadows/gestures/07049.png
+    icon: img/icons/gestures/07049.png
+    map_icon: map/icons/shadows/gestures/07049.png
     map_icon_size: 40
     data:
     - <b>黄金律法全貌</b>
@@ -503,8 +503,8 @@ sections:
   - 描述
   items:
   - id: '7_1'
-    icon: /img/icons/gestures/07029.png
-    map_icon: /map/icons/shadows/gestures/07029.png
+    icon: img/icons/gestures/07029.png
+    map_icon: map/icons/shadows/gestures/07029.png
     map_icon_size: 40
     data:
     - <b>转圈</b>
@@ -515,8 +515,8 @@ sections:
     - 6023
     - 2115
   - id: '7_2'
-    icon: /img/icons/gestures/07023.png
-    map_icon: /map/icons/shadows/gestures/07023.png
+    icon: img/icons/gestures/07023.png
+    map_icon: map/icons/shadows/gestures/07023.png
     map_icon_size: 40
     data:
     - <b>霍斯劳立誓</b>
@@ -534,8 +534,8 @@ sections:
   - 描述
   items:
   - id: '8_1'
-    icon: /img/icons/gestures/07048.png
-    map_icon: /map/icons/shadows/gestures/07048.png
+    icon: img/icons/gestures/07048.png
+    map_icon: map/icons/shadows/gestures/07048.png
     map_icon_size: 40
     data:
     - <b>内在律法</b>

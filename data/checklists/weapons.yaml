@@ -13,108 +13,108 @@ sections:
   - 锻造石
   items:
   - id: '3_1'
-    icon: /img/icons/weapons/daggers/10000.png
+    icon: img/icons/weapons/daggers/10000.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Dagger"><b>匕首</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a><a
       href="https://eldenring.wiki.fextralife.com/Twin+Maiden+Husks"><b>[孪生老妪]</b></a>处购买。
     - 普通
   - id: '3_3'
-    icon: /img/icons/weapons/daggers/10002.png
+    icon: img/icons/weapons/daggers/10002.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Parrying+Dagger"><b>格挡匕首</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Murkwater+Cave"><b>[蒙流洞窟]</b></a>内的<a
       href="https://eldenring.wiki.fextralife.com/Patches"><b>[帕奇]</b></a>处(或提交他的铃珠)购买。
     - 普通
   - id: '3_4'
-    icon: /img/icons/weapons/daggers/10003.png
+    icon: img/icons/weapons/daggers/10003.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Misericorde"><b>慈悲短剑</b></a>
     - 在军械库内的一具尸体上(需要一把<a href="https://eldenring.wiki.fextralife.com/Stonesword+Key"><b>[石剑钥匙]</b></a>)。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=922&lat=-178.71875&lng=85.914581&zoom=8">[地图链接]</a>
     - 普通
   - id: '3_10'
-    icon: /img/icons/weapons/daggers/10009.png
+    icon: img/icons/weapons/daggers/10009.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Great+Knife"><b>单刃小刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Bandit">盗贼</a>初始自带。使用这种武器的<a
       href="https://eldenring.wiki.fextralife.com/Demi-Human">半人</a>2%几率掉落，例如在<a href="https://eldenring.wiki.fextralife.com/Lakeside+Crystal+Cave"><b>[湖旁结晶洞窟]</b></a>。
     - 普通
   - id: '3_14'
-    icon: /img/icons/weapons/daggers/10014.png
+    icon: img/icons/weapons/daggers/10014.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Bloodstained+Dagger"><b>染血短刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Demi-Human+Chief">半人首领</a>4%几率掉落
     - 普通
   - id: '3_15'
-    icon: /img/icons/weapons/daggers/10015.png
+    icon: img/icons/weapons/daggers/10015.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Erdsteel+Dagger"><b>黄铜短刀</b></a>
     - 为<a href="https://eldenring.wiki.fextralife.com/Kenneth+Haight"><b>[“领主的嫡长子”肯尼斯·海德]</b></a>清理<a
       href="https://eldenring.wiki.fextralife.com/Fort+Haight"><b>[海德要塞]</b></a>获得。
     - 普通
   - id: '3_11'
-    icon: /img/icons/weapons/daggers/10010.png
+    icon: img/icons/weapons/daggers/10010.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Wakizashi"><b>胁差</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Gaol+Cave"><b>[牢狱洞窟]</b></a>:
       在一个上锁的牢房中发现(通过拉杆解锁)。'
     - 普通
   - id: '3_7'
-    icon: /img/icons/weapons/daggers/10006.png
+    icon: img/icons/weapons/daggers/10006.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Celebrant's+Sickle"><b>庆典小镰刀</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Windmill+Village"><b>[风车村]</b></a>戴蓝兜帽的<a
       href="https://eldenring.wiki.fextralife.com/Celebrant">庆典者</a>0.5%几率掉落
     - 普通
   - id: '3_13'
-    icon: /img/icons/weapons/daggers/10013.png
+    icon: img/icons/weapons/daggers/10013.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ivory+Sickle"><b>象牙小镰刀</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Village+of+the+Albinaurics"><b>[白金村]</b></a><a
       href="https://eldenring.wiki.fextralife.com/Albus"><b>[艾尔帕斯]</b></a>旁边的一个石棺上.
     - 普通
   - id: '3_6'
-    icon: /img/icons/weapons/daggers/10005.png
+    icon: img/icons/weapons/daggers/10005.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Crystal+Knife"><b>结晶小刀</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Raya+Lucaria+Crystal+Tunnel"><b>[雷亚卢卡利亚结晶坑道]</b></a>:
       在下层的一个宝箱里。'
     - 普通
   - id: '3_9'
-    icon: /img/icons/weapons/daggers/10008.png
+    icon: img/icons/weapons/daggers/10008.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Scorpion's+Stinger"><b>蝎尾针</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Grand+Cloister"><b>[大回廊]</b></a>点燃火盆的末端宝箱里，有许多<a
       href="https://eldenring.wiki.fextralife.com/Lesser+Kindred+of+Rot+(Pests)">小<b>[腐败眷属]</b></a>守卫着。
     - 失色
   - id: '3_12'
-    icon: /img/icons/weapons/daggers/10011.png
+    icon: img/icons/weapons/daggers/10011.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Cinquedea"><b>五指剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Bestial+Sanctum"><b>[野兽神殿]</b>靠近西南角的一长串落差地形的底部</a>。从西南边的悬崖出发，找一棵生长在悬崖边的粗树根往下掉。
     - 失色
   - id: '3_8'
-    icon: /img/icons/weapons/daggers/10007.png
+    icon: img/icons/weapons/daggers/10007.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Glintstone+Kris"><b>辉石克力士</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Sorceress+Sellen"><b>[魔法师瑟濂]</b></a>任务线的最后帮助她。
     - 失色
   - id: '3_5'
-    icon: /img/icons/weapons/daggers/10004.png
+    icon: img/icons/weapons/daggers/10004.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Reduvia"><b>逆刺</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Murkwater+Cave"><b>[蒙流洞窟]</b></a>外的入侵NPC<a
       href="https://eldenring.wiki.fextralife.com/Bloody+Finger+Nerijus"><b>[“血指”涅利乌斯]</b></a>掉落。
     - 失色
   - id: '3_16'
-    icon: /img/icons/weapons/daggers/10016.png
+    icon: img/icons/weapons/daggers/10016.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Blade+of+Calling"><b>使命短刀</b></a>
     - 乘<a href="https://eldenring.wiki.fextralife.com/Forbidden+Lands"><b>赐福[禁域]</b></a>后面的电梯，面向西南找到一间嵌在墙里的房间。
     - 失色
   - id: '3_2'
-    icon: /img/icons/weapons/daggers/10001.png
+    icon: img/icons/weapons/daggers/10001.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Black+Knife"><b>黑刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Sainted+Hero's+Grave"><b>[尊贵者的英雄墓地]</b></a>入口处的<a
@@ -128,7 +128,7 @@ sections:
   - 锻造石
   items:
   - id: '13_1'
-    icon: /img/icons/weapons/straightswords/10041.png
+    icon: img/icons/weapons/straightswords/10041.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Short+Sword"><b>短剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Astrologer">观星者</a>起始装备。在<a href="https://eldenring.wiki.fextralife.com/Limgrave"><b>[宁姆格福]</b></a>北穿过<a
@@ -137,14 +137,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=959&lat=-176.367187&lng=111.488702&zoom=8">[地图链接]</a>
     - 普通
   - id: '13_2'
-    icon: /img/icons/weapons/straightswords/10040.png
+    icon: img/icons/weapons/straightswords/10040.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Longsword"><b>长剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Vagabond">流浪骑士</a>起始装备。在<a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a>的<a
       href="https://eldenring.wiki.fextralife.com/Twin+Maiden+Husks"><b>[孪生老妪]</b></a>处购买
     - 普通
   - id: '13_3'
-    icon: /img/icons/weapons/straightswords/10042.png
+    icon: img/icons/weapons/straightswords/10042.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Broadsword"><b>阔剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Confessor">密使</a>初始装备。<a href="https://eldenring.wiki.fextralife.com/Coastal+Cave"><b>[海岸洞窟]</b></a>东南的<a
@@ -152,13 +152,13 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=6&lat=-196.5&lng=97.660389&zoom=8">[地图链接]</a>
     - 普通
   - id: '13_4'
-    icon: /img/icons/weapons/straightswords/10045.png
+    icon: img/icons/weapons/straightswords/10045.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Weathered+Straight+Sword"><b>老旧直剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Commoner">居民</a>类敌人2%几率掉落。
     - 普通
   - id: '13_5'
-    icon: /img/icons/weapons/straightswords/10044.png
+    icon: img/icons/weapons/straightswords/10044.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Lordsworn's+Straight+Sword"><b>君王军直剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Limgrave"><b>[宁姆格福]</b></a>的<a
@@ -166,7 +166,7 @@ sections:
       <a href="https://eldenring.wiki.fextralife.com/Gatefront+Ruins"><b>[关卡前废墟]</b></a>是刷的好去处。
     - 普通
   - id: '13_6'
-    icon: /img/icons/weapons/straightswords/10062.png
+    icon: img/icons/weapons/straightswords/10062.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Noble's+Slender+Sword"><b>权贵细身剑</b></a>
     - 用这种武器的<a href="https://eldenring.wiki.fextralife.com/Wandering+Nobles">流浪贵族</a>0.5%几率掉落。常见区域如<a
@@ -175,14 +175,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2262&lat=-138.78125&lng=58.627136&zoom=8&code=mapA"><b>[讨论室]</b></a>恩典。
     - 普通
   - id: '13_7'
-    icon: /img/icons/weapons/straightswords/10060.png
+    icon: img/icons/weapons/straightswords/10060.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Cane+Sword"><b>手杖剑</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Leyndell+Royal+Capital"><b>[王城罗德尔]</b></a>:
       从<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3933&lat=-104.70&lng=114.98&zoom=8&code=mapA"><b>赐福[王城西边城墙]</b></a>然后往南走，走下你看到的第一个台阶。在楼梯底部，立即右转180°，发现一具带剑的尸体。'
     - 普通
   - id: '13_8'
-    icon: /img/icons/weapons/straightswords/10063.png
+    icon: img/icons/weapons/straightswords/10063.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Warhawk's+Talon"><b>战鹰爪形剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Stormveil+Castle"><b>[史东薇尔城]</b></a>中的<a
@@ -190,7 +190,7 @@ sections:
       方便的地点如<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=912&lat=-179.859375&lng=85.11789&zoom=8&code=mapA"><b>赐福[城墙塔]</b></a>北边。
     - 普通
   - id: '13_9'
-    icon: /img/icons/weapons/straightswords/10064.png
+    icon: img/icons/weapons/straightswords/10064.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Lazuli+Glintstone+Sword"><b>拉兹利辉石剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Raya+Lucaria+Academy"><b>[魔法学院雷亚卢卡利亚]</b></a>和<a
@@ -198,20 +198,20 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Lazuli+Sorcerer">拉兹利法师</a>2%几率掉落。
     - 普通
   - id: '13_10'
-    icon: /img/icons/weapons/straightswords/10057.png
+    icon: img/icons/weapons/straightswords/10057.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Carian+Knight's+Sword"><b>卡利亚骑士剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes"><b>[湖之利耶尼亚]</b></a>西北部地区马车后面的一个箱子里。*注意*击倒一个拖着马车的巨人可以使马车停止移动。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+map?id=2059&lat=-123.492187&lng=48.433786&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '13_11'
-    icon: /img/icons/weapons/straightswords/10054.png
+    icon: img/icons/weapons/straightswords/10054.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Crystal+Sword"><b>结晶剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Village+of+the+Albinaurics"><b>[白金村]</b></a>，从赐福出发向北穿过桥在悬崖边的一具尸体上。
     - 失色
   - id: '13_12'
-    icon: /img/icons/weapons/straightswords/10065.png
+    icon: img/icons/weapons/straightswords/10065.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rotten+Crystal+Sword"><b>腐败结晶剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Elphael+Brace+of+the+Haligtree"><b>[“圣树分枝”艾布雷菲尔]</b></a>:从<a
@@ -219,7 +219,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Crystalians"><b>[结晶人]</b></a>看守的宝箱里。
     - 失色
   - id: '13_13'
-    icon: /img/icons/weapons/straightswords/10059.png
+    icon: img/icons/weapons/straightswords/10059.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Miquellan+Knight's+Sword"><b>米凯拉骑士剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Elphael+Brace+of+the+Haligtree"><b>[“圣树分枝”艾布雷菲尔]</b></a>字体在钟楼的顶端<a
@@ -227,7 +227,7 @@ sections:
       从<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4456&lat=-39.76&lng=148.97&zoom=8&code=mapA"><b>[祈祷室]</b></a>沿路向北走，直到你到达一个石盆，右边有一条小路。在小路的尽头向下走到钟楼的边缘，然后小心翼翼地绕到钟楼的东侧，在那里你会发现一个梯子。在梯子的顶端是剑。
     - 失色
   - id: '13_14'
-    icon: /img/icons/weapons/straightswords/10046.png
+    icon: img/icons/weapons/straightswords/10046.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ornamental+Straight+Sword"><b>仪式直剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Chapel+of+Anticipation"><b>[候王礼拜堂]</b></a>的<a
@@ -237,7 +237,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+map?id=1356&lat=-127.709375&lng=48.335292&zoom=8&code=mapA">[地图链接]</a>。
     - 失色
   - id: '13_15'
-    icon: /img/icons/weapons/straightswords/10047.png
+    icon: img/icons/weapons/straightswords/10047.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Golden+Epitaph"><b>黄金墓碑</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Capital+Outskirts"><b>[王城外围]</b></a>东部的<a
@@ -245,7 +245,7 @@ sections:
       从赐福附近的小恶魔像雾墙后面发现的尸体上获取。(需要一个<a href="https://eldenring.wiki.fextralife.com/Stonesword+Key"><b>[石剑钥匙]</b></a>进入)'
     - 失色
   - id: '13_16'
-    icon: /img/icons/weapons/straightswords/10058.png
+    icon: img/icons/weapons/straightswords/10058.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Sword+of+St+Trina"><b>托莉娜剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Forsaken+Ruins"><b>[荒废废墟]</b></a>一个封印的楼梯上，就在<a
@@ -253,14 +253,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Stonesword+Key"><b>[石剑钥匙]</b></a>进入)
     - 失色
   - id: '13_17'
-    icon: /img/icons/weapons/straightswords/10061.png
+    icon: img/icons/weapons/straightswords/10061.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Regalia+of+Eochaid"><b>欧赫宝剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Gaol+Cave"><b>[牢狱洞窟]</b></a>通过后的悬崖边上。也可以通过从上方悬崖上往下跳的方式跳过洞穴道路。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4204&lat=-181.0&lng=127.78&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '13_18'
-    icon: /img/icons/weapons/straightswords/10051.png
+    icon: img/icons/weapons/straightswords/10051.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Coded+Sword"><b>秘文剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Leyndell+Royal+Capital"><b>[王城罗德尔]</b></a>:从<a
@@ -268,7 +268,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3678&lat=-105.398437&lng=111.245808&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '13_19'
-    icon: /img/icons/weapons/straightswords/10053.png
+    icon: img/icons/weapons/straightswords/10053.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Sword+of+Night+and+Flame"><b>夜与火之剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Caria+Manor"><b>[卡利亚城寨]</b></a>:从<a
@@ -283,7 +283,7 @@ sections:
   - 锻造石
   items:
   - id: '14_1'
-    icon: /img/icons/weapons/greatswords/10080.png
+    icon: img/icons/weapons/greatswords/10080.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Bastard+Sword"><b>混种大剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Weeping+Peninsula"><b>[啜泣半岛]</b></a>东边<a
@@ -292,14 +292,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=475&lat=-215.457813&lng=115.302844&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '14_2'
-    icon: /img/icons/weapons/greatswords/10098.png
+    icon: img/icons/weapons/greatswords/10098.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Claymore"><b>大剑</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Castle+Morne"><b>[摩恩城]</b></a>:
       从主庭院靠右边的墙跑过燃烧的尸体和鸟人。往北走，你会看到一座建筑的入口;当你进入时，你可以在你左边的一个宝箱里找到剑。'
     - 普通
   - id: '14_3'
-    icon: /img/icons/weapons/greatswords/10082.png
+    icon: img/icons/weapons/greatswords/10082.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Iron+Greatsword"><b>铁制大剑</b></a>
     - 红色<a href="https://eldenring.wiki.fextralife.com/Misbegotten">混种</a>4%几率掉落。
@@ -307,7 +307,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4453&lat=-43.8&lng=148.3&zoom=8&code=mapA"><b>[圣树镇]</b></a>的北边(走到边缘他会跳下来)。
     - 普通
   - id: '14_4'
-    icon: /img/icons/weapons/greatswords/10083.png
+    icon: img/icons/weapons/greatswords/10083.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Lordsworn's+Greatsword"><b>君王军大剑</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Gatefront+Ruins"><b>[关卡前废墟]</b></a>:
@@ -315,7 +315,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=405&lat=-185.328125&lng=102.667537&zoom=8&code=mapA">[地图链接]</a>'
     - 普通
   - id: '14_5'
-    icon: /img/icons/weapons/greatswords/10084.png
+    icon: img/icons/weapons/greatswords/10084.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Knight's+Greatsword"><b>骑士大剑</b></a>
     - '大多数骑士类敌人4%几率掉落，具体来说是: <a href="https://eldenring.wiki.fextralife.com/Godrick+Knight">葛瑞克骑士</a>，<a
@@ -323,7 +323,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Leyndell+Knight">罗德尔骑士</a>,<a href="https://eldenring.wiki.fextralife.com/Haligtree+Knight">圣树骑士</a>.'
     - 普通
   - id: '14_6'
-    icon: /img/icons/weapons/greatswords/10088.png
+    icon: img/icons/weapons/greatswords/10088.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight's+Greatsword"><b>失乡骑士大剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Stormveil+Castle"><b>[史东薇尔城]</b></a>或者<a
@@ -331,7 +331,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Banished+Knight">失乡骑士</a>4%几率掉落。
     - 普通
   - id: '14_7'
-    icon: /img/icons/weapons/greatswords/10081.png
+    icon: img/icons/weapons/greatswords/10081.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Forked+Greatsword"><b>分岔大剑</b></a>
     - 挥舞这把武器的<a href="https://eldenring.wiki.fextralife.com/Imp">小恶魔</a>2%几率掉落。有几个在<a
@@ -339,7 +339,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Road's+End+Catacombs"><b>[绝路地下墓地]</b></a>里。
     - 普通
   - id: '14_8'
-    icon: /img/icons/weapons/greatswords/10085.png
+    icon: img/icons/weapons/greatswords/10085.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Flamberge"><b>焰形大剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Redmane+Castle"><b>[红狮子城]</b></a>在最东南方的堡垒上。从被<a
@@ -348,7 +348,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/interactive+map?id=1528&lat=-108.082812&lng=58.335612&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '14_9'
-    icon: /img/icons/weapons/greatswords/10099.png
+    icon: img/icons/weapons/greatswords/10099.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Gargoyle's+Greatsword"><b>石像鬼大剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Siofra+Aqueduct"><b>[希芙拉导水桥]</b></a>最后的Boss双<a
@@ -356,7 +356,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=6410&lat=-170.05312&lng=133.30119&zoom=8&code=mapB">[地图链接]</a>
     - 普通
   - id: '14_10'
-    icon: /img/icons/weapons/greatswords/10101.png
+    icon: img/icons/weapons/greatswords/10101.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Gargoyle's+Blackblade"><b>石像鬼黑剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Black+Blade+Kindred"><b>[黑剑眷属]</b></a>掉落。他在<a
@@ -364,7 +364,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2325&lat=-150.29&lng=157.367&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '14_11'
-    icon: /img/icons/weapons/greatswords/10049.png
+    icon: img/icons/weapons/greatswords/10049.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Inseparable+Sword"><b>紧密孪生剑</b></a>
     - 需要给<a href="https://eldenring.wiki.fextralife.com/D's+Twin+Brother"><b>[“狩猎死亡”Ｄ]</b>的孪生兄弟</a><a
@@ -373,7 +373,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Deeproot+Depths"><b>[深根底层]</b></a>内）。
     - 失色
   - id: '14_12'
-    icon: /img/icons/weapons/greatswords/10096.png
+    icon: img/icons/weapons/greatswords/10096.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Sword+of+Milos"><b>灭洛斯剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Dung+Eater"><b>[食粪者]</b></a>的剑;
@@ -383,21 +383,21 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+map?id=4606&lat=-93.921875&lng=116.071348&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '14_13'
-    icon: /img/icons/weapons/greatswords/10095.png
+    icon: img/icons/weapons/greatswords/10095.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Marais+Executioner's+Sword"><b>玛雷家行刑剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/The+Shaded+Castle"><b>[日荫城]</b></a>最后的<a
       href="https://eldenring.wiki.fextralife.com/Elemer+of+the+Briar"><b>[“铁棘”艾隆梅尔]</b></a>掉落。
     - 失色
   - id: '14_14'
-    icon: /img/icons/weapons/greatswords/10086.png
+    icon: img/icons/weapons/greatswords/10086.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ordovis's+Greatsword"><b>奥陶琵斯大剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Auriza+Hero's+Grave"><b>[亚雷萨英雄墓地]</b></a>最后击败<a
       href="https://eldenring.wiki.fextralife.com/Crucible+Knight+Ordovis"><b>[“熔炉骑士”奥陶琵斯]</b></a>。
     - 失色
   - id: '14_15'
-    icon: /img/icons/weapons/greatswords/10087.png
+    icon: img/icons/weapons/greatswords/10087.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Alabaster+Lord's+Sword"><b>白王剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Lake+of+Rot"><b>[腐败湖]</b></a>的<a
@@ -405,7 +405,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2555&lat=-135.56&lng=59.18&zoom=8&code=mapB">[地图链接]</a>
     - 失色
   - id: '14_16'
-    icon: /img/icons/weapons/greatswords/10100.png
+    icon: img/icons/weapons/greatswords/10100.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Death's+Poker"><b>死亡钩棒</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Caelid"><b>[盖利德]</b></a><a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4514&lat=-185.992187&lng=144.65932&zoom=8&code=mapA"><b>赐福[艾奥尼亚沼泽（南岸）]</b></a>东南方的<a
@@ -413,21 +413,21 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4514&lat=-185.992187&lng=144.65932&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '14_17'
-    icon: /img/icons/weapons/greatswords/10093.png
+    icon: img/icons/weapons/greatswords/10093.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Helphen's+Steeple"><b>赫芬尖塔剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3756&lat=-62.1&lng=156.143472&zoom=8&code=mapA"><b>赐福[索尔城（正门）]</b></a>南边的悬崖(看起来像匕首尖)上的<a
       href="https://eldenring.wiki.fextralife.com/Tibia+Mariner"><b>[提比亚的唤声船]</b></a>掉落。
     - 失色
   - id: '14_18'
-    icon: /img/icons/weapons/greatswords/10094.png
+    icon: img/icons/weapons/greatswords/10094.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Blasphemous+Blade"><b>亵渎圣剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a><a
       href="https://eldenring.wiki.fextralife.com/Enia"><b>[“解指”恩雅]</b></a>处用<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Blasphemous"><b>[亵渎君王的追忆]</b></a>交换。
     - 失色
   - id: '14_19'
-    icon: /img/icons/weapons/greatswords/10097.png
+    icon: img/icons/weapons/greatswords/10097.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Golden+Order+Greatsword"><b>黄金律法大剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Consecrated+Snowfield"><b>[化圣雪原]</b></a><a
@@ -435,14 +435,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Misbegotten+Crusader"><b>[混种圣骑士]</b></a>掉落。
     - 失色
   - id: '14_20'
-    icon: /img/icons/weapons/greatswords/10089.png
+    icon: img/icons/weapons/greatswords/10089.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Dark+Moon+Greatsword"><b>暗月大剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Ranni+the+Witch"><b>[魔女菈妮]</b></a>任务线的最后<a
       href="https://eldenring.wiki.fextralife.com/Cathedral+of+Manus+Celes"><b>[玛努斯·瑟利斯大教堂]</b></a>下面获得。
     - 失色
   - id: '14_21'
-    icon: /img/icons/weapons/greatswords/10090.png
+    icon: img/icons/weapons/greatswords/10090.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Sacred+Relic+Sword"><b>神躯化剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a><a
@@ -456,7 +456,7 @@ sections:
   - 锻造石
   items:
   - id: '5_5'
-    icon: /img/icons/weapons/colossalswords/10124.png
+    icon: img/icons/weapons/colossalswords/10124.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Zweihander"><b>双手巨剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Weeping+Peninsula"><b>[啜泣半岛]</b></a>西边<a
@@ -464,7 +464,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Isolated+Merchant+Weeping+Peninsula"><b>[隐居商人]</b></a>处购买。
     - 普通
   - id: '5_1'
-    icon: /img/icons/weapons/colossalswords/10120.png
+    icon: img/icons/weapons/colossalswords/10120.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Greatsword"><b>巨剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Caelid"><b>[盖利德]</b></a>西北角一辆静止的马车后面的宝箱里。
@@ -472,7 +472,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4665&lat=-168.17&lng=132.69&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '5_2'
-    icon: /img/icons/weapons/colossalswords/10121.png
+    icon: img/icons/weapons/colossalswords/10121.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Watchdog's+Greatsword"><b>看门犬大剑</b></a>
     - 从挥舞这把剑的非Boss<a href="https://eldenring.wiki.fextralife.com/Lesser+Burial+Watchdog">小看门犬</a>身上8%几率掉落。他们出现在<a
@@ -480,7 +480,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Giant-Conquering+Hero's+Grave"><b>[巨人战争的英雄墓地]</b></a>。
     - 普通
   - id: '5_4'
-    icon: /img/icons/weapons/colossalswords/10123.png
+    icon: img/icons/weapons/colossalswords/10123.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Troll's+Golden+Sword"><b>山妖黄金剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Altus+Plateau"><b>[亚坛高原]</b></a><a
@@ -488,14 +488,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5825&lat=-99.79759&lng=77.91051&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '5_11'
-    icon: /img/icons/weapons/colossalswords/10132.png
+    icon: img/icons/weapons/colossalswords/10132.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Troll+Knight's+Sword"><b>山妖骑士剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Caria+Manor"><b>[卡利亚城寨]</b></a>的<a
       href="https://eldenring.wiki.fextralife.com/Troll+Knight">山妖骑士</a>掉落。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2908&lat=-106.15&lng=58.5&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '5_7'
-    icon: /img/icons/weapons/colossalswords/10126.png
+    icon: img/icons/weapons/colossalswords/10126.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Royal+Greatsword"><b>王室巨剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Ranni+the+Witch"><b>[魔女菈妮]</b></a>任务线临近结束时获得。<a
@@ -503,7 +503,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Ranni's+Rise"><b>[菈妮魔法师塔]</b></a>前出现，你需要战胜他。
     - 失色
   - id: '5_10'
-    icon: /img/icons/weapons/colossalswords/10130.png
+    icon: img/icons/weapons/colossalswords/10130.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Grafted+Blade+Greatsword"><b>剑骸大剑</b></a>
     - 传说中的武器。<a href="https://eldenring.wiki.fextralife.com/Weeping+Peninsula"><b>[啜泣半岛]</b></a>最南端<a
@@ -512,7 +512,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=747&lat=-231.054687&lng=106.035335&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '5_9'
-    icon: /img/icons/weapons/colossalswords/10128.png
+    icon: img/icons/weapons/colossalswords/10128.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ruins+Greatsword"><b>遗迹大剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Redmane+Castle"><b>[红狮子城]</b></a>广场的双Boss<a
@@ -522,21 +522,21 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Starscourge+Radahn"><b>[“碎星”拉塔恩]</b></a>.
     - 失色
   - id: '5_6'
-    icon: /img/icons/weapons/colossalswords/10125.png
+    icon: img/icons/weapons/colossalswords/10125.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Starscourge+Greatsword"><b>碎星大剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a><a
       href="https://eldenring.wiki.fextralife.com/Enia"><b>[“解指”恩雅]</b></a>处交易<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Starscourge"><b>[碎星的追忆]</b></a>。
     - 失色
   - id: '5_8'
-    icon: /img/icons/weapons/colossalswords/10127.png
+    icon: img/icons/weapons/colossalswords/10127.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Godslayer's+Greatsword"><b>狩猎神祇大剑</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Divine+Tower+of+Caelid"><b>[盖利德神授塔]</b>的</a>地下室:
       经过一系列的下落，在<a href="https://eldenring.wiki.fextralife.com/Godskin+Apostle"><b>[神皮使徒]</b></a>Boss战后的宝箱里。'
     - 失色
   - id: '5_3'
-    icon: /img/icons/weapons/colossalswords/10122.png
+    icon: img/icons/weapons/colossalswords/10122.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Maliketh's+Black+Blade"><b>玛利喀斯的黑剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a><a
@@ -550,14 +550,14 @@ sections:
   - 锻造石
   items:
   - id: '15_1'
-    icon: /img/icons/weapons/thrustingswords/10162.png
+    icon: img/icons/weapons/thrustingswords/10162.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rapier"><b>细剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a>的<a
       href="https://eldenring.wiki.fextralife.com/Twin+Maiden+Husks"><b>[孪生老妪]</b></a>处购买
     - 普通
   - id: '15_2'
-    icon: /img/icons/weapons/thrustingswords/10160.png
+    icon: img/icons/weapons/thrustingswords/10160.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Estoc"><b>刺剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Prisoner">囚犯</a>初始装备。<a href="https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes"><b>[湖之利耶尼亚]</b></a>南的<a
@@ -565,7 +565,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1367&lat=-166.823437&lng=77.24144&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '15_3'
-    icon: /img/icons/weapons/thrustingswords/10166.png
+    icon: img/icons/weapons/thrustingswords/10166.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Noble's+Estoc"><b>权贵刺剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Limgrave"><b>[宁姆格福]</b></a>、<a
@@ -575,7 +575,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Church+of+Vows"><b>[结缘教堂]</b></a>的东北和东面。
     - 普通
   - id: '15_4'
-    icon: /img/icons/weapons/thrustingswords/10161.png
+    icon: img/icons/weapons/thrustingswords/10161.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Cleanrot+Knight's+Sword"><b>尊腐骑士剑</b></a>
     - 非Boss的<a href="https://eldenring.wiki.fextralife.com/Cleanrot+Knight">尊腐骑士</a>4%几率掉落。
@@ -585,7 +585,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Caelid"><b>[盖利德]</b></a><a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4530&lat=-178.97214&lng=143.05512&zoom=8&code=mapA"><b>赐福[艾奥尼亚沼泽（深处）]</b></a>南部有6个尊腐骑士(一些在沼泽里)。
     - 普通
   - id: '15_5'
-    icon: /img/icons/weapons/thrustingswords/10163.png
+    icon: img/icons/weapons/thrustingswords/10163.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rogier's+Rapier"><b>罗杰尔刺剑</b>+8</a>
     - 击败<a href="https://eldenring.wiki.fextralife.com/Godrick+the+Grafted"><b>[“接肢”葛瑞克]</b></a>后在<a
@@ -593,7 +593,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Sorcerer+Rogier"><b>[魔法师罗杰尔]</b></a>交谈获得。
     - 普通
   - id: '15_6'
-    icon: /img/icons/weapons/thrustingswords/10164.png
+    icon: img/icons/weapons/thrustingswords/10164.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Antspur+Rapier"><b>蚁刺细剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/The+Shaded+Castle"><b>[日荫城]</b></a>西边的敌对NPC<a
@@ -601,7 +601,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+map?id=2204&lat=-80.335937&lng=76.291674&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '15_7'
-    icon: /img/icons/weapons/thrustingswords/10165.png
+    icon: img/icons/weapons/thrustingswords/10165.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Frozen+Needle"><b>结冰针</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes"><b>[湖之利耶尼亚]</b></a>西北部的<a
@@ -616,14 +616,14 @@ sections:
   - 锻造石
   items:
   - id: '16_1'
-    icon: /img/icons/weapons/heavythrustingswords/10202.png
+    icon: img/icons/weapons/heavythrustingswords/10202.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Great+Epee"><b>大重剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=530&lat=-199.75&lng=113.111805&zoom=8&code=mapA"><b>赐福[亚基尔湖南方]</b></a>附近营地的一个宝箱里。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=551&lat=-198.859375&lng=115.367289&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '16_2'
-    icon: /img/icons/weapons/heavythrustingswords/10201.png
+    icon: img/icons/weapons/heavythrustingswords/10201.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Godskin+Stitcher"><b>神皮缝针</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Volcano+Manor"><b>[火山官邸]</b></a>的Boss<a
@@ -631,7 +631,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4140&lat=-90.53125&lng=64.754706&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '16_3'
-    icon: /img/icons/weapons/heavythrustingswords/10200.png
+    icon: img/icons/weapons/heavythrustingswords/10200.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Bloody+Helice"><b>鲜血旋流</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Altus+Plateau"><b>[亚坛高原]</b></a>北部<a
@@ -640,7 +640,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5821&lat=-86.903125&lng=86.574366&zoom=8&code=mapA">[地图链接]</a>'
     - 失色
   - id: '16_4'
-    icon: /img/icons/weapons/heavythrustingswords/10204.png
+    icon: img/icons/weapons/heavythrustingswords/10204.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Dragon+King's+Cragblade"><b>龙王岩剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a><a
@@ -654,14 +654,14 @@ sections:
   - 锻造石
   items:
   - id: '9_13'
-    icon: /img/icons/weapons/curvedswords/10254.png
+    icon: img/icons/weapons/curvedswords/10254.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Scimitar"><b>短弯刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Warrior">剑士</a>职业初始自带。从<a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a><a
       href="https://eldenring.wiki.fextralife.com/Twin+Maiden+Husks"><b>[孪生老妪]</b></a>处以600卢恩购买。可以被在各种地牢中由挥舞这把武器的骷髅兵掉落。
     - 普通
   - id: '9_1'
-    icon: /img/icons/weapons/curvedswords/10240.png
+    icon: img/icons/weapons/curvedswords/10240.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Falchion"><b>弯刃大刀</b></a>
     - 挥舞镰刀<a href="https://eldenring.wiki.fextralife.com/Demi-Human">亚人</a>可能掉落。 一个方便刷的地点是在<a
@@ -669,21 +669,21 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3301&lat=-181.78125&lng=117.024243&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '9_4'
-    icon: /img/icons/weapons/curvedswords/10243.png
+    icon: img/icons/weapons/curvedswords/10243.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Shamshir"><b>赛施尔长刀</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Highroad+Cave"><b>[大道下的洞窟]</b></a>底部瀑布之后的一个平台被巨蝠啃食的尸体上。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2921&lat=-172.468&lng=107.58&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '9_14'
-    icon: /img/icons/weapons/curvedswords/10255.png
+    icon: img/icons/weapons/curvedswords/10255.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Grossmesser"><b>巨型刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Tombsward+Catacombs"><b>[灵庙原野地下墓地]</b></a>挥舞着这个武器的<a
       href="https://eldenring.wiki.fextralife.com/Skeletal+Militiaman">骷髅兵</a>2%几率掉落。
     - 普通
   - id: '9_5'
-    icon: /img/icons/weapons/curvedswords/10244.png
+    icon: img/icons/weapons/curvedswords/10244.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Bandit's+Curved+Sword"><b>山贼弯刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Skeletal+Bandit">骷髅强盗</a>2%几率掉落，例如<a
@@ -691,7 +691,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Hermit+Merchant's+Shack"><b>[遁世商人的破屋]</b></a>附近那些。
     - 普通
   - id: '9_3'
-    icon: /img/icons/weapons/curvedswords/10242.png
+    icon: img/icons/weapons/curvedswords/10242.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Shotel"><b>钩剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Siofra+River"><b>[希芙拉河]</b></a>的<a
@@ -699,14 +699,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1319&lat=-178.648437&lng=134.895772&zoom=8&code=mapB">[地图链接]</a>
     - 普通
   - id: '9_9'
-    icon: /img/icons/weapons/curvedswords/10248.png
+    icon: img/icons/weapons/curvedswords/10248.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Scavenger's+Curved+Sword"><b>剥尸曲剑</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Mt.+Gelmir"><b>[格密尔火山]</b></a>:
       在<b>赐福[格密尔火山（第１休息站）]</b>西北的一座石柱桥上<b>[“接肢”贵族后裔]</b>附近离梯子最近的尸体上。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5903&lat=-80.65625&lng=71.536174&zoom=8&code=mapA">[地图链接]</a>'
     - 普通
   - id: '9_12'
-    icon: /img/icons/weapons/curvedswords/10252.png
+    icon: img/icons/weapons/curvedswords/10252.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Mantis+Blade"><b>螳臂刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Gelmir+Hero's+Grave"><b>[格密尔英雄墓地]</b></a>的<a
@@ -714,14 +714,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5832&lat=-87.640625&lng=71.262238&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '9_2'
-    icon: /img/icons/weapons/curvedswords/10241.png
+    icon: img/icons/weapons/curvedswords/10241.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Beastman's+Curved+Sword"><b>兽人弯刀</b></a>
     - 带着这种武器的<a href="https://eldenring.wiki.fextralife.com/Azula+Beastman">亚兹拉的兽人</a>2%几率掉落。在<a
       href="https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula"><b>[逐渐崩毁的法姆·亚兹拉]</b></a><b>赐福[渐毁野兽墓]</b>附近可以找到7个携带此武器的兽人。从赐福离开房间后右转，兽人在前面两个房间。4个野兽人正在吃东西，除非玩家攻击或走到他们面前，否则他们不会主动攻击。
     - 普通
   - id: '9_7'
-    icon: /img/icons/weapons/curvedswords/10246.png
+    icon: img/icons/weapons/curvedswords/10246.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Flowing+Curved+Sword"><b>流水曲剑</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Consecrated+Snowfield"><b>[化圣雪原]</b></a>:
@@ -729,21 +729,21 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4409&lat=-75.88&lng=140.11&zoom=8&code=mapA">[地图链接]</a>'
     - 普通
   - id: '9_11'
-    icon: /img/icons/weapons/curvedswords/10251.png
+    icon: img/icons/weapons/curvedswords/10251.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Serpent-God's+Curved+Sword"><b>蛇神弯刀</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Ruin-Strewn+Precipice"><b>[古遗迹断崖]</b></a>，从<b>赐福[古遗迹断崖（对岸）]</b>出发坐电梯下到两只蝙蝠后面。往北走，你会看到梯子，剑就在<a
       href="https://eldenring.wiki.fextralife.com/Land+Octopus">章鱼</a>后面。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5836&lat=-102.111&lng=73.39336&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '9_6'
-    icon: /img/icons/weapons/curvedswords/10245.png
+    icon: img/icons/weapons/curvedswords/10245.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Magma+Blade"><b>熔岩刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Volcano+Manor"><b>[火山官邸]</b></a>挥舞这把武器的<a
       href="https://eldenring.wiki.fextralife.com/Man-Serpent">蛇人</a>的稀有掉落。
     - 失色
   - id: '9_15'
-    icon: /img/icons/weapons/curvedswords/10048.png
+    icon: img/icons/weapons/curvedswords/10048.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Nox+Flowing+Sword"><b>诺克斯流体剑</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Sellia,+Town+of+Sorcery"><b>[魔法镇瑟利亚]</b></a>:
@@ -751,7 +751,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+map?id=3227&lat=-173.28125&lng=147.574839&zoom=8&code=mapA">[地图链接]</a>'
     - 失色
   - id: '9_8'
-    icon: /img/icons/weapons/curvedswords/10247.png
+    icon: img/icons/weapons/curvedswords/10247.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Wing+of+Astel"><b>艾丝缇薄翼</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Uhl+Palace+Ruins"><b>[乌鲁王朝遗迹]</b></a>南部废墟顶部的宝箱里。只有在你能进入<a
@@ -759,7 +759,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2713&lat=-127.96875&lng=67.69812&zoom=8&code=mapB">[地图链接]</a>
     - 失色
   - id: '9_10'
-    icon: /img/icons/weapons/curvedswords/10250.png
+    icon: img/icons/weapons/curvedswords/10250.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Eclipse+Shotel"><b>日蚀钩剑</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Castle+Sol"><b>[索尔城]</b></a>:
@@ -773,13 +773,13 @@ sections:
   - 锻造石
   items:
   - id: '8_2'
-    icon: /img/icons/weapons/curvedgreatswords/10281.png
+    icon: img/icons/weapons/curvedgreatswords/10281.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Dismounter"><b>骑兵马刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Kaiden+Sellsword">凯丹佣兵</a>4%几率掉落。
     - 普通
   - id: '8_6'
-    icon: /img/icons/weapons/curvedgreatswords/10284.png
+    icon: img/icons/weapons/curvedgreatswords/10284.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Omen+Cleaver"><b>恶兆之子大刀</b></a>
     - 挥舞它的<a href="https://eldenring.wiki.fextralife.com/Omen">恶兆兵</a>4%几率掉落。你可以在<b>[史东薇尔城]</b>戒备森严的院子里找到一个。最近的赐福是<b>赐福[升降机旁房间]</b>。如果不想管周围的猎犬，可以装备<a
@@ -787,7 +787,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=964&lat=-176.898437&lng=85.777595&zoom=8">[地图链接]</a>
     - 普通
   - id: '8_7'
-    icon: /img/icons/weapons/curvedgreatswords/10285.png
+    icon: img/icons/weapons/curvedgreatswords/10285.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Monk's+Flameblade"><b>习武修士火纹刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants"><b>[巨人山顶]</b></a><a
@@ -795,7 +795,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Fire+Monk">火焰教士</a><b>[巨人战争的英雄墓地]</b></a>4%几率掉落。
     - 普通
   - id: '8_8'
-    icon: /img/icons/weapons/curvedgreatswords/10286.png
+    icon: img/icons/weapons/curvedgreatswords/10286.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Beastman's+Cleaver"><b>兽人大弯刀</b></a>
     - 带着这种武器的<a href="https://eldenring.wiki.fextralife.com/Azula+Beastman">亚兹拉的兽人</a>掉落。一个出现在只能通过传送门到达<a
@@ -806,7 +806,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula"><b>[逐渐崩毁的法姆·亚兹拉]</b></a><b>赐福[大桥侧边]</b>附近也有一个，坐电梯下去，穿过右边的通道。这个兽人比之前的HP更多。
     - 普通
   - id: '8_3'
-    icon: /img/icons/weapons/curvedgreatswords/10282.png
+    icon: img/icons/weapons/curvedgreatswords/10282.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Bloodhound's+Fang"><b>猎犬长牙</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Limgrave"><b>[宁姆格福]</b></a>的<a
@@ -814,7 +814,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/interactive+map?id=1757&lat=-202.32&lng=113.52&zoom=8">[地图链接]</a>
     - 失色
   - id: '8_1'
-    icon: /img/icons/weapons/curvedgreatswords/10280.png
+    icon: img/icons/weapons/curvedgreatswords/10280.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Onyx+Lord's+Greatsword"><b>黑王大剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Sealed+Tunnel"><b>[封印坑道]</b></a>的<a
@@ -822,7 +822,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3159&lat=-111.25&lng=105.54232&zoom=8&code=mapA">[地图链接]</a>.
     - 失色
   - id: '8_5'
-    icon: /img/icons/weapons/curvedgreatswords/10289.png
+    icon: img/icons/weapons/curvedgreatswords/10289.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Zamor+Curved+Sword"><b>萨米尔弯刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Giant-Conquering+Hero's+Grave"><b>[巨人战争的英雄墓地]</b></a>的Boss<a
@@ -830,7 +830,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+map?id=3874&lat=-86.071875&lng=147.580882&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '8_4'
-    icon: /img/icons/weapons/curvedgreatswords/10283.png
+    icon: img/icons/weapons/curvedgreatswords/10283.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Magma+Wyrm's+Scalesword"><b>土龙鳞剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes"><b>[湖之利耶尼亚]</b></a>北部<a
@@ -839,7 +839,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2065&lat=-104.42969&lng=68.30469&zoom=8">[地图链接]</a>
     - 失色
   - id: '8_9'
-    icon: /img/icons/weapons/curvedgreatswords/10288.png
+    icon: img/icons/weapons/curvedgreatswords/10288.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Morgott's+Cursed+Sword"><b>蒙葛特咒剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a><a
@@ -854,7 +854,7 @@ sections:
   - 锻造石
   items:
   - id: '17_1'
-    icon: /img/icons/weapons/katanas/10320.png
+    icon: img/icons/weapons/katanas/10320.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Uchigatana"><b>打刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Samurai">武士</a>职业初始自带。它可以在里面找到<a
@@ -862,7 +862,7 @@ sections:
       <b>[宁姆格福]</b>。你需要把杠杆调低，以便打开前一个大厅的门。你会在平台边缘的尸体上发现<b>[打刀]</b>。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=846&lat=-173.671875&lng=104.844666&zoom=8">[地图链接]</a>
     - 普通
   - id: '17_2'
-    icon: /img/icons/weapons/katanas/10321.png
+    icon: img/icons/weapons/katanas/10321.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Nagakiba"><b>长牙</b></a>
     - '杀死<a href="https://eldenring.wiki.fextralife.com/Murkwater+Cave"><b>[蒙流洞窟]</b></a>北边或者<b>赐福[傍海古遗迹]</b>附近营地的<a
@@ -876,7 +876,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Dragon+Burnt+Ruins"><b>[龙息废墟]</b></a>南边的建筑下找到。'
     - 普通
   - id: '17_3'
-    icon: /img/icons/weapons/katanas/10328.png
+    icon: img/icons/weapons/katanas/10328.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Serpentbone+Blade"><b>蛇骨刀</b></a>
     - 完成<a href="https://eldenring.wiki.fextralife.com/Volcano+Manor"><b>[火山官邸]</b></a><a
@@ -884,7 +884,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3533&lat=-86.38906&lng=65.22554&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '17_4'
-    icon: /img/icons/weapons/katanas/10323.png
+    icon: img/icons/weapons/katanas/10323.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Meteoric+Ore+Blade"><b>铁陨石刀</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Caelid+Waypoint+Ruins"><b>[盖利德的驿站街遗迹]</b></a>:
@@ -892,7 +892,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+map?id=3163&lat=-182.375&lng=132.143267&zoom=8&code=mapA">[地图链接]</a>'
     - 失色
   - id: '17_5'
-    icon: /img/icons/weapons/katanas/10326.png
+    icon: img/icons/weapons/katanas/10326.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Moonveil"><b>名刀月隐</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Caelid"><b>[盖利德]</b></a><a href="https://eldenring.wiki.fextralife.com/Gael+Tunnel"><b>[盖尔坑道]</b></a>的<a
@@ -900,7 +900,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2909&lat=-174.156251&lng=126.82006&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '17_6'
-    icon: /img/icons/weapons/katanas/10324.png
+    icon: img/icons/weapons/katanas/10324.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rivers+of+Blood"><b>尸山血海</b></a>
     - <b>[巨人山顶]</b>东部<a href="https://eldenring.wiki.fextralife.com/Church+of+Repose"><b>[安歇教堂]</b></a>附近入侵的<a
@@ -908,7 +908,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2762&lat=-89.18&lng=156.6&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '17_7'
-    icon: /img/icons/weapons/katanas/10327.png
+    icon: img/icons/weapons/katanas/10327.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Dragonscale+Blade"><b>龙鳞刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/lake+of+rot"><b>[腐败湖]</b></a>的<a
@@ -916,7 +916,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=6404&lat=-134.7875&lng=63.412853&zoom=8&code=mapB">[地图链接]</a>
     - 失色
   - id: '17_8'
-    icon: /img/icons/weapons/katanas/10322.png
+    icon: img/icons/weapons/katanas/10322.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Hand+of+Malenia"><b>玛莲妮亚的义手刀</b></a>
     - 用杀死<A href="https://eldenring.wiki.fextralife.com/Malenia+Blade+of+Miquella"><b>[“米凯拉的锋刃”玛莲妮亚]</b></a>后获得的<a
@@ -932,14 +932,14 @@ sections:
   - 锻造石
   items:
   - id: '18_1'
-    icon: /img/icons/weapons/twinblades/10360.png
+    icon: img/icons/weapons/twinblades/10360.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Twinblade"><b>双头剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Dragon-Burnt+Ruins"><b>[龙息废墟]</b></a>地下的一个宝箱里。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=455&lat=-195.28125&lng=107.380287&zoom=8">[地图链接]</a>.
     - 普通
   - id: '18_2'
-    icon: /img/icons/weapons/twinblades/10362.png
+    icon: img/icons/weapons/twinblades/10362.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Twinned+Knight+Swords"><b>骑士双头剑</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Altus+Plateau"><b>[亚坛高原]</b></a><a
@@ -947,7 +947,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=6379&lat=-74.75&lng=91.36495&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '18_3'
-    icon: /img/icons/weapons/twinblades/10361.png
+    icon: img/icons/weapons/twinblades/10361.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Godskin+Peeler"><b>神皮剥制剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Altus+Plateau"><b>[亚坛高原]</b></a><a
@@ -956,14 +956,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5819&lat=-75.828&lng=99.414&zoom=8&code=mapA">[地图链接]</a>.
     - 普通
   - id: '18_4'
-    icon: /img/icons/weapons/twinblades/10367.png
+    icon: img/icons/weapons/twinblades/10367.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Gargoyle's+Twinblade"><b>石像鬼双头剑</b></a>
     - 击败双Boss<a href="https://eldenring.wiki.fextralife.com/Vailant+Gargoyle+(Twinblade)"><b>[英雄石像鬼（双头剑）]</b></a>后掉落。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=6406&lat=-169.879&lng=135.0149&zoom=8&code=mapB">[地图链接]</a>.
     - 普通
   - id: '18_5'
-    icon: /img/icons/weapons/twinblades/10368.png
+    icon: img/icons/weapons/twinblades/10368.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Gargoyle's+Black+Blades"><b>石像鬼黑双头剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants"><b>[巨人山顶]</b></a><a
@@ -972,7 +972,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2712&lat=-95.125&lng=143.56&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '18_6'
-    icon: /img/icons/weapons/twinblades/10364.png
+    icon: img/icons/weapons/twinblades/10364.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Eleonora's+Poleblade"><b>艾琉诺拉的双头刀</b></a>
     - 击杀<a href="https://eldenring.wiki.fextralife.com/Second+Church+of+Marika"><b>[玛莉卡第二教堂]</b></a>的<a
@@ -988,27 +988,27 @@ sections:
   - 锻造石
   items:
   - id: '1_3'
-    icon: /img/icons/weapons/axes/10522.png
+    icon: img/icons/weapons/axes/10522.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Hand+Axe"><b>手斧</b></a>
     - <b>[雾林]</b>在<b>[宁姆格福]</b>东南的<a href="https://eldenring.wiki.fextralife.com/Nomadic+Merchant+East+Limgrave"><b>[流浪民族的商人]</b></a>处购买。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=812&lat=-192.109375&lng=120.629633&zoom=8">[地图链接]</a>
     - 普通
   - id: '1_2'
-    icon: /img/icons/weapons/axes/10521.png
+    icon: img/icons/weapons/axes/10521.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Forked+Hatchet"><b>分岔手斧</b></a>
     - 挥舞这武器的<a href="https://eldenring.wiki.fextralife.com/Fanged+Imp">小恶魔</a>2%几率掉落。
     - 普通
   - id: '1_1'
-    icon: /img/icons/weapons/axes/10520.png
+    icon: img/icons/weapons/axes/10520.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Battle+Axe"><b>战斧</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Hero">勇者</a>职业初始自带。<a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a>的<a
       href="https://eldenring.wiki.fextralife.com/Twin+Maiden+Husks"><b>[孪生老妪]</b></a>出售。
     - 普通
   - id: '1_13'
-    icon: /img/icons/weapons/axes/10561.png
+    icon: img/icons/weapons/axes/10561.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Warped+Axe"><b>歪柄斧</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Omen">恶兆兵</a>4%几率掉落。你可以在<b>[史东薇尔城]</b>戒备森严的院子里找到一个。最近的赐福是<b>赐福[升降机旁房间]</b>。如果不想管周围的猎犬，可以装备<a
@@ -1016,7 +1016,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=964&lat=-176.898437&lng=85.777595&zoom=8">[地图链接]</a>
     - 普通
   - id: '1_4'
-    icon: /img/icons/weapons/axes/10523.png
+    icon: img/icons/weapons/axes/10523.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Jawbone+Axe"><b>颚齿斧</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Ancestral+Follower">祖灵之民</a>2%几率掉落。在<a
@@ -1025,7 +1025,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes"><b>[湖之利耶尼亚]</b></a>东北的<b>[小黄金树]</b>。
     - 普通
   - id: '1_5'
-    icon: /img/icons/weapons/axes/10524.png
+    icon: img/icons/weapons/axes/10524.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Iron+Cleaver"><b>铁柴刀</b></a>
     - 使用这种武器的<a href="https://eldenring.wiki.fextralife.com/Misbegotten">混种</a>2%的几率掉落，例如在<a
@@ -1034,7 +1034,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3681&code=mapA">[地图链接]</a>。
     - 普通
   - id: '1_9'
-    icon: /img/icons/weapons/axes/10529.png
+    icon: img/icons/weapons/axes/10529.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Highland+Axe"><b>高地斧</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Stormveil+Castle"><b>[史东薇尔城]</b></a>:
@@ -1042,14 +1042,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=980&code=mapA">[地图链接]</a>'
     - 普通
   - id: '1_7'
-    icon: /img/icons/weapons/axes/10526.png
+    icon: img/icons/weapons/axes/10526.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Celebrant's+Cleaver"><b>庆典柴刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Windmill+Village"><b>[风车村]</b></a>挥舞这武器的<a
       href="https://eldenring.wiki.fextralife.com/Celebrant">庆典者</a>0.5%几率掉落。
     - 普通
   - id: '1_10'
-    icon: /img/icons/weapons/axes/10530.png
+    icon: img/icons/weapons/axes/10530.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Sacrificial+Axe"><b>活祭品斧</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Weeping+Peninsula"><b>[啜泣半岛]</b></a><a
@@ -1058,7 +1058,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4474&code=mapA">[地图链接]</a>
     - 普通
   - id: '1_8'
-    icon: /img/icons/weapons/axes/10527.png
+    icon: img/icons/weapons/axes/10527.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Icerind+Hatchet"><b>冻壳斧</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes"><b>[湖之利耶尼亚]</b></a>的<a
@@ -1066,7 +1066,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2853&lat=-143.58&lng=54.049&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '1_6'
-    icon: /img/icons/weapons/axes/10525.png
+    icon: img/icons/weapons/axes/10525.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ripple+Blade"><b>波纹剑</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Caria+Manor"><b>[卡利亚城寨]</b></a>内部的<a
@@ -1074,7 +1074,7 @@ sections:
       <a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2920&lat=-107.4&lng=55.6&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '1_12'
-    icon: /img/icons/weapons/axes/10533.png
+    icon: img/icons/weapons/axes/10533.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Stormhawk+Axe"><b>风暴鹰斧</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Leyndell+Royal+Capital"><b>[王城罗德尔]</b></a>:
@@ -1085,7 +1085,7 @@ sections:
       最后，你可以通过击杀<a href="https://eldenring.wiki.fextralife.com/Nepheli+Loux"><b>[战士涅斐丽·露]</b></a>获得另外两个。'
     - 失色
   - id: '1_11'
-    icon: /img/icons/weapons/axes/10531.png
+    icon: img/icons/weapons/axes/10531.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rosus'+Axe"><b>罗泽司的斧</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs"><b>[黑刀地下墓地]</b></a>:
@@ -1100,7 +1100,7 @@ sections:
   - 锻造石
   items:
   - id: '19_1'
-    icon: /img/icons/weapons/greataxes/10560.png
+    icon: img/icons/weapons/greataxes/10560.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Greataxe"><b>巨斧</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Limgrave"><b>[宁姆格福]</b></a>西边<a
@@ -1109,14 +1109,14 @@ sections:
       <a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1582&lat=-192.207813&lng=112.277957&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '19_2'
-    icon: /img/icons/weapons/greataxes/10563.png
+    icon: img/icons/weapons/greataxes/10563.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Crescent+Moon+Axe"><b>弦月斧</b></a>
     - 从特大号<a href="https://eldenring.wiki.fextralife.com/Exile+Soldier">流刑士兵</a>4%几率掉落，例如在<a
       href="https://eldenring.wiki.fextralife.com/Stormveil+Castle"><b>[史东薇尔城]</b></a>庭院的。
     - 普通
   - id: '19_3'
-    icon: /img/icons/weapons/greataxes/10565.png
+    icon: img/icons/weapons/greataxes/10565.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Longhaft+Axe"><b>长柄柴刀</b></a>
     - 使用这种武器的<a href="https://eldenring.wiki.fextralife.com/Misbegotten">混种</a>2%几率掉落，例如在<a
@@ -1125,14 +1125,14 @@ sections:
       <a href="https://eldenring.wiki.fextralife.com/Cave+of+the+Forlorn"><b>[安身洞窟]</b></a>的。
     - 普通
   - id: '19_4'
-    icon: /img/icons/weapons/greataxes/10568.png
+    icon: img/icons/weapons/greataxes/10568.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Executioner's+Greataxe"><b>斩身大柴刀</b></a>
     - 挥舞这种武器的<a href="https://eldenring.wiki.fextralife.com/Skeletal+Militiaman">骸骨民兵</a>4%几率掉落，例如<a
       href="https://eldenring.wiki.fextralife.com/Church+of+Irith"><b>[伊利斯教堂]</b></a>西侧小墓地的。
     - 普通
   - id: '19_5'
-    icon: /img/icons/weapons/greataxes/10562.png
+    icon: img/icons/weapons/greataxes/10562.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Great+Omenkiller+Cleaver"><b>恶兆猎人大柴刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Volcano+Manor"><b>[火山官邸]</b></a><a
@@ -1141,7 +1141,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4591&code=mapA">[地图链接]</a>)
     - 普通
   - id: '19_6'
-    icon: /img/icons/weapons/greataxes/10566.png
+    icon: img/icons/weapons/greataxes/10566.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rusted+Anchor"><b>锈蚀船锚</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Morne+Tunnel"><b>[摩恩坑道]</b></a>的<a
@@ -1149,7 +1149,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2327&code=mapA">[地图链接]</a>
     - 普通
   - id: '19_7'
-    icon: /img/icons/weapons/greataxes/10572.png
+    icon: img/icons/weapons/greataxes/10572.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Butchering+Knife"><b>肢解菜刀</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Corpse-Stench+Shack"><b>[飘尸臭的破屋]</b></a>处<a
@@ -1157,7 +1157,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3574&code=mapA">[地图链接]</a>
     - 普通
   - id: '19_8'
-    icon: /img/icons/weapons/greataxes/10573.png
+    icon: img/icons/weapons/greataxes/10573.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Gargoyle's+Great+Axe"><b>石像鬼大斧</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Capital+Outskirts"><b>[王城外围]</b></a><b>赐福[城外幻影树]</b>楼梯后较小的<a
@@ -1165,7 +1165,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3842&code=mapA">[地图链接]</a>
     - 普通
   - id: '19_9'
-    icon: /img/icons/weapons/greataxes/10574.png
+    icon: img/icons/weapons/greataxes/10574.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Gargoyle's+Black+Axe"><b>石像鬼黑斧</b></a>
     - 看守<a href="https://eldenring.wiki.fextralife.com/Grand+Lift+of+Rold"><b>[洛德大升降机]</b></a>的场地Boss<a
@@ -1173,14 +1173,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2711&code=mapA">[地图链接]</a>
     - 失色
   - id: '19_10'
-    icon: /img/icons/weapons/greataxes/10571.png
+    icon: img/icons/weapons/greataxes/10571.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Winged+Greathorn"><b>展翼大角</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a><a
       href="https://eldenring.wiki.fextralife.com/Enia"><b>[“解指”恩雅]</b></a>处用<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Regal+Ancestor"><b>[祖灵之王的追忆]</b></a>交换。
     - 失色
   - id: '19_11'
-    icon: /img/icons/weapons/greataxes/10564.png
+    icon: img/icons/weapons/greataxes/10564.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Axe+of+Godrick"><b>葛瑞克的王斧</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a><a
@@ -1194,91 +1194,91 @@ sections:
   - 锻造石
   items:
   - id: '20_1'
-    icon: /img/icons/weapons/hammers/10401.png
+    icon: img/icons/weapons/hammers/10401.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Club"><b>棍棒</b></a>
     - 无用之人职业初始自带。<br><b>[宁姆格福]</b>岸上的<b>[流浪民族的商人]</b>卖600卢恩。<br>亚人也会掉落。
     - 普通
   - id: '20_2'
-    icon: /img/icons/weapons/hammers/10402.png
+    icon: img/icons/weapons/hammers/10402.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Curved+Club"><b>弯曲棍棒</b></a>
     - 用这种武器的白金之子掉落。在<b>赐福[学院门前镇]</b>以东可以发现一些。
     - 普通
   - id: '20_3'
-    icon: /img/icons/weapons/hammers/10406.png
+    icon: img/icons/weapons/hammers/10406.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Spiked+Club"><b>兽牙棒</b></a>
     - 由大型亚人掉落，例如<b>[宁姆格福]</b>的<b>[海岸洞窟]</b>的。
     - 普通
   - id: '20_4'
-    icon: /img/icons/weapons/hammers/10413.png
+    icon: img/icons/weapons/hammers/10413.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Stone+Club"><b>石棍棒</b></a>
     - <b>[瑟利亚隐藏洞窟]</b>前或<b>[学院结晶洞窟]</b>雾墙前的战斗法师掉落。
     - 普通
   - id: '20_5'
-    icon: /img/icons/weapons/hammers/10400.png
+    icon: img/icons/weapons/hammers/10400.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Mace"><b>锤矛</b></a>
     - <b>[孪生老妪]</b>卖800卢恩。
     - 普通
   - id: '20_6'
-    icon: /img/icons/weapons/hammers/10404.png
+    icon: img/icons/weapons/hammers/10404.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Morning+Star"><b>晨星锤</b></a>
     - 在<b>[啜泣半岛]</b>主路<b>赐福[献祭大桥]</b>南部的一个大车后宝箱中找到。
     - 普通
   - id: '20_7'
-    icon: /img/icons/weapons/hammers/10403.png
+    icon: img/icons/weapons/hammers/10403.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Warpick"><b>战镐</b></a>
     - 挥舞这种武器的葛瑞克士兵掉落，在<b>赐福[关卡前废墟]</b>有一些，往西还有2个。
     - 普通
   - id: '20_8'
-    icon: /img/icons/weapons/hammers/10407.png
+    icon: img/icons/weapons/hammers/10407.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Hammer"><b>石槌</b></a>
     - <b>[王城罗德尔]</b><b>赐福[大道旁露台]</b>附近。
     - 普通
   - id: '20_9'
-    icon: /img/icons/weapons/hammers/10408.png
+    icon: img/icons/weapons/hammers/10408.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Monk's+Flamemace"><b>习武修士火纹锤</b></a>
     - <b>[湖之利耶尼亚]</b>和<b>[巨人山顶]</b>的火焰教士掉落。
     - 普通
   - id: '20_10'
-    icon: /img/icons/weapons/hammers/10405.png
+    icon: img/icons/weapons/hammers/10405.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Varre's+Bouquet"><b>梵雷的花束</b></a>
     - <b>[“白面具”梵雷]</b>任务线的奖励
     - 失色
   - id: '20_11'
-    icon: /img/icons/weapons/hammers/10409.png
+    icon: img/icons/weapons/hammers/10409.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Envoy's+Horn"><b>众使者的笛子</b></a>
     - <b>[王城罗德尔]</b><b>赐福[王城东边城墙]</b>或<b>赐福[圣树树冠]</b>的神谕众使者掉落。
     - 失色
   - id: '20_12'
-    icon: /img/icons/weapons/hammers/10411.png
+    icon: img/icons/weapons/hammers/10411.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Nox+Flowing+Hammer"><b>诺克斯流体锤</b></a>
     - 在<b>[“永恒之城”诺克隆恩]</b>，从<b>赐福[黑夜神域]</b>上楼向右，穿过房间上梯子，大厅的祭坛右边通道找到一扇打开的窗户，跳到屋顶进入另一扇打开的窗户。
     - 失色
   - id: '20_13'
-    icon: /img/icons/weapons/hammers/10412.png
+    icon: img/icons/weapons/hammers/10412.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ringed+Finger"><b>戒指指头</b></a>
     - 在<b>[格密尔英雄墓地]</b>发现，通过第一辆战车后穿过熔岩左转。
     - 失色
   - id: '20_14'
-    icon: /img/icons/weapons/hammers/10410.png
+    icon: img/icons/weapons/hammers/10410.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Scepter+of+the+All-Knowing"><b>百智权杖</b></a>
     - <b>[“百智爵士”基甸·奥夫尼尔]</b>掉落。
     - 失色
   - id: '20_15'
-    icon: /img/icons/weapons/hammers/10414.png
+    icon: img/icons/weapons/hammers/10414.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Marika's+Hammer"><b>玛莉卡的石槌</b></a>
     - <b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处用<b>[艾尔登的追忆]</b>交换
@@ -1291,31 +1291,31 @@ sections:
   - 锻造石
   items:
   - id: '21_1'
-    icon: /img/icons/weapons/flails/10481.png
+    icon: img/icons/weapons/flails/10481.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Flail"><b>连枷</b></a>
     - <b>[关卡前废墟]</b>的东部大车上的一个宝箱中
     - 普通
   - id: '21_2'
-    icon: /img/icons/weapons/flails/10480.png
+    icon: img/icons/weapons/flails/10480.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Nightrider+Flail"><b>黑夜骑兵连枷</b></a>
     - <b>赐福[摩恩城（城墙前方）]</b>附近的<b>[黑夜骑兵]</b>掉落
     - 普通
   - id: '21_3'
-    icon: /img/icons/weapons/flails/10484.png
+    icon: img/icons/weapons/flails/10484.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Chainlink+Flail"><b>铁块连枷</b></a>
     - 挥舞着这个武器的疯狂南瓜头士兵掉落。四钟楼北面营地有一个
     - 普通
   - id: '21_4'
-    icon: /img/icons/weapons/flails/10482.png
+    icon: img/icons/weapons/flails/10482.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Family+Heads"><b>家族头连枷</b></a>
     - <b>[亚坛高原]</b><b>[贤者的洞窟]</b>的<b>[死术师哥瑞斯]</b>掉落
     - 失色
   - id: '21_5'
-    icon: /img/icons/weapons/flails/10483.png
+    icon: img/icons/weapons/flails/10483.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Bastard's+Stars"><b>弃子的繁星</b></a>
     - <b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处用<b>[黑暗弃子的追忆]</b>交换
@@ -1328,85 +1328,85 @@ sections:
   - 锻造石
   items:
   - id: '22_1'
-    icon: /img/icons/weapons/greathammers/10440.png
+    icon: img/icons/weapons/greathammers/10440.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Large+Club"><b>大棍棒</b></a>
     - 在南边的悬崖上发现的。
     - 普通
   - id: '22_2'
-    icon: /img/icons/weapons/greathammers/10444.png
+    icon: img/icons/weapons/greathammers/10444.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Curved+Great+Club"><b>弯曲大棍棒</b></a>
     - 使用此武器的白金之子掉落。在<b>[湖之利耶尼亚]</b>的<b>[教堂区]</b>一带有一些。
     - 普通
   - id: '22_3'
-    icon: /img/icons/weapons/greathammers/10443.png
+    icon: img/icons/weapons/greathammers/10443.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Great+Mace"><b>巨型锤矛</b></a>
     - 在<b>赐福[迪可达斯大升降机]</b>处投石机西南方向的一个宝箱里。
     - 普通
   - id: '22_4'
-    icon: /img/icons/weapons/greathammers/10446.png
+    icon: img/icons/weapons/greathammers/10446.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Pickaxe"><b>十字镐</b></a>
     - 矿工掉落，在<b>[宁姆格福坑道]</b>第一个房间有3个很容易杀死的矿工。
     - 普通
   - id: '22_5'
-    icon: /img/icons/weapons/greathammers/10451.png
+    icon: img/icons/weapons/greathammers/10451.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Brick+Hammer"><b>砌石槌</b></a>
     - 从<b>赐福[史东薇尔断崖]</b>出发穿过酒窖区，爬上锁着的门后的梯子，跳上通向外面的木制平台，拐角处左边小房间的尸体上。
     - 普通
   - id: '22_6'
-    icon: /img/icons/weapons/greathammers/10442.png
+    icon: img/icons/weapons/greathammers/10442.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Battle+Hammer"><b>斗技锤</b></a>
     - <b>[王城罗德尔]</b>竞技场附近的斗士或<b>[蒙流地下墓地]</b>的<b>[守墓斗士]</b>掉落
     - 普通
   - id: '22_7'
-    icon: /img/icons/weapons/greathammers/10453.png
+    icon: img/icons/weapons/greathammers/10453.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rotten+Battle+Hammer"><b>腐败斗技锤</b></a>
     - <b>[巨人山顶]</b><b>赐福[化圣雪原]</b>西边的腐烂斗士掉落。
     - 普通
   - id: '22_8'
-    icon: /img/icons/weapons/greathammers/10445.png
+    icon: img/icons/weapons/greathammers/10445.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Celebrant's+Skull"><b>庆典大头盖骨</b></a>
     - <b>赐福[风车村]</b>东北的一具尸体上。
     - 普通
   - id: '22_10'
-    icon: /img/icons/weapons/greathammers/10450.png
+    icon: img/icons/weapons/greathammers/10450.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Great+Stars"><b>巨星锤</b></a>
     - 在<b>赐福[移送罪人之路（路旁）]</b>西南的大车上。<b>[蠕血废墟]</b>中的<b>[“兽爪”玛格纳斯]</b>也掉落。
     - 普通
   - id: '22_11'
-    icon: /img/icons/weapons/greathammers/10441.png
+    icon: img/icons/weapons/greathammers/10441.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Greathorn+Hammer"><b>大角槌</b></a>
     - 在<b>[希芙拉河]</b>地区的祖灵之民掉落。
     - 普通
   - id: '22_12'
-    icon: /img/icons/weapons/greathammers/10448.png
+    icon: img/icons/weapons/greathammers/10448.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Envoy's+Long+Horn"><b>众使者的长笛子</b></a>
     - <b>[王城罗德尔]</b><b>赐福[王城东边城墙]</b>或<b>赐福[圣树树冠]</b>的用这个的神谕众使者掉落。
     - 失色
   - id: '22_13'
-    icon: /img/icons/weapons/greathammers/10449.png
+    icon: img/icons/weapons/greathammers/10449.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Cranial+Vessel+Candlestand"><b>尊容烛台</b></a>
     - 在<b>[巨人战争的英雄墓地]</b>中一个小恶魔像封印的房间里。
     - 失色
   - id: '22_14'
-    icon: /img/icons/weapons/greathammers/10447.png
+    icon: img/icons/weapons/greathammers/10447.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Beastclaw+Greathammer"><b>兽爪大锤</b></a>
     - 给<b>[“野兽祭司”古兰格]</b>第7个<b>[死根]</b>的奖励。
     - 失色
   - id: '22_15'
-    icon: /img/icons/weapons/greathammers/10452.png
+    icon: img/icons/weapons/greathammers/10452.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Devourer's+Scepter"><b>吞世权杖</b></a>
     - 在<b>[习战者的破屋]</b>杀死<b>[骑士贝纳尔]</b>或在<b>[逐渐崩毁的法姆·亚兹拉]</b>杀死入侵的他掉落。
@@ -1419,91 +1419,91 @@ sections:
   - 锻造石
   items:
   - id: '6_5'
-    icon: /img/icons/weapons/colossalweapons/10884.png
+    icon: img/icons/weapons/colossalweapons/10884.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Duelist+Greataxe"><b>斗士大斧</b></a>
     - '在<b>赐福[王城西边城墙]</b>附近的斗士掉落。<br>注意: 击杀<b>[“黑剑”玛利喀斯]</b>后不再刷新。'
     - 普通
   - id: '6_15'
-    icon: /img/icons/weapons/colossalweapons/10895.png
+    icon: img/icons/weapons/colossalweapons/10895.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rotten+Greataxe"><b>腐败大斧</b></a>
     - <b>[“仪典镇”奥缇那]</b>北边的腐烂斗士掉落。
     - 普通
   - id: '6_12'
-    icon: /img/icons/weapons/colossalweapons/10892.png
+    icon: img/icons/weapons/colossalweapons/10892.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Golem's+Halberd"><b>魔像戟</b></a>
     - 使用此武器的魔像掉落。可以在<b>赐福[宁姆格福神授塔（桥上）]</b>附近找到。
     - 普通
   - id: '6_11'
-    icon: /img/icons/weapons/colossalweapons/10891.png
+    icon: img/icons/weapons/colossalweapons/10891.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Giant-Crusher"><b>粉碎巨人槌</b></a>
     - 在<b>赐福[城外幻影树]</b>南边的一个宝箱里。
     - 普通
   - id: '6_1'
-    icon: /img/icons/weapons/colossalweapons/10880.png
+    icon: img/icons/weapons/colossalweapons/10880.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Prelate's+Inferno+Crozier"><b>主教大火槌</b></a>
     - 靠近<b>赐福[沸滚河终点]</b>的<b>[莱多要塞]</b>内的敌人掉落
     - 普通
   - id: '6_3'
-    icon: /img/icons/weapons/colossalweapons/10882.png
+    icon: img/icons/weapons/colossalweapons/10882.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Great+Club"><b>巨型棍棒</b></a>
     - <b>[旧亚坛坑道]</b>的Boss<b>[挖石山妖]</b>掉落。
     - 普通
   - id: '6_13'
-    icon: /img/icons/weapons/colossalweapons/10893.png
+    icon: img/icons/weapons/colossalweapons/10893.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Troll's+Hammer"><b>山妖大槌</b></a>
     - 在<b>[旧亚坛坑道]</b>的一个棚子里。
     - 普通
   - id: '6_7'
-    icon: /img/icons/weapons/colossalweapons/10886.png
+    icon: img/icons/weapons/colossalweapons/10886.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Dragon+Greatclaw"><b>大龙爪</b></a>
     - <b>[王城外围]</b>的<b>[龙装大树守卫]</b>掉落。
     - 失色
   - id: '6_2'
-    icon: /img/icons/weapons/colossalweapons/10881.png
+    icon: img/icons/weapons/colossalweapons/10881.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Watchdog's+Staff"><b>看门犬锡杖</b></a>
     - <b>[湖之利耶尼亚]</b>的<b>[绝路地下墓地]</b>中一堵幻影墙，一路下楼梯后的拉杆处。
     - 失色
   - id: '6_8'
-    icon: /img/icons/weapons/colossalweapons/10887.png
+    icon: img/icons/weapons/colossalweapons/10887.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Staff+of+the+Avatar"><b>化身仪式杖</b></a>
     - 在<b>赐福[大瀑布顶端]</b>附近的<b>[黄金树的化身]</b>掉落
     - 失色
   - id: '6_14'
-    icon: /img/icons/weapons/colossalweapons/10894.png
+    icon: img/icons/weapons/colossalweapons/10894.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rotten+Staff"><b>腐败仪式杖</b></a>
     - 在<b>[“圣树分枝”艾布雷菲尔]</b>环形走道上的<b>[黄金树的化身]</b>掉落。
     - 失色
   - id: '6_4'
-    icon: /img/icons/weapons/colossalweapons/10883.png
+    icon: img/icons/weapons/colossalweapons/10883.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Envoy's+Greathorn"><b>众使者的扇形笛子</b></a>
     - <b>[米凯拉的圣树]</b>的巨大神谕众使者掉落。
     - 失色
   - id: '6_10'
-    icon: /img/icons/weapons/colossalweapons/10890.png
+    icon: img/icons/weapons/colossalweapons/10890.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ghiza's+Wheel"><b>基萨的刺轮</b></a>
     - <b>[火山官邸]</b>上楼梯的入侵NPC<b>[拷问官基萨]</b>掉落。
     - 失色
   - id: '6_9'
-    icon: /img/icons/weapons/colossalweapons/10888.png
+    icon: img/icons/weapons/colossalweapons/10888.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Fallingstar+Beast+Jaw"><b>星兽半颚</b></a>
     - <b>[格密尔火山]</b>的<b>[坠星成兽]</b>掉落。
     - 失色
   - id: '6_6'
-    icon: /img/icons/weapons/colossalweapons/10885.png
+    icon: img/icons/weapons/colossalweapons/10885.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Axe+of+Godfrey"><b>葛孚雷的王斧</b></a>
     - <b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处用<b>[荷莱·露的追忆]</b>交换。
@@ -1516,97 +1516,97 @@ sections:
   - 锻造石
   items:
   - id: '23_1'
-    icon: /img/icons/weapons/spears/10600.png
+    icon: img/icons/weapons/spears/10600.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Short+Spear"><b>短矛</b></a>
     - 预言家职业初始自带。<br><b>[圆桌厅堂]</b>的<b>[孪生老妪]</b>卖500卢恩
     - 普通
   - id: '23_2'
-    icon: /img/icons/weapons/spears/10615.png
+    icon: img/icons/weapons/spears/10615.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Iron+Spear"><b>铁制矛</b></a>
     - 在<b>赐福[“永恒之城”诺克隆恩]</b>附近的鹰战士掉落。
     - 普通
   - id: '23_3'
-    icon: /img/icons/weapons/spears/10601.png
+    icon: img/icons/weapons/spears/10601.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Spear"><b>{WP16010000}</b></a>
     - <b>[蒙流洞窟]</b>的<b>[帕奇]</b>被杀死时掉落一支+8的。<br><b>[史东薇尔城]</b><b>赐福[城墙塔]</b>附近使用此武器的城堡守卫掉落。
     - 普通
   - id: '23_4'
-    icon: /img/icons/weapons/spears/10605.png
+    icon: img/icons/weapons/spears/10605.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Partisan"><b>阔头枪</b></a>
     - 所有使用此武器的骑士敌人掉落。
     - 普通
   - id: '23_5'
-    icon: /img/icons/weapons/spears/10607.png
+    icon: img/icons/weapons/spears/10607.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Pike"><b>长矛</b></a>
     - <b>[史东薇尔城]</b><b>赐福[升降机旁房间]</b>附近充满敌人的院落尸体上拾取
     - 普通
   - id: '23_6'
-    icon: /img/icons/weapons/spears/10614.png
+    icon: img/icons/weapons/spears/10614.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Spiked+Spear"><b>棘刺棍</b></a>
     - 由挥舞此武器的人偶士兵掉落，一个在<b>[啜泣半岛]</b>外的<b>[封印魔女的废墟]</b>中。
     - 普通
   - id: '23_7'
-    icon: /img/icons/weapons/spears/10611.png
+    icon: img/icons/weapons/spears/10611.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Cross-Naginata"><b>十字刀</b></a>
     - 在<b>[盖尔坑道]</b>天花板上悬挂着巨型陆地章鱼的房间内的一具尸体上。
     - 普通
   - id: '23_8'
-    icon: /img/icons/weapons/spears/10603.png
+    icon: img/icons/weapons/spears/10603.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Clayman's+Harpoon"><b>泥人鱼叉</b></a>
     - 由<b>[安瑟尔河]</b><b>[希芙拉河]</b><b>[乌鲁王朝遗迹]</b>挥舞此武器的泥人掉落。
     - 普通
   - id: '23_9'
-    icon: /img/icons/weapons/spears/10606.png
+    icon: img/icons/weapons/spears/10606.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Celebrant's+Rib-Rake"><b>庆典肋骨钉耙</b></a>
     - <b>[风车村]</b>的庆典舞者掉落。
     - 普通
   - id: '23_10'
-    icon: /img/icons/weapons/spears/10608.png
+    icon: img/icons/weapons/spears/10608.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Torchpole"><b>烛台棒</b></a>
     - 挥舞着这个武器的卫兵掉落。在<b>[史东薇尔城]</b>的<b>赐福[升降机旁房间]</b>庭院中有一些。
     - 普通
   - id: '23_11'
-    icon: /img/icons/weapons/spears/10613.png
+    icon: img/icons/weapons/spears/10613.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Inquisitor's+Girandole"><b>拷问烛台</b></a>
     - <b>[火山官邸]</b>地下的掳人少女人偶掉落
     - 普通
   - id: '23_12'
-    icon: /img/icons/weapons/spears/10602.png
+    icon: img/icons/weapons/spears/10602.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Crystal+Spear"><b>结晶矛</b></a>
     - 在<b>[瑟利亚隐藏洞窟]</b>找到<b>[腐败苔药]</b>的地方的幻影墙所隐藏的房间里找到。
     - 失色
   - id: '23_13'
-    icon: /img/icons/weapons/spears/10616.png
+    icon: img/icons/weapons/spears/10616.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rotten+Crystal+Spear"><b>腐败结晶矛</b></a>
     - '<b>[“圣树分枝”艾布雷菲尔]</b>的非Boss结晶人掉落。<br>注意: 使用打击武器。'
     - 失色
   - id: '23_14'
-    icon: /img/icons/weapons/spears/10604.png
+    icon: img/icons/weapons/spears/10604.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Cleanrot+Spear"><b>尊腐骑士矛</b></a>
     - <b>[盖利德]</b>的<b>[老将欧尼尔]</b>的Boss区域附近的尊腐骑士掉落。
     - 失色
   - id: '23_15'
-    icon: /img/icons/weapons/spears/10612.png
+    icon: img/icons/weapons/spears/10612.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Death+Ritual+Spear"><b>死亡仪式矛</b></a>
     - <b>[巨人山顶]</b><b>赐福[索尔城（正门）]</b>西边的<b>[死亡仪式鸟]</b>掉落。
     - 失色
   - id: '23_16'
-    icon: /img/icons/weapons/spears/10609.png
+    icon: img/icons/weapons/spears/10609.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Bolt+of+Gransax"><b>古兰桑克斯的雷电</b></a>
     - '<b>[王城罗德尔]</b>击败<b>[“初始之王”葛孚雷]</b>(金色阴影)后可以获取。从<b>赐福[黄金树大教堂]</b>出门坐电梯下去跳到矛向上爬获取。<br>注意:
@@ -1620,37 +1620,37 @@ sections:
   - 锻造石
   items:
   - id: '24_1'
-    icon: /img/icons/weapons/greatspears/10646.png
+    icon: img/icons/weapons/greatspears/10646.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Lance"><b>骑兵长矛</b></a>
     - 可以在<b>[死亡降临的地下墓地]</b>西南方向的废墟建筑找到。
     - 普通
   - id: '24_2'
-    icon: /img/icons/weapons/greatspears/10647.png
+    icon: img/icons/weapons/greatspears/10647.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Treespear"><b>大树矛</b></a>
     - 在<b>赐福[利耶尼亚大道（南方）]</b>东南方向的大车后宝箱里。
     - 普通
   - id: '24_3'
-    icon: /img/icons/weapons/greatspears/10643.png
+    icon: img/icons/weapons/greatspears/10643.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Serpent-Hunter"><b>大蛇狩猎矛</b></a>
     - 进入<b>[“亵渎君王”拉卡德]</b>Boss房间内从尸体上拾取，对<b>[“亵渎君王”拉卡德]</b>有特殊的远程攻击能力。
     - 失色
   - id: '24_4'
-    icon: /img/icons/weapons/greatspears/10642.png
+    icon: img/icons/weapons/greatspears/10642.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Siluria's+Tree"><b>志留亚的树矛</b></a>
     - <b>[深根底层]</b>的<b>[“熔炉骑士”志留亚]</b>掉落
     - 失色
   - id: '24_5'
-    icon: /img/icons/weapons/greatspears/10645.png
+    icon: img/icons/weapons/greatspears/10645.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Vyke's+War+Spear"><b>维克的战矛</b></a>
     - 在<b>赐福[镇静教堂]</b>南边的入侵NPC<b>[“烧灼指痕”维克]</b>掉落。
     - 失色
   - id: '24_6'
-    icon: /img/icons/weapons/greatspears/10641.png
+    icon: img/icons/weapons/greatspears/10641.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Mohgwyn's+Sacred+Spear"><b>蒙格温圣矛</b></a>
     - <b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处用<b>[鲜血君王的追忆]</b>交换
@@ -1663,97 +1663,97 @@ sections:
   - 锻造石
   items:
   - id: '25_1'
-    icon: /img/icons/weapons/halberds/10680.png
+    icon: img/icons/weapons/halberds/10680.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Halberd"><b>{WP18000000}</b></a>
     - 流浪骑士职业初始自带。可以从<b>[宁姆格福]</b>北部的<b>[流浪民族的商人]</b>处购买。
     - 普通
   - id: '25_2'
-    icon: /img/icons/weapons/halberds/10683.png
+    icon: img/icons/weapons/halberds/10683.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight's+Halberd"><b>失乡骑士戟</b></a>
     - 使用此武器的失乡骑士掉落。<b>[史东薇尔城]</b><b>赐福[城墙塔]</b>的楼梯下有一个在巡逻。
     - 普通
   - id: '25_3'
-    icon: /img/icons/weapons/halberds/10682.png
+    icon: img/icons/weapons/halberds/10682.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Lucerne"><b>琉森戟</b></a>
     - 可以在<b>赐福[利耶尼亚大道（北方）]</b>附近一些推车下面找到。
     - 普通
   - id: '25_4'
-    icon: /img/icons/weapons/halberds/10689.png
+    icon: img/icons/weapons/halberds/10689.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Glaive"><b>剑刃戟</b></a>
     - 使用此武器的骷髅掉落。<b>赐福[结缘教堂]</b>以东有一具。
     - 普通
   - id: '25_5'
-    icon: /img/icons/weapons/halberds/10693.png
+    icon: img/icons/weapons/halberds/10693.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Vulgar+Militia+Shotel"><b>恶兵钩剑</b></a>
     - 恶兵掉落。从<b>[法姆大桥]</b>到<b>[野兽神殿]</b>的山上有一些。
     - 普通
   - id: '25_6'
-    icon: /img/icons/weapons/halberds/10687.png
+    icon: img/icons/weapons/halberds/10687.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Vulgar+Militia+Saw"><b>恶兵锯齿刀</b></a>
     - 恶兵掉落。从<b>[法姆大桥]</b>到<b>[野兽神殿]</b>的山上有一些。
     - 普通
   - id: '25_7'
-    icon: /img/icons/weapons/halberds/10691.png
+    icon: img/icons/weapons/halberds/10691.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Guardian's+Swordspear"><b>守卫剑枪</b></a>
     - 黄金树守卫掉落。最早可以<b>[啜泣半岛]</b>的小黄金树找到。
     - 普通
   - id: '25_8'
-    icon: /img/icons/weapons/halberds/10695.png
+    icon: img/icons/weapons/halberds/10695.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Gargoyle's+Halberd"><b>石像鬼戟</b></a>
     - <b>赐福[王城西边城墙]</b>附近的<b>[英雄石像鬼]</b>掉落。
     - 普通
   - id: '25_9'
-    icon: /img/icons/weapons/halberds/10696.png
+    icon: img/icons/weapons/halberds/10696.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Gargoyle's+Black+Halberd"><b>石像鬼黑戟</b></a>
     - <b>[野兽神殿]</b>外的<b>[黑剑眷属]</b>掉落。
     - 失色
   - id: '25_10'
-    icon: /img/icons/weapons/halberds/10685.png
+    icon: img/icons/weapons/halberds/10685.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Nightrider+Glaive"><b>黑夜骑兵剑刃戟</b></a>
     - 在<b>[湖之利耶尼亚]</b>中<b>[彼鲁姆教堂]</b>和<b>[雷亚卢卡利亚（东门）]</b>之间巡逻的<b>[黑夜骑兵]</b>掉落。
     - 失色
   - id: '25_11'
-    icon: /img/icons/weapons/halberds/10681.png
+    icon: img/icons/weapons/halberds/10681.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Pest's+Glaive"><b>昆虫剑刃戟</b></a>
     - 昆虫掉落。有许多在<b>[盖利德的驿站街遗迹]</b>。有2个守卫着<b>[腐败病教堂]</b>。
     - 失色
   - id: '25_12'
-    icon: /img/icons/weapons/halberds/10686.png
+    icon: img/icons/weapons/halberds/10686.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ripple+Crescent+Halberd"><b>残缺波纹戟</b></a>
     - 使用此武器的白金之子掉落。有一群<b>赐福[湖中坠落遗迹]</b>的东边。
     - 失色
   - id: '25_13'
-    icon: /img/icons/weapons/halberds/10688.png
+    icon: img/icons/weapons/halberds/10688.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Golden+Halberd"><b>黄金戟</b></a>
     - <b>[宁姆格福]</b>的<b>[大树守卫]</b>掉落。
     - 失色
   - id: '25_14'
-    icon: /img/icons/weapons/halberds/10694.png
+    icon: img/icons/weapons/halberds/10694.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Dragon+Halberd"><b>龙戟</b></a>
     - <b>[希芙拉河]</b><b>[信仰者森林]</b>上方的Boss<b>[龙人士兵]</b>掉落。
     - 失色
   - id: '25_15'
-    icon: /img/icons/weapons/halberds/10690.png
+    icon: img/icons/weapons/halberds/10690.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Loretta's+War+Sickle"><b>罗蕾塔的战镰</b></a>
     - <b>[“圣树分枝”艾布雷菲尔]</b>的<b>[“圣树骑士”罗蕾塔]</b>掉落。
     - 失色
   - id: '25_16'
-    icon: /img/icons/weapons/halberds/10684.png
+    icon: img/icons/weapons/halberds/10684.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Commander's+Standard"><b>老将的军旗</b></a>
     - <b>[艾奥尼亚中心地]</b>的<b>[老将欧尼尔]</b>掉落。
@@ -1766,25 +1766,25 @@ sections:
   - 锻造石
   items:
   - id: '26_1'
-    icon: /img/icons/weapons/reapers/10720.png
+    icon: img/icons/weapons/reapers/10720.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Scythe"><b>大镰刀</b></a>
     - <b>[湖之利耶尼亚]</b>中<b>[断崖下的地下墓地]</b>的终点找到。
     - 普通
   - id: '26_2'
-    icon: /img/icons/weapons/reapers/10721.png
+    icon: img/icons/weapons/reapers/10721.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Grave+Scythe"><b>墓地大镰刀</b></a>
     - 使用此武器的骷髅法师掉落。可以在<b>赐福[傍湖断崖]</b>以西的墓地找到3个。
     - 普通
   - id: '26_3'
-    icon: /img/icons/weapons/reapers/10722.png
+    icon: img/icons/weapons/reapers/10722.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Halo+Scythe"><b>光环镰刀</b></a>
     - 挥舞此武器的尊腐骑士掉落。在<b>[盖利德]</b>的<b>[老将欧尼尔]</b>Boss区域附近可以找到一些。
     - 失色
   - id: '26_4'
-    icon: /img/icons/weapons/reapers/10726.png
+    icon: img/icons/weapons/reapers/10726.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Winged+Scythe"><b>展翼镰刀</b></a>
     - <b>[啜泣半岛]</b>的<b>[灵庙原野的废墟]</b>的一个宝箱里。
@@ -1797,37 +1797,37 @@ sections:
   - 锻造石
   items:
   - id: '27_1'
-    icon: /img/icons/weapons/whips/10760.png
+    icon: img/icons/weapons/whips/10760.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Whip"><b>软鞭</b></a>
     - 可以在<b>[摩恩城]</b>建筑底层找到，从屋顶的一个开口跳到木梁上往下掉。
     - 普通
   - id: '27_2'
-    icon: /img/icons/weapons/whips/10762.png
+    icon: img/icons/weapons/whips/10762.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Thorned+Whip"><b>荆棘鞭</b></a>
     - 在<b>[巨人山顶]</b>北方的火焰主教掉落。
     - 普通
   - id: '27_3'
-    icon: /img/icons/weapons/whips/10767.png
+    icon: img/icons/weapons/whips/10767.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Urumi"><b>软鞭剑</b></a>
     - 在<b>[卡利亚城寨]</b>的一具尸体上找到，就在通往<b>[城寨上部]</b>电梯的楼梯前下落到的屋顶的东边。
     - 普通
   - id: '27_4'
-    icon: /img/icons/weapons/whips/10765.png
+    icon: img/icons/weapons/whips/10765.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Hoslow's+Petal+Whip"><b>霍斯劳花瓣鞭</b></a>
     - <b>[火山官邸]</b>任务线最后的奖励。<b>[骑士狄亚罗斯]</b>任务线的奖励。
     - 普通
   - id: '27_5'
-    icon: /img/icons/weapons/whips/10763.png
+    icon: img/icons/weapons/whips/10763.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Magma+Whip+Candlestick"><b>熔岩烛台鞭</b></a>
     - 完成<b>[帕奇]</b>在<b>[火山官邸]</b>的任务后给予。
     - 失色
   - id: '27_6'
-    icon: /img/icons/weapons/whips/10766.png
+    icon: img/icons/weapons/whips/10766.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Giant's+Red+Braid"><b>巨人红发鞭</b></a>
     - <b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处用<b>[火焰巨人的追忆]</b>交换。
@@ -1840,55 +1840,55 @@ sections:
   - 锻造石
   items:
   - id: '28_1'
-    icon: /img/icons/weapons/fists/10800.png
+    icon: img/icons/weapons/fists/10800.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Caestus"><b>搏击手套</b></a>
     - 在获得<b>[史东薇尔城]</b>的<b>[生锈钥匙]</b>后，从<b>[门卫葛托克]</b>处以800卢恩购买
     - 普通
   - id: '28_2'
-    icon: /img/icons/weapons/fists/10801.png
+    icon: img/icons/weapons/fists/10801.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Spiked+Caestus"><b>棘刺搏击手套</b></a>
     - <b>[盖利德]</b>北部<b>[隐居商人的破屋]</b>的<b>[隐居商人]</b>4,000卢恩出售
     - 普通
   - id: '28_3'
-    icon: /img/icons/weapons/fists/10809.png
+    icon: img/icons/weapons/fists/10809.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Katar"><b>拳剑</b></a>
     - 在<b>[盖利德]</b><b>[盖尔要塞]</b>西南部的宝箱中找到。
     - 普通
   - id: '28_4'
-    icon: /img/icons/weapons/fists/10807.png
+    icon: img/icons/weapons/fists/10807.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Iron+Ball"><b>铁球拳套</b></a>
     - <b>[流氓]</b>掉落。可以在他任务线任何时候杀了他，或者到最后他被<b>[食粪者]</b>杀死
     - 普通
   - id: '28_5'
-    icon: /img/icons/weapons/fists/10808.png
+    icon: img/icons/weapons/fists/10808.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Star+Fist"><b>晨星拳套</b></a>
     - <b>[王城罗德尔]</b>竞技场最左边的开口内的尸体上。
     - 普通
   - id: '28_6'
-    icon: /img/icons/weapons/fists/10810.png
+    icon: img/icons/weapons/fists/10810.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Clinging+Bone"><b>攀附手骨</b></a>
     - <b>[圆桌厅堂]</b>击杀入侵NPC<b>[“王骸”恩夏]</b>掉落。找到任意半个迪可达斯符节后传送到<b>[圆桌厅堂]</b>触发入侵。
     - 失色
   - id: '28_7'
-    icon: /img/icons/weapons/fists/10811.png
+    icon: img/icons/weapons/fists/10811.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Veteran's+Prosthesis"><b>老将的义足</b></a>
     - <b>[巨人山顶]</b><b>[索尔城]</b>的<b>[老将尼奥]</b>掉落。
     - 失色
   - id: '28_8'
-    icon: /img/icons/weapons/fists/10812.png
+    icon: img/icons/weapons/fists/10812.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Cipher+Pata"><b>秘文帕塔剑</b></a>
     - 在<b>[圆桌厅堂]</b><b>[“发狂之舌”阿尔佩利希]</b>入侵大厅左边的房间中找到。
     - 失色
   - id: '28_9'
-    icon: /img/icons/weapons/fists/10806.png
+    icon: img/icons/weapons/fists/10806.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Grafted+Dragon"><b>接肢飞龙</b></a>
     - <b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处用<b>[接肢的追忆]</b>交换。
@@ -1901,25 +1901,25 @@ sections:
   - 锻造石
   items:
   - id: '4_1'
-    icon: /img/icons/weapons/claws/10840.png
+    icon: img/icons/weapons/claws/10840.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Hookclaws"><b>钩爪</b></a>
     - 在<b>[史东薇尔城]</b>的酒窖部分的一个装满桶的房间后面的尸体上找到。
     - 普通
   - id: '4_2'
-    icon: /img/icons/weapons/claws/10841.png
+    icon: img/icons/weapons/claws/10841.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Venomous+Fang"><b>毒蛇牙</b></a>
     - 在<b>[盖利德]</b><b>[废弃洞窟]</b>北部找到。
     - 普通
   - id: '4_3'
-    icon: /img/icons/weapons/claws/10842.png
+    icon: img/icons/weapons/claws/10842.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Bloodhound+Claws"><b>猎犬弯爪</b></a>
     - 在<b>[火山官邸]</b>地窖中的<b>[猎犬骑士]</b>掉落，可以通过<b>[火山官邸]</b>的幻影墙到达地窖。
     - 普通
   - id: '4_4'
-    icon: /img/icons/weapons/claws/10843.png
+    icon: img/icons/weapons/claws/10843.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Raptor+Talons"><b>猛禽钩爪</b></a>
     - <b>[亚坛高原]</b><b>[贤者的洞窟]</b>内众多宝箱中的一个。
@@ -1932,31 +1932,31 @@ sections:
   - 锻造石
   items:
   - id: '11_1'
-    icon: /img/icons/weapons/lightbows/11000.png
+    icon: img/icons/weapons/lightbows/11000.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Shortbow"><b>短弓</b></a>
     - 盗贼职业初始自带。<b>[宁姆格福]</b><b>[海岸洞窟]</b>以南的<b>[流浪民族的商人]</b>卖600卢恩。
     - 普通
   - id: '11_2'
-    icon: /img/icons/weapons/lightbows/11005.png
+    icon: img/icons/weapons/lightbows/11005.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Composite+Bow"><b>复合弓</b></a>
     - <b>[湖之利耶尼亚]</b><b>[彼鲁姆教堂]</b>的<b>[流浪民族的商人]</b>卖3,500卢恩
     - 普通
   - id: '11_3'
-    icon: /img/icons/weapons/lightbows/11002.png
+    icon: img/icons/weapons/lightbows/11002.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Red+Branch+Shortbow"><b>红木短弓</b></a>
     - 挥舞着这把武器的随从掉落。在<b>赐福[王城东边城墙]</b>的神谕众使者后有一个。
     - 普通
   - id: '11_4'
-    icon: /img/icons/weapons/lightbows/11001.png
+    icon: img/icons/weapons/lightbows/11001.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Misbegotten+Shortbow"><b>混种小弓</b></a>
     - <b>[啜泣半岛]</b><b>[摩恩城]</b>飞行的混种掉落。
     - 普通
   - id: '11_5'
-    icon: /img/icons/weapons/lightbows/11003.png
+    icon: img/icons/weapons/lightbows/11003.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Harp+Bow"><b>竖琴弓</b></a>
     - 解决<b>[绘画《英雄之歌》]</b>的奖励。画可以在<b>[日荫城]</b>找到。
@@ -1969,43 +1969,43 @@ sections:
   - 锻造石
   items:
   - id: '10_1'
-    icon: /img/icons/weapons/bows/11040.png
+    icon: img/icons/weapons/bows/11040.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Longbow"><b>长弓</b></a>
     - 武士职业初始自带。<b>[圆桌厅堂]</b><b>[孪生老妪]</b>卖1,200卢恩。
     - 普通
   - id: '10_2'
-    icon: /img/icons/weapons/bows/11041.png
+    icon: img/icons/weapons/bows/11041.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Albinauric+Bow"><b>白金弓</b></a>
     - 白金狼骑弓箭手掉落，在<b>[化圣雪原]</b>可以找到。
     - 普通
   - id: '10_7'
-    icon: /img/icons/weapons/bows/11047.png
+    icon: img/icons/weapons/bows/11047.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Black+Bow"><b>黑弓</b></a>
     - 在<b>赐福[大道旁露台]</b>东北方向屋顶上的一具尸体上。
     - 普通
   - id: '10_6'
-    icon: /img/icons/weapons/bows/11046.png
+    icon: img/icons/weapons/bows/11046.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Pulley+Bow"><b>滑轮弓</b></a>
     - 在<b>赐福[格密尔火山（第１休息站）]</b>附近的一具机动攻城塔的尸体上发现。
     - 失色
   - id: '10_3'
-    icon: /img/icons/weapons/bows/11042.png
+    icon: img/icons/weapons/bows/11042.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Horn+Bow"><b>角弓</b></a>
     - 可以在<b>[希芙拉河]</b>通往<b>[角骸灵地]</b>的楼梯下发现。
     - 失色
   - id: '10_5'
-    icon: /img/icons/weapons/bows/11044.png
+    icon: img/icons/weapons/bows/11044.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Serpent+Bow"><b>蛇弓</b></a>
     - 在<b>[盖利德]</b><b>[废弃洞窟]</b>以北的<b>[艾奥尼亚沼泽]</b>中找到。
     - 失色
   - id: '10_4'
-    icon: /img/icons/weapons/bows/11043.png
+    icon: img/icons/weapons/bows/11043.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Erdtree+Bow"><b>黄金树弓</b></a>
     - 在<b>赐福[黄金树大教堂]</b>二楼的一个箱子里找到，从外面爬上树根后从屋顶打开的窗户进去。
@@ -2018,25 +2018,25 @@ sections:
   - 锻造石
   items:
   - id: '12_1'
-    icon: /img/icons/weapons/greatbows/11084.png
+    icon: img/icons/weapons/greatbows/11084.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Greatbow"><b>大弓</b></a>
     - 在<b>[亚坛高原]</b>中<b>[王城罗德尔]</b>以北的<b>[大道监视塔]</b>的最上层的宝箱中。使用此武器的拉塔恩骑士也掉落。
     - 普通
   - id: '12_2'
-    icon: /img/icons/weapons/greatbows/11081.png
+    icon: img/icons/weapons/greatbows/11081.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Golem+Greatbow"><b>魔像大弓</b></a>
     - 挥舞这把武器的巨大魔像掉落，在<b>[盖利德]</b>去竞技场的路上可以找到2个，通过大电梯到达<b>[亚坛高原]</b>后门口有1个。
     - 失色
   - id: '12_3'
-    icon: /img/icons/weapons/greatbows/11083.png
+    icon: img/icons/weapons/greatbows/11083.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Erdtree+Greatbow"><b>黄金树大弓</b></a>
     - <b>[边境英雄墓地]</b>击落天花板上的巨大罐子摧毁战车后掉落。
     - 失色
   - id: '12_4'
-    icon: /img/icons/weapons/greatbows/11080.png
+    icon: img/icons/weapons/greatbows/11080.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Lion+Greatbow"><b>狮子大弓</b></a>
     - <b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处用<b>[碎星的追忆]</b>交换。
@@ -2049,43 +2049,43 @@ sections:
   - 锻造石
   items:
   - id: '7_1'
-    icon: /img/icons/weapons/crossbows/11120.png
+    icon: img/icons/weapons/crossbows/11120.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Soldier's+Crossbow"><b>士兵弩</b></a>
     - 所有使用此武器的步兵掉落。
     - 普通
   - id: '7_2'
-    icon: /img/icons/weapons/crossbows/11121.png
+    icon: img/icons/weapons/crossbows/11121.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Light+Crossbow"><b>轻弩</b></a>
     - <b>赐福[摩恩城（城墙前方）]</b>的<b>[流浪民族的商人]</b>卖1,500卢恩
     - 普通
   - id: '7_3'
-    icon: /img/icons/weapons/crossbows/11122.png
+    icon: img/icons/weapons/crossbows/11122.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Heavy+Crossbow"><b>重弩</b></a>
     - <b>[风暴山丘]</b>前面的<b>赐福[关卡前方]</b>上的一些士兵有几率掉落。
     - 普通
   - id: '7_6'
-    icon: /img/icons/weapons/crossbows/11125.png
+    icon: img/icons/weapons/crossbows/11125.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Arbalest"><b>钢弩</b></a>
     - 在<b>[史东薇尔城]</b>充满火焰喷射器的院子附近小恶魔像封印的雾墙后的一具尸体上，里面还有<b>[神皮祷告书]</b>。
     - 失色
   - id: '7_7'
-    icon: /img/icons/weapons/crossbows/11128.png
+    icon: img/icons/weapons/crossbows/11128.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Crepus's+Black-Key+Crossbow"><b>克雷普的黑键</b></a>
     - 在<b>[圆桌厅堂]</b>的第一个小恶魔像封印的雾墙后。
     - 失色
   - id: '7_4'
-    icon: /img/icons/weapons/crossbows/11123.png
+    icon: img/icons/weapons/crossbows/11123.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Pulley+Crossbow"><b>滑轮弩</b></a>
     - 在<b>[格密尔火山]</b><b>[匠人的破屋]</b>旁找到。
     - 失色
   - id: '7_5'
-    icon: /img/icons/weapons/crossbows/11124.png
+    icon: img/icons/weapons/crossbows/11124.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Full+Moon+Crossbow"><b>圆月弩</b></a>
     - 在<b>[魔法学院雷亚卢卡利亚]</b>的<b>赐福[讨论室]</b>往前的屋顶区域。
@@ -2098,13 +2098,13 @@ sections:
   - 锻造石
   items:
   - id: '2_1'
-    icon: /img/icons/weapons/ballistas/11160.png
+    icon: img/icons/weapons/ballistas/11160.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Hand+Ballista"><b>携带型弩炮</b></a>
     - 在<b>[啜泣半岛]</b><b>[献祭大桥]</b>西边<b>[森林监视塔]</b>上的宝箱里。
     - 普通
   - id: '2_2'
-    icon: /img/icons/weapons/ballistas/11161.png
+    icon: img/icons/weapons/ballistas/11161.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Jar+Cannon"><b>壶大炮</b></a>
     - <b>[格密尔火山]</b>北部<b>[火山洞窟]</b>的<b>[“亚人女王”玛格]</b>掉落。
@@ -2117,109 +2117,109 @@ sections:
   - 锻造石
   items:
   - id: '29_1'
-    icon: /img/icons/weapons/glintstonestaffs/11206.png
+    icon: img/icons/weapons/glintstonestaffs/11206.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Astrologer's+Staff"><b>观星杖</b></a>
     - 观星者职业初始自带。<b>赐福[利耶尼亚湖（湖边）]</b>附近的<b>[流浪民族的商人]</b>卖600卢恩。
     - 普通
   - id: '29_2'
-    icon: /img/icons/weapons/glintstonestaffs/11200.png
+    icon: img/icons/weapons/glintstonestaffs/11200.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Glintstone+Staff"><b>辉石杖</b></a>
     - 囚犯职业初始自带。由权贵魔法师掉落，在<b>[驿站街遗迹]</b>的南边有一个，在<b>[王室领地废墟]</b>有许多。
     - 普通
   - id: '29_3'
-    icon: /img/icons/weapons/glintstonestaffs/11212.png
+    icon: img/icons/weapons/glintstonestaffs/11212.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Academy+Glintstone+Staff"><b>学院辉石杖</b></a>
     - 完成<b>[魔法师托普斯]</b>任务线的奖励，<b>[魔法学院雷亚卢卡利亚]</b>学院的任何辉石魔法师也能掉落。
     - 普通
   - id: '29_4'
-    icon: /img/icons/weapons/glintstonestaffs/11205.png
+    icon: img/icons/weapons/glintstonestaffs/11205.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Digger's+Staff"><b>挖石杖</b></a>
     - <b>[瑟利亚结晶坑道]</b>的魔法矿工掉落。
     - 普通
   - id: '29_5'
-    icon: /img/icons/weapons/glintstonestaffs/11203.png
+    icon: img/icons/weapons/glintstonestaffs/11203.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Demi-Human+Queen's+Staff"><b>亚人女王杖</b></a>
     - <b>[亚人森林的废墟]</b>的亚人女王掉落。
     - 普通
   - id: '29_6'
-    icon: /img/icons/weapons/glintstonestaffs/11214.png
+    icon: img/icons/weapons/glintstonestaffs/11214.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Azur's+Glintstone+Staff"><b>亚兹勒的辉石杖</b></a>
     - 打开<b>[杜鹃教堂]</b>的梯子捷径后，你可以在充满辉石水晶的房间找到，在上层通过一个门口往东。
     - 失色
   - id: '29_7'
-    icon: /img/icons/weapons/glintstonestaffs/11215.png
+    icon: img/icons/weapons/glintstonestaffs/11215.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Lusat's+Glintstone+Staff"><b>卢瑟特的辉石杖</b></a>
     - 在<b>[盖利德]</b>与<b>[魔法镇瑟利亚]</b>的双诺克斯Boss战斗后的一个箱子中发现。
     - 失色
   - id: '29_9'
-    icon: /img/icons/weapons/glintstonestaffs/11211.png
+    icon: img/icons/weapons/glintstonestaffs/11211.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Carian+Glintstone+Staff"><b>卡利亚辉石杖</b></a>
     - 可以在<b>[湖之利耶尼亚]</b><b>[卡利亚书斋]</b>找到，就在第2个电梯前。
     - 失色
   - id: '29_8'
-    icon: /img/icons/weapons/glintstonestaffs/11208.png
+    icon: img/icons/weapons/glintstonestaffs/11208.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Carian+Glintblade+Staff"><b>卡利亚辉剑杖</b></a>
     - 在<b>[湖之利耶尼亚]</b>东部<b>[大道监视塔]</b>的顶部发现。
     - 失色
   - id: '29_10'
-    icon: /img/icons/weapons/glintstonestaffs/11204.png
+    icon: img/icons/weapons/glintstonestaffs/11204.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Carian+Regal+Scepter"><b>卡利亚权杖</b></a>
     - <b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处用<b>[满月女王的追忆]</b>交换
     - 失色
   - id: '29_11'
-    icon: /img/icons/weapons/glintstonestaffs/11210.png
+    icon: img/icons/weapons/glintstonestaffs/11210.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Albinauric+Staff"><b>白金杖</b></a>
     - 在<b>[火山官邸]</b><b>赐福[迎宾厅]</b>附近的<b>[恶兆猎人]</b>掉落。
     - 失色
   - id: '29_12'
-    icon: /img/icons/weapons/glintstonestaffs/11219.png
+    icon: img/icons/weapons/glintstonestaffs/11219.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Staff+of+Loss"><b>丧失杖</b></a>
     - 在<b>[盖利德]</b><b>[魔法镇瑟利亚]</b>阳台上的一具尸体上。
     - 失色
   - id: '29_13'
-    icon: /img/icons/weapons/glintstonestaffs/11202.png
+    icon: img/icons/weapons/glintstonestaffs/11202.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Gelmir+Glintstone+Staff"><b>格密尔辉石杖</b></a>
     - 在<b>[火山官邸]</b>正殿上方挥舞着这个武器的蛇人掉落。
     - 失色
   - id: '29_14'
-    icon: /img/icons/weapons/glintstonestaffs/11201.png
+    icon: img/icons/weapons/glintstonestaffs/11201.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Crystal+Staff"><b>结晶杖</b></a>
     - 在<b>[学院结晶洞窟]</b>Boss雾门前被魔法师守卫的房间里。
     - 失色
   - id: '29_15'
-    icon: /img/icons/weapons/glintstonestaffs/11218.png
+    icon: img/icons/weapons/glintstonestaffs/11218.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rotten+Crystal+Staff"><b>腐败结晶杖</b></a>
     - <b>[“圣树分枝”艾布雷菲尔]</b>的结晶人掉落。
     - 失色
   - id: '29_16'
-    icon: /img/icons/weapons/glintstonestaffs/11216.png
+    icon: img/icons/weapons/glintstonestaffs/11216.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Meteorite+Staff"><b>陨石杖</b></a>
     - 在<b>[盖利德]</b>西部<b>[贤者镇的废墟]</b>边缘的一具尸体上。
     - 失色
   - id: '29_17'
-    icon: /img/icons/weapons/glintstonestaffs/11217.png
+    icon: img/icons/weapons/glintstonestaffs/11217.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Staff+of+the+Guilty"><b>罪人杖</b></a>
     - 在<b>[格密尔火山]</b>的<b>[莱多要塞]</b>处挥舞此武器的敌人掉落
     - 失色
   - id: '29_18'
-    icon: /img/icons/weapons/glintstonestaffs/11209.png
+    icon: img/icons/weapons/glintstonestaffs/11209.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Prince+of+Death's+Staff"><b>死王子杖</b></a>
     - 在<b>[深根底层]</b>中找到。顺着这条小路沿着树根往上走，在第一个水池左转，继续走到塔。
@@ -2232,55 +2232,55 @@ sections:
   - 锻造石
   items:
   - id: '30_1'
-    icon: /img/icons/weapons/sacredseals/11240.png
+    icon: img/icons/weapons/sacredseals/11240.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Finger+Seal"><b>指头圣印记</b></a>
     - 密使和预言家职业初始自带。<b>[孪生老妪]</b>卖600卢恩。
     - 普通
   - id: '30_2'
-    icon: /img/icons/weapons/sacredseals/11246.png
+    icon: img/icons/weapons/sacredseals/11246.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Erdtree+Seal"><b>黄金树圣印记</b></a>
     - 在<b>赐福[牢镇教堂]</b>附近<b>[恶兆猎人]</b>后的尸体上发现的
     - 普通
   - id: '30_3'
-    icon: /img/icons/weapons/sacredseals/11247.png
+    icon: img/icons/weapons/sacredseals/11247.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Golden+Order+Seal"><b>黄金律法圣印记</b></a>
     - 在<b>[小黄金树教堂]</b>附近的一具尸体上。
     - 普通
   - id: '30_4'
-    icon: /img/icons/weapons/sacredseals/11243.png
+    icon: img/icons/weapons/sacredseals/11243.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Gravel+Stone+Seal"><b>碎石圣印记</b></a>
     - <b>赐福[王城西边城墙]</b>巨龙脚附近的罗德尔骑士掉落。
     - 普通
   - id: '30_5'
-    icon: /img/icons/weapons/sacredseals/11242.png
+    icon: img/icons/weapons/sacredseals/11242.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Giant's+Seal"><b>巨人圣印记</b></a>
     - 在<b>[巨人战争的英雄墓地]</b>地下室找到。
     - 普通
   - id: '30_6'
-    icon: /img/icons/weapons/sacredseals/11241.png
+    icon: img/icons/weapons/sacredseals/11241.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Godslayer's+Seal"><b>狩猎神祇圣印记</b></a>
     - 在<b>[史东薇尔城]</b><b>[“接肢”贵族后裔]</b>附近的小恶魔像封印的雾墙后找到。
     - 普通
   - id: '30_7'
-    icon: /img/icons/weapons/sacredseals/11244.png
+    icon: img/icons/weapons/sacredseals/11244.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Clawmark+Seal"><b>爪痕圣印记</b></a>
     - 给<b>[“野兽祭司”古兰格]</b>第一个<b>[死根]</b>的奖励
     - 普通
   - id: '30_8'
-    icon: /img/icons/weapons/sacredseals/11249.png
+    icon: img/icons/weapons/sacredseals/11249.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Frenzied+Flame+Seal"><b>癫火圣印记</b></a>
     - 完成<b>[“探寻灯火”海妲]</b>任务线的奖励
     - 失色
   - id: '30_9'
-    icon: /img/icons/weapons/sacredseals/11248.png
+    icon: img/icons/weapons/sacredseals/11248.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Dragon+Communion+Seal"><b>龙飨印记</b></a>
     - <b>[边境英雄墓地]</b>内由一个骑士守卫。
@@ -2293,37 +2293,37 @@ sections:
   - 锻造石
   items:
   - id: '31_1'
-    icon: /img/icons/weapons/torches/10920.png
+    icon: img/icons/weapons/torches/10920.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Torch"><b>火把</b></a>
     - <b>[“流浪商人”咖列]</b>卖200卢恩。
     - 普通
   - id: '31_2'
-    icon: /img/icons/weapons/torches/10927.png
+    icon: img/icons/weapons/torches/10927.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Beast-Repellent+Torch"><b>驱兽火把</b></a>
     - <b>[盖利德]</b><b>[隐居商人的破屋]</b>的商人卖1,200卢恩。
     - 普通
   - id: '31_3'
-    icon: /img/icons/weapons/torches/10922.png
+    icon: img/icons/weapons/torches/10922.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Steel-Wire+Torch"><b>钢丝火把</b></a>
     - <b>[摩恩城]</b>两个混种守卫的尸体上发现。
     - 普通
   - id: '31_4'
-    icon: /img/icons/weapons/torches/10928.png
+    icon: img/icons/weapons/torches/10928.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Sentry's+Torch"><b>哨兵火把</b></a>
     - <b>[亚坛高原]</b><b>[遁世商人的破屋]</b>的<b>[遁世商人]</b>卖7,000卢恩
     - 失色
   - id: '31_5'
-    icon: /img/icons/weapons/torches/10926.png
+    icon: img/icons/weapons/torches/10926.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ghostflame+Torch"><b>灵火火把</b></a>
     - 可以在进入<b>[“永恒之城”诺克隆恩]</b>后找到，通过<b>[星星坠落之地]</b>。在到达第一个屋顶部分后，跳上塔去拿到火把。
     - 失色
   - id: '31_6'
-    icon: /img/icons/weapons/torches/10924.png
+    icon: img/icons/weapons/torches/10924.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/St+Trina's+Torch"><b>托莉娜烛火</b></a>
     - 在<b>[巨人山顶]</b><b>[化圣雪原]</b>西南一辆大车后的宝箱中。
@@ -2336,103 +2336,103 @@ sections:
   - 锻造石
   items:
   - id: '32_4'
-    icon: /img/icons/weapons/smallshields/12003.png
+    icon: img/icons/weapons/smallshields/12003.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rickety+Shield"><b>半坏木盾</b></a>
     - 预言家职业初始自带，亚人族掉落。
     - 普通
   - id: '32_9'
-    icon: /img/icons/weapons/smallshields/12009.png
+    icon: img/icons/weapons/smallshields/12009.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Riveted+Wooden+Shield"><b>铁铆钉木盾</b></a>
     - 剑士职业初始自带。<b>[宁姆格福]</b>东部<b>[流浪民族的商人]</b>卖600卢恩
     - 普通
   - id: '32_10'
-    icon: /img/icons/weapons/smallshields/12010.png
+    icon: img/icons/weapons/smallshields/12010.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Blue-White+Wooden+Shield"><b>蓝白木盾</b></a>
     - 前往<b>[魔法学院雷亚卢卡利亚]</b>学院大门时，在建筑物周围发现。
     - 普通
   - id: '32_8'
-    icon: /img/icons/weapons/smallshields/12008.png
+    icon: img/icons/weapons/smallshields/12008.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Scripture+Wooden+Shield"><b>圣句木盾</b></a>
     - 观星者职业初始自带，在地下墓穴中带短弯刀和盾牌的骷髅掉落。
     - 普通
   - id: '32_7'
-    icon: /img/icons/weapons/smallshields/12007.png
+    icon: img/icons/weapons/smallshields/12007.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Red+Thorn+Roundshield"><b>红棘木盾</b></a>
     - 武士职业初始自带。<b>赐福[摩恩城（城墙前方）]</b>的<b>[流浪民族的商人]</b>卖600卢恩
     - 普通
   - id: '32_5'
-    icon: /img/icons/weapons/smallshields/12004.png
+    icon: img/icons/weapons/smallshields/12004.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Pillory+Shield"><b>枷锁盾</b></a>
     - 在<b>[牢狱洞窟]</b>小恶魔像封印的雾墙后。
     - 普通
   - id: '32_1'
-    icon: /img/icons/weapons/smallshields/12000.png
+    icon: img/icons/weapons/smallshields/12000.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Buckler"><b>小圆盾</b></a>
     - 强盗职业初始自带。当<b>[门卫葛托克]</b>成为商人后卖1,500卢恩。
     - 普通
   - id: '32_12'
-    icon: /img/icons/weapons/smallshields/12012.png
+    icon: img/icons/weapons/smallshields/12012.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Iron+Roundshield"><b>铁圆盾</b></a>
     - <b>[宁姆格福]</b><b>[海岸洞窟]</b>附近的<b>[流浪民族的商人]</b>卖900卢恩。
     - 普通
   - id: '32_13'
-    icon: /img/icons/weapons/smallshields/12013.png
+    icon: img/icons/weapons/smallshields/12013.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Gilded+Iron+Shield"><b>金黄铁盾</b></a>
     - 在<b>[啜泣半岛]</b><b>[巡礼教堂]</b>西边的尸体上。
     - 普通
   - id: '32_3'
-    icon: /img/icons/weapons/smallshields/12002.png
+    icon: img/icons/weapons/smallshields/12002.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Man-Serpent's+Shield"><b>蛇人盾</b></a>
     - <b>[火山官邸]</b>蛇人掉落。
     - 普通
   - id: '32_14'
-    icon: /img/icons/weapons/smallshields/12014.png
+    icon: img/icons/weapons/smallshields/12014.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ice+Crest+Shield"><b>冰纹铁盾</b></a>
     - 进入<b>[卡利亚城寨]</b>后在靠近东墙的一个石柱后面发现。
     - 普通
   - id: '32_11'
-    icon: /img/icons/weapons/smallshields/12011.png
+    icon: img/icons/weapons/smallshields/12011.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Rift+Shield"><b>裂缝盾</b></a>
     - 囚犯职业初始自带。<b>[彼鲁姆教堂]</b>北部的<b>[流浪民族的商人]</b>卖1,800卢恩。
     - 普通
   - id: '32_2'
-    icon: /img/icons/weapons/smallshields/12001.png
+    icon: img/icons/weapons/smallshields/12001.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Perfumer's+Shield"><b>调香师盾</b></a>
     - 使用此盾的调香师掉落。在<b>赐福[调香师的隐藏洞窟]</b>附近有2个。
     - 普通
   - id: '32_6'
-    icon: /img/icons/weapons/smallshields/12053.png
+    icon: img/icons/weapons/smallshields/12053.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Shield+of+the+Guilty"><b>罪人盾</b></a>
     - 在<b>[亚人森林的废墟]</b>的地窖里。
     - 普通
   - id: '32_16'
-    icon: /img/icons/weapons/smallshields/12019.png
+    icon: img/icons/weapons/smallshields/12019.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Spiralhorn+Shield"><b>旋角盾</b></a>
     - 在<b>[湖之利耶尼亚]</b><b>[群集灵庙]</b>沿湖岸向上走发现。
     - 普通
   - id: '32_15'
-    icon: /img/icons/weapons/smallshields/12015.png
+    icon: img/icons/weapons/smallshields/12015.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Smoldering+Shield"><b>熏烧盾</b></a>
     - 从<b>赐福[牢镇教堂]</b>左边出口向下，直到你到达一个封闭的岩浆墓地区域。盾牌在一具尸体。
     - 普通
   - id: '32_17'
-    icon: /img/icons/weapons/smallshields/12020.png
+    icon: img/icons/weapons/smallshields/12020.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Coil+Shield"><b>盘蛇盾</b></a>
     - 在<b>[火山洞窟]</b>从第一个大房间从最右边的口下落到悬崖下面，进入隧道，直到一个房间里的尸体上有盾。
@@ -2445,7 +2445,7 @@ sections:
   - 锻造石
   items:
   - id: '33_20'
-    icon: /img/icons/weapons/mediumshields/12063.png
+    icon: img/icons/weapons/mediumshields/12063.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Hawk+Crest+Wooden+Shield"><b>鹰纹木盾</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Stormveil+Castle"><b>[史东薇尔城]</b></a>:
@@ -2453,21 +2453,21 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=921&lat=-179.289062&lng=85.667942&zoom=8">[地图链接]</a>'
     - 普通
   - id: '33_17'
-    icon: /img/icons/weapons/mediumshields/12060.png
+    icon: img/icons/weapons/mediumshields/12060.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Horse+Crest+Wooden+Shield"><b>马纹木盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Murkwater+Cave"><b>[蒙流洞窟]</b></a>的<a
       href="https://eldenring.wiki.fextralife.com/Patches"><b>[帕奇]</b></a>在开店之后卖1,000卢恩。
     - 普通
   - id: '33_18'
-    icon: /img/icons/weapons/mediumshields/12061.png
+    icon: img/icons/weapons/mediumshields/12061.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Candletree+Wooden+Shield"><b>烛树纹木盾</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Sage's+Cave"><b>[贤者的洞窟]</b></a>一堵幻影墙后的一个箱子里。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5651&lat=-94.846875&lng=70.748085&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '33_19'
-    icon: /img/icons/weapons/mediumshields/12062.png
+    icon: img/icons/weapons/mediumshields/12062.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Flame+Crest+Wooden+Shield"><b>火纹木盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Weeping+Peninsula"><b>[啜泣半岛]</b></a><a
@@ -2475,7 +2475,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2551&lat=-212.75&lng=111.727476&zoom=8">[地图链接]</a>
     - 普通
   - id: '33_3'
-    icon: /img/icons/weapons/mediumshields/12042.png
+    icon: img/icons/weapons/mediumshields/12042.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Marred+Wooden+Shield"><b>侵蚀木盾</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Stormveil+Castle"><b>[史东薇尔城]</b></a>:
@@ -2483,14 +2483,14 @@ sections:
       然后从边缘下落到下面的窗台上。沿着岩壁向北，跳下到破碎的柱子上找到盾牌。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=6851&lat=-174.599999&lng=83.233625&zoom=8&code=mapA">[地图链接]</a>'
     - 普通
   - id: '33_6'
-    icon: /img/icons/weapons/mediumshields/12045.png
+    icon: img/icons/weapons/mediumshields/12045.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Sun+Realm+Shield"><b>太阳城盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Skeletons">骷髅剑士</a>掉落。一个刷取的好地方是在<b>[亚坛高原]</b>从<b>[遁世商人的破屋]</b>向东走一小段路，一个骷髅会爬出地面的。在<b>[圣人桥]</b>和<b>赐福[水唤村外]</b>之间的路上会有2个。另一个刷取的好地方是<b>[盖利德]</b>的<a
       href="https://eldenring.wiki.fextralife.com/Church+of+the+Plague"><b>[腐败病教堂]</b></a>。一共有7个，它们的距离很近，向北在墓地中有3个，然后向北到拱起的树根有2个，然后向北到另一个拱起的树根有2个。
     - 普通
   - id: '33_8'
-    icon: /img/icons/weapons/mediumshields/12047.png
+    icon: img/icons/weapons/mediumshields/12047.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Round+Shield"><b>圆盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Weeping+Peninsula"><b>[啜泣半岛]</b></a>东面的<a
@@ -2498,7 +2498,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=475&lat=-215.457813&lng=115.302844&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '33_16'
-    icon: /img/icons/weapons/mediumshields/12059.png
+    icon: img/icons/weapons/mediumshields/12059.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Large+Leather+Shield"><b>大皮盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Hero">勇者</a>职业初始自带。<a href="https://eldenring.wiki.fextralife.com/Limgrave"><b>[宁姆格福]</b></a><a
@@ -2507,7 +2507,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4&lat=-191.1875&lng=100.041878&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '33_27'
-    icon: /img/icons/weapons/mediumshields/12070.png
+    icon: img/icons/weapons/mediumshields/12070.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Black+Leather+Shield"><b>黑皮盾</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Caria+Manor"><b>[卡利亚城寨]</b></a>的<a
@@ -2516,7 +2516,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2920&lat=-107.4&lng=55.6&zoom=8&code=mapA">[地图链接]</a>'
     - 普通
   - id: '33_2'
-    icon: /img/icons/weapons/mediumshields/12041.png
+    icon: img/icons/weapons/mediumshields/12041.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Marred+Leather+Shield"><b>侵蚀皮盾</b></a>
     - 位于<a href="https://eldenring.wiki.fextralife.com/Stormveil+Castle"><b>[史东薇尔城]</b></a>。按照<a
@@ -2524,14 +2524,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=913&lat=-181.914062&lng=86.582291&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '33_26'
-    icon: /img/icons/weapons/mediumshields/12069.png
+    icon: img/icons/weapons/mediumshields/12069.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Heater+Shield"><b>熨斗形盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Vagabond">流浪骑士</a>职业初始自带。<a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a>的<a
       href="https://eldenring.wiki.fextralife.com/Twin+Maiden+Husks"><b>[孪生老妪]</b></a>卖1,500卢恩。
     - 普通
   - id: '33_23'
-    icon: /img/icons/weapons/mediumshields/12066.png
+    icon: img/icons/weapons/mediumshields/12066.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Blue+Crest+Heater+Shield"><b>蓝纹熨斗形盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Confessor">密使</a>职业初始自带。<a href="https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes"><b>[湖之利耶尼亚]</b></a>西北部<b>赐福[彼鲁姆教堂]</b>附近的<a
@@ -2539,35 +2539,35 @@ sections:
       <a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1574&lat=-113.40625&lng=64.55834&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '33_22'
-    icon: /img/icons/weapons/mediumshields/12065.png
+    icon: img/icons/weapons/mediumshields/12065.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Red+Crest+Heater+Shield"><b>红纹熨斗形盾</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Altus+Plateau"><b>[亚坛高原]</b></a>:
       位于<b>赐福[穿林大桥]</b>附近的<b>[流浪民族的商人]</b>卖2,500卢恩。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5806&code=mapA">[地图链接]</a>'
     - 普通
   - id: '33_21'
-    icon: /img/icons/weapons/mediumshields/12064.png
+    icon: img/icons/weapons/mediumshields/12064.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Beast+Crest+Heater+Shield"><b>兽纹熨斗形盾</b></a>
     - 在<b>赐福[圣人桥]</b>东部沿<b>[风暴山丘]</b>往西一个营地的宝箱里，由<a href="https://eldenring.wiki.fextralife.com/Godrick+Foot+Soldier">葛瑞克士兵</a>和一个<a
       href="https://eldenring.wiki.fextralife.com/Godrick+Knight">葛瑞克骑士</a>守卫。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=711&lat=-177.015625&lng=103.926527&zoom=8">[地图链接]</a>
     - 普通
   - id: '33_25'
-    icon: /img/icons/weapons/mediumshields/12068.png
+    icon: img/icons/weapons/mediumshields/12068.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Inverted+Hawk+Heater+Shield"><b>逆鹰纹熨斗形盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Siofra+River"><b>[希芙拉河]</b></a>。
       <b>赐福[希芙拉河（岸边）]</b>东南，爬上一座小山，经过3个敌人后在一具尸体上。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5720&lat=-184.43&lng=130.955&zoom=8&code=mapB">[地图链接]</a>
     - 普通
   - id: '33_24'
-    icon: /img/icons/weapons/mediumshields/12067.png
+    icon: img/icons/weapons/mediumshields/12067.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Eclipse+Crest+Heater+Shield"><b>日蚀纹熨斗形盾</b></a>
     - <b>赐福[灵庙原野地下墓地]</b>西南悬崖边的一个石台上。可以通过从<a href="https://eldenring.wiki.fextralife.com/Tombsward+Catacombs"><b>[灵庙原野地下墓地]</b></a>上方的区域下落抵达。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3023&lat=-211.585937&lng=103.691864&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '33_1'
-    icon: /img/icons/weapons/mediumshields/12040.png
+    icon: img/icons/weapons/mediumshields/12040.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Kite+Shield"><b>鸢形盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes"><b>[湖之利耶尼亚]</b></a>的<a
@@ -2575,7 +2575,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1367&lat=-166.823437&lng=77.24144&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '33_11'
-    icon: /img/icons/weapons/mediumshields/12050.png
+    icon: img/icons/weapons/mediumshields/12050.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Blue-Gold+Kite+Shield"><b>蓝金鸢形盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Limgrave"><b>[宁姆格福]</b></a>东边的<a
@@ -2583,21 +2583,21 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=812&lat=-192.109375&lng=120.629633&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '33_9'
-    icon: /img/icons/weapons/mediumshields/12048.png
+    icon: img/icons/weapons/mediumshields/12048.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Scorpion+Kite+Shield"><b>蝎纹鸢形盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Altus+Plateau"><b>[亚坛高原]</b></a><b>赐福[穿林大桥]</b>处的商人出售。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5806&lat=-90.5625&lng=90.852973&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '33_10'
-    icon: /img/icons/weapons/mediumshields/12049.png
+    icon: img/icons/weapons/mediumshields/12049.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Twinbird+Kite+Shield"><b>双鸟鸢形盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Hermit+Merchant's+Shack"><b>[遁世商人的破屋]</b>东面</a>晚上出现的<a
       href="https://eldenring.wiki.fextralife.com/Deathbird"><b>[死之鸟]</b></a>掉落。
     - 普通
   - id: '33_12'
-    icon: /img/icons/weapons/mediumshields/12051.png
+    icon: img/icons/weapons/mediumshields/12051.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Brass+Shield"><b>黄铜盾</b></a>
     - 拿着它的<a href="https://eldenring.wiki.fextralife.com/Godrick+Soldier">葛瑞克士兵</a>掉落。(231次击杀，2次掉落。掉落率约0.8%)。一个早期出现的位置是<a
@@ -2606,26 +2606,26 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Godrick+Soldier">葛瑞克士兵</a>在<a href="https://eldenring.wiki.fextralife.com/Gatefront+Ruins"><b>[关卡前废墟]</b></a>区域。有两个在路右边的一个小围栏里，一个拿着喇叭在路上，最后一个坐在附近的火旁。
     - 普通
   - id: '33_4'
-    icon: /img/icons/weapons/mediumshields/12043.png
+    icon: img/icons/weapons/mediumshields/12043.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Banished+Knight's+Shield"><b>失乡骑士盾</b></a>
     - 拿着它的<a href="https://eldenring.wiki.fextralife.com/Banished+Knight">失乡骑士</a>掉落。
     - 普通
   - id: '33_5'
-    icon: /img/icons/weapons/mediumshields/12044.png
+    icon: img/icons/weapons/mediumshields/12044.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Albinauric+Shield"><b>白金盾</b></a>
     - 使用此盾牌的白金之子掉落。有三个在<b>赐福[学院门前镇]</b>西北的教堂区。
     - 普通
   - id: '33_14'
-    icon: /img/icons/weapons/mediumshields/12006.png
+    icon: img/icons/weapons/mediumshields/12006.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Beastman's+Jar-Shield"><b>兽人壶盾</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula"><b>[逐渐崩毁的法姆·亚兹拉]</b></a><b>赐福[渐毁野兽墓（深处）]</b>旁边的房间里可以找到一个带这个盾牌的兽人。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8288&lat=-128.67&lng=213.81&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '33_15'
-    icon: /img/icons/weapons/mediumshields/12055.png
+    icon: img/icons/weapons/mediumshields/12055.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Carian+Knight's+Shield"><b>卡利亚骑士盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Raya+Lucaria+Academy"><b>[魔法学院雷亚卢卡利亚]</b></a>击败<a
@@ -2633,7 +2633,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2290&lat=-134.765625&lng=57.876013&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '33_7'
-    icon: /img/icons/weapons/mediumshields/12046.png
+    icon: img/icons/weapons/mediumshields/12046.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Silver+Mirrorshield"><b>白银盾</b></a>
     - 发现于<a href="https://eldenring.wiki.fextralife.com/Consecrated+Grounds"><b>[化圣雪原]</b></a>北部地区<a
@@ -2641,7 +2641,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2992&lat=-57.592188&lng=132.02672&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '33_13'
-    icon: /img/icons/weapons/mediumshields/12052.png
+    icon: img/icons/weapons/mediumshields/12052.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Great+Turtle+Shell"><b>大乌龟壳</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Weeping+Peninsula"><b>[啜泣半岛]</b></a>:
@@ -2655,21 +2655,21 @@ sections:
   - 锻造石
   items:
   - id: '34_24'
-    icon: /img/icons/weapons/greatshields/12107.png
+    icon: img/icons/weapons/greatshields/12107.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Wooden+Greatshield"><b>木制大盾</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Stormveil+Castle"><b>[史东薇尔城]</b></a>:
       在重兵把守的院落里从一具尸体上抢来的。最近的赐福点是<b>赐福[升降机旁房间]</b>。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=926&lat=-177.148437&lng=86.457862&zoom=8&code=mapA">[地图链接]</a>'
     - 普通
   - id: '34_25'
-    icon: /img/icons/weapons/greatshields/12108.png
+    icon: img/icons/weapons/greatshields/12108.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Lordsworn's+Shield"><b>君王军大盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Gatefront+Ruins"><b>[关卡前废墟]</b></a>带着它的<a
       href="https://eldenring.wiki.fextralife.com/Godrick+Soldier">葛瑞克士兵</a>掉落.
     - 普通
   - id: '34_5'
-    icon: /img/icons/weapons/greatshields/12084.png
+    icon: img/icons/weapons/greatshields/12084.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Briar+Greatshield"><b>铁棘大盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/The+Shaded+Castle"><b>[日荫城]</b></a>的<a
@@ -2677,21 +2677,21 @@ sections:
       href="https://eldenring.wiki.fextralife.com/interactive+map?id=2453&lat=-79.89&lng=79.70&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '34_13'
-    icon: /img/icons/weapons/greatshields/12095.png
+    icon: img/icons/weapons/greatshields/12095.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Spiked+Palisade+Shield"><b>钉墙盾</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Caelid"><b>[盖利德]</b></a><a href="https://eldenring.wiki.fextralife.com/Deep+Siofra+Well"><b>[希芙拉河的出口井]</b></a>西边一个魔像下的尸体上。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5603&lat=-166.75781&lng=135.98874&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '34_10'
-    icon: /img/icons/weapons/greatshields/12092.png
+    icon: img/icons/weapons/greatshields/12092.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Icon+Shield"><b>神圣绘画盾</b></a>
     - 在<a href="https://eldenring.wiki.fextralife.com/Woodfolk+Ruins"><b>[森林之民的废墟]</b></a>一个摇摇欲坠的建筑里发现。小心里面的敌人。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3206&lat=-85.76&lng=95.806&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '34_7'
-    icon: /img/icons/weapons/greatshields/12087.png
+    icon: img/icons/weapons/greatshields/12087.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Golden+Beast+Crest+Shield"><b>兽纹黄金盾</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Chapel+of+Anticipation"><b>[候王礼拜堂]</b></a>的<a
@@ -2700,7 +2700,7 @@ sections:
       玩家可以在游戏后期回到<b>[候王礼拜堂]</b>，仍然可以获得<b>[兽纹黄金盾]</b>。'
     - 普通
   - id: '34_14'
-    icon: /img/icons/weapons/greatshields/12097.png
+    icon: img/icons/weapons/greatshields/12097.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Manor+Towershield"><b>城寨塔盾</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Stormveil+Castle"><b>[史东薇尔城]</b></a>:
@@ -2709,21 +2709,21 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3848&lat=-175.81&lng=84.6&zoom=8&code=mapA">[地图链接]</a>'
     - 普通
   - id: '34_15'
-    icon: /img/icons/weapons/greatshields/12098.png
+    icon: img/icons/weapons/greatshields/12098.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Crossed-Tree+Towershield"><b>交错树塔盾</b></a>
     - <b>[亚坛高原]</b>西部的<a href="https://eldenring.wiki.fextralife.com/Nomadic+Merchant+West+Altus+Plateau"><b>[流浪民族的商人]</b></a>卖3,800卢恩。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5806&lat=-90.5625&lng=90.852973&zoom=8&code=mapA">[地图链接]</a>
     - 普通
   - id: '34_16'
-    icon: /img/icons/weapons/greatshields/12099.png
+    icon: img/icons/weapons/greatshields/12099.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Inverted+Hawk+Towershield"><b>逆鹰塔盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City"><b>赐福[“永恒之城”诺克隆恩]</b></a>外面游荡的<a
       href="https://eldenring.wiki.fextralife.com/Fallen+Hawks+Soldier">堕落鹰士兵</a>掉落。
     - 普通
   - id: '34_1'
-    icon: /img/icons/weapons/greatshields/12080.png
+    icon: img/icons/weapons/greatshields/12080.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Dragon+Towershield"><b>龙塔盾</b></a>
     - 从<a href="https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula"><b>[逐渐崩毁的法姆·亚兹拉]</b></a><b>赐福[龙教堂（屋顶）]</b>下楼梯，顺着梯子往南走。直到到达雷龙所在的开阔区域，东南方是一个小凉亭，凉亭的北面是下落后一直往东北方向走，直到你到达一座建筑。穿过大楼，爬上外面的梯子。在这个区域的东边缘有一个装有<b>[龙塔盾]</b>的宝箱，由一个<a
@@ -2731,20 +2731,20 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5712&code=mapA">[地图链接]</a>
     - 普通
   - id: '34_2'
-    icon: /img/icons/weapons/greatshields/12081.png
+    icon: img/icons/weapons/greatshields/12081.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Distinguished+Greatshield"><b>名门大盾</b></a>
     - <b>[遁世商人的破屋]</b>的<b>[遁世商人]</b>卖5,500卢恩.
     - 普通
   - id: '34_22'
-    icon: /img/icons/weapons/greatshields/12105.png
+    icon: img/icons/weapons/greatshields/12105.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Gilded+Greatshield"><b>金黄大盾</b></a>
     - 带着它的<a href="https://eldenring.wiki.fextralife.com/Godrick+Knight">葛瑞克骑士</a>掉落。在<a
       href="https://eldenring.wiki.fextralife.com/Gatefront+Ruins"><b>[关卡前废墟]</b></a>有一个。
     - 普通
   - id: '34_20'
-    icon: /img/icons/weapons/greatshields/12103.png
+    icon: img/icons/weapons/greatshields/12103.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Cuckoo+Greatshield"><b>杜鹃大盾</b></a>
     - '有机会从任何使用大盾的杜鹃骑士身上掉落: 如果从<a href="https://eldenring.wiki.fextralife.com/Bellum+Church"><b>[彼鲁姆教堂]</b></a>反跑，你可以攻击坐在这里的<a
@@ -2755,13 +2755,13 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Memory+of+Grace"><b>[赐福记忆]</b></a>才能传送回到赐福点。'
     - 普通
   - id: '34_18'
-    icon: /img/icons/weapons/greatshields/12101.png
+    icon: img/icons/weapons/greatshields/12101.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Redmane+Greatshield"><b>红狮子大盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Caelid"><b>[盖利德]</b></a>红狮子骑士掉落。一个可以在<b>赐福[不破大桥]</b>以西找到。沿着附近的悬崖边缘经过剑碑，下落到小平台，然后继续向西朝<b>[盖利德地下墓地]</b>走一小段距离。
     - 普通
   - id: '34_21'
-    icon: /img/icons/weapons/greatshields/12104.png
+    icon: img/icons/weapons/greatshields/12104.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Golden+Greatshield"><b>黄金大盾</b></a>
     - 带着它的近战<a href="https://eldenring.wiki.fextralife.com/Leyndell+Knight">罗德尔骑士</a>掉落(在近战中使用盾牌的弓箭骑士不会掉落盾牌)，大部分都能在<a
@@ -2770,14 +2770,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Artist's+Shack"><b>[画家的破屋]</b></a>南部可以找到一个，这是这个敌人最早出现的位置，但掉率似乎相对比较低一点。
     - 普通
   - id: '34_23'
-    icon: /img/icons/weapons/greatshields/12106.png
+    icon: img/icons/weapons/greatshields/12106.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Haligtree+Crest+Greatshield"><b>圣树纹大盾</b></a>
     - 挥舞着巨剑和盾牌的<a href="https://eldenring.wiki.fextralife.com/Haligtree+Knight">圣树骑士</a>几率掉落。这些骑士只能在<a
       href="https://eldenring.wiki.fextralife.com/Elphael+Brace+of+the+Haligtree"><b>[“圣树分枝”艾布雷菲尔]</b></a>教堂旁边的墓地底部找到。使用长矛或巨弓的骑士不会掉落(即使他们可以切换为巨剑)。
     - 普通
   - id: '34_3'
-    icon: /img/icons/weapons/greatshields/12082.png
+    icon: img/icons/weapons/greatshields/12082.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Crucible+Hornshield"><b>熔炉角盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Siofra+Aqueduct"><b>[希芙拉导水桥]</b></a>在桥上巡逻的<a
@@ -2785,7 +2785,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1597&lat=-172.296875&lng=133.539646&zoom=8&code=mapB">[地图链接]</a><br>在<b>赐福[城墙塔]</b>旁较小的<b>[熔炉骑士]</b>也可能掉落。向鸟的方向走，然后从柱子上跳到岩石上。骑士在悬崖底下。
     - 失色
   - id: '34_4'
-    icon: /img/icons/weapons/greatshields/12083.png
+    icon: img/icons/weapons/greatshields/12083.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Dragonclaw+Shield"><b>龙爪盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Capital+Outskirts"><b>[王城外围]</b></a>的<a
@@ -2793,13 +2793,13 @@ sections:
       href="https://eldenring.wiki.fextralife.com/interactive+map?id=2557&lat=-94.23437&lng=121.30933&zoom=8">[地图链接]</a>
     - 失色
   - id: '34_9'
-    icon: /img/icons/weapons/greatshields/12091.png
+    icon: img/icons/weapons/greatshields/12091.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Fingerprint+Stone+Shield"><b>指纹石盾</b></a>
     - 击败<b>[弃置恶兆的大教堂]</b>的<b>[“鲜血君王”蒙格]</b>后，你可以滚动/攻击宝箱后面的祭坛进入隐藏区域。顺着竖井往下走到一定的地方，进入嵌入墙壁的区域获得。
     - 普通
   - id: '34_19'
-    icon: /img/icons/weapons/greatshields/12102.png
+    icon: img/icons/weapons/greatshields/12102.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Eclipse+Crest+Greatshield"><b>日蚀纹大盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes"><b>[湖之利耶尼亚]</b></a>带着它的<a
@@ -2808,28 +2808,28 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs"><b>[黑刀地下墓地]</b></a>的骑士。
     - 普通
   - id: '34_17'
-    icon: /img/icons/weapons/greatshields/12100.png
+    icon: img/icons/weapons/greatshields/12100.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ant's+Skull+Plate"><b>蚂蚁头盾</b></a>
     - 可以在<a href="https://eldenring.wiki.fextralife.com/Nokstella,+Eternal+City"><b>[“永恒之城”诺克史黛拉]</b></a>的一个小房间里发现。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2752&lat=-125.20938&lng=67.06322&zoom=8&code=mapB">[地图链接]</a>
     - 失色
   - id: '34_6'
-    icon: /img/icons/weapons/greatshields/12086.png
+    icon: img/icons/weapons/greatshields/12086.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Erdtree+Greatshield"><b>黄金树大盾</b></a>
     - 击杀<b>[亚坛高原]</b>守卫着<b>赐福[城外幻影树]</b>外大门的双<a href="https://eldenring.wiki.fextralife.com/Tree+Sentinel"><b>[大树守卫]</b></a>掉落。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5718&lat=-102.148&lng=95.31023&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '34_8'
-    icon: /img/icons/weapons/greatshields/12090.png
+    icon: img/icons/weapons/greatshields/12090.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Jellyfish+Shield"><b>水母盾</b></a>
     - 位于<b>赐福[四钟楼山脚]</b>正北的一辆破马车上，旁边是一具尸体，周围有四只<a href="https://eldenring.wiki.fextralife.com/Spirit+Jellyfish">灵魂水母</a>。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5604&lat=-129.65&lng=43.80118&zoom=8&code=mapA">[地图链接]</a>
     - 失色
   - id: '34_12'
-    icon: /img/icons/weapons/greatshields/12094.png
+    icon: img/icons/weapons/greatshields/12094.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Visage+Shield"><b>颜面盾</b></a>
     - '<a href="https://eldenring.wiki.fextralife.com/Caelem+Ruins"><b>[奇列姆废墟]</b></a>:
@@ -2837,7 +2837,7 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Interactive+map?id=3012&lat=-172.078125&lng=135.61188&zoom=8&code=mapA">[地图链接]</a>'
     - 失色
   - id: '34_11'
-    icon: /img/icons/weapons/greatshields/12093.png
+    icon: img/icons/weapons/greatshields/12093.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/One-Eyed+Shield"><b>独眼盾</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants"><b>[巨人山顶]</b></a><a

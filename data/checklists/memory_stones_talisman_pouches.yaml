@@ -1,10 +1,10 @@
 title: 记忆石&护符皮袋
 id: memory_stones_talisman_pouches
-icon: /img/icons/keys/edited/00554.png
+icon: img/icons/keys/edited/00554.png
 sections:
 - title: 记忆石
-  icon: /img/icons/keys/edited/00553.png
-  map_icon: /map/icons/shadows/keys/00553.png
+  icon: img/icons/keys/edited/00553.png
+  map_icon: map/icons/shadows/keys/00553.png
   items:
   - id: '0_1'
     data:
@@ -63,8 +63,8 @@ sections:
     - 3031
     map_title: 记忆石
 - title: 护符皮袋
-  icon: /img/icons/keys/edited/00554.png
-  map_icon: /map/icons/shadows/keys/00554.png
+  icon: img/icons/keys/edited/00554.png
+  map_icon: map/icons/shadows/keys/00554.png
   items:
   - id: '1_2'
     data:

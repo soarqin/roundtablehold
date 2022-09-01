@@ -140,7 +140,7 @@
             new ol.layer.Tile({
                 preload: Infinity,
                 source: new ol.source.XYZ({
-                    url: '/map/tiles/{z}/{x}/{y}.png',
+                    url: 'map/tiles/{z}/{x}/{y}.png',
                     tileGrid: ertilegrid,
                     tileSize: [256, 256],
                     projection: projection,

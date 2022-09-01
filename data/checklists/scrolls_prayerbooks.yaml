@@ -1,12 +1,12 @@
 title: 卷轴&祷告书
 id: scrolls_prayerbooks
-icon: /img/icons/keys/edited/00318.png
+icon: img/icons/keys/edited/00318.png
 sections:
 - title: 卷轴
   items:
   - id: '0_1'
-    icon: /img/icons/keys/edited/00311.png
-    map_icon: /map/icons/shadows/keys/00311.png
+    icon: img/icons/keys/edited/00311.png
+    map_icon: map/icons/shadows/keys/00311.png
     data:
     - <b>[王室卷轴]</b> - <b>赐福[亚基尔湖南方]</b>以东，在一个法师怪旁边的废墟上。
     cords:
@@ -14,8 +14,8 @@ sections:
     - 7517
     map_title: 王室卷轴
   - id: '0_2'
-    icon: /img/icons/keys/edited/00310.png
-    map_icon: /map/icons/shadows/keys/00310.png
+    icon: img/icons/keys/edited/00310.png
+    map_icon: map/icons/shadows/keys/00310.png
     data:
     - <b>[学院卷轴]</b> - 在<b>赐福[傍湖断崖]</b>以西的一个墓地里。
     cords:
@@ -23,8 +23,8 @@ sections:
     - 6351
     map_title: 学院卷轴
   - id: '0_3'
-    icon: /img/icons/keys/edited/00310.png
-    map_icon: /map/icons/shadows/keys/00310.png
+    icon: img/icons/keys/edited/00310.png
+    map_icon: map/icons/shadows/keys/00310.png
     data:
     - <b>[教室卷轴]</b> - <b>[魔法学院雷亚卢卡利亚]</b>靠近<b>赐福[校舍内的教室]</b>，离开赐福的房间向左转进入建筑。
     cords:
@@ -34,8 +34,8 @@ sections:
 - title: 祷告书
   items:
   - id: '1_1'
-    icon: /img/icons/keys/edited/00319.png
-    map_icon: /map/icons/shadows/keys/00319.png
+    icon: img/icons/keys/edited/00319.png
+    map_icon: map/icons/shadows/keys/00319.png
     data:
     - <b>[刺客祷告书]</b> - 在<b>[圆桌厅堂]</b>中另一扇小恶魔雕像门的后面。总共需要3个石剑钥匙
     cords:
@@ -43,8 +43,8 @@ sections:
     - 8415
     map_title: 刺客祷告书
   - id: '1_2'
-    icon: /img/icons/keys/edited/00317.png
-    map_icon: /map/icons/shadows/keys/00317.png
+    icon: img/icons/keys/edited/00317.png
+    map_icon: map/icons/shadows/keys/00317.png
     data:
     - <b>[神皮祷告书]</b> - 在<b>[史东薇尔城]</b>的小恶魔雕像门后面。从<b>赐福[升降机旁房间]</b>进入庭院，靠着右边的墙走直到看到在另一边的墙上有一组楼梯。
     cords:
@@ -52,8 +52,8 @@ sections:
     - 6731
     map_title: 神皮祷告书
   - id: '1_3'
-    icon: /img/icons/keys/edited/00315.png
-    map_icon: /map/icons/shadows/keys/00315.png
+    icon: img/icons/keys/edited/00315.png
+    map_icon: map/icons/shadows/keys/00315.png
     data:
     - <b>[火焰习武修士祷告书]</b> - 在<b>[利耶尼亚]</b>南部边缘的火焰教众营地，靠近姿势<b>[愿火焰常在我心]</b>。
     cords:
@@ -61,8 +61,8 @@ sections:
     - 5961
     map_title: 火焰习武修士祷告书
   - id: '1_4'
-    icon: /img/icons/keys/edited/00324.png
-    map_icon: /map/icons/shadows/keys/00324.png
+    icon: img/icons/keys/edited/00324.png
+    map_icon: map/icons/shadows/keys/00324.png
     data:
     - <b>[龙信仰祷告书]</b> - 杀死在<b>[利耶尼亚]</b><b>赐福[画家的破屋]</b>以南巡逻的罗德尔骑士
     cords:
@@ -70,8 +70,8 @@ sections:
     - 5200
     map_title: 龙信仰祷告书
   - id: '1_5'
-    icon: /img/icons/keys/edited/00318.png
-    map_icon: /map/icons/shadows/keys/00318.png
+    icon: img/icons/keys/edited/00318.png
+    map_icon: map/icons/shadows/keys/00318.png
     data:
     - <b>[双指祷告书]</b> - 在<b>[王城罗德尔]</b>，靠近<b>赐福[城寨一楼]</b>，在南边的一个房子里壁炉旁。与姿势<b>[以剑立誓]</b>在同一个房间。
     cords:
@@ -79,8 +79,8 @@ sections:
     - 3627
     map_title: 双指祷告书
   - id: '1_8'
-    icon: /img/icons/keys/edited/00322.png
-    map_icon: /map/icons/shadows/keys/00322.png
+    icon: img/icons/keys/edited/00322.png
+    map_icon: map/icons/shadows/keys/00322.png
     data:
     - <b>[黄金律法原本]</b> - 在<b>[王城罗德尔]</b>，从<b>赐福[黄金树大教堂]</b>向东出去，爬上二楼穿过门，跳到左边的屋顶，再穿过那扇破窗户。爬到天花板上后的椅子上。
     cords:
@@ -88,8 +88,8 @@ sections:
     - 3698
     map_title: 黄金律法原本
   - id: '1_6'
-    icon: /img/icons/keys/edited/00316.png
-    map_icon: /map/icons/shadows/keys/00316.png
+    icon: img/icons/keys/edited/00316.png
+    map_icon: map/icons/shadows/keys/00316.png
     data:
     - <b>[巨人祷告书]</b> - 在<b>[巨人山顶]</b><b>[监视者要塞]</b>的顶部，<b>[“监视者之首”亚冈提]</b>后面的梯子爬上去。
     cords:
@@ -97,8 +97,8 @@ sections:
     - 2420
     map_title: 巨人祷告书
   - id: '1_7'
-    icon: /img/icons/keys/edited/00325.png
-    map_icon: /map/icons/shadows/keys/00325.png
+    icon: img/icons/keys/edited/00325.png
+    map_icon: map/icons/shadows/keys/00325.png
     data:
     - <b>[古龙祷告书]</b> - <b>[逐渐崩毁的法姆·亚兹拉]</b><b>赐福[渐毁野兽墓]</b>的西北的大厅中央。
     cords:
