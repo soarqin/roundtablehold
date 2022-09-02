@@ -125,6 +125,12 @@ sections:
     - <b>圣对蝎</b>
     - <b>[“吞噬褪色者”安娜塔西亚]</b>掉落
     - 能提升圣属性攻击力，但降低减伤率(圣属性攻击力在PvE和PvP中分别提高12%和8%; 物理伤害在PvE在PvP分别增加10%和15%)
+  - id: '11_1'
+    icon: /img/icons/talismans/18870.png
+    data:
+    - <b>战士壶碎片</b>
+    - 不完成<b>[“战士壶”亚历山大]</b>的任务线的情况下杀死他获得，可以选择在之后他出现的其他地点杀死他，但不能是在任务线结束的时候。
+    - 能提升战技的攻击力(10%)
 - title: 啜泣半岛
   table:
   - 名称
@@ -273,7 +279,7 @@ sections:
     icon: /img/icons/talismans/18170.png
     data:
     - <b>健壮角饰品</b>
-    - 在<b>[利耶尼亚]</b>东部的一具尸体上发现，<b>赐福[群集灵庙]</b>西边的悬崖上
+    - 在<b>[湖之利耶尼亚]</b>东部的一具尸体上发现，<b>赐福[群集灵庙]</b>西边的悬崖上
     - 能提升健壮度(+90)
   - id: '4_12'
     icon: /img/icons/talismans/18230.png
@@ -617,12 +623,6 @@ sections:
     - <b>源辉石刀</b>
     - 在<b>[观星废墟]</b>地下的一个宝箱中
     - 能减少魔法、祷告消耗的专注值，但减少血量上限(25%,15%)。
-  - id: '9_4'
-    icon: /img/icons/talismans/18542.png
-    data:
-    - <b>珍珠龙徽护符＋２</b>
-    - 在<b>赐福[圣树镇]</b>上方的尸体上发现
-    - 能更大幅提升物理以外的减伤率(9%)
   - id: '9_5'
     icon: /img/icons/talismans/18650.png
     data:
@@ -635,6 +635,12 @@ sections:
   - 位置
   - 效果
   items:
+  - id: '9_4'
+    icon: /img/icons/talismans/18542.png
+    data:
+    - <b>珍珠龙徽护符＋２</b>
+    - 在<b>赐福[圣树镇]</b>上方的尸体上发现
+    - 能更大幅提升物理以外的减伤率(9%)
   - id: '10_1'
     icon: /img/icons/talismans/18022.png
     data:
@@ -695,12 +701,6 @@ sections:
   - 位置
   - 效果
   items:
-  - id: '11_1'
-    icon: /img/icons/talismans/18870.png
-    data:
-    - <b>战士壶碎片</b>
-    - 完成<b>[“战士壶”亚历山大]</b>的任务线获得
-    - 能提升战技的攻击力(10%)
   - id: '11_2'
     icon: /img/icons/talismans/18871.png
     data:
