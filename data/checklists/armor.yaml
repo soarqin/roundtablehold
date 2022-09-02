@@ -235,7 +235,7 @@ sections:
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Guilty+Hood"><b>罪人风帽</b></a>
     - <b>[布质上衣]</b><a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1229&lat=-185.453125&lng=108.815045&zoom=8&code=mapA">[地图链接]</a>和<b>[布质长裤]</b><a
-      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1230&lat=-187.276563&lng=108.784055&zoom=8&code=mapA">[地图链接]</a>可以在<b>[蒙流洞窟]</b>中找到。他们在<b>[帕奇]</b>房间的宝箱里，触发他的Boss击杀他或者投降推进任务线后再打开宝箱。<b>[罪人风帽]</b>可以从<b>[格密尔火山]</b>中的<b>[流浪民族的商人]</b>500卢恩购买。<a
+      href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1230&lat=-187.276563&lng=108.784055&zoom=8&code=mapA">[地图链接]</a>可以在<b>[蒙流洞窟]</b>中找到。他们在<b>[帕奇]</b>房间的宝箱里，触发他的Boss战击杀他或者投降推进任务线后再打开宝箱。<b>[罪人风帽]</b>可以从<b>[格密尔火山]</b>中的<b>[流浪民族的商人]</b>500卢恩购买。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1332&lat=-80.8125&lng=70.236035&zoom=8">[地图链接]</a>
       <b>[罪人风帽]</b>也可以在皇家首都<b>赐福[大道旁露台]</b>以北下水道的尸体上发现。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=3839&lat=-100.5625&lng=115.871142&zoom=8&code=mapA">[地图链接]</a>
   - id: '39'
@@ -2522,7 +2522,7 @@ sections:
     icon: /img/icons/armor/14640.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Carian+Knight+Helm"><b>卡利亚骑士头盔</b></a>
-    - 在<b>[魔法学院雷亚卢卡利亚]</b>找到。从<b>赐福[杜鹃教堂]</b>触发并前往墓地区域，在大型旋转升降机所在的建筑大门入口的右侧，沿着墙往下看时，可以找到一个可以跳落的平台。在狭窄的小路上看到一群辉石僵尸正在膜拜一个雕像，雕像旁就是。<a
+    - 在<b>[魔法学院雷亚卢卡利亚]</b>找到。从<b>赐福[杜鹃教堂]</b>出发并前往墓地区域，在大型旋转升降机所在的建筑大门入口的右侧，沿着墙往下看时，可以找到一个可以跳落的平台。在狭窄的小路上看到一群辉石僵尸正在膜拜一个雕像，雕像旁就是。<a
       href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2308&lat=-136.484375&lng=56.395704&zoom=8&code=mapA">[地图链接]</a>
   - id: '397'
     icon: /img/icons/armor/14641.png
@@ -3225,7 +3225,7 @@ sections:
     icon: /img/icons/armor/13350.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Tree+Sentinel+Helm"><b>大树守卫头盔</b></a>
-    - 在<b>[亚雷萨英雄墓地]</b>获取，你需要摧毁三辆特定的战车。需要几个步骤:<br>1. 从第一个战车大厅触发沿着第二个坡道前两侧的开口向下。<br>2.
+    - 在<b>[亚雷萨英雄墓地]</b>获取，你需要摧毁三辆特定的战车。需要几个步骤:<br>1. 从第一个战车大厅出发沿着第二个坡道前两侧的开口向下。<br>2.
       在下面的房间里，往西走上台阶，然后在下一个走廊右转。沿着这条路走下去，你会来到一个很大的战车大厅，两辆战车几乎是并排行驶的，它们之间的距离很短。这些是你需要摧毁的战车。<br>3.
       沿着走廊一直走到尽头，在一些柱子后面有一个大坑。往下看，你会发现几根木梁，你可以掉到上面。<br>4. 抵达最低的横梁，你可以下落然后向南走向一个拱门，爬上后面的梯子到达另一个战车大厅。<br>5.
       等待战车向下，然后跑上斜坡，进入右边的房间，在那里你会发现一个火焰喷射器柱。击中柱子会激活双战车大厅中间的圆形金印，将战车从第三个大厅传送过来并与双战车相撞。<br>6.
