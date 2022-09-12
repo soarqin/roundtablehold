@@ -1733,7 +1733,6 @@
 "illusory_walls_3_3",
 "illusory_walls_3_4",
 "illusory_walls_3_5",
-"illusory_walls_3_6",
 "illusory_walls_4_1",
 "illusory_walls_4_2",
 "illusory_walls_5_1",
@@ -4110,7 +4109,7 @@ const caves_total = 205;
 var caves_checked = 0;
 const graces_total = 314;
 var graces_checked = 0;
-const illusory_walls_total = 26;
+const illusory_walls_total = 25;
 var illusory_walls_checked = 0;
 const weapons_total = 377;
 var weapons_checked = 0;

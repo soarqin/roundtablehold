@@ -220,11 +220,11 @@ window.progress = {
     ],
   },
   "illusory_walls": {
-    "total": [0, 26],
+    "total": [0, 25],
     "sections": [
       [0, 10],
       [0, 2],
-      [0, 6],
+      [0, 5],
       [0, 2],
       [0, 1],
       [0, 3],

@@ -120,12 +120,8 @@ sections:
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Sealed+Tunnel"><b>封印坑道</b></a>
     - 无
-    - 在<b>[王城罗德尔]</b>西门外的湖里有一个坑道，坑道看起来是封闭的，里面什么都没有，但打破其中一面幻影墙将打开一条通往新区域的路径。坑道会越挖越深，在每个隐藏区域的尽头都有另一堵幻影墙。
-  - id: '3_6'
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Sealed+Tunnel"><b>封印坑道</b></a>
-    - 无
-    - 第一堵是在召唤池和火场之间。下一堵是在一个装有铃珠的宝箱后面。在进入一个充满爆炸球敌人的房间后，你可以在楼梯间对面的一堆板条箱和桶后面发现一堵幻影墙
+    - 在<b>[王城罗德尔]</b>西门外的湖里有一个坑道，坑道看起来是封闭的，里面什么都没有，但打破幻影墙将打开一条通往新区域的路径。坑道会越挖越深，在每个隐藏区域的尽头都有另一堵幻影墙。
+      第一堵是在召唤池和火场之间。下一堵是在一个装有铃珠的宝箱后面。在进入一个有自爆敌人的房间后，你可以在楼梯间对面的一堆木箱和桶后面发现一堵幻影墙。
 - title: 弃置恶兆的地底
   link: https://eldenring.wiki.fextralife.com/Subterranean+Shunning-Grounds
   table:
@@ -172,7 +168,7 @@ sections:
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Giant-Conquering+Hero's+Grave"><b>巨人战争的英雄墓地</b></a>
     - <a href="https://eldenring.wiki.fextralife.com/Golden+Rune+(11)"><b>[黄金卢恩【１１】]</b></a>
-    - 从赐福出发，沿着走廊走，它就打开了，右转后在左边的平台。
+    - 从赐福出发，左转后沿着狭窄的走道走到开阔区域可以左转的位置，右手有一堵幻影墙。
   - id: '6_2'
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Giants'+Mountaintop+Catacombs"><b>巨人山顶地下墓地</b></a>
