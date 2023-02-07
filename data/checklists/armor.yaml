@@ -957,7 +957,7 @@ sections:
     icon: /img/icons/armor/14610.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ruler's+Mask"><b>领主面具</b></a>
-    - 可以在<b>[亚坛高原]</b>东北部<b>[弃置棺材]</b>西边一具尸体上找到，该尸体面朝下躺在一辆马车上。
+    - 可以在<b>[亚坛高原]</b>西边<b>[弃置棺材]</b>东北部一具尸体上找到，该尸体面朝下躺在一辆马车上。
   - id: '156'
     icon: /img/icons/armor/14611.png
     data:
