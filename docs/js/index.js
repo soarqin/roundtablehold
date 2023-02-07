@@ -2085,7 +2085,6 @@
 "npc_quests_32_5",
 "npc_quests_32_6",
 "npc_quests_32_7",
-"npc_quests_32_7_2",
 "npc_quests_32_8",
 "npc_quests_32_9",
 "npc_quests_32_9_1",
@@ -4099,7 +4098,7 @@ const playthrough_total = 663;
 var playthrough_checked = 0;
 const quest_order_tldr_total = 273;
 var quest_order_tldr_checked = 0;
-const npc_quests_total = 331;
+const npc_quests_total = 330;
 var npc_quests_checked = 0;
 const achievements_total = 42;
 var achievements_checked = 0;
