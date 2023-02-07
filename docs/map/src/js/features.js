@@ -13151,6 +13151,25 @@ const feature_data = [
       {
         "geometry": {
           "coordinates": [
+            5644,
+            896
+          ],
+          "type": "Point"
+        },
+        "id": "flasks_1_44",
+        "properties": {
+          "group": "flasks",
+          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon_size": 35,
+          "id": "flasks_1_44",
+          "link": "/checklists/flasks.html#item_1_44",
+          "title": "\u9ec4\u91d1\u79cd\u5b50"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             8469,
             4420
           ],
@@ -13220,6 +13239,25 @@ const feature_data = [
           "icon_size": 35,
           "id": "flasks_1_40",
           "link": "/checklists/flasks.html#item_1_40",
+          "title": "\u9ec4\u91d1\u79cd\u5b50"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            6914,
+            14445
+          ],
+          "type": "Point"
+        },
+        "id": "flasks_1_45",
+        "properties": {
+          "group": "flasks",
+          "icon": "/map/icons/shadows/bolstering/00383.png",
+          "icon_size": 35,
+          "id": "flasks_1_45",
+          "link": "/checklists/flasks.html#item_1_45",
           "title": "\u9ec4\u91d1\u79cd\u5b50"
         },
         "type": "Feature"

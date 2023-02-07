@@ -519,9 +519,9 @@ window.progress = {
     ],
   },
   "flasks": {
-    "total": [0, 55],
+    "total": [0, 57],
     "sections": [
-      [0, 43],
+      [0, 45],
       [0, 12],
     ],
   },

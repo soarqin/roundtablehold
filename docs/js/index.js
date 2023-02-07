@@ -1320,6 +1320,8 @@
 "flasks_1_41",
 "flasks_1_42",
 "flasks_1_43",
+"flasks_1_44",
+"flasks_1_45",
 "flasks_1_5",
 "flasks_1_6",
 "flasks_1_7",
@@ -4125,7 +4127,7 @@ const ashesofwar_total = 92;
 var ashesofwar_checked = 0;
 const spirit_ashes_total = 64;
 var spirit_ashes_checked = 0;
-const flasks_total = 55;
+const flasks_total = 57;
 var flasks_checked = 0;
 const crystal_tears_total = 32;
 var crystal_tears_checked = 0;
