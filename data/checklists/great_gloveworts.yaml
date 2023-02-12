@@ -1,0 +1,49 @@
+title: 大朵墓地铃兰
+id: great_gloveworts
+sections:
+- title: 大朵墓地铃兰
+  link: https://eldenring.wiki.fextralife.com/Great+Grave+Glovewort
+  icon: /img/icons/bolstering/02109.png
+  items:
+  - <a href="https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants">巨人山顶</a>
+  - id: '1'
+    data:
+    - 在<b>[巨人战争的英雄墓地]</b>地下隐藏区域，在Boss房间前两边的开口区域往下跳到达。
+  - <a href="https://eldenring.wiki.fextralife.com/Consecrated+Snowfield">化圣雪原</a>
+  - id: '2'
+    data:
+    - 杀死<b>[化圣雪原地下墓地]</b>的Boss<b>[腐败守墓斗士]</b>掉落两个。
+  - id: '3'
+    data:
+    - 杀死<b>[化圣雪原地下墓地]</b>的Boss<b>[腐败守墓斗士]</b>掉落两个。
+  - <a href="https://eldenring.wiki.fextralife.com/Miquella's+Haligtree">米凯拉的圣树</a>
+  - id: '4'
+    data:
+    - 从赐福<b>[排水通道]</b>往回出来向上到达一个小腐败胡，完成<b>[米莉森]</b>任务的地方，腐败湖中心腐败树灵出现的地方拾取。
+  - <a href="https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula">逐渐崩毁的法姆·亚兹拉</a>
+  - id: '5'
+    data:
+    - 从赐福<b>[渐毁野兽墓（深处）]</b>出发，下一个房间的外面跳上屋顶，进入破损的上层区域在一个棺材上拾取。
+  - id: '6'
+    data:
+    - 从赐福<b>[龙教堂]</b>出发，转身跳到下方的楼梯上，然后向上爬到阳台上并跳过浮空的石阶到达一个墓地，上方吊着三个骷髅守护着的棺材上拾取。
+- title: 大朵灵依墓地铃兰
+  link: https://eldenring.wiki.fextralife.com/Great+Ghost+Glovewort
+  icon: /img/icons/bolstering/02119.png
+  items:
+  - <a href="https://eldenring.wiki.fextralife.com/Ainsel+River">安瑟尔河</a>
+  - id: '7'
+    data:
+    - 赐福<b>[诺克史黛拉的龙人士兵]</b>旁边的宝箱。
+  - <a href="https://eldenring.wiki.fextralife.com/Night's+Sacred+Ground">黑夜神域</a>
+  - id: '8'
+    data:
+    - 在拾取<b>[猎杀指头刀]</b>的宝箱内。
+  - <a href="https://eldenring.wiki.fextralife.com/Ainsel+River+Main">安瑟尔河主流</a>
+  - id: '9'
+    data:
+    - 从赐福<b>[“永恒之城”诺克史黛拉]</b>出发左侧爬上楼梯穿过长廊再爬上前方有一个大铁球的楼梯后右转进入一个有大铁球陷阱的房间，在房间的宝箱里。
+  - <a href="https://eldenring.wiki.fextralife.com/Mohgwyn+Palace">蒙格温王朝</a>
+  - id: '10'
+    data:
+    - 赐福<b>[王朝庙（中段）]</b>往回黑暗的洞窟区域下方大量鲜血行尸包围着一朵。

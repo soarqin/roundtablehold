@@ -591,6 +591,13 @@ window.progress = {
       [0, 8],
     ],
   },
+  "great_gloveworts": {
+    "total": [0, 10],
+    "sections": [
+      [0, 6],
+      [0, 4],
+    ],
+  },
   "remembrances_mausoleums": {
     "total": [0, 52],
     "sections": [

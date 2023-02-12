@@ -1701,6 +1701,16 @@
 "graces_97",
 "graces_98",
 "graces_99",
+"great_gloveworts_1",
+"great_gloveworts_10",
+"great_gloveworts_2",
+"great_gloveworts_3",
+"great_gloveworts_4",
+"great_gloveworts_5",
+"great_gloveworts_6",
+"great_gloveworts_7",
+"great_gloveworts_8",
+"great_gloveworts_9",
 "great_runes_1_1",
 "great_runes_1_1r",
 "great_runes_1_2",
@@ -4142,6 +4152,8 @@ const cookbooks_total = 59;
 var cookbooks_checked = 0;
 const ancient_dragon_smithing_stones_total = 21;
 var ancient_dragon_smithing_stones_checked = 0;
+const great_gloveworts_total = 10;
+var great_gloveworts_checked = 0;
 const remembrances_mausoleums_total = 52;
 var remembrances_mausoleums_checked = 0;
 const great_runes_total = 17;
@@ -4233,6 +4245,9 @@ cookbooks_checked += 1;
 }
 if (id.startsWith("ancient_dragon_smithing_stones")) {
 ancient_dragon_smithing_stones_checked += 1;
+}
+if (id.startsWith("great_gloveworts")) {
+great_gloveworts_checked += 1;
 }
 if (id.startsWith("remembrances_mausoleums")) {
 remembrances_mausoleums_checked += 1;
@@ -4382,6 +4397,11 @@ if (ancient_dragon_smithing_stones_checked >= ancient_dragon_smithing_stones_tot
 $("#ancient_dragon_smithing_stones_progress_total").html("DONE");
 } else {
 $("#ancient_dragon_smithing_stones_progress_total").html(ancient_dragon_smithing_stones_checked + "/" + ancient_dragon_smithing_stones_total);
+}
+if (great_gloveworts_checked >= great_gloveworts_total){
+$("#great_gloveworts_progress_total").html("DONE");
+} else {
+$("#great_gloveworts_progress_total").html(great_gloveworts_checked + "/" + great_gloveworts_total);
 }
 if (remembrances_mausoleums_checked >= remembrances_mausoleums_total){
 $("#remembrances_mausoleums_progress_total").html("DONE");

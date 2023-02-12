@@ -37,6 +37,7 @@ dropdowns:
       - "bell_bearings.yaml" #Bell Bearings
       - "cookbooks.yaml" #Cookbooks
       - "ancient_dragon_smithing_stones.yaml" #Ancient Dragon Smithing Stones
+      - "great_gloveworts.yaml" #Great Gloveworts
   -
     name: "收集类道具"
     pages:
