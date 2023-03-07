@@ -136,7 +136,7 @@ sections:
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Sword+Dance"><b>剑舞</b></a>
     - <b>一边迅速向前推进，<br>一边使出连续旋身上砍的战技。<br>再次发动能使出迅速下砍。</b>
-    - 由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。
+    - <b>[利耶尼亚]</b>西南小黄金树西边悬崖下有水母的小路上的粪金龟掉落。
   - id: '6_11'
     icon: /img/icons/ashes_of_war/08313.png
     data:
@@ -501,7 +501,7 @@ sections:
     icon: /img/icons/ashes_of_war/08400.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Hoarfrost+Stomp"><b>冻霜踏地</b></a>
-    - <b>{MACAP501}</b>
+    - <b>大力踏向地面，让冻霜随之扩散的战技。<br>冻霜会引发异常状态冻伤。</b>
     - 在<b>[卡利亚城寨]</b>东南的水里一个看不见的粪金龟掉落。
 - title: 神秘
   table:
