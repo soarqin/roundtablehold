@@ -12832,192 +12832,76 @@
     "text": "[罗蕾塔的绝招] - 杀死[米凯拉的圣树]的第一个Boss，需要圣树秘密符节。"
   },
   {
-    "id": "/checklists/incantations.html#item_1_1",
-    "text": "兽爪 长出兽爪，以冲击撕裂地面 [野兽神殿]: 给[“野兽祭司”古兰格]第5个[死根]。"
+    "id": "/checklists/incantations.html#item_12_15",
+    "text": "紧急恢复 些微恢复血量 密使职业初始自带。[圆桌厅堂]的[圣职人员柯林]以1,000卢恩出售"
   },
   {
-    "id": "/checklists/incantations.html#item_1_2",
-    "text": "野兽健壮 减轻出血、冻伤量表的累积 沿着[桂奥尔龙墓]中的[小黄金树]东北的悬崖边落下，击杀泪滴粪金龟。"
+    "id": "/checklists/incantations.html#item_12_6",
+    "text": "恢复 包含周围我方人物，恢复血量 预言家职业初始自带。[圆桌厅堂]的[圣职人员柯林]以1,500卢恩出售"
   },
   {
-    "id": "/checklists/incantations.html#item_1_3",
-    "text": "兽石 快速释放大量锐利石片 [野兽神殿]: 给[“野兽祭司”古兰格]第2个[死根]。"
+    "id": "/checklists/incantations.html#item_12_5",
+    "text": "大恢复 包含周围我方人物，大幅恢复血量 位置移动到[亚坛高原]后的[圣职人员柯林]以9,000卢恩出售。"
   },
   {
-    "id": "/checklists/incantations.html#item_1_4",
-    "text": "野兽活力 一定时间内，持续恢复血量 [野兽神殿]: 给[“野兽祭司”古兰格]第3个[死根]。"
+    "id": "/checklists/incantations.html#item_12_11",
+    "text": "王之恢复 包含周围我方人物，极大幅恢复血量 给[圣职人员柯林]或[“结缘牧师”米利耶][双指祷告书]后购买"
   },
   {
-    "id": "/checklists/incantations.html#item_1_5",
-    "text": "古兰格的兽爪 长出兽爪，以冲击撕裂四周 [野兽神殿]: 给[“野兽祭司”古兰格]第8个[死根]。"
+    "id": "/checklists/incantations.html#item_12_16",
+    "text": "疗愈毒性 减轻中毒量表的累积，治愈中毒状态 [圆桌厅堂]的[圣职人员柯林]以1,000卢恩出售"
   },
   {
-    "id": "/checklists/incantations.html#item_1_6",
-    "text": "古兰格的岩石 朝前方丢掷巨大岩石 [野兽神殿]: 给[“野兽祭司”古兰格]第6个[死根]。"
+    "id": "/checklists/incantations.html#item_12_8",
+    "text": "王之疗愈 包含周围我方人物，减轻中毒、出血、催眠量表的累积 给[圣职人员柯林]或[“结缘牧师”米利耶][双指祷告书]后购买"
   },
   {
-    "id": "/checklists/incantations.html#item_2_1",
-    "text": "授血 朝前方喷洒血焰，引发燃烧 在[圆桌厅堂][“解指”恩雅]处用[鲜血君王的追忆]交换"
+    "id": "/checklists/incantations.html#item_12_12",
+    "text": "魔力防护 提升魔力属性减伤率 [圆桌厅堂]的[圣职人员柯林]以3,500卢恩出售"
   },
   {
-    "id": "/checklists/incantations.html#item_2_2",
-    "text": "血焰刀刃 在右手武器缠绕血焰 [湖之利耶尼亚]: 湖的西南，[蔷薇教堂]西北的沼泽，击杀泪滴粪金龟"
+    "id": "/checklists/incantations.html#item_12_4",
+    "text": "火防护 提升火属性减伤率 [圆桌厅堂]的[圣职人员柯林]以3,000卢恩出售"
   },
   {
-    "id": "/checklists/incantations.html#item_2_3",
-    "text": "血焰爪痕 朝前方形成血焰爪痕，随后引发爆炸 在[王城罗德尔][弃置恶兆的地底][弃置恶兆的底层]下的Boss[“恶兆之子”蒙格]掉落"
+    "id": "/checklists/incantations.html#item_12_7",
+    "text": "雷防护 提升雷属性减伤率 位置移动到[亚坛高原]后的[圣职人员柯林]以7,500卢恩出售。"
   },
   {
-    "id": "/checklists/incantations.html#item_2_4",
-    "text": "蝇群 朝前方释放一群血蝇，袭击敌人 在赐福[通往王朝的崖上道路]正北方的[蒙格温王朝]血沼泽的东墙(一个浅洞穴)的一具尸体上发现。"
+    "id": "/checklists/incantations.html#item_12_3",
+    "text": "圣防护 提升圣属性减伤率 [啜泣半岛]: 一个倒塌的石头建筑上的泪滴粪金龟掉落，上面长满了黄色的苔藓。该建筑位于[灵庙原野的废墟]西南不远的地方。"
   },
   {
-    "id": "/checklists/incantations.html#item_3_1",
-    "text": "亚基尔的火焰 从空中喷出“飞龙”亚基尔的火焰 打败[“飞龙”亚基尔]后在[盖利德]的[大龙飨教堂]龙祭坛以2颗[龙心脏]购买。"
+    "id": "/checklists/incantations.html#item_12_9",
+    "text": "王之圣防护 包含周围我方人物，大幅提升圣属性减伤率 击败[“米凯拉的锋刃”玛莲妮亚]后，与[“百智爵士”基甸·奥夫尼尔]讨论“圣树分枝”艾布雷菲尔的根。击败[“黑剑”玛利喀斯]后可在[孪生老妪]处购买"
   },
   {
-    "id": "/checklists/incantations.html#item_3_2",
-    "text": "玻列琉斯的冰雾 从空中喷出玻列琉斯的冰雾 在[大龙飨教堂]龙祭坛购买。需要打败[“冻结冰雾”玻列琉斯]才能解锁这个祷告。"
+    "id": "/checklists/incantations.html#item_12_13",
+    "text": "拒绝 形成弹飞周围人物的冲击波 [圆桌厅堂]的[圣职人员柯林]以1,500卢恩出售"
   },
   {
-    "id": "/checklists/incantations.html#item_3_3",
-    "text": "龙爪 将自身化为龙，以龙爪撕裂敌人 在[龙飨教堂]岛上发现。你需要1个[龙心脏]才能获得它。可以在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
+    "id": "/checklists/incantations.html#item_12_14",
+    "text": "诱敌幻影 朝前方放出影子，吸引有着人类之身的敌人攻击 可以在[弃置恶兆的地底]的尸体上找到，在经过管道房间到一个尸体坐在中心的房间，旁边是一个不太隐蔽的准备偷袭的食人魔。"
   },
   {
-    "id": "/checklists/incantations.html#item_3_4",
-    "text": "龙焰 将自身化为龙，喷出火焰吐息 在[龙飨教堂]岛上发现。你需要1个[龙心脏]才能获得它。可以在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
+    "id": "/checklists/incantations.html#item_12_2",
+    "text": "黑暗 让黑暗覆盖四周，隐藏执行者的身影 给[圣职人员柯林]或[“结缘牧师”米利耶][刺客祷告书]后购买。"
   },
   {
-    "id": "/checklists/incantations.html#item_3_5",
-    "text": "龙冰 将自身化为龙，喷出寒冰吐息 在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
+    "id": "/checklists/incantations.html#item_12_1",
+    "text": "刺客步法 消除脚步声，并降低落下损伤与落地声响 密使职业的初始自带。给[圣职人员柯林]或[“结缘牧师”米利耶][刺客祷告书]后购买。"
   },
   {
-    "id": "/checklists/incantations.html#item_3_6",
-    "text": "龙咬 将自身化为龙，朝前方咬碎敌人 在[龙飨教堂]岛上发现。你需要1个[龙心脏]才能获得它。可以在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_3_7",
-    "text": "艾格基斯的腐败 从空中喷出艾格基斯的猩红腐败吐息 击败[“步入腐败”艾格基斯]后可以从[盖利德]中的[大龙飨教堂]购买。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_3_8",
-    "text": "辉石吐息 将自身化为龙，喷出魔力吐息 在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_3_9",
-    "text": "桂奥尔的咆哮 响彻“古老龙”桂奥尔的巨响咆哮 打败老龙桂奥尔后在[大龙飨教堂]龙祭坛购买。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_3_10",
-    "text": "熔岩吐息 将自身化为土龙，喷出熔岩吐息 杀死位于[格密尔火山]中赐福[沸滚河终点]西南的[熔岩土龙]后，在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_3_12",
-    "text": "腐败吐息 将自身化为龙，喷出猩红腐败吐息 在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_3_13",
-    "text": "史玛拉格的辉石 从空中喷出“辉石龙”史玛拉格的魔力吐息 打败[“辉石龙”史玛拉格]后在[大龙飨教堂]龙祭坛以2颗[龙心脏]购买。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_3_14",
-    "text": "席欧朵利克的熔岩 喷出“大土龙”席欧朵利克的熔岩吐息 击败[“大土龙”席欧朵利克]后在[大龙飨教堂]龙祭坛以2颗[龙心脏]购买。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_4_1",
-    "text": "古龙雷枪 召唤红雷枪，从空中刺入地面 在[画家的破屋]以南巡逻的罗德尔骑士掉落[龙信仰祷告书]，给[圣职人员柯林]或[“结缘牧师”米利耶]后可以购买"
-  },
-  {
-    "id": "/checklists/incantations.html#item_4_2",
-    "text": "古龙雷击 召唤红落雷，朝周围爬窜 给[圣职人员柯林]或[“结缘牧师”米利耶][古龙祷告书]后可以购买"
-  },
-  {
-    "id": "/checklists/incantations.html#item_4_3",
-    "text": "死亡雷击 在周围降下剧烈的死亡落雷 在[圆桌厅堂][“解指”恩雅]处用[死龙的追忆]交换"
-  },
-  {
-    "id": "/checklists/incantations.html#item_4_4",
-    "text": "龙雷庇佑 召唤雷电，缠绕执行者全身 在[唤雷教堂]找到，在一个靠墙的宝箱里。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_4_5",
-    "text": "雷武器 在右手武器附加雷属性攻击力 给[圣职人员柯林]或[“结缘牧师”米利耶][古龙祷告书]后可以购买"
-  },
-  {
-    "id": "/checklists/incantations.html#item_4_6",
-    "text": "弗尔桑克斯的雷枪 召唤两支红雷枪，从空中连续刺入地面 在[圆桌厅堂][“解指”恩雅]处用[死龙的追忆]交换"
-  },
-  {
-    "id": "/checklists/incantations.html#item_4_12",
-    "text": "冰雷枪 召唤冰雷枪，从空中刺入地面 [诺克史黛拉的龙人士兵]掉落。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_4_7",
-    "text": "精准雷击 在目标头上降下落雷 给[圣职人员柯林]或[“结缘牧师”米利耶][古龙祷告书]后可以购买"
-  },
-  {
-    "id": "/checklists/incantations.html#item_4_8",
-    "text": "兰斯桑克斯的刀 召唤红雷刀，从空中横扫 [“古龙”兰斯桑克斯]掉落。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_4_9",
-    "text": "雷电枪 召唤雷电枪，朝前方丢掷 给[圣职人员柯林]或[“结缘牧师”米利耶][古龙祷告书]后可以购买"
-  },
-  {
-    "id": "/checklists/incantations.html#item_4_10",
-    "text": "雷击 召唤落雷，朝前方爬窜 [啜泣半岛]: 在从半岛东侧分离的包含[小黄金树]的裂隙区域泪滴粪金龟身上。粪金龟是在裂隙的南段，[摩恩坑道]入口以南。周围是巨大的蝙蝠和从上面不断打落的闪电。悬崖两边都有石质平台，你可以利用它们安全下山。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_3_11",
-    "text": "普拉顿桑克斯的凋亡 从空中喷出“龙王”普拉顿桑克斯的金色吐息 在[圆桌厅堂][“解指”恩雅]处用[龙王的追忆]交换。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_4_11",
-    "text": "维克的龙雷 召唤红色雷电，缠绕右手武器与全身 在[准王者的封印监牢]击败[“圆桌骑士”维克]后获得。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_5_1",
-    "text": "熔炉百相之喉囊 形成巨大喉囊，一边走动一边喷出火焰吐息 [“亵渎君王”拉卡德]Boss区域。当[“火山官邸之主”塔妮丝]坐着吃大蛇尸体时杀死她，她的骑士将入侵你。打败他掉落。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_5_2",
-    "text": "熔炉百相之角 在肩膀形成硬角，压低姿势再向上突刺 由[史东薇尔城]城墙下面的[熔炉骑士]掉落。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_5_3",
-    "text": "熔炉百相之尾 形成修长的尾巴，横扫前方 [风暴山丘的封印监牢]的Boss[熔炉骑士]掉落"
+    "id": "/checklists/incantations.html#item_5_11",
+    "text": "黄金树立誓 包含周围我方人物，提升攻击力与防御力 [格密尔火山][飘尸臭的破屋]"
   },
   {
     "id": "/checklists/incantations.html#item_5_4",
     "text": "黄金魔力防护 包含周围我方人物，大幅提升魔力属性减伤率 [王城罗德尔]: 一个的隐形的粪金龟。在与[“初始之王”葛孚雷]战斗后，下楼梯并乘坐电梯后可以找到。"
   },
   {
-    "id": "/checklists/incantations.html#item_5_5",
-    "text": "黑剑 形成黑剑，旋转的同时攻击敌人，再释放光波 在[圆桌厅堂][“解指”恩雅]处用[黑剑的追忆]交换。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_5_6",
-    "text": "黄金树恩惠 包含周围我方人物，赐予强大的恩惠赐福 [王城罗德尔][女王闺阁]获得"
-  },
-  {
-    "id": "/checklists/incantations.html#item_5_7",
-    "text": "恩惠赐福 包含周围我方人物，赐予恩惠赐福 可以在[结缘教堂][“结缘牧师”米利耶]处以4,000卢恩购买。也可以在地下点亮全部石柱后，击败第一个祖灵获得。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_5_8",
-    "text": "艾尔登流星 形成无数颗黄金流星，攻击四周 在[深根底层]，从赐福[大瀑布顶端]向西，直到你到达一些树根。从那里往西北方向看，你会看到一根树根伸进一个山洞里，顺着它走进入洞穴，穿过巨蚁群你会发现洞穴出口的尸体上有[艾尔登流星]。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_5_9",
-    "text": "黄金树恢复 包含周围我方人物，巨幅恢复血量 在[“灰烬王城”罗德尔][女王闺阁]获得"
-  },
-  {
     "id": "/checklists/incantations.html#item_5_10",
     "text": "黄金雷防护 包含周围我方人物，大幅提升雷属性减伤率 [逐渐崩毁的法姆·亚兹拉]: 喷泉广场南边悬崖上的泪滴粪金龟。[龙教堂（升降机前）]上来以后的上层"
-  },
-  {
-    "id": "/checklists/incantations.html#item_5_11",
-    "text": "黄金树立誓 包含周围我方人物，提升攻击力与防御力 [格密尔火山][飘尸臭的破屋]"
   },
   {
     "id": "/checklists/incantations.html#item_5_12",
@@ -13025,119 +12909,51 @@
   },
   {
     "id": "/checklists/incantations.html#item_5_13",
-    "text": "黄金之怒 形成弹飞周围人物的黄金冲击波 在[森林之民的废墟]。在敌人群众有一个向下的楼梯，通向包含这个祷告的宝箱。"
+    "text": "黄金之怒 形成弹飞周围人物的黄金冲击波 在[森林之民的废墟]。在敌群中有一个向下的楼梯，通向包含这个祷告的宝箱。"
   },
   {
-    "id": "/checklists/incantations.html#item_6_1",
-    "text": "火焰啊，吞噬一切！ 在自身周围燃起接连形成的火焰柱 在[圆桌厅堂][“解指”恩雅]处用[火焰巨人的追忆]交换。"
+    "id": "/checklists/incantations.html#item_5_9",
+    "text": "黄金树恢复 包含周围我方人物，巨幅恢复血量 在[“灰烬王城”罗德尔][女王闺阁]获得"
   },
   {
-    "id": "/checklists/incantations.html#item_6_2",
-    "text": "恶神火焰 丢掷熊熊燃烧的火焰球，引发爆炸、燃烧四周 [湖之利耶尼亚]: 击败[“盗火”亚当]后掉落"
+    "id": "/checklists/incantations.html#item_5_7",
+    "text": "恩惠赐福 包含周围我方人物，赐予恩惠赐福 可以在[结缘教堂][“结缘牧师”米利耶]处以4,000卢恩购买。也可以在地下点亮全部石柱后，击败第一个祖灵获得。"
   },
   {
-    "id": "/checklists/incantations.html#item_6_3",
-    "text": "火焰啊，倾注吧 一口气丢掷多颗火焰球 将[巨人祷告书]给[圣职人员柯林]或[“结缘牧师”米利耶]后以10,000卢恩购买"
+    "id": "/checklists/incantations.html#item_5_6",
+    "text": "黄金树恩惠 包含周围我方人物，赐予强大的恩惠赐福 [王城罗德尔][女王闺阁]获得"
   },
   {
-    "id": "/checklists/incantations.html#item_6_4",
-    "text": "感受巨人火焰吧 丢掷燃烧的巨大火焰球 将[巨人祷告书]给[圣职人员柯林]或[“结缘牧师”米利耶]后以购买13,000卢恩购买"
+    "id": "/checklists/incantations.html#item_5_1",
+    "text": "熔炉百相之喉囊 形成巨大喉囊，一边走动一边喷出火焰吐息 [“亵渎君王”拉卡德]Boss区域。当[“火山官邸之主”塔妮丝]坐着吃大蛇尸体时杀死她，她的骑士将入侵你。打败他掉落。"
   },
   {
-    "id": "/checklists/incantations.html#item_7_9",
-    "text": "燃火 从手中引发瞬间燃烧的火焰 预言家职业初始自带。[圆桌厅堂]的[圣职人员柯林]以600卢恩出售"
+    "id": "/checklists/incantations.html#item_5_3",
+    "text": "熔炉百相之尾 形成修长的尾巴，横扫前方 [风暴山丘的封印监牢]的Boss[熔炉骑士]掉落"
   },
   {
-    "id": "/checklists/incantations.html#item_7_8",
-    "text": "火焰重罪 引发剧烈自燃，连同周围一起燃烧 从[王城罗德尔]获得[绘画《不飞之鸟》]然后前往[风车村]以南[风车村高台]东南远眺点"
+    "id": "/checklists/incantations.html#item_5_2",
+    "text": "熔炉百相之角 在肩膀形成硬角，压低姿势再向上突刺 由[史东薇尔城]城墙下面的[熔炉骑士]掉落。"
   },
   {
-    "id": "/checklists/incantations.html#item_7_1",
-    "text": "投火 丢掷燃烧的火焰球 [圆桌厅堂]的[圣职人员柯林]以800卢恩出售"
+    "id": "/checklists/incantations.html#item_5_8",
+    "text": "艾尔登流星 形成无数颗黄金流星，攻击四周 在[深根底层]，从赐福[大瀑布顶端]向西，直到你到达一些树根。从那里往西北方向看，你会看到一根树根伸进一个山洞里，顺着它走进入洞穴，穿过巨蚁群你会发现洞穴出口的尸体上有[艾尔登流星]。"
   },
   {
-    "id": "/checklists/incantations.html#item_7_2",
-    "text": "火焰的疗愈啊 减轻中毒、猩红腐败量表的累积，治愈上述异常状态 在[结缘教堂]东南火焰主教营地里的一具尸体上。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_7_3",
-    "text": "火焰啊，赐予我力量！ 提升物理攻击力与火属性攻击力 [盖尔要塞]背后发现，在两个火焰喷射器之间的一个尸体。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_7_4",
-    "text": "火焰的庇佑啊 大幅提升火属性减伤率 [巨人战争的英雄墓地]: 在赐福前面，开始附近的一个密封房间里的尸体上发现。房间需要一个[石剑钥匙]解锁。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_7_5",
-    "text": "火焰啊！ 从手中引发瞬间剧烈燃烧的火焰 给[圣职人员柯林]或[“结缘牧师”米利耶][火焰习武修士祷告书]后购买"
-  },
-  {
-    "id": "/checklists/incantations.html#item_7_6",
-    "text": "火焰啊，喷发吧 朝前方喷出持续并剧烈燃烧的火焰 给[圣职人员柯林]或[“结缘牧师”米利耶][火焰习武修士祷告书]后购买"
-  },
-  {
-    "id": "/checklists/incantations.html#item_7_7",
-    "text": "火焰啊，缠绕吧 朝前方横扫持续喷出、漩涡状燃烧的火焰 [腐败旁露台]和[奇列姆废墟]之间马车旁的泪滴粪金龟。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_8_1",
-    "text": "划空癫火 从眼睛凝聚、释放黄色癫火 在[湖之利耶尼亚]地区，[镇静教堂]南部一些疯狂老鼠附近的泪滴粪金龟掉落"
-  },
-  {
-    "id": "/checklists/incantations.html#item_8_2",
-    "text": "夏玻利利的嘶吼 发出疯狂吼声，让周围人物累积发狂量表 在[癫火灯塔]第二层的一个宝箱中。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_8_3",
-    "text": "发狂扩散 抓住目标，传染异常状态发狂 通过[弃置恶兆的地底]并击败[“鲜血君王”蒙格]之后，攻击Boss房间前面的祭坛进入隐藏区域。往下跳靠近底部，你会看到一具尸体，上面有[发狂扩散]。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_8_4",
-    "text": "癫火 从眼睛迸发黄色癫火 [啜泣半岛]的[卡尔洗礼教堂]。在教堂左侧柱子旁的一具尸体上。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_8_5",
-    "text": "难耐癫火 从眼睛迸发剧烈黄色癫火 [耶罗·亚尼斯废墟]: 在废墟中央的地下室的一个宝箱里"
-  },
-  {
-    "id": "/checklists/incantations.html#item_9_1",
-    "text": "黑焰 丢掷燃烧的黑焰球 给[圣职人员柯林]或[“结缘牧师”米利耶][神皮祷告书]后购买"
-  },
-  {
-    "id": "/checklists/incantations.html#item_9_2",
-    "text": "黑焰刀刃 在右手武器缠绕黑焰 给[圣职人员柯林]或[“结缘牧师”米利耶][神皮祷告书]后购买"
-  },
-  {
-    "id": "/checklists/incantations.html#item_9_3",
-    "text": "黑焰仪式 在自身周围燃起环绕的黑焰柱 [唤灵洞窟]: 在Boss连战中击败[神皮使徒]和[神皮贵族]掉落"
-  },
-  {
-    "id": "/checklists/incantations.html#item_9_4",
-    "text": "黑焰庇佑 提升物理减伤率 在选择“关于秘密符节”对话选项后从[“百智爵士”基甸·奥夫尼尔]处取得。你需要获得[圣树秘密符节（左）]和[圣树秘密符节（右）]并到达[米凯拉的圣树]后才能解锁这个对话选项。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_9_5",
-    "text": "贵族气场 大幅度突出腹部，形成弹飞周围人物的冲击波 在[火山官邸]击败[神皮贵族]获得。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_9_6",
-    "text": "横扫黑焰 朝前方大幅度横扫黑焰 [神皮使徒]掉落。"
+    "id": "/checklists/incantations.html#item_5_5",
+    "text": "黑剑 形成黑剑，旋转的同时攻击敌人，再释放光波 在[圆桌厅堂][“解指”恩雅]处用[黑剑的追忆]交换。"
   },
   {
     "id": "/checklists/incantations.html#item_10_1",
     "text": "光环 朝前方形成、释放黄金光环 在[金面具]移动到[亚坛高原]的位置后从[圣职人员柯林]处以11,000卢恩购买"
   },
   {
-    "id": "/checklists/incantations.html#item_10_2",
-    "text": "不变盾牌 提升左手盾牌的属性、异常状态的减伤率 可从[圣职人员柯林]处购买，作为他任务的一部分(在[黄金树大教堂]西部俯瞰[王城罗德尔]的竞技场位置)。"
+    "id": "/checklists/incantations.html#item_10_9",
+    "text": "化三光环 朝前方形成、释放三个黄金光环 [“圣树分枝”艾布雷菲尔]: 从赐福[祈祷室]出发，走到东边的走道上，利用右边的屋顶跳落一层。在[祈祷室]下面有一个封印的房间，需要2把[石剑钥匙]才能解锁。"
   },
   {
-    "id": "/checklists/incantations.html#item_10_3",
-    "text": "因果性原理 受到一定程度的攻击后，会自动反击 由[“百智爵士”基甸·奥夫尼尔]的在击败[“鲜血君王”蒙格]后在Boss房间询问关于茧的问题后给予。"
-  },
-  {
-    "id": "/checklists/incantations.html#item_10_4",
-    "text": "回归性原理 治愈所有异常状态，并消除特殊效果 [黄金律法原本]"
+    "id": "/checklists/incantations.html#item_10_8",
+    "text": "拉达冈的光环 形成、扩大黄金光环，攻击四周 [黄金律法原本]"
   },
   {
     "id": "/checklists/incantations.html#item_10_5",
@@ -13152,88 +12968,272 @@
     "text": "圣律剑刃 在右手武器附加圣属性攻击力 可以用3,000卢恩从[“狩猎死亡”Ｄ]处购买，也可以在[圆桌厅堂]给[孪生老妪][Ｄ的铃珠]后购买"
   },
   {
-    "id": "/checklists/incantations.html#item_10_8",
-    "text": "拉达冈的光环 形成、扩大黄金光环，攻击四周 [黄金律法原本]"
+    "id": "/checklists/incantations.html#item_10_2",
+    "text": "不变盾牌 提升左手盾牌的属性、异常状态的减伤率 可从[圣职人员柯林]处购买，作为他任务的一部分(在[黄金树大教堂]西部俯瞰[王城罗德尔]的竞技场位置)。"
   },
   {
-    "id": "/checklists/incantations.html#item_10_9",
-    "text": "化三光环 朝前方形成、释放三个黄金光环 [“圣树分枝”艾布雷菲尔]: 从赐福[祈祷室]出发，走到东边的走道上，利用右边的屋顶跳落一层。在[祈祷室]下面有一个封印的房间，需要2把[石剑钥匙]才能解锁。"
+    "id": "/checklists/incantations.html#item_10_3",
+    "text": "因果性原理 受到一定程度的攻击后，会自动反击 由[“百智爵士”基甸·奥夫尼尔]的在击败[“鲜血君王”蒙格]后在Boss房间询问关于茧的问题后给予。"
   },
   {
-    "id": "/checklists/incantations.html#item_11_1",
-    "text": "虫丝 分泌大量具粘性的丝线，朝前方释放 在完成[米莉森]任务线并给了她[女武神的义手]后，[贤者格威]以7,500卢恩出售。"
+    "id": "/checklists/incantations.html#item_10_4",
+    "text": "回归性原理 治愈所有异常状态，并消除特殊效果 [黄金律法原本]"
   },
   {
-    "id": "/checklists/incantations.html#item_11_2",
-    "text": "毒刃 在右手武器缠绕毒素 由[盖利德]东部艾奥尼亚沼泽东北一个隐形的泪滴粪金龟掉落。观察发光的脚印，找出它的行动规律，然后走到它前面，在脚印靠近你时攻击它。"
+    "id": "/checklists/incantations.html#item_4_9",
+    "text": "雷电枪 召唤雷电枪，朝前方丢掷 给[圣职人员柯林]或[“结缘牧师”米利耶][古龙祷告书]后可以购买"
+  },
+  {
+    "id": "/checklists/incantations.html#item_4_10",
+    "text": "雷击 召唤落雷，朝前方爬窜 [啜泣半岛]: 在从半岛东侧分离的包含[小黄金树]的裂隙区域泪滴粪金龟身上。粪金龟是在裂隙的南段，[摩恩坑道]入口以南。周围是巨大的蝙蝠和从上面不断打落的闪电。悬崖两边都有石质平台，你可以利用它们安全下山。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_4_7",
+    "text": "精准雷击 在目标头上降下落雷 给[圣职人员柯林]或[“结缘牧师”米利耶][古龙祷告书]后可以购买"
+  },
+  {
+    "id": "/checklists/incantations.html#item_4_1",
+    "text": "古龙雷枪 召唤红雷枪，从空中刺入地面 在[画家的破屋]以南巡逻的罗德尔骑士掉落[龙信仰祷告书]，给[圣职人员柯林]或[“结缘牧师”米利耶]后可以购买"
+  },
+  {
+    "id": "/checklists/incantations.html#item_4_2",
+    "text": "古龙雷击 召唤红落雷，朝周围爬窜 给[圣职人员柯林]或[“结缘牧师”米利耶][古龙祷告书]后可以购买"
+  },
+  {
+    "id": "/checklists/incantations.html#item_4_8",
+    "text": "兰斯桑克斯的刀 召唤红雷刀，从空中横扫 [“古龙”兰斯桑克斯]掉落。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_4_6",
+    "text": "弗尔桑克斯的雷枪 召唤两支红雷枪，从空中连续刺入地面 在[圆桌厅堂][“解指”恩雅]处用[死龙的追忆]交换"
+  },
+  {
+    "id": "/checklists/incantations.html#item_4_12",
+    "text": "冰雷枪 召唤冰雷枪，从空中刺入地面 [诺克史黛拉的龙人士兵]掉落。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_4_3",
+    "text": "死亡雷击 在周围降下剧烈的死亡落雷 在[圆桌厅堂][“解指”恩雅]处用[死龙的追忆]交换"
+  },
+  {
+    "id": "/checklists/incantations.html#item_4_5",
+    "text": "雷武器 在右手武器附加雷属性攻击力 给[圣职人员柯林]或[“结缘牧师”米利耶][古龙祷告书]后可以购买"
+  },
+  {
+    "id": "/checklists/incantations.html#item_4_4",
+    "text": "龙雷庇佑 召唤雷电，缠绕执行者全身 在[唤雷教堂]找到，在一个靠墙的宝箱里。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_4_11",
+    "text": "维克的龙雷 召唤红色雷电，缠绕右手武器与全身 在[准王者的封印监牢]击败[“圆桌骑士”维克]后获得。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_7_9",
+    "text": "燃火 从手中引发瞬间燃烧的火焰 火焰主教祷告，预言家职业初始自带。[圆桌厅堂]的[圣职人员柯林]以600卢恩出售"
+  },
+  {
+    "id": "/checklists/incantations.html#item_7_5",
+    "text": "火焰啊！ 从手中引发瞬间剧烈燃烧的火焰 火焰主教祷告，给[圣职人员柯林]或[“结缘牧师”米利耶][火焰习武修士祷告书]后购买"
+  },
+  {
+    "id": "/checklists/incantations.html#item_7_1",
+    "text": "投火 丢掷燃烧的火焰球 火焰主教祷告，[圆桌厅堂]的[圣职人员柯林]以800卢恩出售"
+  },
+  {
+    "id": "/checklists/incantations.html#item_6_4",
+    "text": "感受巨人火焰吧 丢掷燃烧的巨大火焰球 火焰巨人祷告，将[巨人祷告书]给[圣职人员柯林]或[“结缘牧师”米利耶]后以购买13,000卢恩购买"
+  },
+  {
+    "id": "/checklists/incantations.html#item_6_3",
+    "text": "火焰啊，倾注吧 一口气丢掷多颗火焰球 火焰巨人祷告，将[巨人祷告书]给[圣职人员柯林]或[“结缘牧师”米利耶]后以10,000卢恩购买"
+  },
+  {
+    "id": "/checklists/incantations.html#item_6_2",
+    "text": "恶神火焰 丢掷熊熊燃烧的火焰球，引发爆炸、燃烧四周 火焰巨人祷告，[湖之利耶尼亚]: 击败[“盗火”亚当]后掉落"
+  },
+  {
+    "id": "/checklists/incantations.html#item_7_6",
+    "text": "火焰啊，喷发吧 朝前方喷出持续并剧烈燃烧的火焰 火焰主教祷告，给[圣职人员柯林]或[“结缘牧师”米利耶][火焰习武修士祷告书]后购买"
+  },
+  {
+    "id": "/checklists/incantations.html#item_7_7",
+    "text": "火焰啊，缠绕吧 朝前方横扫持续喷出、漩涡状燃烧的火焰 火焰主教祷告，[腐败旁露台]和[奇列姆废墟]之间马车旁的泪滴粪金龟。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_6_1",
+    "text": "火焰啊，吞噬一切！ 在自身周围燃起接连形成的火焰柱 火焰巨人祷告，在[圆桌厅堂][“解指”恩雅]处用[火焰巨人的追忆]交换。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_7_2",
+    "text": "火焰的疗愈啊 减轻中毒、猩红腐败量表的累积，治愈上述异常状态 火焰主教祷告，在[结缘教堂]东南火焰主教营地里的一具尸体上。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_7_4",
+    "text": "火焰的庇佑啊 大幅提升火属性减伤率 火焰主教祷告，[巨人战争的英雄墓地]: 在赐福前面，开始附近的一个密封房间里的尸体上发现。房间需要一个[石剑钥匙]解锁。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_7_3",
+    "text": "火焰啊，赐予我力量！ 提升物理攻击力与火属性攻击力 火焰主教祷告，[盖尔要塞]背后发现，在两个火焰喷射器之间的一个尸体。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_7_8",
+    "text": "火焰重罪 引发剧烈自燃，连同周围一起燃烧 火焰主教祷告，从[王城罗德尔]获得[绘画《不飞之鸟》]然后前往[风车村]以南[风车村高台]东南远眺点。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_9_1",
+    "text": "黑焰 丢掷燃烧的黑焰球 给[圣职人员柯林]或[“结缘牧师”米利耶][神皮祷告书]后购买"
+  },
+  {
+    "id": "/checklists/incantations.html#item_9_6",
+    "text": "横扫黑焰 朝前方大幅度横扫黑焰 [神皮使徒]掉落。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_9_3",
+    "text": "黑焰仪式 在自身周围燃起环绕的黑焰柱 [唤灵洞窟]: 在Boss连战中击败[神皮使徒]和[神皮贵族]掉落"
+  },
+  {
+    "id": "/checklists/incantations.html#item_9_2",
+    "text": "黑焰刀刃 在右手武器缠绕黑焰 给[圣职人员柯林]或[“结缘牧师”米利耶][神皮祷告书]后购买"
+  },
+  {
+    "id": "/checklists/incantations.html#item_9_4",
+    "text": "黑焰庇佑 提升物理减伤率 在选择“关于秘密符节”对话选项后从[“百智爵士”基甸·奥夫尼尔]处取得。你需要获得[圣树秘密符节（左）]和[圣树秘密符节（右）]并到达[米凯拉的圣树]后才能解锁这个对话选项。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_9_5",
+    "text": "贵族气场 大幅度突出腹部，形成弹飞周围人物的冲击波 在[火山官邸]击败[神皮贵族]获得。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_1_1",
+    "text": "兽爪 长出兽爪，以冲击撕裂地面 [野兽神殿]: 给[“野兽祭司”古兰格]第5个[死根]。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_1_5",
+    "text": "古兰格的兽爪 长出兽爪，以冲击撕裂四周 [野兽神殿]: 给[“野兽祭司”古兰格]第8个[死根]。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_1_3",
+    "text": "兽石 快速释放大量锐利石片 [野兽神殿]: 给[“野兽祭司”古兰格]第2个[死根]。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_1_6",
+    "text": "古兰格的岩石 朝前方丢掷巨大岩石 [野兽神殿]: 给[“野兽祭司”古兰格]第6个[死根]。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_1_2",
+    "text": "野兽健壮 减轻出血、冻伤量表的累积 沿着[桂奥尔龙墓]中的[小黄金树]东北的悬崖边落下，击杀泪滴粪金龟。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_1_4",
+    "text": "野兽活力 一定时间内，持续恢复血量 [野兽神殿]: 给[“野兽祭司”古兰格]第3个[死根]。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_2_4",
+    "text": "蝇群 朝前方释放一群血蝇，袭击敌人 在赐福[通往王朝的崖上道路]正北方的[蒙格温王朝]血沼泽的东墙(一个浅洞穴)的一具尸体上发现。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_2_3",
+    "text": "血焰爪痕 朝前方形成血焰爪痕，随后引发爆炸 在[王城罗德尔][弃置恶兆的地底][弃置恶兆的底层]下的Boss[“恶兆之子”蒙格]掉落"
+  },
+  {
+    "id": "/checklists/incantations.html#item_2_1",
+    "text": "授血 朝前方喷洒血焰，引发燃烧 在[圆桌厅堂][“解指”恩雅]处用[鲜血君王的追忆]交换"
+  },
+  {
+    "id": "/checklists/incantations.html#item_2_2",
+    "text": "血焰刀刃 在右手武器缠绕血焰 [湖之利耶尼亚]: 湖的西南，[蔷薇教堂]西北的沼泽，击杀泪滴粪金龟"
   },
   {
     "id": "/checklists/incantations.html#item_11_3",
     "text": "毒雾 朝前方形成毒性烟雾 [啜泣半岛]: 赐福[摩恩城（城墙前方）]东南森林地区的泪滴粪金龟掉落"
   },
   {
+    "id": "/checklists/incantations.html#item_11_2",
+    "text": "毒刃 在右手武器缠绕毒素 由[盖利德]东部艾奥尼亚沼泽东北一个隐形的泪滴粪金龟掉落。观察发光的脚印，找出它的行动规律，然后走到它前面，在脚印靠近你时攻击它。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_11_1",
+    "text": "虫丝 分泌大量具粘性的丝线，朝前方释放 在完成[米莉森]任务线并给了她[女武神的义手]后，[贤者格威]以7,500卢恩出售。"
+  },
+  {
     "id": "/checklists/incantations.html#item_11_4",
     "text": "猩红艾奥尼亚 绽放大株花朵，引爆猩红腐败 在[圆桌厅堂][“解指”恩雅]处用[腐败女神的追忆]交换。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_1",
-    "text": "刺客步法 消除脚步声，并降低落下损伤与落地声响 密使职业的初始自带。给[圣职人员柯林]或[“结缘牧师”米利耶][刺客祷告书]后购买。"
+    "id": "/checklists/incantations.html#item_8_4",
+    "text": "癫火 从眼睛迸发黄色癫火 [啜泣半岛]的[卡尔洗礼教堂]。在教堂左侧柱子旁的一具尸体上。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_16",
-    "text": "疗愈毒性 减轻中毒量表的累积，治愈中毒状态 [圆桌厅堂]的[圣职人员柯林]以1,000卢恩出售"
+    "id": "/checklists/incantations.html#item_8_5",
+    "text": "难耐癫火 从眼睛迸发剧烈黄色癫火 [耶罗·亚尼斯废墟]: 在废墟中央的地下室的一个宝箱里"
   },
   {
-    "id": "/checklists/incantations.html#item_12_2",
-    "text": "黑暗 让黑暗覆盖四周，隐藏执行者的身影 给[圣职人员柯林]或[“结缘牧师”米利耶][刺客祷告书]后购买。"
+    "id": "/checklists/incantations.html#item_8_1",
+    "text": "划空癫火 从眼睛凝聚、释放黄色癫火 在[湖之利耶尼亚]地区，[镇静教堂]南部一些疯狂老鼠附近的泪滴粪金龟掉落"
   },
   {
-    "id": "/checklists/incantations.html#item_12_3",
-    "text": "圣防护 提升圣属性减伤率 [啜泣半岛]: 一个倒塌的石头建筑上的泪滴粪金龟掉落，上面长满了黄色的苔藓。该建筑位于[灵庙原野的废墟]西南不远的地方。"
+    "id": "/checklists/incantations.html#item_8_2",
+    "text": "夏玻利利的嘶吼 发出疯狂吼声，让周围人物累积发狂量表 在[癫火灯塔]第二层的一个宝箱中。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_4",
-    "text": "火防护 提升火属性减伤率 [圆桌厅堂]的[圣职人员柯林]以3,000卢恩出售"
+    "id": "/checklists/incantations.html#item_8_3",
+    "text": "发狂扩散 抓住目标，传染异常状态发狂 通过[弃置恶兆的地底]并击败[“鲜血君王”蒙格]之后，攻击Boss房间前面的祭坛进入隐藏区域。往下跳靠近底部，你会看到一具尸体，上面有[发狂扩散]。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_5",
-    "text": "大恢复 包含周围我方人物，大幅恢复血量 位置移动到[亚坛高原]后的[圣职人员柯林]以9,000卢恩出售。"
+    "id": "/checklists/incantations.html#item_3_4",
+    "text": "龙焰 将自身化为龙，喷出火焰吐息 在[龙飨教堂]岛上发现。你需要1个[龙心脏]才能获得它。可以在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_6",
-    "text": "恢复 包含周围我方人物，恢复血量 预言家职业初始自带。[圆桌厅堂]的[圣职人员柯林]以1,500卢恩出售"
+    "id": "/checklists/incantations.html#item_3_1",
+    "text": "亚基尔的火焰 从空中喷出“飞龙”亚基尔的火焰 打败[“飞龙”亚基尔]后在[盖利德]的[大龙飨教堂]龙祭坛以2颗[龙心脏]购买。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_7",
-    "text": "雷防护 提升雷属性减伤率 位置移动到[亚坛高原]后的[圣职人员柯林]以7,500卢恩出售。"
+    "id": "/checklists/incantations.html#item_3_10",
+    "text": "熔岩吐息 将自身化为土龙，喷出熔岩吐息 杀死位于[格密尔火山]中赐福[沸滚河终点]西南的[熔岩土龙]后，在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_8",
-    "text": "王之疗愈 包含周围我方人物，减轻中毒、出血、催眠量表的累积 给[圣职人员柯林]或[“结缘牧师”米利耶][双指祷告书]后购买"
+    "id": "/checklists/incantations.html#item_3_14",
+    "text": "席欧朵利克的熔岩 喷出“大土龙”席欧朵利克的熔岩吐息 击败[“大土龙”席欧朵利克]后在[大龙飨教堂]龙祭坛以2颗[龙心脏]购买。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_9",
-    "text": "王之圣防护 包含周围我方人物，大幅提升圣属性减伤率 击败[“米凯拉的锋刃”玛莲妮亚]后，与[“百智爵士”基甸·奥夫尼尔]讨论“圣树分枝”艾布雷菲尔的根。击败[“黑剑”玛利喀斯]后可在[孪生老妪]处购买"
+    "id": "/checklists/incantations.html#item_3_8",
+    "text": "辉石吐息 将自身化为龙，喷出魔力吐息 在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_11",
-    "text": "王之恢复 包含周围我方人物，极大幅恢复血量 给[圣职人员柯林]或[“结缘牧师”米利耶][双指祷告书]后购买"
+    "id": "/checklists/incantations.html#item_3_13",
+    "text": "史玛拉格的辉石 从空中喷出“辉石龙”史玛拉格的魔力吐息 打败[“辉石龙”史玛拉格]后在[大龙飨教堂]龙祭坛以2颗[龙心脏]购买。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_12",
-    "text": "魔力防护 提升魔力属性减伤率 [圆桌厅堂]的[圣职人员柯林]以3,500卢恩出售"
+    "id": "/checklists/incantations.html#item_3_12",
+    "text": "腐败吐息 将自身化为龙，喷出猩红腐败吐息 在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_13",
-    "text": "拒绝 形成弹飞周围人物的冲击波 [圆桌厅堂]的[圣职人员柯林]以1,500卢恩出售"
+    "id": "/checklists/incantations.html#item_3_7",
+    "text": "艾格基斯的腐败 从空中喷出艾格基斯的猩红腐败吐息 击败[“步入腐败”艾格基斯]后可以从[盖利德]中的[大龙飨教堂]购买。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_14",
-    "text": "诱敌幻影 朝前方放出影子，吸引有着人类之身的敌人攻击 可以在[弃置恶兆的地底]的尸体上找到，在经过管道房间到一个尸体坐在中心的房间，旁边是一个不太隐蔽的准备偷袭的食人魔。"
+    "id": "/checklists/incantations.html#item_3_5",
+    "text": "龙冰 将自身化为龙，喷出寒冰吐息 在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
   },
   {
-    "id": "/checklists/incantations.html#item_12_15",
-    "text": "紧急恢复 些微恢复血量 密使职业初始自带。[圆桌厅堂]的[圣职人员柯林]以1,000卢恩出售"
+    "id": "/checklists/incantations.html#item_3_2",
+    "text": "玻列琉斯的冰雾 从空中喷出玻列琉斯的冰雾 在[大龙飨教堂]龙祭坛购买。需要打败[“冻结冰雾”玻列琉斯]才能解锁这个祷告。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_3_11",
+    "text": "普拉顿桑克斯的凋亡 从空中喷出“龙王”普拉顿桑克斯的金色吐息 独特祷告，不被任何圣印记加成。在[圆桌厅堂][“解指”恩雅]处用[龙王的追忆]交换。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_3_3",
+    "text": "龙爪 将自身化为龙，以龙爪撕裂敌人 在[龙飨教堂]岛上发现。你需要1个[龙心脏]才能获得它。可以在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_3_6",
+    "text": "龙咬 将自身化为龙，朝前方咬碎敌人 在[龙飨教堂]岛上发现。你需要1个[龙心脏]才能获得它。可以在[大龙飨教堂]龙祭坛以1颗[龙心脏]购买。"
+  },
+  {
+    "id": "/checklists/incantations.html#item_3_9",
+    "text": "桂奥尔的咆哮 响彻“古老龙”桂奥尔的巨响咆哮 打败老龙桂奥尔后在[大龙飨教堂]龙祭坛购买。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_5_11",
