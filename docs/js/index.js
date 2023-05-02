@@ -616,6 +616,20 @@
 "ashesofwar_13_8",
 "ashesofwar_13_9",
 "ashesofwar_14_1",
+"ashesofwar_14_1_1",
+"ashesofwar_14_1_10",
+"ashesofwar_14_1_11",
+"ashesofwar_14_1_12",
+"ashesofwar_14_1_13",
+"ashesofwar_14_1_14",
+"ashesofwar_14_1_2",
+"ashesofwar_14_1_3",
+"ashesofwar_14_1_4",
+"ashesofwar_14_1_5",
+"ashesofwar_14_1_6",
+"ashesofwar_14_1_7",
+"ashesofwar_14_1_8",
+"ashesofwar_14_1_9",
 "ashesofwar_1_1",
 "ashesofwar_1_2",
 "ashesofwar_1_3",
@@ -4132,7 +4146,7 @@ const sorceries_total = 72;
 var sorceries_checked = 0;
 const incantations_total = 101;
 var incantations_checked = 0;
-const ashesofwar_total = 92;
+const ashesofwar_total = 106;
 var ashesofwar_checked = 0;
 const spirit_ashes_total = 64;
 var spirit_ashes_checked = 0;
