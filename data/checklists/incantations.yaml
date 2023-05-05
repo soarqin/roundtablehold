@@ -428,7 +428,7 @@ sections:
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Scouring+Black+Flame"><b>横扫黑焰</b></a>
     - <b>朝前方大幅度横扫黑焰</b>
-    - <b>[神皮使徒]</b>掉落。
+    - <b>[风车村]</b>的<b>[神皮使徒]</b>掉落。
   - id: '9_3'
     icon: /img/icons/incantations/06214.png
     data:
@@ -592,7 +592,7 @@ sections:
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Inescapable+Frenzy"><b>发狂扩散</b></a>
     - <b>抓住目标，传染异常状态发狂</b>
-    - 通过<b>[弃置恶兆的地底]</b>并击败<b>[“鲜血君王”蒙格]</b>之后，攻击Boss房间前面的祭坛进入隐藏区域。往下跳靠近底部，你会看到一具尸体，上面有<b>[发狂扩散]</b>。
+    - 通过<b>[弃置恶兆的地底]</b>并击败<b>[“恶兆之子”蒙格]</b>之后，攻击Boss房间前面的祭坛进入隐藏区域(需要击败<b>[“恶兆王”蒙葛特]</b>才能继续前进)。往下跳靠近底部，你会看到一具尸体，上面有<b>[发狂扩散]</b>。
 - title: 龙祭坛祷告
   table:
   - 名称

@@ -24,7 +24,9 @@ dropdowns:
       - "talismans.yaml" #Talismans
       - "talisbyregion.yaml" #Talismans by Locations
       - "sorceries.yaml" #Sorceries
+      - "sorcbyregion.yaml" #Sorceries by Locations
       - "incantations.yaml" #Incantations
+      - "incantbyregion.yaml" #Incantations by Locations
       - "ashesofwar.yaml" #Ashes of War
       - "spirit_ashes.yaml" #Spirit Ashes
   - 

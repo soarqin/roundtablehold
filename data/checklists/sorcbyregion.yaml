@@ -1,0 +1,311 @@
+title: 魔法(按区域)
+id: sorcbyregion
+realid: sorceries
+sections:
+- title: 宁姆格福
+  items:
+  - id: '1_3'
+    icon: /img/icons/sorceries/06009.png
+    data:
+    - <b>[结晶连弹]</b> - 由<b>[魔法师瑟濂]</b>出售(<b>[驿站街遗迹]</b>)。
+  - id: '1_4'
+    icon: /img/icons/sorceries/06014.png
+    data:
+    - <b>[辉石弯弧]</b> - 由<b>[魔法师瑟濂]</b>出售
+  - id: '1_5'
+    icon: /img/icons/sorceries/06000.png
+    data:
+    - <b>[辉石魔砾]</b> - 由<b>[魔法师瑟濂]</b>出售
+  - id: '1_6'
+    icon: /img/icons/sorceries/06010.png
+    data:
+    - <b>[辉石流星]</b> - 由<b>[魔法师瑟濂]</b>出售
+  - id: '1_7'
+    icon: /img/icons/sorceries/06100.png
+    data:
+    - <b>[魔力武器]</b> - 由<b>[魔法师瑟濂]</b>出售
+  - id: '1_8'
+    icon: /img/icons/sorceries/06101.png
+    data:
+    - <b>[魔力盾牌]</b> - 由<b>[魔法师瑟濂]</b>出售
+  - id: '1_9'
+    icon: /img/icons/sorceries/06051.png
+    data:
+    - <b>[卡利亚迅剑]</b> - 由<b>[王室卷轴]</b>解锁(法师旁边的废墟，位于<b>[宁姆格福]</b>东南<b>赐福[亚基尔湖南方]</b>的东面)
+  - id: '1_10'
+    icon: /img/icons/sorceries/06005.png
+    data:
+    - <b>[辉剑圆阵]</b> - 由<b>[王室卷轴]</b>解锁
+- title: 啜泣半岛
+  items:
+  - id: '2_1'
+    icon: /img/icons/sorceries/06036.png
+    data:
+    - <b>[奇袭魔砾]</b> - 在<b>[啜泣半岛]</b>西北<b>[封印魔女的废墟]</b>下发现
+  - id: '2_2'
+    icon: /img/icons/sorceries/06006.png
+    data:
+    - <b>[结晶散射]</b> - 在<b>[啜泣半岛]</b>中心森林的<b>[亚人森林的废墟]</b>杀死亚人女王。
+- title: 史东薇尔城
+  items:
+  - id: '3_1'
+    icon: /img/icons/sorceries/06048.png
+    data:
+    - <b>[召唤怨魂]</b> - 从<b>赐福[升降机旁房间]</b>，出去并向右转。小路的尽头是一块岩架。跳下去，即使它很可怕，然后一直走到底部。在底部，经过一些老鼠，是一个带着魔咒的圣甲虫。
+- title: 湖之利耶尼亚 第一部分
+  items:
+  - id: '4_1'
+    icon: /img/icons/sorceries/06102.png
+    data:
+    - <b>[星光]</b> - 由<b>[魔法师托普斯]</b>在<b>[伊利斯教堂]</b>附近<b>赐福[傍湖断崖]</b>出售
+  - id: '4_18'
+    icon: /img/icons/sorceries/06015.png
+    data:
+    - <b>[辉石大魔砾]</b> - 由<b>[学院卷轴]</b>解锁(在<b>[湖之利耶尼亚]</b>南部<b>赐福[傍湖断崖]</b>的西边墓地)。
+  - id: '4_19'
+    icon: /img/icons/sorceries/06001.png
+    data:
+    - <b>[辉石迅魔砾]</b> - 由<b>[学院卷轴]</b>解锁
+  - id: '4_20'
+    icon: /img/icons/sorceries/06050.png
+    data:
+    - <b>[卡利亚大剑]</b> - 由<b>[结缘教堂]</b>东部<b>[“结缘牧师”米利耶]</b>出售<b>[湖之利耶尼亚]</b>。
+  - id: '4_21'
+    icon: /img/icons/sorceries/06027.png
+    data:
+    - <b>[魔法辉剑]</b> - 由<b>[“结缘牧师”米利耶]</b>出售
+  - id: '4_4'
+    icon: /img/icons/sorceries/06049.png
+    data:
+    - <b>[古老死亡怨魂]</b> - 在夜晚杀死<b>[魔法学院雷亚卢卡利亚]</b>东边<b>赐福[门前镇的北方]</b>旁边的<b>[死亡仪式鸟]</b>
+  - id: '4_5'
+    icon: /img/icons/sorceries/06046.png
+    data:
+    - <b>[罪恶荆棘]</b> - <b>[画家的破屋]</b>西北，<b>[学院门前镇]</b>东，有一个火焰主教营地。营地外是被火焰鼻涕虫环绕的一个敌人。杀死获得咒语。
+  - id: '4_6'
+    icon: /img/icons/sorceries/06024.png
+    data:
+    - <b>[巨剑阵]</b> - 在<b>[湖之利耶尼亚]</b>西部杀死<b>[杜鹃的封印监牢]</b>的Boss
+  - id: '4_7'
+    icon: /img/icons/sorceries/06011.png
+    data:
+    - <b>[天降魔力]</b> - 不在祭坛使用<b>[卡利亚颠倒像]</b>，杀死<b>[卡利亚书斋]</b>中的<b>[魔法教授米丽安]</b>
+  - id: '4_8'
+    icon: /img/icons/sorceries/06070.png
+    data:
+    - <b>[陨石]</b> - 杀死<b>[湖之利耶尼亚]</b>北方的<b>[王室墓地的封印监牢]</b>Boss
+  - id: '4_9'
+    icon: /img/icons/sorceries/06019.png
+    data:
+    - <b>[爆碎岩盘]</b> - 在<b>[雷亚卢卡利亚结晶坑道]</b>靠近终点处。
+  - id: '4_22'
+    icon: /img/icons/sorceries/06034.png
+    data:
+    - <b>[飞散结晶]</b> - 杀死<b>[学院结晶洞窟]</b>Boss
+  - id: '4_23'
+    icon: /img/icons/sorceries/06103.png
+    data:
+    - <b>[魔法之境]</b> - 乘坐<b>[学院结晶洞窟]</b>Boss房后面的电梯并打开箱子
+  - id: '4_11'
+    icon: /img/icons/sorceries/06052.png
+    data:
+    - <b>[卡利亚贯刺]</b> - 在<b>[卡利亚城寨]</b>的粪金龟掉落。这只粪金龟是在东侧入口附近发现的。
+  - id: '4_12'
+    icon: /img/icons/sorceries/06013.png
+    data:
+    - <b>[罗蕾塔的大弓]</b> - 杀死<b>[卡利亚城寨]</b>的Boss
+  - id: '4_13'
+    icon: /img/icons/sorceries/06507.png
+    data:
+    - <b>[结冰武器]</b> - <b>[卡利亚城寨]</b>北边的粪金龟。只能在完成<b>[卡利亚城寨]</b>后获取。
+  - id: '4_24'
+    icon: /img/icons/sorceries/06023.png
+    data:
+    - <b>[卡利亚圆阵]</b> - 由<b>[魔法教授赛尔维斯]</b>出售(你必须将药水交给某个NPC或交给<b>[“百智爵士”基甸·奥夫尼尔]</b>处理掉，推进他的任务线以开放商店
+  - id: '4_25'
+    icon: /img/icons/sorceries/06040.png
+    data:
+    - <b>[卡利亚式奉还]</b> - 由<b>[魔法教授赛尔维斯]</b>出售
+  - id: '4_26'
+    icon: /img/icons/sorceries/06030.png
+    data:
+    - <b>[冰雾]</b> - 由<b>[魔法教授赛尔维斯]</b>出售
+  - id: '4_27'
+    icon: /img/icons/sorceries/06028.png
+    data:
+    - <b>[辉石冰块]</b> - 由<b>[魔法教授赛尔维斯]</b>出售
+  - id: '4_28'
+    icon: /img/icons/sorceries/06017.png
+    data:
+    - <b>[海摩炮弹]</b> - <b>[湖之利耶尼亚]</b>东北<b>[改宗边境塔]</b>顶部的宝箱。经过<b>[雷亚卢卡利亚（东门）]</b>北部<b>[彼鲁姆教堂]</b>东北的<b>[癫火村]</b>到达，然后解开一个谜题。您必须装备任何辉石头罩，并在<b>[改宗边境塔]</b>的留言前使用动作<b>[深具睿智]</b>(完成<b>[魔法师托普斯]</b>的任务线获得)。
+  - id: '4_29'
+    icon: /img/icons/sorceries/06020.png
+    data:
+    - <b>[海摩大槌]</b> - 和<b>[海摩炮弹]</b>在同一个宝箱里
+  - id: '4_16'
+    icon: /img/icons/sorceries/06039.png
+    data:
+    - <b>[托普斯的力场]</b> - 给<b>[魔法师托普斯]</b>第二把<b>[学院辉石钥匙]</b>后，你可以在<b>[魔法学院雷亚卢卡利亚]</b>的<b>赐福[校舍内的教室]</b>房间外找到它。
+  - id: '4_17'
+    icon: /img/icons/sorceries/06004.png
+    data:
+    - <b>[旋飞魔砾]</b> - 在完成<b>[魔法师瑟濂]</b>任务线后可以购买(如果你支持她的话)
+- title: '湖之利耶尼亚 第二部分: 完成魔女菈妮任务线后'
+  items:
+  - id: '5_1'
+    icon: /img/icons/sorceries/06031.png
+    data:
+    - <b>[亚杜拉的月光剑]</b> - 在<b>[魔女菈妮]</b>任务线后到达的区域杀死<b>[“辉石龙”亚杜拉]</b>。
+  - id: '5_2'
+    icon: /img/icons/sorceries/06032.png
+    data:
+    - <b>[镇定]</b> - 使用从<b>[魔女菈妮]</b>的任务线得到的<b>[卡利亚颠倒像]</b>在<b>[卡利亚书斋]</b>中杀死<b>[魔法教授米丽安]</b>
+  - id: '5_3'
+    icon: /img/icons/sorceries/06025.png
+    data:
+    - <b>[菈妮的暗月]</b> - 完成<b>[魔女菈妮]</b>的任务线后，进入任务线最后在<b>[湖之利耶尼亚]</b>的高地区域。在这个地区的西南角是<b>[希耶罗那魔法师塔]</b>。解决谜题的方法是杀死3只巨大的海龟，分别在附近的悬崖边上，高地最东南部的悬崖下面，最西北方空中(可以龙卷风跳撞死)。在塔顶有一个宝箱。
+- title: 魔法学院雷亚卢卡利亚
+  items:
+  - id: '6_1'
+    icon: /img/icons/sorceries/06043.png
+    data:
+    - <b>[重力球]</b> - 刚过<b>[魔法学院雷亚卢卡利亚]</b>的旋转电梯，在<b>赐福[校舍内的教室]</b>旁边。所以快速但需要一点技巧的方法是，从赐福点出发看准时机跳到上升的电梯，然后跳到下面的路径。如果你做不到这一点，那就从<b>赐福[杜鹃教堂]</b>出发跑过所有的敌人。通过电梯到达一堆坟墓里有一个敌人。杀了它。
+  - id: '6_6'
+    icon: /img/icons/sorceries/06002.png
+    data:
+    - <b>[辉石彗星]</b> - 由<b>[教室卷轴]</b>解锁。过<b>赐福[校舍内的教室]</b>的房间左转找到一个房间，里面有卷轴。
+  - id: '6_7'
+    icon: /img/icons/sorceries/06016.png
+    data:
+    - <b>[流星雨]</b> - 由<b>[教室卷轴]</b>解锁
+  - id: '6_3'
+    icon: /img/icons/sorceries/06003.png
+    data:
+    - <b>[帚星]</b> - 在<b>[魔法学院雷亚卢卡利亚]</b>中。从<b>赐福[讨论室]</b>回到Boss房间之前的区域。在没有书的书架上找到一堵幻影墙，在那里可以找到魔法。
+  - id: '6_4'
+    icon: /img/icons/sorceries/06033.png
+    data:
+    - <b>[爆散结晶]</b> - 从<b>[魔法学院雷亚卢卡利亚]</b>的<b>赐福[讨论室]</b>出去并向右转。跳下来，然后爬上梯子去屋顶。走到西北方向的<b>[杜鹃教堂]</b>，它就在那里。
+  - id: '6_5'
+    icon: /img/icons/sorceries/06007.png
+    data:
+    - <b>[蕾娜菈的满月]</b> - 从<b>[满月女王的追忆]</b>获得，该追忆是通过杀死<b>[魔法学院雷亚卢卡利亚]</b>的Boss获取。
+- title: 地下 希芙拉河的入口井
+  items:
+  - id: '7_1'
+    icon: /img/icons/sorceries/06607.png
+    data:
+    - <b>[神谕泡泡]</b> - 通过<b>[宁姆格福]</b>森林<b>[希芙拉河的入口井]</b>的升降机进入地下区域。从那里的赐福出发，穿过附近的废墟，然后在最后转身，跳上他们的顶部。到另一边找到并杀死粪金龟。
+  - id: '7_2'
+    icon: /img/icons/sorceries/06608.png
+    data:
+    - <b>[神谕大泡泡]</b> - 通过<b>[宁姆格福]</b>森林<b>[希芙拉河的入口井]</b>的升降机进入地下区域。穿过这个区域到下一个电梯，然后坐电梯到下一个区域。在这个地区的东北方是<b>赐福[信仰者森林]</b>。从赐福向南走，穿过箭雨找到一个倒下的柱子，跳上去到顶部找到传送门。进入附近满是敌人的粪金龟所在的房间。
+- title: 盖利德
+  items:
+  - id: '8_1'
+    icon: /img/icons/sorceries/06071.png
+    data:
+    - <b>[岩石球]</b> - 在沼泽西部的<b>[贤者镇的废墟]</b>北面。
+  - id: '8_2'
+    icon: /img/icons/sorceries/06018.png
+    data:
+    - <b>[爆破岩盘]</b> - 在位于沼泽北部的<b>[瑟利亚结晶坑道]</b>上层的一个宝箱里。可以从<b>[宁姆格福]</b><b>[亚基尔湖南方]</b>废墟的传送陷阱宝箱到达。
+  - id: '8_3'
+    icon: /img/icons/sorceries/06038.png
+    data:
+    - <b>[黑夜彗星]</b> - 在<b>[魔法镇瑟利亚]</b>的一个宝箱里，点亮塔打开封印后可以到达。
+  - id: '8_4'
+    icon: /img/icons/sorceries/06035.png
+    data:
+    - <b>[奔放结晶]</b> - 杀死<b>[瑟利亚隐藏洞窟]</b>的Boss。要找到藏身之处，可以去沼泽东北部的塞利亚。在塔顶点燃篝火，穿过封印门。沿着这条路走到<b>[腐败病教堂]</b>，去教堂的北面找到法师敌人和一个巨大的墓碑。墓碑后面靠山的幻影墙打破后找到隐藏洞窟。
+  - id: '8_5'
+    icon: /img/icons/sorceries/06041.png
+    data:
+    - <b>[亘古黑暗]</b> - 从<b>[腐败病教堂]</b>往南走，穿过附近的门的顶部，然后进入<b>[沼泽监视塔]</b>找到魔法。
+  - id: '8_9'
+    icon: /img/icons/sorceries/06253.png
+    data:
+    - <b>[黑夜女巫烟雾]</b> - 完成<b>[格威的破屋]</b><b>[魔法镇瑟利亚]</b>南方<b>[贤者格威]</b>的请求后出售。
+  - id: '8_10'
+    icon: /img/icons/sorceries/06037.png
+    data:
+    - <b>[黑夜魔砾]</b> - 由<b>[贤者格威]</b>出售
+  - id: '8_7'
+    icon: /img/icons/sorceries/06044.png
+    data:
+    - <b>[碎星]</b> - 在<b>[英灵地下墓地]</b>的一个宝箱里。杀死<b>[“碎星”拉塔恩]</b>后向东北走到尽头可以进入墓地，位于他Boss房间的东北角。宝箱在下面的楼层，在所有战斗中的敌人下面。
+  - id: '8_8'
+    icon: /img/icons/sorceries/06022.png
+    data:
+    - <b>[毁灭流星]</b> - <b>[瑟利亚隐藏洞窟]</b>底部你会发现一个由巫师守卫的封印。杀了他，打开封印，然后和法师交谈获得。
+- title: 格密尔火山
+  items:
+  - id: '9_1'
+    icon: /img/icons/sorceries/06205.png
+    data:
+    - <b>[熔岩球]</b> - 来自<b>[火山官邸]</b>的第一个请求的奖励。
+  - id: '9_2'
+    icon: /img/icons/sorceries/06099.png
+    data:
+    - <b>[提比亚的唤声]</b> - 在杀死<b>[古遗迹断崖]</b>的Boss后，选择通往北方的道路，到达<b>[威达姆废墟]</b>。杀死<b>[提比亚的唤声船]</b>
+  - id: '9_3'
+    icon: /img/icons/sorceries/06213.png
+    data:
+    - <b>[滚烫熔岩]</b> - 在<b>[火山官邸]</b>南边的<b>[遁世者的破屋]</b>。需要绕过北边的区域到达官邸的南边。
+  - id: '9_4'
+    icon: /img/icons/sorceries/06012.png
+    data:
+    - '<b>[彗星亚兹勒]</b> - <b>[火山官邸]</b>东南<b>[遁世者村]</b>以北的<b>[“起源魔法师”亚兹勒]</b>，他躺在地上，有一个水晶头。注意:
+      这个魔法对于<b>[魔法师瑟濂]</b>的任务线是必需的。'
+  - id: '9_5'
+    icon: /img/icons/sorceries/06212.png
+    data:
+    - <b>[格密尔之怒]</b> - 帮助<b>[“叛律者”贝纳尔]</b>完成<b>[火山官邸]</b>任务的奖励。你需要完成至少一个<b>[火山官邸]</b>的请求，并且不能杀死<b>[“亵渎君王”拉卡德]</b>或到达<b>[逐渐崩毁的法姆·亚兹拉]</b>。
+  - id: '9_6'
+    icon: /img/icons/sorceries/06045.png
+    data:
+    - <b>[拉卡德的怨魂]</b> - 杀死<b>[火山官邸]</b>的Boss后获得<b>[亵渎君王的追忆]</b>，可用于交换魔法。
+- title: 亚坛高原
+  items:
+  - id: '10_2'
+    icon: /img/icons/sorceries/06702.png
+    data:
+    - <b>[无形刀刃]</b> - <b>[亚坛高原]</b>北部的<b>[海市蜃楼魔法师塔]</b>，从<b>[小黄金树]</b>向西的路径尽头。要解开这个谜题，触摸三个封印。一个在西南，一个在东方，还有一个在更远的东方隐藏在幻影岩石下面。宝箱在塔顶。
+  - id: '10_3'
+    icon: /img/icons/sorceries/06704.png
+    data:
+    - <b>[化为无形]</b> - 和<b>[无形刀刃]</b>在同一个箱子里
+- title: 深根底层
+  items:
+  - id: '11_1'
+    icon: /img/icons/sorceries/06054.png
+    data:
+    - <b>[菲雅烟雾]</b> - 击败位于<b>赐福[树根前路]</b>上方的Boss，你可以通过沿着建筑的根部到达赐福。
+- title: 巨人山顶
+  items:
+  - id: '12_1'
+    icon: /img/icons/sorceries/06029.png
+    data:
+    - <b>[萨米尔冰风暴]</b> - <b>[萨米尔废墟]</b>南部。
+  - id: '12_2'
+    icon: /img/icons/sorceries/06047.png
+    data:
+    - <b>[责罚荆棘]</b> - 在<b>[萨米尔废墟]</b>向北的路上，火焰主教旁边。
+  - id: '12_3'
+    icon: /img/icons/sorceries/06021.png
+    data:
+    - <b>[创星雨]</b> - <b>赐福[结冰湖]</b>东北部。往北走，在悬崖的南侧找到断桥。这座桥其实是看不见的。过了桥，靠近终点，在左边，你会看到一小层雾，利用雾上升，然后进入<b>[异端魔法师塔]</b>找到魔法
+  - id: '12_4'
+    icon: /img/icons/sorceries/06053.png
+    data:
+    - <b>[迸发灵火]</b> - 在<b>[化圣雪原]</b>西北区域<b>[离教废屋]</b>的东南方向，夜间杀死<b>[死亡仪式鸟]</b>，需要圣树秘密符节。
+  - id: '12_5'
+    icon: /img/icons/sorceries/06042.png
+    data:
+    - <b>[艾丝缇陨石]</b> - 杀死<b>[化圣雪原]</b>西部<b>[耶罗·亚尼斯坑道]</b>的Boss，需要圣树秘密符节。
+- title: 米凯拉的圣树
+  items:
+  - id: '13_1'
+    icon: /img/icons/sorceries/06026.png
+    data:
+    - <b>[罗蕾塔的绝招]</b> - 杀死<b>[米凯拉的圣树]</b>的第一个Boss，需要圣树秘密符节。
