@@ -1868,6 +1868,107 @@
 "incantations_9_4",
 "incantations_9_5",
 "incantations_9_6",
+"incantbyregion_10_1",
+"incantbyregion_10_2",
+"incantbyregion_10_3",
+"incantbyregion_10_4",
+"incantbyregion_10_5",
+"incantbyregion_10_6",
+"incantbyregion_10_7",
+"incantbyregion_10_8",
+"incantbyregion_10_9",
+"incantbyregion_11_1",
+"incantbyregion_11_2",
+"incantbyregion_11_3",
+"incantbyregion_11_4",
+"incantbyregion_12_1",
+"incantbyregion_12_11",
+"incantbyregion_12_12",
+"incantbyregion_12_13",
+"incantbyregion_12_14",
+"incantbyregion_12_15",
+"incantbyregion_12_16",
+"incantbyregion_12_2",
+"incantbyregion_12_3",
+"incantbyregion_12_4",
+"incantbyregion_12_5",
+"incantbyregion_12_6",
+"incantbyregion_12_7",
+"incantbyregion_12_8",
+"incantbyregion_12_9",
+"incantbyregion_1_1",
+"incantbyregion_1_2",
+"incantbyregion_1_3",
+"incantbyregion_1_4",
+"incantbyregion_1_5",
+"incantbyregion_1_6",
+"incantbyregion_2_1",
+"incantbyregion_2_2",
+"incantbyregion_2_3",
+"incantbyregion_2_4",
+"incantbyregion_3_1",
+"incantbyregion_3_10",
+"incantbyregion_3_11",
+"incantbyregion_3_12",
+"incantbyregion_3_13",
+"incantbyregion_3_14",
+"incantbyregion_3_2",
+"incantbyregion_3_3",
+"incantbyregion_3_4",
+"incantbyregion_3_5",
+"incantbyregion_3_6",
+"incantbyregion_3_7",
+"incantbyregion_3_8",
+"incantbyregion_3_9",
+"incantbyregion_4_1",
+"incantbyregion_4_10",
+"incantbyregion_4_11",
+"incantbyregion_4_12",
+"incantbyregion_4_2",
+"incantbyregion_4_3",
+"incantbyregion_4_4",
+"incantbyregion_4_5",
+"incantbyregion_4_6",
+"incantbyregion_4_7",
+"incantbyregion_4_8",
+"incantbyregion_4_9",
+"incantbyregion_5_1",
+"incantbyregion_5_10",
+"incantbyregion_5_11",
+"incantbyregion_5_12",
+"incantbyregion_5_13",
+"incantbyregion_5_2",
+"incantbyregion_5_3",
+"incantbyregion_5_4",
+"incantbyregion_5_5",
+"incantbyregion_5_6",
+"incantbyregion_5_7",
+"incantbyregion_5_8",
+"incantbyregion_5_9",
+"incantbyregion_6_1",
+"incantbyregion_6_2",
+"incantbyregion_6_3",
+"incantbyregion_6_4",
+"incantbyregion_7_1",
+"incantbyregion_7_2",
+"incantbyregion_7_3",
+"incantbyregion_7_4",
+"incantbyregion_7_5",
+"incantbyregion_7_6",
+"incantbyregion_7_7",
+"incantbyregion_7_8",
+"incantbyregion_7_9",
+"incantbyregion_8_1",
+"incantbyregion_8_2",
+"incantbyregion_8_3",
+"incantbyregion_8_4",
+"incantbyregion_8_5",
+"incantbyregion_9_1",
+"incantbyregion_9_2",
+"incantbyregion_9_3",
+"incantbyregion_9_4",
+"incantbyregion_9_5",
+"incantbyregion_9_6",
 "legendaries_1_1",
 "legendaries_1_1_0",
 "legendaries_1_1_1",
@@ -3294,6 +3395,76 @@
 "scrolls_prayerbooks_1_6",
 "scrolls_prayerbooks_1_7",
 "scrolls_prayerbooks_1_8",
+"sorcbyregion_10_2",
+"sorcbyregion_10_3",
+"sorcbyregion_11_1",
+"sorcbyregion_12_1",
+"sorcbyregion_12_2",
+"sorcbyregion_12_3",
+"sorcbyregion_12_4",
+"sorcbyregion_12_5",
+"sorcbyregion_13_1",
+"sorcbyregion_1_10",
+"sorcbyregion_1_3",
+"sorcbyregion_1_4",
+"sorcbyregion_1_5",
+"sorcbyregion_1_6",
+"sorcbyregion_1_7",
+"sorcbyregion_1_8",
+"sorcbyregion_1_9",
+"sorcbyregion_2_1",
+"sorcbyregion_2_2",
+"sorcbyregion_3_1",
+"sorcbyregion_4_1",
+"sorcbyregion_4_11",
+"sorcbyregion_4_12",
+"sorcbyregion_4_13",
+"sorcbyregion_4_16",
+"sorcbyregion_4_17",
+"sorcbyregion_4_18",
+"sorcbyregion_4_19",
+"sorcbyregion_4_20",
+"sorcbyregion_4_21",
+"sorcbyregion_4_22",
+"sorcbyregion_4_23",
+"sorcbyregion_4_24",
+"sorcbyregion_4_25",
+"sorcbyregion_4_26",
+"sorcbyregion_4_27",
+"sorcbyregion_4_28",
+"sorcbyregion_4_29",
+"sorcbyregion_4_4",
+"sorcbyregion_4_5",
+"sorcbyregion_4_6",
+"sorcbyregion_4_7",
+"sorcbyregion_4_8",
+"sorcbyregion_4_9",
+"sorcbyregion_5_1",
+"sorcbyregion_5_2",
+"sorcbyregion_5_3",
+"sorcbyregion_6_1",
+"sorcbyregion_6_3",
+"sorcbyregion_6_4",
+"sorcbyregion_6_5",
+"sorcbyregion_6_6",
+"sorcbyregion_6_7",
+"sorcbyregion_7_1",
+"sorcbyregion_7_2",
+"sorcbyregion_8_1",
+"sorcbyregion_8_10",
+"sorcbyregion_8_2",
+"sorcbyregion_8_3",
+"sorcbyregion_8_4",
+"sorcbyregion_8_5",
+"sorcbyregion_8_7",
+"sorcbyregion_8_8",
+"sorcbyregion_8_9",
+"sorcbyregion_9_1",
+"sorcbyregion_9_2",
+"sorcbyregion_9_3",
+"sorcbyregion_9_4",
+"sorcbyregion_9_5",
+"sorcbyregion_9_6",
 "sorceries_10_2",
 "sorceries_10_3",
 "sorceries_11_1",
@@ -3331,8 +3502,6 @@
 "sorceries_4_26",
 "sorceries_4_27",
 "sorceries_4_28",
-"sorceries_4_28_0",
-"sorceries_4_28_1",
 "sorceries_4_29",
 "sorceries_4_4",
 "sorceries_4_5",
@@ -4265,10 +4434,14 @@ const talismans_total = 121;
 var talismans_checked = 0;
 const talisbyregion_total = 121;
 var talisbyregion_checked = 0;
-const sorceries_total = 72;
+const sorceries_total = 70;
 var sorceries_checked = 0;
+const sorcbyregion_total = 70;
+var sorcbyregion_checked = 0;
 const incantations_total = 101;
 var incantations_checked = 0;
+const incantbyregion_total = 101;
+var incantbyregion_checked = 0;
 const ashesofwar_total = 106;
 var ashesofwar_checked = 0;
 const spirit_ashes_total = 64;
@@ -4353,8 +4526,14 @@ talisbyregion_checked += 1;
 if (id.startsWith("sorceries_")) {
 sorceries_checked += 1;
 }
+if (id.startsWith("sorceries_")) {
+sorcbyregion_checked += 1;
+}
 if (id.startsWith("incantations_")) {
 incantations_checked += 1;
+}
+if (id.startsWith("incantations_")) {
+incantbyregion_checked += 1;
 }
 if (id.startsWith("ashesofwar_")) {
 ashesofwar_checked += 1;
@@ -4488,10 +4667,20 @@ $("#sorceries_progress_total").html("DONE");
 } else {
 $("#sorceries_progress_total").html(sorceries_checked + "/" + sorceries_total);
 }
+if (sorcbyregion_checked >= sorcbyregion_total){
+$("#sorcbyregion_progress_total").html("DONE");
+} else {
+$("#sorcbyregion_progress_total").html(sorcbyregion_checked + "/" + sorcbyregion_total);
+}
 if (incantations_checked >= incantations_total){
 $("#incantations_progress_total").html("DONE");
 } else {
 $("#incantations_progress_total").html(incantations_checked + "/" + incantations_total);
+}
+if (incantbyregion_checked >= incantbyregion_total){
+$("#incantbyregion_progress_total").html("DONE");
+} else {
+$("#incantbyregion_progress_total").html(incantbyregion_checked + "/" + incantbyregion_total);
 }
 if (ashesofwar_checked >= ashesofwar_total){
 $("#ashesofwar_progress_total").html("DONE");
