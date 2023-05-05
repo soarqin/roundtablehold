@@ -287,18 +287,18 @@ sections:
     - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Loretta's+Slash"><b>罗蕾塔的斩击</b></a>
     - <b>禁卫骑士罗蕾塔的战技。<br>向前跳的同时，将辉石的魔力灌入剑身，<br>再加快速度瞬间斩下。</b>
     - 在<b>[利耶尼亚]</b><b>[卡利亚城寨]</b>中的<b>[禁卫骑士罗蕾塔]</b>掉落。
-  - id: '8_10'
-    icon: /img/icons/ashes_of_war/08407.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Waves+of+Darkness"><b>黑暗波动</b></a>
-    - <b>将武器刺入地面后，在自身周围<br>产生三道黑暗波动的战技。<br>发动后接着使出重攻击，能回旋横扫攻击。</b>
-    - 在<b>[圆桌厅堂]</b>用<b>[黑暗弃子的追忆]</b>交换。
   - id: '8_6'
     icon: /img/icons/ashes_of_war/08338.png
     data:
     - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Gravitas"><b>重力</b></a>
     - <b>源自拥有石质皮肤的白王的战技。<br>将武器刺入地面，产生重力波，<br>能给予敌人伤害，同时将对方拉近自己。</b>
     - 在<b>[宁姆格福]</b>南部的<b>赐福[傍海古遗迹]</b>的海滩上一个瘦长骷髅掉落。从悬崖上下去时要小心。
+  - id: '8_10'
+    icon: /img/icons/ashes_of_war/08407.png
+    data:
+    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Waves+of+Darkness"><b>黑暗波动</b></a>
+    - <b>将武器刺入地面后，在自身周围<br>产生三道黑暗波动的战技。<br>发动后接着使出重攻击，能回旋横扫攻击。</b>
+    - 在<b>[圆桌厅堂]</b>用<b>[黑暗弃子的追忆]</b>交换。
 - title: 火焰
   table:
   - 名称

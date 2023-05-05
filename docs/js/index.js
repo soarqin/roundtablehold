@@ -3547,6 +3547,127 @@
 "stonesword_s7",
 "stonesword_s8",
 "stonesword_s9",
+"talisbyregion_10_1",
+"talisbyregion_10_2",
+"talisbyregion_10_3",
+"talisbyregion_10_4",
+"talisbyregion_10_5",
+"talisbyregion_10_6",
+"talisbyregion_10_7",
+"talisbyregion_10_8",
+"talisbyregion_10_9",
+"talisbyregion_11_1",
+"talisbyregion_11_2",
+"talisbyregion_11_3",
+"talisbyregion_11_4",
+"talisbyregion_11_5",
+"talisbyregion_12_1",
+"talisbyregion_12_2",
+"talisbyregion_13_1",
+"talisbyregion_13_2",
+"talisbyregion_14_1",
+"talisbyregion_14_2",
+"talisbyregion_14_3",
+"talisbyregion_15_1",
+"talisbyregion_16_1",
+"talisbyregion_17_1",
+"talisbyregion_18_1",
+"talisbyregion_19_1",
+"talisbyregion_1_1",
+"talisbyregion_1_2",
+"talisbyregion_1_3",
+"talisbyregion_1_4",
+"talisbyregion_1_5",
+"talisbyregion_1_6",
+"talisbyregion_1_7",
+"talisbyregion_2_1",
+"talisbyregion_2_10",
+"talisbyregion_2_11",
+"talisbyregion_2_12",
+"talisbyregion_2_13",
+"talisbyregion_2_14",
+"talisbyregion_2_15",
+"talisbyregion_2_16",
+"talisbyregion_2_17",
+"talisbyregion_2_18",
+"talisbyregion_2_19",
+"talisbyregion_2_2",
+"talisbyregion_2_3",
+"talisbyregion_2_4",
+"talisbyregion_2_5",
+"talisbyregion_2_6",
+"talisbyregion_2_7",
+"talisbyregion_2_8",
+"talisbyregion_2_9",
+"talisbyregion_3_1",
+"talisbyregion_3_2",
+"talisbyregion_3_3",
+"talisbyregion_3_4",
+"talisbyregion_4_1",
+"talisbyregion_4_10",
+"talisbyregion_4_11",
+"talisbyregion_4_12",
+"talisbyregion_4_13",
+"talisbyregion_4_14",
+"talisbyregion_4_15",
+"talisbyregion_4_16",
+"talisbyregion_4_17",
+"talisbyregion_4_18",
+"talisbyregion_4_19",
+"talisbyregion_4_2",
+"talisbyregion_4_20",
+"talisbyregion_4_3",
+"talisbyregion_4_4",
+"talisbyregion_4_5",
+"talisbyregion_4_6",
+"talisbyregion_4_7",
+"talisbyregion_4_8",
+"talisbyregion_4_9",
+"talisbyregion_5_1",
+"talisbyregion_5_10",
+"talisbyregion_5_11",
+"talisbyregion_5_12",
+"talisbyregion_5_13",
+"talisbyregion_5_2",
+"talisbyregion_5_3",
+"talisbyregion_5_4",
+"talisbyregion_5_5",
+"talisbyregion_5_6",
+"talisbyregion_5_7",
+"talisbyregion_5_8",
+"talisbyregion_5_9",
+"talisbyregion_6_1",
+"talisbyregion_6_10",
+"talisbyregion_6_11",
+"talisbyregion_6_2",
+"talisbyregion_6_3",
+"talisbyregion_6_4",
+"talisbyregion_6_5",
+"talisbyregion_6_6",
+"talisbyregion_6_7",
+"talisbyregion_6_8",
+"talisbyregion_6_9",
+"talisbyregion_7_1",
+"talisbyregion_7_2",
+"talisbyregion_7_4",
+"talisbyregion_7_5",
+"talisbyregion_7_6",
+"talisbyregion_7_7",
+"talisbyregion_7_8",
+"talisbyregion_7_9",
+"talisbyregion_8_1",
+"talisbyregion_8_2",
+"talisbyregion_8_3",
+"talisbyregion_8_4",
+"talisbyregion_8_5",
+"talisbyregion_8_6",
+"talisbyregion_8_7",
+"talisbyregion_8_8",
+"talisbyregion_9_1",
+"talisbyregion_9_2",
+"talisbyregion_9_3",
+"talisbyregion_9_4",
+"talisbyregion_9_5",
 "talismans_10_1",
 "talismans_10_2",
 "talismans_10_3",
@@ -4142,6 +4263,8 @@ const armor_total = 512;
 var armor_checked = 0;
 const talismans_total = 121;
 var talismans_checked = 0;
+const talisbyregion_total = 121;
+var talisbyregion_checked = 0;
 const sorceries_total = 72;
 var sorceries_checked = 0;
 const incantations_total = 101;
@@ -4188,106 +4311,109 @@ const gestures_total = 48;
 var gestures_checked = 0;
 for (var id in profiles[profilesKey][profiles.current].checklistData) {
 if (profiles[profilesKey][profiles.current].checklistData[id] === true && all_ids.has(id)) {
-if (id.startsWith("playthrough")) {
+if (id.startsWith("playthrough_")) {
 playthrough_checked += 1;
 }
-if (id.startsWith("quest_order_tldr")) {
+if (id.startsWith("quest_order_tldr_")) {
 quest_order_tldr_checked += 1;
 }
-if (id.startsWith("npc_quests")) {
+if (id.startsWith("npc_quests_")) {
 npc_quests_checked += 1;
 }
-if (id.startsWith("achievements")) {
+if (id.startsWith("achievements_")) {
 achievements_checked += 1;
 }
-if (id.startsWith("legendaries")) {
+if (id.startsWith("legendaries_")) {
 legendaries_checked += 1;
 }
-if (id.startsWith("bosses")) {
+if (id.startsWith("bosses_")) {
 bosses_checked += 1;
 }
-if (id.startsWith("caves")) {
+if (id.startsWith("caves_")) {
 caves_checked += 1;
 }
-if (id.startsWith("graces")) {
+if (id.startsWith("graces_")) {
 graces_checked += 1;
 }
-if (id.startsWith("illusory_walls")) {
+if (id.startsWith("illusory_walls_")) {
 illusory_walls_checked += 1;
 }
-if (id.startsWith("weapons")) {
+if (id.startsWith("weapons_")) {
 weapons_checked += 1;
 }
-if (id.startsWith("armor")) {
+if (id.startsWith("armor_")) {
 armor_checked += 1;
 }
-if (id.startsWith("talismans")) {
+if (id.startsWith("talismans_")) {
 talismans_checked += 1;
 }
-if (id.startsWith("sorceries")) {
+if (id.startsWith("talismans_")) {
+talisbyregion_checked += 1;
+}
+if (id.startsWith("sorceries_")) {
 sorceries_checked += 1;
 }
-if (id.startsWith("incantations")) {
+if (id.startsWith("incantations_")) {
 incantations_checked += 1;
 }
-if (id.startsWith("ashesofwar")) {
+if (id.startsWith("ashesofwar_")) {
 ashesofwar_checked += 1;
 }
-if (id.startsWith("spirit_ashes")) {
+if (id.startsWith("spirit_ashes_")) {
 spirit_ashes_checked += 1;
 }
-if (id.startsWith("flasks")) {
+if (id.startsWith("flasks_")) {
 flasks_checked += 1;
 }
-if (id.startsWith("crystal_tears")) {
+if (id.startsWith("crystal_tears_")) {
 crystal_tears_checked += 1;
 }
-if (id.startsWith("memory_stones_talisman_pouches")) {
+if (id.startsWith("memory_stones_talisman_pouches_")) {
 memory_stones_talisman_pouches_checked += 1;
 }
-if (id.startsWith("scrolls_prayerbooks")) {
+if (id.startsWith("scrolls_prayerbooks_")) {
 scrolls_prayerbooks_checked += 1;
 }
-if (id.startsWith("whetstones")) {
+if (id.startsWith("whetstones_")) {
 whetstones_checked += 1;
 }
-if (id.startsWith("bell_bearings")) {
+if (id.startsWith("bell_bearings_")) {
 bell_bearings_checked += 1;
 }
-if (id.startsWith("cookbooks")) {
+if (id.startsWith("cookbooks_")) {
 cookbooks_checked += 1;
 }
-if (id.startsWith("ancient_dragon_smithing_stones")) {
+if (id.startsWith("ancient_dragon_smithing_stones_")) {
 ancient_dragon_smithing_stones_checked += 1;
 }
-if (id.startsWith("great_gloveworts")) {
+if (id.startsWith("great_gloveworts_")) {
 great_gloveworts_checked += 1;
 }
-if (id.startsWith("remembrances_mausoleums")) {
+if (id.startsWith("remembrances_mausoleums_")) {
 remembrances_mausoleums_checked += 1;
 }
-if (id.startsWith("great_runes")) {
+if (id.startsWith("great_runes_")) {
 great_runes_checked += 1;
 }
-if (id.startsWith("stonesword")) {
+if (id.startsWith("stonesword_")) {
 stonesword_checked += 1;
 }
-if (id.startsWith("dragon_hearts_death_roots")) {
+if (id.startsWith("dragon_hearts_death_roots_")) {
 dragon_hearts_death_roots_checked += 1;
 }
-if (id.startsWith("tears_dews")) {
+if (id.startsWith("tears_dews_")) {
 tears_dews_checked += 1;
 }
-if (id.startsWith("paintings")) {
+if (id.startsWith("paintings_")) {
 paintings_checked += 1;
 }
-if (id.startsWith("pots_bottles")) {
+if (id.startsWith("pots_bottles_")) {
 pots_bottles_checked += 1;
 }
-if (id.startsWith("tools")) {
+if (id.startsWith("tools_")) {
 tools_checked += 1;
 }
-if (id.startsWith("gestures")) {
+if (id.startsWith("gestures_")) {
 gestures_checked += 1;
 }
 }
@@ -4351,6 +4477,11 @@ if (talismans_checked >= talismans_total){
 $("#talismans_progress_total").html("DONE");
 } else {
 $("#talismans_progress_total").html(talismans_checked + "/" + talismans_total);
+}
+if (talisbyregion_checked >= talisbyregion_total){
+$("#talisbyregion_progress_total").html("DONE");
+} else {
+$("#talisbyregion_progress_total").html(talisbyregion_checked + "/" + talisbyregion_total);
 }
 if (sorceries_checked >= sorceries_total){
 $("#sorceries_progress_total").html("DONE");

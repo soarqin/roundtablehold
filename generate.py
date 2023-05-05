@@ -70,6 +70,8 @@ for page in pages:
                 item = next(items)
                 for subitem in item:
                     f(subitem)
+    if 'realid' not in page:
+        page['realid'] = page['id']
 
 def make_doc(title, description):
     doc = dominate.document(title=title)
@@ -435,7 +437,7 @@ def make_checklist(page):
                     section['num_ids'] = 0
                     with div(cls='card shadow-sm mb-3', id=page['id'] + '_section_' + str(s_idx)).add(div(cls='card-body')):
                         with h4(cls="mt-1"):
-                            with button(href="#" + page['id'] + '_' + str(s_idx) + "Col", data_bs_toggle="collapse", data_bs_target="#" + page['id'] + '_' + str(s_idx) + "Col", cls="btn btn-primary btn-sm me-2 collapse-button d-print-none", role="button"):
+                            with button(href="#" + page['realid'] + '_' + str(s_idx) + "Col", data_bs_toggle="collapse", data_bs_target="#" + page['realid'] + '_' + str(s_idx) + "Col", cls="btn btn-primary btn-sm me-2 collapse-button d-print-none", role="button"):
                                 i(cls='bi bi-chevron-up d-print-none')
                             if 'icon' in section:
                                 add_icon(section['icon'], 'me-1')
@@ -445,7 +447,7 @@ def make_checklist(page):
                                 span(section['title'], cls='d-print-inline')
                             span(id=page['id'] + "_totals_" + str(s_idx), cls="mt-0 badge rounded-pill d-print-none")
                         if 'table' in section:
-                            with div(id=page['id'] + '_' + str(s_idx) + "Col", cls="collapse show row", aria_expanded="true"):
+                            with div(id=page['realid'] + '_' + str(s_idx) + "Col", cls="collapse show row", aria_expanded="true"):
                                 if isinstance(section['table'], list):
                                     table_cols = len(section['table'])
                                     size = floor(12 / table_cols)
@@ -470,14 +472,14 @@ def make_checklist(page):
                                                     div(cls="ms-0 ps-0 d-flex align-items-center col-md-" + col_size).add(label(strong(header), cls='ms-0 ps-0'))
                                     for item in items:
                                         id = str(item['id'])
-                                        with li(cls="list-group-item searchable", data_id=page['id'] + '_' + id, id='item_' + id):
+                                        with li(cls="list-group-item searchable", data_id=page['realid'] + '_' + id, id='item_' + id):
                                             if isinstance(item, str):
                                                 h5(item)
                                                 continue
                                             with div(cls="row form-check checkbox d-flex"):
                                                 with div(cls="col-auto d-flex align-items-center"):
                                                     input_(cls="form-check-input pe-0 me-0", type="checkbox", value="",
-                                                            id=page['id'] + '_' + id, data_section_idx=str(s_idx))
+                                                            id=page['realid'] + '_' + id, data_section_idx=str(s_idx))
                                                     page['num_ids'] += 1
                                                     section['num_ids'] += 1
                                                 with div(cls='col-auto d-flex align-items-center order-last'):
@@ -486,19 +488,19 @@ def make_checklist(page):
                                                         href += 'x={}&y={}'.format(item['map_link'][0], item['map_link'][1])
                                                     else:
                                                         href += 'target={}_{}'.format(page['id'], item['id'])
-                                                    href += '&id={}&link={}&title={}'.format(page['id'] + '_' + id, '/checklists/' + to_snake_case(page['id']) + '.html%23item_' + id, item['map_title'] if 'map_title' in item else item['data'][0])
+                                                    href += '&id={}&link={}&title={}'.format(page['realid'] + '_' + id, '/checklists/' + to_snake_case(page['id']) + '.html%23item_' + id, item['map_title'] if 'map_title' in item else item['data'][0])
                                                     a(href=href, cls=('invisible' if (('cords' not in item) and ('map_link' not in item)) else '')).add(i(cls='bi bi-geo-alt'))
                                                 with div(cls="col d-flex align-items-center d-md-block d-none").add(div(cls="row")):
                                                     for pos in range(table_cols):
                                                         col_size = str(table_widths[pos])
                                                         with div(cls="ms-0 ps-0 d-flex align-items-center col-md-" + col_size):
-                                                            with label(cls="form-check-label item_content ms-0 ps-0", _for=page['id'] + '_' + id):
+                                                            with label(cls="form-check-label item_content ms-0 ps-0", _for=page['realid'] + '_' + id):
                                                                 if pos == 0 and 'icon' in item:
                                                                     add_icon(item['icon'], 'me-1')
                                                                 if item['data'][pos]:
                                                                     raw(item['data'][pos])
                                                 with div(cls='col d-md-none'):
-                                                    with label(cls="form-check-label item_content ms-0 ps-0", _for=page['id'] + '_' + id):
+                                                    with label(cls="form-check-label item_content ms-0 ps-0", _for=page['realid'] + '_' + id):
                                                         if 'icon' in item:
                                                             add_icon(item['icon'], 'float-end')
                                                         for pos in range(table_cols):
@@ -510,7 +512,7 @@ def make_checklist(page):
                                                                 br()
 
                         else:
-                            with div(id=page['id'] + '_' + str(s_idx) + "Col", cls="collapse show", aria_expanded="true"):
+                            with div(id=page['realid'] + '_' + str(s_idx) + "Col", cls="collapse show", aria_expanded="true"):
                                 items = peekable(section['items'])
                                 if isinstance(items.peek(), str):
                                     item = next(items)
@@ -525,8 +527,8 @@ def make_checklist(page):
                                         id = str(item['id'])
                                         with li(data_id=page['id'] + "_" + id, cls="list-group-item searchable ps-0", id='item_' + id):
                                             with div(cls="form-check checkbox d-flex align-items-center"):
-                                                input_(cls="form-check-input", type="checkbox", value="", id=page['id'] + '_' + id, data_section_idx=str(s_idx))
-                                                with label(cls="form-check-label item_content", _for=page['id'] + '_' + id):
+                                                input_(cls="form-check-input", type="checkbox", value="", id=page['realid'] + '_' + id, data_section_idx=str(s_idx))
+                                                with label(cls="form-check-label item_content", _for=page['realid'] + '_' + id):
                                                     if 'icon' in item:
                                                         add_icon(item['icon'], 'float-md-none float-end me-md-1')
                                                     raw(item['data'][0])
@@ -536,7 +538,7 @@ def make_checklist(page):
                                                         href += 'x={}&y={}'.format(item['map_link'][0], item['map_link'][1])
                                                     else:
                                                         href += 'target={}_{}'.format(page['id'], id)
-                                                    href += '&id={}&link={}&title={}'.format(page['id'] + '_' + id, '/checklists/' + to_snake_case(page['id']) + '.html%23item_' + id, item['map_title'] if 'map_title' in item else item['data'][0])
+                                                    href += '&id={}&link={}&title={}'.format(page['realid'] + '_' + id, '/checklists/' + to_snake_case(page['id']) + '.html%23item_' + id, item['map_title'] if 'map_title' in item else item['data'][0])
                                                     a(href=href, cls='ms-2').add(i(cls='bi bi-geo-alt'))
                                                 page['num_ids'] += 1
                                                 section['num_ids'] += 1
@@ -724,7 +726,7 @@ def make_index_js():
         f.write('for (var id in profiles[profilesKey][profiles.current].checklistData) {\n')
         f.write('if (profiles[profilesKey][profiles.current].checklistData[id] === true && all_ids.has(id)) {\n')
         for page in pages:
-            f.write('if (id.startsWith("{page_id}")) {{\n'.format(page_id=page['id']))
+            f.write('if (id.startsWith("{page_id}_")) {{\n'.format(page_id=page['realid']))
             f.write(page['id'] + '_checked += 1;\n}\n')
         f.write('}\n')
         f.write('}\n')
@@ -801,14 +803,14 @@ def make_feature(page, section, item):
     icon, icon_size = get_icon(page, section, item)
     return {
         'type': 'Feature',
-        'id': page['id'] + '_' + item['id'],
+        'id': page['realid'] + '_' + item['id'],
         'geometry': {
             'type': 'Point',
             'coordinates': item['cords'],
         },
         'properties': {
             'title': item['map_title'] if 'map_title' in item else item['data'][0],
-            'id': page['id'] + '_' + item['id'],
+            'id': page['realid'] + '_' + item['id'],
             'group': page['id'],
             'icon': icon,
             'icon_size': icon_size,

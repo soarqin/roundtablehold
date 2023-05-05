@@ -12064,152 +12064,104 @@
     "text": "红琥珀链坠 可以选一个作为遗物。 能提升血量的上限(~6%)"
   },
   {
-    "id": "/checklists/talismans.html#item_2_2",
-    "text": "咆哮链坠 [宁姆格福坑道]的[挖石山妖]掉落 能强化咆哮与吐息"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_3",
-    "text": "火龙徽护符 [宁姆格福]中的[近林洞窟]中的[法姆·亚兹拉的兽人]掉落 能提升火属性减伤率(13%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_4",
-    "text": "圣龙徽护符 在[漂流墓地]的一具尸体上发现，只能通过赐福[傍海古遗迹]下面的海滩进入 能提升圣属性减伤率(13%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_5",
-    "text": "斧护符 在[雾林废墟]下面的一个地窖中发现 能强化蓄力攻击(10%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_6",
-    "text": "死王子的脓疮 在[史东薇尔城]地下找到，可以通过赐福[城墙塔]到达 提升抗死度(90点)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_7",
-    "text": "钩爪护符 在一个可以从赐福[城墙塔]进入的瞭望塔的尸体上发现 能强化跳跃攻击(15%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_8",
-    "text": "曲剑护符 在[史东薇尔城]与失乡骑士战斗的房间内的一个宝箱中 能强化防御反击(20%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_9",
-    "text": "雷龙徽护符 在前往[宁姆格福神授塔]路上的尸体上 提升雷属性减伤率(13%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_10",
-    "text": "绿龟护符 发现于[水唤村]外的地下区域 能提升精力的恢复速度(8点/秒, +17.7%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_11",
-    "text": "大槌护符 在[风暴山丘的破屋]东北的[“叛律者”亨利克斯]掉落 当敌人防御，攻击时能增加对方消耗的精力(20%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_12",
-    "text": "远箭护符 在[风暴关卡]塔内的宝箱中发现 能提升弓的射程距离"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_13",
-    "text": "蓝色舞娘 [大道下的洞窟]中的[魔像守卫]掉落 装备重量越轻，攻击力会越高"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_14",
-    "text": "骑枪护符 发现于[风暴山丘]东北 提升骑马时的攻击力(15%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_15",
-    "text": "牺牲细枝 在[蒙流洞窟][帕奇]的商店里以5000卢恩购买 死亡时不会掉落卢恩，但护符会消失"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_16",
-    "text": "黄金树的恩惠 在[边境英雄墓地]，由两个[“接肢”贵族后裔]在一个秘密区域守卫着 能提升血量、精力、装备重量的上限(3%,6.75%,5%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_17",
-    "text": "蓝羽七刃剑 [习战者的破屋]东的[死之鸟]掉落 血量偏低时，能提升防御力(生命值低于20%时激活，提高减伤率:当前减伤率/2+50)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_18",
-    "text": "染红凶刀 [死亡降临的地下墓地]中的[黑刀刺客]掉落 使出致命一击能恢复血量(治疗10%最大HP+85HP)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_2_19",
-    "text": "圣对蝎 [“吞噬褪色者”安娜塔西亚]掉落 能提升圣属性攻击力，但降低减伤率(圣属性攻击力在PvE和PvP中分别提高12%和8%; 物理伤害在PvE在PvP分别增加10%和15%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_11_1",
-    "text": "战士壶碎片 不完成[“战士壶”亚历山大]的任务线的情况下杀死他获得，可以选择在之后他出现的其他地点杀死他，但不能是在任务线结束的时候。 能提升战技的攻击力(10%)"
-  },
-  {
     "id": "/checklists/talismans.html#item_1_1",
     "text": "红琥珀链坠 可以在[啜泣半岛]东边的[流浪民族的商人]以1500卢恩购买 能提升血量的上限(~6%)"
   },
   {
-    "id": "/checklists/talismans.html#item_1_2",
-    "text": "牺牲细枝 (x3) 可以在[啜泣半岛]西边的[隐居商人]以3000卢恩购买 死亡时不会掉落卢恩，但护符会消失"
+    "id": "/checklists/talismans.html#item_7_1",
+    "text": "红琥珀链坠＋１ 在[火山官邸]在一个小恶魔像后面的一具尸体上发现，可以从赐福[牢镇教堂]到达 能大幅提升血量的上限(7%)"
   },
   {
-    "id": "/checklists/talismans.html#item_1_3",
-    "text": "绿琥珀链坠 击败[灵庙原野洞窟]中的[“病花”米兰达]的奖励 能提升精力的上限(11%)"
+    "id": "/checklists/talismans.html#item_12_1",
+    "text": "红琥珀链坠＋２ 在[“灰烬王城”罗德尔]中在进入[弃置恶兆的地底]前的位置 能更大幅提升血量的上限(7.5%)"
   },
   {
-    "id": "/checklists/talismans.html#item_1_4",
-    "text": "牺牲细枝 在[摩恩城]第一次和[城主艾德格]交谈时给予 死亡时不会掉落卢恩，但护符会消失"
+    "id": "/checklists/talismans.html#item_6_9",
+    "text": "红种子护符 在[尊贵者的英雄墓地]中找到 能提升红露滴圣杯瓶的恢复量(20%)"
   },
   {
-    "id": "/checklists/talismans.html#item_1_5",
-    "text": "魔力龙徽护符 击败[啜泣半岛]的[垂穴洞窟]终点处[卢恩熊]的奖励 能提升魔力属性减伤率(PvE:13%;PVP:4%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_1_6",
-    "text": "拉达冈的烙印 [啜泣的封印监牢]中的[萨米尔的古英雄]掉落 能提升能力值，但增加受到的损伤(3点属性，~5%额外伤害)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_1_7",
-    "text": "双头剑护符 从赐福[城堡后方]往西走在塔顶发现 能强化连续攻击的最后一记攻击(20%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_3_1",
-    "text": "众武护符 打败[史东薇尔城]中的[“接肢”葛瑞克]后与[战士涅斐丽·露]交谈获得 能提升装备重量的上限(15%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_3_2",
-    "text": "勾指伪装镜 可以在[圆桌厅堂]用5000卢恩从[孪生老妪]购买 能变得像是勾指主人"
-  },
-  {
-    "id": "/checklists/talismans.html#item_3_3",
-    "text": "主人伪装镜 可以在[圆桌厅堂]用5000卢恩从[孪生老妪]购买 能变得像是协助者"
-  },
-  {
-    "id": "/checklists/talismans.html#item_3_4",
-    "text": "祖灵角 交换[祖灵之王的追忆]获得 打倒敌人时，能恢复专注值(每次击杀恢复3点FP)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_1",
-    "text": "染蓝凶刀 [黑刀地下墓地]中的[黑刀刺客]掉落 使出致命一击能恢复专注值(15点)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_2",
-    "text": "牺牲细枝 在[湖之利耶尼亚]南部的一具尸体上发现，只能从[小偷的封印监牢]的顶部进入 死亡时不会掉落卢恩，但护符会消失"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_3",
-    "text": "魔法师球护符 在[魔法学院雷亚卢卡利亚]学院的一堵幻影墙和进入后的梯子后面，靠近赐福[讨论室]的一个房间里。 能提升魔法的威力(8%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_4",
-    "text": "拉达冈的肖像 在[讨论室]二楼发现，可以通过跳过庭院的栅栏到达 能缩短魔法、祷告的咏唱时间(在法术施法时给予30点虚拟敏捷(包括巫术和咒语)。施法速度上限为70敏捷)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_5",
-    "text": "长尾猫别针 在学院纺车底部的一具尸体上发现 从高处落下时，能完全不受到损伤但是无法避免过高落下时，造成的死亡"
+    "id": "/checklists/talismans.html#item_8_8",
+    "text": "恩惠露滴护符 在[王城罗德尔][神授桥]上的一个宝箱中发现，由一个魔像守卫。可以从[啜泣半岛]南部[归还塔]顶的传送门抵达 能缓慢恢复血量(2点/秒)。"
   },
   {
     "id": "/checklists/talismans.html#item_4_6",
     "text": "蓝琥珀链坠 [湖旁结晶洞窟]中的[猎犬骑士]掉落 能提升专注值的上限(7%)"
   },
   {
+    "id": "/checklists/talismans.html#item_9_1",
+    "text": "蓝琥珀链坠＋１ 在[索尔城]南墙上方的木制壁架的尸体上。 能大幅提升专注值的上限(9%)"
+  },
+  {
     "id": "/checklists/talismans.html#item_4_7",
     "text": "蓝琥珀链坠＋２ 在[月之贵族废墟]西北的一个地下房间的宝箱中发现 能更大幅提升专注值的上限(11%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_16",
+    "text": "蓝种子护符 在[卡利亚书斋]的屋梁上发现，可从屋顶进入 能提升蓝露滴圣杯瓶的恢复量(20%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_1_3",
+    "text": "绿琥珀链坠 击败[灵庙原野洞窟]中的[“病花”米兰达]的奖励 能提升精力的上限(11%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_8_1",
+    "text": "绿琥珀链坠＋１ [王城外围]中的[“恶兆妖鬼”玛尔基特]掉落 能大幅提升精力的上限(13%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_10_1",
+    "text": "绿琥珀链坠＋２ 在靠近赐福[圣树镇（广场）]的从召唤蜗牛所在的屋顶到达房间的宝箱中 能更大幅提升精力的上限(15%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_10",
+    "text": "绿龟护符 发现于[水唤村]外的地下区域 能提升精力的恢复速度(8点/秒, +17.7%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_3_1",
+    "text": "众武护符 打败[史东薇尔城]中的[“接肢”葛瑞克]后与[战士涅斐丽·露]交谈获得 能提升装备重量的上限(15%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_6_1",
+    "text": "众武护符＋１ 在[亚坛坑道]一具尸体上发现 能大幅提升装备重量的上限(17%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_5_3",
+    "text": "大壶众武护符 在[盖利德]斗兽场附近击败大壶的奖励 能更大幅提升装备重量的上限(基于耐力的16-19%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_16",
+    "text": "黄金树的恩惠 在[边境英雄墓地]，由两个[“接肢”贵族后裔]在一个秘密区域守卫着 能提升血量、精力、装备重量的上限(3%,6.75%,5%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_8_2",
+    "text": "黄金树的恩惠＋１ 打[“恶兆之子”蒙格]后在Boss房间内发现 能提升血量、精力、装备重量的上限(3.5%,8.25%,6.5%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_12_2",
+    "text": "黄金树的恩惠＋２ 在[“灰烬王城”罗德尔]一个大院子里的一根树枝上发现的(需要从[禁域]往回走) 能提升血量、精力、装备重量的上限(4%,9.6%,8%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_1_6",
+    "text": "拉达冈的烙印 [啜泣的封印监牢]中的[萨米尔的古英雄]掉落 能提升能力值，但增加受到的损伤(3点属性，~5%额外伤害)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_5_5",
+    "text": "拉达冈的糜烂烙印 在[法洛斯要塞]一具尸体上 能大幅提升能力值，但大幅增加受到的损伤(5点属性，伤害提高~15%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_13_2",
+    "text": "玛莉卡的烙印 在[希芙拉河]高处龙人士兵Boss身后瀑布底部的一具尸体上 能提升能力值，但增加受到的损伤(+3点,伤害提高10%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_10_4",
+    "text": "玛莉卡的糜烂烙印 在[“圣树分枝”艾布雷菲尔]一个需要[石剑钥匙]解锁的房间祭坛上 能大幅提升能力值，但大幅增加受到的损伤(+5点，伤害提高15%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_5_9",
+    "text": "碎星的传说 在[盖尔要塞] 能提升力气(5点)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_5_4",
+    "text": "义手剑士的传说 在[盖利德]中完成[贤者格威]的支线任务，然后返回[米莉森]处获得护符 能提升灵巧(5点)"
   },
   {
     "id": "/checklists/talismans.html#item_4_8",
@@ -12220,296 +12172,100 @@
     "text": "双指的传说 在[受净化的废墟]的低处 能提升信仰(5点)"
   },
   {
-    "id": "/checklists/talismans.html#item_4_10",
-    "text": "带翼剑徽章 [留水洞窟]中的[玛莲妮亚的尊腐骑士]掉落 攻击越是连续，越能提升攻击力"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_11",
-    "text": "健壮角饰品 在[湖之利耶尼亚]东部的一具尸体上发现，赐福[群集灵庙]西边的悬崖上 能提升健壮度(+90)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_12",
-    "text": "魔力对蝎 获得[猎杀指头刀]，但在给[魔女菈妮]之前和[魔法教授赛尔维斯]交谈获得 能提升魔力属性攻击力，但降低减伤率(+12%,-10%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_13",
-    "text": "红羽七刃剑 赐福[远眺岛]东北方向[死之鸟]掉落 血量偏低(低于20%)时，能提升攻击力(20%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_14",
-    "text": "矛护符 在[湖旁结晶洞窟]亚人营火附近的宝箱中发现 能强化突刺攻击特有的反击攻击(13%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_15",
-    "text": "珍珠龙徽护符 在[四钟楼]的第一个传送门后发现 能提升物理以外的减伤率(5%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_16",
-    "text": "蓝种子护符 在[卡利亚书斋]的屋梁上发现，可从屋顶进入 能提升蓝露滴圣杯瓶的恢复量(20%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_17",
-    "text": "熔炉瘤护符 [白金村]的[恶兆猎人]掉落 能减少头部射击造成的损伤与冲击"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_18",
-    "text": "卡利亚徽章 如果你在没有[“半狼”布莱泽]帮助的情况下击败[“猎犬骑士”达瑞威尔]，可以从[军师伊吉]购买，价值1000卢恩 能减少使用战技消耗的专注值(25%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_19",
-    "text": "夏玻利利之祸 [癫火村]的一具尸体 将变得容易受敌人攻击"
-  },
-  {
-    "id": "/checklists/talismans.html#item_4_20",
-    "text": "友好壶 完成任务后从[小壶]处获得 能提升投掷壶类道具的威力(20%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_5_1",
-    "text": "硬箭护符 在赐福[不破大桥]塔顶的宝箱中 能提升射出箭、弩箭时的攻击力(10%)。"
-  },
-  {
-    "id": "/checklists/talismans.html#item_5_2",
-    "text": "金色粪金龟 [废弃洞窟]中的[玛莲妮亚的尊腐骑士（镰刀）]和[玛莲妮亚的尊腐骑士（矛）]掉落 打倒敌人时，能增加获得的卢恩(~20%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_5_3",
-    "text": "大壶众武护符 在[盖利德]斗兽场附近击败大壶的奖励 能更大幅提升装备重量的上限(基于耐力的16-19%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_5_4",
-    "text": "义手剑士的传说 在[盖利德]中完成[贤者格威]的支线任务，然后返回[米莉森]处获得护符 能提升灵巧(5点)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_5_5",
-    "text": "拉达冈的糜烂烙印 在[法洛斯要塞]一具尸体上 能大幅提升能力值，但大幅增加受到的损伤(5点属性，伤害提高~15%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_5_6",
-    "text": "牺牲细枝 (x3) 可以从[桂奥尔龙墓]的[隐居商人]处以3000卢恩购买 死亡时不会掉落卢恩，但护符会消失"
-  },
-  {
-    "id": "/checklists/talismans.html#item_5_7",
-    "text": "火龙徽护符＋２ [龙墓洞窟]中的[法姆·亚兹拉的兽人](x2)掉落 能更大幅提升火属性减伤率(20%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_5_8",
-    "text": "大山羊护符 在[龙墓洞窟]找到 能提升强韧度(提升~33.3%四舍五入到最接近的整数)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_5_9",
-    "text": "碎星的传说 在[盖尔要塞] 能提升力气(5点)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_5_10",
-    "text": "信徒的立誓布 在[瑟利亚结晶坑道]的尸体上 能提升祷告的威力(4%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_5_11",
-    "text": "群聚信徒的立誓布 在完成[米莉森]任务线完成后杀死[贤者格威]掉落 能大幅提升祷告的威力(8%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_5_12",
-    "text": "魔力龙徽护符＋１ 在城镇西北的一个小房间里，就在阳台下面，里面有[丧失杖] 能大幅提升魔力属性减伤率。(PvE:17%; PvP:5%)"
-  },
-  {
     "id": "/checklists/talismans.html#item_5_13",
     "text": "龙徽盾护符 在[野兽神殿]的边缘发现 能提升物理减伤率(10%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_6_1",
-    "text": "众武护符＋１ 在[亚坛坑道]一具尸体上发现 能大幅提升装备重量的上限(17%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_6_2",
-    "text": "雷对蝎 在[威达姆地下墓地]一个被小恶魔像封印的房间里发现 能提升雷属性攻击力，但降低减伤率(+12%,-10%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_6_3",
-    "text": "献斗剑护符 在[卢克斯废墟]的宝箱中 血量全满时，能提升攻击力(10%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_6_4",
-    "text": "调香师护符 在[调香师的废墟]的一个宝箱中 能提升调香类道具的威力"
-  },
-  {
-    "id": "/checklists/talismans.html#item_6_5",
-    "text": "葛孚雷的肖像 [黄金一族的封印监牢]中的[“接肢”葛孚亚]掉落 能强化魔法、祷告、战技的蓄力使用(15%)"
   },
   {
     "id": "/checklists/talismans.html#item_6_6",
     "text": "龙徽盾护符＋１ 在[尊贵者的英雄墓地]的小恶魔像后面发现 能大幅提升物理减伤率(13%)"
   },
   {
-    "id": "/checklists/talismans.html#item_6_7",
-    "text": "雷龙徽护符＋１ 在[旧亚坛坑道]中找到 能大幅提升雷属性减伤率(17%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_6_8",
-    "text": "大盾护符 在赐福[近黄金树的山丘]东方马车上的一个箱子里 能提升防御强度(使你的防御强化等级提高1.1，减少你格挡攻击时损失的耐力)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_6_9",
-    "text": "红种子护符 在[尊贵者的英雄墓地]中找到 能提升红露滴圣杯瓶的恢复量(20%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_6_10",
-    "text": "隐身面纱 [贤者的洞窟]中的[黑刀刺客]掉落 远离敌人后，蹲下能隐藏自己的身影"
-  },
-  {
-    "id": "/checklists/talismans.html#item_6_11",
-    "text": "牺牲细枝 在赐福[亚坛大道的三叉口]北部敌军营地的一个宝箱里 死亡时不会掉落卢恩，但护符会消失"
-  },
-  {
-    "id": "/checklists/talismans.html#item_7_8",
-    "text": "克雷普的小瓶子 作为[火山官邸]任务线的一部分，击败[“黄昏将尽”莱利]的奖励 能完全去除自己发出的声响"
-  },
-  {
-    "id": "/checklists/talismans.html#item_7_1",
-    "text": "红琥珀链坠＋１ 在[火山官邸]在一个小恶魔像后面的一具尸体上发现，可以从赐福[牢镇教堂]到达 能大幅提升血量的上限(7%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_7_2",
-    "text": "火对蝎 在[格密尔火山]内的[莱多要塞]向西的城墙上一个木制平台上 能提升火属性攻击力，但降低减伤率(+12%,-10%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_7_4",
-    "text": "短剑护符 在[火山官邸][“亵渎君王”拉卡德]传送门前的房间里一个小恶魔像后面 能强化致命一击(17%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_7_5",
-    "text": "腐败眷属的欢愉 [沸滚河洞窟]中的[腐败眷属]掉落 当周围人物陷入中毒、腐败时，能提升攻击力(当附近的玩家或敌人受到毒或猩红腐的伤害时，攻击强度提高20%，持续20秒)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_7_6",
-    "text": "珍珠龙徽护符＋１ 在[威达姆废墟]一个小恶魔像后面的宝箱中 能大幅提升物理以外的减伤率(7%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_7_7",
-    "text": "掠夺浮雕坠饰 在[火山官邸]完成[“火山官邸之主”塔妮丝]任务线第三部分的奖励 打倒敌人时，能恢复血量(3%最大HP+30HP)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_7_9",
-    "text": "狄蒂卡之祸 在[火山官邸]任务线之后的[“招募者”菈雅]任务线的末尾获得 将增加受到的损伤(100%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_8_1",
-    "text": "绿琥珀链坠＋１ [王城外围]中的[“恶兆妖鬼”玛尔基特]掉落 能大幅提升精力的上限(13%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_8_2",
-    "text": "黄金树的恩惠＋１ 打[“恶兆之子”蒙格]后在Boss房间内发现 能提升血量、精力、装备重量的上限(3.5%,8.25%,6.5%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_8_3",
-    "text": "火龙徽护符＋１ 在桥上[恶兆孪生子]位置的一根柱子旁 能大幅提升火属性减伤率(17%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_8_4",
-    "text": "圣龙徽护符＋１ 在赐福[罗德尔地下墓地]两堵幻影墙后附近的尸体上 能大幅提升圣属性减伤率(17%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_8_5",
-    "text": "熔炉鳞护符 在[罗德尔地下墓地]一具尸体上 能减少致命一击造成的损伤"
-  },
-  {
-    "id": "/checklists/talismans.html#item_8_6",
-    "text": "熔炉羽护符 在[亚雷萨英雄墓地]内的一个秘密区域发现 能强化翻滚的闪避能力，但增加受到的损伤(30%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_8_7",
-    "text": "献斗盾护符 在[王城罗德尔]竞技场门前发现 血量全满时，能提升防御力(30%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_8_8",
-    "text": "恩惠露滴护符 在[神授桥]上的一个宝箱中发现，由一个魔像守卫 能缓慢恢复血量(2点/秒)。"
-  },
-  {
-    "id": "/checklists/talismans.html#item_9_1",
-    "text": "蓝琥珀链坠＋１ 在[索尔城]南墙上方的木制壁架的尸体上。 能大幅提升专注值的上限(9%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_9_2",
-    "text": "鲜血君王的欢愉 [罗德尔地下墓地]中的[“鲜血祭司”艾斯加]掉落 当周围人物陷入异常状态出血时，能提升攻击力(当附近的玩家或敌人遭受血量损失时，攻击强度提高20%，持续20秒)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_9_3",
-    "text": "源辉石刀 在[观星废墟]地下的一个宝箱中 能减少魔法、祷告消耗的专注值，但减少血量上限(25%,15%)。"
-  },
-  {
-    "id": "/checklists/talismans.html#item_9_5",
-    "text": "神皮襁褓 在[唤灵洞窟]中由[神皮使徒]和[神皮贵族]掉落 连续攻击时，能恢复血量(3%最大HP+30HP，~10秒重置计时)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_9_4",
-    "text": "珍珠龙徽护符＋２ 在赐福[圣树镇]上方的尸体上发现 能更大幅提升物理以外的减伤率(9%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_10_1",
-    "text": "绿琥珀链坠＋２ 在靠近赐福[圣树镇（广场）]的从召唤蜗牛所在的屋顶到达房间的宝箱中 能更大幅提升精力的上限(15%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_10_2",
-    "text": "银色粪金龟 [通往圣树的密道]一个幻影墙后的宝箱里 能提升观察力(75)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_10_3",
-    "text": "健壮角饰品＋１ 在[化圣雪原]的西边通往[耶罗·亚尼斯坑道]入口的路上 能大幅提升健壮度(140)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_10_4",
-    "text": "玛莉卡的糜烂烙印 在[“圣树分枝”艾布雷菲尔]一个需要[石剑钥匙]解锁的房间祭坛上 能大幅提升能力值，但大幅增加受到的损伤(+5点，伤害提高15%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_10_5",
-    "text": "米莉森的义手 在任务线最后杀死[米莉森]获得 能提升灵巧、攻击越是连续，越能提升攻击力(灵巧+5点)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_10_6",
-    "text": "腐败翼剑徽章 选择协助[米莉森]并成功击败她的姐妹的奖励 攻击越是连续，越能大幅提升攻击力(基础攻击力+6%，连续攻击+4%)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_10_7",
-    "text": "魔法师块护符 在[化圣雪原]东部[白金魔法师塔]顶部 能大幅提升魔法的威力(8%)"
+    "id": "/checklists/talismans.html#item_11_4",
+    "text": "龙徽盾护符＋２ 在[龙教堂（升降机前）]和[龙教堂（屋顶）]之间漂浮平台上的尸体上 能更大幅提升物理减伤率(17%)"
   },
   {
     "id": "/checklists/talismans.html#item_10_8",
     "text": "龙徽大盾护符 在[“圣树分枝”艾布雷菲尔]东北大建筑内的高平台上的一个宝箱中 能极大幅提升物理减伤率(20%)"
   },
   {
+    "id": "/checklists/talismans.html#item_1_5",
+    "text": "魔力龙徽护符 击败[啜泣半岛]的[垂穴洞窟]终点处[卢恩熊]的奖励 能提升魔力属性减伤率(PvE:13%;PVP:4%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_5_12",
+    "text": "魔力龙徽护符＋１ 在城镇西北的一个小房间里，就在阳台下面，里面有[丧失杖] 能大幅提升魔力属性减伤率。(PvE:17%; PvP:5%)"
+  },
+  {
     "id": "/checklists/talismans.html#item_10_9",
     "text": "魔力龙徽护符＋２ 在[通往圣树的密道]下面的秘密地下墓穴的尸体上，[离群仿身泪滴]前的右边 能更大幅提升魔力属性减伤率(PvE:20%; PvP:6%)"
   },
   {
-    "id": "/checklists/talismans.html#item_11_2",
-    "text": "亚历山大的碎片 完成[“战士壶”亚历山大]的任务线获得 能大幅提升战技的攻击力(15%)"
+    "id": "/checklists/talismans.html#item_2_3",
+    "text": "火龙徽护符 [宁姆格福]中的[近林洞窟]中的[法姆·亚兹拉的兽人]掉落 能提升火属性减伤率(13%)"
   },
   {
-    "id": "/checklists/talismans.html#item_11_3",
-    "text": "古王护符 在赐福[龙教堂（屋顶）]东的一个宝箱中 能延长魔法、祷告的有效时间(30%)"
+    "id": "/checklists/talismans.html#item_8_3",
+    "text": "火龙徽护符＋１ 在[王城罗德尔]神授桥的[恶兆孪生子]Boss之前的一根柱子旁 能大幅提升火属性减伤率(17%)"
   },
   {
-    "id": "/checklists/talismans.html#item_11_4",
-    "text": "龙徽盾护符＋２ 在[龙教堂（升降机前）]和[龙教堂（屋顶）]之间漂浮平台上的尸体上 能更大幅提升物理减伤率(17%)"
+    "id": "/checklists/talismans.html#item_5_7",
+    "text": "火龙徽护符＋２ [龙墓洞窟]中的[法姆·亚兹拉的兽人](x2)掉落 能更大幅提升火属性减伤率(20%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_9",
+    "text": "雷龙徽护符 在前往[宁姆格福神授塔]路上的尸体上 提升雷属性减伤率(13%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_6_7",
+    "text": "雷龙徽护符＋１ 在[旧亚坛坑道]中找到 能大幅提升雷属性减伤率(17%)"
   },
   {
     "id": "/checklists/talismans.html#item_11_5",
     "text": "雷龙徽护符＋２ 在一具尸体上，从东边的一个悬崖上掉下来发现，那里有一条古龙 能更大幅提升雷属性减伤率(20%)"
   },
   {
-    "id": "/checklists/talismans.html#item_12_1",
-    "text": "红琥珀链坠＋２ 在[“灰烬王城”罗德尔]中在进入[弃置恶兆的地底]前的位置 能更大幅提升血量的上限(7.5%)"
+    "id": "/checklists/talismans.html#item_2_4",
+    "text": "圣龙徽护符 在[漂流墓地]的一具尸体上发现，只能通过赐福[傍海古遗迹]下面的海滩进入 能提升圣属性减伤率(13%)"
   },
   {
-    "id": "/checklists/talismans.html#item_12_2",
-    "text": "黄金树的恩惠＋２ 在一个大院子里的一根树枝上发现的(需要从[禁域]往回走) 能提升血量、精力、装备重量的上限(4%,9.6%,8%)"
+    "id": "/checklists/talismans.html#item_8_4",
+    "text": "圣龙徽护符＋１ 在赐福[罗德尔地下墓地]两堵幻影墙后附近的尸体上 能大幅提升圣属性减伤率(17%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_15_1",
+    "text": "圣龙徽护符＋２ 在[蒙格温王朝]的一具尸体上，在一个小坟堆里，旁边有一只警戒的大乌鸦栖息于高处 能更大幅提升圣属性减伤率(20%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_15",
+    "text": "珍珠龙徽护符 在[四钟楼]的第一个传送门后发现 能提升物理以外的减伤率(5%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_7_6",
+    "text": "珍珠龙徽护符＋１ 在[威达姆废墟]一个小恶魔像后面的宝箱中 能大幅提升物理以外的减伤率(7%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_9_4",
+    "text": "珍珠龙徽护符＋２ 在赐福[圣树镇]上方的尸体上发现 能更大幅提升物理以外的减伤率(9%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_16_1",
+    "text": "免疫角饰品 在[安瑟尔河]蚁巢的尸体上 能提升免疫力(90点)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_18_1",
+    "text": "免疫角饰品＋１ 赐福[腐败湖畔]击败东南的祖灵之民的奖励 能大幅提升免疫力(140)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_11",
+    "text": "健壮角饰品 在[湖之利耶尼亚]东部的一具尸体上发现，赐福[群集灵庙]西边的悬崖上 能提升健壮度(+90)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_10_3",
+    "text": "健壮角饰品＋１ 在[化圣雪原]的西边通往[耶罗·亚尼斯坑道]入口的路上 能大幅提升健壮度(140)"
   },
   {
     "id": "/checklists/talismans.html#item_13_1",
     "text": "理智角饰品 在[希芙拉河的出口井]通往电梯楼梯上的尸体上 能提升理智度(90)"
-  },
-  {
-    "id": "/checklists/talismans.html#item_13_2",
-    "text": "玛莉卡的烙印 在瀑布底部的一具尸体上 能提升能力值，但增加受到的损伤(+3点,伤害提高10%)"
   },
   {
     "id": "/checklists/talismans.html#item_14_1",
@@ -12524,23 +12280,751 @@
     "text": "斑斓项链＋１ 在[“永恒之城”诺克隆恩]废墟拱门顶部的尸体上 能大幅提升免疫力、健壮度、理智度(60点)"
   },
   {
-    "id": "/checklists/talismans.html#item_15_1",
-    "text": "圣龙徽护符＋２ 在[蒙格温王朝]的一具尸体上，在一个小坟堆里，旁边有一只警戒的大乌鸦栖息于高处 能更大幅提升圣属性减伤率(20%)"
+    "id": "/checklists/talismans.html#item_2_6",
+    "text": "死王子的脓疮 在[史东薇尔城]地下找到，可以通过赐福[城墙塔]到达 提升抗死度(90点)"
   },
   {
-    "id": "/checklists/talismans.html#item_16_1",
-    "text": "免疫角饰品 在[安瑟尔河]蚁巢的尸体上 能提升免疫力(90点)"
+    "id": "/checklists/talismans.html#item_19_1",
+    "text": "死王子的恶性脓疮 在赐福[深根底层]东北的一个瀑布后面的洞穴里一只巨大[卢恩熊]掉落 能大幅提升抗死度(140)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_7_4",
+    "text": "短剑护符 在[火山官邸][“亵渎君王”拉卡德]传送门前的房间里一个小恶魔像后面 能强化致命一击(17%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_8",
+    "text": "曲剑护符 在[史东薇尔城]与失乡骑士战斗的房间内的一个宝箱中 能强化防御反击(20%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_1_7",
+    "text": "双头剑护符 从[摩恩城]赐福[城堡后方]往西走在塔顶发现 能强化连续攻击的最后一记攻击(20%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_5",
+    "text": "斧护符 在[雾林废墟]下面的一个地窖中发现 能强化蓄力攻击(10%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_11",
+    "text": "大槌护符 在[风暴山丘的破屋]东北的[“叛律者”亨利克斯]掉落 当敌人防御，攻击时能增加对方消耗的精力(20%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_14",
+    "text": "矛护符 在[湖旁结晶洞窟]亚人营火附近的宝箱中发现 能强化突刺攻击特有的反击攻击(13%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_14",
+    "text": "骑枪护符 发现于[风暴山丘]东北 提升骑马时的攻击力(15%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_7",
+    "text": "钩爪护符 在一个可以从赐福[城墙塔]进入的瞭望塔的尸体上发现 能强化跳跃攻击(15%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_6_8",
+    "text": "大盾护符 在赐福[近黄金树的山丘]东方马车上的一个箱子里 能提升防御强度(使你的防御强化等级提高1.1，减少你格挡攻击时损失的耐力)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_5_1",
+    "text": "硬箭护符 在赐福[不破大桥]塔顶的宝箱中 能提升射出箭、弩箭时的攻击力(10%)。"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_12",
+    "text": "远箭护符 在[风暴关卡]塔内的宝箱中发现 能提升弓的射程距离"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_3",
+    "text": "魔法师球护符 在[魔法学院雷亚卢卡利亚]学院的一堵幻影墙和进入后的梯子后面，靠近赐福[讨论室]的一个房间里。 能提升魔法的威力(8%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_10_7",
+    "text": "魔法师块护符 在[化圣雪原]东部[白金魔法师塔]顶部 能大幅提升魔法的威力(8%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_5_10",
+    "text": "信徒的立誓布 在[瑟利亚结晶坑道]的尸体上 能提升祷告的威力(4%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_5_11",
+    "text": "群聚信徒的立誓布 在完成[米莉森]任务线完成后杀死[贤者格威]掉落 能大幅提升祷告的威力(8%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_9_3",
+    "text": "源辉石刀 在[观星废墟]地下的一个宝箱中 能减少魔法、祷告消耗的专注值，但减少血量上限(25%,15%)。"
   },
   {
     "id": "/checklists/talismans.html#item_17_1",
     "text": "诺克史黛拉之月 在[“永恒之城”诺克史黛拉]一个巨大王座下的一个宝箱中 能增加记忆空格(2格)"
   },
   {
-    "id": "/checklists/talismans.html#item_18_1",
+    "id": "/checklists/talismans.html#item_11_3",
+    "text": "古王护符 在赐福[龙教堂（屋顶）]东的一个宝箱中 能延长魔法、祷告的有效时间(30%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_4",
+    "text": "拉达冈的肖像 在[讨论室]二楼发现，可以通过跳过庭院的栅栏到达 能缩短魔法、祷告的咏唱时间(在法术施法时给予30点虚拟敏捷(包括巫术和咒语)。施法速度上限为70敏捷)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_2",
+    "text": "咆哮链坠 [宁姆格福坑道]的[挖石山妖]掉落 能强化咆哮与吐息"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_20",
+    "text": "友好壶 完成[小壶]任务线后获得 能提升投掷壶类道具的威力(20%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_6_4",
+    "text": "调香师护符 在[调香师的废墟]的一个宝箱中 能提升调香类道具的威力"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_18",
+    "text": "卡利亚徽章 如果你在没有[“半狼”布莱泽]帮助的情况下击败[“猎犬骑士”达瑞威尔]，可以从[军师伊吉]购买，价值1000卢恩 能减少使用战技消耗的专注值(25%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_11_1",
+    "text": "战士壶碎片 不完成[“战士壶”亚历山大]的任务线的情况下杀死他获得，可以选择在之后他出现的其他地点杀死他，但不能是在任务线结束的时候。 能提升战技的攻击力(10%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_11_2",
+    "text": "亚历山大的碎片 在[逐渐崩毁的法姆·亚兹拉]完成[“战士壶”亚历山大]的任务线获得 能大幅提升战技的攻击力(15%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_6_5",
+    "text": "葛孚雷的肖像 [黄金一族的封印监牢]中的[“接肢”葛孚亚]掉落 能强化魔法、祷告、战技的蓄力使用(15%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_5_8",
+    "text": "大山羊护符 在[龙墓洞窟]找到 能提升强韧度(提升~33.3%四舍五入到最接近的整数)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_13",
+    "text": "蓝色舞娘 [大道下的洞窟]中的[魔像守卫]掉落 装备重量越轻，攻击力会越高"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_12",
+    "text": "魔力对蝎 获得[猎杀指头刀]，但在给[魔女菈妮]之前和[魔法教授赛尔维斯]交谈完成他的任务后获得 能提升魔力属性攻击力，但降低减伤率(+12%,-10%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_7_2",
+    "text": "火对蝎 在[格密尔火山]内的[莱多要塞]向西的城墙上一个木制平台上 能提升火属性攻击力，但降低减伤率(+12%,-10%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_6_2",
+    "text": "雷对蝎 在[威达姆地下墓地]一个被小恶魔像封印的房间里发现 能提升雷属性攻击力，但降低减伤率(+12%,-10%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_19",
+    "text": "圣对蝎 [熏火教堂]处的入侵者[“吞噬褪色者”安娜塔西亚]掉落 能提升圣属性攻击力，但降低减伤率(圣属性攻击力在PvE和PvP中分别提高12%和8%; 物理伤害在PvE在PvP分别增加10%和15%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_8_5",
+    "text": "熔炉鳞护符 在[罗德尔地下墓地]一具尸体上 能减少致命一击造成的损伤"
+  },
+  {
+    "id": "/checklists/talismans.html#item_8_6",
+    "text": "熔炉羽护符 在[亚雷萨英雄墓地]内的一个秘密区域发现 能强化翻滚的闪避能力，但增加受到的损伤(30%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_17",
+    "text": "熔炉瘤护符 [白金村]的[恶兆猎人]掉落 能减少头部射击造成的损伤与冲击"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_13",
+    "text": "红羽七刃剑 赐福[远眺岛]东北方向[死之鸟]掉落 血量偏低(低于20%)时，能提升攻击力(20%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_17",
+    "text": "蓝羽七刃剑 [习战者的破屋]东的[死之鸟]掉落 血量偏低时，能提升防御力(生命值低于20%时激活，提高减伤率:当前减伤率/2+50)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_6_3",
+    "text": "献斗剑护符 在[卢克斯废墟]的宝箱中 血量全满时，能提升攻击力(10%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_8_7",
+    "text": "献斗盾护符 在[王城罗德尔]竞技场门前发现 血量全满时，能提升防御力(30%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_18",
+    "text": "染红凶刀 [死亡降临的地下墓地]中的[黑刀刺客]掉落 使出致命一击能恢复血量(治疗10%最大HP+85HP)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_1",
+    "text": "染蓝凶刀 [黑刀地下墓地]中的[黑刀刺客]掉落 使出致命一击能恢复专注值(15点)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_10",
+    "text": "带翼剑徽章 [留水洞窟]中的[玛莲妮亚的尊腐骑士]掉落 攻击越是连续，越能提升攻击力"
+  },
+  {
+    "id": "/checklists/talismans.html#item_10_6",
+    "text": "腐败翼剑徽章 选择协助[米莉森]并成功击败她的姐妹的奖励 攻击越是连续，越能大幅提升攻击力(基础攻击力+6%，连续攻击+4%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_10_5",
+    "text": "米莉森的义手 在任务线最后杀死[米莉森]获得 能提升灵巧、攻击越是连续，越能提升攻击力(灵巧+5点)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_9_5",
+    "text": "神皮襁褓 在[唤灵洞窟]中由[神皮使徒]和[神皮贵族]掉落 连续攻击时，能恢复血量(3%最大HP+30HP，~10秒重置计时)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_7_5",
+    "text": "腐败眷属的欢愉 [沸滚河洞窟]中的[腐败眷属]掉落 当周围人物陷入中毒、腐败时，能提升攻击力(当附近的玩家或敌人受到毒或猩红腐的伤害时，攻击强度提高20%，持续20秒)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_9_2",
+    "text": "鲜血君王的欢愉 [罗德尔地下墓地]中的[“鲜血祭司”艾斯加]掉落 当周围人物陷入异常状态出血时，能提升攻击力(当附近的玩家或敌人遭受血量损失时，攻击强度提高20%，持续20秒)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_7_7",
+    "text": "掠夺浮雕坠饰 在[火山官邸]完成[“火山官邸之主”塔妮丝]任务线第三部分的奖励 打倒敌人时，能恢复血量(3%最大HP+30HP)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_3_4",
+    "text": "祖灵角 交换[祖灵之王的追忆]获得 打倒敌人时，能恢复专注值(每次击杀恢复3点FP)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_5_2",
+    "text": "金色粪金龟 [废弃洞窟]中的[玛莲妮亚的尊腐骑士（镰刀）]和[玛莲妮亚的尊腐骑士（矛）]掉落 打倒敌人时，能增加获得的卢恩(~20%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_10_2",
+    "text": "银色粪金龟 [通往圣树的密道]一个幻影墙后的宝箱里 能提升观察力(75)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_7_8",
+    "text": "克雷普的小瓶子 作为[火山官邸]任务线的一部分，击败[“黄昏将尽”莱利]的奖励 能完全去除自己发出的声响"
+  },
+  {
+    "id": "/checklists/talismans.html#item_6_10",
+    "text": "隐身面纱 [贤者的洞窟]中的[黑刀刺客]掉落 远离敌人后，蹲下能隐藏自己的身影"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_5",
+    "text": "长尾猫别针 在学院纺车底部的一具尸体上发现 从高处落下时，能完全不受到损伤但是无法避免过高落下时，造成的死亡"
+  },
+  {
+    "id": "/checklists/talismans.html#item_3_2",
+    "text": "勾指伪装镜 可以在[圆桌厅堂]用5000卢恩从[孪生老妪]购买 能变得像是勾指主人"
+  },
+  {
+    "id": "/checklists/talismans.html#item_3_3",
+    "text": "主人伪装镜 可以在[圆桌厅堂]用5000卢恩从[孪生老妪]购买 能变得像是协助者"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_19",
+    "text": "夏玻利利之祸 [癫火村]的一具尸体 将变得容易受敌人攻击"
+  },
+  {
+    "id": "/checklists/talismans.html#item_7_9",
+    "text": "狄蒂卡之祸 在[火山官邸]任务线之后的[“招募者”菈雅]任务线的末尾获得 将增加受到的损伤(100%)"
+  },
+  {
+    "id": "/checklists/talismans.html#item_2_15",
+    "text": "牺牲细枝 在[蒙流洞窟][帕奇]的商店里以5000卢恩购买 死亡时不会掉落卢恩，但护符会消失"
+  },
+  {
+    "id": "/checklists/talismans.html#item_1_2",
+    "text": "牺牲细枝 (x3) 可以在[啜泣半岛]西边的[隐居商人]以3000卢恩购买 死亡时不会掉落卢恩，但护符会消失"
+  },
+  {
+    "id": "/checklists/talismans.html#item_1_4",
+    "text": "牺牲细枝 在[摩恩城]第一次和[城主艾德格]交谈时给予 死亡时不会掉落卢恩，但护符会消失"
+  },
+  {
+    "id": "/checklists/talismans.html#item_4_2",
+    "text": "牺牲细枝 在[湖之利耶尼亚]南部的一具尸体上发现，只能从[小偷的封印监牢]的顶部进入 死亡时不会掉落卢恩，但护符会消失"
+  },
+  {
+    "id": "/checklists/talismans.html#item_5_6",
+    "text": "牺牲细枝 (x3) 可以从[桂奥尔龙墓]的[隐居商人]处以3000卢恩购买 死亡时不会掉落卢恩，但护符会消失"
+  },
+  {
+    "id": "/checklists/talismans.html#item_6_11",
+    "text": "牺牲细枝 在赐福[亚坛大道的三叉口]北部敌军营地的一个宝箱里 死亡时不会掉落卢恩，但护符会消失"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_1",
+    "text": "红琥珀链坠 可以选一个作为遗物。 能提升血量的上限(~6%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_2",
+    "text": "咆哮链坠 [宁姆格福坑道]的[挖石山妖]掉落 能强化咆哮与吐息"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_3",
+    "text": "火龙徽护符 [宁姆格福]中的[近林洞窟]中的[法姆·亚兹拉的兽人]掉落 能提升火属性减伤率(13%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_4",
+    "text": "圣龙徽护符 在[漂流墓地]的一具尸体上发现，只能通过赐福[傍海古遗迹]下面的海滩进入 能提升圣属性减伤率(13%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_5",
+    "text": "斧护符 在[雾林废墟]下面的一个地窖中发现 能强化蓄力攻击(10%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_6",
+    "text": "死王子的脓疮 在[史东薇尔城]地下找到，可以通过赐福[城墙塔]到达 提升抗死度(90点)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_7",
+    "text": "钩爪护符 在一个可以从赐福[城墙塔]进入的瞭望塔的尸体上发现 能强化跳跃攻击(15%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_8",
+    "text": "曲剑护符 在[史东薇尔城]与失乡骑士战斗的房间内的一个宝箱中 能强化防御反击(20%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_9",
+    "text": "雷龙徽护符 在前往[宁姆格福神授塔]路上的尸体上 提升雷属性减伤率(13%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_10",
+    "text": "绿龟护符 发现于[水唤村]外的地下区域 能提升精力的恢复速度(8点/秒, +17.7%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_11",
+    "text": "大槌护符 在[风暴山丘的破屋]东北的[“叛律者”亨利克斯]掉落 当敌人防御，攻击时能增加对方消耗的精力(20%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_12",
+    "text": "远箭护符 在[风暴关卡]塔内的宝箱中发现 能提升弓的射程距离"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_13",
+    "text": "蓝色舞娘 [大道下的洞窟]中的[魔像守卫]掉落 装备重量越轻，攻击力会越高"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_14",
+    "text": "骑枪护符 发现于[风暴山丘]东北 提升骑马时的攻击力(15%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_15",
+    "text": "牺牲细枝 在[蒙流洞窟][帕奇]的商店里以5000卢恩购买 死亡时不会掉落卢恩，但护符会消失"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_16",
+    "text": "黄金树的恩惠 在[边境英雄墓地]，由两个[“接肢”贵族后裔]在一个秘密区域守卫着 能提升血量、精力、装备重量的上限(3%,6.75%,5%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_17",
+    "text": "蓝羽七刃剑 [习战者的破屋]东的[死之鸟]掉落 血量偏低时，能提升防御力(生命值低于20%时激活，提高减伤率:当前减伤率/2+50)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_18",
+    "text": "染红凶刀 [死亡降临的地下墓地]中的[黑刀刺客]掉落 使出致命一击能恢复血量(治疗10%最大HP+85HP)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_2_19",
+    "text": "圣对蝎 [“吞噬褪色者”安娜塔西亚]掉落 能提升圣属性攻击力，但降低减伤率(圣属性攻击力在PvE和PvP中分别提高12%和8%; 物理伤害在PvE在PvP分别增加10%和15%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_11_1",
+    "text": "战士壶碎片 不完成[“战士壶”亚历山大]的任务线的情况下杀死他获得，可以选择在之后他出现的其他地点杀死他，但不能是在任务线结束的时候。 能提升战技的攻击力(10%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_1_1",
+    "text": "红琥珀链坠 可以在[啜泣半岛]东边的[流浪民族的商人]以1500卢恩购买 能提升血量的上限(~6%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_1_2",
+    "text": "牺牲细枝 (x3) 可以在[啜泣半岛]西边的[隐居商人]以3000卢恩购买 死亡时不会掉落卢恩，但护符会消失"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_1_3",
+    "text": "绿琥珀链坠 击败[灵庙原野洞窟]中的[“病花”米兰达]的奖励 能提升精力的上限(11%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_1_4",
+    "text": "牺牲细枝 在[摩恩城]第一次和[城主艾德格]交谈时给予 死亡时不会掉落卢恩，但护符会消失"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_1_5",
+    "text": "魔力龙徽护符 击败[啜泣半岛]的[垂穴洞窟]终点处[卢恩熊]的奖励 能提升魔力属性减伤率(PvE:13%;PVP:4%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_1_6",
+    "text": "拉达冈的烙印 [啜泣的封印监牢]中的[萨米尔的古英雄]掉落 能提升能力值，但增加受到的损伤(3点属性，~5%额外伤害)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_1_7",
+    "text": "双头剑护符 从赐福[城堡后方]往西走在塔顶发现 能强化连续攻击的最后一记攻击(20%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_3_1",
+    "text": "众武护符 打败[史东薇尔城]中的[“接肢”葛瑞克]后与[战士涅斐丽·露]交谈获得 能提升装备重量的上限(15%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_3_2",
+    "text": "勾指伪装镜 可以在[圆桌厅堂]用5000卢恩从[孪生老妪]购买 能变得像是勾指主人"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_3_3",
+    "text": "主人伪装镜 可以在[圆桌厅堂]用5000卢恩从[孪生老妪]购买 能变得像是协助者"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_3_4",
+    "text": "祖灵角 交换[祖灵之王的追忆]获得 打倒敌人时，能恢复专注值(每次击杀恢复3点FP)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_1",
+    "text": "染蓝凶刀 [黑刀地下墓地]中的[黑刀刺客]掉落 使出致命一击能恢复专注值(15点)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_2",
+    "text": "牺牲细枝 在[湖之利耶尼亚]南部的一具尸体上发现，只能从[小偷的封印监牢]的顶部进入 死亡时不会掉落卢恩，但护符会消失"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_3",
+    "text": "魔法师球护符 在[魔法学院雷亚卢卡利亚]学院的一堵幻影墙和进入后的梯子后面，靠近赐福[讨论室]的一个房间里。 能提升魔法的威力(8%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_4",
+    "text": "拉达冈的肖像 在[讨论室]二楼发现，可以通过跳过庭院的栅栏到达 能缩短魔法、祷告的咏唱时间(在法术施法时给予30点虚拟敏捷(包括巫术和咒语)。施法速度上限为70敏捷)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_5",
+    "text": "长尾猫别针 在学院纺车底部的一具尸体上发现 从高处落下时，能完全不受到损伤但是无法避免过高落下时，造成的死亡"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_6",
+    "text": "蓝琥珀链坠 [湖旁结晶洞窟]中的[猎犬骑士]掉落 能提升专注值的上限(7%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_7",
+    "text": "蓝琥珀链坠＋２ 在[月之贵族废墟]西北的一个地下房间的宝箱中发现 能更大幅提升专注值的上限(11%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_8",
+    "text": "观星少女的传说 躺在[利耶尼亚神授塔]的一具尸体上发现 能提升智力(5点)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_9",
+    "text": "双指的传说 在[受净化的废墟]的低处 能提升信仰(5点)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_10",
+    "text": "带翼剑徽章 [留水洞窟]中的[玛莲妮亚的尊腐骑士]掉落 攻击越是连续，越能提升攻击力"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_11",
+    "text": "健壮角饰品 在[湖之利耶尼亚]东部的一具尸体上发现，赐福[群集灵庙]西边的悬崖上 能提升健壮度(+90)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_12",
+    "text": "魔力对蝎 获得[猎杀指头刀]，但在给[魔女菈妮]之前和[魔法教授赛尔维斯]交谈获得 能提升魔力属性攻击力，但降低减伤率(+12%,-10%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_13",
+    "text": "红羽七刃剑 赐福[远眺岛]东北方向[死之鸟]掉落 血量偏低(低于20%)时，能提升攻击力(20%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_14",
+    "text": "矛护符 在[湖旁结晶洞窟]亚人营火附近的宝箱中发现 能强化突刺攻击特有的反击攻击(13%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_15",
+    "text": "珍珠龙徽护符 在[四钟楼]的第一个传送门后发现 能提升物理以外的减伤率(5%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_16",
+    "text": "蓝种子护符 在[卡利亚书斋]的屋梁上发现，可从屋顶进入 能提升蓝露滴圣杯瓶的恢复量(20%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_17",
+    "text": "熔炉瘤护符 [白金村]的[恶兆猎人]掉落 能减少头部射击造成的损伤与冲击"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_18",
+    "text": "卡利亚徽章 如果你在没有[“半狼”布莱泽]帮助的情况下击败[“猎犬骑士”达瑞威尔]，可以从[军师伊吉]购买，价值1000卢恩 能减少使用战技消耗的专注值(25%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_19",
+    "text": "夏玻利利之祸 [癫火村]的一具尸体 将变得容易受敌人攻击"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_4_20",
+    "text": "友好壶 完成任务后从[小壶]处获得 能提升投掷壶类道具的威力(20%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_1",
+    "text": "硬箭护符 在赐福[不破大桥]塔顶的宝箱中 能提升射出箭、弩箭时的攻击力(10%)。"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_2",
+    "text": "金色粪金龟 [废弃洞窟]中的[玛莲妮亚的尊腐骑士（镰刀）]和[玛莲妮亚的尊腐骑士（矛）]掉落 打倒敌人时，能增加获得的卢恩(~20%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_3",
+    "text": "大壶众武护符 在[盖利德]斗兽场附近击败大壶的奖励 能更大幅提升装备重量的上限(基于耐力的16-19%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_4",
+    "text": "义手剑士的传说 在[盖利德]中完成[贤者格威]的支线任务，然后返回[米莉森]处获得护符 能提升灵巧(5点)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_5",
+    "text": "拉达冈的糜烂烙印 在[法洛斯要塞]一具尸体上 能大幅提升能力值，但大幅增加受到的损伤(5点属性，伤害提高~15%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_6",
+    "text": "牺牲细枝 (x3) 可以从[桂奥尔龙墓]的[隐居商人]处以3000卢恩购买 死亡时不会掉落卢恩，但护符会消失"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_7",
+    "text": "火龙徽护符＋２ [龙墓洞窟]中的[法姆·亚兹拉的兽人](x2)掉落 能更大幅提升火属性减伤率(20%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_8",
+    "text": "大山羊护符 在[龙墓洞窟]找到 能提升强韧度(提升~33.3%四舍五入到最接近的整数)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_9",
+    "text": "碎星的传说 在[盖尔要塞] 能提升力气(5点)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_10",
+    "text": "信徒的立誓布 在[瑟利亚结晶坑道]的尸体上 能提升祷告的威力(4%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_11",
+    "text": "群聚信徒的立誓布 在完成[米莉森]任务线完成后杀死[贤者格威]掉落 能大幅提升祷告的威力(8%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_12",
+    "text": "魔力龙徽护符＋１ 在城镇西北的一个小房间里，就在阳台下面，里面有[丧失杖] 能大幅提升魔力属性减伤率。(PvE:17%; PvP:5%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_5_13",
+    "text": "龙徽盾护符 在[野兽神殿]的边缘发现 能提升物理减伤率(10%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_6_1",
+    "text": "众武护符＋１ 在[亚坛坑道]一具尸体上发现 能大幅提升装备重量的上限(17%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_6_2",
+    "text": "雷对蝎 在[威达姆地下墓地]一个被小恶魔像封印的房间里发现 能提升雷属性攻击力，但降低减伤率(+12%,-10%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_6_3",
+    "text": "献斗剑护符 在[卢克斯废墟]的宝箱中 血量全满时，能提升攻击力(10%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_6_4",
+    "text": "调香师护符 在[调香师的废墟]的一个宝箱中 能提升调香类道具的威力"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_6_5",
+    "text": "葛孚雷的肖像 [黄金一族的封印监牢]中的[“接肢”葛孚亚]掉落 能强化魔法、祷告、战技的蓄力使用(15%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_6_6",
+    "text": "龙徽盾护符＋１ 在[尊贵者的英雄墓地]的小恶魔像后面发现 能大幅提升物理减伤率(13%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_6_7",
+    "text": "雷龙徽护符＋１ 在[旧亚坛坑道]中找到 能大幅提升雷属性减伤率(17%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_6_8",
+    "text": "大盾护符 在赐福[近黄金树的山丘]东方马车上的一个箱子里 能提升防御强度(使你的防御强化等级提高1.1，减少你格挡攻击时损失的耐力)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_6_9",
+    "text": "红种子护符 在[尊贵者的英雄墓地]中找到 能提升红露滴圣杯瓶的恢复量(20%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_6_10",
+    "text": "隐身面纱 [贤者的洞窟]中的[黑刀刺客]掉落 远离敌人后，蹲下能隐藏自己的身影"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_6_11",
+    "text": "牺牲细枝 在赐福[亚坛大道的三叉口]北部敌军营地的一个宝箱里 死亡时不会掉落卢恩，但护符会消失"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_7_8",
+    "text": "克雷普的小瓶子 作为[火山官邸]任务线的一部分，击败[“黄昏将尽”莱利]的奖励 能完全去除自己发出的声响"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_7_1",
+    "text": "红琥珀链坠＋１ 在[火山官邸]在一个小恶魔像后面的一具尸体上发现，可以从赐福[牢镇教堂]到达 能大幅提升血量的上限(7%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_7_2",
+    "text": "火对蝎 在[格密尔火山]内的[莱多要塞]向西的城墙上一个木制平台上 能提升火属性攻击力，但降低减伤率(+12%,-10%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_7_4",
+    "text": "短剑护符 在[火山官邸][“亵渎君王”拉卡德]传送门前的房间里一个小恶魔像后面 能强化致命一击(17%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_7_5",
+    "text": "腐败眷属的欢愉 [沸滚河洞窟]中的[腐败眷属]掉落 当周围人物陷入中毒、腐败时，能提升攻击力(当附近的玩家或敌人受到毒或猩红腐的伤害时，攻击强度提高20%，持续20秒)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_7_6",
+    "text": "珍珠龙徽护符＋１ 在[威达姆废墟]一个小恶魔像后面的宝箱中 能大幅提升物理以外的减伤率(7%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_7_7",
+    "text": "掠夺浮雕坠饰 在[火山官邸]完成[“火山官邸之主”塔妮丝]任务线第三部分的奖励 打倒敌人时，能恢复血量(3%最大HP+30HP)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_7_9",
+    "text": "狄蒂卡之祸 在[火山官邸]任务线之后的[“招募者”菈雅]任务线的末尾获得 将增加受到的损伤(100%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_8_1",
+    "text": "绿琥珀链坠＋１ [王城外围]中的[“恶兆妖鬼”玛尔基特]掉落 能大幅提升精力的上限(13%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_8_2",
+    "text": "黄金树的恩惠＋１ 打[“恶兆之子”蒙格]后在Boss房间内发现 能提升血量、精力、装备重量的上限(3.5%,8.25%,6.5%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_8_3",
+    "text": "火龙徽护符＋１ 在桥上[恶兆孪生子]位置的一根柱子旁 能大幅提升火属性减伤率(17%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_8_4",
+    "text": "圣龙徽护符＋１ 在赐福[罗德尔地下墓地]两堵幻影墙后附近的尸体上 能大幅提升圣属性减伤率(17%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_8_5",
+    "text": "熔炉鳞护符 在[罗德尔地下墓地]一具尸体上 能减少致命一击造成的损伤"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_8_6",
+    "text": "熔炉羽护符 在[亚雷萨英雄墓地]内的一个秘密区域发现 能强化翻滚的闪避能力，但增加受到的损伤(30%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_8_7",
+    "text": "献斗盾护符 在[王城罗德尔]竞技场门前发现 血量全满时，能提升防御力(30%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_8_8",
+    "text": "恩惠露滴护符 在[神授桥]上的一个宝箱中发现，由一个魔像守卫。可以从[啜泣半岛]南部[归还塔]顶的传送门抵达 能缓慢恢复血量(2点/秒)。"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_9_1",
+    "text": "蓝琥珀链坠＋１ 在[索尔城]南墙上方的木制壁架的尸体上。 能大幅提升专注值的上限(9%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_9_2",
+    "text": "鲜血君王的欢愉 [罗德尔地下墓地]中的[“鲜血祭司”艾斯加]掉落 当周围人物陷入异常状态出血时，能提升攻击力(当附近的玩家或敌人遭受血量损失时，攻击强度提高20%，持续20秒)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_9_3",
+    "text": "源辉石刀 在[观星废墟]地下的一个宝箱中 能减少魔法、祷告消耗的专注值，但减少血量上限(25%,15%)。"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_9_5",
+    "text": "神皮襁褓 在[唤灵洞窟]中由[神皮使徒]和[神皮贵族]掉落 连续攻击时，能恢复血量(3%最大HP+30HP，~10秒重置计时)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_9_4",
+    "text": "珍珠龙徽护符＋２ 在赐福[圣树镇]上方的尸体上发现 能更大幅提升物理以外的减伤率(9%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_10_1",
+    "text": "绿琥珀链坠＋２ 在靠近赐福[圣树镇（广场）]的从召唤蜗牛所在的屋顶到达房间的宝箱中 能更大幅提升精力的上限(15%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_10_2",
+    "text": "银色粪金龟 [通往圣树的密道]一个幻影墙后的宝箱里 能提升观察力(75)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_10_3",
+    "text": "健壮角饰品＋１ 在[化圣雪原]的西边通往[耶罗·亚尼斯坑道]入口的路上 能大幅提升健壮度(140)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_10_4",
+    "text": "玛莉卡的糜烂烙印 在[“圣树分枝”艾布雷菲尔]一个需要[石剑钥匙]解锁的房间祭坛上 能大幅提升能力值，但大幅增加受到的损伤(+5点，伤害提高15%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_10_5",
+    "text": "米莉森的义手 在任务线最后杀死[米莉森]获得 能提升灵巧、攻击越是连续，越能提升攻击力(灵巧+5点)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_10_6",
+    "text": "腐败翼剑徽章 选择协助[米莉森]并成功击败她的姐妹的奖励 攻击越是连续，越能大幅提升攻击力(基础攻击力+6%，连续攻击+4%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_10_7",
+    "text": "魔法师块护符 在[化圣雪原]东部[白金魔法师塔]顶部 能大幅提升魔法的威力(8%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_10_8",
+    "text": "龙徽大盾护符 在[“圣树分枝”艾布雷菲尔]东北大建筑内的高平台上的一个宝箱中 能极大幅提升物理减伤率(20%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_10_9",
+    "text": "魔力龙徽护符＋２ 在[通往圣树的密道]下面的秘密地下墓穴的尸体上，[离群仿身泪滴]前的右边 能更大幅提升魔力属性减伤率(PvE:20%; PvP:6%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_11_2",
+    "text": "亚历山大的碎片 完成[“战士壶”亚历山大]的任务线获得 能大幅提升战技的攻击力(15%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_11_3",
+    "text": "古王护符 在赐福[龙教堂（屋顶）]东的一个宝箱中 能延长魔法、祷告的有效时间(30%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_11_4",
+    "text": "龙徽盾护符＋２ 在[龙教堂（升降机前）]和[龙教堂（屋顶）]之间漂浮平台上的尸体上 能更大幅提升物理减伤率(17%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_11_5",
+    "text": "雷龙徽护符＋２ 在一具尸体上，从东边的一个悬崖上掉下来发现，那里有一条古龙 能更大幅提升雷属性减伤率(20%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_12_1",
+    "text": "红琥珀链坠＋２ 在[“灰烬王城”罗德尔]中在进入[弃置恶兆的地底]前的位置 能更大幅提升血量的上限(7.5%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_12_2",
+    "text": "黄金树的恩惠＋２ 在一个大院子里的一根树枝上发现的(需要从[禁域]往回走) 能提升血量、精力、装备重量的上限(4%,9.6%,8%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_13_1",
+    "text": "理智角饰品 在[希芙拉河的出口井]通往电梯楼梯上的尸体上 能提升理智度(90)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_13_2",
+    "text": "玛莉卡的烙印 在高处龙人士兵Boss身后瀑布底部的一具尸体上 能提升能力值，但增加受到的损伤(+3点,伤害提高10%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_14_1",
+    "text": "理智角饰品＋１ 在[“永恒之城”诺克隆恩]中途废墟最底层的一具尸体上 能大幅提升理智度(140)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_14_2",
+    "text": "斑斓项链 在通向[“永恒之城”诺克隆恩]的断桥边缘的一具尸体上，可通过[四钟楼]的通道进入 能提升免疫力、健壮度、理智度(40点)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_14_3",
+    "text": "斑斓项链＋１ 在[“永恒之城”诺克隆恩]废墟拱门顶部的尸体上 能大幅提升免疫力、健壮度、理智度(60点)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_15_1",
+    "text": "圣龙徽护符＋２ 在[蒙格温王朝]的一具尸体上，在一个小坟堆里，旁边有一只警戒的大乌鸦栖息于高处 能更大幅提升圣属性减伤率(20%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_16_1",
+    "text": "免疫角饰品 在[安瑟尔河]蚁巢的尸体上 能提升免疫力(90点)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_17_1",
+    "text": "诺克史黛拉之月 在[“永恒之城”诺克史黛拉]一个巨大王座下的一个宝箱中 能增加记忆空格(2格)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_18_1",
     "text": "免疫角饰品＋１ 赐福[腐败湖畔]击败东南的祖灵之民的奖励 能大幅提升免疫力(140)"
   },
   {
-    "id": "/checklists/talismans.html#item_19_1",
+    "id": "/checklists/talisbyregion.html#item_19_1",
     "text": "死王子的恶性脓疮 在赐福[深根底层]东北的一个瀑布后面的洞穴里一只巨大[卢恩熊]掉落 能大幅提升抗死度(140)"
   },
   {
@@ -13408,12 +13892,12 @@
     "text": "罗蕾塔的斩击 禁卫骑士罗蕾塔的战技。向前跳的同时，将辉石的魔力灌入剑身，再加快速度瞬间斩下。 在[利耶尼亚][卡利亚城寨]中的[禁卫骑士罗蕾塔]掉落。"
   },
   {
-    "id": "/checklists/ashesofwar.html#item_8_10",
-    "text": "黑暗波动 将武器刺入地面后，在自身周围产生三道黑暗波动的战技。发动后接着使出重攻击，能回旋横扫攻击。 在[圆桌厅堂]用[黑暗弃子的追忆]交换。"
-  },
-  {
     "id": "/checklists/ashesofwar.html#item_8_6",
     "text": "重力 源自拥有石质皮肤的白王的战技。将武器刺入地面，产生重力波，能给予敌人伤害，同时将对方拉近自己。 在[宁姆格福]南部的赐福[傍海古遗迹]的海滩上一个瘦长骷髅掉落。从悬崖上下去时要小心。"
+  },
+  {
+    "id": "/checklists/ashesofwar.html#item_8_10",
+    "text": "黑暗波动 将武器刺入地面后，在自身周围产生三道黑暗波动的战技。发动后接着使出重攻击，能回旋横扫攻击。 在[圆桌厅堂]用[黑暗弃子的追忆]交换。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_3_3",

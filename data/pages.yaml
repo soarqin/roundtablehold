@@ -22,6 +22,7 @@ dropdowns:
       - "weapons.yaml" #Weapons
       - "armor.yaml" #Armor
       - "talismans.yaml" #Talismans
+      - "talisbyregion.yaml" #Talismans by Locations
       - "sorceries.yaml" #Sorceries
       - "incantations.yaml" #Incantations
       - "ashesofwar.yaml" #Ashes of War
