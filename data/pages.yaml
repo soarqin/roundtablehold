@@ -28,7 +28,9 @@ dropdowns:
       - "incantations.yaml" #Incantations
       - "incantbyregion.yaml" #Incantations by Locations
       - "ashesofwar.yaml" #Ashes of War
+      - "ashesbyregion.yaml" #Ashed of War by Locations
       - "spirit_ashes.yaml" #Spirit Ashes
+      - "spiritbyregion.yaml" #Spirit Ashes by Locations
   - 
     name: "强化和功能解锁道具"
     pages:

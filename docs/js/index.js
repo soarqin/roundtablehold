@@ -578,6 +578,111 @@
 "armor_97",
 "armor_98",
 "armor_99",
+"ashesbyregion_10_1",
+"ashesbyregion_10_2",
+"ashesbyregion_11_1",
+"ashesbyregion_11_10",
+"ashesbyregion_11_11",
+"ashesbyregion_11_12",
+"ashesbyregion_11_2",
+"ashesbyregion_11_3",
+"ashesbyregion_11_4",
+"ashesbyregion_11_5",
+"ashesbyregion_11_6",
+"ashesbyregion_11_7",
+"ashesbyregion_11_8",
+"ashesbyregion_11_9",
+"ashesbyregion_12_1",
+"ashesbyregion_12_10",
+"ashesbyregion_12_11",
+"ashesbyregion_12_2",
+"ashesbyregion_12_3",
+"ashesbyregion_12_4",
+"ashesbyregion_12_5",
+"ashesbyregion_12_6",
+"ashesbyregion_12_7",
+"ashesbyregion_12_8",
+"ashesbyregion_12_9",
+"ashesbyregion_13_1",
+"ashesbyregion_13_10",
+"ashesbyregion_13_11",
+"ashesbyregion_13_12",
+"ashesbyregion_13_2",
+"ashesbyregion_13_3",
+"ashesbyregion_13_4",
+"ashesbyregion_13_5",
+"ashesbyregion_13_6",
+"ashesbyregion_13_7",
+"ashesbyregion_13_8",
+"ashesbyregion_13_9",
+"ashesbyregion_14_1_1",
+"ashesbyregion_14_1_10",
+"ashesbyregion_14_1_11",
+"ashesbyregion_14_1_12",
+"ashesbyregion_14_1_13",
+"ashesbyregion_14_1_14",
+"ashesbyregion_14_1_2",
+"ashesbyregion_14_1_3",
+"ashesbyregion_14_1_4",
+"ashesbyregion_14_1_5",
+"ashesbyregion_14_1_6",
+"ashesbyregion_14_1_7",
+"ashesbyregion_14_1_8",
+"ashesbyregion_14_1_9",
+"ashesbyregion_1_1",
+"ashesbyregion_1_2",
+"ashesbyregion_1_3",
+"ashesbyregion_1_4",
+"ashesbyregion_2_1",
+"ashesbyregion_2_2",
+"ashesbyregion_2_3",
+"ashesbyregion_3_1",
+"ashesbyregion_3_2",
+"ashesbyregion_3_3",
+"ashesbyregion_4_1",
+"ashesbyregion_4_2",
+"ashesbyregion_5_1",
+"ashesbyregion_5_10",
+"ashesbyregion_5_11",
+"ashesbyregion_5_12",
+"ashesbyregion_5_13",
+"ashesbyregion_5_14",
+"ashesbyregion_5_2",
+"ashesbyregion_5_3",
+"ashesbyregion_5_4",
+"ashesbyregion_5_5",
+"ashesbyregion_5_6",
+"ashesbyregion_5_7",
+"ashesbyregion_5_8",
+"ashesbyregion_5_9",
+"ashesbyregion_6_1",
+"ashesbyregion_6_10",
+"ashesbyregion_6_11",
+"ashesbyregion_6_2",
+"ashesbyregion_6_3",
+"ashesbyregion_6_4",
+"ashesbyregion_6_5",
+"ashesbyregion_6_6",
+"ashesbyregion_6_7",
+"ashesbyregion_6_8",
+"ashesbyregion_6_9",
+"ashesbyregion_7_1",
+"ashesbyregion_7_2",
+"ashesbyregion_7_3",
+"ashesbyregion_8_1",
+"ashesbyregion_8_10",
+"ashesbyregion_8_2",
+"ashesbyregion_8_3",
+"ashesbyregion_8_4",
+"ashesbyregion_8_5",
+"ashesbyregion_8_6",
+"ashesbyregion_8_7",
+"ashesbyregion_8_8",
+"ashesbyregion_8_9",
+"ashesbyregion_9_1",
+"ashesbyregion_9_2",
+"ashesbyregion_9_3",
+"ashesbyregion_9_4",
 "ashesofwar_10_1",
 "ashesofwar_10_2",
 "ashesofwar_11_1",
@@ -615,7 +720,6 @@
 "ashesofwar_13_7",
 "ashesofwar_13_8",
 "ashesofwar_13_9",
-"ashesofwar_14_1",
 "ashesofwar_14_1_1",
 "ashesofwar_14_1_10",
 "ashesofwar_14_1_11",
@@ -3599,6 +3703,70 @@
 "spirit_ashes_9_2",
 "spirit_ashes_9_3",
 "spirit_ashes_9_4",
+"spiritbyregion_10_1",
+"spiritbyregion_11_1",
+"spiritbyregion_12_1",
+"spiritbyregion_12_2",
+"spiritbyregion_13_1",
+"spiritbyregion_14_1",
+"spiritbyregion_14_2",
+"spiritbyregion_15_1",
+"spiritbyregion_1_1",
+"spiritbyregion_1_2",
+"spiritbyregion_1_3",
+"spiritbyregion_2_1",
+"spiritbyregion_2_2",
+"spiritbyregion_2_3",
+"spiritbyregion_2_4",
+"spiritbyregion_2_5",
+"spiritbyregion_2_6",
+"spiritbyregion_2_7",
+"spiritbyregion_2_8",
+"spiritbyregion_2_9",
+"spiritbyregion_3_1",
+"spiritbyregion_3_10",
+"spiritbyregion_3_11",
+"spiritbyregion_3_12",
+"spiritbyregion_3_13",
+"spiritbyregion_3_14",
+"spiritbyregion_3_15",
+"spiritbyregion_3_16",
+"spiritbyregion_3_17",
+"spiritbyregion_3_18",
+"spiritbyregion_3_2",
+"spiritbyregion_3_3",
+"spiritbyregion_3_4",
+"spiritbyregion_3_5",
+"spiritbyregion_3_6",
+"spiritbyregion_3_7",
+"spiritbyregion_3_8",
+"spiritbyregion_3_9",
+"spiritbyregion_4_1",
+"spiritbyregion_4_2",
+"spiritbyregion_4_3",
+"spiritbyregion_4_4",
+"spiritbyregion_4_5",
+"spiritbyregion_4_6",
+"spiritbyregion_4_7",
+"spiritbyregion_4_8",
+"spiritbyregion_4_9",
+"spiritbyregion_5_1",
+"spiritbyregion_5_2",
+"spiritbyregion_5_3",
+"spiritbyregion_6_1",
+"spiritbyregion_6_2",
+"spiritbyregion_6_3",
+"spiritbyregion_6_4",
+"spiritbyregion_7_1",
+"spiritbyregion_7_2",
+"spiritbyregion_7_3",
+"spiritbyregion_7_4",
+"spiritbyregion_7_5",
+"spiritbyregion_8_1",
+"spiritbyregion_9_1",
+"spiritbyregion_9_2",
+"spiritbyregion_9_3",
+"spiritbyregion_9_4",
 "stonesword_k1",
 "stonesword_k10",
 "stonesword_k11",
@@ -4442,10 +4610,14 @@ const incantations_total = 101;
 var incantations_checked = 0;
 const incantbyregion_total = 101;
 var incantbyregion_checked = 0;
-const ashesofwar_total = 106;
+const ashesofwar_total = 105;
 var ashesofwar_checked = 0;
+const ashesbyregion_total = 105;
+var ashesbyregion_checked = 0;
 const spirit_ashes_total = 64;
 var spirit_ashes_checked = 0;
+const spiritbyregion_total = 64;
+var spiritbyregion_checked = 0;
 const flasks_total = 57;
 var flasks_checked = 0;
 const crystal_tears_total = 32;
@@ -4538,8 +4710,14 @@ incantbyregion_checked += 1;
 if (id.startsWith("ashesofwar_")) {
 ashesofwar_checked += 1;
 }
+if (id.startsWith("ashesofwar_")) {
+ashesbyregion_checked += 1;
+}
 if (id.startsWith("spirit_ashes_")) {
 spirit_ashes_checked += 1;
+}
+if (id.startsWith("spirit_ashes_")) {
+spiritbyregion_checked += 1;
 }
 if (id.startsWith("flasks_")) {
 flasks_checked += 1;
@@ -4687,10 +4865,20 @@ $("#ashesofwar_progress_total").html("DONE");
 } else {
 $("#ashesofwar_progress_total").html(ashesofwar_checked + "/" + ashesofwar_total);
 }
+if (ashesbyregion_checked >= ashesbyregion_total){
+$("#ashesbyregion_progress_total").html("DONE");
+} else {
+$("#ashesbyregion_progress_total").html(ashesbyregion_checked + "/" + ashesbyregion_total);
+}
 if (spirit_ashes_checked >= spirit_ashes_total){
 $("#spirit_ashes_progress_total").html("DONE");
 } else {
 $("#spirit_ashes_progress_total").html(spirit_ashes_checked + "/" + spirit_ashes_total);
+}
+if (spiritbyregion_checked >= spiritbyregion_total){
+$("#spiritbyregion_progress_total").html("DONE");
+} else {
+$("#spiritbyregion_progress_total").html(spiritbyregion_checked + "/" + spiritbyregion_total);
 }
 if (flasks_checked >= flasks_total){
 $("#flasks_progress_total").html("DONE");

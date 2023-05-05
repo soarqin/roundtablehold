@@ -12880,20 +12880,8 @@
     "text": "绿琥珀链坠＋１ [王城外围]中的[“恶兆妖鬼”玛尔基特]掉落 能大幅提升精力的上限(13%)"
   },
   {
-    "id": "/checklists/talisbyregion.html#item_8_2",
-    "text": "黄金树的恩惠＋１ 打[“恶兆之子”蒙格]后在Boss房间内发现 能提升血量、精力、装备重量的上限(3.5%,8.25%,6.5%)"
-  },
-  {
     "id": "/checklists/talisbyregion.html#item_8_3",
     "text": "火龙徽护符＋１ 在桥上[恶兆孪生子]位置的一根柱子旁 能大幅提升火属性减伤率(17%)"
-  },
-  {
-    "id": "/checklists/talisbyregion.html#item_8_4",
-    "text": "圣龙徽护符＋１ 在赐福[罗德尔地下墓地]两堵幻影墙后附近的尸体上 能大幅提升圣属性减伤率(17%)"
-  },
-  {
-    "id": "/checklists/talisbyregion.html#item_8_5",
-    "text": "熔炉鳞护符 在[罗德尔地下墓地]一具尸体上 能减少致命一击造成的损伤"
   },
   {
     "id": "/checklists/talisbyregion.html#item_8_6",
@@ -12906,6 +12894,18 @@
   {
     "id": "/checklists/talisbyregion.html#item_8_8",
     "text": "恩惠露滴护符 在[神授桥]上的一个宝箱中发现，由一个魔像守卫。可以从[啜泣半岛]南部[归还塔]顶的传送门抵达 能缓慢恢复血量(2点/秒)。"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_8_2",
+    "text": "黄金树的恩惠＋１ 打[“恶兆之子”蒙格]后在Boss房间内发现 能提升血量、精力、装备重量的上限(3.5%,8.25%,6.5%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_8_4",
+    "text": "圣龙徽护符＋１ 在赐福[罗德尔地下墓地]两堵幻影墙后附近的尸体上 能大幅提升圣属性减伤率(17%)"
+  },
+  {
+    "id": "/checklists/talisbyregion.html#item_8_5",
+    "text": "熔炉鳞护符 在[罗德尔地下墓地]一具尸体上 能减少致命一击造成的损伤"
   },
   {
     "id": "/checklists/talisbyregion.html#item_9_1",
@@ -14760,216 +14760,528 @@
     "text": "无战技 武器没有战技。如果另一边的武器具备战技，会使用那一边的战技。 由[宁姆格福][风暴山丘][习战者的破屋]的[骑士贝纳尔]出售。"
   },
   {
-    "id": "/checklists/ashesofwar.html#item_14_1",
-    "text": "失力战灰 - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。一周目最多可以获得15个。"
-  },
-  {
     "id": "/checklists/ashesofwar.html#item_14_1_1",
-    "text": "从[啜泣半岛]赐福[隐居商人的破屋]的[隐居商人]处购买。"
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 从[啜泣半岛]赐福[隐居商人的破屋]的[隐居商人]处购买。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_2",
-    "text": "从赐福[学院正门口]东边[隐居商人]处购买。"
+    "text": "失力战灰  从赐福[学院正门口]东边[隐居商人]处购买。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_3",
-    "text": "从[魔法学院雷亚卢卡利亚]风车底部的区域向西跳上水晶后拾取。"
+    "text": "失力战灰  从[魔法学院雷亚卢卡利亚]风车底部的区域向西跳上水晶后拾取。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_4",
-    "text": "从[安瑟尔河]的[流浪民族的商人]处购买。"
+    "text": "失力战灰  从[安瑟尔河]的[流浪民族的商人]处购买。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_5",
-    "text": "(2个) 在[盖利德][桂奥尔龙墓]的[隐居商人的破屋]的[隐居商人]处购买。"
+    "text": "失力战灰  (2个) 在[盖利德][桂奥尔龙墓]的[隐居商人的破屋]的[隐居商人]处购买。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_6",
-    "text": "在[瑟利亚隐藏洞窟]底部王室幽魂守卫的一个尸体上。"
+    "text": "失力战灰  在[瑟利亚隐藏洞窟]底部王室幽魂守卫的一个尸体上。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_7",
-    "text": "在赐福点[古遗迹断崖（对岸）]往回电梯下去，高台后面的悬崖边缘尸体上。"
+    "text": "失力战灰  在赐福点[古遗迹断崖（对岸）]往回电梯下去，高台后面的悬崖边缘尸体上。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_8",
-    "text": "在[贤者的洞窟]经过第一个骷髅民兵后的宝箱里。"
+    "text": "失力战灰  在[贤者的洞窟]经过第一个骷髅民兵后的宝箱里。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_9",
-    "text": "在[王城外围]紧靠王朝西北方向紧闭的城门处，从北边一棵有两个黄金种子的黄金树向东走抵达。"
+    "text": "失力战灰  在[王城外围]紧靠王朝西北方向紧闭的城门处，从北边一棵有两个黄金种子的黄金树向东走抵达。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_10",
-    "text": "在[王城罗德尔]东城区的下水道区域(不是弃置恶兆的地底)一条岔路尽头由大手守卫的尸体上。"
+    "text": "失力战灰  在[王城罗德尔]东城区的下水道区域(不是弃置恶兆的地底)一条岔路尽头由大手守卫的尸体上。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_11",
-    "text": "在[弃置恶兆的地底]关押[食粪者]的牢房外，有一只大手守卫。"
+    "text": "失力战灰  在[弃置恶兆的地底]关押[食粪者]的牢房外，有一只大手守卫。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_12",
-    "text": "在[巨人山顶]火焰主教身后长长的石桥上的一具尸体上。"
+    "text": "失力战灰  在[巨人山顶]火焰主教身后长长的石桥上的一具尸体上。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_13",
-    "text": "由[蒙格温王朝]的[受囚商人]出售。"
+    "text": "失力战灰  由[蒙格温王朝]的[受囚商人]出售。"
   },
   {
     "id": "/checklists/ashesofwar.html#item_14_1_14",
-    "text": "在[圣树树冠]高处的一个雕像前，你需要从主干向低处走然后从右边跳到下方的细枝上，然后沿路绕到高处。"
+    "text": "失力战灰  在[圣树树冠]高处的一个雕像前，你需要从主干向低处走然后从右边跳到下方的细枝上，然后沿路绕到高处。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_2_1",
-    "text": "“失乡骑士”英格威尔 [蒙流地下墓地]的Boss[守墓斗士]掉落"
+    "id": "/checklists/ashesbyregion.html#item_5_11",
+    "text": "箭步（上砍） 举起武器摆出架式，稳住姿势压低身形，瞬间提升强韧度的战技。发动后接着使出重攻击，能上砍攻击。 由[宁姆格福][风暴山丘][习战者的破屋]的[骑士贝纳尔]出售。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_2_2",
-    "text": "“失乡骑士”奥雷格 [边境英雄墓地]的Boss[腐烂树灵]掉落"
+    "id": "/checklists/ashesbyregion.html#item_5_10",
+    "text": "箭步（回旋斩） 举起武器摆出架式，稳住姿势压低身形，瞬间提升强韧度的战技。发动后接着使出重攻击，能回旋斩。 在[宁姆格福]西部[风暴根脚的地下墓地]东部海滩上一个隐形粪金龟。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_2_3",
-    "text": "葛瑞克士兵的骨灰 在[风暴山丘]西侧一个充满灵魂水母的墓地发现。"
+    "id": "/checklists/ashesbyregion.html#item_5_14",
+    "text": "盲击 不间断、任意挥动武器的战技。持续发动的期间能一直攻击，接着使出轻攻击或重攻击，能追加攻击。 在[宁姆格福]西北，赐福[通城隧道]向北路上的粪金龟。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_2_4",
-    "text": "离群野狼的骨灰 从[梅琳娜]处获取灵马后夜间在[艾雷教堂]处由[魔女蕾娜]给予。"
+    "id": "/checklists/ashesbyregion.html#item_5_8",
+    "text": "踢击 大幅抬起脚向前踢的战技。对正在防御的敌人很有效，能使对方失去平衡。朴实却又实用的战技。 由[宁姆格福][风暴山丘][习战者的破屋]的[骑士贝纳尔]出售。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_2_5",
-    "text": "权贵魔法师的骨灰 [风暴根脚的地下墓地]的Boss[归树看门犬]掉落"
+    "id": "/checklists/ashesbyregion.html#item_5_5",
+    "text": "忍耐 心中做好准备放低重心，站稳步伐，能瞬间提升强韧度的战技。在战技有效期间内，能减轻受到的损伤。 由[宁姆格福][风暴山丘][习战者的破屋]的[骑士贝纳尔]出售。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_2_6",
-    "text": "骸骨民兵的骨灰 在[水唤村]的场地Boss[提比亚的唤声船]掉落"
+    "id": "/checklists/ashesbyregion.html#item_5_6",
+    "text": "坠落震击 轻盈向前跳，再顺势用臀部用力向下坠落的战技。此攻击能引发剧烈的冲击波。 在[宁姆格福]东部[雾林][小黄金树]西南一个小山上的粪金龟。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_2_7",
-    "text": "灵魂水母的骨灰 在[风暴山丘的破屋]与[罗德莉卡]交谈几次后给予。"
+    "id": "/checklists/ashesbyregion.html#item_5_13",
+    "text": "战吼 透过咆哮激励自己，提升攻击力的战技。在战技有效期间内，重攻击会变成突进攻击。 由[宁姆格福][风暴山丘][习战者的破屋]的[骑士贝纳尔]出售。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_2_8",
-    "text": "风暴鹰汀涅 在[候王礼拜堂]主厅上面的一个宝箱发现，需要通过[四钟楼]返回该处。"
+    "id": "/checklists/ashesbyregion.html#item_6_9",
+    "text": "回旋斩 拥有高灵巧的剑士们使用的战技。能大幅旋转身体，砍向敌人。再次发动能使出追击。 由[宁姆格福][风暴山丘][习战者的破屋]的[骑士贝纳尔]出售。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_6_4",
+    "text": "贯穿 突刺武器对付持盾敌人时的战技。蓄力之后，大幅度向前跨出使出浑身一刺，从正面突破防御。 由[宁姆格福][风暴山丘][习战者的破屋]的[骑士贝纳尔]出售。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_6_8",
+    "text": "连击 旋身之后，使出连续突刺的战技。 由[宁姆格福][亚基尔湖北方]东南路上的[黑夜骑兵]掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_6_11",
+    "text": "居合 芦苇之地的剑客继承而来的战技。收刀入腰间刀鞘，摆出架式后静止不动，接着使出轻攻击或重攻击，能高速斩击。 [宁姆格福]赐福[亚基尔湖南方]西北方向[亚基尔湖]边缘被螃蟹怪包围的1只粪金龟。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_6_6",
+    "text": "碎步 以速度干扰敌人的战斗者们使用的战技。能以轻盈步伐快速移动。在锁定目标的状态下使用，能以目标为中心移动。 由[宁姆格福][风暴山丘][习战者的破屋]的[骑士贝纳尔]出售。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_11_9",
+    "text": "风暴刃 史东薇尔的失传战技。将武器缠绕风暴刃，朝前方释放风暴。可以连续施放。 在[宁姆格福][蒙流地下墓地]中由守墓人掉落，也由[宁姆格福][风暴山丘][习战者的破屋]的[骑士贝纳尔]出售。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_11_8",
+    "text": "风暴袭击 史东薇尔的风暴战技之一。缠绕着风暴向前跳，将武器向下刺。突刺攻击后也会形成风暴。 在[史东薇尔城]底部掉落到[腐烂树灵]Boss战之前的粪金龟。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_11_11",
+    "text": "唤起风暴 史东薇尔的风暴战技之一。能挥舞武器，在自身周围唤起风暴。再次发动能使出最多两次的追击。 在[宁姆格福][史东薇尔城]中赐福[深处小房间]对面路上的粪金龟"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_11_10",
+    "text": "风暴足 史东薇尔的风暴战技之一。能大力踏向地面，在自身周围引发瞬间的风暴。 在赐福[关卡前废墟]东南方向地下小房间的一个宝箱里。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_11_2",
+    "text": "决心 骑士们的战技。将武器移向眼前、指向天空，坚定决心，提升下一记攻击的威力。 在[宁姆格福]赐福[亚基尔湖北方]的东南路上的粪金龟。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_8_6",
+    "text": "重力 源自拥有石质皮肤的白王的战技。将武器刺入地面，产生重力波，能给予敌人伤害，同时将对方拉近自己。 在[宁姆格福]南部的赐福[傍海古遗迹]的海滩上一个瘦长骷髅掉落。从悬崖上下去时要小心。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_12_7",
+    "text": "神圣刀刃 让武器附加圣属性攻击力，并且顺势释放黄金刀刃的战技。附加圣属性攻击力的效果会暂时延续。 在[宁姆格福]赐福[玛莉卡第三教堂]北部的粪金龟掉落。在龙卷风跳跃点附近。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_12_4",
+    "text": "黄金树立誓 王城骑士们自古继承而来的战技。将武器指向天空，发誓为黄金树而战，提升自己与周围我方人物的攻击力与防御力。 在[宁姆格福][风暴山丘][死亡降临的地下墓地]上方悬崖上一个骑马的葛瑞克骑士掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_1_3",
+    "text": "鲜血斩击 鲜血君王分享的力量，血盟战技之一。压低身形，将自身的血液布满剑身，使出大范围撕裂敌人的血刃。 在[海德要塞]顶部的骑士掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_13_6",
+    "text": "格挡 拨开攻击的同时，让敌人失去平衡的战技。需要在敌人近距离攻击时配合使用。失去平衡后，使出“致命一击”的机会随之到来。 由[宁姆格福][风暴山丘][习战者的破屋]的[骑士贝纳尔]出售。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_13_11",
+    "text": "风暴障壁 挥动盾牌，在自身前方形成风暴障壁，让箭之类的远攻道具偏移的战技。也能发挥与战技“格挡”相同的功能。 从桥上掉下来绕过[史东薇尔城]后的小区域内的粪金龟掉落。从赐福[风暴山丘的破屋]沿着路径向北走，不要左转到城堡。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_13_5",
+    "text": "无战技 武器没有战技。如果另一边的武器具备战技，会使用那一边的战技。 由[宁姆格福][风暴山丘][习战者的破屋]的[骑士贝纳尔]出售。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_13_4",
+    "text": "拉满弓 能侧身拉弓的射手战技。摆出架式后，用力拉满弓，能提升箭的攻击威力，突破敌人防御。 在[啜泣半岛]赐福[摩恩城（城墙前方）]以北路口附近道路上的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_13_2",
+    "text": "铁壁盾防 因骑士奈德哈特而闻名的战技。将力量集中至盾牌，暂时强化盾牌的坚硬度，能抵御更为强大的攻击。 在[啜泣半岛]赐福[摩恩城（城墙前方）]西边道路上的[黑夜骑兵]掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_1",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 从[啜泣半岛]赐福[隐居商人的破屋]的[隐居商人]处购买。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_8_5",
+    "text": "辉石魔砾 能施展同名辉石魔法的战技。发动后接着使出重攻击，能大幅向前跨出，使出含有辉石魔力的突刺攻击。 由[魔法师罗杰尔]在[史东薇尔城]或在[圆桌厅堂]出售。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_8_4",
+    "text": "辉剑圆阵 侍奉卡利亚王室的魔法骑士们使用的战技。让魔力辉剑浮空围成半圆，自动攻击敌人。发动后接着使出重攻击，能向前大幅跨出、突刺攻击。 击败[“接肢”葛瑞克]后[圆桌厅堂]的[魔法师罗杰尔]给你。可从他的武器[罗杰尔刺剑]上卸下。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_8_2",
+    "text": "卡利亚大剑 喻为卡利亚王室象征的战技。将剑身化为魔力大剑，再向下挥舞。借由蓄力发动，能提升威力。 由[魔法师罗杰尔]在[史东薇尔城]或在[圆桌厅堂]出售。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_8_8",
+    "text": "转啊转 卡利亚公主们防身用的战技。将武器浮在自身前方高速旋转，触碰到的人物会受到连击。 由[魔法师罗杰尔]在[史东薇尔城]或在[圆桌厅堂]出售。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_5_1",
+    "text": "野蛮咆哮 发出野兽般的咆哮，借此激励自己，提升攻击力的战技。在战技有效期间内，重攻击会变成野蛮连击。 在[利耶尼亚]北部[谷底秘村]的粪金龟。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_6_10",
+    "text": "剑舞 一边迅速向前推进，一边使出连续旋身上砍的战技。再次发动能使出迅速下砍。 [利耶尼亚]西南小黄金树西边悬崖下有水母的小路上的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_6_7",
+    "text": "潜雾猛禽 压低身形，瞬间消失身影的战技。受到攻击时能长出猛禽翅膀，瞬间一跃而起。 在[“血指猎人”尤拉]任务线，在[利耶尼亚]的赐福[学院正门口]处击败目标时获得"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_11_1",
+    "text": "突击 武器及腰摆出架式，再一口气向前冲的战技。前进到极限后能使出突刺攻击。持续发动能增加移动距离。 [利耶尼亚]赐福[湖中坠落遗迹]的北面桥下挂着的粪金龟。需要手动瞄准攻击。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_11_6",
+    "text": "回旋击 大幅度旋转长柄武器的战技。持续发动的期间能一直攻击，接着使出轻攻击或重攻击，能追加攻击。旋转武器时，能拨开箭等等的远攻道具。 [复仇者的破屋]处[城主艾德格]掉落，可从他的武器[失乡骑士戟] +8上卸下"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_11_3",
+    "text": "狩猎巨人 挑战体型比自己大的敌人而有的战技。压低身形稳住姿势，向前踏出，接着顺势由下而上突刺敌人。 由[利耶尼亚]北边赐福[彼鲁姆教堂]南边路上的[黑夜骑兵]掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_8_1",
+    "text": "伟哉卡利亚 喻为卡利亚王室象征的战技。将剑身化为魔力大剑，再向下挥舞。借由蓄力发动，能提升两个阶段。 在[利耶尼亚][卡利亚城寨]一个拱门顶部的尸体上发现。爬上楼梯，经过巨人，左转，穿过门，直到第二个悬崖顶上有一个大壶。从这里应该可以看到拱门。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_8_7",
+    "text": "罗蕾塔的斩击 禁卫骑士罗蕾塔的战技。向前跳的同时，将辉石的魔力灌入剑身，再加快速度瞬间斩下。 在[利耶尼亚][卡利亚城寨]中的[禁卫骑士罗蕾塔]掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_12_11",
+    "text": "无敌 黄金树的古老战士们使用的战技。高举盾牌，让黄金力量充满全身，能够瞬间呈现无敌状态。 在[利耶尼亚]湖南方赐福[湖畔凉亭]以南有毒沼泽地区的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_2_3",
+    "text": "冰枪 侍奉“月之公主”菈妮的战士使用的战技。旋转武器之余唤出寒气，再顺势使出突刺，释放冰枪。 由[利耶尼亚]东部赐福[门前镇大桥]东南方的[黑夜骑兵]掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_2_1",
+    "text": "寒气冻雾 让武器缠绕寒气后使出斩击，并在前方形成冻雾的战技。缠绕武器上的寒气会暂时延续。 由[蕾娜魔法师塔]南部废墟的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_2_2",
+    "text": "冻霜踏地 大力踏向地面，让冻霜随之扩散的战技。冻霜会引发异常状态冻伤。 在[卡利亚城寨]东南的水里一个看不见的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_9_3",
+    "text": "幻影枪 无头灵庙骑士使用的战技。能形成幻影枪，投掷攻击。 在[魔法学院雷亚卢卡利亚]学院的粪金龟掉落。从赐福[杜鹃教堂]向前穿过这个区域，直到你到达由许多狗守卫的石墙。从城墙的门往北走，在墓碑和树之间有一个斜坡，底部有粪金龟。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_13_8",
+    "text": "盾牌冲击 架稳盾牌、防御的同时，利用全身的重量向前冲撞的战技。对弱小的敌人使出，能让对方失去平衡。 由赐福[东门桥的桥柱]东北方向的传送粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_8_9",
+    "text": "托普斯的力场 张开魔力力场的同时挥动盾牌，能拨开魔法、祷告的战技。也能发挥与战技“格挡”相同的功能。 在[伊利斯教堂]中的粪金龟掉落，在[魔法师托普斯]离开移动到学院后才会生成。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_8_3",
+    "text": "卡利亚式奉还 挥动盾牌消除魔法、祷告的效用，再用承受的力量化为浮空辉剑的战技。也能发挥与战技“格挡”相同的功能。 由[利耶尼亚][卡利亚城寨]的[仆人毕迪]。[仆人毕迪]可以通过从[三姊妹塔]东南侧的悬崖上下落找到。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_2",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 从赐福[学院正门口]东边[隐居商人]处购买。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_3",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 从[魔法学院雷亚卢卡利亚]风车底部的区域向西跳上水晶后拾取。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_7",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 在赐福点[古遗迹断崖（对岸）]往回电梯下去，高台后面的悬崖边缘尸体上。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_5_9",
+    "text": "狮子斩 与拉塔恩将军并肩作战的红狮子军队所使用的战技。能朝前方跳跃，一边旋身一边以武器敲击。 [盖尔要塞]东边的狮子守卫掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_5_3",
+    "text": "岩石剑 以重力招式为人知晓的战技。将武器敲向地面，让岩石攀附其上。能提升攻击力，也容易让敌人失去平衡。 在[盖利德]南部赐福[不破大桥]西边的粪金龟。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_6_3",
+    "text": "二连斩 杰出剑士的战技。压低身形后，使出连续的交错斩击。再次发动能使出最多两次的追击。 在[盖利德][魔法镇瑟利亚]楼梯下的赐福点西南的屋顶上的粪金龟。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_6_2",
+    "text": "猎犬步法 能瞬间消失身影，以踏步移动的战技。移动速度快，距离也长。在锁定目标的状态下使用，能以目标为中心移动。 在[盖利德][雷恩魔法师塔]以北的桥上[黑夜骑兵]掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_6_1",
+    "text": "野兽咆哮 发出野兽般的咆哮，划破空气，将咆哮声化成球体释放的战技。 在[盖利德]的[野兽神殿]处，交第4个[死根]给[“野兽祭司”古兰格]的奖励"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_3_3",
+    "text": "炎击 朝前方大范围释放火焰的战技。发动后接着使出重攻击，能向前跨出、横扫攻击，并让武器缠绕火焰。 [盖利德][红狮子城]南墙外的粪金龟。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_3_2",
+    "text": "红狮子火焰 与拉塔恩将军并肩作战的红狮子军队所使用的战技。能朝前方释放大范围的强烈火焰。 [盖利德]西部赐福[盖尔要塞北方]附近的隐形粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_12_9",
+    "text": "神圣光环 尊腐骑士的指挥官使用的战技。让武器形成神圣光环，朝前方释放。可以连续施放。 在[盖利德]赐福[艾奥尼亚中心地]以东艾奥尼亚沼泽东部边缘的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_10_2",
+    "text": "毒雾 让武器缠绕毒之后使出斩击，并在前方形成毒雾的战技，缠绕武器上的毒会暂时延续。 在[盖利德]赐福[艾奥尼亚沼泽（岸边）]东南[艾奥尼亚沼泽]南部的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_10_1",
+    "text": "双吻毒蛾 在剑刃涂上强效毒，砍向敌人的战技。对上陷入中毒状态的敌人，如果成功使出追击，能一口气给予大伤害。 在[盖利德]赐福[盖利德大道南方]和赐福[艾奥尼亚沼泽（南岸）]之间道路上的[黑夜骑兵]掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_9_2",
+    "text": "夺命拳 精通气的专家使用的战技。只对有着人类之身的敌人有效。将气缓慢缠绕拳头之后再出拳，能让碰触的人昏倒，夺取血量。 在[盖利德]赐福[盖利德大道北方（偏离大道后）]西边路上的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_13_10",
+    "text": "对空射击 压低身形拉弓的射手战技。摆出架式后，朝天空射出箭，箭会从敌人上方落下。 在[桂奥尔龙墓]西部沿着赐福[隐居商人的破屋]的悬崖西北的粪金龟扔下。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_13_7",
+    "text": "箭雨 压低身形拉弓的战技。摆出架式后，朝天空一口气射出多支箭，箭会如雨一般，从敌人上方倾注而下。 解决[魔法镇瑟利亚]中发现的[红狮子城]的绘画奖励，可以在[桂奥尔龙墓]东部[小黄金树]的悬崖上找到画家灵魂。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_5",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 (2个) 在[盖利德][桂奥尔龙墓]的[隐居商人的破屋]的[隐居商人]处购买。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_6",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 在[瑟利亚隐藏洞窟]底部王室幽魂守卫的一个尸体上。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_5_4",
+    "text": "撼地 将武器刺入地面后，再向下使力产生冲击波，引发剧烈摇晃的战技。发动后接着使出重攻击，能回旋横扫攻击。 在[亚坛高原]南部赐福[亚坛大道的三叉口]西南路口静止的隐形粪金龟。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_6_5",
+    "text": "突刺 “血指猎人”尤拉的战技。举起武器与地面平行，再一口气贯穿敌人。此战技无法用防御挡下。 [“血指猎人”尤拉]死亡或任务中掉落，可从他的武器[长牙]上卸下。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_7_2",
+    "text": "雷击斩 让雷电打在武器上，再向下挥舞，形成强力雷击的战技。缠绕武器上的雷电会暂时延续。 由[亚坛高原]赐福[遁世商人的破屋]西北，城墙外小营地的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_7_1",
+    "text": "雷电羊球 仿效向前滚的羊而出现的战技。发出叫声后，能缠绕雷电向前滚动，可以连续滚动。 [亚坛高原][唤雷教堂]以东[尊贵者的英雄墓地]东南的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_12_8",
+    "text": "圣律 黄金律法基本主义者的骑士们使用的战技。敬礼的同时，能替武器附加神圣性。对死诞者的伤害尤为巨大。 在[亚坛高原]南边赐福[弃置棺材]西北方向的粪金龟掉落。在水边西方的小路上。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_12_10",
+    "text": "共享圣律 黄金律法基本主义者的骑士们使用的战技。能替自身与周围我方人物的武器附加神圣性。对死诞者的伤害尤为巨大。 在[亚坛高原]赐福[亚坛大道的三叉口]西南路上的[黑夜骑兵]掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_12_3",
+    "text": "黄金坠落震击 守护小黄金树的化身使用的战技。能轻盈向前跳，用臀部用力向下坠落，此攻击能引发黄金冲击波。 在[亚坛高原][森林之民的废墟]西北[小黄金树]东北的的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_1_1",
+    "text": "血刃 自伤后用血液沾染武器，释放能引发出血的血刃的战技。可以连续施放。 在[亚坛高原]赐福[近黄金树的山丘]东北方向，一只在水上飞行的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_12_2",
+    "text": "黄金格挡 执行黄金树祷告的同时挥动盾牌，让敌人的攻击偏移，并失去平衡的战技。与敌人有些距离也能产生效用。 在[亚坛高原][王城外围]赐福[城外战场遗迹]南边楼梯左侧会消失的粪金龟掉落，在， 中。小心接近这粪金龟，因为它会立即消失。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_13_9",
+    "text": "突进冲击 用双手共持盾牌，防御的同时，向前突进的战技。对弱小的敌人使出，能让对方失去平衡。持续发动能增加移动距离。 在[亚坛高原]东部赐福[近黄金树的山丘]上方[卢克斯废墟]内会消失的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_8",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 在[贤者的洞窟]经过第一个骷髅民兵后的宝箱里。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_11_5",
+    "text": "侍王骑士的决心 过去侍奉艾尔登之王的骑士们使用的战技。将武器移向眼前、指向天空，坚定决心，大幅提升下一记攻击的威力。 在[火山官邸]中小恶魔像后面的笼子房间底部发现。在到达[火山官邸] Boss的传送门后，你应该会发现附近的小恶魔像。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_3_1",
+    "text": "熔岩火浆 侍奉火山官邸的骑士们使用的战技。将武器敲向地面，形成滚烫熔岩，在拔起武器的同时，熔岩随之喷出。 由[骑士贝纳尔]在[火山官邸]出售。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_9_1",
+    "text": "暗杀办法 自伤之后，消除自身存在的战技。能让施放者的身影难以辨认，也能消除施放者的脚步声。 由[骑士贝纳尔]在[火山官邸]出售。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_13_12",
+    "text": "贯穿射击 能侧身拉开大弓，强大的射手战技。拉开大弓的同时也扭转弓弦，增加大箭的旋转度，借此贯穿敌人的身体。 在[格密尔火山]赐福[移送罪人之路]西北方向，也是[火山官邸]入口的西北方向，一只隐形粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_13_1",
+    "text": "连续射击 能水平拉弓的射手战技。摆出架式后，能以肉眼难以追上的速度，连续射出箭。 在[格密尔火山]东部赐福[沸滚河]以北的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_5_2",
+    "text": "夸耀咆哮 犹如夸耀自我般发出咆哮，能提升攻击力、防御力、精力恢复速度的战技。 [流氓]掉落，可以从他的武器[铁球拳套]上卸下。你可以在任何时候击杀他获得，也可以在任务线后期[王城外围]的护城河里从他的尸体上获得。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_7_3",
+    "text": "落雷 王城古龙信仰的战技之一。武器指向天之后会蕴藏雷电，召唤落雷。可以连续施放。 在[王城罗德尔]的一个粪金龟。从赐福[大道旁露台]出发下楼梯，穿过前面的门。立即左转，靠着栏杆前进直到看到粪金龟在另一边栏杆下方。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_12_6",
+    "text": "祈祷一击 伴随祈祷高举武器，再敲向地面的战技。当那一记诚挚的攻击命中敌人，能恢复包含周围我方人物的血量。 在[王城外围]西部护城河部分的隐形粪金龟掉落。在两个水池的中间有一个满是蛞蝓的拱门，粪金龟会在这里来回跑。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_12_5",
+    "text": "圣域 高举盾牌，展开黄金树圣域的战技。能持续恢复血量，提升防御力，圣域内的我方人物也能蒙受相同效果。 在[王城外围]中[亚雷萨英雄墓地]摧毁战车获得。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_9",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 在[王城外围]紧靠王朝西北方向紧闭的城门处，从北边一棵有两个黄金种子的黄金树向东走抵达。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_10",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 在[王城罗德尔]东城区的下水道区域(不是弃置恶兆的地底)一条岔路尽头由大手守卫的尸体上。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_11",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 在[弃置恶兆的地底]关押[食粪者]的牢房外，有一只大手守卫。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_5_12",
+    "text": "山妖咆哮 望向远方发出咆哮，能弹飞周围人物，产生冲击波。发动后接着使出重攻击，能激烈敲击。 在[巨人山顶]南部赐福[安歇教堂]以南的大岩石顶部。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_11_4",
+    "text": "幻影共击 黑夜骑兵的恋旧战技。能形成过去老师的幻影，一同突击上砍。再次发动能使出追击。 [巨人山顶]赐福[禁域]东北方的[黑夜骑兵]掉落"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_4_2",
+    "text": "主教冲锋 将武器敲向地面，形成猛烈燃烧的火焰，再顺势向前推进的战技。持续发动的期间能一直向前推进。 在[巨人山顶]赐福[降雪棱线路]以南的营地树上被一只粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_1_4",
+    "text": "切腹 芦苇之地的剑客，禁用的奥义。将武器深深刺入自己的腹部，染上鲜血，能提升攻击力、强化异常状态出血的效果。 在[巨人山顶]赐福[结冰湖]以东的隐形粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_12",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 在[巨人山顶]火焰主教身后长长的石桥上的一具尸体上。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_9_4",
+    "text": "白影诱惑 对着武器发愿，在自身前方形成白色影子。能吸引非战斗状态，为人类之身的敌人注意，引诱对方攻击的战技。但对上亚人时，即使对方在战斗状态，也具有诱敌效用。 在[化圣雪原]赐福[化圣雪原（深处）]东北方向的河流附近的隐形粪金龟掉落。粪金龟正被一群狼追赶。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_14",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 在[圣树树冠]高处的一个雕像前，你需要从主干向低处走然后从右边跳到下方的细枝上，然后沿路绕到高处。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_4_1",
+    "text": "黑焰漩涡 旋转武器再刺向地面，唤出漩涡状黑焰的战技。持续发动的期间，在旋转时也能形成黑焰漩涡。 [逐渐崩毁的法姆·亚兹拉]中的[神皮双人组]掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_5_7",
+    "text": "荷莱·露的撼地 以张开的双臂敲向地面，产生冲击波，引发剧烈摇晃的战技。再次发动能再一次敲击地面。 在[圆桌厅堂]用[荷莱·露的追忆]交换。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_11_7",
+    "text": "准备架式 举起剑与地面平行，接着使出攻击的战技。轻攻击能使出由下而上，突破防御的斩击。重攻击能向前冲刺、突刺攻击。 在[希芙拉河]的赐福[信仰者森林]以北的西边悬崖上的粪金龟。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_13_3",
+    "text": "宿灵射击 摆出架式，让灵魂寄宿在箭之上，再射击的战技。飞行速度比一般的箭更快。仿佛会追踪目标，飞行轨道会随之调整。 在[“永恒之城”诺克隆恩]赐福[祖灵森林]北部的草原上，一个火盆附近的岩石后面的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_1_2",
+    "text": "鲜血征收 鲜血君王分享的力量，血盟战技之一。旋身之后，使出多重的突刺连击。能夺取受攻击对象的鲜血与血量。 在[蒙格温王朝]东边一个小洞穴里的粪金龟掉落。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_13",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 由[蒙格温王朝]的[受囚商人]出售。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_14_1_4",
+    "text": "失力战灰 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。 从[安瑟尔河]的[流浪民族的商人]处购买。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_8_10",
+    "text": "黑暗波动 将武器刺入地面后，在自身周围产生三道黑暗波动的战技。发动后接着使出重攻击，能回旋横扫攻击。 在[圆桌厅堂]用[黑暗弃子的追忆]交换。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_11_12",
+    "text": "真空斩 古英雄们的失传战技。高举剑身形成真空状态，再化为真空刃，朝前方释放。 在[深根底层]赐福[树根前路]附近瀑布下的废墟神殿内发现。"
+  },
+  {
+    "id": "/checklists/ashesbyregion.html#item_12_1",
+    "text": "黄金大地 将武器刺入地面后，再向下使力引发神圣爆炸，形成黄金石砾的战技。发动后接着使出重攻击，能回旋横扫攻击。 在[深根底层]赐福[大瀑布顶端]南边的粪金龟掉落。在[黄金树的化身]后面。"
   },
   {
     "id": "/checklists/spirit_ashes.html#item_2_9",
     "text": "徘徊权贵的骨灰 在[风暴根脚的地下墓地]一具靠在棺材上的尸体上发现，梯子上有一些绿色地精守卫着。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_1_1",
-    "text": "亚人集团的骨灰 [穿刺地下墓地]的Boss[归树看门犬]掉落"
+    "id": "/checklists/spirit_ashes.html#item_2_5",
+    "text": "权贵魔法师的骨灰 [风暴根脚的地下墓地]的Boss[归树看门犬]掉落"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_1_2",
-    "text": "“无头骑士”露缇尔 [灵庙原野地下墓地]的Boss[墓地影子]掉落"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_1_3",
-    "text": "战鹰的骨灰 在[啜泣半岛]的北端，[巡礼教堂]北部的艺术家灵魂给予。需要在[史东薇尔城]中找到的预言画。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_1",
-    "text": "白金之子的骨灰 在[卡利亚城寨]东部墓地区的一具尸体上发现。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_2",
-    "text": "鸟身人偶士兵的骨灰 在[魔法学院雷亚卢卡利亚]学院的一具尸体上发现，在旋转电梯到达底部之前，滚到旁边的平台上。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_3",
-    "text": "“黑刀”狄希 [刀之首的封印监牢]的[“黑刀之首”亚勒托]掉落。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_4",
-    "text": "“深眠之箭”朵罗雷丝的傀儡 在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]出售，之后在[卡利亚城寨]中可以在[仆人毕迪]的身上找到。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_5",
-    "text": "食粪者的傀儡 对[食粪者]上使用[赛尔维斯的药水]后，在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]出售。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_6",
-    "text": "尖牙小恶魔的骨灰 可选作遗物; 否则由赐福[学院正门口]以东的[隐居商人]出售。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_7",
-    "text": "指头女巫瑟萝莉娜的傀儡 完成[魔女菈妮]的任务线后在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]的尸体出售。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_8",
-    "text": "辉石魔法师的骨灰 [绝路地下墓地]的Boss[唤灵蜗牛]掉落。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_9",
-    "text": "壶男的傀儡 完成[魔女菈妮]的任务线后在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]的尸体出售。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_10",
-    "text": "凯丹佣兵的骨灰 [断崖下的地下墓地]的Boss[归树看门犬]掉落"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_11",
-    "text": "陆生海鞘的骨灰 在湖的东岸，赐福[门前镇大桥]北方一个被陆地水柱包围的坟墓中发现。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_12",
-    "text": "白金之子勒缇娜 在[眠狼的破屋][湖旁结晶洞窟]的终点外找到。必须持有[圣树秘密符节（右）]她才会加入。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_13",
-    "text": "人偶士兵的骨灰 在学院墓地里一具尸体上被发现，尸体挂在过桥后较低路径绕上去的边缘。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_14",
-    "text": "涅斐丽·露的傀儡 对[战士涅斐丽·露]使用[赛尔维斯的药水]后，在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]出售，之后在[卡利亚城寨]中的[仆人毕迪]身上可以找到。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_15",
-    "text": "随从的骨灰 在[断崖下的地下墓地]的最后一个房间里被食人魔监视的坟墓上发现。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_16",
-    "text": "雷亚卢卡利亚士兵的骨灰 在[绝路地下墓地]尽头的一堵幻影墙后发现。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_17",
-    "text": "骸骨山贼的骨灰 [卡利亚书斋]南边的Boss[提比亚的唤声船]掉落"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_3_18",
-    "text": "双贤魔法师的骨灰 [黑刀地下墓地]的Boss[墓地影子]掉落"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_4_1",
-    "text": "战场魔法师犹格 [瑟利亚的封印监牢]的[战场魔法师犹格]掉落。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_4_2",
-    "text": "结晶人的骨灰 在[瑟利亚隐藏洞窟]攀登紫色水晶在一个宝箱中中发现，由辉石法师守卫。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_4_3",
-    "text": "腐败眷属的骨灰 [盖利德地下墓地]的Boss[墓地影子]掉落。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_4_4",
-    "text": "发狂南瓜头士兵的骨灰 [小黄金树地下墓地]的Boss[归树看门犬]掉落"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_4_5",
-    "text": "小米兰达的骨灰 在[盖利德地下墓地]的第一个开放房间的楼梯下的一个幻影墙后发现。"
+    "id": "/checklists/spirit_ashes.html#item_7_2",
+    "text": "流浪民族的骨灰 在[弃置恶兆的地底]深处挂在窗台上的尸体上发现。"
   },
   {
     "id": "/checklists/spirit_ashes.html#item_4_6",
     "text": "腐烂长生者的骨灰 [牢狱洞窟]的Boss[发狂斗士]掉落"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_4_7",
-    "text": "拉塔恩士兵的骨灰 在[英灵地下墓地]通过第一个房间后右上角窗外大厅的尽头发现。"
+    "id": "/checklists/spirit_ashes.html#item_2_6",
+    "text": "骸骨民兵的骨灰 在[水唤村]的场地Boss[提比亚的唤声船]掉落"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_4_8",
-    "text": "“红狮子骑士”奥加 [英灵地下墓地]的Boss[腐败树灵]掉落"
+    "id": "/checklists/spirit_ashes.html#item_3_17",
+    "text": "骸骨山贼的骨灰 [卡利亚书斋]南边的Boss[提比亚的唤声船]掉落"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_1",
+    "text": "白金之子的骨灰 在[卡利亚城寨]东部墓地区的一具尸体上发现。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_5_3",
+    "text": "带翼混种的骨灰 在[丑恶地下墓地]终点附近在一个被混种包围的坑里的尸体上。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_1_1",
+    "text": "亚人集团的骨灰 [穿刺地下墓地]的Boss[归树看门犬]掉落"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_13_1",
+    "text": "泥人的骨灰 在[蕾娜魔法师塔]传送门把你传送到的地点附近，[乌鲁王朝遗迹]南部的一具尸体上发现。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_9_4",
+    "text": "神谕众使者的骨灰 在[米凯拉的圣树]起点附近一条往右的分岔路上，穿过一个射你的大神谕使者。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_2_4",
+    "text": "离群野狼的骨灰 从[梅琳娜]处获取灵马后夜间在[艾雷教堂]处由[魔女蕾娜]给予。"
   },
   {
     "id": "/checklists/spirit_ashes.html#item_4_9",
@@ -14980,99 +15292,459 @@
     "text": "大老鼠的骨灰 在[西边风车牧场]充满老鼠的马厩中发现。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_5_2",
-    "text": "罗德尔士兵的骨灰 在[尊贵者的英雄墓地]地板陷落后，设法回来的路上的尸体上。"
+    "id": "/checklists/spirit_ashes.html#item_1_3",
+    "text": "战鹰的骨灰 在[啜泣半岛]的北端，[巡礼教堂]北部的艺术家灵魂给予。需要在[史东薇尔城]中找到的预言画。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_5_3",
-    "text": "带翼混种的骨灰 在[丑恶地下墓地]终点附近在一个被混种包围的坑里的尸体上。"
+    "id": "/checklists/spirit_ashes.html#item_3_11",
+    "text": "陆生海鞘的骨灰 在利耶尼亚湖的东岸，赐福[门前镇大桥]北方一个被陆地水柱包围的坟墓中发现。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_7_1",
-    "text": "“古龙骑士”克里斯托福 [尊贵者的英雄墓地]的Boss[萨米尔的古英雄]掉落"
+    "id": "/checklists/spirit_ashes.html#item_2_7",
+    "text": "灵魂水母的骨灰 在[风暴山丘的破屋]与[罗德莉卡]交谈几次后给予。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_6_1",
-    "text": "“猎犬骑士”弗罗 在[格密尔英雄墓地]Boss后的宝箱中发现"
+    "id": "/checklists/spirit_ashes.html#item_4_5",
+    "text": "小米兰达的骨灰 在[盖利德地下墓地]的第一个开放房间的楼梯下的一个幻影墙后发现。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_6_2",
-    "text": "“堕落调香师”卡尔曼 穿过[火山官邸]大厅后的幻影墙在一具尸体上发现。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_6_3",
-    "text": "蛇人的骨灰 在接近[火山官邸]终点的一个多层次房间里被敌人包围的祭坛上发现。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_6_4",
-    "text": "调香师托莉夏 [丑恶地下墓地]中的Boss[调香师托莉夏]和[混种战士]掉落。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_7_2",
-    "text": "流浪民族的骨灰 在[弃置恶兆的地底]深处挂在窗台上的尸体上发现。"
-  },
-  {
-    "id": "/checklists/spirit_ashes.html#item_7_3",
-    "text": "恶兆猎人罗洛 在[东亚坛神授塔]桥上的[恶兆孪生子]掉落。"
+    "id": "/checklists/spirit_ashes.html#item_3_6",
+    "text": "尖牙小恶魔的骨灰 可选作遗物; 否则由赐福[学院正门口]以东的[隐居商人]出售。"
   },
   {
     "id": "/checklists/spirit_ashes.html#item_7_4",
     "text": "特攻先锋群的骨灰 [亚雷萨副墓地]的Boss[守墓斗士]掉落"
   },
   {
+    "id": "/checklists/spirit_ashes.html#item_14_1",
+    "text": "操弓士兵的骨灰 在[“永恒之城”诺克史黛拉]一具隐藏在建筑物后面的尸体上发现，穿过会爆炸的银色泪滴上楼后向左。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_12_1",
+    "text": "大盾士兵的骨灰 在[“永恒之城”诺克隆恩]墓地一具尸体上发现，由一名堕落鹰士兵看守。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_15",
+    "text": "随从的骨灰 在[断崖下的地下墓地]的最后一个房间里被食人魔监视的坟墓上发现。"
+  },
+  {
     "id": "/checklists/spirit_ashes.html#item_7_5",
     "text": "恶兵的骨灰 在[亚雷萨英雄墓地]有木梁的地方底部的一具尸体上发现，由一群蛇怪守卫。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_13",
+    "text": "人偶士兵的骨灰 在[魔法学院雷亚卢卡利亚]墓地里一具尸体上被发现，尸体挂在过桥后较低路径绕上去的边缘。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_2",
+    "text": "鸟身人偶士兵的骨灰 在[魔法学院雷亚卢卡利亚]的一具尸体上发现，在旋转电梯到达底部之前，滚到旁边的平台上。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_10",
+    "text": "凯丹佣兵的骨灰 [断崖下的地下墓地]的Boss[归树看门犬]掉落"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_4_4",
+    "text": "发狂南瓜头士兵的骨灰 [小黄金树地下墓地]的Boss[归树看门犬]掉落"
   },
   {
     "id": "/checklists/spirit_ashes.html#item_8_1",
     "text": "火焰习武修士的骨灰 在[巨人山顶地下墓地]的第一个升降机和过去的第二个冰霜陷阱下面的一个宝箱中发现。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_9_1",
-    "text": "黑焰习武修士亚蒙 [通往圣树的密道]的Boss[离群仿身泪滴]掉落"
+    "id": "/checklists/spirit_ashes.html#item_11_1",
+    "text": "祖灵之民的骨灰 [角骸灵地]的Boss[祖灵]掉落"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_9_2",
-    "text": "“尊腐骑士”芬雷 在[“圣树分枝”艾布雷菲尔]在一个凉亭旁的房间下楼梯穿过扶壁。"
+    "id": "/checklists/spirit_ashes.html#item_10_1",
+    "text": "亚兹拉的兽人的骨灰 在赐福[龙教堂]附近一具躺在石棺上的尸体上发现。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_6_3",
+    "text": "蛇人的骨灰 在接近[火山官邸]终点的一个多层次房间里被敌人包围的祭坛上发现。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_4_2",
+    "text": "结晶人的骨灰 在[瑟利亚隐藏洞窟]攀登紫色水晶在一个宝箱中中发现，由辉石法师守卫。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_4_3",
+    "text": "腐败眷属的骨灰 [盖利德地下墓地]的Boss[墓地影子]掉落。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_8",
+    "text": "辉石魔法师的骨灰 [绝路地下墓地]的Boss[唤灵蜗牛]掉落。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_18",
+    "text": "双贤魔法师的骨灰 [黑刀地下墓地]的Boss[墓地影子]掉落"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_2_3",
+    "text": "葛瑞克士兵的骨灰 在[风暴山丘]西侧一个充满灵魂水母的墓地发现。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_16",
+    "text": "雷亚卢卡利亚士兵的骨灰 在[绝路地下墓地]尽头的一堵幻影墙后发现。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_5_2",
+    "text": "罗德尔士兵的骨灰 在[尊贵者的英雄墓地]地板陷落后，设法回来的路上的尸体上。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_4_7",
+    "text": "拉塔恩士兵的骨灰 在[英灵地下墓地]通过第一个房间后右上角窗外大厅的尽头发现。"
   },
   {
     "id": "/checklists/spirit_ashes.html#item_9_3",
     "text": "圣树士兵的骨灰 在[“圣树分枝”艾布雷菲尔]北部边缘的一个大的装饰圣杯下发现。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_9_4",
-    "text": "神谕众使者的骨灰 在[米凯拉的圣树]起点附近一条往右的分岔路上，穿过一个射你的大神谕使者。"
+    "id": "/checklists/spirit_ashes.html#item_15_1",
+    "text": "灵庙士兵的骨灰 在[深根底层]漫步灵庙北面悬崖边缘的一棵小枯树下发现。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_10_1",
-    "text": "亚兹拉的兽人的骨灰 在赐福[龙教堂]一具躺在石棺上的尸体上发现。"
+    "id": "/checklists/spirit_ashes.html#item_2_8",
+    "text": "风暴鹰汀涅 在[候王礼拜堂]主厅上面的一个宝箱发现，需要通过[四钟楼]返回该处。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_11_1",
-    "text": "祖灵之民的骨灰 [角骸灵地]的Boss[祖灵]掉落"
+    "id": "/checklists/spirit_ashes.html#item_2_2",
+    "text": "“失乡骑士”奥雷格 [边境英雄墓地]的Boss[腐烂树灵]掉落"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_12_1",
-    "text": "大盾士兵的骨灰 在墓地一具尸体上发现，由一名堕落鹰士兵看守。"
+    "id": "/checklists/spirit_ashes.html#item_2_1",
+    "text": "“失乡骑士”英格威尔 [蒙流地下墓地]的Boss[守墓斗士]掉落"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_6_1",
+    "text": "“猎犬骑士”弗罗 在[格密尔英雄墓地]Boss后的宝箱中发现"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_4_1",
+    "text": "战场魔法师犹格 [瑟利亚的封印监牢]的[战场魔法师犹格]掉落。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_12",
+    "text": "白金之子勒缇娜 在[眠狼的破屋][湖旁结晶洞窟]的终点外找到。必须持有[圣树秘密符节（右）]她才会加入。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_6_4",
+    "text": "调香师托莉夏 [丑恶地下墓地]中的Boss[调香师托莉夏]和[混种战士]掉落。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_6_2",
+    "text": "“堕落调香师”卡尔曼 穿过[火山官邸]大厅后的幻影墙在一具尸体上发现。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_7_3",
+    "text": "恶兆猎人罗洛 在[东亚坛神授塔]桥上的[恶兆孪生子]掉落。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_9_1",
+    "text": "黑焰习武修士亚蒙 [通往圣树的密道]的Boss[离群仿身泪滴]掉落"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_7_1",
+    "text": "“古龙骑士”克里斯托福 [尊贵者的英雄墓地]的Boss[萨米尔的古英雄]掉落"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_4_8",
+    "text": "“红狮子骑士”奥加 [英灵地下墓地]的Boss[腐败树灵]掉落"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_1_2",
+    "text": "“无头骑士”露缇尔 [灵庙原野地下墓地]的Boss[墓地影子]掉落"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_9_2",
+    "text": "“尊腐骑士”芬雷 在[“圣树分枝”艾布雷菲尔]在一个凉亭旁的房间下楼梯穿过扶壁。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_3",
+    "text": "“黑刀”狄希 [刀之首的封印监牢]的[“黑刀之首”亚勒托]掉落。"
   },
   {
     "id": "/checklists/spirit_ashes.html#item_12_2",
     "text": "仿身泪滴的骨灰 在[黑夜神域]中一个锁在小雕像门后的宝箱中发现。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_13_1",
-    "text": "泥人的骨灰 在[蕾娜魔法师塔]传送门把你传送到的地点附近，[乌鲁王朝遗迹]南部的一具尸体上发现。"
+    "id": "/checklists/spirit_ashes.html#item_3_7",
+    "text": "指头女巫瑟萝莉娜的傀儡 完成[魔女菈妮]的任务线后在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]的尸体出售。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_14_1",
-    "text": "操弓士兵的骨灰 在一具隐藏在建筑物后面的尸体上发现，穿过会爆炸的银色泪滴上楼后向左。"
+    "id": "/checklists/spirit_ashes.html#item_3_9",
+    "text": "壶男的傀儡 完成[魔女菈妮]的任务线后在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]的尸体出售。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_4",
+    "text": "“深眠之箭”朵罗雷丝的傀儡 在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]出售，之后在[卡利亚城寨]中可以在[仆人毕迪]的身上找到。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_14",
+    "text": "涅斐丽·露的傀儡 对[战士涅斐丽·露]使用[赛尔维斯的药水]后，在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]出售，之后在[卡利亚城寨]中的[仆人毕迪]身上可以找到。"
+  },
+  {
+    "id": "/checklists/spirit_ashes.html#item_3_5",
+    "text": "食粪者的傀儡 对[食粪者]上使用[赛尔维斯的药水]后，在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]出售。"
   },
   {
     "id": "/checklists/spirit_ashes.html#item_14_2",
     "text": "黑夜女巫与剑士的傀儡 一个锁在小恶魔雕像门后的宝箱里发现，由两个[诺克斯剑士]守护。"
   },
   {
-    "id": "/checklists/spirit_ashes.html#item_15_1",
+    "id": "/checklists/spiritbyregion.html#item_2_1",
+    "text": "“失乡骑士”英格威尔 [蒙流地下墓地]的Boss[守墓斗士]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_2_2",
+    "text": "“失乡骑士”奥雷格 [边境英雄墓地]的Boss[腐烂树灵]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_2_3",
+    "text": "葛瑞克士兵的骨灰 在[风暴山丘]西侧一个充满灵魂水母的墓地发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_2_4",
+    "text": "离群野狼的骨灰 从[梅琳娜]处获取灵马后夜间在[艾雷教堂]处由[魔女蕾娜]给予。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_2_5",
+    "text": "权贵魔法师的骨灰 [风暴根脚的地下墓地]的Boss[归树看门犬]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_2_6",
+    "text": "骸骨民兵的骨灰 在[水唤村]的场地Boss[提比亚的唤声船]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_2_7",
+    "text": "灵魂水母的骨灰 在[风暴山丘的破屋]与[罗德莉卡]交谈几次后给予。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_2_8",
+    "text": "风暴鹰汀涅 在[候王礼拜堂]主厅上面的一个宝箱发现，需要通过[四钟楼]返回该处。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_2_9",
+    "text": "徘徊权贵的骨灰 在[风暴根脚的地下墓地]一具靠在棺材上的尸体上发现，梯子上有一些绿色地精守卫着。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_1_1",
+    "text": "亚人集团的骨灰 [穿刺地下墓地]的Boss[归树看门犬]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_1_2",
+    "text": "“无头骑士”露缇尔 [灵庙原野地下墓地]的Boss[墓地影子]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_1_3",
+    "text": "战鹰的骨灰 在[啜泣半岛]的北端，[巡礼教堂]北部的艺术家灵魂给予。需要在[史东薇尔城]中找到的预言画。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_1",
+    "text": "白金之子的骨灰 在[卡利亚城寨]东部墓地区的一具尸体上发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_2",
+    "text": "鸟身人偶士兵的骨灰 在[魔法学院雷亚卢卡利亚]的一具尸体上发现，在旋转电梯到达底部之前，滚到旁边的平台上。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_3",
+    "text": "“黑刀”狄希 [刀之首的封印监牢]的[“黑刀之首”亚勒托]掉落。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_4",
+    "text": "“深眠之箭”朵罗雷丝的傀儡 在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]出售，之后在[卡利亚城寨]中可以在[仆人毕迪]的身上找到。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_5",
+    "text": "食粪者的傀儡 对[食粪者]上使用[赛尔维斯的药水]后，在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]出售。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_6",
+    "text": "尖牙小恶魔的骨灰 可选作遗物; 否则由赐福[学院正门口]以东的[隐居商人]出售。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_7",
+    "text": "指头女巫瑟萝莉娜的傀儡 完成[魔女菈妮]的任务线后在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]的尸体出售。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_8",
+    "text": "辉石魔法师的骨灰 [绝路地下墓地]的Boss[唤灵蜗牛]掉落。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_9",
+    "text": "壶男的傀儡 完成[魔女菈妮]的任务线后在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]的尸体出售。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_10",
+    "text": "凯丹佣兵的骨灰 [断崖下的地下墓地]的Boss[归树看门犬]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_11",
+    "text": "陆生海鞘的骨灰 在湖的东岸，赐福[门前镇大桥]北方一个被陆地水柱包围的坟墓中发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_12",
+    "text": "白金之子勒缇娜 在[眠狼的破屋][湖旁结晶洞窟]的终点外找到。必须持有[圣树秘密符节（右）]她才会加入。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_13",
+    "text": "人偶士兵的骨灰 在学院墓地里一具尸体上被发现，尸体挂在过桥后较低路径绕上去的边缘。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_14",
+    "text": "涅斐丽·露的傀儡 对[战士涅斐丽·露]使用[赛尔维斯的药水]后，在[赛尔维斯魔法师塔]中由[魔法教授赛尔维斯]出售，之后在[卡利亚城寨]中的[仆人毕迪]身上可以找到。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_15",
+    "text": "随从的骨灰 在[断崖下的地下墓地]的最后一个房间里被食人魔监视的坟墓上发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_16",
+    "text": "雷亚卢卡利亚士兵的骨灰 在[绝路地下墓地]尽头的一堵幻影墙后发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_17",
+    "text": "骸骨山贼的骨灰 [卡利亚书斋]南边的Boss[提比亚的唤声船]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_3_18",
+    "text": "双贤魔法师的骨灰 [黑刀地下墓地]的Boss[墓地影子]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_4_1",
+    "text": "战场魔法师犹格 [瑟利亚的封印监牢]的[战场魔法师犹格]掉落。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_4_2",
+    "text": "结晶人的骨灰 在[瑟利亚隐藏洞窟]攀登紫色水晶在一个宝箱中中发现，由辉石法师守卫。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_4_3",
+    "text": "腐败眷属的骨灰 [盖利德地下墓地]的Boss[墓地影子]掉落。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_4_4",
+    "text": "发狂南瓜头士兵的骨灰 [小黄金树地下墓地]的Boss[归树看门犬]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_4_5",
+    "text": "小米兰达的骨灰 在[盖利德地下墓地]的第一个开放房间的楼梯下的一个幻影墙后发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_4_6",
+    "text": "腐烂长生者的骨灰 [牢狱洞窟]的Boss[发狂斗士]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_4_7",
+    "text": "拉塔恩士兵的骨灰 在[英灵地下墓地]通过第一个房间后右上角窗外大厅的尽头发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_4_8",
+    "text": "“红狮子骑士”奥加 [英灵地下墓地]的Boss[腐败树灵]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_4_9",
+    "text": "腐败野狗的骨灰 在[魔法镇瑟利亚]以西、赐福[瑟利亚镇（楼梯下方）]以北的沼泽边缘附近的一幢建筑物的残破废墟中发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_5_1",
+    "text": "大老鼠的骨灰 在[西边风车牧场]充满老鼠的马厩中发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_5_2",
+    "text": "罗德尔士兵的骨灰 在[尊贵者的英雄墓地]地板陷落后，设法回来的路上的尸体上。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_5_3",
+    "text": "带翼混种的骨灰 在[丑恶地下墓地]终点附近在一个被混种包围的坑里的尸体上。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_7_1",
+    "text": "“古龙骑士”克里斯托福 [尊贵者的英雄墓地]的Boss[萨米尔的古英雄]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_6_1",
+    "text": "“猎犬骑士”弗罗 在[格密尔英雄墓地]Boss后的宝箱中发现"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_6_2",
+    "text": "“堕落调香师”卡尔曼 穿过[火山官邸]大厅后的幻影墙在一具尸体上发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_6_3",
+    "text": "蛇人的骨灰 在接近[火山官邸]终点的一个多层次房间里被敌人包围的祭坛上发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_6_4",
+    "text": "调香师托莉夏 [丑恶地下墓地]中的Boss[调香师托莉夏]和[混种战士]掉落。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_7_2",
+    "text": "流浪民族的骨灰 在[弃置恶兆的地底]深处挂在窗台上的尸体上发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_7_3",
+    "text": "恶兆猎人罗洛 在[东亚坛神授塔]桥上的[恶兆孪生子]掉落。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_7_4",
+    "text": "特攻先锋群的骨灰 [亚雷萨副墓地]的Boss[守墓斗士]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_7_5",
+    "text": "恶兵的骨灰 在[亚雷萨英雄墓地]有木梁的地方底部的一具尸体上发现，由一群蛇怪守卫。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_8_1",
+    "text": "火焰习武修士的骨灰 在[巨人山顶地下墓地]的第一个升降机和过去的第二个冰霜陷阱下面的一个宝箱中发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_9_1",
+    "text": "黑焰习武修士亚蒙 [通往圣树的密道]的Boss[离群仿身泪滴]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_9_2",
+    "text": "“尊腐骑士”芬雷 在[“圣树分枝”艾布雷菲尔]在一个凉亭旁的房间下楼梯穿过扶壁。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_9_3",
+    "text": "圣树士兵的骨灰 在[“圣树分枝”艾布雷菲尔]北部边缘的一个大的装饰圣杯下发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_9_4",
+    "text": "神谕众使者的骨灰 在[米凯拉的圣树]起点附近一条往右的分岔路上，穿过一个射你的大神谕使者。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_10_1",
+    "text": "亚兹拉的兽人的骨灰 在赐福[龙教堂]一具躺在石棺上的尸体上发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_11_1",
+    "text": "祖灵之民的骨灰 [角骸灵地]的Boss[祖灵]掉落"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_12_1",
+    "text": "大盾士兵的骨灰 在墓地一具尸体上发现，由一名堕落鹰士兵看守。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_12_2",
+    "text": "仿身泪滴的骨灰 在[黑夜神域]中一个锁在小雕像门后的宝箱中发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_13_1",
+    "text": "泥人的骨灰 在[蕾娜魔法师塔]传送门把你传送到的地点附近，[乌鲁王朝遗迹]南部的一具尸体上发现。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_14_1",
+    "text": "操弓士兵的骨灰 在一具隐藏在建筑物后面的尸体上发现，穿过会爆炸的银色泪滴上楼后向左。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_14_2",
+    "text": "黑夜女巫与剑士的傀儡 一个锁在小恶魔雕像门后的宝箱里发现，由两个[诺克斯剑士]守护。"
+  },
+  {
+    "id": "/checklists/spiritbyregion.html#item_15_1",
     "text": "灵庙士兵的骨灰 在漫步灵庙北面悬崖边缘的一棵小枯树下发现。"
   },
   {
