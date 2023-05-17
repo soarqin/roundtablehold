@@ -437,7 +437,7 @@ def make_checklist(page):
                     section['num_ids'] = 0
                     with div(cls='card shadow-sm mb-3', id=page['id'] + '_section_' + str(s_idx)).add(div(cls='card-body')):
                         with h4(cls="mt-1"):
-                            with button(href="#" + page['realid'] + '_' + str(s_idx) + "Col", data_bs_toggle="collapse", data_bs_target="#" + page['realid'] + '_' + str(s_idx) + "Col", cls="btn btn-primary btn-sm me-2 collapse-button d-print-none", role="button"):
+                            with button(href="#" + page['id'] + '_' + str(s_idx) + "Col", data_bs_toggle="collapse", data_bs_target="#" + page['id'] + '_' + str(s_idx) + "Col", cls="btn btn-primary btn-sm me-2 collapse-button d-print-none", role="button"):
                                 i(cls='bi bi-chevron-up d-print-none')
                             if 'icon' in section:
                                 add_icon(section['icon'], 'me-1')
@@ -447,7 +447,7 @@ def make_checklist(page):
                                 span(section['title'], cls='d-print-inline')
                             span(id=page['id'] + "_totals_" + str(s_idx), cls="mt-0 badge rounded-pill d-print-none")
                         if 'table' in section:
-                            with div(id=page['realid'] + '_' + str(s_idx) + "Col", cls="collapse show row", aria_expanded="true"):
+                            with div(id=page['id'] + '_' + str(s_idx) + "Col", cls="collapse show row", aria_expanded="true"):
                                 if isinstance(section['table'], list):
                                     table_cols = len(section['table'])
                                     size = floor(12 / table_cols)
@@ -512,7 +512,7 @@ def make_checklist(page):
                                                                 br()
 
                         else:
-                            with div(id=page['realid'] + '_' + str(s_idx) + "Col", cls="collapse show", aria_expanded="true"):
+                            with div(id=page['id'] + '_' + str(s_idx) + "Col", cls="collapse show", aria_expanded="true"):
                                 items = peekable(section['items'])
                                 if isinstance(items.peek(), str):
                                     item = next(items)
