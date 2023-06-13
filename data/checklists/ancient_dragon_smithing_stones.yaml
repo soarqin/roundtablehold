@@ -62,16 +62,14 @@ sections:
       href="https://eldenring.wiki.fextralife.com/Sorceress+Sellen"><b>[魔法师瑟濂]</b></a>得到。
   - id: '12'
     data:
-    - 在葛瑞克的王座大厅(通过<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1129&lat=-173.910938&lng=85.500353&zoom=8&code=mapA"><b>赐福[“接肢”葛瑞克]</b></a>到达)完成<a
-      href="https://eldenring.wiki.fextralife.com/Kenneth+Haight"><b>[“领主的嫡长子”肯尼斯·海德]</b></a><b>[宁姆格福]</b>之王任务线完成后从<a
+    - 击败<b>[“恶兆王”蒙葛特]</b>后在葛瑞克的王座大厅(通过<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1129&lat=-173.910938&lng=85.500353&zoom=8&code=mapA"><b>赐福[“接肢”葛瑞克]</b></a>到达)<b>[宁姆格福]</b>之王任务线的结尾从<a
       href="https://eldenring.wiki.fextralife.com/Nepheli+Loux"><b>[战士涅斐丽·露]</b></a>处获得。如果把<a
-      href="https://eldenring.wiki.fextralife.com/Seluvis's+Potion"><b>[赛尔维斯的药水]</b></a>给了<b>[战士涅斐丽·露]</b>则无法获得。
+      href="https://eldenring.wiki.fextralife.com/Seluvis's+Potion"><b>[赛尔维斯的药水]</b></a>给了<b>[战士涅斐丽·露]</b>则无法完成此任务线。
   - id: '13'
     data:
-    - 在葛瑞克的王座大厅(刚过<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1129&lat=-173.910938&lng=85.500353&zoom=8&code=mapA"><b>[“接肢”葛瑞克]</b></a>格雷斯网站)后完成<a
-      href="https://eldenring.wiki.fextralife.com/Kenneth+Haight"><b>[“领主的嫡长子”肯尼斯·海德]</b>的</a><b>[宁姆格福]</b>之王任务线完成后可以从<a
+    - 击败<b>[“恶兆王”蒙葛特]</b>后在葛瑞克的王座大厅(通过<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1129&lat=-173.910938&lng=85.500353&zoom=8&code=mapA"><b>赐福[“接肢”葛瑞克]</b></a>到达)<b>[宁姆格福]</b>之王任务线的结尾可以从<a
       href="https://eldenring.wiki.fextralife.com/Gatekeeper+Gostoc"><b>[门卫葛托克]</b></a>处购买。如果把<a
-      href="https://eldenring.wiki.fextralife.com/Seluvis's+Potion"><b>[赛尔维斯的药水]</b></a>给了<b>[战士涅斐丽·露]</b>则无法获得。
+      href="https://eldenring.wiki.fextralife.com/Seluvis's+Potion"><b>[赛尔维斯的药水]</b></a>给了<b>[战士涅斐丽·露]</b>则无法完成此任务线。如果击杀了<b>[门卫葛托克]</b>则无法获得。
 - title: 古龙岩失色锻造石
   link: https://eldenring.wiki.fextralife.com/Somber+Ancient+Dragon+Smithing+Stone
   icon: /img/icons/bolstering/edited/02018.png
