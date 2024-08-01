@@ -584,10 +584,6 @@
     "text": "向东走到望远镜附近的亭子，与[“招募者”菈雅]对话到重复"
   },
   {
-    "id": "/checklists/playthrough.html#item_147",
-    "text": "返回[帕奇]并对话到重复。"
-  },
-  {
     "id": "/checklists/playthrough.html#item_148",
     "text": "西北方向找到[煮虾子的破屋]并触碰赐福[煮虾子的破屋]"
   },
@@ -610,10 +606,6 @@
   {
     "id": "/checklists/playthrough.html#item_153",
     "text": "前往赐福的北方/西北，与[骑士狄亚罗斯]对话到重复"
-  },
-  {
-    "id": "/checklists/playthrough.html#item_154",
-    "text": "向西或向西南方向前进，与[解指老妪]对话到重复"
   },
   {
     "id": "/checklists/playthrough.html#item_155",
@@ -917,11 +909,11 @@
   },
   {
     "id": "/checklists/playthrough.html#item_226",
-    "text": "从[宁姆格福]东北的[水唤村外]出发，前往东部的悬崖，想办法下到洞窟外面触摸赐福[盖尔坑道（侧门口）]"
+    "text": "从[宁姆格福]东北的[水唤村外]出发，前往东部的悬崖，想办法下到洞窟"
   },
   {
     "id": "/checklists/playthrough.html#item_227",
-    "text": "进去[宁姆格福]一侧的[盖尔坑道]和[“战士壶”亚历山大]交谈"
+    "text": "进去[宁姆格福]一侧的[盖尔坑道]和[“战士壶”亚历山大]交谈并点亮赐福[盖尔坑道（侧门口）]"
   },
   {
     "id": "/checklists/playthrough.html#item_228",
@@ -941,7 +933,7 @@
   },
   {
     "id": "/checklists/playthrough.html#item_232",
-    "text": "左转打开附近的门，与[“战士壶”亚历山大]对话到重复"
+    "text": "左转打开尽头的门，与[“战士壶”亚历山大]对话到重复，然后击杀坑道Boss"
   },
   {
     "id": "/checklists/playthrough.html#item_233",
@@ -993,7 +985,7 @@
   },
   {
     "id": "/checklists/playthrough.html#item_244",
-    "text": "返回[贤者格威]处并对话到重复"
+    "text": "刷新并返回[贤者格威]处，与[米莉森]对话到重复后再次刷新，然后和[贤者格威]对话到重复"
   },
   {
     "id": "/checklists/playthrough.html#item_245",
@@ -1013,7 +1005,7 @@
   },
   {
     "id": "/checklists/playthrough.html#item_249",
-    "text": "穿过区域，下电梯，然后触碰赐福[希芙拉河（岸边）]"
+    "text": "穿过区域，上电梯，然后触碰赐福[希芙拉河（岸边）]"
   },
   {
     "id": "/checklists/playthrough.html#item_250",
@@ -1085,7 +1077,7 @@
   },
   {
     "id": "/checklists/playthrough.html#item_267",
-    "text": "进入[圆桌厅堂]，从[“解指”恩雅]那里购买一件[“碎星”拉塔恩]的护甲。"
+    "text": "进入[圆桌厅堂]，从[“解指”恩雅]那里购买[拉塔恩狮子铠甲](12000卢恩)，一件可以被裁缝修改的半神防具。"
   },
   {
     "id": "/checklists/playthrough.html#item_268",
@@ -1097,11 +1089,11 @@
   },
   {
     "id": "/checklists/playthrough.html#item_270",
-    "text": "与[亚人柏克]交谈，给他[黄金缝衣针]并对话到重复。"
+    "text": "在赐福休息，与[梅琳娜]对话到重复。"
   },
   {
     "id": "/checklists/playthrough.html#item_271",
-    "text": "在赐福休息，与[梅琳娜]对话到重复。"
+    "text": "与[亚人柏克]交谈，给他[黄金缝衣针]并对话到重复。"
   },
   {
     "id": "/checklists/playthrough.html#item_272",
@@ -1193,7 +1185,7 @@
   },
   {
     "id": "/checklists/playthrough.html#item_294",
-    "text": "去西南，杀死[熔岩土龙]。"
+    "text": "去西南，杀死[熔岩土龙](可选)。"
   },
   {
     "id": "/checklists/playthrough.html#item_295",
@@ -1217,7 +1209,7 @@
   },
   {
     "id": "/checklists/playthrough.html#item_300",
-    "text": "从附近的岩石桥到达并触碰赐福[格密尔英雄墓地]。"
+    "text": "从附近的岩石桥到达并触碰赐福[格密尔英雄墓地]。进入墓地并下电梯。"
   },
   {
     "id": "/checklists/playthrough.html#item_301",
@@ -1353,7 +1345,7 @@
   },
   {
     "id": "/checklists/playthrough.html#item_334",
-    "text": "与鬼魂对话到重复。"
+    "text": "与鬼魂对话到重复。如果鬼魂没出现就刷新地图。"
   },
   {
     "id": "/checklists/playthrough.html#item_336",
@@ -1713,7 +1705,7 @@
   },
   {
     "id": "/checklists/playthrough.html#item_422",
-    "text": "现在可以自由选择把[赛尔维斯的药水]给[“百智爵士”基甸·奥夫尼尔](无事发生)，[食粪者](得到[食粪者的傀儡]但无法完成他的任务线)或[战士涅斐丽·露](得到[涅斐丽·露的傀儡]但无法完成[战士涅斐丽·露]， [“领主的嫡长子”肯尼斯·海德]以及[门卫葛托克]的任务线)。在本攻略流程里[食粪者]将被牺牲，因为他罪有应得。"
+    "text": "现在可以自由选择把[赛尔维斯的药水]给[“百智爵士”基甸·奥夫尼尔](无事发生)，[食粪者](得到[食粪者的傀儡]但无法完成他的任务线)或[战士涅斐丽·露](得到[涅斐丽·露的傀儡]但无法完成[战士涅斐丽·露]，[“领主的嫡长子”肯尼斯·海德]以及[门卫葛托克]的任务线)。在本攻略流程里[食粪者]将被牺牲，因为他罪有应得。"
   },
   {
     "id": "/checklists/playthrough.html#item_423",
@@ -2485,7 +2477,11 @@
   },
   {
     "id": "/checklists/playthrough.html#item_610",
-    "text": "在救下[米莉森]后，和附近的她对话到重复获得[纯净金针]"
+    "text": "在救下[米莉森]后，和附近的她对话到重复"
+  },
+  {
+    "id": "/checklists/playthrough.html#item_610_1",
+    "text": "刷新后在原地获得[纯净金针]"
   },
   {
     "id": "/checklists/playthrough.html#item_611",
@@ -5401,7 +5397,7 @@
   },
   {
     "id": "/checklists/bosses.html#item_2_8",
-    "text": "帕奇 蒙流洞窟 不击杀: 黄金卢恩【１】 (x2), 姿势求饶。击杀: 黄金卢恩【１】 (x2), {WP16010000} +7, 皮革铠甲, 皮革手套, 皮革靴子, 帕奇的铃珠. 只有半场的Boss战斗，除非你真的想杀死帕奇。"
+    "text": "帕奇 蒙流洞窟 不击杀: 黄金卢恩【１】 (x2), 姿势求饶。击杀: 黄金卢恩【１】 (x2), {WP16010000}+7, 皮革铠甲, 皮革手套, 皮革靴子, 帕奇的铃珠. 只有半场的Boss战斗，除非你真的想杀死帕奇。"
   },
   {
     "id": "/checklists/bosses.html#item_2_6",
@@ -5893,7 +5889,7 @@
   },
   {
     "id": "/checklists/bosses.html#item_6_20",
-    "text": "守墓斗士 尊贵者的英雄墓地 斗士大斧 在唤声泥颅所在的房间里。必须击杀才能打开Boss门。"
+    "text": "守墓斗士 尊贵者的英雄墓地  在唤声泥颅所在的房间里。必须击杀才能打开Boss门。"
   },
   {
     "id": "/checklists/bosses.html#item_6_11",
@@ -16661,7 +16657,7 @@
   },
   {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_1",
-    "text": "[“野兽祭司”古兰格]的奖励, 当你收集全部9个[死根]给他之后获得。 你也可以通过击杀他获得。"
+    "text": "[“野兽祭司”古兰格]的奖励,当你收集全部9个[死根]给他之后获得。你也可以通过击杀他获得。"
   },
   {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_2",
@@ -16669,7 +16665,7 @@
   },
   {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_3",
-    "text": "击杀在赐福[化圣雪原（深处）]西南方向护送马车的两只[黑夜骑兵] (仅夜间) 掉落。[地图链接]"
+    "text": "击杀在赐福[化圣雪原（深处）]西南方向护送马车的两只[黑夜骑兵](仅夜间) 掉落。[地图链接]"
   },
   {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_4",
@@ -16677,7 +16673,7 @@
   },
   {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_5",
-    "text": "[耶罗·亚尼斯坑道]: 当你穿过地牢时，你会发现一具尸体坐在冰硬的桥上，走下右边梯子，锻造石可以在刚经过非Boss怪白王之后的尸体上找到。"
+    "text": "[耶罗·亚尼斯坑道]:当你穿过地牢时，你会发现一具尸体坐在冰硬的桥上，走下右边梯子，锻造石可以在刚经过非Boss怪白王之后的尸体上找到。"
   },
   {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_6",
@@ -16689,7 +16685,7 @@
   },
   {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_8",
-    "text": "在 赐福[渐毁野兽墓] 和 赐福[渐毁野兽墓（深处）] 之间，当你沿着弯曲的平台前进时，击杀俯冲下来的法姆·亚兹拉龙掉落。 [地图链接]"
+    "text": "在 赐福[渐毁野兽墓]和 赐福[渐毁野兽墓（深处）]之间，当你沿着弯曲的平台前进时，击杀俯冲下来的法姆·亚兹拉龙掉落。[地图链接]"
   },
   {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_9",
@@ -16721,7 +16717,7 @@
   },
   {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_16",
-    "text": "从赐福[祈祷室]出发，沿路向北走。穿过右边的第二根石柱，掉到塔的底部，最后跳下去，走到[黄金树的化身]所在的长路上。 路的南端尸体上就是。[地图链接]"
+    "text": "从赐福[祈祷室]出发，沿路向北走。穿过右边的第二根石柱，掉到塔的底部，最后跳下去，走到[黄金树的化身]所在的长路上。路的南端尸体上就是。[地图链接]"
   },
   {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_17",

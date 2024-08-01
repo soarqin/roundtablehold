@@ -2514,7 +2514,6 @@
 "playthrough_144",
 "playthrough_145",
 "playthrough_146",
-"playthrough_147",
 "playthrough_148",
 "playthrough_149",
 "playthrough_15",
@@ -2522,7 +2521,6 @@
 "playthrough_151",
 "playthrough_152",
 "playthrough_153",
-"playthrough_154",
 "playthrough_155",
 "playthrough_156",
 "playthrough_157",
@@ -3042,6 +3040,7 @@
 "playthrough_609",
 "playthrough_61",
 "playthrough_610",
+"playthrough_610_1",
 "playthrough_611",
 "playthrough_612",
 "playthrough_613",
@@ -4576,7 +4575,7 @@
 "whetstones_0_6",
 ]);
 function calculateProgress() {
-const playthrough_total = 663;
+const playthrough_total = 662;
 var playthrough_checked = 0;
 const quest_order_tldr_total = 273;
 var quest_order_tldr_checked = 0;

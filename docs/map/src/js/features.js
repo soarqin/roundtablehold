@@ -2189,6 +2189,25 @@ const feature_data = [
       {
         "geometry": {
           "coordinates": [
+            3497,
+            3608
+          ],
+          "type": "Point"
+        },
+        "id": "bosses_6_13",
+        "properties": {
+          "group": "bosses",
+          "icon": "/map/icons/MENU_MAP_memo_20.png",
+          "icon_size": 35,
+          "id": "bosses_6_13",
+          "link": "/checklists/bosses.html#item_6_13",
+          "title": "<b>\u5760\u661f\u517d\u7269</b>"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             2647,
             3224
           ],
@@ -13803,8 +13822,8 @@ const feature_data = [
       {
         "geometry": {
           "coordinates": [
-            6031,
-            6200
+            4893,
+            6141
           ],
           "type": "Point"
         },
@@ -13822,8 +13841,8 @@ const feature_data = [
       {
         "geometry": {
           "coordinates": [
-            6050,
-            6199
+            4912,
+            6141
           ],
           "type": "Point"
         },
@@ -13841,8 +13860,8 @@ const feature_data = [
       {
         "geometry": {
           "coordinates": [
-            4893,
-            6141
+            6031,
+            6200
           ],
           "type": "Point"
         },
@@ -13860,8 +13879,8 @@ const feature_data = [
       {
         "geometry": {
           "coordinates": [
-            4912,
-            6141
+            6050,
+            6199
           ],
           "type": "Point"
         },
@@ -16188,6 +16207,411 @@ const feature_data = [
       }
     ],
     "id": "cookbooks",
+    "type": "FeatureCollection"
+  },
+  {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            5931,
+            5462
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_1",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_1",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_1",
+          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman\"><b>[\u201c\u91ce\u517d\u796d\u53f8\u201d\u53e4\u5170\u683c]</b></a>\u7684\u5956\u52b1,\u5f53\u4f60\u6536\u96c6\u5168\u90e89\u4e2a<a href=\"https://eldenring.wiki.fextralife.com/Deathroot\"><b>[\u6b7b\u6839]</b></a>\u7ed9\u4ed6\u4e4b\u540e\u83b7\u5f97\u3002\u4f60\u4e5f\u53ef\u4ee5\u901a\u8fc7\u51fb\u6740\u4ed6\u83b7\u5f97\u3002"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            6069,
+            3052
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_2",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_2",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_2",
+          "title": "\u5728\u4e00\u5177\u5de8\u4eba\u9ab7\u9ac5\u5634\u91cc\u7684\u5c38\u4f53\u4e0a\u83b7\u53d6\uff0c\u5177\u4f53\u4f4d\u7f6e\u5728<a href=\"https://eldenring.wiki.fextralife.com/Church+of+Repose\"><b>[\u5b89\u6b47\u6559\u5802]</b></a>\u7684\u4e1c\u5357\u65b9\u3002<ahref=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=6399&lat=-91&lng=157.801089&zoom=8&code=mapA\">[\u5730\u56fe\u94fe\u63a5]</a>"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            5298,
+            2447
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_3",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_3",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_3",
+          "title": "\u51fb\u6740\u5728<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=4578&lat=-73.563&lng=141.781&zoom=8&code=mapA\"><b>\u8d50\u798f[\u5316\u5723\u96ea\u539f\uff08\u6df1\u5904\uff09]</b></a>\u897f\u5357\u65b9\u5411\u62a4\u9001\u9a6c\u8f66\u7684\u4e24\u53ea<ahref=\"https://eldenring.wiki.fextralife.com/Night's+Cavalry\"><b>[\u9ed1\u591c\u9a91\u5175]</b></a>(\u4ec5\u591c\u95f4) \u6389\u843d\u3002<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=4411&lat=-76.39&lng=139&zoom=8&code=mapA\">[\u5730\u56fe\u94fe\u63a5]</a>"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            5783,
+            2161
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_4",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_4",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_4",
+          "title": "\u5728\u51b0\u6cb3\u4e1c\u7aef\u7ed3\u51b0\u7684\u7011\u5e03\u5e95\u90e8\u7684\u4e00\u5757\u5ca9\u77f3\u4e0a\u53d1\u73b0, \u5c31\u5728<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=4656&lat=-69.554687&lng=150.321074&zoom=8&code=mapA\"><b>[\u201c\u5927\u571f\u9f99\u201d\u5e2d\u6b27\u6735\u5229\u514b]</b></a>\u5f80\u524d\u3002<ahref=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=6398&lat=-69.28&lng=151.13&zoom=8&code=mapA\">[\u5730\u56fe\u94fe\u63a5]</a>"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            5030,
+            2534
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_5",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_5",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_5",
+          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Yelough+Anix+Tunnel\"><b>[\u8036\u7f57\u00b7\u4e9a\u5c3c\u65af\u5751\u9053]</b></a>:\u5f53\u4f60\u7a7f\u8fc7\u5730\u7262\u65f6\uff0c\u4f60\u4f1a\u53d1\u73b0\u4e00\u5177\u5c38\u4f53\u5750\u5728\u51b0\u786c\u7684\u6865\u4e0a\uff0c\u8d70\u4e0b\u53f3\u8fb9\u68af\u5b50\uff0c\u953b\u9020\u77f3\u53ef\u4ee5\u5728\u521a\u7ecf\u8fc7\u975eBoss\u602a<a href=\"https://eldenring.wiki.fextralife.com/Alabaster+Lord\">\u767d\u738b</a>\u4e4b\u540e\u7684\u5c38\u4f53\u4e0a\u627e\u5230\u3002"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            5612,
+            1063
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_6",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_6",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_6",
+          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=4454&lat=-42.99&lng=147.24&zoom=8&code=mapA\"><b>\u8d50\u798f[\u5723\u6811\u9547\uff08\u5e7f\u573a\uff09]</b></a>\u5317\u9762\u7684\u4e00\u5c0a\u62e5\u62b1\u96d5\u50cf\u4e0b\u9762\u7684\u5c38\u4f53\u4e0a\u627e\u5230\u3002\u7531\u4e24\u4e2a\u5e26\u7ffc\u548c\u4e00\u4e2a\u7ea2\u72ee\u5b50<ahref=\"https://eldenring.wiki.fextralife.com/Misbegotten\">\u6df7\u79cd</a>\u5b88\u62a4\u3002"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            5770,
+            1007
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_7",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_7",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_7",
+          "title": "\u51fb\u8d25<a href=\"https://eldenring.wiki.fextralife.com/Loretta,+Knight+of+the+Haligtree\"><b>[\u201c\u5723\u6811\u9a91\u58eb\u201d\u7f57\u857e\u5854]</b></a>\u540e\uff0c\u6cbf\u7740\u957f\u957f\u7684\u68af\u5b50\u8d70\u4e0b\u6765\uff0c\u7ecf\u8fc7\u7535\u68af(\u4e0d\u662f\u5750\u7535\u68af)\u6015\u77f3\u9636\u4e0a\u53bb\uff0c\u4f60\u4f1a\u53d1\u73b0\u4e00\u4e2a\u5b9d\u7bb1\u3002"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            8495,
+            4656
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_8",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_8",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_8",
+          "title": "\u5728 <a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=5855&lat=-129.96875&lng=218.876914&zoom=8&code=mapA\"><b>\u8d50\u798f[\u6e10\u6bc1\u91ce\u517d\u5893]</b></a>\u548c <a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=5855&lat=-129.96875&lng=218.876914&zoom=8&code=mapA\"><b>\u8d50\u798f[\u6e10\u6bc1\u91ce\u517d\u5893\uff08\u6df1\u5904\uff09]</b></a>\u4e4b\u95f4\uff0c\u5f53\u4f60\u6cbf\u7740\u5f2f\u66f2\u7684\u5e73\u53f0\u524d\u8fdb\u65f6\uff0c\u51fb\u6740\u4fef\u51b2\u4e0b\u6765\u7684<a href=\"https://eldenring.wiki.fextralife.com/Farum+Azula+Dragon\">\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9\u9f99</a>\u6389\u843d\u3002<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=8612&lat=-129.726562&lng=216.571842&zoom=8&code=mapA\">[\u5730\u56fe\u94fe\u63a5]</a>"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            8444,
+            4322
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_9",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_9",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_9",
+          "title": "\u4ece<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=4501&lat=-123.840626&lng=216.455498&zoom=8&code=mapA\"><b>\u8d50\u798f[\u9f99\u6559\u5802\u796d\u575b]</b></a>\u51fa\u53d1\uff0c\u5411\u5317\u7a7f\u8fc7\u95e8\u4e4b\u540e\u8bbe\u6cd5\u8dd1\u8fc7<ahref=\"https://eldenring.wiki.fextralife.com/Azula+Beastman\">\u4e9a\u5179\u62c9\u7684\u517d\u4eba</a>\u4ee5\u53ca\u730e\u72ac\uff0c\u76f4\u5230\u4f60\u53d1\u73b0\u81ea\u5df1\u7ad9\u5728\u4e00\u4e2a\u72ed\u7a84\u7684\u5e73\u53f0\u4e0a\uff0c\u4e0a\u9762\u6392\u5217\u7740\u9f99\u7684\u96d5\u50cf\u3002\u76f4\u7ebf\u5f80\u524d\u8d70\uff0c\u9760\u8fd1\u5c3d\u5934\u4f1a\u6709\u4e00\u4e2a\u87ba\u65cb\u5f62\u7684\u697c\u68af\uff0c\u4f60\u53ef\u4ee5\u4ece\u53f3\u8fb9\u722c\u4e0a\u53bb\u3002\u5230\u4e86\u697c\u68af\u7684\u9876\u7aef\uff0c\u5de6\u8f6c\uff0c\u8df3\u5230\u6f02\u6d6e\u7684\u77f3\u67f1\u4e0a\u3002\u5c0f\u5fc3\u7ffc\u7ffc\u5730\u6cbf\u7740\u67f1\u5b50\u8d70\uff0c\u8df3\u4e0a\u5e73\u53f0\uff0c\u7531\u4e00\u4e2a\u5927\u517d\u4eba\u548c\u730e\u72ac\u5b88\u62a4\u7740\u953b\u9020\u77f3\u3002"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            8630,
+            4392
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_10",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_10",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_10",
+          "title": "\u4ece<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=4355&lat=-119.546875&lng=218.221505&zoom=8&code=mapA\"><b>\u8d50\u798f[\u9f99\u6559\u5802\uff08\u5c4b\u9876\uff09]</b></a>\u5357\u8fb9\u5750\u5728\u5e7f\u573a\u540e\u9762\u4e0d\u52a8\u7684<ahref=\"https://eldenring.wiki.fextralife.com/Farum+Azula+Dragon\">\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9\u9f99</a>\u8eab\u4e0a\u6389\u843d\u3002\u9f99\u4f1a\u4e0d\u65ad\u5730\u964d\u4e0b\u7ea2\u8272\u7684\u95ea\u7535\uff0c\u8def\u4e0a\u8fd8\u6709\u4e00\u4e9b<ahref=\"https://eldenring.wiki.fextralife.com/Warhawk\">\u6218\u9e70</a>\u3002"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            1816,
+            4820
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_11",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_11",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_11",
+          "title": "\u5728<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=5846&lat=-134&lng=55&zoom=8&code=mapA\"><b>[\u96f7\u4e9a\u5362\u5361\u5229\u4e9a\u5927\u4e66\u5e93]</b></a>\u5916\uff0c\u4efb\u52a1\u7ebf\u6700\u540e\u7ad9\u5728<ahref=\"https://eldenring.wiki.fextralife.com/Witch-Hunter+Jerren\"><b>[\u201c\u9b54\u5973\u730e\u4eba\u201d\u6770\u5ec9]</b></a>\u5728\u6700\u540e\u7ad9\u5728\u4ed6\u4e00\u8fb9\u51fb\u6740<ahref=\"https://eldenring.wiki.fextralife.com/Sorceress+Sellen\"><b>[\u9b54\u6cd5\u5e08\u745f\u6fc2]</b></a>\u5f97\u5230\u3002"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            3080,
+            6457
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_12",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_12",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_12",
+          "title": "\u51fb\u8d25<b>[\u201c\u6076\u5146\u738b\u201d\u8499\u845b\u7279]</b>\u540e\u5728\u845b\u745e\u514b\u7684\u738b\u5ea7\u5927\u5385(\u901a\u8fc7<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=1129&lat=-173.910938&lng=85.500353&zoom=8&code=mapA\"><b>\u8d50\u798f[\u201c\u63a5\u80a2\u201d\u845b\u745e\u514b]</b></a>\u5230\u8fbe)<b>[\u5b81\u59c6\u683c\u798f]</b>\u4e4b\u738b\u4efb\u52a1\u7ebf\u7684\u7ed3\u5c3e\u4ece<ahref=\"https://eldenring.wiki.fextralife.com/Nepheli+Loux\"><b>[\u6218\u58eb\u6d85\u6590\u4e3d\u00b7\u9732]</b></a>\u5904\u83b7\u5f97\u3002\u5982\u679c\u628a<ahref=\"https://eldenring.wiki.fextralife.com/Seluvis's+Potion\"><b>[\u8d5b\u5c14\u7ef4\u65af\u7684\u836f\u6c34]</b></a>\u7ed9\u4e86<b>[\u6218\u58eb\u6d85\u6590\u4e3d\u00b7\u9732]</b>\u5219\u65e0\u6cd5\u5b8c\u6210\u6b64\u4efb\u52a1\u7ebf\u3002"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            3077,
+            6453
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_13",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02008.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_13",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_13",
+          "title": "\u51fb\u8d25<b>[\u201c\u6076\u5146\u738b\u201d\u8499\u845b\u7279]</b>\u540e\u5728\u845b\u745e\u514b\u7684\u738b\u5ea7\u5927\u5385(\u901a\u8fc7<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=1129&lat=-173.910938&lng=85.500353&zoom=8&code=mapA\"><b>\u8d50\u798f[\u201c\u63a5\u80a2\u201d\u845b\u745e\u514b]</b></a>\u5230\u8fbe)<b>[\u5b81\u59c6\u683c\u798f]</b>\u4e4b\u738b\u4efb\u52a1\u7ebf\u7684\u7ed3\u5c3e\u53ef\u4ee5\u4ece<ahref=\"https://eldenring.wiki.fextralife.com/Gatekeeper+Gostoc\"><b>[\u95e8\u536b\u845b\u6258\u514b]</b></a>\u5904\u8d2d\u4e70\u3002\u5982\u679c\u628a<ahref=\"https://eldenring.wiki.fextralife.com/Seluvis's+Potion\"><b>[\u8d5b\u5c14\u7ef4\u65af\u7684\u836f\u6c34]</b></a>\u7ed9\u4e86<b>[\u6218\u58eb\u6d85\u6590\u4e3d\u00b7\u9732]</b>\u5219\u65e0\u6cd5\u5b8c\u6210\u6b64\u4efb\u52a1\u7ebf\u3002\u5982\u679c\u51fb\u6740\u4e86<b>[\u95e8\u536b\u845b\u6258\u514b]</b>\u5219\u65e0\u6cd5\u83b7\u5f97\u3002"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            6870,
+            14430
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_14",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02018.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_14",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_14",
+          "title": "\u5728\u7ecf\u8fc7<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=4585&lat=-181.82&lng=148.195&zoom=8&code=mapB\"><b>\u8d50\u798f[\u738b\u671d\u5e99\uff08\u4e2d\u6bb5\uff09]</b></a>\u540e\u7684\u4e00\u4e2a\u5b9d\u7bb1\u91cc\u83b7\u5f97\u3002\u73a9\u5bb6\u8981\u5c0f\u5fc3\uff0c\u56e0\u4e3a\u5b9d\u7bb1\u88ab\u4e00\u4e2a<ahref=\"https://eldenring.wiki.fextralife.com/Sanguine+Noble\"><b>[\u9c9c\u8840\u8d35\u65cf]</b></a>7\u4e2a\u4e8c\u4ee3<ahref=\"https://eldenring.wiki.fextralife.com/Albinauric\">\u767d\u91d1\u4e4b\u5b50</a>\u5305\u56f4\u3002"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            5228,
+            2155
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_15",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02018.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_15",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_15",
+          "title": "\u5165\u4fb5\u7684\u5e7b\u5f71<a href=\"https://eldenring.wiki.fextralife.com/Anastasia+Tarnished-Eater\"><b>[\u201c\u541e\u566c\u892a\u8272\u8005\u201d\u5b89\u5a1c\u5854\u897f\u4e9a]</b></a>\u6389\u843d\uff0c\u5728<ahref=\"https://eldenring.wiki.fextralife.com/Ordina+Liturgical+Town\"><b>[\u201c\u4eea\u5178\u9547\u201d\u5965\u7f07\u90a3]</b></a>\u5357\u8fb9\u3002<ahref=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=7919&lat=-69.203125&lng=137.478198&zoom=8&code=mapA\">[\u5730\u56fe\u94fe\u63a5]</a>"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            5729,
+            946
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_16",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02018.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_16",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_16",
+          "title": "\u4ece<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=4456&lat=-39.76&lng=148.97&zoom=8&code=mapA\"><b>\u8d50\u798f[\u7948\u7977\u5ba4]</b></a>\u51fa\u53d1\uff0c\u6cbf\u8def\u5411\u5317\u8d70\u3002\u7a7f\u8fc7\u53f3\u8fb9\u7684\u7b2c\u4e8c\u6839\u77f3\u67f1\uff0c\u6389\u5230\u5854\u7684\u5e95\u90e8\uff0c\u6700\u540e\u8df3\u4e0b\u53bb\uff0c\u8d70\u5230<ahref=\"https://eldenring.wiki.fextralife.com/Erdtree+Avatar\"><b>[\u9ec4\u91d1\u6811\u7684\u5316\u8eab]</b></a>\u6240\u5728\u7684\u957f\u8def\u4e0a\u3002\u8def\u7684\u5357\u7aef\u5c38\u4f53\u4e0a\u5c31\u662f\u3002<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=4456&lat=-39.76&lng=148.97&zoom=8&code=mapA\">[\u5730\u56fe\u94fe\u63a5]</a>"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            5671,
+            801
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_17",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02018.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_17",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_17",
+          "title": "\u4ece<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=4456&lat=-39.76&lng=148.97&zoom=8&code=mapA\"><b>\u8d50\u798f[\u7948\u7977\u5ba4]</b></a>\u51fa\u53d1\uff0c\u5f80\u5317\u8d70\u5230\u9053\u8def\u5c3d\u5934\u3002\u4ece\u4f60\u7684\u53f3\u8fb9\u8fb9\u7f18\u8df3\u4e0b\u53bb\uff0c\u5230\u4e00\u4e2a\u77f3\u6881\uff0c\u9760\u8fd1\u6709\u9732\u53f0\u7684\u5e73\u53f0\u548c\u751f\u547d\u7caa\u91d1\u9f9f\u3002\u8dd1\u8fc7\u53bb\uff0c\u722c\u4e0a\u53e6\u4e00\u6839\u77f3\u6881\uff0c\u5728\u9876\u7aef\u6709\u4e00\u4e2a\u5f00\u53e3\uff0c\u91cc\u9762\u7684\u5b9d\u7bb1\u5c31\u662f\u3002<ahref=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=8299&lat=-36.265625&lng=148.499286&zoom=8&code=mapA\">[\u5730\u56fe\u94fe\u63a5]</a>"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            8649,
+            4392
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_18",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02018.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_18",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_18",
+          "title": "\u5750\u5728\u5e7f\u573a\u4e0d\u52a8\u7684<a href=\"https://eldenring.wiki.fextralife.com/Farum+Azula+Dragon\">\u6cd5\u59c6\u00b7\u4e9a\u5179\u62c9\u9f99</a>\u540e\u9762\u9732\u53f0\u540e\u7684\u51c9\u4ead\u91cc\uff0c<ahref=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=4355&lat=-119.546875&lng=218.221505&zoom=8&code=mapA\"><b>\u8d50\u798f[\u9f99\u6559\u5802\uff08\u5c4b\u9876\uff09]</b></a>\u5357\u8fb9\u3002<ahref=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=4357&lat=-123.476562&lng=220.336526&zoom=8&code=mapA\">[\u5730\u56fe\u94fe\u63a5]</a>"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            4253,
+            3592
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_19",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02018.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_19",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_19",
+          "title": "\u4ece<a href=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=7251&lat=-100.476562&lng=116.70626&zoom=8&code=mapC\"><b>\u8d50\u798f[\u201c\u7070\u70ec\u738b\u57ce\u201d\u7f57\u5fb7\u5c14]</b></a>\u51fa\u53d1\u5411\u897f\uff0c\u722c\u4e0a\u6c89\u6ca1\u7684\u9f99\u7ffc\u3002\u8df3\u5230\u6b8b\u7834\u7684\u5899\u4e0a\uff0c\u4f60\u4f1a\u627e\u5230\u4e00\u4e2a\u68af\u5b50\u722c\u4e0a\u53bb\uff0c\u7136\u540e\u7ee7\u7eed\u722c\u68af\u3002\u5728\u57ce\u5899\u7684\u9876\u7aef\uff0c\u5728\u53f3\u4fa7\u770b\u5230\u4e00\u4e2a\u5f98\u5f8a\u7684\u77f3\u50cf\u9b3c\uff0c\u8df3\u8fc7\u680f\u6746\uff0c\u8df3\u5230\u4e0b\u9762\u67d4\u8f6f\u7684\u6c99\u5b50\u4e0a\uff0c\u4f60\u4f1a\u53d1\u73b0\u4e00\u5177\u5c38\u4f53\u5750\u5728\u4e00\u4e2a\u5947\u602a\u7684\u719f\u6089\u5efa\u7b51\u524d\u3002<ahref=\"https://eldenring.wiki.fextralife.com/Interactive+Map?id=7715&lat=-103.914062&lng=114.004391&zoom=8&code=mapC\">[\u5730\u56fe\u94fe\u63a5]</a>"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            5046,
+            1703
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_20",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02018.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_20",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_20",
+          "title": "</a>\u5728<ahref=\"https://eldenring.wiki.fextralife.com/Consecrated+Snowfield\"><b>[\u5316\u5723\u96ea\u539f]</b></a>\u7684<ahref=\"https://eldenring.wiki.fextralife.com/Apostate+Derelict\"><b>[\u79bb\u6559\u5e9f\u5c4b]</b></a>\u5b8c\u6210<a href=\"https://eldenring.wiki.fextralife.com/Latenna\"><b>[\u767d\u91d1\u4e4b\u5b50\u52d2\u7f07\u5a1c]</b></a>\u7684\u4efb\u52a1\u7ebf\u83b7\u5f97\u3002"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            5681,
+            843
+          ],
+          "type": "Point"
+        },
+        "id": "ancient_dragon_smithing_stones_21",
+        "properties": {
+          "group": "ancient_dragon_smithing_stones",
+          "icon": "/img/icons/bolstering/edited/02018.png",
+          "icon_size": 35,
+          "id": "ancient_dragon_smithing_stones_21",
+          "link": "/checklists/ancient_dragon_smithing_stones.html#item_21",
+          "title": "<a href=\"https://eldenring.wiki.fextralife.com/Elphael+Brace+of+the+Haligtree\"><b>[\u201c\u5723\u6811\u5206\u679d\u201d\u827e\u5e03\u96f7\u83f2\u5c14]</b></a>: \u5b8c\u6210<ahref=\"https://eldenring.wiki.fextralife.com/Millicent\"><b>[\u7c73\u8389\u68ee]</b></a>\u7684\u4efb\u52a1\u7ebf(\u6700\u540e\u5e2e\u52a9<b>[\u7c73\u8389\u68ee]</b>)\u5e76\u51fb\u8d25<ahref=\"https://eldenring.wiki.fextralife.com/Malenia+Blade+of+Miquella\"><b>[\u201c\u7c73\u51ef\u62c9\u7684\u950b\u5203\u201d\u739b\u83b2\u59ae\u4e9a]</b></a>\u540e\uff0c\u5c06\u91d1\u9488\u63d2\u5165<b>[\u201c\u7c73\u51ef\u62c9\u7684\u950b\u5203\u201d\u739b\u83b2\u59ae\u4e9a]</b>\u7684\u7329\u7ea2\u82b1\u6735\u4e2d\uff0c\u83b7\u5f97\u953b\u9020\u77f3\u4ee5\u53ca<ahref=\"https://eldenring.wiki.fextralife.com/Miquella's+Needle\"><b>[\u7c73\u51ef\u62c9\u7684\u9488]</b></a>\u3002"
+        },
+        "type": "Feature"
+      }
+    ],
+    "id": "ancient_dragon_smithing_stones",
     "type": "FeatureCollection"
   },
   {
@@ -20629,6 +21053,8 @@ const feature_data = [
   }
 ];
 const icon_urls = [
+  "/img/icons/bolstering/edited/02008.png",
+  "/img/icons/bolstering/edited/02018.png",
   "/map/icons/MENU_MAP_01_Bonfire.png",
   "/map/icons/MENU_MAP_05.png",
   "/map/icons/MENU_MAP_06.png",

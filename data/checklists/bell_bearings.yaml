@@ -49,12 +49,12 @@ sections:
     data:
     - '[1]'
     - <b>[失色锻造石【１】]</b><br><b>[失色锻造石【２】]</b>
-    - <a href="caves_catacombsand_tunnels.html#item_3_6"><b>[瑟利亚结晶坑道]</b></a>Boss掉落。最快捷到坑道的方式是<b>[亚基尔湖南方]</b>废墟里的传送宝箱。
+    - <a href="landmarks_locations.html#item_3_6"><b>[瑟利亚结晶坑道]</b></a>Boss掉落。最快捷到坑道的方式是<b>[亚基尔湖南方]</b>废墟里的传送宝箱。
   - id: '2_2'
     data:
     - '[2]'
     - <b>[失色锻造石【３】]</b><br><b>[失色锻造石【４】]</b>
-    - <a href="caves_catacombsand_tunnels.html#item_4_2"><b>[亚坛坑道]</b></a>Boss掉落.
+    - <a href="landmarks_locations.html#item_4_2"><b>[亚坛坑道]</b></a>Boss掉落.
   - id: '2_3'
     data:
     - '[3]'
@@ -85,12 +85,12 @@ sections:
     data:
     - '[1]'
     - <b>[墓地铃兰【１】]</b><br><b>[墓地铃兰【２】]</b><br><b>[墓地铃兰【３】]</b>
-    - <a href="caves_catacombsand_tunnels.html#item_5_6"><b>[威达姆地下墓地]</b></a>Boss掉落，位于<b>[卢克斯废墟]</b>北边，<b>[古遗迹断崖]</b>出口以北。
+    - <a href="landmarks_locations.html#item_5_6"><b>[威达姆地下墓地]</b></a>Boss掉落，位于<b>[卢克斯废墟]</b>北边，<b>[古遗迹断崖]</b>出口以北。
   - id: '3_2'
     data:
     - '[2]'
     - <b>[墓地铃兰【４】]</b><br><b>[墓地铃兰【５】]</b><br><b>[墓地铃兰【６】]</b>
-    - <a href="caves_catacombsand_tunnels.html#item_7_2"><b>[巨人山顶地下墓地]</b></a>Boss掉落，位于<b>[萨米尔废墟]</b>以北。在北面的小路上，当你遇到火焰敌人时，右转到地下墓地。
+    - <a href="landmarks_locations.html#item_7_2"><b>[巨人山顶地下墓地]</b></a>Boss掉落，位于<b>[萨米尔废墟]</b>以北。在北面的小路上，当你遇到火焰敌人时，右转到地下墓地。
   - id: '3_3'
     data:
     - '[3]'
