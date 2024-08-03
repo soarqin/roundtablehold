@@ -575,15 +575,15 @@ window.progress = {
     ],
   },
   "spirit_ashes": {
-    "total": [0, 64],
+    "total": [0, 84],
     "sections": [
-      [0, 42],
-      [0, 16],
+      [0, 51],
+      [0, 27],
       [0, 6],
     ],
   },
   "spiritbyregion": {
-    "total": [0, 64],
+    "total": [0, 84],
     "sections": [
       [0, 9],
       [0, 3],
@@ -600,6 +600,7 @@ window.progress = {
       [0, 1],
       [0, 2],
       [0, 1],
+      [0, 20],
     ],
   },
   "flasks": {
@@ -712,9 +713,9 @@ window.progress = {
     ],
   },
   "tears_dews": {
-    "total": [0, 28],
+    "total": [0, 37],
     "sections": [
-      [0, 18],
+      [0, 27],
       [0, 10],
     ],
   },
@@ -734,11 +735,11 @@ window.progress = {
     ],
   },
   "tools": {
-    "total": [0, 37],
+    "total": [0, 42],
     "sections": [
       [0, 7],
-      [0, 7],
-      [0, 8],
+      [0, 11],
+      [0, 9],
       [0, 15],
     ],
   },

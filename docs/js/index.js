@@ -3649,6 +3649,26 @@
 "spirit_ashes_1_1",
 "spirit_ashes_1_2",
 "spirit_ashes_1_3",
+"spirit_ashes_20_1",
+"spirit_ashes_20_10",
+"spirit_ashes_20_11",
+"spirit_ashes_20_12",
+"spirit_ashes_20_13",
+"spirit_ashes_20_14",
+"spirit_ashes_20_15",
+"spirit_ashes_20_16",
+"spirit_ashes_20_17",
+"spirit_ashes_20_18",
+"spirit_ashes_20_19",
+"spirit_ashes_20_2",
+"spirit_ashes_20_20",
+"spirit_ashes_20_3",
+"spirit_ashes_20_4",
+"spirit_ashes_20_5",
+"spirit_ashes_20_6",
+"spirit_ashes_20_7",
+"spirit_ashes_20_8",
+"spirit_ashes_20_9",
 "spirit_ashes_2_1",
 "spirit_ashes_2_2",
 "spirit_ashes_2_3",
@@ -3713,6 +3733,26 @@
 "spiritbyregion_1_1",
 "spiritbyregion_1_2",
 "spiritbyregion_1_3",
+"spiritbyregion_20_1",
+"spiritbyregion_20_10",
+"spiritbyregion_20_11",
+"spiritbyregion_20_12",
+"spiritbyregion_20_13",
+"spiritbyregion_20_14",
+"spiritbyregion_20_15",
+"spiritbyregion_20_16",
+"spiritbyregion_20_17",
+"spiritbyregion_20_18",
+"spiritbyregion_20_19",
+"spiritbyregion_20_2",
+"spiritbyregion_20_20",
+"spiritbyregion_20_3",
+"spiritbyregion_20_4",
+"spiritbyregion_20_5",
+"spiritbyregion_20_6",
+"spiritbyregion_20_7",
+"spiritbyregion_20_8",
+"spiritbyregion_20_9",
 "spiritbyregion_2_1",
 "spiritbyregion_2_2",
 "spiritbyregion_2_3",
@@ -4216,6 +4256,15 @@
 "tears_dews_1_17",
 "tears_dews_1_18",
 "tears_dews_1_2",
+"tears_dews_1_21",
+"tears_dews_1_22",
+"tears_dews_1_23",
+"tears_dews_1_24",
+"tears_dews_1_25",
+"tears_dews_1_26",
+"tears_dews_1_27",
+"tears_dews_1_28",
+"tears_dews_1_29",
 "tears_dews_1_3",
 "tears_dews_1_4",
 "tears_dews_1_5",
@@ -4241,6 +4290,10 @@
 "tools_1_6",
 "tools_1_7",
 "tools_2_1",
+"tools_2_11",
+"tools_2_12",
+"tools_2_13",
+"tools_2_14",
 "tools_2_2",
 "tools_2_3",
 "tools_2_4",
@@ -4248,6 +4301,7 @@
 "tools_2_6",
 "tools_2_7",
 "tools_3_1",
+"tools_3_11",
 "tools_3_2",
 "tools_3_3",
 "tools_3_4",
@@ -4693,9 +4747,9 @@ const ashesofwar_total = 105;
 var ashesofwar_checked = 0;
 const ashesbyregion_total = 105;
 var ashesbyregion_checked = 0;
-const spirit_ashes_total = 64;
+const spirit_ashes_total = 84;
 var spirit_ashes_checked = 0;
-const spiritbyregion_total = 64;
+const spiritbyregion_total = 84;
 var spiritbyregion_checked = 0;
 const flasks_total = 57;
 var flasks_checked = 0;
@@ -4723,13 +4777,13 @@ const stonesword_total = 117;
 var stonesword_checked = 0;
 const dragon_hearts_death_roots_total = 22;
 var dragon_hearts_death_roots_checked = 0;
-const tears_dews_total = 28;
+const tears_dews_total = 37;
 var tears_dews_checked = 0;
 const paintings_total = 14;
 var paintings_checked = 0;
 const pots_bottles_total = 40;
 var pots_bottles_checked = 0;
-const tools_total = 37;
+const tools_total = 42;
 var tools_checked = 0;
 const gestures_total = 48;
 var gestures_checked = 0;
