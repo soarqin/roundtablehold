@@ -62,8 +62,22 @@
 "ancient_dragon_smithing_stones_3",
 "ancient_dragon_smithing_stones_4",
 "ancient_dragon_smithing_stones_5",
+"ancient_dragon_smithing_stones_51",
+"ancient_dragon_smithing_stones_52",
+"ancient_dragon_smithing_stones_53",
+"ancient_dragon_smithing_stones_54",
+"ancient_dragon_smithing_stones_55",
+"ancient_dragon_smithing_stones_56",
+"ancient_dragon_smithing_stones_57",
+"ancient_dragon_smithing_stones_58",
 "ancient_dragon_smithing_stones_6",
 "ancient_dragon_smithing_stones_7",
+"ancient_dragon_smithing_stones_71",
+"ancient_dragon_smithing_stones_72",
+"ancient_dragon_smithing_stones_73",
+"ancient_dragon_smithing_stones_74",
+"ancient_dragon_smithing_stones_75",
+"ancient_dragon_smithing_stones_76",
 "ancient_dragon_smithing_stones_8",
 "ancient_dragon_smithing_stones_9",
 "armor_0",
@@ -838,6 +852,16 @@
 "ashesofwar_9_2",
 "ashesofwar_9_3",
 "ashesofwar_9_4",
+"bell_bearings_10_1",
+"bell_bearings_10_2",
+"bell_bearings_11_1",
+"bell_bearings_11_2",
+"bell_bearings_11_3",
+"bell_bearings_11_4",
+"bell_bearings_11_5",
+"bell_bearings_11_6",
+"bell_bearings_11_7",
+"bell_bearings_11_8",
 "bell_bearings_1_1",
 "bell_bearings_1_2",
 "bell_bearings_1_3",
@@ -4895,11 +4919,11 @@ const scrolls_prayerbooks_total = 11;
 var scrolls_prayerbooks_checked = 0;
 const whetstones_total = 6;
 var whetstones_checked = 0;
-const bell_bearings_total = 52;
+const bell_bearings_total = 62;
 var bell_bearings_checked = 0;
 const cookbooks_total = 59;
 var cookbooks_checked = 0;
-const ancient_dragon_smithing_stones_total = 21;
+const ancient_dragon_smithing_stones_total = 35;
 var ancient_dragon_smithing_stones_checked = 0;
 const great_gloveworts_total = 10;
 var great_gloveworts_checked = 0;

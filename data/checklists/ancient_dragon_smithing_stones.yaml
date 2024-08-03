@@ -51,6 +51,23 @@ sections:
   - id: '13'
     data: ['击败<b>[“恶兆王”蒙葛特]</b>后在葛瑞克的王座大厅(通过<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=1129&lat=-173.910938&lng=85.500353&zoom=8&code=mapA"><b>赐福[“接肢”葛瑞克]</b></a>到达)<b>[宁姆格福]</b>之王任务线的结尾可以从<ahref="https://eldenring.wiki.fextralife.com/Gatekeeper+Gostoc"><b>[门卫葛托克]</b></a>处购买。如果把<ahref="https://eldenring.wiki.fextralife.com/Seluvis''s+Potion"><b>[赛尔维斯的药水]</b></a>给了<b>[战士涅斐丽·露]</b>则无法完成此任务线。如果击杀了<b>[门卫葛托克]</b>则无法获得。']
     cords: [3077, 6453]
+  - 幽影之地
+  - id: "51"
+    data: ['<b>[墓地平原]</b> - <b>[熔岩管锻造遗迹]</b>：与熔炉互动。']
+  - id: "52"
+    data: ['<b>[墓地平原]</b> - <b>[龙洞]</b>：坑内的熔岩土龙掉落。']
+  - id: "53"
+    data: ['<b>[墓地平原]</b> - 在<b>[镇抚石柱]</b>顶部的箱子内。']
+  - id: "54"
+    data: ['<b>[幽影亚坛]</b> - <b>[古铁陨石锻造遗迹]</b>：与熔炉互动。']
+  - id: "55"
+    data: ['<b>[尖刺山]</b> - 由<b>[“古龙”瑟涅桑克斯]</b>掉落，位于<b>赐福[尖刺山（山顶）]</b>的西边。']
+  - id: "56"
+    data: ['<b>[尖刺山]</b> - 在前往<b>赐福[尖刺山（山顶）]</b>的路上，在3个骨软泥怪旁边，就在赐福前的最后一处灵魂气流之前。']
+  - id: "57"
+    data: ['<b>[劳弗下方]</b> - <b>[泰乌尔锻造遗迹]</b>：在中央平台有2个锻造魔像的平台上获取。']
+  - id: "58"
+    data: ['<b>[劳弗下方]</b> - <b>[泰乌尔锻造遗迹]</b>：与尽头的熔炉互动。']
 - title: 古龙岩失色锻造石
   link: https://eldenring.wiki.fextralife.com/Somber+Ancient+Dragon+Smithing+Stone
   icon: /img/icons/bolstering/edited/02018.png
@@ -59,37 +76,50 @@ sections:
   - id: '14'
     data: ['在经过<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4585&lat=-181.82&lng=148.195&zoom=8&code=mapB"><b>赐福[王朝庙（中段）]</b></a>后的一个宝箱里获得。玩家要小心，因为宝箱被一个<ahref="https://eldenring.wiki.fextralife.com/Sanguine+Noble"><b>[鲜血贵族]</b></a>7个二代<ahref="https://eldenring.wiki.fextralife.com/Albinauric">白金之子</a>包围。']
     cords: [6870, 14430]
-    map_icon: "/img/icons/bolstering/edited/02018.png"
+    map_icon: '/img/icons/bolstering/edited/02018.png'
   - <a href="https://eldenring.wiki.fextralife.com/Consecrated+Snowfield">化圣雪原</a>
   - id: '15'
     data: ['入侵的幻影<a href="https://eldenring.wiki.fextralife.com/Anastasia+Tarnished-Eater"><b>[“吞噬褪色者”安娜塔西亚]</b></a>掉落，在<ahref="https://eldenring.wiki.fextralife.com/Ordina+Liturgical+Town"><b>[“仪典镇”奥缇那]</b></a>南边。<ahref="https://eldenring.wiki.fextralife.com/Interactive+Map?id=7919&lat=-69.203125&lng=137.478198&zoom=8&code=mapA">[地图链接]</a>']
     cords: [5228, 2155]
-    map_icon: "/img/icons/bolstering/edited/02018.png"
+    map_icon: '/img/icons/bolstering/edited/02018.png'
   - <a href="https://eldenring.wiki.fextralife.com/Elphael+Brace+of+the+Haligtree">“圣树分枝”艾布雷菲尔</a>
   - id: '16'
     data: ['从<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4456&lat=-39.76&lng=148.97&zoom=8&code=mapA"><b>赐福[祈祷室]</b></a>出发，沿路向北走。穿过右边的第二根石柱，掉到塔的底部，最后跳下去，走到<ahref="https://eldenring.wiki.fextralife.com/Erdtree+Avatar"><b>[黄金树的化身]</b></a>所在的长路上。路的南端尸体上就是。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4456&lat=-39.76&lng=148.97&zoom=8&code=mapA">[地图链接]</a>']
     cords: [5729, 946]
-    map_icon: "/img/icons/bolstering/edited/02018.png"
+    map_icon: '/img/icons/bolstering/edited/02018.png'
   - id: '17'
     data: ['从<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4456&lat=-39.76&lng=148.97&zoom=8&code=mapA"><b>赐福[祈祷室]</b></a>出发，往北走到道路尽头。从你的右边边缘跳下去，到一个石梁，靠近有露台的平台和生命粪金龟。跑过去，爬上另一根石梁，在顶端有一个开口，里面的宝箱就是。<ahref="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8299&lat=-36.265625&lng=148.499286&zoom=8&code=mapA">[地图链接]</a>']
     cords: [5671, 801]
-    map_icon: "/img/icons/bolstering/edited/02018.png"
+    map_icon: '/img/icons/bolstering/edited/02018.png'
   - <a href="https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula">逐渐崩毁的法姆·亚兹拉</a>
   - id: '18'
     data: ['坐在广场不动的<a href="https://eldenring.wiki.fextralife.com/Farum+Azula+Dragon">法姆·亚兹拉龙</a>后面露台后的凉亭里，<ahref="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4355&lat=-119.546875&lng=218.221505&zoom=8&code=mapA"><b>赐福[龙教堂（屋顶）]</b></a>南边。<ahref="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4357&lat=-123.476562&lng=220.336526&zoom=8&code=mapA">[地图链接]</a>']
     cords: [8649, 4392]
-    map_icon: "/img/icons/bolstering/edited/02018.png"
+    map_icon: '/img/icons/bolstering/edited/02018.png'
   - <a href="https://eldenring.wiki.fextralife.com/Leyndell,+Ashen+Capital">灰城罗德尔</a>
   - id: '19'
     data: ['从<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=7251&lat=-100.476562&lng=116.70626&zoom=8&code=mapC"><b>赐福[“灰烬王城”罗德尔]</b></a>出发向西，爬上沉没的龙翼。跳到残破的墙上，你会找到一个梯子爬上去，然后继续爬梯。在城墙的顶端，在右侧看到一个徘徊的石像鬼，跳过栏杆，跳到下面柔软的沙子上，你会发现一具尸体坐在一个奇怪的熟悉建筑前。<ahref="https://eldenring.wiki.fextralife.com/Interactive+Map?id=7715&lat=-103.914062&lng=114.004391&zoom=8&code=mapC">[地图链接]</a>']
     cords: [4253, 3592]
-    map_icon: "/img/icons/bolstering/edited/02018.png"
+    map_icon: '/img/icons/bolstering/edited/02018.png'
   - 任务
   - id: '20'
     data: ['</a>在<ahref="https://eldenring.wiki.fextralife.com/Consecrated+Snowfield"><b>[化圣雪原]</b></a>的<ahref="https://eldenring.wiki.fextralife.com/Apostate+Derelict"><b>[离教废屋]</b></a>完成<a href="https://eldenring.wiki.fextralife.com/Latenna"><b>[白金之子勒缇娜]</b></a>的任务线获得。']
     cords: [5046, 1703]
-    map_icon: "/img/icons/bolstering/edited/02018.png"
+    map_icon: '/img/icons/bolstering/edited/02018.png'
   - id: '21'
     data: ['<a href="https://eldenring.wiki.fextralife.com/Elphael+Brace+of+the+Haligtree"><b>[“圣树分枝”艾布雷菲尔]</b></a>: 完成<ahref="https://eldenring.wiki.fextralife.com/Millicent"><b>[米莉森]</b></a>的任务线(最后帮助<b>[米莉森]</b>)并击败<ahref="https://eldenring.wiki.fextralife.com/Malenia+Blade+of+Miquella"><b>[“米凯拉的锋刃”玛莲妮亚]</b></a>后，将金针插入<b>[“米凯拉的锋刃”玛莲妮亚]</b>的猩红花朵中，获得锻造石以及<ahref="https://eldenring.wiki.fextralife.com/Miquella''s+Needle"><b>[米凯拉的针]</b></a>。']
     cords: [5681, 843]
-    map_icon: "/img/icons/bolstering/edited/02018.png"
+    map_icon: '/img/icons/bolstering/edited/02018.png'
+  - 幽影之地
+  - id: "71"
+    data: ['<b>[墓地平原]</b> - 由位于<b>赐福[大桥北方]</b>西侧湖泊中的<b>[灵火龙]</b>掉落。']
+  - id: "72"
+    data: ['<b>[幽影亚坛]</b> - 由位于<b>[惩罚要塞]</b>北部的<b>[灵火龙]</b>掉落。']
+  - id: "73"
+    data: ['<b>[青蓝海岸]</b> - 位于遗迹南部的<b>[灵火龙]</b>掉落。']
+  - id: "74"
+    data: ['<b>[尖刺山]</b> - 由<b>[“古龙”瑟涅桑克斯]</b>掉落，位于<b>赐福[尖刺山（山顶）]</b>的西边。']
+  - id: "75"
+    data: ['<b>[尖刺山]</b> - 从<b>赐福[尖刺山（中段）]</b>沿着小路向西南走，使用2个灵魂气流到达高地。通过第二个灵魂气流后，转身并向下跳到下方的区域，沿着小路向东北走，在一具尸体上。']
+  - id: "76"
+    data: ['<b>[艾尼尔·伊利姆]</b> - 从有电梯的祭坛出来，走到外面然后往下走。小心潜伏在该区域的敌人。绕过敌人后在破损楼梯边缘的一具尸体上找到。']

@@ -653,7 +653,7 @@ window.progress = {
     ],
   },
   "bell_bearings": {
-    "total": [0, 52],
+    "total": [0, 62],
     "sections": [
       [0, 4],
       [0, 5],
@@ -662,6 +662,8 @@ window.progress = {
       [0, 4],
       [0, 14],
       [0, 19],
+      [0, 2],
+      [0, 8],
     ],
   },
   "cookbooks": {
@@ -678,10 +680,10 @@ window.progress = {
     ],
   },
   "ancient_dragon_smithing_stones": {
-    "total": [0, 21],
+    "total": [0, 35],
     "sections": [
-      [0, 13],
-      [0, 8],
+      [0, 21],
+      [0, 14],
     ],
   },
   "great_gloveworts": {

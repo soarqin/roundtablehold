@@ -17305,7 +17305,7 @@
   },
   {
     "id": "/checklists/bell_bearings.html#item_6_1",
-    "text": "骑士贝纳尔 否 获得[贝纳尔的铃珠]的唯一机会是在[宁姆格福]的[习战者的破屋]的初始位置谋杀他。才外能看到他的另一个地方是禁止战斗区域[火山官邸]; 当他从那里离开时，他会留下他的剑，这就是他的商店，在任务线的最后，他不会掉落铃珠。当你在[火山官邸]遇到他时，他的商店也会添加新的商品，所以强制得到他的铃珠会失去购买这些独家战灰的机会。"
+    "text": "骑士贝纳尔 否 获得[贝纳尔的铃珠]的唯一机会是在[宁姆格福]的[习战者的破屋]的初始位置谋杀他。才外能看到他的另一个地方是禁止战斗区域[火山官邸];当他从那里离开时，他会留下他的剑，这就是他的商店，在任务线的最后，他不会掉落铃珠。当你在[火山官邸]遇到他时，他的商店也会添加新的商品，所以强制得到他的铃珠会失去购买这些独家战灰的机会。"
   },
   {
     "id": "/checklists/bell_bearings.html#item_6_2",
@@ -17434,6 +17434,46 @@
   {
     "id": "/checklists/bell_bearings.html#item_7_19",
     "text": "受囚商人的铃珠 [蒙格温王朝]西边，进入[蒙格温王朝庙]，靠左在一个死胡同找到商人。"
+  },
+  {
+    "id": "/checklists/bell_bearings.html#item_10_1",
+    "text": "穆尔的铃珠 完成穆尔的任务线后获得。"
+  },
+  {
+    "id": "/checklists/bell_bearings.html#item_10_2",
+    "text": "尤弥尔的铃珠 在[玛努斯·美特大教堂]击杀[“大祭司”尤弥尔]后获得。"
+  },
+  {
+    "id": "/checklists/bell_bearings.html#item_11_1",
+    "text": "药草贩子的铃珠 拉答果实 在[墓地平原]的[通柱坡]和[龙洞]之间的峡谷西壁上。"
+  },
+  {
+    "id": "/checklists/bell_bearings.html#item_11_2",
+    "text": "蘑菇贩子的铃珠【１】 蘑菇红肉蘑菇 [劳弗下方]的赐福[神殿镇废墟]出发，沿着河向东南方向前进，最终到达瀑布。瀑布的西南方向悬崖边有几座大墓碑，沿着墓碑向下走到底部的池塘。然后沿着悬崖底部向西走，摧毁用绳子悬挂在悬崖壁侧面的黑色罐子。"
+  },
+  {
+    "id": "/checklists/bell_bearings.html#item_11_3",
+    "text": "蘑菇贩子的铃珠【２】 稠液蘑菇白肉蘑菇 在赐福[艾拉克河洞窟]南部悬崖边瀑布上悬挂的罐子里。"
+  },
+  {
+    "id": "/checklists/bell_bearings.html#item_11_4",
+    "text": "树脂贩子的铃珠 根脂瘤脂 从赐福[通村吊桥]向北，经过巨人，沿着路走，在左边寻找一群狼。罐子就挂在它们附近。"
+  },
+  {
+    "id": "/checklists/bell_bearings.html#item_11_5",
+    "text": "霉菌贩子的铃珠 苍蝇霉 在赐福[隐者河下游]旁边的岩壁上悬挂的罐子里。"
+  },
+  {
+    "id": "/checklists/bell_bearings.html#item_11_6",
+    "text": "埃贡的铃珠 埃贡的鱼叉 杀死[“狂龙”贝勒]后，在[埃贡]的尸体上找到。"
+  },
+  {
+    "id": "/checklists/bell_bearings.html#item_11_7",
+    "text": "魔法技师的铃珠 拉巴斯大弩箭 从[巫者村]出发向东南方向走，沿着小路走到较低的山峰，从这里小心地跳下石梁，直到能俯瞰[拉巴斯魔法师塔]。小心地跳到下面的阳台上，进入房间，跳到下面的楼层找到尸体。"
+  },
+  {
+    "id": "/checklists/bell_bearings.html#item_11_8",
+    "text": "绳索贩子的铃珠 绳索 悬挂在[眺望镇]旁山沟的墙上的罐子里。"
   },
   {
     "id": "/checklists/cookbooks.html#item_1_1",
@@ -17724,6 +17764,38 @@
     "text": "击败[“恶兆王”蒙葛特]后在葛瑞克的王座大厅(通过赐福[“接肢”葛瑞克]到达)[宁姆格福]之王任务线的结尾可以从[门卫葛托克]处购买。如果把[赛尔维斯的药水]给了[战士涅斐丽·露]则无法完成此任务线。如果击杀了[门卫葛托克]则无法获得。"
   },
   {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_51",
+    "text": "[墓地平原] - [熔岩管锻造遗迹]：与熔炉互动。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_52",
+    "text": "[墓地平原] - [龙洞]：坑内的熔岩土龙掉落。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_53",
+    "text": "[墓地平原] - 在[镇抚石柱]顶部的箱子内。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_54",
+    "text": "[幽影亚坛] - [古铁陨石锻造遗迹]：与熔炉互动。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_55",
+    "text": "[尖刺山] - 由[“古龙”瑟涅桑克斯]掉落，位于赐福[尖刺山（山顶）]的西边。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_56",
+    "text": "[尖刺山] - 在前往赐福[尖刺山（山顶）]的路上，在3个骨软泥怪旁边，就在赐福前的最后一处灵魂气流之前。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_57",
+    "text": "[劳弗下方] - [泰乌尔锻造遗迹]：在中央平台有2个锻造魔像的平台上获取。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_58",
+    "text": "[劳弗下方] - [泰乌尔锻造遗迹]：与尽头的熔炉互动。"
+  },
+  {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_14",
     "text": "在经过赐福[王朝庙（中段）]后的一个宝箱里获得。玩家要小心，因为宝箱被一个[鲜血贵族]7个二代白金之子包围。"
   },
@@ -17754,6 +17826,30 @@
   {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_21",
     "text": "[“圣树分枝”艾布雷菲尔]: 完成[米莉森]的任务线(最后帮助[米莉森])并击败[“米凯拉的锋刃”玛莲妮亚]后，将金针插入[“米凯拉的锋刃”玛莲妮亚]的猩红花朵中，获得锻造石以及[米凯拉的针]。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_71",
+    "text": "[墓地平原] - 由位于赐福[大桥北方]西侧湖泊中的[灵火龙]掉落。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_72",
+    "text": "[幽影亚坛] - 由位于[惩罚要塞]北部的[灵火龙]掉落。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_73",
+    "text": "[青蓝海岸] - 位于遗迹南部的[灵火龙]掉落。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_74",
+    "text": "[尖刺山] - 由[“古龙”瑟涅桑克斯]掉落，位于赐福[尖刺山（山顶）]的西边。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_75",
+    "text": "[尖刺山] - 从赐福[尖刺山（中段）]沿着小路向西南走，使用2个灵魂气流到达高地。通过第二个灵魂气流后，转身并向下跳到下方的区域，沿着小路向东北走，在一具尸体上。"
+  },
+  {
+    "id": "/checklists/ancient_dragon_smithing_stones.html#item_76",
+    "text": "[艾尼尔·伊利姆] - 从有电梯的祭坛出来，走到外面然后往下走。小心潜伏在该区域的敌人。绕过敌人后在破损楼梯边缘的一具尸体上找到。"
   },
   {
     "id": "/checklists/great_gloveworts.html#item_1",
