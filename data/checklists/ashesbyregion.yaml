@@ -1,752 +1,455 @@
 title: 战灰(按区域)
 id: ashesbyregion
 realid: ashesofwar
-table_widths:
-- 3
-- 4
-- 5
+table_widths: [3, 4, 5]
 sections:
 - title: 宁姆格福
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '5_11'
     icon: /img/icons/ashes_of_war/08305.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Stamp+(Upward+Cut)"><b>箭步（上砍）</b></a>
-    - <b>举起武器摆出架式，稳住姿势压低身形，<br>瞬间提升强韧度的战技。<br>发动后接着使出重攻击，能上砍攻击。</b>
-    - 由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Stamp+(Upward+Cut)"><b>箭步（上砍）</b></a>', '<b>举起武器摆出架式，稳住姿势压低身形，<br>瞬间提升强韧度的战技。<br>发动后接着使出重攻击，能上砍攻击。</b>', '由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。']
   - id: '5_10'
     icon: /img/icons/ashes_of_war/08306.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Stamp+(Sweep)"><b>箭步（回旋斩）</b></a>
-    - <b>举起武器摆出架式，稳住姿势压低身形，<br>瞬间提升强韧度的战技。<br>发动后接着使出重攻击，能回旋斩。</b>
-    - 在<b>[宁姆格福]</b>西部<b>[风暴根脚的地下墓地]</b>东部海滩上一个隐形粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Stamp+(Sweep)"><b>箭步（回旋斩）</b></a>', '<b>举起武器摆出架式，稳住姿势压低身形，<br>瞬间提升强韧度的战技。<br>发动后接着使出重攻击，能回旋斩。</b>', '在<b>[宁姆格福]</b>西部<b>[风暴根脚的地下墓地]</b>东部海滩上一个隐形粪金龟。']
   - id: '5_14'
     icon: /img/icons/ashes_of_war/08309.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Wild+Strikes"><b>盲击</b></a>
-    - <b>不间断、任意挥动武器的战技。<br>持续发动的期间能一直攻击，<br>接着使出轻攻击或重攻击，能追加攻击。</b>
-    - 在<b>[宁姆格福]</b>西北，<b>赐福[通城隧道]</b>向北路上的粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Wild+Strikes"><b>盲击</b></a>', '<b>不间断、任意挥动武器的战技。<br>持续发动的期间能一直攻击，<br>接着使出轻攻击或重攻击，能追加攻击。</b>', '在<b>[宁姆格福]</b>西北，<b>赐福[通城隧道]</b>向北路上的粪金龟。']
   - id: '5_8'
     icon: /img/icons/ashes_of_war/08402.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Kick"><b>踢击</b></a>
-    - <b>大幅抬起脚向前踢的战技。<br>对正在防御的敌人很有效，能使对方失去平衡。<br>朴实却又实用的战技。</b>
-    - 由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Kick"><b>踢击</b></a>', '<b>大幅抬起脚向前踢的战技。<br>对正在防御的敌人很有效，能使对方失去平衡。<br>朴实却又实用的战技。</b>', '由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。']
   - id: '5_5'
     icon: /img/icons/ashes_of_war/08460.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Endure"><b>忍耐</b></a>
-    - <b>心中做好准备放低重心，站稳步伐，<br>能瞬间提升强韧度的战技。<br>在战技有效期间内，能减轻受到的损伤。</b>
-    - 由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Endure"><b>忍耐</b></a>', '<b>心中做好准备放低重心，站稳步伐，<br>能瞬间提升强韧度的战技。<br>在战技有效期间内，能减轻受到的损伤。</b>', '由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。']
   - id: '5_6'
     icon: /img/icons/ashes_of_war/08405.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Ground+Slam"><b>坠落震击</b></a>
-    - <b>轻盈向前跳，再顺势用臀部<br>用力向下坠落的战技。<br>此攻击能引发剧烈的冲击波。</b>
-    - 在<b>[宁姆格福]</b>东部<b>[雾林]</b><b>[小黄金树]</b>西南一个小山上的粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Ground+Slam"><b>坠落震击</b></a>', '<b>轻盈向前跳，再顺势用臀部<br>用力向下坠落的战技。<br>此攻击能引发剧烈的冲击波。</b>', '在<b>[宁姆格福]</b>东部<b>[雾林]</b><b>[小黄金树]</b>西南一个小山上的粪金龟。']
   - id: '5_13'
     icon: /img/icons/ashes_of_war/08441.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+War+Cry"><b>战吼</b></a>
-    - <b>透过咆哮激励自己，提升攻击力的战技。<br>在战技有效期间内，重攻击会变成突进攻击。</b>
-    - 由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+War+Cry"><b>战吼</b></a>', '<b>透过咆哮激励自己，提升攻击力的战技。<br>在战技有效期间内，重攻击会变成突进攻击。</b>', '由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。']
   - id: '6_9'
     icon: /img/icons/ashes_of_war/08303.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Spinning+Slash"><b>回旋斩</b></a>
-    - <b>拥有高灵巧的剑士们使用的战技。<br>能大幅旋转身体，砍向敌人。<br>再次发动能使出追击。</b>
-    - 由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Spinning+Slash"><b>回旋斩</b></a>', '<b>拥有高灵巧的剑士们使用的战技。<br>能大幅旋转身体，砍向敌人。<br>再次发动能使出追击。</b>', '由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。']
   - id: '6_4'
     icon: /img/icons/ashes_of_war/08301.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Impaling+Thrust"><b>贯穿</b></a>
-    - <b>突刺武器对付持盾敌人时的战技。<br>蓄力之后，大幅度向前跨出<br>使出浑身一刺，从正面突破防御。</b>
-    - 由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Impaling+Thrust"><b>贯穿</b></a>', '<b>突刺武器对付持盾敌人时的战技。<br>蓄力之后，大幅度向前跨出<br>使出浑身一刺，从正面突破防御。</b>', '由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。']
   - id: '6_8'
     icon: /img/icons/ashes_of_war/08308.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Repeating+Thrust"><b>连击</b></a>
-    - <b>旋身之后，使出连续突刺的战技。</b>
-    - 由<b>[宁姆格福]</b><b>[亚基尔湖北方]</b>东南路上的<b>[黑夜骑兵]</b>掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Repeating+Thrust"><b>连击</b></a>', '<b>旋身之后，使出连续突刺的战技。</b>', '由<b>[宁姆格福]</b><b>[亚基尔湖北方]</b>东南路上的<b>[黑夜骑兵]</b>掉落。']
   - id: '6_11'
     icon: /img/icons/ashes_of_war/08313.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Unsheathe"><b>居合</b></a>
-    - <b>芦苇之地的剑客继承而来的战技。<br>收刀入腰间刀鞘，摆出架式后静止不动，<br>接着使出轻攻击或重攻击，能高速斩击。</b>
-    - <b>[宁姆格福]</b><b>赐福[亚基尔湖南方]</b>西北方向<b>[亚基尔湖]</b>边缘被螃蟹怪包围的1只粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Unsheathe"><b>居合</b></a>', '<b>芦苇之地的剑客继承而来的战技。<br>收刀入腰间刀鞘，摆出架式后静止不动，<br>接着使出轻攻击或重攻击，能高速斩击。</b>', '<b>[宁姆格福]</b><b>赐福[亚基尔湖南方]</b>西北方向<b>[亚基尔湖]</b>边缘被螃蟹怪包围的1只粪金龟。']
   - id: '6_6'
     icon: /img/icons/ashes_of_war/08480.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Quickstep"><b>碎步</b></a>
-    - <b>以速度干扰敌人的战斗者们使用的战技。<br>能以轻盈步伐快速移动。<br>在锁定目标的状态下使用，能以目标为中心移动。</b>
-    - 由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Quickstep"><b>碎步</b></a>', '<b>以速度干扰敌人的战斗者们使用的战技。<br>能以轻盈步伐快速移动。<br>在锁定目标的状态下使用，能以目标为中心移动。</b>', '由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。']
   - id: '11_9'
     icon: /img/icons/ashes_of_war/08339.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Storm+Blade"><b>风暴刃</b></a>
-    - <b>史东薇尔的失传战技。<br>将武器缠绕风暴刃，朝前方释放风暴。<br>可以连续施放。</b>
-    - 在<b>[宁姆格福]</b><b>[蒙流地下墓地]</b>中由守墓人掉落，也由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Storm+Blade"><b>风暴刃</b></a>', '<b>史东薇尔的失传战技。<br>将武器缠绕风暴刃，朝前方释放风暴。<br>可以连续施放。</b>', '在<b>[宁姆格福]</b><b>[蒙流地下墓地]</b>中由守墓人掉落，也由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。']
   - id: '11_8'
     icon: /img/icons/ashes_of_war/08319.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Storm+Assault"><b>风暴袭击</b></a>
-    - <b>史东薇尔的风暴战技之一。<br>缠绕着风暴向前跳，将武器向下刺。<br>突刺攻击后也会形成风暴。</b>
-    - 在<b>[史东薇尔城]</b>底部掉落到<b>[腐烂树灵]</b>Boss战之前的粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Storm+Assault"><b>风暴袭击</b></a>', '<b>史东薇尔的风暴战技之一。<br>缠绕着风暴向前跳，将武器向下刺。<br>突刺攻击后也会形成风暴。</b>', '在<b>[史东薇尔城]</b>底部掉落到<b>[腐烂树灵]</b>Boss战之前的粪金龟。']
   - id: '11_11'
     icon: /img/icons/ashes_of_war/08320.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Stormcaller"><b>唤起风暴</b></a>
-    - <b>史东薇尔的风暴战技之一。<br>能挥舞武器，在自身周围唤起风暴。<br>再次发动能使出最多两次的追击。</b>
-    - 在<b>[宁姆格福]</b><b>[史东薇尔城]</b>中<b>赐福[深处小房间]</b>对面路上的粪金龟
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Stormcaller"><b>唤起风暴</b></a>', '<b>史东薇尔的风暴战技之一。<br>能挥舞武器，在自身周围唤起风暴。<br>再次发动能使出最多两次的追击。</b>', '在<b>[宁姆格福]</b><b>[史东薇尔城]</b>中<b>赐福[深处小房间]</b>对面路上的粪金龟']
   - id: '11_10'
     icon: /img/icons/ashes_of_war/08401.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Storm+Stomp"><b>风暴足</b></a>
-    - <b>史东薇尔的风暴战技之一。<br>能大力踏向地面，在自身周围引发瞬间的风暴。</b>
-    - 在<b>赐福[关卡前废墟]</b>东南方向地下小房间的一个宝箱里。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Storm+Stomp"><b>风暴足</b></a>', '<b>史东薇尔的风暴战技之一。<br>能大力踏向地面，在自身周围引发瞬间的风暴。</b>', '在<b>赐福[关卡前废墟]</b>东南方向地下小房间的一个宝箱里。']
   - id: '11_2'
     icon: /img/icons/ashes_of_war/08420.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Determination"><b>决心</b></a>
-    - <b>骑士们的战技。<br>将武器移向眼前、指向天空，坚定决心，<br>提升下一记攻击的威力。</b>
-    - 在<b>[宁姆格福]</b><b>赐福[亚基尔湖北方]</b>的东南路上的粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Determination"><b>决心</b></a>', '<b>骑士们的战技。<br>将武器移向眼前、指向天空，坚定决心，<br>提升下一记攻击的威力。</b>', '在<b>[宁姆格福]</b><b>赐福[亚基尔湖北方]</b>的东南路上的粪金龟。']
   - id: '8_6'
     icon: /img/icons/ashes_of_war/08338.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Gravitas"><b>重力</b></a>
-    - <b>源自拥有石质皮肤的白王的战技。<br>将武器刺入地面，产生重力波，<br>能给予敌人伤害，同时将对方拉近自己。</b>
-    - 在<b>[宁姆格福]</b>南部的<b>赐福[傍海古遗迹]</b>的海滩上一个瘦长骷髅掉落。从悬崖上下去时要小心。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Gravitas"><b>重力</b></a>', '<b>源自拥有石质皮肤的白王的战技。<br>将武器刺入地面，产生重力波，<br>能给予敌人伤害，同时将对方拉近自己。</b>', '在<b>[宁姆格福]</b>南部的<b>赐福[傍海古遗迹]</b>的海滩上一个瘦长骷髅掉落。从悬崖上下去时要小心。']
   - id: '12_7'
     icon: /img/icons/ashes_of_war/08331.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Sacred+Blade"><b>神圣刀刃</b></a>
-    - <b>让武器附加圣属性攻击力，<br>并且顺势释放黄金刀刃的战技。<br>附加圣属性攻击力的效果会暂时延续。</b>
-    - 在<b>[宁姆格福]</b><b>赐福[玛莉卡第三教堂]</b>北部的粪金龟掉落。在龙卷风跳跃点附近。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Sacred+Blade"><b>神圣刀刃</b></a>', '<b>让武器附加圣属性攻击力，<br>并且顺势释放黄金刀刃的战技。<br>附加圣属性攻击力的效果会暂时延续。</b>', '在<b>[宁姆格福]</b><b>赐福[玛莉卡第三教堂]</b>北部的粪金龟掉落。在龙卷风跳跃点附近。']
   - id: '12_4'
     icon: /img/icons/ashes_of_war/08423.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Golden+Vow"><b>黄金树立誓</b></a>
-    - <b>王城骑士们自古继承而来的战技。<br>将武器指向天空，发誓为黄金树而战，<br>提升自己与周围我方人物的攻击力与防御力。</b>
-    - 在<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[死亡降临的地下墓地]</b>上方悬崖上一个骑马的葛瑞克骑士掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Golden+Vow"><b>黄金树立誓</b></a>', '<b>王城骑士们自古继承而来的战技。<br>将武器指向天空，发誓为黄金树而战，<br>提升自己与周围我方人物的攻击力与防御力。</b>', '在<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[死亡降临的地下墓地]</b>上方悬崖上一个骑马的葛瑞克骑士掉落。']
   - id: '1_3'
     icon: /img/icons/ashes_of_war/08334.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Bloody+Slash"><b>鲜血斩击</b></a>
-    - <b>鲜血君王分享的力量，血盟战技之一。<br>压低身形，将自身的血液布满剑身，<br>使出大范围撕裂敌人的血刃。</b>
-    - 在<b>[海德要塞]</b>顶部的骑士掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Bloody+Slash"><b>鲜血斩击</b></a>', '<b>鲜血君王分享的力量，血盟战技之一。<br>压低身形，将自身的血液布满剑身，<br>使出大范围撕裂敌人的血刃。</b>', '在<b>[海德要塞]</b>顶部的骑士掉落。']
   - id: '13_6'
     icon: /img/icons/ashes_of_war/08362.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Parry"><b>格挡</b></a>
-    - <b>拨开攻击的同时，让敌人失去平衡的战技。<br>需要在敌人近距离攻击时配合使用。<br>失去平衡后，使出“致命一击”的机会随之到来。</b>
-    - 由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Parry"><b>格挡</b></a>', '<b>拨开攻击的同时，让敌人失去平衡的战技。<br>需要在敌人近距离攻击时配合使用。<br>失去平衡后，使出“致命一击”的机会随之到来。</b>', '由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。']
   - id: '13_11'
     icon: /img/icons/ashes_of_war/08364.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Storm+Wall"><b>风暴障壁</b></a>
-    - <b>挥动盾牌，在自身前方形成风暴障壁，<br>让箭之类的远攻道具偏移的战技。<br>也能发挥与战技“格挡”相同的功能。</b>
-    - 从桥上掉下来绕过<b>[史东薇尔城]</b>后的小区域内的粪金龟掉落。从<b>赐福[风暴山丘的破屋]</b>沿着路径向北走，不要左转到城堡。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Storm+Wall"><b>风暴障壁</b></a>', '<b>挥动盾牌，在自身前方形成风暴障壁，<br>让箭之类的远攻道具偏移的战技。<br>也能发挥与战技“格挡”相同的功能。</b>', '从桥上掉下来绕过<b>[史东薇尔城]</b>后的小区域内的粪金龟掉落。从<b>赐福[风暴山丘的破屋]</b>沿着路径向北走，不要左转到城堡。']
   - id: '13_5'
     icon: /img/icons/ashes_of_war/08367.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+No+Skill"><b>无战技</b></a>
-    - <b>武器没有战技。<br>如果另一边的武器具备战技，<br>会使用那一边的战技。</b>
-    - 由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+No+Skill"><b>无战技</b></a>', '<b>武器没有战技。<br>如果另一边的武器具备战技，<br>会使用那一边的战技。</b>', '由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。']
 - title: 啜泣半岛
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '13_4'
     icon: /img/icons/ashes_of_war/08382.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Mighty+Shot"><b>拉满弓</b></a>
-    - <b>能侧身拉弓的射手战技。<br>摆出架式后，用力拉满弓，<br>能提升箭的攻击威力，突破敌人防御。</b>
-    - 在<b>[啜泣半岛]</b><b>赐福[摩恩城（城墙前方）]</b>以北路口附近道路上的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Mighty+Shot"><b>拉满弓</b></a>', '<b>能侧身拉弓的射手战技。<br>摆出架式后，用力拉满弓，<br>能提升箭的攻击威力，突破敌人防御。</b>', '在<b>[啜泣半岛]</b><b>赐福[摩恩城（城墙前方）]</b>以北路口附近道路上的粪金龟掉落。']
   - id: '13_2'
     icon: /img/icons/ashes_of_war/08361.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Barricade+Shield"><b>铁壁盾防</b></a>
-    - <b>因骑士奈德哈特而闻名的战技。<br>将力量集中至盾牌，暂时强化盾牌的坚硬度，<br>能抵御更为强大的攻击。</b>
-    - 在<b>[啜泣半岛]</b><b>赐福[摩恩城（城墙前方）]</b>西边道路上的<b>[黑夜骑兵]</b>掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Barricade+Shield"><b>铁壁盾防</b></a>', '<b>因骑士奈德哈特而闻名的战技。<br>将力量集中至盾牌，暂时强化盾牌的坚硬度，<br>能抵御更为强大的攻击。</b>', '在<b>[啜泣半岛]</b><b>赐福[摩恩城（城墙前方）]</b>西边道路上的<b>[黑夜骑兵]</b>掉落。']
   - id: '14_1_1'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 从<b>[啜泣半岛]</b><b>赐福[隐居商人的破屋]</b>的<b>[隐居商人]</b>处购买。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '从<b>[啜泣半岛]</b><b>赐福[隐居商人的破屋]</b>的<b>[隐居商人]</b>处购买。']
 - title: 圆桌厅堂
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '8_5'
     icon: /img/icons/ashes_of_war/08333.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Glintstone+Pebble"><b>辉石魔砾</b></a>
-    - <b>能施展同名辉石魔法的战技。<br>发动后接着使出重攻击，能大幅向前跨出，<br>使出含有辉石魔力的突刺攻击。</b>
-    - 由<b>[魔法师罗杰尔]</b>在<b>[史东薇尔城]</b>或在<b>[圆桌厅堂]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Glintstone+Pebble"><b>辉石魔砾</b></a>', '<b>能施展同名辉石魔法的战技。<br>发动后接着使出重攻击，能大幅向前跨出，<br>使出含有辉石魔力的突刺攻击。</b>', '由<b>[魔法师罗杰尔]</b>在<b>[史东薇尔城]</b>或在<b>[圆桌厅堂]</b>出售。']
   - id: '8_4'
     icon: /img/icons/ashes_of_war/08330.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Glintblade+Phalanx"><b>辉剑圆阵</b></a>
-    - <b>侍奉卡利亚王室的魔法骑士们使用的战技。<br>让魔力辉剑浮空围成半圆，自动攻击敌人。<br>发动后接着使出重攻击，<br>能向前大幅跨出、突刺攻击。</b>
-    - 击败<b>[“接肢”葛瑞克]</b>后<b>[圆桌厅堂]</b>的<b>[魔法师罗杰尔]</b>给你。可从他的武器<b>[罗杰尔刺剑]</b>上卸下。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Glintblade+Phalanx"><b>辉剑圆阵</b></a>', '<b>侍奉卡利亚王室的魔法骑士们使用的战技。<br>让魔力辉剑浮空围成半圆，自动攻击敌人。<br>发动后接着使出重攻击，<br>能向前大幅跨出、突刺攻击。</b>', '击败<b>[“接肢”葛瑞克]</b>后<b>[圆桌厅堂]</b>的<b>[魔法师罗杰尔]</b>给你。可从他的武器<b>[罗杰尔刺剑]</b>上卸下。']
   - id: '8_2'
     icon: /img/icons/ashes_of_war/08346.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Carian+Greatsword"><b>卡利亚大剑</b></a>
-    - <b>喻为卡利亚王室象征的战技。<br>将剑身化为魔力大剑，再向下挥舞。<br>借由蓄力发动，能提升威力。</b>
-    - 由<b>[魔法师罗杰尔]</b>在<b>[史东薇尔城]</b>或在<b>[圆桌厅堂]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Carian+Greatsword"><b>卡利亚大剑</b></a>', '<b>喻为卡利亚王室象征的战技。<br>将剑身化为魔力大剑，再向下挥舞。<br>借由蓄力发动，能提升威力。</b>', '由<b>[魔法师罗杰尔]</b>在<b>[史东薇尔城]</b>或在<b>[圆桌厅堂]</b>出售。']
   - id: '8_8'
     icon: /img/icons/ashes_of_war/08318.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Spinning+Weapon"><b>转啊转</b></a>
-    - <b>卡利亚公主们防身用的战技。<br>将武器浮在自身前方高速旋转，<br>触碰到的人物会受到连击。</b>
-    - 由<b>[魔法师罗杰尔]</b>在<b>[史东薇尔城]</b>或在<b>[圆桌厅堂]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Spinning+Weapon"><b>转啊转</b></a>', '<b>卡利亚公主们防身用的战技。<br>将武器浮在自身前方高速旋转，<br>触碰到的人物会受到连击。</b>', '由<b>[魔法师罗杰尔]</b>在<b>[史东薇尔城]</b>或在<b>[圆桌厅堂]</b>出售。']
 - title: 湖之利耶尼亚
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '5_1'
     icon: /img/icons/ashes_of_war/08440.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Barbaric+Roar"><b>野蛮咆哮</b></a>
-    - <b>发出野兽般的咆哮，<br>借此激励自己，提升攻击力的战技。<br>在战技有效期间内，重攻击会变成野蛮连击。</b>
-    - 在<b>[利耶尼亚]</b>北部<b>[谷底秘村]</b>的粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Barbaric+Roar"><b>野蛮咆哮</b></a>', '<b>发出野兽般的咆哮，<br>借此激励自己，提升攻击力的战技。<br>在战技有效期间内，重攻击会变成野蛮连击。</b>', '在<b>[利耶尼亚]</b>北部<b>[谷底秘村]</b>的粪金龟。']
   - id: '6_10'
     icon: /img/icons/ashes_of_war/08321.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Sword+Dance"><b>剑舞</b></a>
-    - <b>一边迅速向前推进，<br>一边使出连续旋身上砍的战技。<br>再次发动能使出迅速下砍。</b>
-    - <b>[利耶尼亚]</b>西南小黄金树西边悬崖下有水母的小路上的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Sword+Dance"><b>剑舞</b></a>', '<b>一边迅速向前推进，<br>一边使出连续旋身上砍的战技。<br>再次发动能使出迅速下砍。</b>', '<b>[利耶尼亚]</b>西南小黄金树西边悬崖下有水母的小路上的粪金龟掉落。']
   - id: '6_7'
     icon: /img/icons/ashes_of_war/08482.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Raptor+of+the+Mists"><b>潜雾猛禽</b></a>
-    - <b>压低身形，瞬间消失身影的战技。<br>受到攻击时能长出猛禽翅膀，<br>瞬间一跃而起。</b>
-    - 在<b>[“血指猎人”尤拉]</b>任务线，在<b>[利耶尼亚]</b>的<b>赐福[学院正门口]</b>处击败目标时获得
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Raptor+of+the+Mists"><b>潜雾猛禽</b></a>', '<b>压低身形，瞬间消失身影的战技。<br>受到攻击时能长出猛禽翅膀，<br>瞬间一跃而起。</b>', '在<b>[“血指猎人”尤拉]</b>任务线，在<b>[利耶尼亚]</b>的<b>赐福[学院正门口]</b>处击败目标时获得']
   - id: '11_1'
     icon: /img/icons/ashes_of_war/08304.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Charge+Forth"><b>突击</b></a>
-    - <b>武器及腰摆出架式，再一口气向前冲的战技。<br>前进到极限后能使出突刺攻击。<br>持续发动能增加移动距离。</b>
-    - <b>[利耶尼亚]</b><b>赐福[湖中坠落遗迹]</b>的北面桥下挂着的粪金龟。需要手动瞄准攻击。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Charge+Forth"><b>突击</b></a>', '<b>武器及腰摆出架式，再一口气向前冲的战技。<br>前进到极限后能使出突刺攻击。<br>持续发动能增加移动距离。</b>', '<b>[利耶尼亚]</b><b>赐福[湖中坠落遗迹]</b>的北面桥下挂着的粪金龟。需要手动瞄准攻击。']
   - id: '11_6'
     icon: /img/icons/ashes_of_war/08310.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Spinning+Strikes"><b>回旋击</b></a>
-    - <b>大幅度旋转长柄武器的战技。<br>持续发动的期间能一直攻击，<br>接着使出轻攻击或重攻击，能追加攻击。<br>旋转武器时，能拨开箭等等的远攻道具。</b>
-    - <b>[复仇者的破屋]</b>处<b>[城主艾德格]</b>掉落，可从他的武器<b>[失乡骑士戟]</b> +8上卸下
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Spinning+Strikes"><b>回旋击</b></a>', '<b>大幅度旋转长柄武器的战技。<br>持续发动的期间能一直攻击，<br>接着使出轻攻击或重攻击，能追加攻击。<br>旋转武器时，能拨开箭等等的远攻道具。</b>', '<b>[复仇者的破屋]</b>处<b>[城主艾德格]</b>掉落，可从他的武器<b>[失乡骑士戟]</b> +8上卸下']
   - id: '11_3'
     icon: /img/icons/ashes_of_war/08315.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Giant+Hunt"><b>狩猎巨人</b></a>
-    - <b>挑战体型比自己大的敌人而有的战技。<br>压低身形稳住姿势，向前踏出，<br>接着顺势由下而上突刺敌人。</b>
-    - 由<b>[利耶尼亚]</b>北边<b>赐福[彼鲁姆教堂]</b>南边路上的<b>[黑夜骑兵]</b>掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Giant+Hunt"><b>狩猎巨人</b></a>', '<b>挑战体型比自己大的敌人而有的战技。<br>压低身形稳住姿势，向前踏出，<br>接着顺势由下而上突刺敌人。</b>', '由<b>[利耶尼亚]</b>北边<b>赐福[彼鲁姆教堂]</b>南边路上的<b>[黑夜骑兵]</b>掉落。']
   - id: '8_1'
     icon: /img/icons/ashes_of_war/08345.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Carian+Grandeur"><b>伟哉卡利亚</b></a>
-    - <b>喻为卡利亚王室象征的战技。<br>将剑身化为魔力大剑，再向下挥舞。<br>借由蓄力发动，能提升两个阶段。</b>
-    - 在<b>[利耶尼亚]</b><b>[卡利亚城寨]</b>一个拱门顶部的尸体上发现。爬上楼梯，经过巨人，左转，穿过门，直到第二个悬崖顶上有一个大壶。从这里应该可以看到拱门。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Carian+Grandeur"><b>伟哉卡利亚</b></a>', '<b>喻为卡利亚王室象征的战技。<br>将剑身化为魔力大剑，再向下挥舞。<br>借由蓄力发动，能提升两个阶段。</b>', '在<b>[利耶尼亚]</b><b>[卡利亚城寨]</b>一个拱门顶部的尸体上发现。爬上楼梯，经过巨人，左转，穿过门，直到第二个悬崖顶上有一个大壶。从这里应该可以看到拱门。']
   - id: '8_7'
     icon: /img/icons/ashes_of_war/08316.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Loretta's+Slash"><b>罗蕾塔的斩击</b></a>
-    - <b>禁卫骑士罗蕾塔的战技。<br>向前跳的同时，将辉石的魔力灌入剑身，<br>再加快速度瞬间斩下。</b>
-    - 在<b>[利耶尼亚]</b><b>[卡利亚城寨]</b>中的<b>[禁卫骑士罗蕾塔]</b>掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Loretta''s+Slash"><b>罗蕾塔的斩击</b></a>', '<b>禁卫骑士罗蕾塔的战技。<br>向前跳的同时，将辉石的魔力灌入剑身，<br>再加快速度瞬间斩下。</b>', '在<b>[利耶尼亚]</b><b>[卡利亚城寨]</b>中的<b>[禁卫骑士罗蕾塔]</b>掉落。']
   - id: '12_11'
     icon: /img/icons/ashes_of_war/08461.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Vow+of+the+Indomitable"><b>无敌</b></a>
-    - <b>黄金树的古老战士们使用的战技。<br>高举盾牌，让黄金力量充满全身，<br>能够瞬间呈现无敌状态。</b>
-    - 在<b>[利耶尼亚]</b>湖南方<b>赐福[湖畔凉亭]</b>以南有毒沼泽地区的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Vow+of+the+Indomitable"><b>无敌</b></a>', '<b>黄金树的古老战士们使用的战技。<br>高举盾牌，让黄金力量充满全身，<br>能够瞬间呈现无敌状态。</b>', '在<b>[利耶尼亚]</b>湖南方<b>赐福[湖畔凉亭]</b>以南有毒沼泽地区的粪金龟掉落。']
   - id: '2_3'
     icon: /img/icons/ashes_of_war/08332.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Ice+Spear"><b>冰枪</b></a>
-    - <b>侍奉“月之公主”菈妮的战士使用的战技。<br>旋转武器之余唤出寒气，<br>再顺势使出突刺，释放冰枪。</b>
-    - 由<b>[利耶尼亚]</b>东部<b>赐福[门前镇大桥]</b>东南方的<b>[黑夜骑兵]</b>掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Ice+Spear"><b>冰枪</b></a>', '<b>侍奉“月之公主”菈妮的战士使用的战技。<br>旋转武器之余唤出寒气，<br>再顺势使出突刺，释放冰枪。</b>', '由<b>[利耶尼亚]</b>东部<b>赐福[门前镇大桥]</b>东南方的<b>[黑夜骑兵]</b>掉落。']
   - id: '2_1'
     icon: /img/icons/ashes_of_war/08353.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Chilling+Mist"><b>寒气冻雾</b></a>
-    - <b>让武器缠绕寒气后使出斩击，<br>并在前方形成冻雾的战技。<br>缠绕武器上的寒气会暂时延续。</b>
-    - 由<b>[蕾娜魔法师塔]</b>南部废墟的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Chilling+Mist"><b>寒气冻雾</b></a>', '<b>让武器缠绕寒气后使出斩击，<br>并在前方形成冻雾的战技。<br>缠绕武器上的寒气会暂时延续。</b>', '由<b>[蕾娜魔法师塔]</b>南部废墟的粪金龟掉落。']
   - id: '2_2'
     icon: /img/icons/ashes_of_war/08400.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Hoarfrost+Stomp"><b>冻霜踏地</b></a>
-    - <b>大力踏向地面，让冻霜随之扩散的战技。<br>冻霜会引发异常状态冻伤。</b>
-    - 在<b>[卡利亚城寨]</b>东南的水里一个看不见的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Hoarfrost+Stomp"><b>冻霜踏地</b></a>', '<b>大力踏向地面，让冻霜随之扩散的战技。<br>冻霜会引发异常状态冻伤。</b>', '在<b>[卡利亚城寨]</b>东南的水里一个看不见的粪金龟掉落。']
   - id: '9_3'
     icon: /img/icons/ashes_of_war/08352.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Spectral+Lance"><b>幻影枪</b></a>
-    - <b>无头灵庙骑士使用的战技。<br>能形成幻影枪，投掷攻击。</b>
-    - 在<b>[魔法学院雷亚卢卡利亚]</b>学院的粪金龟掉落。从<b>赐福[杜鹃教堂]</b>向前穿过这个区域，直到你到达由许多狗守卫的石墙。从城墙的门往北走，在墓碑和树之间有一个斜坡，底部有粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Spectral+Lance"><b>幻影枪</b></a>', '<b>无头灵庙骑士使用的战技。<br>能形成幻影枪，投掷攻击。</b>', '在<b>[魔法学院雷亚卢卡利亚]</b>学院的粪金龟掉落。从<b>赐福[杜鹃教堂]</b>向前穿过这个区域，直到你到达由许多狗守卫的石墙。从城墙的门往北走，在墓碑和树之间有一个斜坡，底部有粪金龟。']
   - id: '13_8'
     icon: /img/icons/ashes_of_war/08360.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Shield+Bash"><b>盾牌冲击</b></a>
-    - <b>架稳盾牌、防御的同时，<br>利用全身的重量向前冲撞的战技。<br>对弱小的敌人使出，能让对方失去平衡。</b>
-    - 由<b>赐福[东门桥的桥柱]</b>东北方向的传送粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Shield+Bash"><b>盾牌冲击</b></a>', '<b>架稳盾牌、防御的同时，<br>利用全身的重量向前冲撞的战技。<br>对弱小的敌人使出，能让对方失去平衡。</b>', '由<b>赐福[东门桥的桥柱]</b>东北方向的传送粪金龟掉落。']
   - id: '8_9'
     icon: /img/icons/ashes_of_war/08368.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Thops's+Barrier"><b>托普斯的力场</b></a>
-    - <b>张开魔力力场的同时挥动盾牌，<br>能拨开魔法、祷告的战技。<br>也能发挥与战技“格挡”相同的功能。</b>
-    - 在<b>[伊利斯教堂]</b>中的粪金龟掉落，在<b>[魔法师托普斯]</b>离开移动到学院后才会生成。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Thops''s+Barrier"><b>托普斯的力场</b></a>', '<b>张开魔力力场的同时挥动盾牌，<br>能拨开魔法、祷告的战技。<br>也能发挥与战技“格挡”相同的功能。</b>', '在<b>[伊利斯教堂]</b>中的粪金龟掉落，在<b>[魔法师托普斯]</b>离开移动到学院后才会生成。']
   - id: '8_3'
     icon: /img/icons/ashes_of_war/08363.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Carian+Retaliation"><b>卡利亚式奉还</b></a>
-    - <b>挥动盾牌消除魔法、祷告的效用，<br>再用承受的力量化为浮空辉剑的战技。<br>也能发挥与战技“格挡”相同的功能。</b>
-    - 由<b>[利耶尼亚]</b><b>[卡利亚城寨]</b>的<b>[仆人毕迪]</b>。<b>[仆人毕迪]</b>可以通过从<b>[三姊妹塔]</b>东南侧的悬崖上下落找到。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Carian+Retaliation"><b>卡利亚式奉还</b></a>', '<b>挥动盾牌消除魔法、祷告的效用，<br>再用承受的力量化为浮空辉剑的战技。<br>也能发挥与战技“格挡”相同的功能。</b>', '由<b>[利耶尼亚]</b><b>[卡利亚城寨]</b>的<b>[仆人毕迪]</b>。<b>[仆人毕迪]</b>可以通过从<b>[三姊妹塔]</b>东南侧的悬崖上下落找到。']
   - id: '14_1_2'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 从<b>赐福[学院正门口]</b>东边<b>[隐居商人]</b>处购买。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '从<b>赐福[学院正门口]</b>东边<b>[隐居商人]</b>处购买。']
   - id: '14_1_3'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 从<b>[魔法学院雷亚卢卡利亚]</b>风车底部的区域向西跳上水晶后拾取。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '从<b>[魔法学院雷亚卢卡利亚]</b>风车底部的区域向西跳上水晶后拾取。']
   - id: '14_1_7'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 在赐福点<b>[古遗迹断崖（对岸）]</b>往回电梯下去，高台后面的悬崖边缘尸体上。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '在赐福点<b>[古遗迹断崖（对岸）]</b>往回电梯下去，高台后面的悬崖边缘尸体上。']
 - title: 盖利德
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '5_9'
     icon: /img/icons/ashes_of_war/08300.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Lion's+Claw"><b>狮子斩</b></a>
-    - <b>与拉塔恩将军并肩作战的<br>红狮子军队所使用的战技。<br>能朝前方跳跃，一边旋身一边以武器敲击。</b>
-    - <b>[盖尔要塞]</b>东边的狮子守卫掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Lion''s+Claw"><b>狮子斩</b></a>', '<b>与拉塔恩将军并肩作战的<br>红狮子军队所使用的战技。<br>能朝前方跳跃，一边旋身一边以武器敲击。</b>', '<b>[盖尔要塞]</b>东边的狮子守卫掉落。']
   - id: '5_3'
     icon: /img/icons/ashes_of_war/08427.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Cragblade"><b>岩石剑</b></a>
-    - <b>以重力招式为人知晓的战技。<br>将武器敲向地面，让岩石攀附其上。<br>能提升攻击力，也容易让敌人失去平衡。</b>
-    - 在<b>[盖利德]</b>南部<b>赐福[不破大桥]</b>西边的粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Cragblade"><b>岩石剑</b></a>', '<b>以重力招式为人知晓的战技。<br>将武器敲向地面，让岩石攀附其上。<br>能提升攻击力，也容易让敌人失去平衡。</b>', '在<b>[盖利德]</b>南部<b>赐福[不破大桥]</b>西边的粪金龟。']
   - id: '6_3'
     icon: /img/icons/ashes_of_war/08311.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Double+Slash"><b>二连斩</b></a>
-    - <b>杰出剑士的战技。<br>压低身形后，使出连续的交错斩击。<br>再次发动能使出最多两次的追击。</b>
-    - 在<b>[盖利德]</b><b>[魔法镇瑟利亚]</b>楼梯下的赐福点西南的屋顶上的粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Double+Slash"><b>二连斩</b></a>', '<b>杰出剑士的战技。<br>压低身形后，使出连续的交错斩击。<br>再次发动能使出最多两次的追击。</b>', '在<b>[盖利德]</b><b>[魔法镇瑟利亚]</b>楼梯下的赐福点西南的屋顶上的粪金龟。']
   - id: '6_2'
     icon: /img/icons/ashes_of_war/08481.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Bloodhound's+Step"><b>猎犬步法</b></a>
-    - <b>能瞬间消失身影，以踏步移动的战技。<br>移动速度快，距离也长。<br>在锁定目标的状态下使用，能以目标为中心移动。</b>
-    - 在<b>[盖利德]</b><b>[雷恩魔法师塔]</b>以北的桥上<b>[黑夜骑兵]</b>掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Bloodhound''s+Step"><b>猎犬步法</b></a>', '<b>能瞬间消失身影，以踏步移动的战技。<br>移动速度快，距离也长。<br>在锁定目标的状态下使用，能以目标为中心移动。</b>', '在<b>[盖利德]</b><b>[雷恩魔法师塔]</b>以北的桥上<b>[黑夜骑兵]</b>掉落。']
   - id: '6_1'
     icon: /img/icons/ashes_of_war/08442.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Beast's+Roar"><b>野兽咆哮</b></a>
-    - <b>发出野兽般的咆哮，划破空气，<br>将咆哮声化成球体释放的战技。</b>
-    - 在<b>[盖利德]</b>的<b>[野兽神殿]</b>处，交第4个<b>[死根]</b>给<b>[“野兽祭司”古兰格]</b>的奖励
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Beast''s+Roar"><b>野兽咆哮</b></a>', '<b>发出野兽般的咆哮，划破空气，<br>将咆哮声化成球体释放的战技。</b>', '在<b>[盖利德]</b>的<b>[野兽神殿]</b>处，交第4个<b>[死根]</b>给<b>[“野兽祭司”古兰格]</b>的奖励']
   - id: '3_3'
     icon: /img/icons/ashes_of_war/08342.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Flaming+Strike"><b>炎击</b></a>
-    - <b>朝前方大范围释放火焰的战技。<br>发动后接着使出重攻击，<br>能向前跨出、横扫攻击，并让武器缠绕火焰。</b>
-    - <b>[盖利德]</b><b>[红狮子城]</b>南墙外的粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Flaming+Strike"><b>炎击</b></a>', '<b>朝前方大范围释放火焰的战技。<br>发动后接着使出重攻击，<br>能向前跨出、横扫攻击，并让武器缠绕火焰。</b>', '<b>[盖利德]</b><b>[红狮子城]</b>南墙外的粪金龟。']
   - id: '3_2'
     icon: /img/icons/ashes_of_war/08404.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Flame+of+the+Redmanes"><b>红狮子火焰</b></a>
-    - <b>与拉塔恩将军并肩作战的<br>红狮子军队所使用的战技。<br>能朝前方释放大范围的强烈火焰。</b>
-    - <b>[盖利德]</b>西部<b>赐福[盖尔要塞北方]</b>附近的隐形粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Flame+of+the+Redmanes"><b>红狮子火焰</b></a>', '<b>与拉塔恩将军并肩作战的<br>红狮子军队所使用的战技。<br>能朝前方释放大范围的强烈火焰。</b>', '<b>[盖利德]</b>西部<b>赐福[盖尔要塞北方]</b>附近的隐形粪金龟掉落。']
   - id: '12_9'
     icon: /img/icons/ashes_of_war/08349.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Sacred+Ring+of+Light"><b>神圣光环</b></a>
-    - <b>尊腐骑士的指挥官使用的战技。<br>让武器形成神圣光环，朝前方释放。<br>可以连续施放。</b>
-    - 在<b>[盖利德]</b><b>赐福[艾奥尼亚中心地]</b>以东艾奥尼亚沼泽东部边缘的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Sacred+Ring+of+Light"><b>神圣光环</b></a>', '<b>尊腐骑士的指挥官使用的战技。<br>让武器形成神圣光环，朝前方释放。<br>可以连续施放。</b>', '在<b>[盖利德]</b><b>赐福[艾奥尼亚中心地]</b>以东艾奥尼亚沼泽东部边缘的粪金龟掉落。']
   - id: '10_2'
     icon: /img/icons/ashes_of_war/08354.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Poisonous+Mist"><b>毒雾</b></a>
-    - <b>让武器缠绕毒之后使出斩击，<br>并在前方形成毒雾的战技，<br>缠绕武器上的毒会暂时延续。</b>
-    - 在<b>[盖利德]</b><b>赐福[艾奥尼亚沼泽（岸边）]</b>东南<b>[艾奥尼亚沼泽]</b>南部的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Poisonous+Mist"><b>毒雾</b></a>', '<b>让武器缠绕毒之后使出斩击，<br>并在前方形成毒雾的战技，<br>缠绕武器上的毒会暂时延续。</b>', '在<b>[盖利德]</b><b>赐福[艾奥尼亚沼泽（岸边）]</b>东南<b>[艾奥尼亚沼泽]</b>南部的粪金龟掉落。']
   - id: '10_1'
     icon: /img/icons/ashes_of_war/08317.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Poison+Moth+Flight"><b>双吻毒蛾</b></a>
-    - <b>在剑刃涂上强效毒，砍向敌人的战技。<br>对上陷入中毒状态的敌人，<br>如果成功使出追击，能一口气给予大伤害。</b>
-    - 在<b>[盖利德]</b><b>赐福[盖利德大道南方]</b>和<b>赐福[艾奥尼亚沼泽（南岸）]</b>之间道路上的<b>[黑夜骑兵]</b>掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Poison+Moth+Flight"><b>双吻毒蛾</b></a>', '<b>在剑刃涂上强效毒，砍向敌人的战技。<br>对上陷入中毒状态的敌人，<br>如果成功使出追击，能一口气给予大伤害。</b>', '在<b>[盖利德]</b><b>赐福[盖利德大道南方]</b>和<b>赐福[艾奥尼亚沼泽（南岸）]</b>之间道路上的<b>[黑夜骑兵]</b>掉落。']
   - id: '9_2'
     icon: /img/icons/ashes_of_war/08335.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Lifesteal+Fist"><b>夺命拳</b></a>
-    - <b>精通气的专家使用的战技。<br>只对有着人类之身的敌人有效。<br>将气缓慢缠绕拳头之后再出拳，<br>能让碰触的人昏倒，夺取血量。</b>
-    - 在<b>[盖利德]</b><b>赐福[盖利德大道北方（偏离大道后）]</b>西边路上的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Lifesteal+Fist"><b>夺命拳</b></a>', '<b>精通气的专家使用的战技。<br>只对有着人类之身的敌人有效。<br>将气缓慢缠绕拳头之后再出拳，<br>能让碰触的人昏倒，夺取血量。</b>', '在<b>[盖利德]</b><b>赐福[盖利德大道北方（偏离大道后）]</b>西边路上的粪金龟掉落。']
   - id: '13_10'
     icon: /img/icons/ashes_of_war/08384.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Sky+Shot"><b>对空射击</b></a>
-    - <b>压低身形拉弓的射手战技。<br>摆出架式后，朝天空射出箭，<br>箭会从敌人上方落下。</b>
-    - 在<b>[桂奥尔龙墓]</b>西部沿着<b>赐福[隐居商人的破屋]</b>的悬崖西北的粪金龟扔下。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Sky+Shot"><b>对空射击</b></a>', '<b>压低身形拉弓的射手战技。<br>摆出架式后，朝天空射出箭，<br>箭会从敌人上方落下。</b>', '在<b>[桂奥尔龙墓]</b>西部沿着<b>赐福[隐居商人的破屋]</b>的悬崖西北的粪金龟扔下。']
   - id: '13_7'
     icon: /img/icons/ashes_of_war/08385.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Rain+of+Arrows"><b>箭雨</b></a>
-    - <b>压低身形拉弓的战技。<br>摆出架式后，朝天空一口气射出多支箭，<br>箭会如雨一般，从敌人上方倾注而下。</b>
-    - 解决<b>[魔法镇瑟利亚]</b>中发现的<b>[红狮子城]</b>的绘画奖励，可以在<b>[桂奥尔龙墓]</b>东部<b>[小黄金树]</b>的悬崖上找到画家灵魂。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Rain+of+Arrows"><b>箭雨</b></a>', '<b>压低身形拉弓的战技。<br>摆出架式后，朝天空一口气射出多支箭，<br>箭会如雨一般，从敌人上方倾注而下。</b>', '解决<b>[魔法镇瑟利亚]</b>中发现的<b>[红狮子城]</b>的绘画奖励，可以在<b>[桂奥尔龙墓]</b>东部<b>[小黄金树]</b>的悬崖上找到画家灵魂。']
   - id: '14_1_5'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - (2个) 在<b>[盖利德]</b><b>[桂奥尔龙墓]</b>的<b>[隐居商人的破屋]</b>的<b>[隐居商人]</b>处购买。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '(2个) 在<b>[盖利德]</b><b>[桂奥尔龙墓]</b>的<b>[隐居商人的破屋]</b>的<b>[隐居商人]</b>处购买。']
   - id: '14_1_6'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 在<b>[瑟利亚隐藏洞窟]</b>底部王室幽魂守卫的一个尸体上。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '在<b>[瑟利亚隐藏洞窟]</b>底部王室幽魂守卫的一个尸体上。']
 - title: 亚坛高原
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '5_4'
     icon: /img/icons/ashes_of_war/08340.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Earthshaker"><b>撼地</b></a>
-    - <b>将武器刺入地面后，再向下使力<br>产生冲击波，引发剧烈摇晃的战技。<br>发动后接着使出重攻击，<br>能回旋横扫攻击。</b>
-    - 在<b>[亚坛高原]</b>南部<b>赐福[亚坛大道的三叉口]</b>西南路口静止的隐形粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Earthshaker"><b>撼地</b></a>', '<b>将武器刺入地面后，再向下使力<br>产生冲击波，引发剧烈摇晃的战技。<br>发动后接着使出重攻击，<br>能回旋横扫攻击。</b>', '在<b>[亚坛高原]</b>南部<b>赐福[亚坛大道的三叉口]</b>西南路口静止的隐形粪金龟。']
   - id: '6_5'
     icon: /img/icons/ashes_of_war/08302.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Piercing+Fang"><b>突刺</b></a>
-    - <b>“血指猎人”尤拉的战技。<br>举起武器与地面平行，再一口气贯穿敌人。<br>此战技无法用防御挡下。</b>
-    - <b>[“血指猎人”尤拉]</b>死亡或任务中掉落，可从他的武器<b>[长牙]</b>上卸下。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Piercing+Fang"><b>突刺</b></a>', '<b>“血指猎人”尤拉的战技。<br>举起武器与地面平行，再一口气贯穿敌人。<br>此战技无法用防御挡下。</b>', '<b>[“血指猎人”尤拉]</b>死亡或任务中掉落，可从他的武器<b>[长牙]</b>上卸下。']
   - id: '7_2'
     icon: /img/icons/ashes_of_war/08344.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Lightning+Slash"><b>雷击斩</b></a>
-    - <b>让雷电打在武器上，再向下挥舞，<br>形成强力雷击的战技。<br>缠绕武器上的雷电会暂时延续。</b>
-    - 由<b>[亚坛高原]</b><b>赐福[遁世商人的破屋]</b>西北，城墙外小营地的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Lightning+Slash"><b>雷击斩</b></a>', '<b>让雷电打在武器上，再向下挥舞，<br>形成强力雷击的战技。<br>缠绕武器上的雷电会暂时延续。</b>', '由<b>[亚坛高原]</b><b>赐福[遁世商人的破屋]</b>西北，城墙外小营地的粪金龟掉落。']
   - id: '7_1'
     icon: /img/icons/ashes_of_war/08403.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Lightning+Ram"><b>雷电羊球</b></a>
-    - <b>仿效向前滚的羊而出现的战技。<br>发出叫声后，能缠绕雷电向前滚动，<br>可以连续滚动。</b>
-    - <b>[亚坛高原]</b><b>[唤雷教堂]</b>以东<b>[尊贵者的英雄墓地]</b>东南的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Lightning+Ram"><b>雷电羊球</b></a>', '<b>仿效向前滚的羊而出现的战技。<br>发出叫声后，能缠绕雷电向前滚动，<br>可以连续滚动。</b>', '<b>[亚坛高原]</b><b>[唤雷教堂]</b>以东<b>[尊贵者的英雄墓地]</b>东南的粪金龟掉落。']
   - id: '12_8'
     icon: /img/icons/ashes_of_war/08424.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Sacred+Order"><b>圣律</b></a>
-    - <b>黄金律法基本主义者的骑士们使用的战技。<br>敬礼的同时，能替武器附加神圣性。<br>对死诞者的伤害尤为巨大。</b>
-    - 在<b>[亚坛高原]</b>南边<b>赐福[弃置棺材]</b>西北方向的粪金龟掉落。在水边西方的小路上。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Sacred+Order"><b>圣律</b></a>', '<b>黄金律法基本主义者的骑士们使用的战技。<br>敬礼的同时，能替武器附加神圣性。<br>对死诞者的伤害尤为巨大。</b>', '在<b>[亚坛高原]</b>南边<b>赐福[弃置棺材]</b>西北方向的粪金龟掉落。在水边西方的小路上。']
   - id: '12_10'
     icon: /img/icons/ashes_of_war/08425.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Shared+Order"><b>共享圣律</b></a>
-    - <b>黄金律法基本主义者的骑士们使用的战技。<br>能替自身与周围我方人物的武器附加神圣性。<br>对死诞者的伤害尤为巨大。</b>
-    - 在<b>[亚坛高原]</b><b>赐福[亚坛大道的三叉口]</b>西南路上的<b>[黑夜骑兵]</b>掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Shared+Order"><b>共享圣律</b></a>', '<b>黄金律法基本主义者的骑士们使用的战技。<br>能替自身与周围我方人物的武器附加神圣性。<br>对死诞者的伤害尤为巨大。</b>', '在<b>[亚坛高原]</b><b>赐福[亚坛大道的三叉口]</b>西南路上的<b>[黑夜骑兵]</b>掉落。']
   - id: '12_3'
     icon: /img/icons/ashes_of_war/08406.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Golden+Slam"><b>黄金坠落震击</b></a>
-    - <b>守护小黄金树的化身使用的战技。<br>能轻盈向前跳，用臀部用力向下坠落，<br>此攻击能引发黄金冲击波。</b>
-    - 在<b>[亚坛高原]</b><b>[森林之民的废墟]</b>西北<b>[小黄金树]</b>东北的的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Golden+Slam"><b>黄金坠落震击</b></a>', '<b>守护小黄金树的化身使用的战技。<br>能轻盈向前跳，用臀部用力向下坠落，<br>此攻击能引发黄金冲击波。</b>', '在<b>[亚坛高原]</b><b>[森林之民的废墟]</b>西北<b>[小黄金树]</b>东北的的粪金龟掉落。']
   - id: '1_1'
     icon: /img/icons/ashes_of_war/08350.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Blood+Blade"><b>血刃</b></a>
-    - <b>自伤后用血液沾染武器，<br>释放能引发出血的血刃的战技。<br>可以连续施放。</b>
-    - 在<b>[亚坛高原]</b><b>赐福[近黄金树的山丘]</b>东北方向，一只在水上飞行的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Blood+Blade"><b>血刃</b></a>', '<b>自伤后用血液沾染武器，<br>释放能引发出血的血刃的战技。<br>可以连续施放。</b>', '在<b>[亚坛高原]</b><b>赐福[近黄金树的山丘]</b>东北方向，一只在水上飞行的粪金龟掉落。']
   - id: '12_2'
     icon: /img/icons/ashes_of_war/08365.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Golden+Parry"><b>黄金格挡</b></a>
-    - <b>执行黄金树祷告的同时挥动盾牌，<br>让敌人的攻击偏移，并失去平衡的战技。<br>与敌人有些距离也能产生效用。</b>
-    - 在<b>[亚坛高原]</b><b>[王城外围]</b><b>赐福[城外战场遗迹]</b>南边楼梯左侧会消失的粪金龟掉落，在， 中。小心接近这粪金龟，因为它会立即消失。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Golden+Parry"><b>黄金格挡</b></a>', '<b>执行黄金树祷告的同时挥动盾牌，<br>让敌人的攻击偏移，并失去平衡的战技。<br>与敌人有些距离也能产生效用。</b>', '在<b>[亚坛高原]</b><b>[王城外围]</b><b>赐福[城外战场遗迹]</b>南边楼梯左侧会消失的粪金龟掉落，在， 中。小心接近这粪金龟，因为它会立即消失。']
   - id: '13_9'
     icon: /img/icons/ashes_of_war/08366.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Shield+Crash"><b>突进冲击</b></a>
-    - <b>用双手共持盾牌，<br>防御的同时，向前突进的战技。<br>对弱小的敌人使出，能让对方失去平衡。<br>持续发动能增加移动距离。</b>
-    - 在<b>[亚坛高原]</b>东部<b>赐福[近黄金树的山丘]</b>上方<b>[卢克斯废墟]</b>内会消失的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Shield+Crash"><b>突进冲击</b></a>', '<b>用双手共持盾牌，<br>防御的同时，向前突进的战技。<br>对弱小的敌人使出，能让对方失去平衡。<br>持续发动能增加移动距离。</b>', '在<b>[亚坛高原]</b>东部<b>赐福[近黄金树的山丘]</b>上方<b>[卢克斯废墟]</b>内会消失的粪金龟掉落。']
   - id: '14_1_8'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 在<b>[贤者的洞窟]</b>经过第一个骷髅民兵后的宝箱里。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '在<b>[贤者的洞窟]</b>经过第一个骷髅民兵后的宝箱里。']
 - title: 格密尔火山
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '11_5'
     icon: /img/icons/ashes_of_war/08421.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Royal+Knight's+Resolve"><b>侍王骑士的决心</b></a>
-    - <b>过去侍奉艾尔登之王的骑士们使用的战技。<br>将武器移向眼前、指向天空，坚定决心，<br>大幅提升下一记攻击的威力。</b>
-    - 在<b>[火山官邸]</b>中小恶魔像后面的笼子房间底部发现。在到达<b>[火山官邸]</b> Boss的传送门后，你应该会发现附近的小恶魔像。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Royal+Knight''s+Resolve"><b>侍王骑士的决心</b></a>', '<b>过去侍奉艾尔登之王的骑士们使用的战技。<br>将武器移向眼前、指向天空，坚定决心，<br>大幅提升下一记攻击的威力。</b>', '在<b>[火山官邸]</b>中小恶魔像后面的笼子房间底部发现。在到达<b>[火山官邸]</b> Boss的传送门后，你应该会发现附近的小恶魔像。']
   - id: '3_1'
     icon: /img/icons/ashes_of_war/08336.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Eruption"><b>熔岩火浆</b></a>
-    - <b>侍奉火山官邸的骑士们使用的战技。<br>将武器敲向地面，形成滚烫熔岩，<br>在拔起武器的同时，熔岩随之喷出。</b>
-    - 由<b>[骑士贝纳尔]</b>在<b>[火山官邸]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Eruption"><b>熔岩火浆</b></a>', '<b>侍奉火山官邸的骑士们使用的战技。<br>将武器敲向地面，形成滚烫熔岩，<br>在拔起武器的同时，熔岩随之喷出。</b>', '由<b>[骑士贝纳尔]</b>在<b>[火山官邸]</b>出售。']
   - id: '9_1'
     icon: /img/icons/ashes_of_war/08422.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Assassin's+Gambit"><b>暗杀办法</b></a>
-    - <b>自伤之后，消除自身存在的战技。<br>能让施放者的身影难以辨认，<br>也能消除施放者的脚步声。</b>
-    - 由<b>[骑士贝纳尔]</b>在<b>[火山官邸]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Assassin''s+Gambit"><b>暗杀办法</b></a>', '<b>自伤之后，消除自身存在的战技。<br>能让施放者的身影难以辨认，<br>也能消除施放者的脚步声。</b>', '由<b>[骑士贝纳尔]</b>在<b>[火山官邸]</b>出售。']
   - id: '13_12'
     icon: /img/icons/ashes_of_war/08380.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Through+and+Through"><b>贯穿射击</b></a>
-    - <b>能侧身拉开大弓，强大的射手战技。<br>拉开大弓的同时也扭转弓弦，<br>增加大箭的旋转度，借此贯穿敌人的身体。</b>
-    - 在<b>[格密尔火山]</b><b>赐福[移送罪人之路]</b>西北方向，也是<b>[火山官邸]</b>入口的西北方向，一只隐形粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Through+and+Through"><b>贯穿射击</b></a>', '<b>能侧身拉开大弓，强大的射手战技。<br>拉开大弓的同时也扭转弓弦，<br>增加大箭的旋转度，借此贯穿敌人的身体。</b>', '在<b>[格密尔火山]</b><b>赐福[移送罪人之路]</b>西北方向，也是<b>[火山官邸]</b>入口的西北方向，一只隐形粪金龟掉落。']
   - id: '13_1'
     icon: /img/icons/ashes_of_war/08381.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Barrage"><b>连续射击</b></a>
-    - <b>能水平拉弓的射手战技。<br>摆出架式后，能以肉眼难以追上的速度，<br>连续射出箭。</b>
-    - 在<b>[格密尔火山]</b>东部<b>赐福[沸滚河]</b>以北的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Barrage"><b>连续射击</b></a>', '<b>能水平拉弓的射手战技。<br>摆出架式后，能以肉眼难以追上的速度，<br>连续射出箭。</b>', '在<b>[格密尔火山]</b>东部<b>赐福[沸滚河]</b>以北的粪金龟掉落。']
 - title: 王城罗德尔
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '5_2'
     icon: /img/icons/ashes_of_war/08444.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Braggart's+Roar"><b>夸耀咆哮</b></a>
-    - <b>犹如夸耀自我般发出咆哮，<br>能提升攻击力、防御力、精力恢复速度的战技。</b>
-    - <b>[流氓]</b>掉落，可以从他的武器<b>[铁球拳套]</b>上卸下。你可以在任何时候击杀他获得，也可以在任务线后期<b>[王城外围]</b>的护城河里从他的尸体上获得。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Braggart''s+Roar"><b>夸耀咆哮</b></a>', '<b>犹如夸耀自我般发出咆哮，<br>能提升攻击力、防御力、精力恢复速度的战技。</b>', '<b>[流氓]</b>掉落，可以从他的武器<b>[铁球拳套]</b>上卸下。你可以在任何时候击杀他获得，也可以在任务线后期<b>[王城外围]</b>的护城河里从他的尸体上获得。']
   - id: '7_3'
     icon: /img/icons/ashes_of_war/08343.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Thunderbolt"><b>落雷</b></a>
-    - <b>王城古龙信仰的战技之一。<br>武器指向天之后会蕴藏雷电，召唤落雷。<br>可以连续施放。</b>
-    - 在<b>[王城罗德尔]</b>的一个粪金龟。从<b>赐福[大道旁露台]</b>出发下楼梯，穿过前面的门。立即左转，靠着栏杆前进直到看到粪金龟在另一边栏杆下方。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Thunderbolt"><b>落雷</b></a>', '<b>王城古龙信仰的战技之一。<br>武器指向天之后会蕴藏雷电，召唤落雷。<br>可以连续施放。</b>', '在<b>[王城罗德尔]</b>的一个粪金龟。从<b>赐福[大道旁露台]</b>出发下楼梯，穿过前面的门。立即左转，靠着栏杆前进直到看到粪金龟在另一边栏杆下方。']
   - id: '12_6'
     icon: /img/icons/ashes_of_war/08337.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Prayerful+Strike"><b>祈祷一击</b></a>
-    - <b>伴随祈祷高举武器，再敲向地面的战技。<br>当那一记诚挚的攻击命中敌人，<br>能恢复包含周围我方人物的血量。</b>
-    - 在<b>[王城外围]</b>西部护城河部分的隐形粪金龟掉落。在两个水池的中间有一个满是蛞蝓的拱门，粪金龟会在这里来回跑。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Prayerful+Strike"><b>祈祷一击</b></a>', '<b>伴随祈祷高举武器，再敲向地面的战技。<br>当那一记诚挚的攻击命中敌人，<br>能恢复包含周围我方人物的血量。</b>', '在<b>[王城外围]</b>西部护城河部分的隐形粪金龟掉落。在两个水池的中间有一个满是蛞蝓的拱门，粪金龟会在这里来回跑。']
   - id: '12_5'
     icon: /img/icons/ashes_of_war/08462.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Holy+Ground"><b>圣域</b></a>
-    - <b>高举盾牌，展开黄金树圣域的战技。<br>能持续恢复血量，提升防御力，<br>圣域内的我方人物也能蒙受相同效果。</b>
-    - 在<b>[王城外围]</b>中<b>[亚雷萨英雄墓地]</b>摧毁战车获得。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Holy+Ground"><b>圣域</b></a>', '<b>高举盾牌，展开黄金树圣域的战技。<br>能持续恢复血量，提升防御力，<br>圣域内的我方人物也能蒙受相同效果。</b>', '在<b>[王城外围]</b>中<b>[亚雷萨英雄墓地]</b>摧毁战车获得。']
   - id: '14_1_9'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 在<b>[王城外围]</b>紧靠王朝西北方向紧闭的城门处，从北边一棵有两个黄金种子的黄金树向东走抵达。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '在<b>[王城外围]</b>紧靠王朝西北方向紧闭的城门处，从北边一棵有两个黄金种子的黄金树向东走抵达。']
   - id: '14_1_10'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 在<b>[王城罗德尔]</b>东城区的下水道区域(不是弃置恶兆的地底)一条岔路尽头由大手守卫的尸体上。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '在<b>[王城罗德尔]</b>东城区的下水道区域(不是弃置恶兆的地底)一条岔路尽头由大手守卫的尸体上。']
 - title: 弃置恶兆的地底
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '14_1_11'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 在<b>[弃置恶兆的地底]</b>关押<b>[食粪者]</b>的牢房外，有一只大手守卫。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '在<b>[弃置恶兆的地底]</b>关押<b>[食粪者]</b>的牢房外，有一只大手守卫。']
 - title: 巨人山顶
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '5_12'
     icon: /img/icons/ashes_of_war/08443.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Troll's+Roar"><b>山妖咆哮</b></a>
-    - <b>望向远方发出咆哮，<br>能弹飞周围人物，产生冲击波。<br>发动后接着使出重攻击，能激烈敲击。</b>
-    - 在<b>[巨人山顶]</b>南部<b>赐福[安歇教堂]</b>以南的大岩石顶部。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Troll''s+Roar"><b>山妖咆哮</b></a>', '<b>望向远方发出咆哮，<br>能弹飞周围人物，产生冲击波。<br>发动后接着使出重攻击，能激烈敲击。</b>', '在<b>[巨人山顶]</b>南部<b>赐福[安歇教堂]</b>以南的大岩石顶部。']
   - id: '11_4'
     icon: /img/icons/ashes_of_war/08351.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Phantom+Slash"><b>幻影共击</b></a>
-    - <b>黑夜骑兵的恋旧战技。<br>能形成过去老师的幻影，一同突击上砍。<br>再次发动能使出追击。</b>
-    - <b>[巨人山顶]</b><b>赐福[禁域]</b>东北方的<b>[黑夜骑兵]</b>掉落
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Phantom+Slash"><b>幻影共击</b></a>', '<b>黑夜骑兵的恋旧战技。<br>能形成过去老师的幻影，一同突击上砍。<br>再次发动能使出追击。</b>', '<b>[巨人山顶]</b><b>赐福[禁域]</b>东北方的<b>[黑夜骑兵]</b>掉落']
   - id: '4_2'
     icon: /img/icons/ashes_of_war/08312.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Prelate's+Charge"><b>主教冲锋</b></a>
-    - <b>将武器敲向地面，形成猛烈燃烧的火焰，<br>再顺势向前推进的战技。<br>持续发动的期间能一直向前推进。</b>
-    - 在<b>[巨人山顶]</b><b>赐福[降雪棱线路]</b>以南的营地树上被一只粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Prelate''s+Charge"><b>主教冲锋</b></a>', '<b>将武器敲向地面，形成猛烈燃烧的火焰，<br>再顺势向前推进的战技。<br>持续发动的期间能一直向前推进。</b>', '在<b>[巨人山顶]</b><b>赐福[降雪棱线路]</b>以南的营地树上被一只粪金龟掉落。']
   - id: '1_4'
     icon: /img/icons/ashes_of_war/08426.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Seppuku"><b>切腹</b></a>
-    - <b>芦苇之地的剑客，禁用的奥义。<br>将武器深深刺入自己的腹部，染上鲜血，<br>能提升攻击力、强化异常状态出血的效果。</b>
-    - 在<b>[巨人山顶]</b><b>赐福[结冰湖]</b>以东的隐形粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Seppuku"><b>切腹</b></a>', '<b>芦苇之地的剑客，禁用的奥义。<br>将武器深深刺入自己的腹部，染上鲜血，<br>能提升攻击力、强化异常状态出血的效果。</b>', '在<b>[巨人山顶]</b><b>赐福[结冰湖]</b>以东的隐形粪金龟掉落。']
   - id: '14_1_12'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 在<b>[巨人山顶]</b>火焰主教身后长长的石桥上的一具尸体上。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '在<b>[巨人山顶]</b>火焰主教身后长长的石桥上的一具尸体上。']
 - title: 化圣雪原
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '9_4'
     icon: /img/icons/ashes_of_war/08490.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+White+Shadow's+Lure"><b>白影诱惑</b></a>
-    - <b>对着武器发愿，在自身前方形成白色影子。<br>能吸引非战斗状态，为人类之身的敌人注意，<br>引诱对方攻击的战技。但对上亚人时，<br>即使对方在战斗状态，也具有诱敌效用。</b>
-    - 在<b>[化圣雪原]</b><b>赐福[化圣雪原（深处）]</b>东北方向的河流附近的隐形粪金龟掉落。粪金龟正被一群狼追赶。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+White+Shadow''s+Lure"><b>白影诱惑</b></a>', '<b>对着武器发愿，在自身前方形成白色影子。<br>能吸引非战斗状态，为人类之身的敌人注意，<br>引诱对方攻击的战技。但对上亚人时，<br>即使对方在战斗状态，也具有诱敌效用。</b>', '在<b>[化圣雪原]</b><b>赐福[化圣雪原（深处）]</b>东北方向的河流附近的隐形粪金龟掉落。粪金龟正被一群狼追赶。']
   - id: '14_1_14'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 在<b>[圣树树冠]</b>高处的一个雕像前，你需要从主干向低处走然后从右边跳到下方的细枝上，然后沿路绕到高处。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '在<b>[圣树树冠]</b>高处的一个雕像前，你需要从主干向低处走然后从右边跳到下方的细枝上，然后沿路绕到高处。']
 - title: 逐渐崩毁的法姆·亚兹拉
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '4_1'
     icon: /img/icons/ashes_of_war/08348.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Black+Flame+Tornado"><b>黑焰漩涡</b></a>
-    - <b>旋转武器再刺向地面，<br>唤出漩涡状黑焰的战技。<br>持续发动的期间，<br>在旋转时也能形成黑焰漩涡。</b>
-    - <b>[逐渐崩毁的法姆·亚兹拉]</b>中的<b>[神皮双人组]</b>掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Black+Flame+Tornado"><b>黑焰漩涡</b></a>', '<b>旋转武器再刺向地面，<br>唤出漩涡状黑焰的战技。<br>持续发动的期间，<br>在旋转时也能形成黑焰漩涡。</b>', '<b>[逐渐崩毁的法姆·亚兹拉]</b>中的<b>[神皮双人组]</b>掉落。']
 - title: “灰烬王城”罗德尔
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '5_7'
     icon: /img/icons/ashes_of_war/08408.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Hoarah+Loux's+Earthshaker"><b>荷莱·露的撼地</b></a>
-    - <b>以张开的双臂敲向地面，<br>产生冲击波，引发剧烈摇晃的战技。<br>再次发动能再一次敲击地面。</b>
-    - 在<b>[圆桌厅堂]</b>用<b>[荷莱·露的追忆]</b>交换。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Hoarah+Loux''s+Earthshaker"><b>荷莱·露的撼地</b></a>', '<b>以张开的双臂敲向地面，<br>产生冲击波，引发剧烈摇晃的战技。<br>再次发动能再一次敲击地面。</b>', '在<b>[圆桌厅堂]</b>用<b>[荷莱·露的追忆]</b>交换。']
 - title: 希芙拉河
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '11_7'
     icon: /img/icons/ashes_of_war/08314.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Square+Off"><b>准备架式</b></a>
-    - <b>举起剑与地面平行，接着使出攻击的战技。<br>轻攻击能使出由下而上，突破防御的斩击。<br>重攻击能向前冲刺、突刺攻击。</b>
-    - 在<b>[希芙拉河]</b>的<b>赐福[信仰者森林]</b>以北的西边悬崖上的粪金龟。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Square+Off"><b>准备架式</b></a>', '<b>举起剑与地面平行，接着使出攻击的战技。<br>轻攻击能使出由下而上，突破防御的斩击。<br>重攻击能向前冲刺、突刺攻击。</b>', '在<b>[希芙拉河]</b>的<b>赐福[信仰者森林]</b>以北的西边悬崖上的粪金龟。']
 - title: “永恒之城”诺克隆恩
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '13_3'
     icon: /img/icons/ashes_of_war/08383.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Enchanted+Shot"><b>宿灵射击</b></a>
-    - <b>摆出架式，让灵魂寄宿在箭之上，<br>再射击的战技。飞行速度比一般的箭更快。<br>仿佛会追踪目标，飞行轨道会随之调整。</b>
-    - 在<b>[“永恒之城”诺克隆恩]</b><b>赐福[祖灵森林]</b>北部的草原上，一个火盆附近的岩石后面的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Enchanted+Shot"><b>宿灵射击</b></a>', '<b>摆出架式，让灵魂寄宿在箭之上，<br>再射击的战技。飞行速度比一般的箭更快。<br>仿佛会追踪目标，飞行轨道会随之调整。</b>', '在<b>[“永恒之城”诺克隆恩]</b><b>赐福[祖灵森林]</b>北部的草原上，一个火盆附近的岩石后面的粪金龟掉落。']
 - title: 蒙格温王朝
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '1_2'
     icon: /img/icons/ashes_of_war/08307.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Blood+Tax"><b>鲜血征收</b></a>
-    - <b>鲜血君王分享的力量，血盟战技之一。<br>旋身之后，使出多重的突刺连击。<br>能夺取受攻击对象的鲜血与血量。</b>
-    - 在<b>[蒙格温王朝]</b>东边一个小洞穴里的粪金龟掉落。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Blood+Tax"><b>鲜血征收</b></a>', '<b>鲜血君王分享的力量，血盟战技之一。<br>旋身之后，使出多重的突刺连击。<br>能夺取受攻击对象的鲜血与血量。</b>', '在<b>[蒙格温王朝]</b>东边一个小洞穴里的粪金龟掉落。']
   - id: '14_1_13'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 由<b>[蒙格温王朝]</b>的<b>[受囚商人]</b>出售。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '由<b>[蒙格温王朝]</b>的<b>[受囚商人]</b>出售。']
 - title: 安瑟尔河
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '14_1_4'
     icon: /img/icons/keys/03223.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>
-    - 失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。
-    - 从<b>[安瑟尔河]</b>的<b>[流浪民族的商人]</b>处购买。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '失去战斗记忆的战灰空壳。无法替武器赋予任何效果。透过圆桌厅堂的铁匠修古的帮助，能成为所有战灰的复制品。复制品会变成另一个真品。', '从<b>[安瑟尔河]</b>的<b>[流浪民族的商人]</b>处购买。']
 - title: 腐败湖
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '8_10'
     icon: /img/icons/ashes_of_war/08407.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Waves+of+Darkness"><b>黑暗波动</b></a>
-    - <b>将武器刺入地面后，在自身周围<br>产生三道黑暗波动的战技。<br>发动后接着使出重攻击，能回旋横扫攻击。</b>
-    - 在<b>[圆桌厅堂]</b>用<b>[黑暗弃子的追忆]</b>交换。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Waves+of+Darkness"><b>黑暗波动</b></a>', '<b>将武器刺入地面后，在自身周围<br>产生三道黑暗波动的战技。<br>发动后接着使出重攻击，能回旋横扫攻击。</b>', '在<b>[圆桌厅堂]</b>用<b>[黑暗弃子的追忆]</b>交换。']
 - title: 深根底层
-  table:
-  - 名称
-  - 描述
-  - 位置
+  table: ['名称', '描述', '位置']
   items:
   - id: '11_12'
     icon: /img/icons/ashes_of_war/08347.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Vacuum+Slice"><b>真空斩</b></a>
-    - <b>古英雄们的失传战技。<br>高举剑身形成真空状态，<br>再化为真空刃，朝前方释放。</b>
-    - 在<b>[深根底层]</b><b>赐福[树根前路]</b>附近瀑布下的废墟神殿内发现。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Vacuum+Slice"><b>真空斩</b></a>', '<b>古英雄们的失传战技。<br>高举剑身形成真空状态，<br>再化为真空刃，朝前方释放。</b>', '在<b>[深根底层]</b><b>赐福[树根前路]</b>附近瀑布下的废墟神殿内发现。']
   - id: '12_1'
     icon: /img/icons/ashes_of_war/08341.png
-    data:
-    - <a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Golden+Land"><b>黄金大地</b></a>
-    - <b>将武器刺入地面后，再向下使力<br>引发神圣爆炸，形成黄金石砾的战技。<br>发动后接着使出重攻击，<br>能回旋横扫攻击。</b>
-    - 在<b>[深根底层]</b><b>赐福[大瀑布顶端]</b>南边的粪金龟掉落。在<b>[黄金树的化身]</b>后面。
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Golden+Land"><b>黄金大地</b></a>', '<b>将武器刺入地面后，再向下使力<br>引发神圣爆炸，形成黄金石砾的战技。<br>发动后接着使出重攻击，<br>能回旋横扫攻击。</b>', '在<b>[深根底层]</b><b>赐福[大瀑布顶端]</b>南边的粪金龟掉落。在<b>[黄金树的化身]</b>后面。']
+- title: 幽影之地
+  table: ['名称', '描述', '位置']
+  items:
+  - id: "20_1"
+    icon: "/img/icons/ashes_of_war/08500.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Dryleaf+Whirlwind"><b>落叶旋风脚</b></a>', '丹恩流踢击术的奥义。<br>连续回旋踢的同时身体上浮，最后下踢的战技。<br>踢击会缠绕气，因此攻击范围较广。<br>能在格斗术类武器使用。', '从<b>赐福[劳弗古遗迹（东方）]</b>向东北走，在靠近瀑布的边缘，旁边是一根柱子。']
+  - id: "20_2"
+    icon: "/img/icons/ashes_of_war/08501.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Aspects+of+the+Crucible:+Wings"><b>熔炉百相之羽</b></a>', '源自熔炉生命的战技。<br>能形成黄金双翼，飞起的同时高举武器突击。<br>装备双头剑时，突击会变成回旋攻击。<br>能在剑类武器，以及可突刺的长柄武器使用。（不含特大型武器）', '<b>[惩罚要塞]</b>：击败Boss<b>[“黑骑士”艾瑞德]</b>。']
+  - id: "20_3"
+    icon: "/img/icons/ashes_of_war/08503.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Spinning+Gravity+Thrust"><b>重力旋刺</b></a>', '过去师从白王的人们学习的重力招式。<br>借由重力浮起，再全身旋转展开突刺。<br>再次发动能再一次突刺。<br>能在大型、特大型的剑类武器使用。', '装备在<b>[剑型长矛]</b>上，这是在<b>[圆桌厅堂]</b>与<b>[“解指”恩雅]</b>交换<b>[山猪骑士的追忆]</b>时可选的奖励之一。']
+  - id: "20_4"
+    icon: "/img/icons/ashes_of_war/08504.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Palm+Blast"><b>发劲</b></a>', '人称“落叶派”的求道者们使用的战技。<br>将气运至掌底，出掌后引发爆炸。<br>攻击威力与冲击力道的表现皆优秀，<br>借由蓄力发动，能提升威力。<br>能在格斗术类武器使用。', '在<b>赐福[穆斯废墟]</b>，在<b>[“落叶”丹恩]</b>面前使用肢体动作<b>[决斗]</b>，然后进入Boss战，获胜将获得武器和战灰。']
+  - id: "20_5"
+    icon: "/img/icons/ashes_of_war/08505.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Piercing+Throw"><b>贯穿投掷</b></a>', '在武器缠绕强力旋流，再投掷而出的战技。<br>飞翔距离会比平时更长，能够贯穿敌人。<br>能在投掷剑类武器使用。', '<b>[古铁陨石锻造遗迹]</b>东边的粪金龟掉落。你会发现它被一小群亚人守卫在一个残破的柱子之间。']
+  - id: "20_6"
+    icon: "/img/icons/ashes_of_war/08506.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Scattershot+Throw"><b>多重投掷</b></a>', '透过锻造术的力量，在双手复制出武器，<br>再同时、大量投掷出去的战技。<br>再次发动能再一次投掷。<br>能在投掷剑类武器使用。', '<b>[泰乌尔锻造遗迹]</b>南边的粪金龟掉落，它高高地悬挂在柱子上。']
+  - id: "20_7"
+    icon: "/img/icons/ashes_of_war/08507.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Wall+of+Sparks"><b>四面火花香</b></a>', '在自身周围大范围释放香粉，<br>一定时间后，形成大型火花的战技。<br>借由蓄力发动能提升威力，扩大火花的范围。<br>火花的性质会随着调香瓶的种类变化。<br>能在调香瓶类武器使用。', '<b>[幽影城]</b>：从<b>赐福[保藏库（一楼）]</b>乘坐左侧电梯，然后从右边的第一个出口走，再从左边的第一个出口走。你会在一具尸体上找到这个物品。']
+  - id: "20_8"
+    icon: "/img/icons/ashes_of_war/08508.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Rolling+Sparks"><b>串联火花香</b></a>', '朝前方释放香粉，一定时间后，<br>形成先后出现的大型火花的战技。<br>火花的性质会随着调香瓶的种类变化。<br>能在调香瓶类武器使用。', '<b>[幽影城]</b>南部大营地东侧的飞行粪金龟身上获得。爬上山，经过一些调香师，你会在山顶的空中找到它。']
+  - id: "20_9"
+    icon: "/img/icons/ashes_of_war/08509.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Raging+Beast"><b>野兽突袭</b></a>', '如野兽般地向前快速踏步，<br>再跳至半空，撕裂敌人的战技。<br>能控制往前后，或是左右方向踏步。<br>发动后接着使出重攻击，能追加攻击。<br>能在兽爪类武器使用。', '从<b>赐福[通村吊桥]</b>沿着向北的小路走。到达树林后，继续向东看，找到一个传送粪金龟。']
+  - id: "20_10"
+    icon: "/img/icons/ashes_of_war/08510.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Savage+Claws"><b>野兽爪击</b></a>', '如野兽般地压低身形，跳起后挥舞左右双爪，<br>猛力撕裂敌人的战技。<br>能在兽爪类武器使用。', '武器<b>[野兽爪]</b>上自带，击败<b>[“兽爪”罗格]</b>掉落。']
+  - id: "20_11"
+    icon: "/img/icons/ashes_of_war/08511.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Blind+Spot"><b>死角一击</b></a>', '压低身形踏出步伐，与敌人拉近距离，<br>再从侧面死角攻击的战技。<br>能控制往左、右方踏出步伐，<br>也能绕过武器的防御，进行攻击。<br>能在反手剑类武器使用。', '<b>[墓地平原]</b>东北的棺材旁边的<b>[反手剑]</b>上自带。']
+  - id: "20_12"
+    icon: "/img/icons/ashes_of_war/08512.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Swift+Slash"><b>迅斩</b></a>', '角人剑士继承而来的战技。<br>在迅速踏出步伐的同时，砍向敌人。<br>攻击快而凌厉，会形成撕裂敌人的真空。<br>借由蓄力发动能提升威力，<br>增加踏出步伐时的距离。<br>能在反手剑类武器使用。', '在<b>[幽影城]</b>站在<b>[角人]</b>一边与<b>[“金针骑士”蕾妲]</b>战斗后的奖励。']
+  - id: "20_13"
+    icon: "/img/icons/ashes_of_war/08513.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Overhead+Stance"><b>大上段</b></a>', '将剑高举过头，摆出架式的战技。<br>轻攻击能向前踏出再下砍。<br>重攻击能使出连续下砍。<br>能在大刀类武器使用。', '装备在<b>[大刀]</b>上，<b>[大刀]</b>位于<b>赐福[大桥北方]</b>西侧的湖里沉睡的<b>[灵火龙]</b>旁边。']
+  - id: "20_14"
+    icon: "/img/icons/ashes_of_war/08514.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Wing+Stance"><b>单翼架式</b></a>', '将武器向右平举，摆出架式后静止不动，<br>接着使出攻击的战技。<br>轻攻击能使出高速三连击。<br>重攻击能在跳起之后，使出突刺。<br>能在轻大剑类武器使用。', '<b>[恩希斯城]</b>：在塔楼的一个箱子里，你可以从<b>赐福[城主的房间]</b>外边缘跳下，沿着悬崖边下到塔楼，然后爬上两个梯子到达那里。']
+  - id: "20_15"
+    icon: "/img/icons/ashes_of_war/08515.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Blinkbolt"><b>瞬雷</b></a>', '侍奉葛德文的黄金骑士们使用的战技。<br>压低身形摆出架式，将自身化为雷电，<br>朝前方快速移动。<br>能在所有的近战武器使用。', '在<b>[雾谷地下墓地]</b>的一个箱子里。在第三个尖刺陷阱的房间，有一个法师从后面狙击你，站在你击杀的巫师所在的地方，引诱尖刺陷阱下来后跳进凹口。然后向上来到一个房间。']
+  - id: "20_16"
+    icon: "/img/icons/ashes_of_war/08516.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Flame+Skewer"><b>火焰穿刺</b></a>', '“火焰骑士”昆兰的战技。<br>在武器缠绕火焰，压低身形向前踏出，<br>一口气刺穿敌人。<br>使出重攻击，能释放追击火焰。<br>能在中型、大型的可突刺的武器使用。', '第二次击败NPC入侵者<b>[“火焰骑士”昆兰]</b>后掉落。']
+  - id: "20_17"
+    icon: "/img/icons/ashes_of_war/08517.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Savage+Lion''s+Claw"><b>勇猛狮子斩</b></a>', '在红狮子之中，特别勇猛的战士使用的战技。<br>能朝前方跳跃，一边旋身一边以武器敲击。<br>再次发动，能再一次以武器敲击。<br>能在剑、斧、槌类武器使用。（不含小型武器、刺剑类武器）', '从<b>[墓地平原]</b>的<b>赐福[三叉口的十字记号]</b>出发，贴着左侧的墙，沿着小路向北走。你最终会抵达一个小营地。']
+  - id: "20_18"
+    icon: "/img/icons/ashes_of_war/08518.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Divine+Beast+Frost+Stomp"><b>神兽冻霜踏地</b></a>', '神兽舞狮展现愤怒的战技。<br>能举起脚大力踏向地面，<br>让剧烈冻霜朝前方随之扩散。<br>借由蓄力发动能提升威力，<br>扩大冻霜扩散的范围。<br>能在所有的近战武器使用。', '与<b>[圆桌厅堂]</b>的<b>[“解指”恩雅]</b>交易<b>[舞狮的追忆]</b>获得。']
+  - id: "20_19"
+    icon: "/img/icons/ashes_of_war/08519.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Flame+Spear"><b>火焰枪</b></a>', '火焰骑士的首席，库德的战技。<br>将武器指向前方，摆出准备突刺的架式，<br>再朝前方释放火焰枪。<br>借由蓄力发动能提升威力、提升枪的飞翔距离。<br>能在可突刺的武器使用。（不含钩爪、反手剑类武器）', '<b>[幽影城]</b>：在六楼使用杠杆移动雕像后，爬上雕像。走到外面，右转，上楼梯，左转，在桥的尽头找到一个火焰骑士掉落。']
+  - id: "20_20"
+    icon: "/img/icons/ashes_of_war/08520.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Carian+Sovereignty"><b>尊矣卡利亚</b></a>', '卡利亚王室成员传承而来的战技。<br>将剑身化为魔力大剑，再向下挥舞。<br>再次发动，能大范围水平横扫。<br>上述攻击能借由蓄力发动，提升威力。<br>能在剑类武器使用。（不含特大型武器）', '从<b>[玛努斯·美特大教堂]</b>西南方向的一个洞穴中的粪金龟掉落。粪金龟位于洞穴的天花板上。你需要绕到北边三叉口向西走到悬崖下方的道路后抵达。']
+  - id: "20_21"
+    icon: "/img/icons/ashes_of_war/08521.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Shriek+of+Sorrow"><b>悲恸惨叫</b></a>', '遭受蹂躏的人们使用的战技。<br>惨叫出声，让周围敌人陷入硬直的同时，<br>再回想起深仇大恨，提升自身的攻击力。<br>自身的血量越低，效果越佳。<br>能在所有的近战武器使用。', '<b>[“塔之镇”贝瑞特]</b>：在<b>[“火焰骑士”昆兰]</b>入侵你的广场，中间的大树后面。']
+  - id: "20_22"
+    icon: "/img/icons/ashes_of_war/08525.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Ghostflame+Call"><b>唤起灵火</b></a>', '在指向前方的武器，召唤灵火的战技。<br>轻攻击能释放爬行地面的灵火；<br>重攻击能引爆灵火，形成大爆炸。<br>能在剑、矛类武器使用。（不含小型武器、双头剑、反手剑类武器）', '<b>[卡罗隐藏墓地]</b>：由Boss<b>[死亡仪式鸟]</b>掉落。']
+  - id: "20_23"
+    icon: "/img/icons/ashes_of_war/08522.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+The+Poison+Flower+Blooms+Twice"><b>双刺毒花</b></a>', '在脚底形成猩红腐败的棘刺，刺向敌人的战技。<br>对上陷入中毒或猩红腐败状态的敌人，<br>如果成功使出追击，能一口气给予大伤害。<br>能在所有的近战武器使用。', '<b>[劳弗下方]</b>的<b>赐福[峡谷北方]</b>向南走，穿过河流，在一些废墟附近的一小片腐烂水池附近找到一个粪金龟。']
+  - id: "20_24"
+    icon: "/img/icons/ashes_of_war/08523.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Igon''s+Drake+Hunt"><b>埃贡的猎龙</b></a>', '“龙战士”埃贡的战技。<br>能侧身拉开大弓，发出咆哮的同时<br>扭转弓弦射击，借此大幅提升攻击力。<br>能在大弓类武器使用。', '击败<b>[“狂龙”贝勒]</b>后回到<b>[埃贡]</b>处从他的尸体上拾取。']
+  - id: "20_25"
+    icon: "/img/icons/ashes_of_war/08524.png"
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Shield+Strike"><b>盾牌攻击</b></a>', '透过盾牌进行攻击的战技。<br>再次发动能使出最多三次的追击。<br>能在所有的盾类武器使用。', '在<b>[幽影城]</b>获取的<b>[决斗盾]</b>上自带。']
