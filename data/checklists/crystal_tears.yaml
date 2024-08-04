@@ -1,16 +1,10 @@
 title: 灵药圣杯瓶
 id: crystal_tears
 icon: /img/icons/keys/crystal_tears/00416.png
-table_widths:
-- 3
-- 5
-- 4
+table_widths: [3, 5, 4]
 sections:
 - title: 宁姆格福
-  table:
-  - 名称
-  - 位置
-  - 效果
+  table: ['名称', '位置', '效果']
   items:
   - id: '1_1'
     icon: /img/icons/keys/crystal_tears/00421.png
@@ -33,10 +27,7 @@ sections:
     data: ['<b>红结晶露滴</b> [1]', '在<b>[玛莉卡第三教堂]</b>', '恢复一半的总生命值']
     cords: [4648, 6718]
 - title: 啜泣半岛
-  table:
-  - 名称
-  - 位置
-  - 效果
+  table: ['名称', '位置', '效果']
   items:
   - id: '0_1'
     icon: /img/icons/keys/crystal_tears/00424.png
@@ -54,10 +45,7 @@ sections:
     data: ['<b>珍珠泡状露滴</b>', '在<b>[啜泣半岛]</b>击败<b>[黄金树的化身]</b>的奖励', '几乎完全抵消你的下一个受击，持续180秒']
     cords: [3924, 8095]
 - title: 湖之利耶尼亚
-  table:
-  - 名称
-  - 位置
-  - 效果
+  table: ['名称', '位置', '效果']
   items:
   - id: '2_1'
     icon: /img/icons/keys/crystal_tears/00422.png
@@ -95,10 +83,7 @@ sections:
     data: ['<b>智力瘤结晶露滴</b>', '在<b>赐福[卡利亚城寨（正门）]</b>西南方向被爬行手指包围的石盆里，在陡峭的悬崖底部(要到达那里，从<b>[王室领地废墟]</b>的东边下来，然后向北走，或者从<b>[谷底]</b>向西走)', '+10点智力，持续180秒']
     cords: [1802, 3922]
 - title: 盖利德
-  table:
-  - 名称
-  - 位置
-  - 效果
+  table: ['名称', '位置', '效果']
   items:
   - id: '3_1'
     icon: /img/icons/keys/crystal_tears/00428.png
@@ -126,10 +111,7 @@ sections:
     data: ['<b>风结晶露滴</b>', '在南边的一个石盆里，由巨鸦在悬崖上守卫', '增加了滚动时的无敌帧，但降低10%物理防御，持续180秒']
     cords: [5501, 7093]
 - title: 亚坛高原
-  table:
-  - 名称
-  - 位置
-  - 效果
+  table: ['名称', '位置', '效果']
   items:
   - id: '4_1'
     icon: /img/icons/keys/crystal_tears/00427.png
@@ -147,10 +129,7 @@ sections:
     data: ['<b>漫红结晶露滴</b>', '击败<b>赐福[丰饶森林]</b>东北方向<b>[蚯蚓脸]</b>的奖励', '+10%最大生命值，持续180秒']
     cords: [3394, 2886]
 - title: 格密尔火山
-  table:
-  - 名称
-  - 位置
-  - 效果
+  table: ['名称', '位置', '效果']
   items:
   - id: '5_1'
     icon: /img/icons/keys/crystal_tears/00418.png
@@ -163,10 +142,7 @@ sections:
     data: ['<b>蓝秘密露滴</b>', '击败<b>[腐烂树灵]</b>的奖励，掉落在烧毁的黄金树周围', '消除FP消耗，持续15秒']
     cords: [2390, 2736]
 - title: 王城罗德尔
-  table:
-  - 名称
-  - 位置
-  - 效果
+  table: ['名称', '位置', '效果']
   items:
   - id: '6_1'
     icon: /img/icons/keys/crystal_tears/00412.png
@@ -184,10 +160,7 @@ sections:
     data: ['<b>红结晶露滴</b> [2]', '发现于<b>[王城外围]</b>中<b>[小黄金树]</b>底部的一个石盆，由一个死兆兵守卫', '恢复一半的总生命值']
     cords: [4272, 2886]
 - title: 巨人山顶
-  table:
-  - 名称
-  - 位置
-  - 效果
+  table: ['名称', '位置', '效果']
   items:
   - id: '7_1'
     icon: /img/icons/keys/crystal_tears/00420.png
@@ -205,10 +178,7 @@ sections:
     data: ['<b>红泡状露滴</b>', '击败<b>[小黄金树]</b>东部附近的<b>[黄金树的化身]</b>奖励', '当你的生命值低于20%时恢复总生命值的25%(但不能掉到0%)，持续180秒']
     cords: [6243, 2123]
 - title: 化圣雪原
-  table:
-  - 名称
-  - 位置
-  - 效果
+  table: ['名称', '位置', '效果']
   items:
   - id: '8_3'
     icon: /img/icons/keys/crystal_tears/00413.png
@@ -220,3 +190,30 @@ sections:
     map_icon: /map/icons/shadows/keys/crystal_tears/00417.png
     data: ['<b>爆裂结晶露滴</b> [2]', '击败<b>赐福[安身洞窟]</b>北部<b>[腐败化身]</b>的奖励', '在2米范围内造成800点伤害，但自己承受300点伤害; 如果同时装备两个，在4米范围内造成1750点伤害，但自己承受700点伤害']
     cords: [5670, 2046]
+- title: 幽影之地
+  table: ['名称', '位置', '效果']
+  items:
+  - id: '20_1'
+    icon: '/img/icons/keys/crystal_tears/05000.png'
+    data: ['绿秘密露滴', '艾拉克河周围游荡的<b>[燃炉魔像]</b>掉落。', '所有精力的消耗都归零，持续15秒']
+  - id: '20_2'
+    icon: '/img/icons/keys/crystal_tears/05001.png'
+    data: ['涌红枯露滴', '<b>[幽影城]</b>外的军营周围的<b>[燃炉魔像]</b>掉落。', '能缓慢恢复周围我方人物的血量(7每秒)，持续300秒']
+  - id: '20_3'
+    icon: '/img/icons/keys/crystal_tears/05002.png'
+    data: ['夺红破露滴', '<b>[劳弗古遗迹]</b>西边的<b>[燃炉魔像]</b>掉落。', '能透过攻击恢复血量(0.75%最大血量每次击中)，持续45秒']
+  - id: '20_4'
+    icon: '/img/icons/keys/crystal_tears/05003.png'
+    data: ['夺蓝破露滴', '<b>[幽影亚坛]</b>地区<b>[玛努斯·美特大教堂]</b>东部的<b>[燃炉魔像]</b>掉落。', '能透过攻击恢复专注值(5每次击中)，持续45秒']
+  - id: '20_5'
+    icon: '/img/icons/keys/crystal_tears/05004.png'
+    data: ['油光露滴', '<b>[安堤废墟]</b>西边的<b>[燃炉魔像]</b>掉落。', '能让周围敌人浑身油污(提升火伤20%)，持续60秒']
+  - id: '20_6'
+    icon: '/img/icons/keys/crystal_tears/05005.png'
+    data: ['吸血破露滴', '<b>[安堤废墟]</b>入口沉睡的<b>[燃炉魔像]</b>，需要将一个<b>[大燃炉壶]</b>扔到其炉头上才能唤醒。', '能提升攻击力(20%)，但持续减少血量(最大血量*0.002+20 每秒)，持续180秒']
+  - id: '20_7'
+    icon: '/img/icons/keys/crystal_tears/05006.png'
+    data: ['铃兰结晶露滴', '<b>[卡罗隐藏墓地]</b>西边的<b>[燃炉魔像]</b>掉落。', '能提升灵魂的攻击力(7.5%)，持续180秒']
+  - id: '20_8'
+    icon: '/img/icons/keys/crystal_tears/05007.png'
+    data: ['反弹硬露滴', '<b>[火吻废墟]</b>附近主路上的<b>[燃炉魔像]</b>掉落。', '能强化瞬间防御的能力，持续300秒']

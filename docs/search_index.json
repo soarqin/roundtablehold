@@ -17116,6 +17116,38 @@
     "text": "爆裂结晶露滴 [2] 击败赐福[安身洞窟]北部[腐败化身]的奖励 在2米范围内造成800点伤害，但自己承受300点伤害; 如果同时装备两个，在4米范围内造成1750点伤害，但自己承受700点伤害"
   },
   {
+    "id": "/checklists/crystal_tears.html#item_20_1",
+    "text": "绿秘密露滴 艾拉克河周围游荡的[燃炉魔像]掉落。 所有精力的消耗都归零，持续15秒"
+  },
+  {
+    "id": "/checklists/crystal_tears.html#item_20_2",
+    "text": "涌红枯露滴 [幽影城]外的军营周围的[燃炉魔像]掉落。 能缓慢恢复周围我方人物的血量(7每秒)，持续300秒"
+  },
+  {
+    "id": "/checklists/crystal_tears.html#item_20_3",
+    "text": "夺红破露滴 [劳弗古遗迹]西边的[燃炉魔像]掉落。 能透过攻击恢复血量(0.75%最大血量每次击中)，持续45秒"
+  },
+  {
+    "id": "/checklists/crystal_tears.html#item_20_4",
+    "text": "夺蓝破露滴 [幽影亚坛]地区[玛努斯·美特大教堂]东部的[燃炉魔像]掉落。 能透过攻击恢复专注值(5每次击中)，持续45秒"
+  },
+  {
+    "id": "/checklists/crystal_tears.html#item_20_5",
+    "text": "油光露滴 [安堤废墟]西边的[燃炉魔像]掉落。 能让周围敌人浑身油污(提升火伤20%)，持续60秒"
+  },
+  {
+    "id": "/checklists/crystal_tears.html#item_20_6",
+    "text": "吸血破露滴 [安堤废墟]入口沉睡的[燃炉魔像]，需要将一个[大燃炉壶]扔到其炉头上才能唤醒。 能提升攻击力(20%)，但持续减少血量(最大血量*0.002+20 每秒)，持续180秒"
+  },
+  {
+    "id": "/checklists/crystal_tears.html#item_20_7",
+    "text": "铃兰结晶露滴 [卡罗隐藏墓地]西边的[燃炉魔像]掉落。 能提升灵魂的攻击力(7.5%)，持续180秒"
+  },
+  {
+    "id": "/checklists/crystal_tears.html#item_20_8",
+    "text": "反弹硬露滴 [火吻废墟]附近主路上的[燃炉魔像]掉落。 能强化瞬间防御的能力，持续300秒"
+  },
+  {
     "id": "/checklists/memory_stones_talisman_pouches.html#item_0_1",
     "text": "在[啜泣半岛]东侧的高原上[奥利缇斯魔法师塔]内。"
   },
@@ -17710,6 +17742,186 @@
   {
     "id": "/checklists/cookbooks.html#item_6_2",
     "text": "2. 在通往[癫火封印]的路上。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_10_1",
+    "text": "1. 从[古铁陨石锻造遗迹]西边的集物虫那里获得。注意：如果推进[穆尔]任务线到他死亡，你将无法再获得此系列的制作笔记。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_10_2",
+    "text": "2. 由非敌对的腐败眷属给予。位于赐福[崖上道路的终点]东边的池塘，地图上的最南边。注意：如果推进[穆尔]任务线到他死亡，你将无法再获得此系列的制作笔记。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_10_3",
+    "text": "3. 在艾拉克河燃炉魔像附近的闪电羊森林东北角与集物虫互动，它会交给你。最近的赐福点是[青蓝海岸]。注意：如果推进[穆尔]任务线到他死亡，你将无法再获得此系列的制作笔记。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_10_4",
+    "text": "4. 与[圣战教堂]北部的集物虫互动获得。集物虫会颤抖且无法互动。使用[温热石]或[暖阳石]使其变暖，然后刷新区域后即可互动。注意：如果推进[穆尔]任务线到他死亡，你将无法再获得此系列的制作笔记。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_10_5",
+    "text": "5. 与[穆斯废墟]北部[死亡鸟]出没的有毒沼泽右侧悬崖边的集物虫互动获得。穿过有米兰达花和调香师的洞穴即可到达沼泽。注意：如果推进[穆尔]任务线到他死亡，你将无法再获得此系列的制作笔记。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_10_6",
+    "text": "6. 与[幽影城]东边的集物虫互动。可以从赐福[教堂区]沿路出去，向西沿着隧道路上方的悬崖前进，然后继续向西到达城堡外墙。注意：如果推进[穆尔]任务线到他死亡，你将无法再获得此系列的制作笔记。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_10_7",
+    "text": "7. 与[穆尔]互动时选择“与摩尔交谈”选项即可获得。需要拥有所有其他集物虫制作笔记。注意：如果推进[穆尔]任务线到他死亡，你将无法再获得此系列的制作笔记。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_11_1",
+    "text": "1. 可以在龙飨大祭坛前的残破塔楼的一具尸体上找到。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_11_2",
+    "text": "2. 可以在赐福[尖刺山（中段）]附近的悬崖边找到。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_12_1",
+    "text": "1. 在[指头追寻者的破屋]找到。可通过[利亚指头遗迹]进入，沿着左边的路径直行到龙飨大祭坛下方。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_12_2",
+    "text": "2. 在[密亚指头遗迹]的钟前的尸体上找到。只有在完成[“大祭司”尤弥尔]的任务线并找到大教堂下的秘密通道后才能获取。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_1",
+    "text": "1. [火吻废墟]：从[大龟裂壶]的位置出发，向右走，直到左边有一组楼梯。走上楼梯，继续前进找到制作笔记。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_2",
+    "text": "2. [旅人的破屋]内的尸体上。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_3",
+    "text": "3. [雾谷要塞]向西穿过木桥，就在第一座小塔之后。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_4",
+    "text": "4. [玛努斯·美特大教堂]东边。在地上的一具尸体上，尸体周围有多个木偶士兵。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_5",
+    "text": "5. 从[眺望镇]出发沿着悬崖向南走在森林地区发现。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_6",
+    "text": "6. 前往赐福[尖刺山的山脚]的灵魂气流北边悬崖边。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_7",
+    "text": "7. [惩罚要塞]西边悬崖下方沼泽地区，在血怪和梅瑟莫士兵战斗的区域的东侧。一株大米兰达花和几株小米兰达花保护着它。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_8",
+    "text": "8. [劳弗下方]：从赐福[峡谷北方]出发，沿着河流向西到达最西边的一个积水墓地附近。河流的橙色一侧将有一个巨大的绿色土堆，制作笔记在土堆顶部。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_9",
+    "text": "9. [劳弗古遗迹]：穿过猩红腐败沼泽区域后，前往外面，您会在靠近墙壁的一具尸体上找到。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_10",
+    "text": "10. [墓地平原]：从北边破旧建筑内的尸体上拾取的。可以使用坐骑跳到屋顶上，在那里您会发现一个可以跳进去的洞。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_11",
+    "text": "11. [贝瑞特监牢]：位于大壶迷宫内。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_12",
+    "text": "12. 在艾拉克河南边。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_13",
+    "text": "13. 进入[熔岩管锻造遗迹]走下第一个梯子，然后走上右边的楼梯，在后墙附近的一具尸体上找到它。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_13_14",
+    "text": "14. 向[卡罗隐藏墓地]的西北方向出发，沿着左边的水路前行，直到发现一具有制作笔记的尸体，尸体周围有一朵大米兰达花和几朵小米兰达花。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_14_1",
+    "text": "1. [雾谷地下墓地]：经过有法师的房间后进入开放的道路，先走右边，在有两个小恶魔的房间里。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_14_2",
+    "text": "2. [蝎河地下墓地]：经过烦人的高处法师和两个小恶魔的房间后，抵达一座由死亡之眼巡逻的桥。你可以从侧面下落，向前通向装有制作笔记的宝箱。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_15_1",
+    "text": "1. [谷底森林]：从赐福[水帘瀑布]向西，沿着通往瀑布的岩石向上。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_15_2",
+    "text": "2. [谷底森林]：在地图中部上方区域的大树根之间的一具尸体上。向西走并向上爬即可抵达。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_15_3",
+    "text": "3. [米德拉的府邸]：在第二个赐福点。穿过横梁，跳进一个充满发狂老鼠的房间。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_16_1",
+    "text": "1. 从赐福[青蓝海岸的十字记号]向北走，穿过一艘棺材船，骑上马，双跳到山上，那里有一棵枯萎的大树，由墓地阴影守卫。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_16_2",
+    "text": "2. 从赐福[青蓝海岸的十字记号]沿着小路向南走，直到山的最高点的东边悬崖。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_16_3",
+    "text": "3. 击败[融泥骑士]后，在[深紫花园]附近[托莉娜]所在的小洞穴里。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_17_1",
+    "text": "1. 在赐福[大道旁的十字记号]的东边，有一个梅瑟莫士兵营地。你可以在其中一个帐篷里找到。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_17_2",
+    "text": "2. 在艾拉克大桥过去的士兵营地其中一个帐篷里找到。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_18_1",
+    "text": "[恩希斯城]：上楼梯后的一个武器库里"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_19_1",
+    "text": "1. [幽影城]：面朝玛莉卡女王的雕像，进入右边的房间，继续朝楼梯走，到达可以找到这本制作笔记的上层。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_19_2",
+    "text": "2. [惩罚要塞]：击败[“黑骑士”艾瑞德]后走上楼梯，在顶部的宝箱里。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_19_3",
+    "text": "3. [幽影城]前方军营西北的一个帐篷内。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_19_4",
+    "text": "4. [幽影城]：从赐福[保藏库（一楼）]乘坐左侧电梯。从右边的第一个出口走，继续向前走到走廊尽头。杀死敌人后走左边的路，墙上有一个隐藏门。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_20_1",
+    "text": "1. 从赐福[青蓝海岸西边]向东南走，直到抵达一个有树的小墓地。小地图上应该有一棵树，离赐福点不远。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_20_2",
+    "text": "2. 进入[卡罗隐藏墓地]后第一次到达水边的一堆岩石和乌龟旁边。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_21_1",
+    "text": "1. 在赐福[神殿镇废墟]的北边，经过红色的腐败眷属，有一个洞穴，在里面你会发现一个举着壶的暗影敌人。小心散落在周围的剧毒陷阱。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_21_2",
+    "text": "2. 从[劳弗古遗迹]的入口向北走到边缘，然后向西走，你会发现一个区域，跳到下面拾取。"
+  },
+  {
+    "id": "/checklists/cookbooks.html#item_22_1",
+    "text": "[卡罗隐藏墓地]的[提比亚的唤声船]掉落。"
   },
   {
     "id": "/checklists/ancient_dragon_smithing_stones.html#item_1",

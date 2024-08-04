@@ -619,7 +619,7 @@ window.progress = {
     ],
   },
   "crystal_tears": {
-    "total": [0, 32],
+    "total": [0, 40],
     "sections": [
       [0, 4],
       [0, 3],
@@ -630,6 +630,7 @@ window.progress = {
       [0, 3],
       [0, 3],
       [0, 2],
+      [0, 8],
     ],
   },
   "memory_stones_talisman_pouches": {
@@ -667,7 +668,7 @@ window.progress = {
     ],
   },
   "cookbooks": {
-    "total": [0, 59],
+    "total": [0, 104],
     "sections": [
       [0, 24],
       [0, 7],
@@ -677,6 +678,19 @@ window.progress = {
       [0, 4],
       [0, 3],
       [0, 2],
+      [0, 7],
+      [0, 2],
+      [0, 2],
+      [0, 14],
+      [0, 2],
+      [0, 3],
+      [0, 3],
+      [0, 2],
+      [0, 1],
+      [0, 4],
+      [0, 2],
+      [0, 2],
+      [0, 1],
     ],
   },
   "ancient_dragon_smithing_stones": {

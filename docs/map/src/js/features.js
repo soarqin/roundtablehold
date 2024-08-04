@@ -15373,7 +15373,7 @@ const feature_data = [
         "geometry": {
           "coordinates": [
             3572,
-            12158
+            2158
           ],
           "type": "Point"
         },
@@ -15392,7 +15392,7 @@ const feature_data = [
         "geometry": {
           "coordinates": [
             6319,
-            14248
+            4248
           ],
           "type": "Point"
         },
@@ -15411,7 +15411,7 @@ const feature_data = [
         "geometry": {
           "coordinates": [
             6319,
-            14264
+            4264
           ],
           "type": "Point"
         },
@@ -15487,7 +15487,7 @@ const feature_data = [
         "geometry": {
           "coordinates": [
             3049,
-            12503
+            2503
           ],
           "type": "Point"
         },
@@ -15525,7 +15525,7 @@ const feature_data = [
         "geometry": {
           "coordinates": [
             7093,
-            14470
+            4470
           ],
           "type": "Point"
         },
@@ -15639,7 +15639,7 @@ const feature_data = [
         "geometry": {
           "coordinates": [
             6082,
-            14514
+            4514
           ],
           "type": "Point"
         },
@@ -15905,7 +15905,7 @@ const feature_data = [
         "geometry": {
           "coordinates": [
             6232,
-            14043
+            4043
           ],
           "type": "Point"
         },
@@ -16095,7 +16095,7 @@ const feature_data = [
         "geometry": {
           "coordinates": [
             3542,
-            12157
+            2157
           ],
           "type": "Point"
         },

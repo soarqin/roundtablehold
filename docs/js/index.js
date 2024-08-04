@@ -1361,6 +1361,46 @@
 "caves_ld7",
 "caves_ld8",
 "caves_ld9",
+"cookbooks_10_1",
+"cookbooks_10_2",
+"cookbooks_10_3",
+"cookbooks_10_4",
+"cookbooks_10_5",
+"cookbooks_10_6",
+"cookbooks_10_7",
+"cookbooks_11_1",
+"cookbooks_11_2",
+"cookbooks_12_1",
+"cookbooks_12_2",
+"cookbooks_13_1",
+"cookbooks_13_10",
+"cookbooks_13_11",
+"cookbooks_13_12",
+"cookbooks_13_13",
+"cookbooks_13_14",
+"cookbooks_13_2",
+"cookbooks_13_3",
+"cookbooks_13_4",
+"cookbooks_13_5",
+"cookbooks_13_6",
+"cookbooks_13_7",
+"cookbooks_13_8",
+"cookbooks_13_9",
+"cookbooks_14_1",
+"cookbooks_14_2",
+"cookbooks_15_1",
+"cookbooks_15_2",
+"cookbooks_15_3",
+"cookbooks_16_1",
+"cookbooks_16_2",
+"cookbooks_16_3",
+"cookbooks_17_1",
+"cookbooks_17_2",
+"cookbooks_18_1",
+"cookbooks_19_1",
+"cookbooks_19_2",
+"cookbooks_19_3",
+"cookbooks_19_4",
 "cookbooks_1_1",
 "cookbooks_1_10",
 "cookbooks_1_11",
@@ -1385,6 +1425,11 @@
 "cookbooks_1_7",
 "cookbooks_1_8",
 "cookbooks_1_9",
+"cookbooks_20_1",
+"cookbooks_20_2",
+"cookbooks_21_1",
+"cookbooks_21_2",
+"cookbooks_22_1",
 "cookbooks_2_1",
 "cookbooks_2_2",
 "cookbooks_2_3",
@@ -1427,6 +1472,14 @@
 "crystal_tears_1_2",
 "crystal_tears_1_3",
 "crystal_tears_1_4",
+"crystal_tears_20_1",
+"crystal_tears_20_2",
+"crystal_tears_20_3",
+"crystal_tears_20_4",
+"crystal_tears_20_5",
+"crystal_tears_20_6",
+"crystal_tears_20_7",
+"crystal_tears_20_8",
 "crystal_tears_2_1",
 "crystal_tears_2_2",
 "crystal_tears_2_3",
@@ -4911,7 +4964,7 @@ const spiritbyregion_total = 84;
 var spiritbyregion_checked = 0;
 const flasks_total = 57;
 var flasks_checked = 0;
-const crystal_tears_total = 32;
+const crystal_tears_total = 40;
 var crystal_tears_checked = 0;
 const memory_stones_talisman_pouches_total = 11;
 var memory_stones_talisman_pouches_checked = 0;
@@ -4921,7 +4974,7 @@ const whetstones_total = 6;
 var whetstones_checked = 0;
 const bell_bearings_total = 62;
 var bell_bearings_checked = 0;
-const cookbooks_total = 59;
+const cookbooks_total = 104;
 var cookbooks_checked = 0;
 const ancient_dragon_smithing_stones_total = 35;
 var ancient_dragon_smithing_stones_checked = 0;
