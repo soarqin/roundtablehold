@@ -10065,7 +10065,7 @@
   },
   {
     "id": "/checklists/armor.html#item_16",
-    "text": "年迈权贵头巾 [年迈权贵套装]的所有物品都是由年迈权贵类敌人掉落的，通常是在游荡在大部分地区道路上的大群流浪贵族中发现。高举的旗帜使他们很容易与其他流浪贵族区分开来。有两个在赐福[驿站街遗迹的地下室]西边山妖拉车队伍里。[亚坛高原] - 在[金面具]所在桥的左边。"
+    "text": "年迈权贵头巾 [年迈权贵套装]的所有物品都是由年迈权贵类敌人掉落的，通常是在游荡在大部分地区道路上的大群流浪贵族中发现。高举的旗帜使他们很容易与其他流浪贵族区分开来。有两个在赐福[驿站街遗迹的地下室]西边山妖拉车队伍里。[亚坛高原]在[金面具]所在桥的左边。"
   },
   {
     "id": "/checklists/armor.html#item_17",
@@ -10089,7 +10089,7 @@
   },
   {
     "id": "/checklists/armor.html#item_23",
-    "text": "上流随从风帽 [上流随从风帽]和[上流随从上衣]由上流随从掉落。最早可以发现的是在[魔法学院雷亚卢卡利亚]学院。从赐福[杜鹃教堂]进入教堂，走捷径梯子上去。房间的另一边是一条长长的走廊，走廊尽头有一个。它们也可以在[王城罗德尔]各建筑中找到。但是在[王城罗德尔]变成[灰城罗德尔]之后它们不再出现 随从和上流随从都掉落[随从长裤]"
+    "text": "上流随从风帽 [上流随从风帽]和[上流随从上衣]由上流随从掉落。最早可以发现的是在[魔法学院雷亚卢卡利亚]学院。从赐福[杜鹃教堂]进入教堂，走捷径梯子上去。房间的另一边是一条长长的走廊，走廊尽头有一个。它们也可以在[王城罗德尔]各建筑中找到。但是在[王城罗德尔]变成[灰城罗德尔]之后它们不再出现随从和上流随从都掉落[随从长裤]"
   },
   {
     "id": "/checklists/armor.html#item_24",
@@ -10141,7 +10141,7 @@
   },
   {
     "id": "/checklists/armor.html#item_38",
-    "text": "罪人风帽 [布质上衣][地图链接]和[布质长裤][地图链接]可以在[蒙流洞窟]中找到。他们在[帕奇]房间的宝箱里，触发他的Boss战击杀他或者投降推进任务线后再打开宝箱。[罪人风帽]可以从[格密尔火山]中的[流浪民族的商人]500卢恩购买。[地图链接] [罪人风帽]也可以在皇家首都赐福[大道旁露台]以北下水道的尸体上发现。[地图链接]"
+    "text": "罪人风帽 [布质上衣][地图链接]和[布质长裤][地图链接]可以在[蒙流洞窟]中找到。他们在[帕奇]房间的宝箱里，触发他的Boss战击杀他或者投降推进任务线后再打开宝箱。[罪人风帽]可以从[格密尔火山]中的[流浪民族的商人]500卢恩购买。[地图链接][罪人风帽]也可以在皇家首都赐福[大道旁露台]以北下水道的尸体上发现。[地图链接]"
   },
   {
     "id": "/checklists/armor.html#item_39",
@@ -10149,7 +10149,7 @@
   },
   {
     "id": "/checklists/armor.html#item_40",
-    "text": "布质长裤 (未按套装顺序排列，出现在腿甲的第一格) "
+    "text": "布质长裤 按套装顺序排列，出现在腿甲的第一格)"
   },
   {
     "id": "/checklists/armor.html#item_41",
@@ -10173,11 +10173,27 @@
   },
   {
     "id": "/checklists/armor.html#item_46",
-    "text": "官吏上衣 (未按套装顺序排列，出现在胸甲第三区域) 在[巨人山顶]的尸体上。从赐福[禁域]上电梯，激活电梯后对折东南方向，电梯运行过程中看到一个可以跳进去的房间拾取[使命短刀]和[官吏上衣]"
+    "text": "官吏上衣 按套装顺序排列，出现在胸甲第三区域)。在[巨人山顶]的尸体上。从赐福[禁域]上电梯，激活电梯后对折东南方向，电梯运行过程中看到一个可以跳进去的房间拾取[使命短刀]和[官吏上衣]"
   },
   {
     "id": "/checklists/armor.html#item_47",
     "text": "渗血腕套 "
+  },
+  {
+    "id": "/checklists/armor.html#item_833",
+    "text": "毛虫面具 在击杀[角人]的地方掉落"
+  },
+  {
+    "id": "/checklists/armor.html#item_834",
+    "text": "编绳长袍 "
+  },
+  {
+    "id": "/checklists/armor.html#item_835",
+    "text": "编绳腕套 "
+  },
+  {
+    "id": "/checklists/armor.html#item_836",
+    "text": "破旧兜裆布 "
   },
   {
     "id": "/checklists/armor.html#item_48",
@@ -10202,6 +10218,14 @@
   {
     "id": "/checklists/armor.html#item_53",
     "text": "蘑菇腿部 "
+  },
+  {
+    "id": "/checklists/armor.html#item_941",
+    "text": "托莉娜孤花 [深紫花园]：完成[休里耶]和[圣女托莉娜]的任务线后，返回[深紫花园]的洞穴从她倒下的尸体上捡起此物品。"
+  },
+  {
+    "id": "/checklists/armor.html#item_935",
+    "text": "光芒头冠 首先击败[[“米凯拉的王”拉塔恩]]。战斗结束后，在Boss区域中心触摸金色球体选择“触摸记忆”触发过场动画。您将在过场动画播放完后获得此物品。"
   },
   {
     "id": "/checklists/armor.html#item_54",
@@ -10381,7 +10405,7 @@
   },
   {
     "id": "/checklists/armor.html#item_104",
-    "text": "古老魔法师绑腿 (未按套装顺序排列，出现在腿甲第二区域第二格) "
+    "text": "古老魔法师绑腿 按套装顺序排列，出现在腿甲第二区域第二格)"
   },
   {
     "id": "/checklists/armor.html#item_105",
@@ -10410,6 +10434,26 @@
   {
     "id": "/checklists/armor.html#item_112",
     "text": "雪魔女长裙 "
+  },
+  {
+    "id": "/checklists/armor.html#item_828",
+    "text": "大祭司帽子 [“大祭司”尤弥尔]掉落，在与王座互动后可以在[玛努斯·美特大教堂]找到她，只有在击败[“指头之母”尤弥尔]后才能在那里找到[“大祭司”尤弥尔]。"
+  },
+  {
+    "id": "/checklists/armor.html#item_829",
+    "text": "大祭司长袍 "
+  },
+  {
+    "id": "/checklists/armor.html#item_830",
+    "text": "大祭司长手套 "
+  },
+  {
+    "id": "/checklists/armor.html#item_831",
+    "text": "大祭司衬裤 "
+  },
+  {
+    "id": "/checklists/armor.html#item_832",
+    "text": "指头长袍 "
   },
   {
     "id": "/checklists/armor.html#item_113",
@@ -10482,6 +10526,26 @@
   {
     "id": "/checklists/armor.html#item_134",
     "text": "大风帽 解开[绘画《魔法师》]谜题的奖励。从[观星废墟]西北方的桥一直向北走。在桥的中心东边有一块凸起的平台，一个画家灵魂坐在椅子上。互动后拾取[大风帽]。[地图链接]"
+  },
+  {
+    "id": "/checklists/armor.html#item_800",
+    "text": "丹恩帽子 在[波尼村]下方的瀑布下找到。只有用[幽影城]底部的棺材才能抵达这个区域。"
+  },
+  {
+    "id": "/checklists/armor.html#item_801",
+    "text": "落叶派长袍 "
+  },
+  {
+    "id": "/checklists/armor.html#item_802",
+    "text": "落叶派腕套 "
+  },
+  {
+    "id": "/checklists/armor.html#item_803",
+    "text": "落叶派长靴 "
+  },
+  {
+    "id": "/checklists/armor.html#item_804",
+    "text": "落叶派长袍（轻装） "
   },
   {
     "id": "/checklists/armor.html#item_135",
@@ -10652,6 +10716,26 @@
     "text": "鲜血贵族腰巾 "
   },
   {
+    "id": "/checklists/armor.html#item_852",
+    "text": "老贤者面具 [“纯血骑士”安帕赫]的任务线推到最后，在面对[“金针骑士”蕾妲]时站在他一边。战斗结束后，[“纯血骑士”安帕赫]的尸体将出现在赐福点附近，旁边有他的装备和法术。"
+  },
+  {
+    "id": "/checklists/armor.html#item_853",
+    "text": "安帕赫上衣 "
+  },
+  {
+    "id": "/checklists/armor.html#item_854",
+    "text": "安帕赫腕套 "
+  },
+  {
+    "id": "/checklists/armor.html#item_855",
+    "text": "安帕赫靴子 "
+  },
+  {
+    "id": "/checklists/armor.html#item_856",
+    "text": "安帕赫上衣（轻装） "
+  },
+  {
     "id": "/checklists/armor.html#item_180",
     "text": "鲜血君王上衣 击败[“鲜血君王”蒙格]后，可以从[“解指”恩雅]处以20,000卢恩购买。"
   },
@@ -10700,6 +10784,10 @@
     "text": "小恶魔头罩（长老） 在[化圣雪原地下墓地]中: 二楼的一个房间里，有一只小归树看门犬看守着。[地图链接]"
   },
   {
+    "id": "/checklists/armor.html#item_944",
+    "text": "小恶魔头罩（狮子） [蝎河地下墓地]：当您进入有两个天花板尖刺陷阱的区域时，在咒蛙的注视下穿过一座桥前往下一个电梯，在尽头停下跳上左侧的窄平台，并沿着向上走，跳上掉落的尖刺陷阱，抵达一个带有此物品的平台。"
+  },
+  {
     "id": "/checklists/armor.html#item_193",
     "text": "诺克斯镜面盔 [断崖下的地下墓地]: 在密封的房间里，解除小恶魔像封印的雾门进入。[地图链接]"
   },
@@ -10724,8 +10812,12 @@
     "text": "壶头罩 [“战士壶”亚历山大]给予。他的任务线进行到在[格密尔火山][沸滚河终点]附近的岩浆中找到他。完成对话获得。[地图链接]"
   },
   {
+    "id": "/checklists/armor.html#item_943",
+    "text": "大壶头罩 [贝瑞特监牢]：离开大壶迷宫后，你将经过一座小桥，在一个相当大的平台上与3个敌人战斗。向右转，在下面找到另一个壶，跳上去上到高处。抵达后跳到另一个平台上。"
+  },
+  {
     "id": "/checklists/armor.html#item_199",
-    "text": "白金之子头罩 位于[火山官邸]赐福[迎宾厅]附近。从赐福点向左走，然后再向左走，走楼梯到下一层。走出去，用左手边的梯子上屋顶。去屋顶后面，从右边跳下去，来到一个有[恶兆猎人]， [白金杖]和[白金之子头罩]的房间。[地图链接]"
+    "text": "白金之子头罩 位于[火山官邸]赐福[迎宾厅]附近。从赐福点向左走，然后再向左走，走楼梯到下一层。走出去，用左手边的梯子上屋顶。去屋顶后面，从右边跳下去，来到一个有[恶兆猎人]，[白金杖]和[白金之子头罩]的房间。[地图链接]"
   },
   {
     "id": "/checklists/armor.html#item_571",
@@ -10733,7 +10825,7 @@
   },
   {
     "id": "/checklists/armor.html#item_201",
-    "text": "黑布风帽 (未按套装顺序排列，出现在盗贼面具和密使风帽之间) in-game.) 在[亚坛高原]中[贤者的洞窟]虚幻的墙后面的一个箱子中发现的。"
+    "text": "黑布风帽 (未按套装顺序排列，出现在盗贼面具和密使风帽之间)。 在[亚坛高原]中[贤者的洞窟]虚幻的墙后面的一个箱子中发现的。"
   },
   {
     "id": "/checklists/armor.html#item_202",
@@ -10798,6 +10890,26 @@
   {
     "id": "/checklists/armor.html#item_218",
     "text": "战场医师长裤 "
+  },
+  {
+    "id": "/checklists/armor.html#item_823",
+    "text": "休里耶面具 在[休里耶]任务线最后击败他，然后在推进主线后在他的尸体上拾取。"
+  },
+  {
+    "id": "/checklists/armor.html#item_824",
+    "text": "休里耶上衣 "
+  },
+  {
+    "id": "/checklists/armor.html#item_825",
+    "text": "休里耶长手套 "
+  },
+  {
+    "id": "/checklists/armor.html#item_826",
+    "text": "休里耶长裤 "
+  },
+  {
+    "id": "/checklists/armor.html#item_827",
+    "text": "休里耶上衣（轻装） "
   },
   {
     "id": "/checklists/armor.html#item_219",
@@ -10874,6 +10986,46 @@
   {
     "id": "/checklists/armor.html#item_240",
     "text": "盗贼靴子 "
+  },
+  {
+    "id": "/checklists/armor.html#item_907",
+    "text": "守墓鸟头盔 从赐福[螺旋塔]爬上塔顶，直到找到电梯捷径返回。乘坐电梯向下，在半路上跳进中央祭坛。"
+  },
+  {
+    "id": "/checklists/armor.html#item_908",
+    "text": "守墓鸟黑羽铠甲 从赐福[神殿镇废墟]向北走，经过腐败眷属，然后靠左行走。这条路会开始向上延伸，你会发现几只守墓鸟。继续向上走，你最终会到达一个有守墓鸟雕像的区域，在中间靠墙的地方找到。"
+  },
+  {
+    "id": "/checklists/armor.html#item_909",
+    "text": "守墓鸟手环 在赐福[通柱坡]的南边，祭坛角落的一具尸体那里。"
+  },
+  {
+    "id": "/checklists/armor.html#item_910",
+    "text": "守墓鸟脚环 从赐福[穆斯废墟]出发，向东北方向前往三角形的小湖。穿过湖北的洞穴，那里有玛莉卡的无头雕像，经过米兰达花和调香师，到达沼泽区。在毒湖的一个大拱门下面，周围是守墓鸟。"
+  },
+  {
+    "id": "/checklists/armor.html#item_911",
+    "text": "守墓鸟铠甲 [置病村]往西到接近尽头的区域，有四尊守墓鸟雕像。"
+  },
+  {
+    "id": "/checklists/armor.html#item_837",
+    "text": "舞娘风帽 [南方无名灵庙]的Boss[拉纳舞娘]掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_838",
+    "text": "舞娘连身裙 "
+  },
+  {
+    "id": "/checklists/armor.html#item_839",
+    "text": "舞娘臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_840",
+    "text": "舞娘长裤 "
+  },
+  {
+    "id": "/checklists/armor.html#item_841",
+    "text": "舞娘连身裙（轻装） "
   },
   {
     "id": "/checklists/armor.html#item_245",
@@ -10984,6 +11136,22 @@
     "text": "小兵腿甲 [小兵腿甲]只有葛瑞克步兵掉落。"
   },
   {
+    "id": "/checklists/armor.html#item_912",
+    "text": "士兵头盔 由[恩希斯城]和[惩罚要塞]的士兵几率掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_913",
+    "text": "士兵软铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_914",
+    "text": "士兵臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_915",
+    "text": "士兵腿甲 "
+  },
+  {
     "id": "/checklists/armor.html#item_258",
     "text": "恶兵头盔 赐福[野兽神殿]和赐福[法姆大桥]周围的恶兵掉落。"
   },
@@ -10998,6 +11166,22 @@
   {
     "id": "/checklists/armor.html#item_261",
     "text": "恶兵腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_936",
+    "text": "幽影恶兵头盔 通过杀死幽影恶兵类敌人找到。"
+  },
+  {
+    "id": "/checklists/armor.html#item_937",
+    "text": "幽影恶兵铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_938",
+    "text": "幽影恶兵臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_939",
+    "text": "幽影恶兵腿甲 "
   },
   {
     "id": "/checklists/armor.html#item_262",
@@ -11086,6 +11270,90 @@
   {
     "id": "/checklists/armor.html#item_289",
     "text": "勇者绑腿 "
+  },
+  {
+    "id": "/checklists/armor.html#item_888",
+    "text": "皮革头带 在劳弗下方的一具尸体上找到，尸体在[大红熊鲁格利亚]所在区域附近的一处矮悬崖上。"
+  },
+  {
+    "id": "/checklists/armor.html#item_889",
+    "text": "荣誉上衣 "
+  },
+  {
+    "id": "/checklists/armor.html#item_890",
+    "text": "皮革腕套 "
+  },
+  {
+    "id": "/checklists/armor.html#item_891",
+    "text": "皮革绑腿 "
+  },
+  {
+    "id": "/checklists/armor.html#item_892",
+    "text": "皮革头盔 在[幽影亚坛]通往[幽影城]的道路东边的一片小橙色森林中。从赐福[大道旁的十字记号]向北走，直到道路与东南方向的一条小路相连，然后前往正东的森林。套装位于森林的中心，[大红熊拉鲁瓦]游荡的池塘西边。"
+  },
+  {
+    "id": "/checklists/armor.html#item_893",
+    "text": "高地上衣 "
+  },
+  {
+    "id": "/checklists/armor.html#item_818",
+    "text": "拉鲁瓦毛皮 击败[幽影亚坛]的[大红熊拉鲁瓦]后，可以[拉鲁瓦毛皮]。其他部件由[北方无名灵庙]的Boss[红熊]掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_819",
+    "text": "铁铆钉上衣 "
+  },
+  {
+    "id": "/checklists/armor.html#item_820",
+    "text": "铁铆钉臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_821",
+    "text": "铁铆钉腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_822",
+    "text": "狮牙头盔 "
+  },
+  {
+    "id": "/checklists/armor.html#item_846",
+    "text": "埃贡头盔 击败[“狂龙”贝勒]后[埃贡]会将他的物品遗留在他之前的位置。"
+  },
+  {
+    "id": "/checklists/armor.html#item_847",
+    "text": "埃贡铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_848",
+    "text": "埃贡臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_849",
+    "text": "埃贡腰巾 "
+  },
+  {
+    "id": "/checklists/armor.html#item_850",
+    "text": "埃贡头盔（轻装） "
+  },
+  {
+    "id": "/checklists/armor.html#item_851",
+    "text": "埃贡铠甲（轻装） "
+  },
+  {
+    "id": "/checklists/armor.html#item_898",
+    "text": "咒剑士面具 [咒剑士]类敌人几率掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_899",
+    "text": "修行者腰巾 "
+  },
+  {
+    "id": "/checklists/armor.html#item_900",
+    "text": "修行者手环 "
+  },
+  {
+    "id": "/checklists/armor.html#item_901",
+    "text": "修行者脚环 "
   },
   {
     "id": "/checklists/armor.html#item_290",
@@ -11220,6 +11488,26 @@
     "text": "灵庙士兵腿甲 "
   },
   {
+    "id": "/checklists/armor.html#item_867",
+    "text": "梅瑟莫士兵头盔 [梅瑟莫士兵]几率掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_868",
+    "text": "梅瑟莫士兵铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_869",
+    "text": "梅瑟莫士兵臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_870",
+    "text": "梅瑟莫士兵腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_871",
+    "text": "梅瑟莫士兵铠甲（轻装） "
+  },
+  {
     "id": "/checklists/armor.html#item_324",
     "text": "流刑士兵风帽 流刑士兵掉落。"
   },
@@ -11316,6 +11604,26 @@
     "text": "奇异骑士长裤 "
   },
   {
+    "id": "/checklists/armor.html#item_857",
+    "text": "弗蕾亚头盔 出现在[“红狮子”弗蕾亚]死亡的地点。"
+  },
+  {
+    "id": "/checklists/armor.html#item_858",
+    "text": "弗蕾亚铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_859",
+    "text": "弗蕾亚臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_860",
+    "text": "弗蕾亚腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_861",
+    "text": "弗蕾亚铠甲（轻装） "
+  },
+  {
     "id": "/checklists/armor.html#item_351",
     "text": "人偶兵头盔 人偶士兵掉落。大多数地图都有，但在[魔法学院雷亚卢卡利亚]和[湖之利耶尼亚]数量较多。"
   },
@@ -11408,6 +11716,22 @@
     "text": "黑刀腿甲 "
   },
   {
+    "id": "/checklists/armor.html#item_842",
+    "text": "黑夜头盔 [波尼监牢]：使用桥附近的壶升降机两次到达监牢的顶层。在桌子上的尸体上找到。"
+  },
+  {
+    "id": "/checklists/armor.html#item_843",
+    "text": "黑夜铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_844",
+    "text": "黑夜臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_845",
+    "text": "黑夜腿甲 "
+  },
+  {
     "id": "/checklists/armor.html#item_376",
     "text": "玛莲妮亚飞翼头盔 击败[“米凯拉的锋刃”玛莲妮亚]后，从[“解指”恩雅]以总价56,000卢恩购买。"
   },
@@ -11438,6 +11762,26 @@
   {
     "id": "/checklists/armor.html#item_385",
     "text": "艾尔登之王腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_902",
+    "text": "梅瑟莫头盔 击败Boss[“穿刺者”梅瑟莫]后，从[圆桌厅堂]的[“解指”恩雅]处购买。"
+  },
+  {
+    "id": "/checklists/armor.html#item_903",
+    "text": "梅瑟莫铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_904",
+    "text": "梅瑟莫臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_905",
+    "text": "梅瑟莫腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_906",
+    "text": "梅瑟莫头盔（轻装） "
   },
   {
     "id": "/checklists/armor.html#item_386",
@@ -11600,6 +11944,22 @@
     "text": "灵庙骑士腿甲 "
   },
   {
+    "id": "/checklists/armor.html#item_872",
+    "text": "黑骑士头盔 [黑骑士]几率掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_873",
+    "text": "黑骑士铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_874",
+    "text": "黑骑士臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_875",
+    "text": "黑骑士腿甲 "
+  },
+  {
     "id": "/checklists/armor.html#item_435",
     "text": "猎犬骑士头盔 [格密尔火山][格密尔英雄墓地]内的猎犬骑士掉落。从可以乘坐第二辆战车的横梁上下来跳到旁边的窗户上，顺着梯子下去找到骑士。[地图链接]"
   },
@@ -11630,6 +11990,114 @@
   {
     "id": "/checklists/armor.html#item_444",
     "text": "尊腐骑士腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_880",
+    "text": "火焰骑士头盔 [幽影城]里的火焰骑士几率掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_881",
+    "text": "火焰骑士铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_882",
+    "text": "火焰骑士臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_883",
+    "text": "火焰骑士腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_884",
+    "text": "火焰骑士铠甲（轻装） "
+  },
+  {
+    "id": "/checklists/armor.html#item_886",
+    "text": "带翼蛇头盔 [幽影城]第六层：使用拉杆移动雕像后，爬上雕像。走出去右转，上楼梯，左转到通往[“穿刺者”梅瑟莫]Boss战的桥，击杀前面的火焰骑士。"
+  },
+  {
+    "id": "/checklists/armor.html#item_885",
+    "text": "死亡面具头盔 [幽影城]的教堂区排水后的精英火焰骑士掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_887",
+    "text": "萨赞风帽 从赐福[西边城墙]过桥，在最后击败火焰骑士。"
+  },
+  {
+    "id": "/checklists/armor.html#item_894",
+    "text": "死骑士头盔 [驱暗地下墓地]：抵达第一个电梯，下电梯进入下一个房间，然后沿着右侧的楼梯走下去。走到下一个楼梯的起点，你会看到栏杆旁边有破损，跳下去在你身后的房间里。"
+  },
+  {
+    "id": "/checklists/armor.html#item_895",
+    "text": "死骑士铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_896",
+    "text": "死骑士臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_897",
+    "text": "死骑士腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_916",
+    "text": "角战士头盔 由[角战士]几率掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_917",
+    "text": "角战士铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_918",
+    "text": "角战士臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_919",
+    "text": "角战士腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_920",
+    "text": "神兽头盔 由[艾尼尔·伊利姆]的神兽战士几率掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_921",
+    "text": "神兽战士铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_922",
+    "text": "神鸟头盔 由[劳弗古遗迹]和[艾尼尔·伊利姆]的神鸟战士几率掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_923",
+    "text": "神鸟战士铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_924",
+    "text": "神鸟战士臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_925",
+    "text": "神鸟战士腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_809",
+    "text": "誓约骑士头盔 [恩惠教堂]外面的一具悬挂的尸体上找到。"
+  },
+  {
+    "id": "/checklists/armor.html#item_811",
+    "text": "誓约骑士臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_812",
+    "text": "誓约骑士腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_813",
+    "text": "誓约骑士铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_810",
+    "text": "蕾妲铠甲 [“金针骑士”蕾妲]任务线最后击败她后获得。"
   },
   {
     "id": "/checklists/armor.html#item_445",
@@ -11748,6 +12216,22 @@
     "text": "指痕腿甲 "
   },
   {
+    "id": "/checklists/armor.html#item_876",
+    "text": "罗刹头盔 [东方无名灵庙]的Boss[罗刹]地掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_877",
+    "text": "罗刹铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_878",
+    "text": "罗刹臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_879",
+    "text": "罗刹腿甲 "
+  },
+  {
     "id": "/checklists/armor.html#item_482",
     "text": "王骸头盔 在[圆桌厅堂]击败入侵NPC[“王骸”恩夏]后，可以在[“百智爵士”基甸·奥夫尼尔]的房间外他原来站立的地方找到。"
   },
@@ -11794,6 +12278,22 @@
   {
     "id": "/checklists/armor.html#item_495",
     "text": "禁卫骑士腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_926",
+    "text": "蕾菈娜头盔 击败Boss[“双月骑士”蕾菈娜]后，可以从[圆桌厅堂]的[“解指”恩雅]购买所有护甲。"
+  },
+  {
+    "id": "/checklists/armor.html#item_927",
+    "text": "蕾菈娜铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_928",
+    "text": "蕾菈娜手套 "
+  },
+  {
+    "id": "/checklists/armor.html#item_929",
+    "text": "蕾菈娜腿甲 "
   },
   {
     "id": "/checklists/armor.html#item_496",
@@ -11850,6 +12350,26 @@
   {
     "id": "/checklists/armor.html#item_512",
     "text": "黑夜骑兵腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_862",
+    "text": "孤牢头盔 击败[西方无名灵庙]的Boss[黑骑士]后掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_863",
+    "text": "孤牢铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_864",
+    "text": "孤牢臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_865",
+    "text": "孤牢腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_866",
+    "text": "孤牢铠甲（轻装） "
   },
   {
     "id": "/checklists/armor.html#item_513",
@@ -11968,6 +12488,26 @@
     "text": "熔炉腿甲 "
   },
   {
+    "id": "/checklists/armor.html#item_942",
+    "text": "熔炉槌形盔 赐福[劳弗古遗迹（东方）]附近的熔炉骑士掉落。"
+  },
+  {
+    "id": "/checklists/armor.html#item_805",
+    "text": "盖乌斯头盔 击败Boss[老将盖乌斯]后，可以从[圆桌厅堂]的[“解指”恩雅]购买头盔、盔甲和手套。狼骑士类敌人会掉落[盖乌斯腿甲]。"
+  },
+  {
+    "id": "/checklists/armor.html#item_806",
+    "text": "盖乌斯铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_807",
+    "text": "盖乌斯臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_808",
+    "text": "盖乌斯腿甲 "
+  },
+  {
     "id": "/checklists/armor.html#item_547",
     "text": "拉塔恩红发头盔 击败[“碎星”拉塔恩]后从[圆桌厅堂]的[“解指”恩雅]处以36,000卢恩购买"
   },
@@ -11982,6 +12522,26 @@
   {
     "id": "/checklists/armor.html#item_551",
     "text": "拉塔恩腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_930",
+    "text": "年少狮子头盔 在[“解指”恩雅]击败[“米凯拉的王”拉塔恩]后，从[圆桌厅堂]的[“解指”恩雅]处购买。"
+  },
+  {
+    "id": "/checklists/armor.html#item_931",
+    "text": "年少狮子铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_932",
+    "text": "年少狮子臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_933",
+    "text": "年少狮子腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_934",
+    "text": "年少狮子铠甲（轻装） "
   },
   {
     "id": "/checklists/armor.html#item_552",
@@ -12014,6 +12574,22 @@
   {
     "id": "/checklists/armor.html#item_560",
     "text": "大山羊腿甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_814",
+    "text": "铜绿头盔 在[穆尔]死的地方。"
+  },
+  {
+    "id": "/checklists/armor.html#item_815",
+    "text": "铜绿铠甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_816",
+    "text": "铜绿臂甲 "
+  },
+  {
+    "id": "/checklists/armor.html#item_817",
+    "text": "铜绿腿甲 "
   },
   {
     "id": "/checklists/armor.html#item_561",
@@ -12053,7 +12629,11 @@
   },
   {
     "id": "/checklists/armor.html#item_570",
-    "text": "南瓜头盔 普通疯狂南瓜头士兵掉落。在以下地点可以找到:[宁姆格福][圣人桥] [地图链接][海德要塞][地图链接][摩恩城][地图链接][魔法学院雷亚卢卡利亚][红狮子城][亚坛高原]: 在[罪人桥]附近俯瞰东北悬崖的墓碑旁。[格密尔火山]: 位于[格密尔火山（第１休息站）]以东和[飘尸臭的破屋]以南。"
+    "text": "南瓜头盔 普通疯狂南瓜头士兵掉落。在以下地点可以找到:[宁姆格福][圣人桥] [地图链接][海德要塞][地图链接][摩恩城][地图链接][魔法学院雷亚卢卡利亚][红狮子城][亚坛高原]：在[罪人桥]附近俯瞰东北悬崖的墓碑旁。[格密尔火山]: 位于[格密尔火山（第１休息站）]以东和[飘尸臭的破屋]以南。"
+  },
+  {
+    "id": "/checklists/armor.html#item_940",
+    "text": "神兽头部 击败[“塔之镇”贝瑞特]的[神兽舞狮]后掉落。"
   },
   {
     "id": "/checklists/talismans.html#item_2_1",
