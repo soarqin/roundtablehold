@@ -1511,6 +1511,12 @@
 "dragon_hearts_death_roots_0_12",
 "dragon_hearts_death_roots_0_13",
 "dragon_hearts_death_roots_0_2",
+"dragon_hearts_death_roots_0_21",
+"dragon_hearts_death_roots_0_22",
+"dragon_hearts_death_roots_0_23",
+"dragon_hearts_death_roots_0_24",
+"dragon_hearts_death_roots_0_25",
+"dragon_hearts_death_roots_0_26",
 "dragon_hearts_death_roots_0_3",
 "dragon_hearts_death_roots_0_4",
 "dragon_hearts_death_roots_0_5",
@@ -1596,6 +1602,11 @@
 "gestures_0_7",
 "gestures_0_8",
 "gestures_0_9",
+"gestures_11_1",
+"gestures_11_2",
+"gestures_11_3",
+"gestures_11_4",
+"gestures_11_5",
 "gestures_1_1",
 "gestures_1_10",
 "gestures_1_11",
@@ -1949,6 +1960,15 @@
 "great_gloveworts_1",
 "great_gloveworts_10",
 "great_gloveworts_2",
+"great_gloveworts_21",
+"great_gloveworts_22",
+"great_gloveworts_23",
+"great_gloveworts_24",
+"great_gloveworts_25",
+"great_gloveworts_26",
+"great_gloveworts_27",
+"great_gloveworts_28",
+"great_gloveworts_29",
 "great_gloveworts_3",
 "great_gloveworts_4",
 "great_gloveworts_5",
@@ -1957,6 +1977,7 @@
 "great_gloveworts_8",
 "great_gloveworts_9",
 "great_runes_1_1",
+"great_runes_1_11",
 "great_runes_1_1r",
 "great_runes_1_2",
 "great_runes_1_3",
@@ -4978,15 +4999,15 @@ const cookbooks_total = 104;
 var cookbooks_checked = 0;
 const ancient_dragon_smithing_stones_total = 35;
 var ancient_dragon_smithing_stones_checked = 0;
-const great_gloveworts_total = 10;
+const great_gloveworts_total = 19;
 var great_gloveworts_checked = 0;
 const remembrances_mausoleums_total = 52;
 var remembrances_mausoleums_checked = 0;
-const great_runes_total = 17;
+const great_runes_total = 18;
 var great_runes_checked = 0;
 const stonesword_total = 117;
 var stonesword_checked = 0;
-const dragon_hearts_death_roots_total = 22;
+const dragon_hearts_death_roots_total = 28;
 var dragon_hearts_death_roots_checked = 0;
 const tears_dews_total = 37;
 var tears_dews_checked = 0;
@@ -4996,7 +5017,7 @@ const pots_bottles_total = 40;
 var pots_bottles_checked = 0;
 const tools_total = 42;
 var tools_checked = 0;
-const gestures_total = 48;
+const gestures_total = 53;
 var gestures_checked = 0;
 for (var id in profiles[profilesKey][profiles.current].checklistData) {
 if (profiles[profilesKey][profiles.current].checklistData[id] === true && all_ids.has(id)) {

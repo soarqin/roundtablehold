@@ -701,10 +701,10 @@ window.progress = {
     ],
   },
   "great_gloveworts": {
-    "total": [0, 10],
+    "total": [0, 19],
     "sections": [
-      [0, 6],
-      [0, 4],
+      [0, 12],
+      [0, 7],
     ],
   },
   "remembrances_mausoleums": {
@@ -715,9 +715,9 @@ window.progress = {
     ],
   },
   "great_runes": {
-    "total": [0, 17],
+    "total": [0, 18],
     "sections": [
-      [0, 7],
+      [0, 8],
       [0, 6],
       [0, 4],
     ],
@@ -730,9 +730,9 @@ window.progress = {
     ],
   },
   "dragon_hearts_death_roots": {
-    "total": [0, 22],
+    "total": [0, 28],
     "sections": [
-      [0, 13],
+      [0, 19],
       [0, 9],
     ],
   },
@@ -768,7 +768,7 @@ window.progress = {
     ],
   },
   "gestures": {
-    "total": [0, 48],
+    "total": [0, 53],
     "sections": [
       [0, 12],
       [0, 13],
@@ -779,6 +779,7 @@ window.progress = {
       [0, 4],
       [0, 2],
       [0, 1],
+      [0, 5],
     ],
   },
 };

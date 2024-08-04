@@ -40,7 +40,7 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Oracle+Envoy+Ashes"><b>神谕众使者的骨灰</b></a>', '在<b>[米凯拉的圣树]</b>起点附近一条往右的分岔路上，穿过一个射你的大神谕使者。']
   - id: "20_12"
     icon: "/img/icons/spirit_ashes/00911.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Man-Fly+Ashes">人形苍蝇的骨灰</a>', '<b>[苍蝇村]</b>的一只幼虫尸体上。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Man-Fly+Ashes"><b>人形苍蝇的骨灰</b></a>', '<b>[苍蝇村]</b>的一只幼虫尸体上。']
   - id: '2_4'
     icon: /img/icons/spirit_ashes/00104.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Lone+Wolf+Ashes"><b>离群野狼的骨灰</b></a>', '从<b>[梅琳娜]</b>处获取灵马后夜间在<b>[艾雷教堂]</b>处由<b>[魔女蕾娜]</b>给予。']
@@ -64,19 +64,19 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Miranda+Sprout+Ashes"><b>小米兰达的骨灰</b></a>', '在<b>[盖利德地下墓地]</b>的第一个开放房间的楼梯下的一个幻影墙后发现。']
   - id: "20_5"
     icon: "/img/icons/spirit_ashes/00904.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Spider+Scorpion+Ashes">蜘蛛蝎的骨灰</a>', '<b>[劳弗古遗迹]</b>：在蛛蝎挂在天花板上的地方，地面上的很多物品之一。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Spider+Scorpion+Ashes"><b>蜘蛛蝎的骨灰</b></a>', '<b>[劳弗古遗迹]</b>：在蛛蝎挂在天花板上的地方，地面上的很多物品之一。']
   - id: "20_17"
     icon: "/img/icons/spirit_ashes/00915.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Fingercreeper+Ashes">指虫的骨灰</a>', '<b>[狄欧指头遗迹]</b>：从<b>赐福[指岩山丘]</b>出发，沿着小路向东南走（避开/处理成群的手指爬行者），直到你看到左边地面上伸出的两尊巨大的手指雕像，它们略微悬在道路上方。立即左转，就在等待的大型手指爬行者之前，然后向东走，在两尊手指雕像之间。经过短暂的下落后，保持在倒下的大型手指雕像的左侧。前面就是一堵石墙，石墙前面有一个洞，墙上的前面、里面和后面有大量的小型手指爬行者。跳进洞里。一只巨大的指状爬行者会出现并挡住你的路，但如果你动作敏捷并且骑着马，你可以安全跑到出口通道。骨灰可以从场地中间的尸体上拾取。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Fingercreeper+Ashes"><b>指虫的骨灰</b></a>', '<b>[狄欧指头遗迹]</b>：从<b>赐福[指岩山丘]</b>出发，沿着小路向东南走（避开/处理成群的手指爬行者），直到你看到左边地面上伸出的两尊巨大的手指雕像，它们略微悬在道路上方。立即左转，就在等待的大型手指爬行者之前，然后向东走，在两尊手指雕像之间。经过短暂的下落后，保持在倒下的大型手指雕像的左侧。前面就是一堵石墙，石墙前面有一个洞，墙上的前面、里面和后面有大量的小型手指爬行者。跳进洞里。一只巨大的指状爬行者会出现并挡住你的路，但如果你动作敏捷并且骑着马，你可以安全跑到出口通道。骨灰可以从场地中间的尸体上拾取。']
   - id: '3_6'
     icon: /img/icons/spirit_ashes/00476.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Fanged+Imp+Ashes"><b>尖牙小恶魔的骨灰</b></a>', '可选作遗物; 否则由<b>赐福[学院正门口]</b>以东的<b>[隐居商人]</b>出售。']
   - id: "20_11"
     icon: "/img/icons/spirit_ashes/00910.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Bigmouth+Imp+Ashes">大嘴小恶魔的骨灰</a>', '<b>[驱暗地下墓地]</b>：第二次电梯下到下层后，你会发现自己身处一个大厅，里面有一只巨大的大嘴小鬼向你射火球。从他身后下落向前的宝箱内。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Bigmouth+Imp+Ashes"><b>大嘴小恶魔的骨灰</b></a>', '<b>[驱暗地下墓地]</b>：第二次电梯下到下层后，你会发现自己身处一个大厅，里面有一只巨大的大嘴小鬼向你射火球。从他身后下落向前的宝箱内。']
   - id: "20_3"
     icon: "/img/icons/spirit_ashes/00902.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Gravebird+Ashes">守墓鸟的骨灰</a>', '<b>[卡罗隐藏墓地]</b>：使用灵魂气流到达该区域最西南角，在一堆墓碑里找到。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Gravebird+Ashes"><b>守墓鸟的骨灰</b></a>', '<b>[卡罗隐藏墓地]</b>：使用灵魂气流到达该区域最西南角，在一堆墓碑里找到。']
   - id: '7_4'
     icon: /img/icons/spirit_ashes/00465.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Soldjars+of+Fortune+Ashes"><b>特攻先锋群的骨灰</b></a>', '<b>[亚雷萨副墓地]</b>的Boss<b>[守墓斗士]</b>掉落']
@@ -112,7 +112,7 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ancestral+Follower+Ashes"><b>祖灵之民的骨灰</b></a>', '<b>[角骸灵地]</b>的Boss<b>[祖灵]</b>掉落']
   - id: "20_15"
     icon: "/img/icons/spirit_ashes/00914.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Horned+Warrior+Ashes">角战士的骨灰</a>', '在<b>[艾尼尔·伊利姆]</b>的<b>赐福[螺旋塔]</b>后找到。爬上螺旋楼梯，杀死4只鸟，然后从楼梯旁跳到下面的另一个楼梯上抵达。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Horned+Warrior+Ashes"><b>角战士的骨灰</b></a>', '在<b>[艾尼尔·伊利姆]</b>的<b>赐福[螺旋塔]</b>后找到。爬上螺旋楼梯，杀死4只鸟，然后从楼梯旁跳到下面的另一个楼梯上抵达。']
   - id: '10_1'
     icon: /img/icons/spirit_ashes/00451.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Azula+Beastman+Ashes"><b>亚兹拉的兽人的骨灰</b></a>', '在<b>赐福[龙教堂]</b>附近一具躺在石棺上的尸体上发现。']
@@ -127,7 +127,7 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Kindred+of+Rot+Ashes"><b>腐败眷属的骨灰</b></a>', '<b>[盖利德地下墓地]</b>的Boss<b>[墓地影子]</b>掉落。']
   - id: "20_2"
     icon: "/img/icons/spirit_ashes/00901.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Bloodfiend+Hexer''s+Ashes">血怪咒术师的骨灰</a>', '<b>[河尾洞窟]</b>的Boss<b>[血怪之首]</b>掉落。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Bloodfiend+Hexer''s+Ashes"><b>血怪咒术师的骨灰</b></a>', '<b>[河尾洞窟]</b>的Boss<b>[血怪之首]</b>掉落。']
   - id: '3_8'
     icon: /img/icons/spirit_ashes/00126.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Glintstone+Sorcerer+Ashes"><b>辉石魔法师的骨灰</b></a>', '<b>[绝路地下墓地]</b>的Boss<b>[唤灵蜗牛]</b>掉落。']
@@ -136,7 +136,7 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Twinsage+Sorcerer+Ashes"><b>双贤魔法师的骨灰</b></a>', '<b>[黑刀地下墓地]</b>的Boss<b>[墓地影子]</b>掉落']
   - id: "20_6"
     icon: "/img/icons/spirit_ashes/00905.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Inquisitor+Ashes">拷问官的骨灰</a>', '在<b>[艾尼尔·伊利姆]</b>的一具尸体上，从<b>赐福[第一塔]</b>前往<b>赐福[螺旋塔]</b>路上倒数第二个敌人下面。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Inquisitor+Ashes"><b>拷问官的骨灰</b></a>', '在<b>[艾尼尔·伊利姆]</b>的一具尸体上，从<b>赐福[第一塔]</b>前往<b>赐福[螺旋塔]</b>路上倒数第二个敌人下面。']
   - id: '2_3'
     icon: /img/icons/spirit_ashes/00457.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Godrick+Soldier+Ashes"><b>葛瑞克士兵的骨灰</b></a>', '在<b>[风暴山丘]</b>西侧一个充满灵魂水母的墓地发现。']
@@ -157,7 +157,7 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Mausoleum+Soldier+Ashes"><b>灵庙士兵的骨灰</b></a>', '在<b>[深根底层]</b>漫步灵庙北面悬崖边缘的一棵小枯树下发现。']
   - id: "20_8"
     icon: "/img/icons/spirit_ashes/00907.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Messmer+Soldier+Ashes">梅瑟莫士兵的骨灰</a>', '<b>[惩罚要塞]</b>：从与恶兆猎人战斗的主庭院，面向绞刑架向正北走，看到一个通向外面的跳落处，出去后在墓地附近找到。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Messmer+Soldier+Ashes"><b>梅瑟莫士兵的骨灰</b></a>', '<b>[惩罚要塞]</b>：从与恶兆猎人战斗的主庭院，面向绞刑架向正北走，看到一个通向外面的跳落处，出去后在墓地附近找到。']
 - title: 精英
   table:
   - 名称
@@ -177,22 +177,22 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Bloodhound+Knight+Floh"><b>“猎犬骑士”弗罗</b></a>', '在<b>[格密尔英雄墓地]</b>Boss后的宝箱中发现']
   - id: "20_10"
     icon: "/img/icons/spirit_ashes/00909.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Black+Knight+Captain+Huw">“黑骑士副团长”修</a>', '<b>[蝎河地下墓地]</b>：位于L形走廊尽头，有落下的尖刺陷阱的地方。穿过第一个有尖刺陷阱的天花板，到达黄雷电花后向右转，看到2名梅瑟莫士兵和一个黑骑士守着一个棺材。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Black+Knight+Captain+Huw"><b>“黑骑士副团长”修</b></a>', '<b>[蝎河地下墓地]</b>：位于L形走廊尽头，有落下的尖刺陷阱的地方。穿过第一个有尖刺陷阱的天花板，到达黄雷电花后向右转，看到2名梅瑟莫士兵和一个黑骑士守着一个棺材。']
   - id: "20_9"
     icon: "/img/icons/spirit_ashes/00908.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Black+Knight+Commander+Andreas">“黑骑士团长”安卓斯</a>', '<b>[雾谷地下墓地]</b>：经过由3名梅瑟莫士兵和一名黑骑士守卫的地方，然后跳到从天花板落下的尖刺陷阱顶部，再穿过它进入走廊，即可在棺材内找到。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Black+Knight+Commander+Andreas"><b>“黑骑士团长”安卓斯</b></a>', '<b>[雾谷地下墓地]</b>：经过由3名梅瑟莫士兵和一名黑骑士守卫的地方，然后跳到从天花板落下的尖刺陷阱顶部，再穿过它进入走廊，即可在棺材内找到。']
   - id: "20_4"
     icon: "/img/icons/spirit_ashes/00903.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Fire+Knight+Hilde">“火焰骑士”希德</a>', '<b>[幽影城]</b>：从你找到<b>[远方之怒]</b>的地方跳向下一个平台，然后爬上左侧的梯子。到达顶部后，沿着左边的木梁向右转向电梯。启动电梯但迅速返回平台，另一部电梯将出现，再次启动电梯后返回平台并跳上第一部电梯的顶部，等电梯停下后跳过平台到达在另一侧的尸体上获得。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Fire+Knight+Hilde"><b>“火焰骑士”希德</b></a>', '<b>[幽影城]</b>：从你找到<b>[远方之怒]</b>的地方跳向下一个平台，然后爬上左侧的梯子。到达顶部后，沿着左边的木梁向右转向电梯。启动电梯但迅速返回平台，另一部电梯将出现，再次启动电梯后返回平台并跳上第一部电梯的顶部，等电梯停下后跳过平台到达在另一侧的尸体上获得。']
   - id: "20_18"
     icon: "/img/icons/spirit_ashes/00918.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Fire+Knight+Queelign">“火焰骑士”昆兰</a>', '<b>[幽影城]</b>：给<b>[“火焰骑士”昆兰]</b><b>[赐福覆眼膜]</b>。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Fire+Knight+Queelign"><b>“火焰骑士”昆兰</b></a>', '<b>[幽影城]</b>：给<b>[“火焰骑士”昆兰]</b><b>[赐福覆眼膜]</b>。']
   - id: "20_19"
     icon: "/img/icons/spirit_ashes/00919.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Swordhand+of+Night+Jolán">“黑夜剑士”约兰</a>', '击败<b>[“大祭司”尤弥尔]</b>后，在<b>赐福[玛努斯·美特大教堂]</b>休息，然后返回<b>[“黑夜剑士”约兰]</b>的位置，看到她趴在柱子上。与她交谈并给她<b>[赐福覆眼膜]</b>。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Swordhand+of+Night+Jolán"><b>“黑夜剑士”约兰</b></a>', '击败<b>[“大祭司”尤弥尔]</b>后，在<b>赐福[玛努斯·美特大教堂]</b>休息，然后返回<b>[“黑夜剑士”约兰]</b>的位置，看到她趴在柱子上。与她交谈并给她<b>[赐福覆眼膜]</b>。']
   - id: "20_20"
     icon: "/img/icons/spirit_ashes/00920.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Jolán+and+Anna">约兰与安娜</a>', '获得<b>[“黑夜剑士”约兰]</b>后，前往<b>[望影露台]</b>的<b>[巫者村]</b>，在村庄后面找到一条小路，沿着悬崖边走下去，通往拉巴斯魔法师塔的隐藏塔顶。在这里你会找到她的傀儡身体，将灵魂结合即可获得。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Jolán+and+Anna"><b>约兰与安娜</b></a>', '获得<b>[“黑夜剑士”约兰]</b>后，前往<b>[望影露台]</b>的<b>[巫者村]</b>，在村庄后面找到一条小路，沿着悬崖边走下去，通往拉巴斯魔法师塔的隐藏塔顶。在这里你会找到她的傀儡身体，将灵魂结合即可获得。']
   - id: '4_1'
     icon: /img/icons/spirit_ashes/00129.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Battlemage+Hugues+Ashes"><b>战场魔法师犹格</b></a>', '<b>[瑟利亚的封印监牢]</b>的<b>[战场魔法师犹格]</b>掉落。']
@@ -213,10 +213,10 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Blackflame+Monk+Amon+Ashes"><b>黑焰习武修士亚蒙</b></a>', '<b>[通往圣树的密道]</b>的Boss<b>[离群仿身泪滴]</b>掉落']
   - id: "20_1"
     icon: "/img/icons/spirit_ashes/00900.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Curseblade+Meera">咒剑士米拉</a>', '<b>[波尼监牢]</b>的Boss<b>[咒剑士拉比利士]</b>掉落。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Curseblade+Meera"><b>咒剑士米拉</b></a>', '<b>[波尼监牢]</b>的Boss<b>[咒剑士拉比利士]</b>掉落。']
   - id: "20_7"
     icon: "/img/icons/spirit_ashes/00906.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Demi-Human+Swordsman+Yosh">“亚人剑士”约西</a>', '<b>[贝瑞特监牢]</b>的Boss<b>[“亚人剑圣”翁吉]</b>掉落。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Demi-Human+Swordsman+Yosh"><b>“亚人剑士”约西</b></a>', '<b>[贝瑞特监牢]</b>的Boss<b>[“亚人剑圣”翁吉]</b>掉落。']
   - id: '7_1'
     icon: /img/icons/spirit_ashes/00474.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ancient+Dragon+Knight+Kristoff+Ashes"><b>“古龙骑士”克里斯托福</b></a>', '<b>[尊贵者的英雄墓地]</b>的Boss<b>[萨米尔的古英雄]</b>掉落']
@@ -234,13 +234,13 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Black+Knife+Tiche+Ashes"><b>“黑刀”狄希</b></a>', '<b>[刀之首的封印监牢]</b>的<b>[“黑刀之首”亚勒托]</b>掉落。']
   - id: "20_14"
     icon: "/img/icons/spirit_ashes/00913.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Divine+Bird+Warrior+Ornis">“神鸟战士”奥尼斯</a>', '<b>赐福[神殿镇废墟]</b>：向北上山并激活灵魂气流，并用它跳上上面的废墟。右侧有一个开口，可以让你走上去。向前跳过间隙，然后上山。你可以在山上建筑物的宝箱里找到。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Divine+Bird+Warrior+Ornis"><b>“神鸟战士”奥尼斯</b></a>', '<b>赐福[神殿镇废墟]</b>：向北上山并激活灵魂气流，并用它跳上上面的废墟。右侧有一个开口，可以让你走上去。向前跳过间隙，然后上山。你可以在山上建筑物的宝箱里找到。']
   - id: "20_13"
     icon: "/img/icons/spirit_ashes/00912.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Taylew+the+Golem+Smith">“锻造魔像”泰乌尔</a>', '<b>[泰乌尔锻造遗迹]</b>：拉杆后返回中间移动的平台，然后向上走，当你靠近顶部时向左跳，走上该区域的楼梯，与熔炉互动，获得灵魂骨灰以及一块古龙岩锻造石。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Taylew+the+Golem+Smith"><b>“锻造魔像”泰乌尔</b></a>', '<b>[泰乌尔锻造遗迹]</b>：拉杆后返回中间移动的平台，然后向上走，当你靠近顶部时向左跳，走上该区域的楼梯，与熔炉互动，获得灵魂骨灰以及一块古龙岩锻造石。']
   - id: "20_16"
     icon: "/img/icons/spirit_ashes/00916.png"
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Ancient+Dragon+Florissax">“古龙”芙柔桑克斯</a>', '晚上将<b>[休里耶的秘药]</b>交给<b>[龙飨女巫]</b>（靠近<b>[龙飨大祭坛]</b>），这会让她入睡。刷新几次后她就会醒来，对话到重复。然后杀死<b>[“狂龙”贝勒]</b>，记得召唤<b>[埃贡]</b>（他的标志在Boss场地内，进入雾门后在左边）。回祭坛和她交谈，承认让她入睡并同意成为她的主人。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ancient+Dragon+Florissax"><b>“古龙”芙柔桑克斯</b></a>', '晚上将<b>[休里耶的秘药]</b>交给<b>[龙飨女巫]</b>（靠近<b>[龙飨大祭坛]</b>），这会让她入睡。刷新几次后她就会醒来，对话到重复。然后杀死<b>[“狂龙”贝勒]</b>，记得召唤<b>[埃贡]</b>（他的标志在Boss场地内，进入雾门后在左边）。回祭坛和她交谈，承认让她入睡并同意成为她的主人。']
   - id: '12_2'
     icon: /img/icons/spirit_ashes/00117.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Mimic+Tear+Ashes"><b>仿身泪滴的骨灰</b></a>', '在<b>[黑夜神域]</b>中一个锁在小雕像门后的宝箱中发现。']

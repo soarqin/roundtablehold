@@ -18088,6 +18088,30 @@
     "text": "从赐福[龙教堂]出发，转身跳到下方的楼梯上，然后向上爬到阳台上并跳过浮空的石阶到达一个墓地，上方吊着三个骷髅守护着的棺材上拾取。"
   },
   {
+    "id": "/checklists/great_gloveworts.html#item_21",
+    "text": "[青蓝海岸] - [“亚人女王”玛丽戈]旁边的石棺船"
+  },
+  {
+    "id": "/checklists/great_gloveworts.html#item_22",
+    "text": "[青蓝海岸] - 石棺船形成通往海滩的坡道"
+  },
+  {
+    "id": "/checklists/great_gloveworts.html#item_23",
+    "text": "[青蓝海岸] - 海滩最南端的石棺船"
+  },
+  {
+    "id": "/checklists/great_gloveworts.html#item_24",
+    "text": "[青蓝海岸] - 通往灵庙石棺船的洞穴"
+  },
+  {
+    "id": "/checklists/great_gloveworts.html#item_25",
+    "text": "[卡罗隐藏坟墓] - 从悬崖跳到[青蓝海岸]上方的石棺船上"
+  },
+  {
+    "id": "/checklists/great_gloveworts.html#item_26",
+    "text": "[幽影城] - 在教堂区的圆形屋顶（被水淹没时），排水后会掉到下方[腐烂树灵]所在区域"
+  },
+  {
     "id": "/checklists/great_gloveworts.html#item_7",
     "text": "赐福[诺克史黛拉的龙人士兵]旁边的宝箱。"
   },
@@ -18102,6 +18126,18 @@
   {
     "id": "/checklists/great_gloveworts.html#item_10",
     "text": "赐福[王朝庙（中段）]往回黑暗的洞窟区域下方大量鲜血行尸包围着一朵。"
+  },
+  {
+    "id": "/checklists/great_gloveworts.html#item_27",
+    "text": "[雾谷地下墓地]：靠近墓地尽头，由黑骑士守卫。"
+  },
+  {
+    "id": "/checklists/great_gloveworts.html#item_28",
+    "text": "[蝎河地下墓地]：走下有黄雷电花和灵依墓地铃兰【7】的平台右侧的楼梯，在较低的地面上有3只蛇怪守卫着。"
+  },
+  {
+    "id": "/checklists/great_gloveworts.html#item_29",
+    "text": "[驱暗地下墓地]：乘坐第二部电梯下楼后，击败大厅平台上的巨型大嘴小恶魔那里掉落。"
   },
   {
     "id": "/checklists/remembrances_mausoleums.html#item_1_1",
@@ -18338,6 +18374,10 @@
   {
     "id": "/checklists/great_runes.html#item_1_6",
     "text": "“米凯拉的锋刃”玛莲妮亚 [米凯拉的圣树] 受到伤害后，几秒的时间内可以通过攻击恢复生命值，但削弱[红露滴圣杯瓶]30%的恢复量。"
+  },
+  {
+    "id": "/checklists/great_runes.html#item_1_11",
+    "text": "幽影树的化身 幽影树的树脚 特殊的大卢恩，不能装备 - 可以在被最终Boss抓住过后使用移除头上的标记以避免在下次被抓住时秒杀，可以任意次使用。"
   },
   {
     "id": "/checklists/great_runes.html#item_1_1r",
@@ -18898,6 +18938,30 @@
   {
     "id": "/checklists/dragon_hearts_death_roots.html#item_0_13",
     "text": "在[白金魔法师塔]以北击败[“大土龙”席欧朵利克] (x3)"
+  },
+  {
+    "id": "/checklists/dragon_hearts_death_roots.html#item_0_21",
+    "text": "击败[惩罚要塞]以北的[灵火龙]"
+  },
+  {
+    "id": "/checklists/dragon_hearts_death_roots.html#item_0_22",
+    "text": "击败[青蓝海岸]赐福东南的[灵火龙]"
+  },
+  {
+    "id": "/checklists/dragon_hearts_death_roots.html#item_0_23",
+    "text": "击败赐福[大桥北方]西边的[灵火龙]"
+  },
+  {
+    "id": "/checklists/dragon_hearts_death_roots.html#item_0_24",
+    "text": "击败[尖刺山]起点不远处的[尖刺山的飞龙]"
+  },
+  {
+    "id": "/checklists/dragon_hearts_death_roots.html#item_0_25",
+    "text": "击败赐福[尖刺山的山脚]前方的[尖刺山的飞龙]"
+  },
+  {
+    "id": "/checklists/dragon_hearts_death_roots.html#item_0_26",
+    "text": "[龙洞]：击败场地内的[熔岩土龙]"
   },
   {
     "id": "/checklists/dragon_hearts_death_roots.html#item_1_1",
@@ -19533,7 +19597,7 @@
   },
   {
     "id": "/checklists/gestures.html#item_1_5",
-    "text": "下跪 蒙流洞窟 帕奇 在蒙流洞窟与帕奇成为朋友后的任何时间，甚至在他返回的任务线结束时，再次激怒他并开始另一场战斗。这一次，让他把你的HP降到一半以下。他会给你这个动作，让你去做。(如果你这样做了，他会后退并消除仇恨。要非常小心，因为他不会停止攻击，所以你必须装备并执行动作，同时也要远离他避免被打死。如果你回复生命的话他也不会接受你的投降: 你的生命值必须低于一半。)"
+    "text": "下跪 蒙流洞窟 帕奇 在蒙流洞窟与帕奇成为朋友后的任何时间，甚至在他返回的任务线结束时，再次激怒他并开始另一场战斗。这一次，让他把你的HP降到一半以下。他会给你这个动作，让你去做。(如果你这样做了，他会后退并消除仇恨。要非常小心，因为他不会停止攻击，所以你必须装备并执行动作，同时也要远离他避免被打死。如果你回复生命的话他也不会接受你的投降：你的生命值必须低于一半。"
   },
   {
     "id": "/checklists/gestures.html#item_1_6",
@@ -19658,5 +19722,25 @@
   {
     "id": "/checklists/gestures.html#item_8_1",
     "text": "内在律法 希芙拉导水桥 “狩猎死亡”Ｄ的双胞胎兄弟 与“狩猎死亡”Ｄ的双胞胎兄弟在Boss双英雄石像鬼房间外交谈。"
+  },
+  {
+    "id": "/checklists/gestures.html#item_11_1",
+    "text": "米凯拉法环   预购DLC[黄金树幽影]获得，或通过与预购获得DLC的玩家一起杀死DLC Boss后获得（但不能与从其他人那里获得该肢体动作的玩家一起获得）。"
+  },
+  {
+    "id": "/checklists/gestures.html#item_11_2",
+    "text": "期待切磋 幽影亚坛 “落叶”丹恩 赐福[大道旁的十字记号]旁的地面上。"
+  },
+  {
+    "id": "/checklists/gestures.html#item_11_3",
+    "text": "双指 狄欧指头遗迹  [狄欧指头遗迹]北边的地面上。"
+  },
+  {
+    "id": "/checklists/gestures.html#item_11_4",
+    "text": "伴你同行 艾尼尔·伊利姆  被最终Boss抓住后获得，或在Boss战后在场地内拾取。"
+  },
+  {
+    "id": "/checklists/gestures.html#item_11_5",
+    "text": "母亲啊 波尼村 “大祭司”尤弥尔 在[波尼村]以北的无头雕像前。"
   }
 ]
