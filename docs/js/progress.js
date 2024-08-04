@@ -707,11 +707,19 @@ window.progress = {
       [0, 7],
     ],
   },
-  "remembrances_mausoleums": {
-    "total": [0, 52],
+  "scadutree_fragment_revered_spirit_ash": {
+    "total": [0, 64],
     "sections": [
-      [0, 45],
+      [0, 41],
+      [0, 23],
+    ],
+  },
+  "remembrances_mausoleums": {
+    "total": [0, 89],
+    "sections": [
+      [0, 79],
       [0, 7],
+      [0, 3],
     ],
   },
   "great_runes": {
@@ -744,15 +752,16 @@ window.progress = {
     ],
   },
   "paintings": {
-    "total": [0, 14],
+    "total": [0, 20],
     "sections": [
-      [0, 7],
-      [0, 7],
+      [0, 10],
+      [0, 10],
     ],
   },
   "pots_bottles": {
-    "total": [0, 40],
+    "total": [0, 50],
     "sections": [
+      [0, 10],
       [0, 20],
       [0, 10],
       [0, 10],

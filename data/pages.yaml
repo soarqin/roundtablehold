@@ -44,6 +44,7 @@ dropdowns:
       - "cookbooks.yaml" #Cookbooks
       - "ancient_dragon_smithing_stones.yaml" #Ancient Dragon Smithing Stones
       - "great_gloveworts.yaml" #Great Gloveworts
+      - "scadutree_fragment_revered_spirit_ash.yaml" #Scadutree Fragments and Revered Spirit Ashes
   -
     name: "收集类道具"
     pages:

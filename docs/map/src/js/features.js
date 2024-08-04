@@ -19651,6 +19651,44 @@ const feature_data = [
       {
         "geometry": {
           "coordinates": [
+            3667,
+            7210
+          ],
+          "type": "Point"
+        },
+        "id": "pots_bottles_1_2",
+        "properties": {
+          "group": "pots_bottles",
+          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon_size": 35,
+          "id": "pots_bottles_1_2",
+          "link": "/checklists/pots_bottles.html#item_1_2",
+          "title": "\u9f9f\u88c2\u58f6"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            3667,
+            7210
+          ],
+          "type": "Point"
+        },
+        "id": "pots_bottles_1_3",
+        "properties": {
+          "group": "pots_bottles",
+          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon_size": 35,
+          "id": "pots_bottles_1_3",
+          "link": "/checklists/pots_bottles.html#item_1_3",
+          "title": "\u9f9f\u88c2\u58f6"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             3649,
             7067
           ],
@@ -19898,6 +19936,63 @@ const feature_data = [
       {
         "geometry": {
           "coordinates": [
+            4597,
+            3173
+          ],
+          "type": "Point"
+        },
+        "id": "pots_bottles_1_17",
+        "properties": {
+          "group": "pots_bottles",
+          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon_size": 35,
+          "id": "pots_bottles_1_17",
+          "link": "/checklists/pots_bottles.html#item_1_17",
+          "title": "\u9f9f\u88c2\u58f6"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            4597,
+            3173
+          ],
+          "type": "Point"
+        },
+        "id": "pots_bottles_1_18",
+        "properties": {
+          "group": "pots_bottles",
+          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon_size": 35,
+          "id": "pots_bottles_1_18",
+          "link": "/checklists/pots_bottles.html#item_1_18",
+          "title": "\u9f9f\u88c2\u58f6"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            4597,
+            3173
+          ],
+          "type": "Point"
+        },
+        "id": "pots_bottles_1_19",
+        "properties": {
+          "group": "pots_bottles",
+          "icon": "/map/icons/shadows/keys/00504.png",
+          "icon_size": 35,
+          "id": "pots_bottles_1_19",
+          "link": "/checklists/pots_bottles.html#item_1_19",
+          "title": "\u9f9f\u88c2\u58f6"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             4292,
             3480
           ],
@@ -20044,6 +20139,25 @@ const feature_data = [
           "id": "pots_bottles_2_7",
           "link": "/checklists/pots_bottles.html#item_2_7",
           "title": "\u4eea\u5f0f\u58f6 x2"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            4606,
+            3184
+          ],
+          "type": "Point"
+        },
+        "id": "pots_bottles_2_8",
+        "properties": {
+          "group": "pots_bottles",
+          "icon": "/map/icons/shadows/keys/03010.png",
+          "icon_size": 35,
+          "id": "pots_bottles_2_8",
+          "link": "/checklists/pots_bottles.html#item_2_8",
+          "title": "\u4eea\u5f0f\u58f6"
         },
         "type": "Feature"
       },

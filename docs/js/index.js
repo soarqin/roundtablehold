@@ -2651,6 +2651,12 @@
 "npc_quests_9_5",
 "npc_quests_9_6",
 "paintings_1",
+"paintings_11",
+"paintings_11_1",
+"paintings_12",
+"paintings_12_1",
+"paintings_13",
+"paintings_13_1",
 "paintings_1_1",
 "paintings_1_2",
 "paintings_2",
@@ -3366,6 +3372,16 @@
 "pots_bottles_3_7",
 "pots_bottles_3_8",
 "pots_bottles_3_9",
+"pots_bottles_4_1",
+"pots_bottles_4_10",
+"pots_bottles_4_2",
+"pots_bottles_4_3",
+"pots_bottles_4_4",
+"pots_bottles_4_5",
+"pots_bottles_4_6",
+"pots_bottles_4_7",
+"pots_bottles_4_8",
+"pots_bottles_4_9",
 "quest_order_tldr_1",
 "quest_order_tldr_10",
 "quest_order_tldr_100",
@@ -3661,9 +3677,43 @@
 "remembrances_mausoleums_1_1_1",
 "remembrances_mausoleums_1_1_2",
 "remembrances_mausoleums_1_2",
+"remembrances_mausoleums_1_21",
+"remembrances_mausoleums_1_21_1",
+"remembrances_mausoleums_1_21_2",
+"remembrances_mausoleums_1_22",
+"remembrances_mausoleums_1_22_1",
+"remembrances_mausoleums_1_22_2",
+"remembrances_mausoleums_1_23",
+"remembrances_mausoleums_1_23_1",
+"remembrances_mausoleums_1_23_2",
+"remembrances_mausoleums_1_24",
+"remembrances_mausoleums_1_24_1",
+"remembrances_mausoleums_1_24_2",
+"remembrances_mausoleums_1_25",
+"remembrances_mausoleums_1_25_1",
+"remembrances_mausoleums_1_25_2",
+"remembrances_mausoleums_1_26",
+"remembrances_mausoleums_1_26_1",
+"remembrances_mausoleums_1_26_2",
+"remembrances_mausoleums_1_27",
+"remembrances_mausoleums_1_27_1",
+"remembrances_mausoleums_1_27_2",
+"remembrances_mausoleums_1_27_3",
+"remembrances_mausoleums_1_28",
+"remembrances_mausoleums_1_28_1",
+"remembrances_mausoleums_1_28_2",
+"remembrances_mausoleums_1_29",
+"remembrances_mausoleums_1_29_1",
+"remembrances_mausoleums_1_29_2",
 "remembrances_mausoleums_1_2_1",
 "remembrances_mausoleums_1_2_2",
 "remembrances_mausoleums_1_3",
+"remembrances_mausoleums_1_30",
+"remembrances_mausoleums_1_30_1",
+"remembrances_mausoleums_1_30_2",
+"remembrances_mausoleums_1_31",
+"remembrances_mausoleums_1_31_1",
+"remembrances_mausoleums_1_31_2",
 "remembrances_mausoleums_1_3_1",
 "remembrances_mausoleums_1_3_2",
 "remembrances_mausoleums_1_4",
@@ -3691,6 +3741,73 @@
 "remembrances_mausoleums_2_5",
 "remembrances_mausoleums_2_6",
 "remembrances_mausoleums_2_7",
+"remembrances_mausoleums_3_1",
+"remembrances_mausoleums_3_2",
+"remembrances_mausoleums_3_3",
+"scadutree_fragment_revered_spirit_ash_0_1",
+"scadutree_fragment_revered_spirit_ash_0_10",
+"scadutree_fragment_revered_spirit_ash_0_11",
+"scadutree_fragment_revered_spirit_ash_0_12",
+"scadutree_fragment_revered_spirit_ash_0_13",
+"scadutree_fragment_revered_spirit_ash_0_14",
+"scadutree_fragment_revered_spirit_ash_0_15",
+"scadutree_fragment_revered_spirit_ash_0_16",
+"scadutree_fragment_revered_spirit_ash_0_17",
+"scadutree_fragment_revered_spirit_ash_0_18",
+"scadutree_fragment_revered_spirit_ash_0_19",
+"scadutree_fragment_revered_spirit_ash_0_2",
+"scadutree_fragment_revered_spirit_ash_0_20",
+"scadutree_fragment_revered_spirit_ash_0_21",
+"scadutree_fragment_revered_spirit_ash_0_22",
+"scadutree_fragment_revered_spirit_ash_0_23",
+"scadutree_fragment_revered_spirit_ash_0_24",
+"scadutree_fragment_revered_spirit_ash_0_25",
+"scadutree_fragment_revered_spirit_ash_0_26",
+"scadutree_fragment_revered_spirit_ash_0_27",
+"scadutree_fragment_revered_spirit_ash_0_28",
+"scadutree_fragment_revered_spirit_ash_0_29",
+"scadutree_fragment_revered_spirit_ash_0_3",
+"scadutree_fragment_revered_spirit_ash_0_30",
+"scadutree_fragment_revered_spirit_ash_0_31",
+"scadutree_fragment_revered_spirit_ash_0_32",
+"scadutree_fragment_revered_spirit_ash_0_33",
+"scadutree_fragment_revered_spirit_ash_0_34",
+"scadutree_fragment_revered_spirit_ash_0_35",
+"scadutree_fragment_revered_spirit_ash_0_36",
+"scadutree_fragment_revered_spirit_ash_0_37",
+"scadutree_fragment_revered_spirit_ash_0_38",
+"scadutree_fragment_revered_spirit_ash_0_39",
+"scadutree_fragment_revered_spirit_ash_0_4",
+"scadutree_fragment_revered_spirit_ash_0_40",
+"scadutree_fragment_revered_spirit_ash_0_41",
+"scadutree_fragment_revered_spirit_ash_0_5",
+"scadutree_fragment_revered_spirit_ash_0_6",
+"scadutree_fragment_revered_spirit_ash_0_7",
+"scadutree_fragment_revered_spirit_ash_0_8",
+"scadutree_fragment_revered_spirit_ash_0_9",
+"scadutree_fragment_revered_spirit_ash_1_1",
+"scadutree_fragment_revered_spirit_ash_1_10",
+"scadutree_fragment_revered_spirit_ash_1_11",
+"scadutree_fragment_revered_spirit_ash_1_12",
+"scadutree_fragment_revered_spirit_ash_1_13",
+"scadutree_fragment_revered_spirit_ash_1_14",
+"scadutree_fragment_revered_spirit_ash_1_15",
+"scadutree_fragment_revered_spirit_ash_1_16",
+"scadutree_fragment_revered_spirit_ash_1_17",
+"scadutree_fragment_revered_spirit_ash_1_18",
+"scadutree_fragment_revered_spirit_ash_1_19",
+"scadutree_fragment_revered_spirit_ash_1_2",
+"scadutree_fragment_revered_spirit_ash_1_20",
+"scadutree_fragment_revered_spirit_ash_1_21",
+"scadutree_fragment_revered_spirit_ash_1_22",
+"scadutree_fragment_revered_spirit_ash_1_23",
+"scadutree_fragment_revered_spirit_ash_1_3",
+"scadutree_fragment_revered_spirit_ash_1_4",
+"scadutree_fragment_revered_spirit_ash_1_5",
+"scadutree_fragment_revered_spirit_ash_1_6",
+"scadutree_fragment_revered_spirit_ash_1_7",
+"scadutree_fragment_revered_spirit_ash_1_8",
+"scadutree_fragment_revered_spirit_ash_1_9",
 "scrolls_prayerbooks_0_1",
 "scrolls_prayerbooks_0_2",
 "scrolls_prayerbooks_0_3",
@@ -5001,7 +5118,9 @@ const ancient_dragon_smithing_stones_total = 35;
 var ancient_dragon_smithing_stones_checked = 0;
 const great_gloveworts_total = 19;
 var great_gloveworts_checked = 0;
-const remembrances_mausoleums_total = 52;
+const scadutree_fragment_revered_spirit_ash_total = 64;
+var scadutree_fragment_revered_spirit_ash_checked = 0;
+const remembrances_mausoleums_total = 89;
 var remembrances_mausoleums_checked = 0;
 const great_runes_total = 18;
 var great_runes_checked = 0;
@@ -5011,9 +5130,9 @@ const dragon_hearts_death_roots_total = 28;
 var dragon_hearts_death_roots_checked = 0;
 const tears_dews_total = 37;
 var tears_dews_checked = 0;
-const paintings_total = 14;
+const paintings_total = 20;
 var paintings_checked = 0;
-const pots_bottles_total = 40;
+const pots_bottles_total = 50;
 var pots_bottles_checked = 0;
 const tools_total = 42;
 var tools_checked = 0;
@@ -5110,6 +5229,9 @@ ancient_dragon_smithing_stones_checked += 1;
 }
 if (id.startsWith("great_gloveworts_")) {
 great_gloveworts_checked += 1;
+}
+if (id.startsWith("scadutree_fragment_revered_spirit_ash_")) {
+scadutree_fragment_revered_spirit_ash_checked += 1;
 }
 if (id.startsWith("remembrances_mausoleums_")) {
 remembrances_mausoleums_checked += 1;
@@ -5289,6 +5411,11 @@ if (great_gloveworts_checked >= great_gloveworts_total){
 $("#great_gloveworts_progress_total").html("DONE");
 } else {
 $("#great_gloveworts_progress_total").html(great_gloveworts_checked + "/" + great_gloveworts_total);
+}
+if (scadutree_fragment_revered_spirit_ash_checked >= scadutree_fragment_revered_spirit_ash_total){
+$("#scadutree_fragment_revered_spirit_ash_progress_total").html("DONE");
+} else {
+$("#scadutree_fragment_revered_spirit_ash_progress_total").html(scadutree_fragment_revered_spirit_ash_checked + "/" + scadutree_fragment_revered_spirit_ash_total);
 }
 if (remembrances_mausoleums_checked >= remembrances_mausoleums_total){
 $("#remembrances_mausoleums_progress_total").html("DONE");
