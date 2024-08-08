@@ -168,7 +168,7 @@ sections:
       data: ['魔法 - <b>死亡雷击</b>']
   - id: '1_21'
     icon: '/img/icons/tools/remembrances/00732.png'
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Wild+Boar+Rider">山猪骑士的追忆</a>']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Wild+Boar+Rider"><b>山猪骑士的追忆</b></a>']
   - - id: '1_21_1'
       icon: '/img/icons/weapons/dlc/12214.png'
       data: ['武器 - <b>剑型长矛</b>']
@@ -177,7 +177,7 @@ sections:
       data: ['魔法 - <b>岩块刀刃</b>']
   - id: '1_22'
     icon: '/img/icons/tools/remembrances/00733.png'
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Impaler">穿刺者的追忆</a>']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Impaler"><b>穿刺者的追忆</b></a>']
   - - id: '1_22_1'
       icon: '/img/icons/weapons/dlc/12242.png'
       data: ['武器 - <b>穿刺者矛</b>']
@@ -186,7 +186,7 @@ sections:
       data: ['祷告 - <b>梅瑟莫的火球</b>']
   - id: '1_23'
     icon: '/img/icons/tools/remembrances/00734.png'
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Shadow+Sunflower">影轮草的追忆</a>']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Shadow+Sunflower"><b>影轮草的追忆</b></a>']
   - - id: '1_23_1'
       icon: '/img/icons/weapons/dlc/12257.png'
       data: ['武器 - <b>影轮草大花</b>']
@@ -195,7 +195,7 @@ sections:
       data: ['祷告 - <b>幽影之地</b>']
   - id: '1_24'
     icon: '/img/icons/tools/remembrances/00735.png'
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Twin+Moon+Knight">双月骑士的追忆</a>']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Twin+Moon+Knight"><b>双月骑士的追忆</b></a>']
   - - id: '1_24_1'
       icon: '/img/icons/weapons/dlc/12279.png'
       data: ['武器 - <b>蕾菈娜的对剑</b>']
@@ -204,7 +204,7 @@ sections:
       data: ['魔法 - <b>蕾菈娜的双月</b>']
   - id: '1_25'
     icon: '/img/icons/tools/remembrances/00736.png'
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Saint+of+the+Bud">花蕾圣女的追忆</a>']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Saint+of+the+Bud"><b>花蕾圣女的追忆</b></a>']
   - - id: '1_25_1'
       icon: '/img/icons/weapons/dlc/12246.png'
       data: ['武器 - <b>花蕾刀</b>']
@@ -213,7 +213,7 @@ sections:
       data: ['祷告 - <b>腐败蝶</b>']
   - id: '1_26'
     icon: '/img/icons/tools/remembrances/00737.png'
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Dancing+Lion">舞狮的追忆</a>']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Dancing+Lion"><b>舞狮的追忆</b></a>']
   - - id: '1_26_1'
       icon: '/img/icons/talismans/18930.png'
       data: ['护符 - <b>狂怒神兽</b>']
@@ -222,7 +222,7 @@ sections:
       data: ['战灰 - <b>神兽冻霜踏地</b>']
   - id: '1_27'
     icon: '/img/icons/tools/remembrances/00739.png'
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+a+God+and+a+Lord">神祇与王的追忆</a>']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+a+God+and+a+Lord"><b>神祇与王的追忆</b></a>']
   - - id: '1_27_1'
       icon: '/img/icons/weapons/dlc/12212.png'
       data: ['武器 - <b>拉塔恩的大剑（王）</b>']
@@ -234,7 +234,7 @@ sections:
       data: ['祷告 - <b>米凯拉的光</b>']
   - id: '1_28'
     icon: '/img/icons/tools/remembrances/00740.png'
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Lord+of+Frenzied+Flame">癫火之王的追忆</a>']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Lord+of+Frenzied+Flame"><b>癫火之王的追忆</b></a>']
   - - id: '1_28_1'
       icon: '/img/icons/weapons/dlc/12207.png'
       data: ['武器 - <b>永罚大剑</b>']
@@ -243,7 +243,7 @@ sections:
       data: ['祷告 - <b>米德拉的癫火</b>']
   - id: '1_29'
     icon: '/img/icons/tools/remembrances/00741.png'
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Mother+of+Fingers">指头之母的追忆</a>']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+the+Mother+of+Fingers"><b>指头之母的追忆</b></a>']
   - - id: '1_29_1'
       icon: '/img/icons/weapons/dlc/12290.png'
       data: ['武器 - <b>无上远方杖</b>']
@@ -252,7 +252,7 @@ sections:
       data: ['武器 - <b>凝望指头</b>']
   - id: '1_30'
     icon: '/img/icons/tools/remembrances/00742.png'
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+Putrescence">融泥的追忆</a>']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Remembrance+of+Putrescence"><b>融泥的追忆</b></a>']
   - - id: '1_30_1'
       icon: '/img/icons/weapons/dlc/12220.png'
       data: ['武器 - <b>波尼肢解菜刀</b>']
@@ -261,7 +261,7 @@ sections:
       data: ['魔法 - <b>融泥漩</b>']
   - id: '1_31'
     icon: '/img/icons/tools/remembrances/03807.png'
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Heart+of+Bayle">Heart of Bayle</a>']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Heart+of+Bayle"><b>贝勒的心脏</b></a>']
   - - id: '1_31_1'
       icon: '/img/icons/incantations/06864.png'
       data: ['祷告 - <b>贝勒的焰雷</b>']
