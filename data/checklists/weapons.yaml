@@ -1080,7 +1080,7 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Raptor+Talons"><b>猛禽钩爪</b></a>', '<b>[亚坛高原]</b><b>[贤者的洞窟]</b>内众多宝箱中的一个。', '普通']
   - id: '50_58'
     icon: /img/icons/weapons/dlc/12255.png
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Claws+of+Night"><b>[DLC] 黑夜爪</b></a>', '在<b>[玛努斯·美特大教堂]</b>完成<b>[“大祭司”尤弥尔]</b>后，从隐藏的楼梯下去后，入侵的<b>[“黑夜剑士”约兰]</b>掉落。', '失色']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Claws+of+Night"><b>[DLC] 黑夜爪</b></a>', '在<b>[玛努斯·美特大教堂]</b>完成<b>[“大祭司”尤弥尔]</b>后，从隐藏的楼梯下去后，入侵的<b>[“黑夜剑士”安娜]</b>掉落。', '失色']
 - title: 兽爪
   link: https://eldenring.wiki.fextralife.com/Beast+Claws
   table: ['名字', '位置', '锻造石']

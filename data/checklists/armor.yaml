@@ -183,7 +183,7 @@ sections:
     icon: /img/icons/armor/14613.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Bloodsoaked+Manchettes"><b>渗血腕套</b></a>', '']
 - title: 角人套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Hornsent+Set'
+  link: https://eldenring.wiki.fextralife.com/Hornsent+Set
   table: ['名称', '位置']
   items:
   - id: '833'
@@ -234,7 +234,7 @@ sections:
   items:
   - id: '935'
     icon: /img/icons/armor/15647.png
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Circlet+of+Light"><b>[DLC] 光芒头冠</b></a>', '首先击败[<b>[“米凯拉的王”拉塔恩]</b>]。战斗结束后，在Boss区域中心触摸金色球体选择“触摸记忆”触发过场动画。您将在过场动画播放完后获得此物品。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Circlet+of+Light"><b>[DLC] 光芒头冠</b></a>', '首先击败<b>[“米凯拉的王”拉塔恩]</b>。战斗结束后，在Boss区域中心触摸金色球体选择“触摸记忆”触发过场动画。您将在过场动画播放完后获得此物品。']
 - title: 观星者套装
   link: https://eldenring.wiki.fextralife.com/Astrologer+Set
   table: ['名称', '位置']
@@ -447,7 +447,7 @@ sections:
     icon: /img/icons/armor/14743.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Snow+Witch+Skirt"><b>雪魔女长裙</b></a>', '']
 - title: 大祭司套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/High+Priest+Set'
+  link: https://eldenring.wiki.fextralife.com/High+Priest+Set
   table: ['名称', '位置']
   items:
   - id: '828'
@@ -549,7 +549,7 @@ sections:
     icon: /img/icons/armor/15000.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Greathood"><b>大风帽</b></a>', '解开<b>[绘画《魔法师》]</b>谜题的奖励。从<b>[观星废墟]</b>西北方的桥一直向北走。在桥的中心东边有一块凸起的平台，一个画家灵魂坐在椅子上。互动后拾取<b>[大风帽]</b>。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8228&lat=-67.34688&lng=153.20421&zoom=8&code=mapA">[地图链接]</a>']
 - title: 丹恩套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Dane's+Set'
+  link: https://eldenring.wiki.fextralife.com/Dane's+Set
   table: ['名称', '位置']
   items:
   - id: '800'
@@ -748,7 +748,7 @@ sections:
     icon: /img/icons/armor/13453.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Sanguine+Noble+Waistcloth"><b>鲜血贵族腰巾</b></a>', '']
 - title: 安帕赫套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Ansbach's+Set'
+  link: https://eldenring.wiki.fextralife.com/Ansbach's+Set
   table: ['名称', '位置']
   items:
   - id: '852'
@@ -937,7 +937,7 @@ sections:
     icon: /img/icons/armor/14043.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/War+Surgeon+Trousers"><b>战场医师长裤</b></a>', '']
 - title: 休里耶套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Thiollier's+Set'
+  link: https://eldenring.wiki.fextralife.com/Thiollier's+Set
   table: ['名称', '位置']
   items:
   - id: '823'
@@ -1033,7 +1033,7 @@ sections:
     icon: /img/icons/armor/14533.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Bandit+Boots"><b>盗贼靴子</b></a>', '']
 - title: 守墓鸟套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Gravebird+Set'
+  link: https://eldenring.wiki.fextralife.com/Gravebird+Set
   table: ['名称', '位置']
   items:
   - id: '907'
@@ -1052,7 +1052,7 @@ sections:
     icon: /img/icons/armor/15624.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Gravebird+Armor"><b>[DLC] 守墓鸟铠甲</b></a>', '<b>[置病村]</b>往西到接近尽头的区域，有四尊守墓鸟雕像。']
 - title: 舞娘套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Dancer's+Set'
+  link: https://eldenring.wiki.fextralife.com/Dancer's+Set
   table: ['名称', '位置']
   items:
   - id: '837'
@@ -1180,7 +1180,7 @@ sections:
     icon: /img/icons/armor/15213.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>小兵腿甲</b></a>', '<b>[小兵腿甲]</b>只有葛瑞克步兵掉落。']
 - title: 士兵套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Common+Soldier+Set'
+  link: https://eldenring.wiki.fextralife.com/Common+Soldier+Set
   table: ['名称', '位置']
   items:
   - id: '912'
@@ -1212,7 +1212,7 @@ sections:
     icon: /img/icons/armor/13603.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Vulgar+Militia+Greaves"><b>恶兵腿甲</b></a>', '']
 - title: 幽影恶兵套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Shadow+Militiaman+Set'
+  link: https://eldenring.wiki.fextralife.com/Shadow+Militiaman+Set
   table: ['名称', '位置']
   items:
   - id: '936'
@@ -1318,7 +1318,7 @@ sections:
     icon: /img/icons/armor/14123.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Champion+Gaiters"><b>勇者绑腿</b></a>', '']
 - title: 高地战士套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Highland+Warrior+Set'
+  link: https://eldenring.wiki.fextralife.com/Highland+Warrior+Set
   table: ['名称', '位置']
   items:
   - id: '888'
@@ -1340,7 +1340,7 @@ sections:
     icon: /img/icons/armor/15606.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Highland+Attire"><b>[DLC] 高地上衣</b></a>', '']
 - title: 铁铆钉套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Iron+Rivet+Set'
+  link: https://eldenring.wiki.fextralife.com/Iron+Rivet+Set
   table: ['名称', '位置']
   items:
   - id: '818'
@@ -1359,7 +1359,7 @@ sections:
     icon: /img/icons/armor/15523.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Fang+Helm"><b>[DLC] 狮牙头盔</b></a>', '']
 - title: 埃贡套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Igon's+Set'
+  link: https://eldenring.wiki.fextralife.com/Igon's+Set
   table: ['名称', '位置']
   items:
   - id: '846'
@@ -1381,7 +1381,7 @@ sections:
     icon: /img/icons/armor/15560.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Igon''s+Armor+(Altered)"><b>[DLC] 埃贡铠甲（轻装）</b></a>', '']
 - title: 修行者套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Ascetic's+Set'
+  link: https://eldenring.wiki.fextralife.com/Ascetic's+Set
   table: ['名称', '位置']
   items:
   - id: '898'
@@ -1528,7 +1528,7 @@ sections:
     icon: /img/icons/armor/15053.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Mausoleum+Greaves"><b>灵庙士兵腿甲</b></a>', '']
 - title: 梅瑟莫士兵套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Messmer+Soldier+Set'
+  link: https://eldenring.wiki.fextralife.com/Messmer+Soldier+Set
   table: ['名称', '位置']
   items:
   - id: '867'
@@ -1643,7 +1643,7 @@ sections:
     icon: /img/icons/armor/14553.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Eccentric''s+Breeches"><b>奇异骑士长裤</b></a>', '']
 - title: 弗蕾亚套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Freyja's+Set'
+  link: https://eldenring.wiki.fextralife.com/Freyja's+Set
   table: ['名称', '位置']
   items:
   - id: '857'
@@ -1755,7 +1755,7 @@ sections:
     icon: /img/icons/armor/13193.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Black+Knife+Greaves"><b>黑刀腿甲</b></a>', '']
 - title: 黑夜套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Night+Set'
+  link: https://eldenring.wiki.fextralife.com/Night+Set
   table: ['名称', '位置']
   items:
   - id: '842'
@@ -1803,7 +1803,7 @@ sections:
     icon: /img/icons/armor/13653.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Elden+Lord+Greaves"><b>艾尔登之王腿甲</b></a>', '']
 - title: 梅瑟莫套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Messmer's+Set'
+  link: https://eldenring.wiki.fextralife.com/Messmer's+Set
   table: ['名称', '位置']
   items:
   - id: '902'
@@ -1985,7 +1985,7 @@ sections:
     icon: /img/icons/armor/15173.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Mausoleum+Knight+Greaves"><b>灵庙骑士腿甲</b></a>', '']
 - title: 黑骑士套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Black+Knight+Set'
+  link: https://eldenring.wiki.fextralife.com/Black+Knight+Set
   table: ['名称', '位置']
   items:
   - id: '872'
@@ -2033,7 +2033,7 @@ sections:
     icon: /img/icons/armor/13483.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Cleanrot+Greaves"><b>尊腐骑士腿甲</b></a>', '']
 - title: 火焰骑士套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Fire+Knight+Set'
+  link: https://eldenring.wiki.fextralife.com/Fire+Knight+Set
   table: ['名称', '位置']
   items:
   - id: '880'
@@ -2070,7 +2070,7 @@ sections:
     icon: /img/icons/armor/15600.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Salza''s+Hood"><b>[DLC] 萨赞风帽</b></a>', '从<b>赐福[西边城墙]</b>过桥，在最后击败火焰骑士。']
 - title: 死骑士套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Death+Knight+Set'
+  link: https://eldenring.wiki.fextralife.com/Death+Knight+Set
   table: ['名称', '位置']
   items:
   - id: '894'
@@ -2086,7 +2086,7 @@ sections:
     icon: /img/icons/armor/15610.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Death+Knight+Greaves"><b>[DLC] 死骑士腿甲</b></a>', '']
 - title: 角战士套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Horned+Warrior+Set'
+  link: https://eldenring.wiki.fextralife.com/Horned+Warrior+Set
   table: ['名称', '位置']
   items:
   - id: '916'
@@ -2102,7 +2102,7 @@ sections:
     icon: /img/icons/armor/15632.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Horned+Warrior+Greaves"><b>[DLC] 角战士腿甲</b></a>', '']
 - title: 神兽套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Divine+Beast+Set'
+  link: https://eldenring.wiki.fextralife.com/Divine+Beast+Set
   table: ['名称', '位置']
   items:
   - id: '920'
@@ -2112,7 +2112,7 @@ sections:
     icon: /img/icons/armor/15634.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Divine+Beast+Warrior+Armor"><b>[DLC] 神兽战士铠甲</b></a>', '']
 - title: 神鸟套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Divine+Bird+Set'
+  link: https://eldenring.wiki.fextralife.com/Divine+Bird+Set
   table: ['名称', '位置']
   items:
   - id: '922'
@@ -2128,7 +2128,7 @@ sections:
     icon: /img/icons/armor/15637.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Divine+Bird+Warrior+Greaves"><b>[DLC] 神鸟战士腿甲</b></a>', '']
 - title: 誓约骑士套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Oathseeker+Knight+Set'
+  link: https://eldenring.wiki.fextralife.com/Oathseeker+Knight+Set
   table: ['名称', '位置']
   items:
   - id: '809'
@@ -2265,7 +2265,7 @@ sections:
     icon: /img/icons/armor/14573.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Fingerprint+Greaves"><b>指痕腿甲</b></a>', '']
 - title: 罗刹套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Rakshasa+Set'
+  link: https://eldenring.wiki.fextralife.com/Rakshasa+Set
   table: ['名称', '位置']
   items:
   - id: '876'
@@ -2329,7 +2329,7 @@ sections:
     icon: /img/icons/armor/13373.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Royal+Knight+Greaves"><b>禁卫骑士腿甲</b></a>', '']
 - title: 蕾菈娜套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Rellana's+Set'
+  link: https://eldenring.wiki.fextralife.com/Rellana's+Set
   table: ['名称', '位置']
   items:
   - id: '926'
@@ -2399,7 +2399,7 @@ sections:
     icon: /img/icons/armor/13283.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Night''s+Cavalry+Greaves"><b>黑夜骑兵腿甲</b></a>', '']
 - title: 孤牢套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Solitude+Set'
+  link: https://eldenring.wiki.fextralife.com/Solitude+Set
   table: ['名称', '位置']
   items:
   - id: '862'
@@ -2539,7 +2539,7 @@ sections:
     icon: /img/icons/armor/15654.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Crucible+Hammer-Helm"><b>[DLC] 熔炉槌形盔</b></a>', '<b>赐福[劳弗古遗迹（东方）]</b>附近的熔炉骑士掉落。']
 - title: 盖乌斯套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Gaius's+Set'
+  link: https://eldenring.wiki.fextralife.com/Gaius's+Set
   table: ['名称', '位置']
   items:
   - id: '805'
@@ -2571,7 +2571,7 @@ sections:
     icon: /img/icons/armor/13673.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Radahn''s+Greaves"><b>拉塔恩腿甲</b></a>', '']
 - title: 年少狮子套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Young+Lion's+Set'
+  link: https://eldenring.wiki.fextralife.com/Young+Lion's+Set
   table: ['名称', '位置']
   items:
   - id: '930'
@@ -2622,7 +2622,7 @@ sections:
     icon: /img/icons/armor/13133.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Bull-Goat+Greaves"><b>大山羊腿甲</b></a>', '']
 - title: 铜绿套装
-  link: h'[DLC] ttps://eldenring.wiki.fextralife.com/Verdigris+Set'
+  link: https://eldenring.wiki.fextralife.com/Verdigris+Set
   table: ['名称', '位置']
   items:
   - id: '814'
