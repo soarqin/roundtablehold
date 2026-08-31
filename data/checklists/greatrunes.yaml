@@ -53,6 +53,7 @@ sections:
     icon: "/img/icons/keys/great_runes/03801.png"
     data: ["幽影树的化身", "幽影树的树脚", "特殊的大卢恩，不能装备 - 可以在被最终Boss抓住过后使用移除头上的标记以避免在下次被抓住时秒杀，可以任意次使用。"]
     map_title: "米凯拉的大卢恩"
+  link: https://eldenring.wiki.fextralife.com/Great+Runes
 - title: 大卢恩修复
   table: ['大卢恩', '位置', '说明']
   table_widths: [4, 4, 4]
@@ -93,6 +94,7 @@ sections:
     data: ['<b>蒙格的大卢恩</b>', '<b>[东亚坛神授塔]</b>', '由<b>[恶兆孪生子]</b>守卫的塔。唯一一座可以同时修复两个大卢恩的塔。']
     cords: [5157, 3863]
     map_title: 蒙格的大卢恩 修复
+  link: https://eldenring.wiki.fextralife.com/Divine+Tower
 - title: 其他重要卢恩
   table: ['名称', '位置', '描述']
   table_widths: [4, 4, 4]
@@ -117,3 +119,4 @@ sections:
     icon: /img/icons/keys/great_runes/edited/03116.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Mending+Rune+of+Perfect+Order"><b>完美律法的修复卢恩</b></a>', '在完成<b>[金面具]</b>和<b>[圣职人员柯林]</b>的任务线后从<b>[金面具]</b>处获得', '金面具发现的卢恩。此为意图完美化黄金律法，观点突破框架的卢恩。<br>解锁艾尔登之王的一种结局动画。']
     map_title: 完美律法的修复卢恩
+  link: https://eldenring.wiki.fextralife.com/Runes

@@ -99,6 +99,7 @@ sections:
       data: ['(x1) 可以<b>赐福[净身厅前室]</b>附近的祭坛上找到。']
     - id: '0_41'
       data: ['(x1) 可以在<b>赐福[螺旋塔]</b>的米凯拉十字记号旁边找到。']
+  link: https://eldenring.wiki.fextralife.com/Scadutree+Fragment
 - title: '灵灰'
   icon: '/img/icons/bolstering/edited/03817.png'
   items:
@@ -160,3 +161,4 @@ sections:
       data: ['(x1) 爬上雕像的脚，小心地下落到下方的野兽雕像处。']
     - id: '1_22'
       data: ['(x1) 从<b>赐福[保藏库（七楼）]</b>前往对面，跳上左侧的栏杆，在悬挂的雕像上找到。']
+  link: https://eldenring.wiki.fextralife.com/Revered+Spirit+Ash

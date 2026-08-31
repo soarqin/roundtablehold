@@ -50,6 +50,7 @@ sections:
   - id: '13_1'
     icon: '/img/icons/info/paintings/edited/03835.png'
     data: ['<a href="https://eldenring.wiki.fextralife.com/Domain+of+Dragons+Painting"><b>绘画《龙之境界》</b></a>', '<b>[幽影城]</b>', '<b>[幽影城]</b>底部，从通往保藏库的主广场爬下梯子即可抵达。']
+  link: https://eldenring.wiki.fextralife.com/Paintings
 - title: 绘画奖励
   table: ['名字', '奖励', '位置']
   items:
@@ -105,3 +106,4 @@ sections:
   - id: '13'
     icon: '/img/icons/tools/edited/00788.png'
     data: ['<a href="https://eldenring.wiki.fextralife.com/Domain+of+Dragons+Painting"><b>绘画《龙之境界》</b></a>', '<a href="https://eldenring.wiki.fextralife.com/Rock+Heart"><b>岩石心脏</b></a>', '从赐福<b>[尖刺山（中段）]</b>沿着向西南的小路，穿过崎岖的地形。不要向南前进，而是用灵魂气流起跳向西下落，找到风暴消散的位置。']
+  link: https://eldenring.wiki.fextralife.com/Paintings

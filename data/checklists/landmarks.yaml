@@ -312,6 +312,7 @@ sections:
     - 3216
     - 6775
     map_icon_size: 45
+  link: https://eldenring.wiki.fextralife.com/Limgrave
 - title: 啜泣半岛
   table:
   - 名称
@@ -525,6 +526,7 @@ sections:
     - 4097
     - 8554
     map_icon_size: 45
+  link: https://eldenring.wiki.fextralife.com/Weeping+Peninsula
 - title: 湖之利耶尼亚
   table:
   - 名称
@@ -1053,6 +1055,7 @@ sections:
     - 2580
     - 3625
     map_icon_size: 45
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 盖利德
   table:
   - 名称
@@ -1403,6 +1406,7 @@ sections:
     - 6060
     - 7357
     map_icon_size: 45
+  link: https://eldenring.wiki.fextralife.com/Caelid
 - title: 亚坛高原
   table:
   - 名称
@@ -1648,6 +1652,7 @@ sections:
     - 2921
     - 2682
     map_icon_size: 45
+  link: https://eldenring.wiki.fextralife.com/Altus+Plateau
 - title: 格密尔火山
   table:
   - 名称
@@ -1769,6 +1774,7 @@ sections:
     - 2190
     - 2837
     map_icon_size: 45
+  link: https://eldenring.wiki.fextralife.com/Mt+Gelmir
 - title: 王城罗德尔
   table:
   - 名称
@@ -1881,6 +1887,7 @@ sections:
     cords:
     - 4338
     - 3513
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital
 - title: 巨人山顶
   table:
   - 名称
@@ -2058,6 +2065,7 @@ sections:
     - 6030
     - 1849
     map_icon_size: 45
+  link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
 - title: 化圣雪原
   table:
   - 名称
@@ -2181,6 +2189,7 @@ sections:
     - 5610
     - 876
     map_icon_size: 45
+  link: https://eldenring.wiki.fextralife.com/Consecrated+Snowfield
 - title: 逐渐崩毁的法姆·亚兹拉
   table:
   - 名称
@@ -2199,6 +2208,7 @@ sections:
     - 8570
     - 4553
     map_icon_size: 50
+  link: https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula
 - title: 灰城罗德尔
   table:
   - 名称
@@ -2217,3 +2227,4 @@ sections:
     map_link:
     - 4271
     - 3531
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Ashen+Capital

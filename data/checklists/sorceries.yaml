@@ -74,6 +74,7 @@ sections:
   - id: '12_3'
     icon: /img/icons/sorceries/06021.png
     data: ['<b>[创星雨]</b>', '一定时间内，降下磅礡的星雨', '<b>赐福[结冰湖]</b>东北部。往北走，在悬崖的南侧找到断桥。这座桥其实是看不见的。过了桥，靠近终点，在左边，你会看到一小层雾，利用雾上升，然后进入<b>[异端魔法师塔]</b>找到魔法']
+  link: https://eldenring.wiki.fextralife.com/Glintstone+Sorceries
 - title: 卡利亚王室魔法
   table: ["名称", "说明", "获取方式"]
   items:
@@ -131,6 +132,7 @@ sections:
   - id: "20_1"
     icon: "/img/icons/sorceries/06800.png"
     data: ['<b>[米丽安的消失]</b>', '溶入辉石烟雾，隐藏自己的身影', '<b>[玛努斯·美特大教堂]</b>的<b>[“大祭司”尤弥尔]</b>处以10,000卢恩的价格购买。']
+  link: https://eldenring.wiki.fextralife.com/Carian+Royal+Sorceries
 - title: 黑夜魔法
   table: ["名称", "说明", "获取方式"]
   items:
@@ -155,6 +157,7 @@ sections:
   - id: '8_5'
     icon: /img/icons/sorceries/06041.png
     data: ['<b>[亘古黑暗]</b>', '形成黑暗，吸引魔法与祷告', '从<b>[腐败病教堂]</b>往南走，穿过附近的门的顶部，然后进入<b>[沼泽监视塔]</b>找到魔法。']
+  link: https://eldenring.wiki.fextralife.com/Night+Sorceries
 - title: 熔岩魔法
   table: ["名称", "说明", "获取方式"]
   items:
@@ -170,6 +173,7 @@ sections:
   - id: '9_6'
     icon: /img/icons/sorceries/06045.png
     data: ['<b>[拉卡德的怨魂]</b>', '释放受熏烧的怨魂，引发延迟性的连续爆炸', '杀死<b>[火山官邸]</b>的Boss后获得<b>[亵渎君王的追忆]</b>，可用于交换魔法。']
+  link: https://eldenring.wiki.fextralife.com/Lava+Sorceries
 - title: 冰冷魔法
   table: ["名称", "说明", "获取方式"]
   items:
@@ -185,6 +189,7 @@ sections:
   - id: '12_1'
     icon: /img/icons/sorceries/06029.png
     data: ['<b>[萨米尔冰风暴]</b>', '将手杖刺入地面，在周围形成寒气风暴', '<b>[萨米尔废墟]</b>南部。']
+  link: https://eldenring.wiki.fextralife.com/Frost+Sorceries
 - title: 结晶魔法
   table: ["名称", "说明", "获取方式"]
   items:
@@ -197,6 +202,7 @@ sections:
   - id: '4_22'
     icon: /img/icons/sorceries/06034.png
     data: ['<b>[飞散结晶]</b>', '降下大范围、气势磅礡的结晶碎片', '杀死<b>[学院结晶洞窟]</b>Boss']
+  link: https://eldenring.wiki.fextralife.com/Crystalian+Sorceries
 - title: 重力魔法
   table: ["名称", "说明", "获取方式"]
   items:
@@ -221,6 +227,7 @@ sections:
   - id: '12_5'
     icon: /img/icons/sorceries/06042.png
     data: ['<b>[艾丝缇陨石]</b>', '从虚无空间召唤大量小颗陨石，引发坠落', '杀死<b>[化圣雪原]</b>西部<b>[耶罗·亚尼斯坑道]</b>的Boss，需要圣树秘密符节。']
+  link: https://eldenring.wiki.fextralife.com/Gravity+Sorceries
 - title: 指头魔法
   table: ["名称", "说明", "获取方式"]
   items:
@@ -236,6 +243,7 @@ sections:
   - id: "20_14"
     icon: "/img/icons/sorceries/06813.png"
     data: ['<b>[守护指头]</b>', '形成包围施展者的数根粗厚指头', '完成<b>[“大祭司”尤弥尔]</b>的完整任务线后，可以在<b>[玛努斯·美特大教堂]</b>西侧的墓地中拾取。']
+  link: https://eldenring.wiki.fextralife.com/Fingercreeper+Sorceries
 - title: 神谕魔法
   table: ["名称", "说明", "获取方式"]
   items:
@@ -245,6 +253,7 @@ sections:
   - id: '7_2'
     icon: /img/icons/sorceries/06608.png
     data: ['<b>[神谕大泡泡]</b>', '释放一个大型的魔力泡泡', '通过<b>[宁姆格福]</b>森林<b>[希芙拉河的入口井]</b>的升降机进入地下区域。穿过这个区域到下一个电梯，然后坐电梯到下一个区域。在这个地区的东北方是<b>赐福[信仰者森林]</b>。从赐福向南走，穿过箭雨找到一个倒下的柱子，跳上去到顶部找到传送门。进入附近满是敌人的粪金龟所在的房间。']
+  link: https://eldenring.wiki.fextralife.com/Envoy+Sorceries
 - title: 荆棘魔法
   table: ["名称", "说明", "获取方式"]
   items:
@@ -254,6 +263,7 @@ sections:
   - id: '12_2'
     icon: /img/icons/sorceries/06047.png
     data: ['<b>[责罚荆棘]</b>', '伤害自己，召唤爬走地面的鲜血荆棘', '在<b>[萨米尔废墟]</b>向北的路上，火焰主教旁边。']
+  link: https://eldenring.wiki.fextralife.com/Thorn+Sorceries
 - title: 幽影树魔法
   table: ["名称", "说明", "获取方式"]
   items:
@@ -263,6 +273,7 @@ sections:
   - id: "20_9"
     icon: "/img/icons/sorceries/06808.png"
     data: ['<b>[拒绝的刺]</b>', '从地面形成生自幽影树的拒绝的刺', '<b>[幽影城]</b>：从<b>赐福[暗室门前]</b>返回，穿过桥，走下右边的台阶，它就在你的正下方，靠近坐着的蝙蝠。']
+  link: https://eldenring.wiki.fextralife.com/Scadutree+Sorceries
 - title: 死亡魔法
   table: ["名称", "说明", "获取方式"]
   items:
@@ -290,3 +301,4 @@ sections:
   - id: "20_12"
     icon: "/img/icons/sorceries/06811.png"
     data: ['<b>[融泥块]</b>', '释放大块融泥', '<b>[石棺大洞]</b>：从<b>赐福[大洞中段]</b>向东北方向走。跳过缝隙，从左侧（北侧）下落并向北走，在尸体上找到。']
+  link: https://eldenring.wiki.fextralife.com/Death+Sorceries

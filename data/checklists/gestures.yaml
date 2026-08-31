@@ -53,6 +53,7 @@ sections:
     icon: /img/icons/gestures/07015.png
     map_icon: /map/icons/shadows/gestures/07015.png
     data: ['<b>等一下</b>']
+  link: https://eldenring.wiki.fextralife.com/Gestures
 - title: 宁姆格福
   table: ['名称', '位置', '任务线', '描述']
   items:
@@ -128,6 +129,7 @@ sections:
     map_icon: /map/icons/shadows/gestures/07032.png
     data: ['<b>帕奇坐姿</b>', '<b>蒙流洞窟</b>', '<b>帕奇</b>', '在<b>帕奇</b>任务线的最后，他离开<b>日荫城</b>之后，回到你第一次见到他的地方，你会发现Boss雾门。进去打赢获得。']
     cords: [4027, 6977]
+  link: https://eldenring.wiki.fextralife.com/Limgrave
 - title: 圆桌厅堂
   table: ['名称', '位置', '任务线', '描述']
   items:
@@ -159,6 +161,7 @@ sections:
     map_icon_size: 40
     data: ['<b>恍惚</b>', '', '', '当你拥有了第一个大卢恩，并打开了通往<b>双指</b>的大门时，你便可以与他进行互动。']
     cords: [556, 8608]
+  link: https://eldenring.wiki.fextralife.com/Roundtable+Hold
 - title: 湖之利耶尼亚
   table: ['名称', '位置', '任务线', '描述']
   items:
@@ -198,6 +201,7 @@ sections:
     map_icon_size: 40
     data: ['<b>打招呼</b>(方法1)', '<b>古遗迹断崖</b>', '', '召唤<b>“大角”忒拉格斯</b>与<b>“熔岩土龙”马卡尔</b>战斗，他会在出现时立即解锁这个动作。']
     cords: [2436, 3636]
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 盖利德
   table: ['名称', '位置', '任务线', '描述']
   items:
@@ -223,6 +227,7 @@ sections:
     map_icon_size: 40
     data: ['<b>打招呼</b>(方法2)', '<b>红狮子城</b>', '', '与<b>“碎星”拉塔恩</b>战斗时召唤<b>“大角”忒拉格斯</b>，他会在出现时立即解锁这个动作。']
     cords: [6166, 6941]
+  link: https://eldenring.wiki.fextralife.com/Caelid
 - title: 格密尔火山
   table: ['名称', '位置', '任务线', '描述']
   items:
@@ -232,6 +237,7 @@ sections:
     map_icon_size: 40
     data: ['<b>致谢</b>', '<b>火山官邸</b>', '<b>火山官邸</b>', '击败<b>“亵渎君王”拉卡德</b>后，回到官邸主厅遇到鬼魂的地方，发现他给你留下了这个动作。']
     cords: [2189, 2916]
+  link: https://eldenring.wiki.fextralife.com/Mt+Gelmir
 - title: 王城罗德尔
   table: ['名称', '位置', '任务线', '描述']
   items:
@@ -258,6 +264,7 @@ sections:
     map_icon_size: 40
     data: ['<b>黄金律法全貌</b>', '', '<b>金面具</b>', '在解决回归性原理谜题后，告诉<b>金面具</b>关于竞技场的事。']
     cords: [4251, 3782]
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital
 - title: 巨人山顶
   table: ['名称', '位置', '任务线', '描述']
   items:
@@ -273,6 +280,7 @@ sections:
     map_icon_size: 40
     data: ['<b>霍斯劳立誓</b>', '<b>离群独行者的破屋</b>', '<b>火山官邸</b>', '<b>火山官邸</b>任务线入侵<b>“血言骑士”尤诺·霍斯劳</b>。他会做这个动作; 等他做完就解锁了。']
     cords: [5822, 2094]
+  link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
 - title: “永恒之城”诺克隆恩
   table: ['名称', '位置', '任务线', '描述']
   items:
@@ -282,6 +290,7 @@ sections:
     map_icon_size: 40
     data: ['<b>内在律法</b>', '<b>希芙拉导水桥</b>', '<b>“狩猎死亡”Ｄ</b>的双胞胎兄弟', '与<b>“狩猎死亡”Ｄ</b>的双胞胎兄弟在Boss双<b>英雄石像鬼</b>房间外交谈。']
     cords: [6380, 13929]
+  link: https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City
 - title: '幽影之地'
   table: ['名称', '位置', '任务线', '描述']
   items:
@@ -300,3 +309,4 @@ sections:
   - id: '11_5'
     icon: '/img/icons/gestures/07104.png'
     data: ['母亲啊', '波尼村', '“大祭司”尤弥尔', '在<b>[波尼村]</b>以北的无头雕像前。']
+  link: https://eldenring.wiki.fextralife.com/Land+of+Shadow

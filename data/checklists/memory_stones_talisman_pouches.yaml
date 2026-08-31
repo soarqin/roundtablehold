@@ -62,6 +62,7 @@ sections:
     - 2443
     - 3031
     map_title: 记忆石
+  link: https://eldenring.wiki.fextralife.com/Memory+Stone
 - title: 护符皮袋
   icon: /img/icons/keys/edited/00554.png
   map_icon: /map/icons/shadows/keys/00554.png
@@ -87,3 +88,4 @@ sections:
     - 4365
     - 3723
     map_title: 护符皮袋
+  link: https://eldenring.wiki.fextralife.com/Talisman+Pouch

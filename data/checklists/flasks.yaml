@@ -331,6 +331,7 @@ sections:
     - 3155
     - 12592
     map_title: 黄金种子
+  link: https://eldenring.wiki.fextralife.com/Golden+Seed
 - title: 圣杯滴露
   icon: /img/icons/bolstering/edited/00384.png
   map_icon: /map/icons/shadows/bolstering/00384.png
@@ -425,3 +426,4 @@ sections:
     - 6754
     - 2354
     map_title: 圣杯露滴
+  link: https://eldenring.wiki.fextralife.com/Sacred+Tear

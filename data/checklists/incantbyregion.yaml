@@ -30,6 +30,7 @@ sections:
   - id: '3_6'
     icon: /img/icons/incantations/06091.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Dragonmaw"><b>龙咬</b></a>', '<b>将自身化为龙，朝前方咬碎敌人</b>', '在<b>[龙飨教堂]</b>以1颗<b>[龙心脏]</b>购买。也可以在<b>[大龙飨教堂]</b>龙祭坛购买。']
+  link: https://eldenring.wiki.fextralife.com/Limgrave
 - title: 啜泣半岛
   table: ['名称', '效果', '取得方法']
   items:
@@ -45,6 +46,7 @@ sections:
   - id: '8_4'
     icon: /img/icons/incantations/06095.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/The+Flame+of+Frenzy"><b>癫火</b></a>', '<b>从眼睛迸发黄色癫火</b>', '<b>[卡尔洗礼教堂]</b>。在教堂左侧柱子旁的一具尸体上。']
+  link: https://eldenring.wiki.fextralife.com/Weeping+Peninsula
 - title: 圆桌厅堂
   table: ['名称', '效果', '取得方法']
   items:
@@ -87,6 +89,7 @@ sections:
   - id: '7_1'
     icon: /img/icons/incantations/06202.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Flame+Sling"><b>投火</b></a>', '<b>丢掷燃烧的火焰球</b>', '火焰主教祷告，<b>[圆桌厅堂]</b>的<b>[圣职人员柯林]</b>以800卢恩出售']
+  link: https://eldenring.wiki.fextralife.com/Roundtable+Hold
 - title: 湖之利耶尼亚
   table: ['名称', '效果', '取得方法']
   items:
@@ -120,6 +123,7 @@ sections:
   - id: '3_13'
     icon: /img/icons/incantations/06088.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Smarag''s+Glintstone+Breath"><b>史玛拉格的辉石</b></a>', '<b>从空中喷出“辉石龙”史玛拉格的魔力吐息</b>', '打败<b>[“辉石龙”史玛拉格]</b>后在<b>[大龙飨教堂]</b>龙祭坛以2颗<b>[龙心脏]</b>购买。']
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 盖利德
   table: ['名称', '效果', '取得方法']
   items:
@@ -168,6 +172,7 @@ sections:
   - id: '3_9'
     icon: /img/icons/incantations/06092.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Greyoll''s+Roar"><b>桂奥尔的咆哮</b></a>', '<b>响彻“古老龙”桂奥尔的巨响咆哮</b>', '打败老龙桂奥尔后在<b>[大龙飨教堂]</b>龙祭坛购买。']
+  link: https://eldenring.wiki.fextralife.com/Caelid
 - title: 亚坛高原
   table: ['名称', '效果', '取得方法']
   items:
@@ -195,6 +200,7 @@ sections:
   - id: '9_6'
     icon: /img/icons/incantations/06210.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Scouring+Black+Flame"><b>横扫黑焰</b></a>', '<b>朝前方大幅度横扫黑焰</b>', '<b>[风车村]</b>的<b>[神皮使徒]</b>掉落。']
+  link: https://eldenring.wiki.fextralife.com/Altus+Plateau
 - title: 格密尔火山
   table: ['名称', '效果', '取得方法']
   items:
@@ -210,6 +216,7 @@ sections:
   - id: '3_10'
     icon: /img/icons/incantations/06082.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Magma+Breath"><b>熔岩吐息</b></a>', '<b>将自身化为土龙，喷出熔岩吐息</b>', '杀死位于<b>[格密尔火山]</b>中<b>赐福[沸滚河终点]</b>西南的<b>[熔岩土龙]</b>后，在<b>[大龙飨教堂]</b>龙祭坛以1颗<b>[龙心脏]</b>购买。']
+  link: https://eldenring.wiki.fextralife.com/Mt+Gelmir
 - title: 王城罗德尔
   table: ['名称', '效果', '取得方法']
   items:
@@ -234,6 +241,7 @@ sections:
   - id: '10_4'
     icon: /img/icons/incantations/06064.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Law+of+Regression"><b>回归性原理</b></a>', '<b>治愈所有异常状态，并消除特殊效果</b>', '<b>[黄金律法原本]</b>']
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital
 - title: 弃置恶兆的地底
   table: ['名称', '效果', '取得方法']
   items:
@@ -246,6 +254,7 @@ sections:
   - id: '8_3'
     icon: /img/icons/incantations/06094.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Inescapable+Frenzy"><b>发狂扩散</b></a>', '<b>抓住目标，传染异常状态发狂</b>', '击败<b>[“恶兆之子”蒙格]</b>之后，攻击Boss房间前面的祭坛进入隐藏区域(需要击败<b>[“恶兆王”蒙葛特]</b>才能继续前进)。往下跳靠近底部，你会看到一具尸体，上面有<b>[发狂扩散]</b>。']
+  link: https://eldenring.wiki.fextralife.com/Subterranean+Shunning-Grounds
 - title: 巨人山顶
   table: ['名称', '效果', '取得方法']
   items:
@@ -270,6 +279,7 @@ sections:
   - id: '3_2'
     icon: /img/icons/incantations/06084.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Borealis''s+Mist"><b>玻列琉斯的冰雾</b></a>', '<b>从空中喷出玻列琉斯的冰雾</b>', '在<b>[大龙飨教堂]</b>龙祭坛购买。需要打败<b>[“冻结冰雾”玻列琉斯]</b>才能解锁这个祷告。']
+  link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
 - title: 化圣雪原
   table: ['名称', '效果', '取得方法']
   items:
@@ -291,6 +301,7 @@ sections:
   - id: '3_14'
     icon: /img/icons/incantations/06105.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Theodorix''s+Magma"><b>席欧朵利克的熔岩</b></a>', '<b>喷出“大土龙”席欧朵利克的熔岩吐息</b>', '击败<b>[“大土龙”席欧朵利克]</b>后在<b>[大龙飨教堂]</b>龙祭坛以2颗<b>[龙心脏]</b>购买。']
+  link: https://eldenring.wiki.fextralife.com/Consecrated+Snowfield
 - title: 逐渐崩毁的法姆·亚兹拉
   table: ['名称', '效果', '取得方法']
   items:
@@ -315,18 +326,21 @@ sections:
   - id: '3_11'
     icon: /img/icons/incantations/06089.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Placidusax''s+Ruin"><b>普拉顿桑克斯的凋亡</b></a>', '<b>从空中喷出“龙王”普拉顿桑克斯的金色吐息</b>', '独特祷告，不被任何圣印记加成。在<b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处用<b>[龙王的追忆]</b>交换。']
+  link: https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula
 - title: “灰烬王城”罗德尔
   table: ['名称', '效果', '取得方法']
   items:
   - id: '5_9'
     icon: /img/icons/incantations/06302.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Erdtree+Heal"><b>黄金树恢复</b></a>', '<b>包含周围我方人物，巨幅恢复血量</b>', '在<b>[“灰烬王城”罗德尔]</b><b>[女王闺阁]</b>获得']
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Ashen+Capital
 - title: “永恒之城”诺克隆恩
   table: ['名称', '效果', '取得方法']
   items:
   - id: '10_6'
     icon: /img/icons/incantations/06068.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Order+Healing"><b>圣律疗愈</b></a>', '<b>减轻死亡量表的累积</b>', '在<b>[希芙拉导水桥]</b>的中间一个圆形部分发现的泪滴粪金龟。解锁<b>[希芙拉导水桥]</b>上层区域后才能到达。']
+  link: https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City
 - title: 蒙格温王朝
   table: ['名称', '效果', '取得方法']
   items:
@@ -339,12 +353,14 @@ sections:
   - id: '2_1'
     icon: /img/icons/incantations/06254.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Bloodboon"><b>授血</b></a>', '<b>朝前方喷洒血焰，引发燃烧</b>', '在<b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处用<b>[鲜血君王的追忆]</b>交换']
+  link: https://eldenring.wiki.fextralife.com/Mohgwyn+Palace
 - title: “永恒之城”诺克史黛拉
   table: ['名称', '效果', '取得方法']
   items:
   - id: '4_12'
     icon: /img/icons/incantations/06072.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Frozen+Lightning+Spear"><b>冰雷枪</b></a>', '<b>召唤冰雷枪，从空中刺入地面</b>', '<b>[诺克史黛拉的龙人士兵]</b>掉落。']
+  link: https://eldenring.wiki.fextralife.com/Nokstella,+Eternal+City
 - title: 深根底层
   table: ['名称', '效果', '取得方法']
   items:
@@ -357,6 +373,7 @@ sections:
   - id: '4_3'
     icon: /img/icons/incantations/06104.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Death+Lightning"><b>死亡雷击</b></a>', '<b>在周围降下剧烈的死亡落雷</b>', '在<b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处用<b>[死龙的追忆]</b>交换']
+  link: https://eldenring.wiki.fextralife.com/Deeproot+Depths
 - title: 幽影之地
   table: ['名称', '效果', '取得方法']
   items:
@@ -444,3 +461,4 @@ sections:
   - id: "20_23"
     icon: "/img/icons/incantations/06872.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Spira"><b>旋流</b></a>', '<b>在目标脚边形成螺旋状光柱</b>', '<b>[艾尼尔·伊利姆]</b>：从<b>赐福[第一塔]</b>处使用树枝进入高台，在雕像正前方的一个小祭坛上。']
+  link: https://eldenring.wiki.fextralife.com/Land+of+Shadow

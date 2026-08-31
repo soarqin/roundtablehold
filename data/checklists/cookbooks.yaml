@@ -102,6 +102,7 @@ sections:
     data: ['24. 在过了沼泽的悬崖边上。需要圣树秘密符节或完成<b>[“白面具”梵雷]</b>的任务线。']
     cords: [7093, 4470]
     map_title: 流浪战士的制作笔记【２４】
+  link: https://eldenring.wiki.fextralife.com/Missionary%27s+Cookbook+(1)
 - title: 武器工匠的制作笔记
   icon: /img/icons/keys/cookbooks/edited/03120.png
   map_icon: /map/icons/shadows/keys/cookbooks/03120.png
@@ -134,6 +135,7 @@ sections:
     data: ['7. <b>[火山官邸]</b>西部<b>[格密尔火山]</b>西边的<b>[莱多要塞]</b>内。']
     cords: [1903, 2872]
     map_title: 武器工匠的制作笔记【７】
+  link: https://eldenring.wiki.fextralife.com/Weaponsmith%27s+Cookbook+(1)
 - title: 辉石工匠的制作笔记
   icon: /img/icons/keys/cookbooks/edited/03121.png
   map_icon: /map/icons/shadows/keys/cookbooks/03121.png
@@ -170,6 +172,7 @@ sections:
     data: ['8. <b>[化圣雪原]</b>东部<b>[白金魔法师塔]</b>西南。需要圣树秘密符节。']
     cords: [5606, 2293]
     map_title: 辉石工匠的制作笔记【８】
+  link: https://eldenring.wiki.fextralife.com/Glintsmith%27s+Cookbook+(1)
 - title: 传道士的制作笔记
   icon: /img/icons/keys/cookbooks/edited/03122.png
   map_icon: /map/icons/shadows/keys/cookbooks/03122.png
@@ -202,6 +205,7 @@ sections:
     data: ['7. 由<b>[巨人山顶]</b>的<b>[遁世商人]</b>出售，在<b>赐福[古遗迹降雪谷]</b>附近。']
     cords: [5984, 2239]
     map_title: 传道士的制作笔记【７】
+  link: https://eldenring.wiki.fextralife.com/Missionary%27s+Cookbook
 - title: 古龙信徒的制作笔记
   icon: /img/icons/keys/cookbooks/edited/03124.png
   map_icon: /map/icons/shadows/keys/cookbooks/03124.png
@@ -222,6 +226,7 @@ sections:
     data: ['4. 在<b>[逐渐崩毁的法姆·亚兹拉]</b>一个屋顶在西南部分，经过一条龙。']
     cords: [8360, 4527]
     map_title: 古龙信徒的制作笔记【４】
+  link: https://eldenring.wiki.fextralife.com/Dragon+Communion+Gospel
 - title: 调香师的制作笔记
   icon: /img/icons/keys/cookbooks/edited/03123.png
   map_icon: /map/icons/shadows/keys/cookbooks/03123.png
@@ -242,6 +247,7 @@ sections:
     data: ['4. <b>[安瑟尔河]</b>南部/中部<b>[遁世商人]</b>出售。']
     cords: [3542, 2157]
     map_title: 调香师的制作笔记【４】
+  link: https://eldenring.wiki.fextralife.com/Perfumer%27s+Cookbook+(1)
 - title: 法力斯的制作笔记
   icon: /img/icons/keys/cookbooks/edited/03125.png
   map_icon: /map/icons/shadows/keys/cookbooks/03125.png
@@ -258,6 +264,7 @@ sections:
     data: ['3. <b>[“百智爵士”基甸·奥夫尼尔]</b>关于蒙格温王朝信息的奖励，需要圣树秘密符节或完成<b>[“白面具”梵雷]</b>的任务线以击杀<b>[“鲜血君王”蒙格]</b>。']
     cords: [478, 8340]
     map_title: 法力斯的制作笔记【３】
+  link: https://eldenring.wiki.fextralife.com/Fex%27s+Cookbook
 - title: 罹病者的制作笔记
   icon: /img/icons/keys/cookbooks/edited/03126.png
   map_icon: /map/icons/shadows/keys/cookbooks/03126.png
@@ -270,6 +277,7 @@ sections:
     data: ['2. 在通往<b>[癫火封印]</b>的路上。']
     cords: [4607, 3393]
     map_title: 罹病者的制作笔记【２】
+  link: https://eldenring.wiki.fextralife.com/Fire+Monk%27s+Cookbook
 - title: 大维壶师的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/03842.png'
   items:
@@ -301,11 +309,13 @@ sections:
     data: ['13. 进入<b>[熔岩管锻造遗迹]</b>走下第一个梯子，然后走上右边的楼梯，在后墙附近的一具尸体上找到它。']
   - id: '13_14'
     data: ['14. 向<b>[卡罗隐藏墓地]</b>的西北方向出发，沿着左边的水路前行，直到发现一具有制作笔记的尸体，尸体周围有一朵大米兰达花和几朵小米兰达花。']
+  link: https://eldenring.wiki.fextralife.com/Greater+Potentate%27s+Cookbook+(1)
 - title: 骑士实习生的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/03838.png'
   items:
   - id: '18_1'
     data: ['<b>[恩希斯城]</b>：上楼梯后的一个武器库里']
+  link: https://eldenring.wiki.fextralife.com/Loyal+Knight%27s+Cookbook
 - title: 火焰骑士的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/03836.png'
   items:
@@ -313,6 +323,7 @@ sections:
     data: ['1. 在<b>赐福[大道旁的十字记号]</b>的东边，有一个梅瑟莫士兵营地。你可以在其中一个帐篷里找到。']
   - id: '17_2'
     data: ['2. 在艾拉克大桥过去的士兵营地其中一个帐篷里找到。']
+  link: https://eldenring.wiki.fextralife.com/Fire+Knight%27s+Cookbook+(1)
 - title: 战场神父的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/03839.png'
   items:
@@ -324,6 +335,7 @@ sections:
     data: ['3. <b>[幽影城]</b>前方军营西北的一个帐篷内。']
   - id: '19_4'
     data: ['4. <b>[幽影城]</b>：从<b>赐福[保藏库（一楼）]</b>乘坐左侧电梯。从右边的第一个出口走，继续向前走到走廊尽头。杀死敌人后走左边的路，墙上有一个隐藏门。']
+  link: https://eldenring.wiki.fextralife.com/Battlefield+Priest%27s+Cookbook+(1)
 - title: 古龙骑士的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/03837.png'
   items:
@@ -331,6 +343,7 @@ sections:
     data: ['1. <b>[雾谷地下墓地]</b>：经过有法师的房间后进入开放的道路，先走右边，在有两个小恶魔的房间里。']
   - id: '14_2'
     data: ['2. <b>[蝎河地下墓地]</b>：经过烦人的高处法师和两个小恶魔的房间后，抵达一座由死亡之眼巡逻的桥。你可以从侧面下落，向前通向装有制作笔记的宝箱。']
+  link: https://eldenring.wiki.fextralife.com/Ancient+Dragon+Knight%27s+Cookbook+(1)
 - title: 托莉娜信徒的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/03841.png'
   items:
@@ -340,6 +353,7 @@ sections:
     data: ['2. 从<b>赐福[青蓝海岸的十字记号]</b>沿着小路向南走，直到山的最高点的东边悬崖。']
   - id: '16_3'
     data: ['3. 击败<b>[融泥骑士]</b>后，在<b>[深紫花园]</b>附近<b>[托莉娜]</b>所在的小洞穴里。']
+  link: https://eldenring.wiki.fextralife.com/St.+Trina+Disciple%27s+Cookbook+(1)
 - title: 发狂工匠的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/03843.png'
   items:
@@ -349,6 +363,7 @@ sections:
     data: ['2. <b>[谷底森林]</b>：在地图中部上方区域的大树根之间的一具尸体上。向西走并向上爬即可抵达。']
   - id: '15_3'
     data: ['3. <b>[米德拉的府邸]</b>：在第二个赐福点。穿过横梁，跳进一个充满发狂老鼠的房间。']
+  link: https://eldenring.wiki.fextralife.com/Mad+Craftsman%27s+Cookbook+(1)
 - title: 守墓者的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/03844.png'
   items:
@@ -356,11 +371,13 @@ sections:
     data: ['1. 从<b>赐福[青蓝海岸西边]</b>向东南走，直到抵达一个有树的小墓地。小地图上应该有一棵树，离赐福点不远。']
   - id: '20_2'
     data: ['2. 进入<b>[卡罗隐藏墓地]</b>后第一次到达水边的一堆岩石和乌龟旁边。']
+  link: https://eldenring.wiki.fextralife.com/Grave+Keeper%27s+Cookbook+(1)
 - title: 提比亚的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/03852.png'
   items:
   - id: '22_1'
     data: ['<b>[卡罗隐藏墓地]</b>的<b>[提比亚的唤声船]</b>掉落。']
+  link: https://eldenring.wiki.fextralife.com/Tibia%27s+Cookbook
 - title: 指头追寻者的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/01384.png'
   items:
@@ -368,6 +385,7 @@ sections:
     data: ['1. 在<b>[指头追寻者的破屋]</b>找到。可通过<b>[利亚指头遗迹]</b>进入，沿着左边的路径直行到龙飨大祭坛下方。']
   - id: '12_2'
     data: ['2. 在<b>[密亚指头遗迹]</b>的钟前的尸体上找到。只有在完成<b>[“大祭司”尤弥尔]</b>的任务线并找到大教堂下的秘密通道后才能获取。']
+  link: https://eldenring.wiki.fextralife.com/Finger-Weaver%27s+Cookbook+(1)
 - title: 考古学者的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/03845.png'
   items:
@@ -375,6 +393,7 @@ sections:
     data: ['1. 在<b>赐福[神殿镇废墟]</b>的北边，经过红色的腐败眷属，有一个洞穴，在里面你会发现一个举着壶的暗影敌人。小心散落在周围的剧毒陷阱。']
   - id: '21_2'
     data: ['2. 从<b>[劳弗古遗迹]</b>的入口向北走到边缘，然后向西走，你会发现一个区域，跳到下面拾取。']
+  link: https://eldenring.wiki.fextralife.com/Antiquity+Scholar%27s+Cookbook+(1)
 - title: 集物虫的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/03855.png'
   items:
@@ -392,6 +411,7 @@ sections:
     data: ['6. 与<b>[幽影城]</b>东边的集物虫互动。可以从<b>赐福[教堂区]</b>沿路出去，向西沿着隧道路上方的悬崖前进，然后继续向西到达城堡外墙。<br><br><strong><span style=''color: #ff0000;''>注意：</span></strong>如果推进<b>[穆尔]</b>任务线到他死亡，你将无法再获得此系列的制作笔记。']
   - id: '10_7'
     data: ['7. 与<b>[穆尔]</b>互动时选择“与摩尔交谈”选项即可获得。需要拥有所有其他集物虫制作笔记。<br><strong><span style=''color: #ff0000;''>注意：</span></strong>如果推进<b>[穆尔]</b>任务线到他死亡，你将无法再获得此系列的制作笔记。']
+  link: https://eldenring.wiki.fextralife.com/Forager+Brood+Cookbook+(1)
 - title: 埃贡的制作笔记
   icon: '/img/icons/keys/cookbooks/edited/03840.png'
   items:
@@ -399,3 +419,4 @@ sections:
     data: ['1. 可以在龙飨大祭坛前的残破塔楼的一具尸体上找到。']
   - id: '11_2'
     data: ['2. 可以在<b>赐福[尖刺山（中段）]</b>附近的悬崖边找到。']
+  link: https://eldenring.wiki.fextralife.com/Igon%27s+Cookbook+(1)

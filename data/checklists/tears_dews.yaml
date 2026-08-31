@@ -68,6 +68,7 @@ sections:
     data: ['位于<b>[雾谷地下墓地]</b>的悬崖上，位于<b>赐福[古遗迹下方]</b>的西南。']
   - id: "1_29"
     data: ['位于<b>赐福[峡谷北方]</b>的西北部。']
+  link: https://eldenring.wiki.fextralife.com/Larval+Tear
 - title: 星星泪滴
   icon: /img/icons/keys/edited/00624.png
   items:
@@ -96,3 +97,4 @@ sections:
   - 王城罗德尔
   - id: '2_10'
     data: ['在捷径楼梯的顶端，你可以跳入<b>[黄金树大教堂]</b>。要上到那里，从赐福出发到外面，往东爬到树根上，穿过门，立刻左转，跳到屋顶上，然后穿过破窗户。向右转，穿过房间到另一边的门，尸体和梯子就在那里。']
+  link: https://eldenring.wiki.fextralife.com/Celestial+Dew

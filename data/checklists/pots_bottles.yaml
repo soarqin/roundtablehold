@@ -20,11 +20,12 @@ sections:
   - id: '4_7'
     data: ['<b>[波尼监牢]</b>：从入口进去后，有两个吊着的壶可以跳下去通向它。']
   - id: '4_8'
-    data: ['<b>[幽影城]</b>：在赐福[西边城墙]</b>后面房间里的一张床上。']
+    data: ['<b>[幽影城]</b>：在<b>赐福[西边城墙]</b>后面房间里的一张床上。']
   - id: '4_9'
-    data: ['<b>[青蓝海岸]</b>：在南边通往[石棺大洞]</b>的路上击败一个扔出巨大催眠壶的山妖后获得。']
+    data: ['<b>[青蓝海岸]</b>：在南边通往<b>[石棺大洞]</b>的路上击败一个扔出巨大催眠壶的山妖后获得。']
   - id: '4_10'
     data: ['<b>[喟叹监牢]</b>：在堆积着残骸的区域西南角的一具尸体上。']
+  link: https://eldenring.wiki.fextralife.com/Hefty+Cracked+Pot
 - title: 龟裂壶
   icon: /img/icons/keys/edited/00504.png
   map_icon: /map/icons/shadows/keys/00504.png
@@ -117,6 +118,7 @@ sections:
     data: ['<b>赐福[大道旁露台]</b>西北下面一层，通过一对门，在一具尸体上']
     cords: [4292, 3480]
     map_title: 龟裂壶
+  link: https://eldenring.wiki.fextralife.com/Cracked+Pot
 - title: 仪式壶
   icon: /img/icons/keys/edited/03010.png
   map_icon: /map/icons/shadows/keys/03010.png
@@ -167,6 +169,7 @@ sections:
     data: ['<b>[巨人山顶地下墓地]</b>。从<b>[萨米尔废墟]</b>向北走，右转进入墓地。在一个房间里有一个巨大活壶。']
     cords: [5798, 2822]
     map_title: 仪式壶
+  link: https://eldenring.wiki.fextralife.com/Ritual+Pot
 - title: 调香瓶
   icon: /img/icons/keys/edited/00443.png
   map_icon: /map/icons/shadows/keys/00443.png
@@ -216,3 +219,4 @@ sections:
     data: ['穿过<b>[王城罗德尔]</b>里通往<b>[禁域]</b>的双开大门，一直走，遇到上坡不要上楼梯，往右继续走下面的路，在尽头一个小型混种守卫的尸体上']
     cords: [4581, 3560]
     map_title: 调香瓶
+  link: https://eldenring.wiki.fextralife.com/Perfume+Bottles

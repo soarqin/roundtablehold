@@ -46,6 +46,7 @@ sections:
     data:
     - <b>[古兰桑克斯的雷电]</b>(警告:这个武器可能会错过。如果在没有获得的情况下完成<b>[逐渐崩毁的法姆·亚兹拉]</b>，你将不得不等到下一次通关才能获得这个武器)
       - 在<b>[王城罗德尔]</b>，从<b>赐福[黄金树大教堂]</b>出发穿过西门，下楼梯，下电梯，下更多的楼梯，经过敌人，向左看你可以跳到一个地方，这样你就可以跳到城墙上巨大的金矛上。跳上长矛，小心翼翼地往上爬。靠近顶部处拿到。
+  link: https://eldenring.wiki.fextralife.com/Legendary+Armaments
 - title: 传说中的护符
   items:
   - id: '2_1'
@@ -80,6 +81,7 @@ sections:
     icon: /img/icons/talismans/18042.png
     data:
     - <b>[黄金树的恩惠＋２]</b> - 当完成<b>[逐渐崩毁的法姆·亚兹拉]</b>后，回到<b>[王城罗德尔]</b>，从<b>[王城罗德尔]</b>的东边的<b>赐福[禁域]</b>出发。坐电梯回来，跑回<b>[王城罗德尔]</b>，再坐电梯下来，穿过3个腐烂树灵是一棵死树。树上有护身符。
+  link: https://eldenring.wiki.fextralife.com/Legendary+Talismans
 - title: 传说中的骨灰
   items:
   - id: '3_1'
@@ -106,6 +108,7 @@ sections:
     icon: /img/icons/spirit_ashes/00131.png
     data:
     - <b>[“尊腐骑士”芬雷]</b> - 到达<b>[米凯拉的圣树]</b>后，穿过这个区域直到你到达<b>赐福[祈祷室]</b>。从赐福出发，沿着小路继续走，走下几级台阶。当你到达楼梯需要你转身的地方时，跳到附近的桥上，而不是跳到下面建筑的屋顶上。里面会有一扇门和一个宝箱。宝箱里就是。
+  link: https://eldenring.wiki.fextralife.com/Legendary+Ashen+Remains
 - title: 传说中的魔法
   items:
   - id: '4_1'
@@ -124,6 +127,7 @@ sections:
     icon: /img/icons/sorceries/06021.png
     data:
     - <b>[创星雨]</b> - 在<b>[巨人山顶]</b>，前往东北段的<b>赐福[结冰湖]</b>。往北走，在悬崖的南侧找到断桥。这座桥其实是看不见但可以行走的。过桥，靠近终点出左转，你会看到一小层雾，沿着雾往上走进入<b>[异端魔法师塔]</b>。在里面你会发现魔法。
+  link: https://eldenring.wiki.fextralife.com/Legendary+Sorceries+and+Incantations
 - title: 传说中的祷告
   items:
   - id: '5_1'
@@ -138,3 +142,4 @@ sections:
     icon: /img/icons/incantations/06063.png
     data:
     - <b>[艾尔登流星]</b> - 当进入<b>[深根底层]</b>后通过巨大树根道路时，向右进入一个充满蚁后的洞穴。在洞穴出口处就是。
+  link: https://eldenring.wiki.fextralife.com/Legendary+Sorceries+and+Incantations

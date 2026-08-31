@@ -69,6 +69,7 @@ sections:
   - id: '11_1'
     icon: /img/icons/talismans/18870.png
     data: ['<b>战士壶碎片</b>', '不完成<b>[“战士壶”亚历山大]</b>的任务线的情况下杀死他获得，可以选择在之后他出现的其他地点杀死他，但不能是在任务线结束的时候。', '能提升战技的攻击力(10%)']
+  link: https://eldenring.wiki.fextralife.com/Limgrave
 - title: 啜泣半岛
   table: ['名称', '位置', '效果']
   items:
@@ -93,6 +94,7 @@ sections:
   - id: '1_7'
     icon: /img/icons/talismans/18360.png
     data: ['<b>双头剑护符</b>', '从<b>赐福[城堡后方]</b>往西走在塔顶发现', '能强化连续攻击的最后一记攻击(20%)']
+  link: https://eldenring.wiki.fextralife.com/Weeping+Peninsula
 - title: 圆桌厅堂
   table: ['名称', '位置', '效果']
   items:
@@ -108,6 +110,7 @@ sections:
   - id: '3_4'
     icon: /img/icons/talismans/18880.png
     data: ['<b>祖灵角</b>', '交换<b>[祖灵之王的追忆]</b>获得', '打倒敌人时，能恢复专注值(每次击杀恢复3点FP)']
+  link: https://eldenring.wiki.fextralife.com/Roundtable+Hold
 - title: 湖之利耶尼亚
   table: ['名称', '位置', '效果']
   items:
@@ -171,6 +174,7 @@ sections:
   - id: '4_20'
     icon: /img/icons/talismans/18830.png
     data: ['<b>友好壶</b>', '完成任务后从<b>[小壶]</b>处获得', '能提升投掷壶类道具的威力(20%)']
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 盖利德
   table: ['名称', '位置', '效果']
   items:
@@ -213,6 +217,7 @@ sections:
   - id: '5_13'
     icon: /img/icons/talismans/18490.png
     data: ['<b>龙徽盾护符</b>', '在<b>[野兽神殿]</b>的边缘发现', '能提升物理减伤率(10%)']
+  link: https://eldenring.wiki.fextralife.com/Caelid
 - title: 亚坛高原
   table: ['名称', '位置', '效果']
   items:
@@ -252,6 +257,7 @@ sections:
   - id: '7_8'
     icon: /img/icons/talismans/18680.png
     data: ['<b>克雷普的小瓶子</b>', '作为<b>[火山官邸]</b>任务线的一部分，击败<b>[“黄昏将尽”莱利]</b>的奖励', '能完全去除自己发出的声响']
+  link: https://eldenring.wiki.fextralife.com/Altus+Plateau
 - title: 格密尔火山
   table: ['名称', '位置', '效果']
   items:
@@ -276,6 +282,7 @@ sections:
   - id: '7_9'
     icon: /img/icons/talismans/18740.png
     data: ['<b>狄蒂卡之祸</b>', '在<b>[火山官邸]</b>任务线之后的<b>[“招募者”菈雅]</b>任务线的末尾获得', '将增加受到的损伤(100%)']
+  link: https://eldenring.wiki.fextralife.com/Mt+Gelmir
 - title: 王城罗德尔
   table: ['名称', '位置', '效果']
   items:
@@ -294,6 +301,7 @@ sections:
   - id: '8_8'
     icon: /img/icons/talismans/18630.png
     data: ['<b>恩惠露滴护符</b>', '在<b>[神授桥]</b>上的一个宝箱中发现，由一个魔像守卫。可以从<b>[啜泣半岛]</b>南部<b>[归还塔]</b>顶的传送门抵达', '能缓慢恢复血量(2点/秒)。']
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital
 - title: 弃置恶兆的地底
   table: ['名称', '位置', '效果']
   items:
@@ -306,6 +314,7 @@ sections:
   - id: '8_5'
     icon: /img/icons/talismans/18550.png
     data: ['<b>熔炉鳞护符</b>', '在<b>[罗德尔地下墓地]</b>一具尸体上', '能减少致命一击造成的损伤']
+  link: https://eldenring.wiki.fextralife.com/Subterranean+Shunning-Grounds
 - title: 巨人山顶
   table: ['名称', '位置', '效果']
   items:
@@ -321,6 +330,7 @@ sections:
   - id: '9_5'
     icon: /img/icons/talismans/18650.png
     data: ['<b>神皮襁褓</b>', '在<b>[唤灵洞窟]</b>中由<b>[神皮使徒]</b>和<b>[神皮贵族]</b>掉落', '连续攻击时，能恢复血量(3%最大HP+30HP，~10秒重置计时)']
+  link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
 - title: 化圣雪原
   table: ['名称', '位置', '效果']
   items:
@@ -354,6 +364,7 @@ sections:
   - id: '10_9'
     icon: /img/icons/talismans/18502.png
     data: ['<b>魔力龙徽护符＋２</b>', '在<b>[通往圣树的密道]</b>下面的秘密地下墓穴的尸体上，<b>[离群仿身泪滴]</b>前的右边', '能更大幅提升魔力属性减伤率(PvE:20%; PvP:6%)']
+  link: https://eldenring.wiki.fextralife.com/Consecrated+Snowfield
 - title: 逐渐崩毁的法姆·亚兹拉
   table: ['名称', '位置', '效果']
   items:
@@ -369,6 +380,7 @@ sections:
   - id: '11_5'
     icon: /img/icons/talismans/18522.png
     data: ['<b>雷龙徽护符＋２</b>', '在一具尸体上，从东边的一个悬崖上掉下来发现，那里有一条古龙', '能更大幅提升雷属性减伤率(20%)']
+  link: https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula
 - title: “灰烬王城”罗德尔
   table: ['名称', '位置', '效果']
   items:
@@ -378,6 +390,7 @@ sections:
   - id: '12_2'
     icon: /img/icons/talismans/18042.png
     data: ['<b>黄金树的恩惠＋２</b>', '在一个大院子里的一根树枝上发现的(需要从<b>[禁域]</b>往回走)', '能提升血量、精力、装备重量的上限(4%,9.6%,8%)']
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Ashen+Capital
 - title: 希芙拉河
   table: ['名称', '位置', '效果']
   items:
@@ -387,6 +400,7 @@ sections:
   - id: '13_2'
     icon: /img/icons/talismans/18060.png
     data: ['<b>玛莉卡的烙印</b>', '在高处龙人士兵Boss身后瀑布底部的一具尸体上', '能提升能力值，但增加受到的损伤(+3点,伤害提高10%)']
+  link: https://eldenring.wiki.fextralife.com/Siofra+River
 - title: “永恒之城”诺克隆恩
   table: ['名称', '位置', '效果']
   items:
@@ -399,36 +413,42 @@ sections:
   - id: '14_3'
     icon: /img/icons/talismans/18211.png
     data: ['<b>斑斓项链＋１</b>', '在<b>[“永恒之城”诺克隆恩]</b>废墟拱门顶部的尸体上', '能大幅提升免疫力、健壮度、理智度(60点)']
+  link: https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City
 - title: 蒙格温王朝
   table: ['名称', '位置', '效果']
   items:
   - id: '15_1'
     icon: /img/icons/talismans/18532.png
     data: ['<b>圣龙徽护符＋２</b>', '在<b>[蒙格温王朝]</b>的一具尸体上，在一个小坟堆里，旁边有一只警戒的大乌鸦栖息于高处', '能更大幅提升圣属性减伤率(20%)']
+  link: https://eldenring.wiki.fextralife.com/Mohgwyn+Palace
 - title: 安瑟尔河
   table: ['名称', '位置', '效果']
   items:
   - id: '16_1'
     icon: /img/icons/talismans/18180.png
     data: ['<b>免疫角饰品</b>', '在<b>[安瑟尔河]</b>蚁巢的尸体上', '能提升免疫力(90点)']
+  link: https://eldenring.wiki.fextralife.com/Ainsel+River
 - title: “永恒之城”诺克史黛拉
   table: ['名称', '位置', '效果']
   items:
   - id: '17_1'
     icon: /img/icons/talismans/18150.png
     data: ['<b>诺克史黛拉之月</b>', '在<b>[“永恒之城”诺克史黛拉]</b>一个巨大王座下的一个宝箱中', '能增加记忆空格(2格)']
+  link: https://eldenring.wiki.fextralife.com/Nokstella,+Eternal+City
 - title: 腐败湖
   table: ['名称', '位置', '效果']
   items:
   - id: '18_1'
     icon: /img/icons/talismans/18181.png
     data: ['<b>免疫角饰品＋１</b>', '<b>赐福[腐败湖畔]</b>击败东南的祖灵之民的奖励', '能大幅提升免疫力(140)']
+  link: https://eldenring.wiki.fextralife.com/Lake+of+Rot
 - title: 深根底层
   table: ['名称', '位置', '效果']
   items:
   - id: '19_1'
     icon: /img/icons/talismans/18201.png
     data: ['<b>死王子的恶性脓疮</b>', '在<b>赐福[深根底层]</b>东北的一个瀑布后面的洞穴里一只巨大<b>[卢恩熊]</b>掉落', '能大幅提升抗死度(140)']
+  link: https://eldenring.wiki.fextralife.com/Deeproot+Depths
 - title: "幽影之地"
   table: ['名称', '位置', '效果']
   items:
@@ -549,3 +569,4 @@ sections:
   - id: '50_39'
     icon: '/img/icons/talismans/18939.png'
     data: ['<b>熔炉全护符</b>', '从<b>赐福[古遗迹（大楼梯）]</b>出发，向西南走到电梯。在电梯底部向西南看，有2条漂浮平台的路径，走左边的，沿着它绕一圈，它就会绕到放有这个护符的箱子那里。', '具备所有熔炉护符的效果，但增加收到的损伤(45%)']
+  link: https://eldenring.wiki.fextralife.com/Land+of+Shadow

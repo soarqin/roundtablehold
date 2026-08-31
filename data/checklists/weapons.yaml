@@ -113,7 +113,7 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Rotten+Crystal+Sword"><b>腐败结晶剑</b></a>', '<a href="https://eldenring.wiki.fextralife.com/Elphael+Brace+of+the+Haligtree"><b>[“圣树分枝”艾布雷菲尔]</b></a>:从<a href="https://eldenring.wiki.fextralife.com/Interactive+map?id=3360&lat=-35.703125&lng=146.370029&zoom=8&code=mapA"><b>[艾布雷菲尔城墙内部]</b></a>往南走下楼梯，爬过左边的树根。一个由三个<a href="https://eldenring.wiki.fextralife.com/Crystalians"><b>[结晶人]</b></a>看守的宝箱里。', '失色']
   - id: '13_13'
     icon: /img/icons/weapons/straightswords/10059.png
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Miquellan+Knight''s+Sword"><b>米凯拉骑士剑</b></a>', '<a href="https://eldenring.wiki.fextralife.com/Elphael+Brace+of+the+Haligtree"><b>[“圣树分枝”艾布雷菲尔]</b></a>字体在钟楼的顶端<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4826&lat=-38.039063&lng=149.954243&zoom=8&code=mapA">[地图链接]</a>：从<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4456&lat=-39.76&lng=148.97&zoom=8&code=mapA"><b>[祈祷室]</b></a>沿路向北走，直到你到达一个石盆，右边有一条小路。在小路的尽头向下走到钟楼的边缘，然后小心翼翼地绕到钟楼的东侧，在那里你会发现一个梯子。在梯子的顶端是剑', '失色']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Miquellan+Knight''s+Sword"><b>米凯拉骑士剑</b></a>', '<a href="https://eldenring.wiki.fextralife.com/Elphael+Brace+of+the+Haligtree"><b>[“圣树分枝”艾布雷菲尔]</b></a>：位于钟楼的顶端。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4826&lat=-38.039063&lng=149.954243&zoom=8&code=mapA">[地图链接]</a>：从<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=4456&lat=-39.76&lng=148.97&zoom=8&code=mapA"><b>[祈祷室]</b></a>沿路向北走，直到你到达一个石盆，右边有一条小路。在小路的尽头向下走到钟楼的边缘，然后小心翼翼地绕到钟楼的东侧，在那里你会发现一个梯子。在梯子的顶端是剑', '失色']
   - id: '13_14'
     icon: /img/icons/weapons/straightswords/10046.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ornamental+Straight+Sword"><b>仪式直剑</b></a>', '在<a href="https://eldenring.wiki.fextralife.com/Chapel+of+Anticipation"><b>[候王礼拜堂]</b></a>的<a href="https://eldenring.wiki.fextralife.com/Grafted+Scion"><b>[“接肢”贵族后裔]</b></a>掉落。玩家可以在教程结束后通过<a href="https://eldenring.wiki.fextralife.com/The+Four+Belfries"><b>[四钟楼]</b></a>的传送门(有“候王断崖”的留言)回到这个区域。(需要一个<a href="https://eldenring.wiki.fextralife.com/Imbued+Sword+Key"><b>[魔石剑钥匙]</b></a>)<a href="https://eldenring.wiki.fextralife.com/Interactive+map?id=1356&lat=-127.709375&lng=48.335292&zoom=8&code=mapA">[地图链接]</a>。', '失色']
@@ -536,7 +536,7 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Battle+Axe"><b>战斧</b></a>', '<a href="https://eldenring.wiki.fextralife.com/Hero">勇者</a>职业初始自带。<a href="https://eldenring.wiki.fextralife.com/Roundtable+Hold"><b>[圆桌厅堂]</b></a>的<a href="https://eldenring.wiki.fextralife.com/Twin+Maiden+Husks"><b>[孪生老妪]</b></a>出售。', '普通']
   - id: '50_37'
     icon: /img/icons/weapons/dlc/12234.png
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Messmer+Soldier''s+Axe"><b>[DLC] 梅瑟莫士兵斧</b></a>', '梅瑟莫士兵有2.00%的几率被掉落。', '普通']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Messmer+Soldier''s+Axe"><b>[DLC] 梅瑟莫士兵斧</b></a>', '使用这种武器的梅瑟莫士兵2%几率掉落。', '普通']
   - id: '1_13'
     icon: /img/icons/weapons/axes/10561.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Warped+Axe"><b>歪柄斧</b></a>', '<a href="https://eldenring.wiki.fextralife.com/Omen">恶兆兵</a>4%几率掉落。你可以在<b>[史东薇尔城]</b>戒备森严的院子里找到一个。最近的赐福是<b>赐福[升降机旁房间]</b>。如果不想管周围的猎犬，可以装备<a href="https://eldenring.wiki.fextralife.com/Beast-Repellent+Torch"><b>[驱兽火把]</b></a>。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=964&lat=-176.898437&lng=85.777595&zoom=8">[地图链接]</a>', '普通']
@@ -1045,7 +1045,7 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Madding+Hand"><b>[DLC] 癫狂皮手套</b></a>', '<b>赐福[谷底森林]</b>的林地小径以南，由癫狂大手类敌人掉落', '失色']
   - id: '50_52'
     icon: /img/icons/weapons/dlc/12249.png
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Thiollier''s+Hidden+Needle"><b>[DLC] 休里耶的暗针</b></a>', '完成<b>[圣女托莉娜]</b>和<b>[休里耶]</b>的任务线并在击败最终Boss后回到<b>[深紫花园]</b>获取。', '失色']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Thiollier''s+Hidden+Needle"><b>[DLC] 休里耶的暗针</b></a>', '完成<b>[圣女托莉娜]</b>和<b>[休里耶]</b>的任务线，并在击败最终Boss后回到<b>[深紫花园]</b>拾取。', '失色']
   - id: '50_56'
     icon: /img/icons/weapons/dlc/12253.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Golem+Fist"><b>[DLC] 魔像拳头</b></a>', '从<b>[泰乌尔锻造遗迹]</b>中投掷石头的魔像掉落。', '普通']

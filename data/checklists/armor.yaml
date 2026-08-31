@@ -169,6 +169,7 @@ sections:
   - id: '44'
     icon: /img/icons/armor/14450.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Blackguard''s+Iron+Mask"><b>流氓铁面具</b></a>', '击杀<b>[流氓]</b>掉落<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8301&lat=-152.10&lng=68.19&zoom=8&code=mapA">[地图链接]</a><br>在<b>[流氓]</b>任务线的最后掉落。']
+  link: https://eldenring.wiki.fextralife.com/Blackguard's+Iron+Mask
 - title: 渗血套装 (无腿部)
   link: https://eldenring.wiki.fextralife.com/Bloodsoaked+Set
   table: ['名称', '位置']
@@ -204,6 +205,7 @@ sections:
   - id: '48'
     icon: /img/icons/armor/15440.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Black+Dumpling"><b>黑头罩</b></a>', '<b>[火山官邸]</b>和<b>[王城罗德尔]</b>戴这个头盔的初代白金之子掉落。<br>(需要打开连接<b>[艾格蕾教堂]</b>和<b>[火山官邸]</b>的捷径门)从<b>赐福[火山官邸]</b>走过桌子，走向官邸入口。穿过左手边第一个门(捷径); 然后沿着走廊一直走到一个没有灯光的大房间。有5个敌人可以掉落它，虽然掉落率很低(<1%)。']
+  link: https://eldenring.wiki.fextralife.com/Black+Dumpling
 - title: 蘑菇套装
   link: https://eldenring.wiki.fextralife.com/Mushroom+Set
   table: ['名称', '位置']
@@ -229,12 +231,14 @@ sections:
   - id: '941'
     icon: /img/icons/armor/15653.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/St.+Trina''s+Blossom"><b>[DLC] 托莉娜孤花</b></a>', '<b>[深紫花园]</b>：完成<b>[休里耶]</b>和<b>[圣女托莉娜]</b>的任务线后，返回<b>[深紫花园]</b>的洞穴从她倒下的尸体上捡起此物品。']
+  link: https://eldenring.wiki.fextralife.com/St.+Trina's+Blossom
 - title: '[DLC] 光芒头冠'
   table: ['名称', '位置']
   items:
   - id: '935'
     icon: /img/icons/armor/15647.png
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Circlet+of+Light"><b>[DLC] 光芒头冠</b></a>', '首先击败<b>[“米凯拉的王”拉塔恩]</b>。战斗结束后，在Boss区域中心触摸金色球体选择“触摸记忆”触发过场动画。您将在过场动画播放完后获得此物品。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Circlet+of+Light"><b>[DLC] 光芒头冠</b></a>', '首先击败<b>[“米凯拉的锋刃”拉塔恩]</b>。战斗结束后，在Boss区域中心触摸金色球体并选择“触摸追忆”触发过场动画，过场动画播放完后即可获得此物品。']
+  link: https://eldenring.wiki.fextralife.com/Circlet+of+Light
 - title: 观星者套装
   link: https://eldenring.wiki.fextralife.com/Astrologer+Set
   table: ['名称', '位置']
@@ -388,6 +392,7 @@ sections:
   - id: '97'
     icon: /img/icons/armor/14510.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Mask+of+Confidence"><b>隐匿面具</b></a>', '在<b>[卡利亚书斋]</b>使用<b>[卡利亚颠倒像]</b>解锁进入颠倒的秘密区域，在墙上的尸体拾取。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2118&lat=-142.73437&lng=82.11316&zoom=8&code=mapA">[地图链接]</a>']
+  link: https://eldenring.wiki.fextralife.com/Mask+of+Confidence
 - title: 亚兹勒辉石套装 (无腿部)
   link: https://eldenring.wiki.fextralife.com/Azur's+Glintstone+Set
   table: ['名称', '位置']
@@ -481,6 +486,7 @@ sections:
   - id: '116'
     icon: /img/icons/armor/15331.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Deathbed+Dress"><b>死眠连身裙</b></a>', '在<b>[王城罗德尔]</b><b>赐福[王城底层教堂]</b>所在建筑的床上发现。']
+  link: https://eldenring.wiki.fextralife.com/Deathbed+Dress
 - title: 预言家套装 (无腕部)
   link: https://eldenring.wiki.fextralife.com/Prophet+Set
   table: ['名称', '位置']
@@ -500,6 +506,7 @@ sections:
   - id: '121'
     icon: /img/icons/armor/13921.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Corhyn''s+Robe"><b>柯林长袍</b></a>', '在<b>[金面具]</b>任务线的末尾，在<b>[“灰烬王城”罗德尔]</b>中和<b>[圣职人员柯林]</b>交谈并刷新，与<b>[连枷]</b>和<b>[柯林的铃珠]</b>一起在他的尸体上。如果你给过他<b>[遗忘秘药]</b>，他会留在<b>[观星废墟]</b>附近的桥上。完成<b>[逐渐崩毁的法姆·亚兹拉]</b>后返回该地区，并从他所在的地方获取这些物品。如果你在到达<b>[逐渐崩毁的法姆·亚兹拉]</b>之前没有完成任务线的<b>[回归性原理]</b>谜题，这些物品将会在他最后被看到的地方找到。这些物品也可以在他离开<b>[圆桌厅堂]</b>后直接杀死他获得。']
+  link: https://eldenring.wiki.fextralife.com/Corhyn's+Robe
 - title: 旅行女巫套装
   link: https://eldenring.wiki.fextralife.com/Traveling+Maiden+Set
   table: ['名称', '位置']
@@ -548,6 +555,7 @@ sections:
   - id: '134'
     icon: /img/icons/armor/15000.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Greathood"><b>大风帽</b></a>', '解开<b>[绘画《魔法师》]</b>谜题的奖励。从<b>[观星废墟]</b>西北方的桥一直向北走。在桥的中心东边有一块凸起的平台，一个画家灵魂坐在椅子上。互动后拾取<b>[大风帽]</b>。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8228&lat=-67.34688&lng=153.20421&zoom=8&code=mapA">[地图链接]</a>']
+  link: https://eldenring.wiki.fextralife.com/Greathood
 - title: 丹恩套装
   link: https://eldenring.wiki.fextralife.com/Dane's+Set
   table: ['名称', '位置']
@@ -637,6 +645,7 @@ sections:
   - id: '154'
     icon: /img/icons/armor/14621.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Upper-Class+Robe"><b>上流阶级长袍</b></a>', '可以在<b>[王城罗德尔]</b>找到，在通道的尽头，在那里你与一些流浪刀手战斗。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2872&lat=-103.61719&lng=119.32436&zoom=8&code=mapA">[地图链接]</a><br>可以在<b>[遁世商人的破屋]</b>的<b>[遁世商人]</b>处以2,400卢恩购买。']
+  link: https://eldenring.wiki.fextralife.com/Upper-Class+Robe
 - title: 领主套装 (无腕部和腿部)
   link: https://eldenring.wiki.fextralife.com/Ruler's+Set
   table: ['名称', '位置']
@@ -729,6 +738,7 @@ sections:
     icon: /img/icons/armor/13733.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Godskin+Noble+Trousers"><b>贵族长裤</b></a>', '']
 - title: 恶兆妖鬼斗篷 (仅胸部)
+  link: https://eldenring.wiki.fextralife.com/Fell+Omen+Cloak
   table: ['名称', '位置']
   items:
   - id: '176'
@@ -772,6 +782,7 @@ sections:
   - id: '180'
     icon: /img/icons/armor/13681.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Lord+of+Blood''s+Robe"><b>鲜血君王上衣</b></a>', '击败<b>[“鲜血君王”蒙格]</b>后，可以从<b>[“解指”恩雅]</b>处以20,000卢恩购买。']
+  link: https://eldenring.wiki.fextralife.com/Lord+of+Blood's+Robe
 - title: 粪金龟套装
   table: ['名称', '位置']
   items:
@@ -786,10 +797,11 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash-of-War+Scarab"><b>战灰粪金龟</b></a>', '在<b>[史东薇尔城]</b>: <b>[宁姆格福神授塔（桥上）]</b>的导道门后面，它会把你带到断桥上的<b>[宁姆格福神授塔]</b>。不要在魔像之后进入传送门，而是在它后面下落来获取这个物品和<b>[柔软棉花]</b>。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=7558&lat=-175.46875&lng=97.558893&zoom=8&code=mapA">[地图链接]</a>']
   - id: '185'
     icon: /img/icons/armor/15300.png
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Glintstone+Scarab"><b>辉石粪金龟</b></a>', '<b>[魔法学院雷亚卢卡利亚]</b>: 最近的赐福点是<b>[雷亚卢卡利亚大书库]</b>。从你遇到敌对NPC卡利亚其实的花园位置，穿过大门向南进入小阳台区域，那里有辉石魔法师和流浪贵族，沿着东部的墙，越过阳台栏杆跳到露出地面的小窗台上。顺着小路进入附近的凹室，然后爬上梯子。箱子在梯子顶端的房间里，由3个辉石魔法师和一个较小的<b>[发狂南瓜头士兵]</b>守卫。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2302&lat=-134.851562&lng=58.318709&zoom=8&code=mapA">[地图链接]</a>']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Glintstone+Scarab"><b>辉石粪金龟</b></a>', '<b>[魔法学院雷亚卢卡利亚]</b>: 最近的赐福点是<b>[雷亚卢卡利亚大书库]</b>。从你遭遇敌对NPC“卡利亚骑士”穆格拉姆的花园位置，穿过大门向南进入小阳台区域，那里有辉石魔法师和流浪贵族，沿着东部的墙，越过阳台栏杆跳到露出地面的小窗台上。顺着小路进入附近的凹室，然后爬上梯子。箱子在梯子顶端的房间里，由3个辉石魔法师和一个较小的<b>[发狂南瓜头士兵]</b>守卫。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2302&lat=-134.851562&lng=58.318709&zoom=8&code=mapA">[地图链接]</a>']
   - id: '186'
     icon: /img/icons/armor/15290.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Incantation+Scarab"><b>祷告粪金龟</b></a>', '解开<b>[绘画《归巢》]</b>的谜题，在<b>[宁姆格福]</b><b>[画家的破屋]</b>取得画后去<b>[龙息废墟]</b>西南墓地和画家灵魂互动后拾取']
+  link: https://eldenring.wiki.fextralife.com/Scarab+Set
 - title: 小恶魔套装
   table: ['名称', '位置']
   items:
@@ -811,54 +823,63 @@ sections:
   - id: '192'
     icon: /img/icons/armor/14870.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Elder)"><b>小恶魔头罩（长老）</b></a>', '在<b>[化圣雪原地下墓地]</b>中: 二楼的一个房间里，有一只小归树看门犬看守着。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=2981&lat=-78.19&lng=149.38&zoom=8&code=mapA">[地图链接]</a>']
+  link: https://eldenring.wiki.fextralife.com/Imp+Head+(Fanged)
 - title: '[DLC] 小恶魔头罩（狮子）'
   table: ['名称', '位置']
   items:
   - id: '944'
     icon: /img/icons/armor/15658.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Imp+Head+(Lion)"><b>[DLC] 小恶魔头罩（狮子）</b></a>', '<b>[蝎河地下墓地]</b>：当您进入有两个天花板尖刺陷阱的区域时，在咒蛙的注视下穿过一座桥前往下一个电梯，在尽头停下跳上左侧的窄平台，并沿着向上走，跳上掉落的尖刺陷阱，抵达一个带有此物品的平台。']
+  link: https://eldenring.wiki.fextralife.com/Imp+Head+(Lion)
 - title: 诺克斯镜面盔 (仅头部)
   table: ['名称', '位置']
   items:
   - id: '193'
     icon: /img/icons/armor/14950.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Nox+Mirrorhelm"><b>诺克斯镜面盔</b></a>', '<b>[断崖下的地下墓地]</b>: 在密封的房间里，解除小恶魔像封印的雾门进入。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5653&lat=-161.984375&lng=85.356131&zoom=8&code=mapA">[地图链接]</a>']
+  link: https://eldenring.wiki.fextralife.com/Nox+Mirrorhelm
 - title: 伊吉镜面盔 (仅头部)
   table: ['名称', '位置']
   items:
   - id: '194'
     icon: /img/icons/armor/14960.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Iji''s+Mirrorhelm"><b>伊吉镜面盔</b></a>', '当玩家在<b>[魔女菈妮]</b>的任务线中遇到<b>[“半狼”布莱泽]</b>后，<b>[军师伊吉]</b>有新对话，逐步推进任务线到结束时再与他交谈后刷新，他的尸体会出现在铁砧旁，在他的铁砧上找到头盔。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5794&lat=-108.6875&lng=51.929589&zoom=8&code=mapA">[地图链接]</a>']
+  link: https://eldenring.wiki.fextralife.com/Iji's+Mirrorhelm
 - title: 银色泪滴面具 (仅头部)
   table: ['名称', '位置']
   items:
   - id: '195'
     icon: /img/icons/armor/14880.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Silver+Tear+Mask"><b>银色泪滴面具</b></a>', '<b>[“永恒之城”诺克隆恩]</b>的Boss<b>[仿身泪滴]</b>掉落。<a href="https://eldenring.wiki.fextralife.com/Interactive+map?id=1761&lat=-188.5&lng=128.61356&zoom=8&code=mapB">[地图链接]</a>']
+  link: https://eldenring.wiki.fextralife.com/Silver+Tear+Mask
 - title: 众使者大头冠 (仅头部)
   table: ['名称', '位置']
   items:
   - id: '196'
     icon: /img/icons/armor/14300.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Envoy+Crown"><b>众使者大头冠</b></a>', '<b>赐福[米凯拉的圣树]</b>东南方向。(在巨人蚂蚁巡逻的树枝顶端，在一具神谕众使者身后的尸体上。)<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=6067&lat=-50.014063&lng=148.463578&zoom=8&code=mapA">[地图链接]</a>']
+  link: https://eldenring.wiki.fextralife.com/Envoy+Crown
 - title: 章鱼头罩 (仅头部)
   table: ['名称', '位置']
   items:
   - id: '197'
     icon: /img/icons/armor/14920.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Octopus+Head"><b>章鱼头罩</b></a>', '可以通过杀死陆地章鱼获得(不要与巨型陆地章鱼混淆)。在<b>赐福[圣人桥]</b>南边靠近<b>[“战士壶”亚历山大]</b>第一次相遇地点的小湖泊可以发现许多陆地章鱼。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=834&lat=-175.387501&lng=107.888276&zoom=8&code=mapA">[地图链接]</a>。<br>在<b>[湖之利耶尼亚]</b>的<b>赐福[教堂区]</b>的西南部可以发现一些陆地章鱼。<br>在<b>赐福[希芙拉河（岸边）]</b>的北面，地图上的大柱子附近，有几只巨大的陆地章鱼，以及许多较小的陆地章鱼。']
+  link: https://eldenring.wiki.fextralife.com/Octopus+Head
 - title: 壶头罩 (仅头部)
   table: ['名称', '位置']
   items:
   - id: '198'
     icon: /img/icons/armor/14930.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Jar"><b>壶头罩</b></a>', '<b>[“战士壶”亚历山大]</b>给予。他的任务线进行到在<b>[格密尔火山]</b><b>[沸滚河终点]</b>附近的岩浆中找到他。完成对话获得。<a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=8305&lat=-90.91&lng=58.31&zoom=8&code=mapA">[地图链接]</a>']
+  link: https://eldenring.wiki.fextralife.com/Jar
 - title: '[DLC] 大壶头罩'
   table: ['名称', '位置']
   items:
   - id: '943'
     icon: /img/icons/armor/15657.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Greatjar"><b>[DLC] 大壶头罩</b></a>', '<b>[贝瑞特监牢]</b>：离开大壶迷宫后，你将经过一座小桥，在一个相当大的平台上与3个敌人战斗。向右转，在下面找到另一个壶，跳上去上到高处。抵达后跳到另一个平台上。']
+  link: https://eldenring.wiki.fextralife.com/Greatjar
 - title: 白金之子套装 (无腕部和腿部)
   link: https://eldenring.wiki.fextralife.com/Albinauric+Set
   table: ['名称', '位置']
@@ -1135,7 +1156,7 @@ sections:
     icon: /img/icons/armor/15213.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Foot+Soldier+Greaves"><b>小兵腿甲</b></a>', '']
 - title: 圣冠套装
-  link: https://eldenring.wiki.fextralife.com/  +Foot+Soldier+Set
+  link: https://eldenring.wiki.fextralife.com/Haligtree+Foot+Soldier+Set
   table: ['名称', '位置']
   items:
   - id: '249'
@@ -1859,6 +1880,7 @@ sections:
   - id: '395'
     icon: /img/icons/armor/14900.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Greathelm"><b>巨盔</b></a>', '可以从<b>[盖利德]</b>南部的<b>[流浪民族的商人]</b>以1,800卢恩购买。']
+  link: https://eldenring.wiki.fextralife.com/Greathelm
 - title: 卡利亚骑士套装
   link: https://eldenring.wiki.fextralife.com/Carian+Knight+Set
   table: ['名称', '位置']
@@ -2057,18 +2079,21 @@ sections:
   - id: '886'
     icon: /img/icons/armor/15599.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Winged+Serpent+Helm"><b>[DLC] 带翼蛇头盔</b></a>', '<b>[幽影城]</b>第六层：使用拉杆移动雕像后，爬上雕像。走出去右转，上楼梯，左转到通往<b>[“穿刺者”梅瑟莫]</b>Boss战的桥，击杀前面的火焰骑士。']
+  link: https://eldenring.wiki.fextralife.com/Winged+Serpent+Helm
 - title: '[DLC] 死亡面具头盔'
   table: ['名称', '位置']
   items:
   - id: '885'
     icon: /img/icons/armor/15598.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Death+Mask+Helm"><b>[DLC] 死亡面具头盔</b></a>', '<b>[幽影城]</b>的教堂区排水后的精英火焰骑士掉落。']
+  link: https://eldenring.wiki.fextralife.com/Death+Mask+Helm
 - title: '[DLC] 萨赞风帽'
   table: ['名称', '位置']
   items:
   - id: '887'
     icon: /img/icons/armor/15600.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Salza''s+Hood"><b>[DLC] 萨赞风帽</b></a>', '从<b>赐福[西边城墙]</b>过桥，在最后击败火焰骑士。']
+  link: https://eldenring.wiki.fextralife.com/Salza's+Hood
 - title: 死骑士套装
   link: https://eldenring.wiki.fextralife.com/Death+Knight+Set
   table: ['名称', '位置']
@@ -2149,6 +2174,7 @@ sections:
   - id: '810'
     icon: /img/icons/armor/15510.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Leda''s+Armor"><b>[DLC] 蕾妲铠甲</b></a>', '<b>[“金针骑士”蕾妲]</b>任务线最后击败她后获得。']
+  link: https://eldenring.wiki.fextralife.com/Leda's+Armor
 - title: 战鬼套装
   link: https://eldenring.wiki.fextralife.com/Raging+Wolf+Set
   table: ['名称', '位置']
@@ -2538,6 +2564,7 @@ sections:
   - id: '942'
     icon: /img/icons/armor/15654.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Crucible+Hammer-Helm"><b>[DLC] 熔炉槌形盔</b></a>', '<b>赐福[劳弗古遗迹（东方）]</b>附近的熔炉骑士掉落。']
+  link: https://eldenring.wiki.fextralife.com/Crucible+Hammer-Helm
 - title: 盖乌斯套装
   link: https://eldenring.wiki.fextralife.com/Gaius's+Set
   table: ['名称', '位置']
@@ -2576,7 +2603,7 @@ sections:
   items:
   - id: '930'
     icon: /img/icons/armor/15642.png
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Young+Lion''s+Helm"><b>[DLC] 年少狮子头盔</b></a>', '在<b>[“解指”恩雅]</b>击败<b>[“米凯拉的王”拉塔恩]</b>后，从<b>[圆桌厅堂]</b>的<b>[“解指”恩雅]</b>处购买。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Young+Lion''s+Helm"><b>[DLC] 年少狮子头盔</b></a>', '击败<b>[“米凯拉的锋刃”拉塔恩]</b>后，从<b>[圆桌厅堂]</b>的<b>[“解指”恩雅]</b>处购买。']
   - id: '931'
     icon: /img/icons/armor/15643.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Young+Lion''s+Armor"><b>[DLC] 年少狮子铠甲</b></a>', '']
@@ -2678,9 +2705,11 @@ sections:
   - id: '570'
     icon: /img/icons/armor/13620.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Pumpkin+Helm"><b>南瓜头盔</b></a>', '普通疯狂南瓜头士兵掉落。在以下地点可以找到:<br><b>[宁姆格福]</b><b>[圣人桥]</b> <a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=5552&lat=-175.328125&lng=109.293437&zoom=8&code=mapA">[地图链接]</a><br><b>[海德要塞]</b><a href="https://eldenring.wiki.fextralife.com/interactive+map?id=770&lat=-194.304687&lng=125.418491&zoom=8&code=mapA">[地图链接]</a><br><b>[摩恩城]</b><a href="https://eldenring.wiki.fextralife.com/Interactive+Map?id=478&lat=-227.195312&lng=108.309046&zoom=8">[地图链接]</a><br><b>[魔法学院雷亚卢卡利亚]</b><br><b>[红狮子城]</b><br><b>[亚坛高原]</b>：在<b>[罪人桥]</b>附近俯瞰东北悬崖的墓碑旁。<br><b>[格密尔火山]</b>: 位于<b>[格密尔火山（第１休息站）]</b>以东和<b>[飘尸臭的破屋]</b>以南。']
+  link: https://eldenring.wiki.fextralife.com/Pumpkin+Helm
 - title: '[DLC] 神兽头部'
   table: ['名称', '位置']
   items:
   - id: '940'
     icon: /img/icons/armor/15652.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Divine+Beast+Head"><b>[DLC] 神兽头部</b></a>', '击败<b>[“塔之镇”贝瑞特]</b>的<b>[神兽舞狮]</b>后掉落。']
+  link: https://eldenring.wiki.fextralife.com/Divine+Beast+Head

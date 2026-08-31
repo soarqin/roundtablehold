@@ -13,6 +13,7 @@ sections:
     - 8454
     map_icon: /map/icons/MENU_MAP_48.png
     map_icon_size: 60
+  link: https://eldenring.wiki.fextralife.com/Roundtable+Hold
 - title: 宁姆格福
   items:
   - id: '0'
@@ -141,6 +142,7 @@ sections:
     cords:
     - 3846
     - 7073
+  link: https://eldenring.wiki.fextralife.com/Limgrave
 - title: 漂流墓地
   items:
   - id: '21'
@@ -155,6 +157,7 @@ sections:
     cords:
     - 3771
     - 7356
+  link: https://eldenring.wiki.fextralife.com/Stranded+Graveyard
 - title: 风暴山丘
   items:
   - id: '23'
@@ -205,6 +208,7 @@ sections:
     cords:
     - 4263
     - 6205
+  link: https://eldenring.wiki.fextralife.com/Stormhill
 - title: 啜泣半岛
   items:
   - id: '31'
@@ -315,6 +319,7 @@ sections:
     cords:
     - 4004
     - 8133
+  link: https://eldenring.wiki.fextralife.com/Weeping+Peninsula
 - title: 史东薇尔城
   items:
   - id: '49'
@@ -359,6 +364,7 @@ sections:
     cords:
     - 3099
     - 6464
+  link: https://eldenring.wiki.fextralife.com/Stormveil+Castle
 - title: 湖之利耶尼亚
   items:
   - id: '56'
@@ -673,6 +679,7 @@ sections:
     cords:
     - 3373
     - 5130
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 彼鲁姆大道
   items:
   - id: '108'
@@ -705,6 +712,7 @@ sections:
     cords:
     - 2507
     - 3999
+  link: https://eldenring.wiki.fextralife.com/Bellum+Church
 - title: 古遗迹断崖
   items:
   - id: '113'
@@ -725,6 +733,7 @@ sections:
     cords:
     - 2358
     - 3594
+  link: https://eldenring.wiki.fextralife.com/Ruin-Strewn+Precipice
 - title: 月光祭坛
   items:
   - id: '116'
@@ -745,6 +754,7 @@ sections:
     cords:
     - 1437
     - 6222
+  link: https://eldenring.wiki.fextralife.com/Moonlight+Altar
 - title: 魔法学院雷亚卢卡利亚
   items:
   - id: '119'
@@ -771,6 +781,7 @@ sections:
     cords:
     - 1840
     - 4819
+  link: https://eldenring.wiki.fextralife.com/Raya+Lucaria+Academy
 - title: 亚坛高原
   items:
   - id: '123'
@@ -887,6 +898,7 @@ sections:
     cords:
     - 3403
     - 3156
+  link: https://eldenring.wiki.fextralife.com/Altus+Plateau
 - title: 格密尔火山
   items:
   - id: '142'
@@ -961,6 +973,7 @@ sections:
     cords:
     - 2364
     - 2492
+  link: https://eldenring.wiki.fextralife.com/Mt+Gelmir
 - title: 王城外围
   items:
   - id: '154'
@@ -1023,6 +1036,7 @@ sections:
     cords:
     - 3921
     - 4062
+  link: https://eldenring.wiki.fextralife.com/Capital+Outskirts
 - title: 火山官邸
   items:
   - id: '164'
@@ -1073,6 +1087,7 @@ sections:
     cords:
     - 2282
     - 2949
+  link: https://eldenring.wiki.fextralife.com/Volcano+Manor
 - title: 王城罗德尔
   items:
   - id: '172'
@@ -1129,6 +1144,7 @@ sections:
     cords:
     - 4534
     - 3737
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital
 - title: 弃置恶兆的地底
   items:
   - id: '181'
@@ -1161,6 +1177,7 @@ sections:
     cords:
     - 4570
     - 3402
+  link: https://eldenring.wiki.fextralife.com/Subterranean+Shunning-Grounds
 - title: 灰城罗德尔
   items:
   - id: '186'
@@ -1199,6 +1216,7 @@ sections:
     cords:
     - 4534
     - 3737
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Ashen+Capital
 - title: 石舞台
   items:
   - id: '192'
@@ -1207,6 +1225,7 @@ sections:
     cords:
     - 4677
     - 3928
+  link: https://eldenring.wiki.fextralife.com/Siofra+River
 - title: 盖利德
   items:
   - id: '193'
@@ -1359,6 +1378,7 @@ sections:
     cords:
     - 5520
     - 6416
+  link: https://eldenring.wiki.fextralife.com/Caelid
 - title: 艾奥尼亚沼泽
   items:
   - id: '218'
@@ -1385,6 +1405,7 @@ sections:
     cords:
     - 5443
     - 6666
+  link: https://eldenring.wiki.fextralife.com/Aeonia+Swamp
 - title: 桂奥尔龙墓
   items:
   - id: '222'
@@ -1459,6 +1480,7 @@ sections:
     cords:
     - 5999
     - 4845
+  link: https://eldenring.wiki.fextralife.com/Gurranq,+Beast+Clergyman
 - title: 禁域
   items:
   - id: '234'
@@ -1491,6 +1513,7 @@ sections:
     cords:
     - 5121
     - 3866
+  link: https://eldenring.wiki.fextralife.com/Forbidden+Lands
 - title: 巨人山顶
   items:
   - id: '239'
@@ -1553,6 +1576,7 @@ sections:
     cords:
     - 6500
     - 2067
+  link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
 - title: 火焰之巅
   items:
   - id: '249'
@@ -1597,6 +1621,7 @@ sections:
     cords:
     - 5646
     - 2823
+  link: https://eldenring.wiki.fextralife.com/Forge+of+the+Giants
 - title: 化圣雪原
   items:
   - id: '256'
@@ -1641,6 +1666,7 @@ sections:
     cords:
     - 5041
     - 2497
+  link: https://eldenring.wiki.fextralife.com/Consecrated+Snowfield
 - title: 米凯拉的圣树
   items:
   - id: '263'
@@ -1667,6 +1693,7 @@ sections:
     cords:
     - 5786
     - 1071
+  link: https://eldenring.wiki.fextralife.com/Miquella's+Haligtree
 - title: “圣树分枝”艾布雷菲尔
   items:
   - id: '267'
@@ -1699,6 +1726,7 @@ sections:
     cords:
     - 5590
     - 889
+  link: https://eldenring.wiki.fextralife.com/Elphael,+Brace+of+the+Haligtree
 - title: 安瑟尔河
   items:
   - id: '272'
@@ -1731,6 +1759,7 @@ sections:
     cords:
     - 2796
     - 13677
+  link: https://eldenring.wiki.fextralife.com/Ainsel+River
 - title: 安瑟尔河主流
   items:
   - id: '277'
@@ -1751,6 +1780,7 @@ sections:
     cords:
     - 3335
     - 11970
+  link: https://eldenring.wiki.fextralife.com/Ainsel+River+Main
 - title: 腐败湖
   items:
   - id: '280'
@@ -1765,6 +1795,7 @@ sections:
     cords:
     - 3160
     - 12643
+  link: https://eldenring.wiki.fextralife.com/Lake+of+Rot
 - title: “永恒之城”诺克隆恩
   items:
   - id: '282'
@@ -1803,6 +1834,7 @@ sections:
     cords:
     - 6224
     - 13874
+  link: https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City
 - title: 希芙拉河
   items:
   - id: '288'
@@ -1829,6 +1861,7 @@ sections:
     cords:
     - 6559
     - 13915
+  link: https://eldenring.wiki.fextralife.com/Siofra+River
 - title: 蒙格温王朝
   items:
   - id: '292'
@@ -1855,6 +1888,7 @@ sections:
     cords:
     - 6752
     - 14376
+  link: https://eldenring.wiki.fextralife.com/Mohgwyn+Palace
 - title: 深根底层
   items:
   - id: '296'
@@ -1893,6 +1927,7 @@ sections:
     cords:
     - 5685
     - 10708
+  link: https://eldenring.wiki.fextralife.com/Deeproot+Depths
 - title: 逐渐崩毁的法姆·亚兹拉
   items:
   - id: '302'
@@ -1961,3 +1996,4 @@ sections:
     cords:
     - 8715
     - 4463
+  link: https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula

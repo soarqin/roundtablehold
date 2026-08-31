@@ -51,6 +51,7 @@ sections:
   - id: '12_1'
     icon: /img/icons/incantations/06312.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Assassin''s+Approach"><b>刺客步法</b></a>', '<b>消除脚步声，并降低落下损伤与落地声响</b>', '密使职业的初始自带。给<b>[圣职人员柯林]</b>或<b>[“结缘牧师”米利耶]</b><b>[刺客祷告书]</b>后购买。']
+  link: https://eldenring.wiki.fextralife.com/Two+Fingers+Incantations
 - title: 黄金树祷告
   table: ['名称', '效果', '取得方法']
   items:
@@ -111,6 +112,7 @@ sections:
   - id: '5_5'
     icon: /img/icons/incantations/06712.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Black+Blade"><b>黑剑</b></a>', '<b>形成黑剑，旋转的同时攻击敌人，再释放光波</b>', '在<b>[圆桌厅堂]</b><b>[“解指”恩雅]</b>处用<b>[黑剑的追忆]</b>交换。']
+  link: https://eldenring.wiki.fextralife.com/Erdtree+Incantations
 - title: 黄金律法祷告
   id: 10
   table: ['名称', '效果', '取得方法']
@@ -145,12 +147,14 @@ sections:
   - id: '10_4'
     icon: /img/icons/incantations/06064.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Law+of+Regression"><b>回归性原理</b></a>', '<b>治愈所有异常状态，并消除特殊效果</b>', '<b>[黄金律法原本]</b>']
+  link: https://eldenring.wiki.fextralife.com/Golden+Order+Incantations
 - title: 米凯拉祷告
   table: ['名称', '效果', '取得方法']
   items:
   - id: "20_8"
     icon: "/img/icons/incantations/06857.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Light+of+Miquella"><b>米凯拉的光</b></a>', '<b>用光柱消灭目标</b>', '在<b>[圆桌厅堂]</b>与<b>[“解指”恩雅]</b>交易<b>[神祇与王的追忆]</b>。']
+  link: https://eldenring.wiki.fextralife.com/Miquella%27s+Incantations
 - title: 龙信仰祷告
   table: ['名称', '效果', '取得方法']
   items:
@@ -199,6 +203,7 @@ sections:
   - id: "20_12"
     icon: "/img/icons/incantations/06861.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Dragonbolt+of+Florissax"><b>芙柔桑克斯的龙雷</b></a>', '<b>召唤红色雷电，缠绕执行者与周围我方人物</b>', '将<b>[休里耶的秘药]</b>交给<b>[龙飨巫女]</b>并推进她的任务线后获得。']
+  link: https://eldenring.wiki.fextralife.com/Dragon+Communion+Incantations
 - title: 螺旋祷告
   table: ['名称', '效果', '取得方法']
   items:
@@ -220,6 +225,7 @@ sections:
   - id: "20_24"
     icon: "/img/icons/incantations/06873.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Divine+Beast+Tornado"><b>神兽龙卷风</b></a>', '<b>唤起风暴，朝前方释放龙卷风</b>', '<b>[劳弗古遗迹]</b>：<b>赐福[神殿镇废墟]</b>东北部的神兽舞狮身上掉落。']
+  link: https://eldenring.wiki.fextralife.com/Spiral+Incantations
 - title: 火焰主教和火焰巨人祷告
   id: 7
   table: ['名称', '效果', '取得方法']
@@ -263,6 +269,7 @@ sections:
   - id: '7_8'
     icon: /img/icons/incantations/06060.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Fire''s+Deadly+Sin"><b>火焰重罪</b></a>', '<b>引发剧烈自燃，连同周围一起燃烧</b>', '火焰主教祷告，从<b>[王城罗德尔]</b>获得<b>[绘画《不飞之鸟》]</b>然后前往<b>[风车村]</b>以南<b>[风车村高台]</b>东南远眺点。']
+  link: https://eldenring.wiki.fextralife.com/Fire+Giant+Incantations
 - title: 梅瑟莫火焰祷告
   table: ['名称', '效果', '取得方法']
   items:
@@ -275,6 +282,7 @@ sections:
   - id: "20_28"
     icon: "/img/icons/incantations/06877.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Messmer''s+Orb"><b>梅瑟莫的火球</b></a>', '<b>将梅瑟莫之火聚集成巨大火球，朝目标快速飞去</b>', '在<b>[圆桌厅堂]</b>与<b>[“解指”恩雅]</b>交易<b>[穿刺者的追忆]</b>时，可选择的奖励之一。']
+  link: https://eldenring.wiki.fextralife.com/Messmer%27s+Flame+Incantations
 - title: 神皮使徒祷告
   id: 9
   table: ['名称', '效果', '取得方法']
@@ -297,6 +305,7 @@ sections:
   - id: '9_5'
     icon: /img/icons/incantations/06055.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Noble+Presence"><b>贵族气场</b></a>', '<b>大幅度突出腹部，形成弹飞周围人物的冲击波</b>', '在<b>[火山官邸]</b>击败<b>[神皮贵族]</b>获得。']
+  link: https://eldenring.wiki.fextralife.com/Godskin+Apostle+Incantations
 - title: 野兽祷告
   table: ['名称', '效果', '取得方法']
   items:
@@ -321,6 +330,7 @@ sections:
   - id: "20_10"
     icon: "/img/icons/incantations/06859.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Roar+of+Rugalea"><b>鲁格利亚的咆哮</b></a>', '<b>将自身化为大红熊，发出轰然咆哮</b>', '由<b>[大红熊鲁格利亚]</b>掉落，位于<b>赐福[峡谷北方]</b>的西北部，在<b>[劳弗下方]</b>有许多卢恩熊的树林中。']
+  link: https://eldenring.wiki.fextralife.com/Bestial+Incantations
 - title: 鲜血祷告
   table: ['名称', '效果', '取得方法']
   items:
@@ -339,6 +349,7 @@ sections:
   - id: '2_2'
     icon: /img/icons/incantations/06307.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Bloodflame+Blade"><b>血焰刀刃</b></a>', '<b>在右手武器缠绕血焰</b>', '<b>[湖之利耶尼亚]</b>: 湖的西南，<b>[蔷薇教堂]</b>西北的沼泽，击杀泪滴粪金龟']
+  link: https://eldenring.wiki.fextralife.com/Blood+Incantations
 - title: 腐败眷属祷告
   id: 11
   table: ['名称', '效果', '取得方法']
@@ -361,6 +372,7 @@ sections:
   - id: "20_17"
     icon: "/img/icons/incantations/06866.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Rotten+Butterflies"><b>腐败蝶</b></a>', '<b>唤来无数蝴蝶，散布腐败</b>', '在<b>[圆桌厅堂]</b>与<b>[“解指”恩雅]</b>交易<b>[花蕾圣女的追忆]</b>。']
+  link: https://eldenring.wiki.fextralife.com/Kindred+of+Rot+Incantations
 - title: 癫火祷告
   id: 8
   table: ['名称', '效果', '取得方法']
@@ -383,6 +395,7 @@ sections:
   - id: '8_3'
     icon: /img/icons/incantations/06094.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Inescapable+Frenzy"><b>发狂扩散</b></a>', '<b>抓住目标，传染异常状态发狂</b>', '通过<b>[弃置恶兆的地底]</b>并击败<b>[“恶兆之子”蒙格]</b>之后，攻击Boss房间前面的祭坛进入隐藏区域(需要击败<b>[“恶兆王”蒙葛特]</b>才能继续前进)。往下跳靠近底部，你会看到一具尸体，上面有<b>[发狂扩散]</b>。']
+  link: https://eldenring.wiki.fextralife.com/Frenzied+Flame+Incantations
 - title: 龙祭坛祷告
   table: ['名称', '效果', '取得方法']
   items:
@@ -437,3 +450,4 @@ sections:
   - id: "20_16"
     icon: "/img/icons/incantations/06865.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ghostflame+Breath"><b>灵火吐息</b></a>', '<b>从空中喷出灵火吐息</b>', '用3个龙心脏在龙飨大祭坛交换。']
+  link: https://eldenring.wiki.fextralife.com/Dragon+Cult+Incantations

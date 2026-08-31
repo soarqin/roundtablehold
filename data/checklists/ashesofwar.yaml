@@ -53,6 +53,7 @@ sections:
   - id: '5_12'
     icon: /img/icons/ashes_of_war/08443.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Troll''s+Roar"><b>山妖咆哮</b></a>', '<b>望向远方发出咆哮，<br>能弹飞周围人物，产生冲击波。<br>发动后接着使出重攻击，能激烈敲击。</b>', '在<b>[巨人山顶]</b>南部<b>赐福[安歇教堂]</b>以南的大岩石顶部。']
+  link: https://eldenring.wiki.fextralife.com/Heavy+Affinity
 - title: 锋利
   table: ['名称', '描述', '位置']
   items:
@@ -110,6 +111,7 @@ sections:
   - id: "20_6"
     icon: "/img/icons/ashes_of_war/08506.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Scattershot+Throw"><b>多重投掷</b></a>', '透过锻造术的力量，在双手复制出武器，<br>再同时、大量投掷出去的战技。<br>再次发动能再一次投掷。<br>能在投掷剑类武器使用。', '<b>[泰乌尔锻造遗迹]</b>南边的粪金龟掉落，它高高地悬挂在柱子上。']
+  link: https://eldenring.wiki.fextralife.com/Keen+Affinity
 - title: 优质
   table: ['名称', '描述', '位置']
   items:
@@ -152,6 +154,7 @@ sections:
   - id: '11_5'
     icon: /img/icons/ashes_of_war/08421.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Royal+Knight''s+Resolve"><b>侍王骑士的决心</b></a>', '<b>过去侍奉艾尔登之王的骑士们使用的战技。<br>将武器移向眼前、指向天空，坚定决心，<br>大幅提升下一记攻击的威力。</b>', '在<b>[火山官邸]</b>中小恶魔像后面的笼子房间底部发现。在到达<b>[火山官邸]</b> Boss的传送门后，你应该会发现附近的小恶魔像。']
+  link: https://eldenring.wiki.fextralife.com/Quality+Affinity
 - title: 魔力
   table: ['名称', '描述', '位置']
   items:
@@ -182,6 +185,7 @@ sections:
   - id: '8_10'
     icon: /img/icons/ashes_of_war/08407.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Waves+of+Darkness"><b>黑暗波动</b></a>', '<b>将武器刺入地面后，在自身周围<br>产生三道黑暗波动的战技。<br>发动后接着使出重攻击，能回旋横扫攻击。</b>', '在<b>[圆桌厅堂]</b>用<b>[黑暗弃子的追忆]</b>交换。']
+  link: https://eldenring.wiki.fextralife.com/Magic+Affinity
 - title: 火焰
   table: ['名称', '描述', '位置']
   items:
@@ -194,6 +198,7 @@ sections:
   - id: '3_1'
     icon: /img/icons/ashes_of_war/08336.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Eruption"><b>熔岩火浆</b></a>', '<b>侍奉火山官邸的骑士们使用的战技。<br>将武器敲向地面，形成滚烫熔岩，<br>在拔起武器的同时，熔岩随之喷出。</b>', '由<b>[骑士贝纳尔]</b>在<b>[火山官邸]</b>出售。']
+  link: https://eldenring.wiki.fextralife.com/Fire+Affinity
 - title: 焰术
   table: ['名称', '描述', '位置']
   items:
@@ -209,6 +214,7 @@ sections:
   - id: "20_19"
     icon: "/img/icons/ashes_of_war/08519.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Flame+Spear"><b>火焰枪</b></a>', '火焰骑士的首席，库德的战技。<br>将武器指向前方，摆出准备突刺的架式，<br>再朝前方释放火焰枪。<br>借由蓄力发动能提升威力、提升枪的飞翔距离。<br>能在可突刺的武器使用。（不含钩爪、反手剑类武器）', '<b>[幽影城]</b>：在六楼使用杠杆移动雕像后，爬上雕像。走到外面，右转，上楼梯，左转，在桥的尽头找到一个火焰骑士掉落。']
+  link: https://eldenring.wiki.fextralife.com/Flame+Art+Affinity
 - title: 雷电
   table: ['名称', '描述', '位置']
   items:
@@ -224,6 +230,7 @@ sections:
   - id: '7_1'
     icon: /img/icons/ashes_of_war/08403.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Lightning+Ram"><b>雷电羊球</b></a>', '<b>仿效向前滚的羊而出现的战技。<br>发出叫声后，能缠绕雷电向前滚动，<br>可以连续滚动。</b>', '<b>[亚坛高原]</b><b>[唤雷教堂]</b>以东<b>[尊贵者的英雄墓地]</b>东南的粪金龟掉落。']
+  link: https://eldenring.wiki.fextralife.com/Lightning+Affinity
 - title: 神圣
   table: ['名称', '描述', '位置']
   items:
@@ -247,7 +254,7 @@ sections:
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Golden+Land"><b>黄金大地</b></a>', '<b>将武器刺入地面后，再向下使力<br>引发神圣爆炸，形成黄金石砾的战技。<br>发动后接着使出重攻击，<br>能回旋横扫攻击。</b>', '在<b>[深根底层]</b><b>赐福[大瀑布顶端]</b>南边的粪金龟掉落。在<b>[黄金树的化身]</b>后面。']
   - id: '12_3'
     icon: /img/icons/ashes_of_war/08406.png
-    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Golden+Slam"><b>黄金坠落震击</b></a>', '<b>守护小黄金树的化身使用的战技。<br>能轻盈向前跳，用臀部用力向下坠落，<br>此攻击能引发黄金冲击波。</b>', '在<b>[亚坛高原]</b><b>[森林之民的废墟]</b>西北<b>[小黄金树]</b>东北的的粪金龟掉落。']
+    data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Golden+Slam"><b>黄金坠落震击</b></a>', '<b>守护小黄金树的化身使用的战技。<br>能轻盈向前跳，用臀部用力向下坠落，<br>此攻击能引发黄金冲击波。</b>', '在<b>[亚坛高原]</b><b>[森林之民的废墟]</b>西北<b>[小黄金树]</b>东北的粪金龟掉落。']
   - id: '12_4'
     icon: /img/icons/ashes_of_war/08423.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Golden+Vow"><b>黄金树立誓</b></a>', '<b>王城骑士们自古继承而来的战技。<br>将武器指向天空，发誓为黄金树而战，<br>提升自己与周围我方人物的攻击力与防御力。</b>', '在<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[死亡降临的地下墓地]</b>上方悬崖上一个骑马的葛瑞克骑士掉落。']
@@ -260,6 +267,7 @@ sections:
   - id: "20_2"
     icon: "/img/icons/ashes_of_war/08501.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Aspects+of+the+Crucible:+Wings"><b>熔炉百相之羽</b></a>', '源自熔炉生命的战技。<br>能形成黄金双翼，飞起的同时高举武器突击。<br>装备双头剑时，突击会变成回旋攻击。<br>能在剑类武器，以及可突刺的长柄武器使用。（不含特大型武器）', '<b>[惩罚要塞]</b>：击败Boss<b>[“黑骑士”艾瑞德]</b>。']
+  link: https://eldenring.wiki.fextralife.com/Sacred+Affinity
 - title: 毒
   table: ['名称', '描述', '位置']
   items:
@@ -272,6 +280,7 @@ sections:
   - id: "20_23"
     icon: "/img/icons/ashes_of_war/08522.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+The+Poison+Flower+Blooms+Twice"><b>双刺毒花</b></a>', '在脚底形成猩红腐败的棘刺，刺向敌人的战技。<br>对上陷入中毒或猩红腐败状态的敌人，<br>如果成功使出追击，能一口气给予大伤害。<br>能在所有的近战武器使用。', '<b>[劳弗下方]</b>的<b>赐福[峡谷北方]</b>向南走，穿过河流，在一些废墟附近的一小片腐烂水池附近找到一个粪金龟。']
+  link: https://eldenring.wiki.fextralife.com/Poison+Affinity
 - title: 血
   table: ['名称', '描述', '位置']
   items:
@@ -287,6 +296,7 @@ sections:
   - id: '1_4'
     icon: /img/icons/ashes_of_war/08426.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+Seppuku"><b>切腹</b></a>', '<b>芦苇之地的剑客，禁用的奥义。<br>将武器深深刺入自己的腹部，染上鲜血，<br>能提升攻击力、强化异常状态出血的效果。</b>', '在<b>[巨人山顶]</b><b>赐福[结冰湖]</b>以东的隐形粪金龟掉落。']
+  link: https://eldenring.wiki.fextralife.com/Blood+Affinity
 - title: 寒冷
   table: ['名称', '描述', '位置']
   items:
@@ -305,6 +315,7 @@ sections:
   - id: "20_18"
     icon: "/img/icons/ashes_of_war/08518.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Divine+Beast+Frost+Stomp"><b>神兽冻霜踏地</b></a>', '神兽舞狮展现愤怒的战技。<br>能举起脚大力踏向地面，<br>让剧烈冻霜朝前方随之扩散。<br>借由蓄力发动能提升威力，<br>扩大冻霜扩散的范围。<br>能在所有的近战武器使用。', '与<b>[圆桌厅堂]</b>的<b>[“解指”恩雅]</b>交易<b>[舞狮的追忆]</b>获得。']
+  link: https://eldenring.wiki.fextralife.com/Cold+Affinity
 - title: 神秘
   table: ['名称', '描述', '位置']
   items:
@@ -323,6 +334,7 @@ sections:
   - id: "20_21"
     icon: "/img/icons/ashes_of_war/08521.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War+Shriek+of+Sorrow"><b>悲恸惨叫</b></a>', '遭受蹂躏的人们使用的战技。<br>惨叫出声，让周围敌人陷入硬直的同时，<br>再回想起深仇大恨，提升自身的攻击力。<br>自身的血量越低，效果越佳。<br>能在所有的近战武器使用。', '<b>[“塔之镇”贝瑞特]</b>：在<b>[“火焰骑士”昆兰]</b>入侵你的广场，中间的大树后面。']
+  link: https://eldenring.wiki.fextralife.com/Occult+Affinity
 - title: 普通
   table: ['名称', '描述', '位置']
   items:
@@ -389,6 +401,7 @@ sections:
   - id: '13_5'
     icon: /img/icons/ashes_of_war/08367.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Ash+of+War:+No+Skill"><b>无战技</b></a>', '<b>武器没有战技。<br>如果另一边的武器具备战技，<br>会使用那一边的战技。</b>', '由<b>[宁姆格福]</b><b>[风暴山丘]</b><b>[习战者的破屋]</b>的<b>[骑士贝纳尔]</b>出售。']
+  link: https://eldenring.wiki.fextralife.com/Standard+Affinity
 - title: 失力战灰
   table: ['名称', '描述', '位置']
   items:
@@ -434,3 +447,4 @@ sections:
   - id: '14_1_14'
     icon: /img/icons/keys/03223.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War"><b>失力战灰</b></a>', '''', '在<b>[圣树树冠]</b>高处的一个雕像前，你需要从主干向低处走然后从右边跳到下方的细枝上，然后沿路绕到高处。']
+  link: https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War

@@ -16,6 +16,7 @@ sections:
     data: ['[3]', '<b>[锻造石【５】]</b><br><b>[锻造石【６】]</b>', '在<b>[巨人山顶]</b>入口的<b>[萨米尔废墟]</b>下面。在废墟中，找到通往废墟下的楼梯，打开宝箱。']
   - id: '1_4'
     data: ['[4]', '<b>[锻造石【７】]</b><br><b>[锻造石【８】]</b>', '<b>[逐渐崩毁的法姆·亚兹拉]</b>的Boss<a href="bosses.html#item_11_2"><b>[神皮双人组]</b></a>掉落。']
+  link: https://eldenring.wiki.fextralife.com/Smithing-Stone+Miner%27s+Bell+Bearing+%5B1%5D
 - title: 失色石矿工的铃珠
   icon: /img/icons/keys/edited/03142.png
   table: ['', '解锁', '位置']
@@ -31,6 +32,7 @@ sections:
     data: ['[4]', '<b>[失色锻造石【７】]</b><br><b>[失色锻造石【８】]</b>', '在<b>[逐渐崩毁的法姆·亚兹拉]</b>的<b>赐福[龙卷旁露台]</b>旁边。']
   - id: '2_5'
     data: ['[5]', '<b>[失色锻造石【９】]</b>', '<b>[逐渐崩毁的法姆·亚兹拉]</b>。从<b>赐福[龙教堂（屋顶）]</b>，跳到一堆讨厌的鸟那里。往前是一条龙，经过龙的右边是一群亚人，过去是一片废墟，倒塌后变成了一座桥。往前在右边的建筑里有一具带着铃珠的尸体。']
+  link: https://eldenring.wiki.fextralife.com/Somberstone+Miner%27s+Bell+Bearing+%5B1%5D
 - title: 铃兰摘采工的铃珠
   icon: /img/icons/keys/edited/03142.png
   table: ['', '解锁', '位置']
@@ -42,6 +44,7 @@ sections:
     data: ['[2]', '<b>[墓地铃兰【４】]</b><br><b>[墓地铃兰【５】]</b><br><b>[墓地铃兰【６】]</b>', '<a href="landmarks_locations.html#item_7_2"><b>[巨人山顶地下墓地]</b></a>Boss掉落，位于<b>[萨米尔废墟]</b>以北。在北面的小路上，当你遇到火焰敌人时，右转到地下墓地。']
   - id: '3_3'
     data: ['[3]', '<b>[墓地铃兰【７】]</b><br><b>[墓地铃兰【８】]</b><br><b>[墓地铃兰【９】]</b>', '从<b>赐福[渐毁野兽墓（深处）]</b>西北方向的房间乘坐西南方向的电梯下去。沿着小路你会看到一个湖，铃珠就在那里。']
+  link: https://eldenring.wiki.fextralife.com/Glovewort+Picker%27s+Bell+Bearing+%5B1%5D
 - title: 灵依摘采工的铃珠
   icon: /img/icons/keys/edited/03142.png
   table: ['', '解锁', '位置']
@@ -53,6 +56,7 @@ sections:
     data: ['[2]', '<b>[灵依墓地铃兰【４】]</b><br><b>[灵依墓地铃兰【５】]</b><br><b>[灵依墓地铃兰【６】]</b>', '在<b>[“永恒之城”诺克史黛拉]</b>的一个箱子里。从赐福往西走，它在左边的一个建筑的宝箱里。']
   - id: '4_3'
     data: ['[3]', '<b>[灵依墓地铃兰【７】]</b><br><b>[灵依墓地铃兰【８】]</b><br><b>[灵依墓地铃兰【９】]</b>', '需要圣树秘密符节。<b>[米凯拉的圣树]</b>从<b>赐福[圣树底层]</b>出发上电梯，走出教堂。左转走到一堆虾人那里，它就在一个坟墓旁边。']
+  link: https://eldenring.wiki.fextralife.com/Ghost-Glovewort+Picker%27s+Bell+Bearing+%5B1%5D
 - title: 贩子的铃珠
   icon: /img/icons/keys/edited/03142.png
   table: ['名称', '解锁', '位置']
@@ -66,6 +70,7 @@ sections:
     data: ['<b>重力贩子的铃珠</b>', '<b>[扇形重力石]</b><br><b>[块状重力石]</b>', '<b>[盖利德]</b><b>[桂奥尔龙墓]</b><b>[隐居商人的破屋]</b><a href="bosses.html#item_5_19"><b>[铃珠猎人]</b></a>掉落。']
   - id: '5_4'
     data: ['<b>苔药贩子的铃珠</b>', '<b>[中毒苔药]</b><br><b>[出血苔药]</b><br><b>[冻伤苔药]</b><br><b>[催眠苔药]</b>', '<b>[王城外围]</b><b>[遁世商人的破屋]</b><a href="bosses.html#item_6_16"><b>[铃珠猎人]</b></a>掉落。']
+  link: https://eldenring.wiki.fextralife.com/Bell+Bearings
 - title: NPC的铃珠
   table: ['NPC', '随剧情自动获取?', '说明']
   table_widths: [3, 2, 7]
@@ -112,6 +117,7 @@ sections:
   - id: '6_14'
     icon: /img/icons/keys/edited/03143.png
     data: ['<a href="npc_questlines.html#item_4_3"><b>魔法师托普斯</b></a>', '是', '在他的任务线结束时，在<b>[魔法学院雷亚卢卡利亚]</b>从他的尸体拾取。']
+  link: https://eldenring.wiki.fextralife.com/Bell+Bearings
 - title: 商人的铃珠
   icon: /img/icons/keys/edited/03142.png
   map_icon: /map/icons/MENU_MAP_80.png
@@ -193,6 +199,7 @@ sections:
     data: ['<b>受囚商人的铃珠</b>', '<b>[蒙格温王朝]</b>西边，进入<b>[蒙格温王朝庙]</b>，靠左在一个死胡同找到商人。']
     cords: [6781, 14472]
     map_title: 受囚商人
+  link: https://eldenring.wiki.fextralife.com/Bell+Bearings
 - title: '幽影之地：NPC的铃珠'
   icon: '/img/icons/keys/edited/03142.png'
   table: ['名称', '位置']
@@ -202,6 +209,7 @@ sections:
     data: ['穆尔的铃珠', '完成穆尔的任务线后获得。']
   - id: '10_2'
     data: ['尤弥尔的铃珠', '在<b>[玛努斯·美特大教堂]</b>击杀<b>[“大祭司”尤弥尔]</b>后获得。']
+  link: https://eldenring.wiki.fextralife.com/Bell+Bearings
 - title: '幽影之地：贩子的铃珠'
   icon: '/img/icons/keys/edited/03142.png'
   table: ['名称', '解锁', '位置']
@@ -223,3 +231,4 @@ sections:
     data: ['<b>魔法技师的铃珠</b>', '<b>拉巴斯大弩箭</b>', '从<b>[巫者村]</b>出发向东南方向走，沿着小路走到较低的山峰，从这里小心地跳下石梁，直到能俯瞰<b>[拉巴斯魔法师塔]</b>。小心地跳到下面的阳台上，进入房间，跳到下面的楼层找到尸体。']
   - id: '11_8'
     data: ['<b>绳索贩子的铃珠</b>', '<b>绳索</b>', '悬挂在<b>[眺望镇]</b>旁山沟的墙上的罐子里。']
+  link: https://eldenring.wiki.fextralife.com/Bell+Bearings

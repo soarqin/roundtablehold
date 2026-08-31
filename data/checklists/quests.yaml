@@ -928,6 +928,7 @@ sections:
     - id: '35_13_2'
       data:
       - 可以召唤对抗<b>[“碎星”拉塔恩]</b>
+  link: https://eldenring.wiki.fextralife.com/Blaidd
 - title: 骑士贝纳尔
   items:
   - id: '36_1'
@@ -948,6 +949,7 @@ sections:
   - id: '36_6'
     data:
     - '召唤: 可以召唤对抗<b>[逐渐崩毁的法姆·亚兹拉]</b>中的<b>[神皮双人组]</b>'
+  link: https://eldenring.wiki.fextralife.com/Knights+Bernahl
 - title: 魔女菈妮
   items:
   - id: '37_1'
@@ -974,6 +976,7 @@ sections:
   - id: '37_8'
     data:
     - 向北前往<b>[玛努斯·瑟利斯大教堂]</b>与<b>[魔女菈妮]</b>对话以获取<b>[暗月大剑]</b>并完成<b>[魔女菈妮]</b>的任务线。
+  link: https://eldenring.wiki.fextralife.com/Ranni+the+Witch
 - title: “招募者”菈雅
   items:
   - id: '38_1'
@@ -1009,6 +1012,7 @@ sections:
   - id: '38_8'
     data:
     - 如果你没有做任何事，推进<b>[火山官邸]</b>的故事，直到杀死<b>[“亵渎君王”拉卡德]</b>，然后返回<b>[“招募者”菈雅]</b>处与她交谈并刷新，拾取她的笔记即可完成她的任务线。
+  link: https://eldenring.wiki.fextralife.com/Rya
 - title: 夏玻利利
   items:
   - id: '39_1'
@@ -1020,6 +1024,7 @@ sections:
   - id: '39_3'
     data:
     - '召唤: 如果你拥抱了癫火，可以在<b>[“初始之王”葛孚雷]</b>Boss战召唤'
+  link: https://eldenring.wiki.fextralife.com/Shabriri
 - title: “火山官邸之主”塔妮丝
   items:
   - id: '40_1'
@@ -1037,6 +1042,7 @@ sections:
   - id: '40_5'
     data:
     - 在<b>[帕奇]</b>任务线期间在Boss房间给她<b>[舞娘的打击乐器]</b>，并杀死她和她忠诚的<b>[熔炉骑士]</b>以获得奖励并结束她的任务线。
+  link: https://eldenring.wiki.fextralife.com/Tanith
 - title: 铁匠伊吉
   items:
   - id: '41_1'
@@ -1054,6 +1060,7 @@ sections:
   - id: '41_5'
     data:
     - 在完成<b>[魔女菈妮]</b>的任务线并在<b>[菈妮魔法师塔]</b>击杀<b>[“半狼”布莱泽]</b>后可以再对话一次。告诉他关于<b>[“半狼”布莱泽]</b>的结局，刷新后拾取他的装备和铃珠。
+  link: https://eldenring.wiki.fextralife.com/Iji
 - title: 梅琳娜
   items:
   - id: '42_1'
@@ -1116,3 +1123,4 @@ sections:
   - id: '42_6'
     data:
     - 在<b>赐福[巨人火焰大锅]</b>休息并选择对应选项结束她的任务线。
+  link: https://eldenring.wiki.fextralife.com/Melina

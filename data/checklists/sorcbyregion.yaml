@@ -31,6 +31,7 @@ sections:
   - id: '1_10'
     icon: /img/icons/sorceries/06005.png
     data: ['<b>[辉剑圆阵]</b>', '形成魔力辉剑排成的圆阵', '由<b>[王室卷轴]</b>解锁']
+  link: https://eldenring.wiki.fextralife.com/Limgrave
 - title: 啜泣半岛
   id: 2
   table: ["名称", "说明", "获取方式"]
@@ -41,6 +42,7 @@ sections:
   - id: '2_2'
     icon: /img/icons/sorceries/06006.png
     data: ['<b>[结晶散射]</b>', '同时释放大量辉石结晶碎片', '在<b>[啜泣半岛]</b>中心森林的<b>[亚人森林的废墟]</b>杀死亚人女王。']
+  link: https://eldenring.wiki.fextralife.com/Weeping+Peninsula
 - title: 史东薇尔城
   id: 3
   table: ["名称", "说明", "获取方式"]
@@ -48,6 +50,7 @@ sections:
   - id: '3_1'
     icon: /img/icons/sorceries/06048.png
     data: ['<b>[召唤怨魂]</b>', '召唤穷追不舍的怨魂群', '从<b>赐福[升降机旁房间]</b>，出去并向右转。小路的尽头是一块岩架。跳下去，即使它很可怕，然后一直走到底部。在底部，经过一些老鼠，是一个带着魔咒的圣甲虫。']
+  link: https://eldenring.wiki.fextralife.com/Stormveil+Castle
 - title: 湖之利耶尼亚 第一部分
   id: 4
   table: ["名称", "说明", "获取方式"]
@@ -124,6 +127,7 @@ sections:
   - id: '4_17'
     icon: /img/icons/sorceries/06004.png
     data: ['<b>[旋飞魔砾]</b>', '释放以漩涡状飞出的两道石砾', '在完成<b>[魔法师瑟濂]</b>任务线后可以购买(如果你支持她的话)']
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: '湖之利耶尼亚 第二部分: 完成魔女菈妮任务线后'
   id: 5
   table: ["名称", "说明", "获取方式"]
@@ -137,6 +141,7 @@ sections:
   - id: '5_3'
     icon: /img/icons/sorceries/06025.png
     data: ['<b>[菈妮的暗月]</b>', '呼唤冰冷暗月降临自身，月亮将朝敌人飞去', '完成<b>[魔女菈妮]</b>的任务线后，进入任务线最后在<b>[湖之利耶尼亚]</b>的高地区域。在这个地区的西南角是<b>[希耶罗那魔法师塔]</b>。解决谜题的方法是杀死3只巨大的海龟，分别在附近的悬崖边上，高地最东南部的悬崖下面，最西北方空中(可以龙卷风跳撞死)。在塔顶有一个宝箱。']
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 魔法学院雷亚卢卡利亚
   id: 6
   table: ["名称", "说明", "获取方式"]
@@ -159,6 +164,7 @@ sections:
   - id: '6_5'
     icon: /img/icons/sorceries/06007.png
     data: ['<b>[蕾娜菈的满月]</b>', '呼唤满月降临自身，月亮将朝敌人飞去', '从<b>[满月女王的追忆]</b>获得，该追忆是通过杀死<b>[魔法学院雷亚卢卡利亚]</b>的Boss获取。']
+  link: https://eldenring.wiki.fextralife.com/Raya+Lucaria+Academy
 - title: 地下 希芙拉河的入口井
   id: 7
   table: ["名称", "说明", "获取方式"]
@@ -169,6 +175,7 @@ sections:
   - id: '7_2'
     icon: /img/icons/sorceries/06608.png
     data: ['<b>[神谕大泡泡]</b>', '释放一个大型的魔力泡泡', '通过<b>[宁姆格福]</b>森林<b>[希芙拉河的入口井]</b>的升降机进入地下区域。穿过这个区域到下一个电梯，然后坐电梯到下一个区域。在这个地区的东北方是<b>赐福[信仰者森林]</b>。从赐福向南走，穿过箭雨找到一个倒下的柱子，跳上去到顶部找到传送门。进入附近满是敌人的粪金龟所在的房间。']
+  link: https://eldenring.wiki.fextralife.com/Siofra+River
 - title: 盖利德
   id: 8
   table: ["名称", "说明", "获取方式"]
@@ -200,6 +207,7 @@ sections:
   - id: '8_8'
     icon: /img/icons/sorceries/06022.png
     data: ['<b>[毁灭流星]</b>', '释放朝目标飞去的十二道深色流星', '<b>[瑟利亚隐藏洞窟]</b>底部你会发现一个由巫师守卫的封印。杀了他，打开封印，然后和法师交谈获得。']
+  link: https://eldenring.wiki.fextralife.com/Caelid
 - title: 格密尔火山
   id: 9
   table: ["名称", "说明", "获取方式"]
@@ -222,6 +230,7 @@ sections:
   - id: '9_6'
     icon: /img/icons/sorceries/06045.png
     data: ['<b>[拉卡德的怨魂]</b>', '释放受熏烧的怨魂，引发延迟性的连续爆炸', '杀死<b>[火山官邸]</b>的Boss后获得<b>[亵渎君王的追忆]</b>，可用于交换魔法。']
+  link: https://eldenring.wiki.fextralife.com/Mt+Gelmir
 - title: 亚坛高原
   id: 10
   table: ["名称", "说明", "获取方式"]
@@ -232,6 +241,7 @@ sections:
   - id: '10_3'
     icon: /img/icons/sorceries/06704.png
     data: ['<b>[化为无形]</b>', '将难以辨识施展者的身影', '和<b>[无形刀刃]</b>在同一个箱子里']
+  link: https://eldenring.wiki.fextralife.com/Altus+Plateau
 - title: 深根底层
   id: 11
   table: ["名称", "说明", "获取方式"]
@@ -239,6 +249,7 @@ sections:
   - id: '11_1'
     icon: /img/icons/sorceries/06054.png
     data: ['<b>[菲雅烟雾]</b>', '朝前方形成死亡烟雾', '击败位于<b>赐福[树根前路]</b>上方的Boss，你可以通过沿着建筑的根部到达赐福。']
+  link: https://eldenring.wiki.fextralife.com/Deeproot+Depths
 - title: 巨人山顶
   id: 12
   table: ["名称", "说明", "获取方式"]
@@ -258,6 +269,7 @@ sections:
   - id: '12_5'
     icon: /img/icons/sorceries/06042.png
     data: ['<b>[艾丝缇陨石]</b>', '从虚无空间召唤大量小颗陨石，引发坠落', '杀死<b>[化圣雪原]</b>西部<b>[耶罗·亚尼斯坑道]</b>的Boss，需要圣树秘密符节。']
+  link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
 - title: 米凯拉的圣树
   id: 13
   table: ["名称", "说明", "获取方式"]
@@ -265,6 +277,7 @@ sections:
   - id: '13_1'
     icon: /img/icons/sorceries/06026.png
     data: ['<b>[罗蕾塔的绝招]</b>', '形成魔力大弓，同时射出４支大箭', '杀死<b>[米凯拉的圣树]</b>的第一个Boss，需要圣树秘密符节。']
+  link: https://eldenring.wiki.fextralife.com/Miquella's+Haligtree
 - title: 幽影之地
   table: ["名称", "说明", "获取方式"]
   id: 20
@@ -311,3 +324,4 @@ sections:
   - id: "20_14"
     icon: "/img/icons/sorceries/06813.png"
     data: ['<b>[守护指头]</b>', '形成包围施展者的数根粗厚指头', '完成<b>[“大祭司”尤弥尔]</b>的完整任务线后，可以在<b>[玛努斯·美特大教堂]</b>西侧的墓地中拾取。']
+  link: https://eldenring.wiki.fextralife.com/Land+of+Shadow

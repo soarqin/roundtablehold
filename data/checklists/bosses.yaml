@@ -48,7 +48,7 @@ sections:
     cords: [4075, 6933]
     map_title: “血指”涅利乌斯 (NPC入侵)
   - id: '2_8'
-    data: ['<b>帕奇</b>', '<b>蒙流洞窟</b>', '不击杀: <b>黄金卢恩【１】</b> (x2), 姿势<b>求饶</b>。<br>击杀: <b>黄金卢恩【１】</b> (x2), <b>{WP16010000}</b>+7, <b>皮革铠甲</b>, <b>皮革手套</b>, <b>皮革靴子</b>, <b>帕奇的铃珠</b>.', '只有半场的Boss战斗，除非你真的想杀死<b>帕奇</b>。']
+    data: ['<b>帕奇</b>', '<b>蒙流洞窟</b>', '不击杀: <b>黄金卢恩【１】</b> (x2), 姿势<b>求饶</b>。<br>击杀: <b>黄金卢恩【１】</b>, <b>矛</b>+7, <b>皮革铠甲</b>, <b>皮革手套</b>, <b>皮革靴子</b>, <b>帕奇的铃珠</b>。', '只有半场的Boss战斗，除非你真的想杀死<b>帕奇</b>。']
     cords: [4026, 6962]
   - id: '2_6'
     data: ['<b>守墓斗士</b>', '<b>蒙流地下墓地</b>', '1700 卢恩, 骨灰<b>“失乡骑士”英格威尔</b>', '']
@@ -117,6 +117,7 @@ sections:
     data: ['<b>“古老骑士”伊修托邦</b>', '竞技场之路', '1828 卢恩, <b>卢恩弯弧</b>, <b>唤勾指药</b>, <b>鳞片头盔</b>, <b>鳞片铠甲</b>, <b>鳞片臂甲</b>, <b>鳞片腿甲</b>', 'NPC。你可以入侵他的世界。与<b>火山官邸</b>任务相关。']
     cords: [3625, 6473]
     map_title: “古老骑士”伊修托邦 (火山官邸任务线)
+  link: https://eldenring.wiki.fextralife.com/Limgrave
 - title: 啜泣半岛
   table:
   - 名字
@@ -159,6 +160,7 @@ sections:
   - id: '1_11'
     data: ['<b>狮子混种</b>', '<b>摩恩城</b> (南)', '3800 卢恩, <b>剑骸大剑</b> (传说)', '授予成就/奖杯:<b>狮子混种</b>。']
     cords: [3940, 8834]
+  link: https://eldenring.wiki.fextralife.com/Weeping+Peninsula
 - title: 圆桌厅堂
   table:
   - 名字
@@ -169,7 +171,8 @@ sections:
   - id: '3_1'
     data: ['<b>“发狂之舌”阿尔佩利希</b>', '<b>圆桌厅堂</b>', '1562 卢恩, <b>嘲弄者舌头</b>, <b>唤勾指药</b>', 'NPC入侵。从阳台跳到下面的区域，靠近一排大门的地方触发。']
   - id: '3_2'
-    data: ['<b>“王骸”恩夏</b>', '<b>圆桌厅堂</b>', '<b>攀附手骨</b>, 王骸套装', '在你获得一半的圣树秘密符节后以NPC身份入侵攻击你。']
+    data: ['<b>“王骸”恩夏</b>', '<b>圆桌厅堂</b>', '<b>攀附手骨</b>, 王骸套装', '在你获得圣树秘密符节（左半）后，以入侵NPC的身份攻击你。']
+  link: https://eldenring.wiki.fextralife.com/Roundtable+Hold
 - title: 湖之利耶尼亚
   table:
   - 名字
@@ -310,6 +313,7 @@ sections:
   - id: '4_33'
     data: ['<b>“熔岩土龙”马卡尔</b>', '<b>古遗迹断崖</b>', '24,000 卢恩, <b>土龙鳞剑</b>, <b>龙心脏</b>', '如果你想绕过<b>迪可达斯大升降机</b>到达<b>亚坛高原</b>必经。授予成就/奖杯:<b>“熔岩土龙”马卡尔</b>。']
     cords: [2448, 3607]
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 盖利德
   table:
   - 名字
@@ -393,7 +397,7 @@ sections:
     data: ['<b>腐败化身</b>', '<b>小黄金树</b> (东边)', '91,000 卢恩, <b>珍珠硬露滴</b>, <b>岩刺破露滴</b>', '场地Boss']
     cords: [6040, 6184]
   - id: '5_19'
-    data: ['<b>铃珠猎人</b>', '<b>隐居商人的破屋</b>', '50,000 卢恩, <b>重力贩子的铃珠</b>', '场地Boss。仅夜间。从商家那里买东西。消磨时光，然后休息一次来召唤。']
+    data: ['<b>铃珠猎人</b>', '<b>隐居商人的破屋</b>', '50,000 卢恩, <b>重力贩子的铃珠</b>', '场地Boss。仅夜间。从商家那里买东西。消磨时间，然后休息一次来召唤。']
     cords: [5130, 6117]
     map_title: 铃珠猎人 (仅夜间)
   - id: '5_21'
@@ -427,6 +431,7 @@ sections:
   - id: '5_29'
     data: ['<b>腐败树灵</b>', '<b>英灵地下墓地</b>', '67,200 卢恩, <b>黄金种子</b>, 骨灰<b>“红狮子骑士”奥加</b> (传说)', '在竞技场击败<b>“碎星”拉塔恩</b>后可以进入。']
     cords: [6307, 6133]
+  link: https://eldenring.wiki.fextralife.com/Caelid
 - title: 亚坛高原
   table:
   - 名字
@@ -482,6 +487,7 @@ sections:
     data: ['<b>大树守卫</b> (x2)', '<b>王城罗德尔</b> 入口', '20,000 卢恩, <b>黄金树大盾</b>, <b>英雄卢恩【１】</b>', '是一个讨厌的混蛋(x2)。']
   - id: '6_16'
     data: ['<b>铃珠猎人</b>', '<b>遁世商人的破屋</b>', '20,000 卢恩, <b>苔药贩子的铃珠</b>', '场地Boss。仅夜间。从商家那里买东西。消磨时间，然后休息一次来召唤。']
+  link: https://eldenring.wiki.fextralife.com/Altus+Plateau
 - title: 格密尔火山
   table:
   - 名字
@@ -499,9 +505,9 @@ sections:
   - id: '7_5'
     data: ['<b>归树看门犬</b>', '<b>威达姆地下墓地</b>', '12,000 卢恩, <b>铃兰摘采工的铃珠【１】</b>', '理论上不在<b>格密尔火山</b>，但地图上属于<b>格密尔火山</b>。']
   - id: '7_7'
-    data: ['<b>“日荫城主”玛雷玛雷</b>', '<b>日荫城</b> (西边)', '4800 卢恩, <b>蚁刺细剑</b>, <b>玛雷家面具</b>, <b>玛雷家长袍</b>', '理论上不在<b>格密尔火山</b>，但地图上属于<b>格密尔火山</b>。']
+    data: ['<b>“日荫城主”玛雷玛雷</b>', '<b>日荫城</b> (西边)', '4800 卢恩, <b>蚁刺细剑</b>, <b>玛雷家面具</b>, <b>玛雷家长袍</b>', '在<b>日荫城</b>西侧的荒野游荡的敌对NPC。']
   - id: '7_8'
-    data: ['<b>“铁棘”艾隆梅尔</b>', '<b>日荫城</b>', '24,000 卢恩, <b>玛雷家行刑剑</b> (传说), <b>铁棘大盾</b>', '理论上不在<b>格密尔火山</b>，但地图上属于<b>格密尔火山</b>。授予成就/奖杯:<b>“铁棘”艾隆梅尔</b>。']
+    data: ['<b>“铁棘”艾隆梅尔</b>', '<b>日荫城</b>', '24,000 卢恩, <b>玛雷家行刑剑</b> (传说), <b>铁棘大盾</b>', '位于<b>亚坛高原</b>北部的<b>日荫城</b>（处于格密尔火山与亚坛高原交界处）。授予成就/奖杯:<b>“铁棘”艾隆梅尔</b>。']
   - id: '7_10'
     data: ['<b>“接肢”贵族后裔</b>', '<b>格密尔火山</b> (北)', '2313 卢恩', '场地Boss']
   - id: '7_11'
@@ -544,6 +550,7 @@ sections:
     cords: [2292, 2960]
   - id: '7_24'
     data: ['<b>塔妮丝的骑士</b>', '<b>火山官邸</b>/<b>“亵渎君王”拉卡德</b>Boss区域', '<b>熔炉百相之喉囊</b>', '杀死坐着吃<b>“亵渎君王”拉卡德</b>尸体的<b>“火山官邸之主”塔妮丝</b>，她的骑士将入侵你。']
+  link: https://eldenring.wiki.fextralife.com/Mt+Gelmir
 - title: 王城罗德尔
   table:
   - 名字
@@ -593,6 +600,7 @@ sections:
     map_icon: /map/icons/shadows/tools/remembrances/00165.png
     data: ['<b>“恶兆王”蒙葛特</b>', '<b>艾尔登宝座</b>', '120,000 卢恩, <b>蒙葛特的大卢恩</b>, <b>恶兆王的追忆</b>', '主线Boss。半必要的故事进程。授予成就/奖杯:<b>“恶兆王”蒙葛特</b>。']
     cords: [4521, 3727]
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital
 - title: 巨人山顶
   table:
   - 名字
@@ -634,6 +642,7 @@ sections:
     map_icon: /map/icons/shadows/tools/remembrances/00174.png
     data: ['<b>火焰巨人</b>', '<b>火焰之巅</b>', '180,000 卢恩, <b>火焰巨人的追忆</b>', '主线Boss。进入<b>巨人火焰大锅</b>必经。授予成就/奖杯:<b>火焰巨人</b>。']
     cords: [6355, 3160]
+  link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
 - title: 化圣雪原
   table:
   - 名字
@@ -672,6 +681,7 @@ sections:
     map_icon: /map/icons/shadows/tools/remembrances/00167.png
     data: ['<b>“米凯拉的锋刃”玛莲妮亚</b>', '<b>“圣树分枝”艾布雷菲尔</b>', '480,000 卢恩, <b>玛莲妮亚的大卢恩</b>, <b>腐败女神的追忆</b>', '可选的。授予成就/奖杯:<b>“米凯拉的锋刃”玛莲妮亚</b>。']
     cords: [5574, 885]
+  link: https://eldenring.wiki.fextralife.com/Consecrated+Snowfield
 - title: 逐渐崩毁的法姆·亚兹拉
   table:
   - 名字
@@ -693,6 +703,7 @@ sections:
   - id: '11_6'
     map_icon: /map/icons/shadows/tools/remembrances/00169.png
     data: ['<b>“黑剑”玛利喀斯</b>', '<b>逐渐崩毁的法姆·亚兹拉</b>', '220,000 卢恩, <b>黑剑的追忆</b>', '到达<b>灰城罗德尔</b>必经。授予成就/奖杯:马勒基斯，<b>黑剑</b>。']
+  link: https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula
 - title: 灰城罗德尔
   table:
   - 名字
@@ -710,6 +721,7 @@ sections:
   - id: '12_4'
     map_icon: /map/icons/shadows/tools/remembrances/00176.png
     data: ['<b>艾尔登之兽</b>', '<b>濒毁玛莉卡</b>', '500,000 卢恩, <b>艾尔登的追忆</b>', '必需。']
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Ashen+Capital
 - title: 希芙拉河
   table:
   - 名字
@@ -721,6 +733,7 @@ sections:
     data: ['<b>龙人士兵</b>', '<b>希芙拉河</b> (楼梯上)', '16,000 卢恩, <b>龙戟</b>', '场地Boss。可以通过在东部的一个传送门进入<b>希芙拉河</b>。']
   - id: '13_2'
     data: ['<b>祖灵</b>', '<b>角骸灵地</b>', '13,000 卢恩, <b>祖灵之民的骨灰</b>', '你需要在<b>希芙拉河</b>周围点燃8个火盆来激活他。授予成就/奖杯:<b>祖灵</b>。']
+  link: https://eldenring.wiki.fextralife.com/Siofra+River
 - title: “永恒之城”诺克隆恩
   table:
   - 名字
@@ -742,6 +755,7 @@ sections:
     data: ['<b>熔炉骑士</b>', '<b>希芙拉导水桥</b>', '3080 卢恩, <b>失色锻造石【６】</b>', '']
   - id: '14_3'
     data: ['<b>英雄石像鬼</b> & <b>英雄石像鬼（双头剑）</b>', '<b>希芙拉导水桥</b>', '32,000 卢恩, <b>石像鬼大剑</b>, <b>石像鬼双头剑</b>', '击败它后，可以触碰<b>赐福[大瀑布水潭]</b>。授予成就/奖杯:<b>英雄石像鬼</b>。']
+  link: https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City
 - title: 蒙格温王朝
   table:
   - 名字
@@ -757,6 +771,7 @@ sections:
     map_icon: /map/icons/shadows/tools/remembrances/00168.png
     data: ['<b>“鲜血君王”蒙格</b>', '<b>蒙格温王朝庙</b>', '315,000 卢恩, <b>蒙格的大卢恩</b>, <b>鲜血君王的追忆</b>', '通过<b>“白面具”梵雷</b>的任务，或通过<b>化圣雪原</b>的传送门到达。授予成就/奖杯:<b>“鲜血君王”蒙格</b>。']
     cords: [6796, 14396]
+  link: https://eldenring.wiki.fextralife.com/Mohgwyn+Palace
 - title: 安瑟尔河
   table:
   - 名字
@@ -770,6 +785,7 @@ sections:
     data: ['<b>诺克史黛拉的龙人士兵</b>', '<b>安瑟尔河</b> (西边)', '12,000 卢恩, 祷告<b>冰雷枪</b>', '授予成就/奖杯:<b>诺克史黛拉的龙人士兵</b>。']
   - id: '16_2'
     data: ['<b>灾厄影子</b>', '<b>安瑟尔河</b>', '8561 卢恩', 'NPC入侵。<b>魔女菈妮</b>任务线的一部分。']
+  link: https://eldenring.wiki.fextralife.com/Ainsel+River
 - title: 腐败湖
   table:
   - 名字
@@ -786,6 +802,7 @@ sections:
     map_icon: /map/icons/shadows/tools/remembrances/00177.png
     data: ['<b>“黑暗弃子”艾丝缇</b>', '<b>大回廊</b>', '80,000 卢恩, <b>黑暗弃子的追忆</b>', '通过棺材进入<b>大回廊</b>。<b>魔女菈妮</b>的任务线必须。授予成就/奖杯:<b>“黑暗弃子”艾丝缇</b>。']
     cords: [2765, 13744]
+  link: https://eldenring.wiki.fextralife.com/Lake+of+Rot
 - title: 深根底层
   table:
   - 名字
@@ -804,3 +821,4 @@ sections:
     map_icon: /map/icons/shadows/tools/remembrances/00173.png
     data: ['<b>“死龙”弗尔桑克斯</b>', '<b>深根底层</b>', '90,000 卢恩, <b>死龙的追忆</b>', '<b>“死眠少女”菲雅</b>任务线的一部分。授予成就/奖杯:<b>“死龙”弗尔桑克斯</b>。']
     cords: [5656, 10740]
+  link: https://eldenring.wiki.fextralife.com/Deeproot+Depths

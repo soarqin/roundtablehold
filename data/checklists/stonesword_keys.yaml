@@ -605,6 +605,7 @@ sections:
     - 6793
     - 14474
     map_title: 石剑钥匙
+  link: https://eldenring.wiki.fextralife.com/Stonesword+Key
 - title: 小恶魔像的封印
   map_icon: /map/icons/shadows/imp.png
   items:
@@ -863,3 +864,4 @@ sections:
     - 3473
     - 11993
     map_title: 小恶魔像的封印 (1把钥匙)
+  link: https://eldenring.wiki.fextralife.com/Imp+Statue

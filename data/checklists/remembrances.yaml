@@ -268,6 +268,7 @@ sections:
     - id: '1_31_2'
       icon: '/img/icons/incantations/06863.png'
       data: ['祷告 - <b>贝勒的残虐</b>']
+  link: https://eldenring.wiki.fextralife.com/Remembrances
 - title: 灵庙
   map_icon: /map/icons/shadows/mausoleum.png
   items:
@@ -299,6 +300,7 @@ sections:
     data: ['<b>深根底层</b> - 靠近<b>赐福[无名永恒之城]</b>。残留物在上面。']
     cords: [5418, 10698]
     map_title: 漫步灵庙
+  link: https://eldenring.wiki.fextralife.com/Walking+Mausoleum
 - title: 石棺祭坛
   items:
   - id: '3_1'
@@ -307,3 +309,4 @@ sections:
     data: ['<b>[利亚指头遗迹]</b>西南的高处。']
   - id: '3_3'
     data: ['<b>[指岩山丘]</b>东边下方的悬崖边。']
+  link: https://eldenring.wiki.fextralife.com/Stone+Coffin+Fissure

@@ -4,6 +4,7 @@ description: "These Steps are a TL;DR Version and will not explain how to get an
 sections:
   -
     title: "Limgrave"
+    link: https://eldenring.wiki.fextralife.com/Limgrave
     items:
       - id: "1"
         data: ["Talk to Varré at the start of the game"]
@@ -81,6 +82,7 @@ sections:
         data: ["Limgrave is now safe to explore"]
   -
     title: "Weeping Peninsula"
+    link: https://eldenring.wiki.fextralife.com/Weeping+Peninsula
     items:
       - id: "36"
         data: ["Meet Irina near the Bridge of Sacrifice"]
@@ -94,6 +96,7 @@ sections:
         data: ["Return to Irina"]
   -
     title: "Roundtable Hold"
+    link: https://eldenring.wiki.fextralife.com/Roundtable+Hold
     items:
       - id: "41"
         data: ["Kill Margit at the entrance of Stormveil (Summoning Rogier) then talk to Melina at the Grace"]
@@ -103,6 +106,7 @@ sections:
         data: ["Kill Mad Tongue Alberich in the area below the Balcony (this can be done anytime)"]
   -
     title: "Stormveil"
+    link: https://eldenring.wiki.fextralife.com/Stormveil+Castle
     items:
       - id: "44"
         data: ["Talk to Gostoc near the Main Gate of Stormveil, refuse for dialogue then accept him"]
@@ -120,6 +124,7 @@ sections:
         data: ["Go to the bottom of the castle, kill the Lesser Ulcerated Tree Spirit and interract with the bloodstain"]
   -
     title: "Limgrave/Roundtable"
+    link: https://eldenring.wiki.fextralife.com/Limgrave
     items:
       - id: "10"
         data: ["Use Waygate near the Third Church of Marika and talk to Gurranq"]
@@ -137,6 +142,7 @@ sections:
         data: ["Go read the message at Varré's location at the start of the game"]
   -
     title: "Liurnia Lake"
+    link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
     items:
       - id: "55"
         data: ["Grab the Shabriri Grape under Stormveil Throne Room and give it to Hyetta at the Lake-Facing Cliffs Grace"]
@@ -196,6 +202,7 @@ sections:
         data: ["Defeat Black Knife Catacombs (including the hidden area, Summoning D) where Knifeprint Clue leads for Deathroot and Black Knifeprint"]
   -
     title: "Roundtable Hold"
+    link: https://eldenring.wiki.fextralife.com/Roundtable+Hold
     items:
       - id: "80"
         data: ["Go back to Roundtable Hold, kill Ensha then talk to Gideon and Nepheli until dialogue with both is exhausted"]
@@ -211,6 +218,7 @@ sections:
         data: ["Exhaust dialogue with Fia and Rogier, reload and talk to Rogier again"]
   -
     title: "Liurnia Lake/Roundtable"
+    link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
     items:
       - id: "90"
         data: ["Talk to Iji at the Road to the Manor Grace"]
@@ -226,6 +234,7 @@ sections:
         data: ["Return to Rogier, reload and talk again"]
   -
     title: "Caelid"
+    link: https://eldenring.wiki.fextralife.com/Caelid
     items:
       - id: "96"
         data: ["Talk to Alexander in cave on Limgrave's side of Gael Tunnel"]
@@ -247,6 +256,7 @@ sections:
         data: ["Reload and talk to Gowry"]
   -
     title: "Liurnia Lake/Roundtable"
+    link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
     items:
       - id: "85"
         data: ["Talk to Boc, Finger Reader and Melina at East Raya Lucaria Gate Grace"]
@@ -258,6 +268,7 @@ sections:
         data: ["Talk to Hyetta at Bellum Church, and reload then talk again"]
   -
     title: "Underground Siofra/Liurnia Lake/Castle Redmane"
+    link: https://eldenring.wiki.fextralife.com/Siofra+River
     items:
       - id: "104"
         data: ["Talk to Blaidd under Mistwood in Siofra River Well"]
@@ -277,6 +288,7 @@ sections:
         data: ["Talk to Jerren back in Castle Redmane"]
   -
     title: "Underground Crater/Liurnia Lake"
+    link: https://eldenring.wiki.fextralife.com/Raya+Lucaria+Academy
     items:
       - id: "112"
         data: ["Find the note at Mistwood Ruins"]
@@ -292,6 +304,7 @@ sections:
         data: ["Talk to D's Brother in the crater at the end of the path North of the forest and kill the Gargoyles for easy Grace teleport for later"]
   -
     title: "Mt. Gelmir"
+    link: https://eldenring.wiki.fextralife.com/Mt+Gelmir
     items:
       - id: "118"
         data: ["Kill Magma Wyrm Makar in Ruin-Strewn Precipice (Summoning Great Horned Tragoth)"]
@@ -315,6 +328,7 @@ sections:
         data: ["Complete Gelmir Hero's Grave for Deathroot"]
   -
     title: "Sellen/Volcano Manor Quests"
+    link: https://eldenring.wiki.fextralife.com/Sorceress+Sellen
     items:
       - id: "128"
         data: ["Kill Old Knight Istvan at Limgrave Coliseum"]
@@ -340,6 +354,7 @@ sections:
         data: ["Talk to Patches, reload and talk to Patches again."]
   -
     title: "Altus Plateau/Roundtable Hold"
+    link: https://eldenring.wiki.fextralife.com/Altus+Plateau
     items:
       - id: "139"
         data: ["Talk to Boc and Melina at Altus Highway Junction Grace"]
@@ -375,6 +390,7 @@ sections:
         data: ["Talk to Melina at Minor Erdtree Church Grace"]
   -
     title: "Leyndell Start/Dung Eater/Seluvis"
+    link: https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital
     items:
       - id: "155"
         data: ["Talk to Boc at East Capital Rampart Grace and when he asks for a larval tear, use Prattling Pate You're Beautiful on him."]
@@ -402,6 +418,7 @@ sections:
         data: ["You can now give Stormhawk Ashes to Nepheli in Roundtable Hold (might require talking to Roderika after upgrading Spirit Ashes)"]
   -
     title: "Liurnia Lake/Deeproot Depths"
+    link: https://eldenring.wiki.fextralife.com/Deeproot+Depths
     items:
       - id: "167"
         data: ["Give Fingerslayer Blade to Ranni"]
@@ -419,6 +436,7 @@ sections:
         data: ["Reload for Fia's stuff"]
   -
     title: "Liurnia Lake/Ainsel River Main"
+    link: https://eldenring.wiki.fextralife.com/Ainsel+River+Main
     items:
       - id: "174"
         data: ["Talk to Iji at his spot for dialogue"]
@@ -444,6 +462,7 @@ sections:
         data: ["Talk to Iji, reload and loot him"]
   -
     title: "Leyndell/Roundtable Hold"
+    link: https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital
     items:
       - id: "185"
         data: ["Talk to Tanith in Volcano Manor for reward and grab Third Request"]
@@ -475,6 +494,7 @@ sections:
         data: ["Go to the Grand Lift of Rold and talk to the Finger Reader"]
   -
     title: "Roundtable Hold/Nepheli/Dragonbarrow/Volcano Manor"
+    link: https://eldenring.wiki.fextralife.com/Roundtable+Hold
     items:
       - id: "199"
         data: ["Talk to Enia, Gideon and Hewg at the Roundtable"]
@@ -502,6 +522,7 @@ sections:
         data: ["Go past Temple of Eiglay and find Rya and talk to her (no potion if you have it already) then talk to Tanith"]
   -
     title: "Mountaintops of the Giants/Volcano Manor"
+    link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
     items:
       - id: "211"
         data: ["Talk to Melina at Zamor Ruins Grace"]
@@ -543,6 +564,7 @@ sections:
         data: ["Kill the Fire Giant (Summoning Alexander) DO NOT PROCEED TO THE FORGE YET"]
   -
     title: "Consecrated Snowfield/Gurranq/Gowry"
+    link: https://eldenring.wiki.fextralife.com/Consecrated+Snowfield
     items:
       - id: "229"
         data: ["Use the Haligtree Medallion at the Grand Lift of Rold"]
@@ -558,6 +580,7 @@ sections:
         data: ["Talk to Gowry and buy all his spells then talk again (may need reload)"]
   -
     title: "Mohgwyn's Palace/Miquella's Haligtree"
+    link: https://eldenring.wiki.fextralife.com/Mohgwyn+Palace
     items:
       - id: "235"
         data: ["Kill the 3 Invaders, Nameless White Masks spread throughout the Mohgwyn's Palace area"]
@@ -583,6 +606,7 @@ sections:
         data: ["Talk to Hewg after upgrading any weapon to max"]
   -
     title: "WARNING!!! THIS PARTICULAR STEP IS OPTIONAL BUT WILL BE REQUIRED TO FINISH ALL QUESTLINES COMPLETELY"
+    link: https://eldenring.wiki.fextralife.com/Side+Quests
     items:
       - id: "246"
         data: ["Go to the Cathedral of the Forsaken Grace in the Sewers and talk to Melina"]
@@ -598,6 +622,7 @@ sections:
         data: ["Talk to Melina"]
   -
     title: "Crumbling Farum Azula/Wrapping Up"
+    link: https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula
     items:
       - id: "252"
         data: ["Go to the Forge of Giants and rest at the Grace"]
@@ -619,6 +644,7 @@ sections:
         data: ["Kill Malekith the Black Blade at the end of Crumbling Farrum Azula"]
   -
     title: "Capital of Ash"
+    link: https://eldenring.wiki.fextralife.com/Leyndell,+Ashen+Capital
     items:
       - id: "261"
         data: ["Talk to Brother Corhyn, reload and grab his stuff"]

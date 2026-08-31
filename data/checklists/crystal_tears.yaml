@@ -26,6 +26,7 @@ sections:
     map_icon: /map/icons/shadows/keys/crystal_tears/00402.png
     data: ['<b>红结晶露滴</b> [1]', '在<b>[玛莉卡第三教堂]</b>', '恢复一半的总生命值']
     cords: [4648, 6718]
+  link: https://eldenring.wiki.fextralife.com/Limgrave
 - title: 啜泣半岛
   table: ['名称', '位置', '效果']
   items:
@@ -44,6 +45,7 @@ sections:
     map_icon: /map/icons/shadows/keys/crystal_tears/00408.png
     data: ['<b>珍珠泡状露滴</b>', '在<b>[啜泣半岛]</b>击败<b>[黄金树的化身]</b>的奖励', '几乎完全抵消你的下一个受击，持续180秒']
     cords: [3924, 8095]
+  link: https://eldenring.wiki.fextralife.com/Weeping+Peninsula
 - title: 湖之利耶尼亚
   table: ['名称', '位置', '效果']
   items:
@@ -82,6 +84,7 @@ sections:
     map_icon: /map/icons/shadows/keys/crystal_tears/00423.png
     data: ['<b>智力瘤结晶露滴</b>', '在<b>赐福[卡利亚城寨（正门）]</b>西南方向被爬行手指包围的石盆里，在陡峭的悬崖底部(要到达那里，从<b>[王室领地废墟]</b>的东边下来，然后向北走，或者从<b>[谷底]</b>向西走)', '+10点智力，持续180秒']
     cords: [1802, 3922]
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 盖利德
   table: ['名称', '位置', '效果']
   items:
@@ -110,6 +113,7 @@ sections:
     map_icon: /map/icons/shadows/keys/crystal_tears/00415.png
     data: ['<b>风结晶露滴</b>', '在南边的一个石盆里，由巨鸦在悬崖上守卫', '增加了滚动时的无敌帧，但降低10%物理防御，持续180秒']
     cords: [5501, 7093]
+  link: https://eldenring.wiki.fextralife.com/Caelid
 - title: 亚坛高原
   table: ['名称', '位置', '效果']
   items:
@@ -128,6 +132,7 @@ sections:
     map_icon: /map/icons/shadows/keys/crystal_tears/00400.png
     data: ['<b>漫红结晶露滴</b>', '击败<b>赐福[丰饶森林]</b>东北方向<b>[蚯蚓脸]</b>的奖励', '+10%最大生命值，持续180秒']
     cords: [3394, 2886]
+  link: https://eldenring.wiki.fextralife.com/Altus+Plateau
 - title: 格密尔火山
   table: ['名称', '位置', '效果']
   items:
@@ -141,6 +146,7 @@ sections:
     map_icon: /map/icons/shadows/keys/crystal_tears/00425.png
     data: ['<b>蓝秘密露滴</b>', '击败<b>[腐烂树灵]</b>的奖励，掉落在烧毁的黄金树周围', '消除FP消耗，持续15秒']
     cords: [2390, 2736]
+  link: https://eldenring.wiki.fextralife.com/Mt+Gelmir
 - title: 王城罗德尔
   table: ['名称', '位置', '效果']
   items:
@@ -159,6 +165,7 @@ sections:
     map_icon: /map/icons/shadows/keys/crystal_tears/00403.png
     data: ['<b>红结晶露滴</b> [2]', '发现于<b>[王城外围]</b>中<b>[小黄金树]</b>底部的一个石盆，由一个死兆兵守卫', '恢复一半的总生命值']
     cords: [4272, 2886]
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital
 - title: 巨人山顶
   table: ['名称', '位置', '效果']
   items:
@@ -177,6 +184,7 @@ sections:
     map_icon: /map/icons/shadows/keys/crystal_tears/00407.png
     data: ['<b>红泡状露滴</b>', '击败<b>[小黄金树]</b>东部附近的<b>[黄金树的化身]</b>奖励', '当你的生命值低于20%时恢复总生命值的25%(但不能掉到0%)，持续180秒']
     cords: [6243, 2123]
+  link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
 - title: 化圣雪原
   table: ['名称', '位置', '效果']
   items:
@@ -190,6 +198,7 @@ sections:
     map_icon: /map/icons/shadows/keys/crystal_tears/00417.png
     data: ['<b>爆裂结晶露滴</b> [2]', '击败<b>赐福[安身洞窟]</b>北部<b>[腐败化身]</b>的奖励', '在2米范围内造成800点伤害，但自己承受300点伤害; 如果同时装备两个，在4米范围内造成1750点伤害，但自己承受700点伤害']
     cords: [5670, 2046]
+  link: https://eldenring.wiki.fextralife.com/Consecrated+Snowfield
 - title: 幽影之地
   table: ['名称', '位置', '效果']
   items:
@@ -217,3 +226,4 @@ sections:
   - id: '20_8'
     icon: '/img/icons/keys/crystal_tears/05007.png'
     data: ['<b>反弹硬露滴</b>', '<b>[火吻废墟]</b>附近主路上的<b>[燃炉魔像]</b>掉落。', '能强化瞬间防御的能力，持续300秒']
+  link: https://eldenring.wiki.fextralife.com/Land+of+Shadow

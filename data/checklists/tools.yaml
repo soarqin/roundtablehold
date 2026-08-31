@@ -51,6 +51,7 @@ sections:
     cords:
     - 1849
     - 5341
+  link: https://eldenring.wiki.fextralife.com/Key+Items
 - title: 战斗
   table:
   - 名称
@@ -90,6 +91,7 @@ sections:
   - id: '2_14'
     icon: '/img/icons/tools/edited/00780.png'
     data: ['<b>提比亚的唤声</b>', '能消耗专注值，召唤因死迷途的人', '<b>[卡洛隐藏墓地]</b>：从有骷髅埋伏的墓地中获取。<br><b>[喟叹监牢]</b>：从可破坏的路径掉下去后，离开房间并上楼梯。走右边的路，你会发现一个小房间，里面有一具尸体，里面有这个物品。']
+  link: https://eldenring.wiki.fextralife.com/Consumables
 - title: 唤声泥颅
   table:
   - 名称
@@ -123,6 +125,7 @@ sections:
   - id: '3_11'
     icon: '/img/icons/tools/00100.png'
     data: ['<b>唤声泥颅“喟叹”</b>', '能发出“呜呜、呜呜、呜呜、呜呜”的喟叹声', '<b>[喟叹监牢]</b>：爬上长梯穿过连接的石桥，进入左边的房间，你会在尸体上找到这个关键物品。']
+  link: https://eldenring.wiki.fextralife.com/Mud+Skull
 - title: 多人联机游玩
   table:
   - 名称
@@ -175,3 +178,4 @@ sections:
   - id: '4_15'
     icon: /img/icons/tools/online/00626.png
     data: ['<b>大卢恩幻影</b>', '能对入侵世界里的敌人降下鲜血赐福。在周围发生出血状态时，提升攻击力。', '如果你装备<b>[蒙格的大卢恩]</b>后用<b>[卢恩弯弧]</b>入侵别人，你会自动获得3个，一旦入侵结束会自动消失']
+  link: https://eldenring.wiki.fextralife.com/Multiplayer+Coop+and+Online

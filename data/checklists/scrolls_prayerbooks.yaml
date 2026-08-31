@@ -31,6 +31,7 @@ sections:
     - 1969
     - 4997
     map_title: 教室卷轴
+  link: https://eldenring.wiki.fextralife.com/Sorceries
 - title: 祷告书
   items:
   - id: '1_1'
@@ -105,3 +106,4 @@ sections:
     - 8363
     - 4583
     map_title: 古龙祷告书
+  link: https://eldenring.wiki.fextralife.com/Incantations

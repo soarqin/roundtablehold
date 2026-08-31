@@ -4,6 +4,7 @@ table_widths: [4, 4, 4]
 sections:
   -
     title: "碎片君王"
+    link: https://eldenring.wiki.fextralife.com/Shardbearers
     table: ["名称", "条件", "说明"]
     items:
       - id: "1_1"
@@ -26,6 +27,7 @@ sections:
         data: ["“碎片君王”玛莲妮亚", "打败“碎片君王”玛莲妮亚", "可选，只需要击败两位碎片君王"]
   -
     title: "其他Boss"
+    link: https://eldenring.wiki.fextralife.com/Bosses
     table: ["名称", "条件", "说明"]
     items:
       - id: "2_1"
@@ -102,6 +104,7 @@ sections:
         data: ["“死龙”弗尔桑克斯", "打败“死龙”弗尔桑克斯", "菲雅任务线解锁，潜藏结局前置条件"]
   -
     title: "杂项"
+    link: https://eldenring.wiki.fextralife.com/Achievements
     table: ["名称", "条件", "说明"]
     items:
       - id: "3_1"
@@ -133,6 +136,7 @@ sections:
         data: ["艾尔登法环", "获得所有成就", "与PSN白金奖杯等价，在所有平台都存在的成就。"]
   -
     title: "结局"
+    link: https://eldenring.wiki.fextralife.com/Endings
     table: ["名称", "描述", "说明"]
     items:
       - id: "4_1"

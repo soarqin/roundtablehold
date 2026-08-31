@@ -213,6 +213,7 @@ sections:
   - id: '69'
     data: ["<b>[宁姆格福]</b>现在是可以100%安全地自由探索! 但要注意，如果你被一个箱子传送，只触碰离你最近的赐福。如果你在最近的赐福之外触碰任何一个赐福，你可能会破坏流程。此外，出于本指南的流程需要，不要使用<b>[野兽神殿]</b>传送门。虽然这个时间点上它是安全的，但可能会改变流程顺序。"]
     map_link: [4013, 7470]
+  link: https://eldenring.wiki.fextralife.com/Limgrave
 - title: 啜泣半岛
   items:
   - id: '70'
@@ -260,6 +261,7 @@ sections:
   - id: '84'
     data: ["<b>[啜泣半岛]</b>现在是100%安全的自由探索! 不需要任何警告!"]
     map_link: [4378, 7843]
+  link: https://eldenring.wiki.fextralife.com/Weeping+Peninsula
 - title: “恶兆妖鬼”玛尔基特/圆桌厅堂
   items:
   - id: '86'
@@ -292,6 +294,7 @@ sections:
   - id: '95'
     data: ["跳下阳台，等待<b>[“发狂之舌”阿尔佩利希]</b>在攻击前鞠躬，然后杀死他。"]
     map_link: [582,8307]
+  link: https://eldenring.wiki.fextralife.com/Margit,+the+Fell+Omen
 - title: 史东薇尔城
   items:
   - id: '96'
@@ -369,6 +372,7 @@ sections:
   - id: '120'
     data: ["越过较小的<b>[腐烂树灵]</b>捡到<b>[死王子的脓疮]</b>，旁边是<b>[魔法师罗杰尔]</b>的血迹。互动可以看到之前发生了什么。"]
     map_link: [3088,6708]
+  link: https://eldenring.wiki.fextralife.com/Stormveil+Castle
 - title: 宁姆格福/圆桌厅堂
   items:
   - id: '121'
@@ -401,6 +405,7 @@ sections:
   - id: '130'
     data: ["回到<b>[“白面具”梵雷]</b>在初始赐福的位置并阅读他的信息。"]
     map_link: [3701,7341]
+  link: https://eldenring.wiki.fextralife.com/Limgrave
 - title: 湖之利耶尼亚第一部分
   items:
   - id: '131'
@@ -562,6 +567,7 @@ sections:
   - id: '182'
     data: ["在赐福附近的门廊上，是<b>[小壶]</b>。和他对话到重复。"]
     map_link: [2970, 5277]
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 魔法学院雷亚卢卡利亚
   items:
   - id: '183'
@@ -603,6 +609,7 @@ sections:
   - id: '195'
     data: ["触碰<b>赐福[雷亚卢卡利亚大书库]</b>。"]
     map_link: [1840,4819]
+  link: https://eldenring.wiki.fextralife.com/Raya+Lucaria+Academy
 - title: 湖之利耶尼亚第二部分
   items:
   - id: '196'
@@ -626,6 +633,7 @@ sections:
   - id: '202'
     data: ["回到常规路径，在尽头杀死Boss<b>[墓地影子]</b>，获得第四个<b>[死根]</b>。"]
     map_link: [2867,4090]
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 圆桌厅堂
   items:
   - id: '203'
@@ -655,6 +663,7 @@ sections:
   - id: '210'
     data: ["刷新并再次与<b>[魔法师罗杰尔]</b>对话到重复。"]
     map_link: [584,8454]
+  link: https://eldenring.wiki.fextralife.com/Roundtable+Hold
 - title: 湖之利耶尼亚第三部分/圆桌厅堂
   items:
   - id: '211'
@@ -702,6 +711,7 @@ sections:
   - id: '225'
     data: ["回到<b>[魔法师罗杰尔]</b>处，刷新并再次对话"]
     map_link: [584,8454]
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 盖利德
   items:
   - id: '226'
@@ -773,6 +783,7 @@ sections:
   - id: '247'
     data: ["<b>[盖利德]</b>/<b>[桂奥尔龙墓]</b>现在可以100%安全地自由探索! 不需要任何警告!"]
     map_link: [5693,7378]
+  link: https://eldenring.wiki.fextralife.com/Caelid
 - title: 地下希芙拉河 / 湖之利耶尼亚 / 红狮子城
   items:
   - id: '248'
@@ -832,6 +843,7 @@ sections:
   - id: '266'
     data: ["回到<b>赐福[广场前房间]</b>，然后回到广场的教堂与<b>[城主杰廉]</b>交谈，并对话到重复。"]
     map_link: [6073, 7197]
+  link: https://eldenring.wiki.fextralife.com/Siofra+River
 - title: 湖之利耶尼亚 / 圆桌厅堂
   items:
   - id: '267'
@@ -888,6 +900,7 @@ sections:
   - id: '284'
     data: ["触碰<b>赐福[“熔岩土龙”马卡尔]</b>"]
     map_link: [2358,3594]
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 亚坛高原 / 格密尔火山
   items:
   - id: '285'
@@ -992,6 +1005,7 @@ sections:
   - id: '318'
     data: ["回到赐福休息，然后在外面的通道与<b>[帕奇]</b>对话到重复。"]
     map_link: [2229,2895]
+  link: https://eldenring.wiki.fextralife.com/Altus+Plateau
 - title: 魔法师瑟濂第一部分/火山官邸任务一部分
   items:
   - id: '319'
@@ -1045,6 +1059,7 @@ sections:
   - id: '336'
     data: ["返回到<b>赐福[罪人桥]</b>并穿过桥东，然后到南部使用龙卷风跳下悬崖。使用下一个龙卷风跳到西方的底部，然后前往北方在<b>[来自火山官邸的信]</b>标识的位置入侵杀死<b>[“黄昏将尽”莱利]</b>。"]
     map_link: [2874, 2982]
+  link: https://eldenring.wiki.fextralife.com/Sorceress+Sellen
 - title: 米莉森/圆桌厅堂
   items:
   - id: '337'
@@ -1080,6 +1095,7 @@ sections:
   - id: '348'
     data: ["回到<b>赐福[近黄金树的山丘]</b>，与附近的<b>[米莉森]</b>交谈，给她<b>[女武神的义手]</b>并对话到重复。"]
     map_link: [2666,3407]
+  link: https://eldenring.wiki.fextralife.com/Millicent
 - title: 亚坛高原第一部分
   items:
   - id: '349'
@@ -1106,6 +1122,7 @@ sections:
   - id: '356'
     data: ["杀死入侵者<b>[“纯紫血指”艾琉诺拉]</b>"]
     map_link: [2989, 3151]
+  link: https://eldenring.wiki.fextralife.com/Altus+Plateau
 - title: 地下 - 星星坠落之地
   items:
   - id: '357'
@@ -1153,6 +1170,7 @@ sections:
   - id: '371'
     data: ["触碰<b>赐福[大瀑布水潭]</b>。"]
     map_link: [6224,13874]
+  link: https://eldenring.wiki.fextralife.com/Nokron,+Eternal+City
 - title: 亚坛高原第二部分
   items:
   - id: '372'
@@ -1215,6 +1233,7 @@ sections:
   - id: '390'
     data: ["走到桥西南，触碰<b>赐福[王城城墙前方]</b>。"]
     map_link: [4443,3255]
+  link: https://eldenring.wiki.fextralife.com/Altus+Plateau
 - title: 火山官邸第二部分
   items:
   - id: '335'
@@ -1277,6 +1296,7 @@ sections:
   - id: '409'
     data: ["你现在可以继续沿着这条路打开<b>[帕奇]</b>前面的门来解锁这个区域的捷径"]
     map_link: [2202, 2873]
+  link: https://eldenring.wiki.fextralife.com/Volcano+Manor
 - title: 令人厌恶的食粪者
   items:
   - id: '410'
@@ -1321,6 +1341,7 @@ sections:
   - id: '421_1'
     data: ["与<b>[罗德莉卡]</b>对话到重复"]
     map_link: [584,8454]
+  link: https://eldenring.wiki.fextralife.com/Dung+Eater
 - title: 魔法师瑟濂 / 魔法教授赛尔维斯第二部分
   items:
   - id: '422'
@@ -1350,6 +1371,7 @@ sections:
   - id: '429'
     data: ["给他<b>[琥珀星光]</b>完成他的任务，并与他再次交谈，以获得奖励。(如果你再和他说话，他会给你一个药水给<b>[魔女菈妮]</b>，但我不建议这样做。如果你这样做了，你将需要在<b>[结缘教堂]</b>寻求赦免来继续<b>[魔女菈妮]</b>的任务)"]
     map_link: [1732,3803]
+  link: https://eldenring.wiki.fextralife.com/Sorceress+Sellen
 - title: 湖之利耶尼亚 / 圆桌厅堂
   items:
   - id: '430'
@@ -1385,6 +1407,7 @@ sections:
   - id: '438'
     data: ["与<b>[战士涅斐丽·露]</b>对话，给她暴风鹰之王并对话到重复。"]
     map_link: [584,8454]
+  link: https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes
 - title: 深根底层
   items:
   - id: '439'
@@ -1432,6 +1455,7 @@ sections:
   - id: '453'
     data: ["杀死<b>[“狩猎死亡”Ｄ]</b>或刷新然后拾取<b>[“狩猎死亡”Ｄ]</b>的装备。"]
     map_link: [5704,10698]
+  link: https://eldenring.wiki.fextralife.com/Deeproot+Depths
 - title: 湖之利耶尼亚/安瑟尔河主流
   items:
   - id: '454'
@@ -1470,6 +1494,7 @@ sections:
   - id: '464'
     data: ["设法穿过<b>[腐败湖]</b>(使用平台是最简单的，你也可以直接跑酷过去，只要你有回复手段)，并触碰<b>赐福[大回廊]</b>。"]
     map_link: [3160,12643]
+  link: https://eldenring.wiki.fextralife.com/Ainsel+River+Main
 - title: 魔法师瑟濂 / 魔女菈妮
   items:
   - id: '465'
@@ -1511,6 +1536,7 @@ sections:
   - id: '476'
     data: ["刷新并拾取<b>[铁匠伊吉]</b>的尸体。"]
     map_link: [1718,4037]
+  link: https://eldenring.wiki.fextralife.com/Ranni+the+Witch
 - title: 王城罗德尔
   items:
   - id: '478'
@@ -1579,6 +1605,7 @@ sections:
   - id: '499'
     data: ["和旁边的<b>[解指老妪]</b>对话到重复"]
     map_link: [5493,3042]
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Royal+Capital
 - title: 圆桌厅堂/战士涅斐丽·露/桂奥尔龙墓
   items:
   - id: '500'
@@ -1620,6 +1647,7 @@ sections:
   - id: '512'
     data: ["再次与大壶对话并获得奖励。"]
     map_link: [4985,5898]
+  link: https://eldenring.wiki.fextralife.com/Nepheli+Loux
 - title: 巨人山顶第1部分
   items:
   - id: '513'
@@ -1664,6 +1692,7 @@ sections:
   - id: '525'
     data: ["与<b>[金面具]</b>对话到重复。"]
     map_link: [6031, 2218]
+  link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
 - title: 火山官邸
   items:
   - id: '526'
@@ -1708,6 +1737,7 @@ sections:
   - id: '539'
     data: ["去<b>[宁姆格福]</b>中的<b>[蒙流洞窟]</b>，在<b>[帕奇]</b>的Boss房间(这是他现在的永久位置)再次遇见<b>[帕奇]</b>"]
     map_link: [4042,6975]
+  link: https://eldenring.wiki.fextralife.com/Volcano+Manor
 - title: 巨人山顶第2部分
   items:
   - id: '540'
@@ -1742,6 +1772,7 @@ sections:
     data: ["使用赐福东北方向的铁索进入Boss房间，召唤<b>[“战士壶”亚历山大]</b>并杀死<b>[火焰巨人]</b>"]
   - id: '556'
     data: ["触碰附近的<b>赐福[火焰巨人]</b>，但不要继续前往熔炉"]
+  link: https://eldenring.wiki.fextralife.com/Mountaintops+of+the+Giants
 - title: 弃置恶兆的地底和癫火封印
   items:
   - id: '557'
@@ -1776,6 +1807,7 @@ sections:
     data: ["与<b>[“探寻灯火”海妲]</b>对话到重复。"]
   - id: '572'
     data: ["在赐福休息和<b>[梅琳娜]</b>对话到重复。"]
+  link: https://eldenring.wiki.fextralife.com/Subterranean+Shunning-Grounds
 - title: 通往圣树的密道
   items:
   - id: '573'
@@ -1786,6 +1818,7 @@ sections:
     data: ["使用留言、血迹、彩虹石或战灰<b>[冻霜踏地]</b>来跟随看不见的道路，到达另一边，但我们想要走的正路是向西到门口的路径。在进入门口之前，看你的左边，看到下面的平台上有一具尸体。跳到平台上，穿过任何一个窗台，拉动北边大海怪后面的控制杆。向南方穿过小路找到Boss的房间。"]
   - id: '576'
     data: ["进入Boss房间并杀死Boss<b>[离群仿身泪滴]</b>，打开附近的箱子获取第九个也是最后一个<b>[死根]</b>。"]
+  link: https://eldenring.wiki.fextralife.com/Hidden+Path+to+the+Haligtree
 - title: “野兽祭司”古兰格 / 贤者格威 / “百智爵士”基甸·奥夫尼尔 / 化圣雪原
   items:
   - id: '577'
@@ -1814,6 +1847,7 @@ sections:
     data: ["向西进发，穿过河流，然后向西北方向触碰<b>赐福[离教废屋]</b>。"]
   - id: '589'
     data: ["在附近与地面上的召唤封印互动召唤<b>[白金之子勒缇娜]</b>与她对话到重复。"]
+  link: https://eldenring.wiki.fextralife.com/Gurranq,+Beast+Clergyman
 - title: 蒙格温王朝
   items:
   - id: '590'
@@ -1836,6 +1870,7 @@ sections:
     data: ["继续从赐福出发，使用电梯上去杀死Boss<b>[“鲜血君王”蒙格]</b>"]
   - id: '598'
     data: ["触碰<b>赐福[神人坠眠之茧]</b>"]
+  link: https://eldenring.wiki.fextralife.com/Mohgwyn+Palace
 - title: 米凯拉的圣树
   items:
   - id: '599'
@@ -1878,6 +1913,7 @@ sections:
     data: ["去<b>[“百智爵士”基甸·奥夫尼尔]</b>和他谈谈关于勋章，圣树，王朝，和鲜血君王的奖励。"]
   - id: '617'
     data: ["如果你还没有升级任何武器到最高级，请在升级后与<b>[铁匠修古]</b>对话"]
+  link: https://eldenring.wiki.fextralife.com/Miquella's+Haligtree
 - title: 逐渐崩毁的法姆·亚兹拉
   items:
   - id: '618'
@@ -1934,6 +1970,7 @@ sections:
     data: ["警告! ! !完成下一步将永久改变<b>[王城罗德尔]</b>。在完成这一步之前在<b>[王城罗德尔]</b>中进行所有的探索，否则你将被迫等待到NG+"]
   - id: '644'
     data: ["返回<b>赐福[大桥侧边]</b>，爬上斜坡杀死<b>[“黑剑”玛利喀斯]</b>"]
+  link: https://eldenring.wiki.fextralife.com/Crumbling+Farum+Azula
 - title: “灰烬王城”罗德尔
   items:
   - id: '645'
@@ -1950,3 +1987,4 @@ sections:
     data: ["触碰<b>赐福[艾尔登宝座]</b>，前进杀死Boss <b>[“黄金律法”拉达冈]</b>/<b>[艾尔登之兽]</b>。"]
   - id: '651'
     data: ["根据你的行为触发不同的结局，完成游戏。"]
+  link: https://eldenring.wiki.fextralife.com/Leyndell,+Ashen+Capital

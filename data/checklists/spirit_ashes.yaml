@@ -158,6 +158,7 @@ sections:
   - id: "20_8"
     icon: "/img/icons/spirit_ashes/00907.png"
     data: ['<a href="https://eldenring.wiki.fextralife.com/Messmer+Soldier+Ashes"><b>梅瑟莫士兵的骨灰</b></a>', '<b>[惩罚要塞]</b>：从与恶兆猎人战斗的主庭院，面向绞刑架向正北走，看到一个通向外面的跳落处，出去后在墓地附近找到。']
+  link: https://eldenring.wiki.fextralife.com/Spirit+Ashes
 - title: 精英
   table:
   - 名称
@@ -244,6 +245,7 @@ sections:
   - id: '12_2'
     icon: /img/icons/spirit_ashes/00117.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Mimic+Tear+Ashes"><b>仿身泪滴的骨灰</b></a>', '在<b>[黑夜神域]</b>中一个锁在小雕像门后的宝箱中发现。']
+  link: https://eldenring.wiki.fextralife.com/Spirit+Ashes
 - title: 傀儡
   table:
   - 名称
@@ -267,3 +269,4 @@ sections:
   - id: '14_2'
     icon: /img/icons/spirit_ashes/00478.png
     data: ['<a href="https://eldenring.wiki.fextralife.com/Nightmaiden+&+Swordstress+Puppets"><b>黑夜女巫与剑士的傀儡</b></a>', '一个锁在小恶魔雕像门后的宝箱里发现，由两个<b>[诺克斯剑士]</b>守护。']
+  link: https://eldenring.wiki.fextralife.com/Puppets
